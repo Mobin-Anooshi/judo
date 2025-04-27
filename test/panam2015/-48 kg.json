@@ -1,0 +1,274 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ARG",
+                    "name": "Paula PARETO"
+                },
+                {
+                    "winner": "Paula PARETO"
+                }
+            ],
+            [
+                {
+                    "country": "CAN",
+                    "name": "Erin MORGAN"
+                },
+                {
+                    "country": "DOM",
+                    "name": "Isandrina SANCHEZ"
+                },
+                {
+                    "winner": "Isandrina SANCHEZ"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "ARG",
+                    "name": "Paula PARETO"
+                },
+                {
+                    "country": "DOM",
+                    "name": "Isandrina SANCHEZ"
+                }
+            ],
+            [
+                {
+                    "country": "ARG",
+                    "name": "Paula PARETO"
+                }
+            ]
+        ]
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Nathalia BRIGIDA"
+                },
+                {
+                    "winner": "Nathalia BRIGIDA"
+                }
+            ],
+            [
+                {
+                    "country": "VEN",
+                    "name": "Andrea GOMEZ"
+                },
+                {
+                    "winner": "Andrea GOMEZ"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Nathalia BRIGIDA"
+                },
+                {
+                    "country": "VEN",
+                    "name": "Andrea GOMEZ"
+                }
+            ],
+            [
+                {
+                    "country": "BRA",
+                    "name": "Nathalia BRIGIDA"
+                }
+            ]
+        ]
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "MEX",
+                    "name": "Edna CARRILLO"
+                },
+                {
+                    "winner": "Edna CARRILLO"
+                }
+            ],
+            [
+                {
+                    "country": "CHI",
+                    "name": "Judith GONZALEZ"
+                },
+                {
+                    "winner": "Judith GONZALEZ"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "MEX",
+                    "name": "Edna CARRILLO"
+                },
+                {
+                    "country": "CHI",
+                    "name": "Judith GONZALEZ"
+                }
+            ],
+            [
+                {
+                    "country": "MEX",
+                    "name": "Edna CARRILLO"
+                }
+            ]
+        ]
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CUB",
+                    "name": "Dayaris MESTRE ALVAREZ"
+                },
+                {
+                    "winner": "Dayaris MESTRE ALVAREZ"
+                }
+            ],
+            [
+                {
+                    "country": "ECU",
+                    "name": "Diana COBOS"
+                },
+                {
+                    "country": "COL",
+                    "name": "Luz ALVAREZ"
+                },
+                {
+                    "winner": "Diana COBOS"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "CUB",
+                    "name": "Dayaris MESTRE ALVAREZ"
+                },
+                {
+                    "country": "ECU",
+                    "name": "Diana COBOS"
+                }
+            ],
+            [
+                {
+                    "country": "CUB",
+                    "name": "Dayaris MESTRE ALVAREZ"
+                }
+            ]
+        ]
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "DOM",
+                    "name": "Isandrina SANCHEZ"
+                },
+                {
+                    "country": "VEN",
+                    "name": "Andrea GOMEZ"
+                }
+            ],
+            [
+                {
+                    "country": "CHI",
+                    "name": "Judith GONZALEZ"
+                },
+                {
+                    "country": "ECU",
+                    "name": "Diana COBOS"
+                }
+            ],
+            [
+                {
+                    "country": "DOM",
+                    "name": "Isandrina SANCHEZ"
+                },
+                {
+                    "country": "MEX",
+                    "name": "Edna CARRILLO"
+                }
+            ],
+            [
+                {
+                    "country": "ECU",
+                    "name": "Diana COBOS"
+                },
+                {
+                    "country": "BRA",
+                    "name": "Nathalia BRIGIDA"
+                }
+            ],
+            [
+                {
+                    "country": "MEX",
+                    "name": "Edna CARRILLO"
+                }
+            ],
+            [
+                {
+                    "country": "BRA",
+                    "name": "Nathalia BRIGIDA"
+                }
+            ]
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ARG",
+                    "name": "Paula PARETO"
+                },
+                {
+                    "country": "BRA",
+                    "name": "Nathalia BRIGIDA"
+                },
+                {
+                    "winner": "Paula PARETO"
+                }
+            ],
+            [
+                {
+                    "country": "MEX",
+                    "name": "Edna CARRILLO"
+                },
+                {
+                    "country": "CUB",
+                    "name": "Dayaris MESTRE ALVAREZ"
+                },
+                {
+                    "winner": "Dayaris MESTRE ALVAREZ"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "ARG",
+                    "name": "Paula PARETO"
+                },
+                {
+                    "country": "CUB",
+                    "name": "Dayaris MESTRE ALVAREZ"
+                }
+            ],
+            [
+                {
+                    "country": "CUB",
+                    "name": "Dayaris MESTRE ALVAREZ"
+                }
+            ]
+        ]
+    }
+}

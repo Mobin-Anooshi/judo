@@ -1,0 +1,348 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ISR",
+                    "name": "Amir DANTE"
+                },
+                {
+                    "country": "ROU",
+                    "name": "Marius CONSTANTIN"
+                },
+                {
+                    "winner": "Amir DANTE"
+                }
+            ],
+            [
+                {
+                    "country": "ROU",
+                    "name": "Ionut IANICU"
+                },
+                {
+                    "winner": "Ionut IANICU"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "ISR",
+                    "name": "Amir DANTE"
+                },
+                {
+                    "country": "ROU",
+                    "name": "Ionut IANICU"
+                }
+            ],
+            [
+                {
+                    "country": "ISR",
+                    "name": "Amir DANTE"
+                }
+            ]
+        ]
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "BUL",
+                    "name": "Rumen RADEV"
+                },
+                {
+                    "country": "ROU",
+                    "name": "Cosmin ENE"
+                },
+                {
+                    "winner": "Rumen RADEV"
+                }
+            ],
+            [
+                {
+                    "country": "ROU",
+                    "name": "Marius COLT"
+                },
+                {
+                    "country": "MDA",
+                    "name": "Nicolae FOCA"
+                },
+                {
+                    "winner": "Nicolae FOCA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "BUL",
+                    "name": "Rumen RADEV"
+                },
+                {
+                    "country": "MDA",
+                    "name": "Nicolae FOCA"
+                }
+            ],
+            [
+                {
+                    "country": "MDA",
+                    "name": "Nicolae FOCA"
+                }
+            ]
+        ]
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CYP",
+                    "name": "Christos SKOUROUMOUNIS"
+                },
+                {
+                    "country": "ROU",
+                    "name": "Florin SELEA"
+                },
+                {
+                    "winner": "Florin SELEA"
+                }
+            ],
+            [
+                {
+                    "country": "BUL",
+                    "name": "Dimitar STOYANOV"
+                },
+                {
+                    "country": "ROU",
+                    "name": "Marian TANASE"
+                },
+                {
+                    "winner": "Marian TANASE"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "ROU",
+                    "name": "Florin SELEA"
+                },
+                {
+                    "country": "ROU",
+                    "name": "Marian TANASE"
+                }
+            ],
+            [
+                {
+                    "country": "ROU",
+                    "name": "Florin SELEA"
+                }
+            ]
+        ]
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ROU",
+                    "name": "Valentin TANASE"
+                },
+                {
+                    "country": "ROU",
+                    "name": "Bogdan GHEORGHE"
+                },
+                {
+                    "winner": "Valentin TANASE"
+                }
+            ],
+            [
+                {
+                    "country": "FIN",
+                    "name": "Henri TUURALA"
+                },
+                {
+                    "country": "ROU",
+                    "name": "Darius MUDURA"
+                },
+                {
+                    "winner": "Henri TUURALA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "ROU",
+                    "name": "Valentin TANASE"
+                },
+                {
+                    "country": "FIN",
+                    "name": "Henri TUURALA"
+                }
+            ],
+            [
+                {
+                    "country": "FIN",
+                    "name": "Henri TUURALA"
+                }
+            ]
+        ]
+    },
+    "REPECHAGE": {
+        "round 1-4": [
+            [
+                {
+                    "country": "ROU",
+                    "name": "Marius CONSTANTIN"
+                },
+                {
+                    "country": "ROU",
+                    "name": "Ionut IANICU"
+                },
+                {
+                    "winner": "Ionut IANICU"
+                }
+            ],
+            [
+                {
+                    "country": "ROU",
+                    "name": "Marius COLT"
+                },
+                {
+                    "country": "BUL",
+                    "name": "Rumen RADEV"
+                },
+                {
+                    "winner": "Rumen RADEV"
+                }
+            ],
+            [
+                {
+                    "country": "CYP",
+                    "name": "Christos SKOUROUMOUNIS"
+                },
+                {
+                    "country": "ROU",
+                    "name": "Marian TANASE"
+                },
+                {
+                    "winner": "Marian TANASE"
+                }
+            ],
+            [
+                {
+                    "country": "ROU",
+                    "name": "Darius MUDURA"
+                },
+                {
+                    "country": "ROU",
+                    "name": "Valentin TANASE"
+                },
+                {
+                    "winner": "Valentin TANASE"
+                }
+            ]
+        ],
+        "round 1-2": [
+            [
+                {
+                    "country": "ROU",
+                    "name": "Ionut IANICU"
+                },
+                {
+                    "country": "BUL",
+                    "name": "Rumen RADEV"
+                }
+            ],
+            [
+                {
+                    "country": "ROU",
+                    "name": "Marian TANASE"
+                },
+                {
+                    "country": "ROU",
+                    "name": "Valentin TANASE"
+                }
+            ],
+            [
+                {
+                    "country": "ROU",
+                    "name": "Ionut IANICU"
+                },
+                {
+                    "country": "FIN",
+                    "name": "Henri TUURALA"
+                }
+            ],
+            [
+                {
+                    "country": "ROU",
+                    "name": "Valentin TANASE"
+                },
+                {
+                    "country": "ISR",
+                    "name": "Amir DANTE"
+                }
+            ],
+            [
+                {
+                    "country": "ROU",
+                    "name": "Ionut IANICU"
+                }
+            ],
+            [
+                {
+                    "country": "ISR",
+                    "name": "Amir DANTE"
+                }
+            ]
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ISR",
+                    "name": "Amir DANTE"
+                },
+                {
+                    "country": "MDA",
+                    "name": "Nicolae FOCA"
+                },
+                {
+                    "winner": "Nicolae FOCA"
+                }
+            ],
+            [
+                {
+                    "country": "ROU",
+                    "name": "Florin SELEA"
+                },
+                {
+                    "country": "FIN",
+                    "name": "Henri TUURALA"
+                },
+                {
+                    "winner": "Florin SELEA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "MDA",
+                    "name": "Nicolae FOCA"
+                },
+                {
+                    "country": "ROU",
+                    "name": "Florin SELEA"
+                }
+            ],
+            [
+                {
+                    "country": "MDA",
+                    "name": "Nicolae FOCA"
+                }
+            ]
+        ]
+    }
+}

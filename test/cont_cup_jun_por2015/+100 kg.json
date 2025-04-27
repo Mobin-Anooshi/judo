@@ -1,0 +1,244 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "GBR",
+                    "name": "Valentino VOLANTE"
+                },
+                {
+                    "winner": "Valentino VOLANTE"
+                }
+            ],
+            []
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "GBR",
+                    "name": "Valentino VOLANTE"
+                }
+            ]
+        ]
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ESP",
+                    "name": "Jose miguel CASTILLO PEATO"
+                },
+                {
+                    "winner": "Jose miguel CASTILLO PEATO"
+                }
+            ],
+            [
+                {
+                    "country": "NED",
+                    "name": "Jur SPIJKERS"
+                },
+                {
+                    "winner": "Jur SPIJKERS"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "ESP",
+                    "name": "Jose miguel CASTILLO PEATO"
+                },
+                {
+                    "country": "NED",
+                    "name": "Jur SPIJKERS"
+                }
+            ],
+            [
+                {
+                    "country": "NED",
+                    "name": "Jur SPIJKERS"
+                }
+            ]
+        ]
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ESP",
+                    "name": "Hugo ANDERSEN HIDALGO"
+                },
+                {
+                    "winner": "Hugo ANDERSEN HIDALGO"
+                }
+            ],
+            []
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "ESP",
+                    "name": "Hugo ANDERSEN HIDALGO"
+                }
+            ]
+        ]
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CAN",
+                    "name": "Martin RYGIELSKI"
+                },
+                {
+                    "winner": "Martin RYGIELSKI"
+                }
+            ],
+            [
+                {
+                    "country": "POR",
+                    "name": "Vasco ROMPAO"
+                },
+                {
+                    "winner": "Vasco ROMPAO"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "CAN",
+                    "name": "Martin RYGIELSKI"
+                },
+                {
+                    "country": "POR",
+                    "name": "Vasco ROMPAO"
+                }
+            ],
+            [
+                {
+                    "country": "CAN",
+                    "name": "Martin RYGIELSKI"
+                }
+            ]
+        ]
+    },
+    "REPECHAGE": {
+        "round 1-4": [
+            [],
+            [
+                {
+                    "country": "ESP",
+                    "name": "Jose miguel CASTILLO PEATO"
+                },
+                {
+                    "winner": "Jose miguel CASTILLO PEATO"
+                }
+            ],
+            [],
+            [
+                {
+                    "country": "POR",
+                    "name": "Vasco ROMPAO"
+                },
+                {
+                    "winner": "Vasco ROMPAO"
+                }
+            ]
+        ],
+        "round 1-2": [
+            [
+                {
+                    "country": "ESP",
+                    "name": "Jose miguel CASTILLO PEATO"
+                }
+            ],
+            [
+                {
+                    "country": "POR",
+                    "name": "Vasco ROMPAO"
+                }
+            ],
+            [
+                {
+                    "country": "ESP",
+                    "name": "Jose miguel CASTILLO PEATO"
+                },
+                {
+                    "country": "ESP",
+                    "name": "Hugo ANDERSEN HIDALGO"
+                }
+            ],
+            [
+                {
+                    "country": "POR",
+                    "name": "Vasco ROMPAO"
+                },
+                {
+                    "country": "GBR",
+                    "name": "Valentino VOLANTE"
+                }
+            ],
+            [
+                {
+                    "country": "ESP",
+                    "name": "Hugo ANDERSEN HIDALGO"
+                }
+            ],
+            [
+                {
+                    "country": "GBR",
+                    "name": "Valentino VOLANTE"
+                }
+            ]
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "GBR",
+                    "name": "Valentino VOLANTE"
+                },
+                {
+                    "country": "NED",
+                    "name": "Jur SPIJKERS"
+                },
+                {
+                    "winner": "Jur SPIJKERS"
+                }
+            ],
+            [
+                {
+                    "country": "ESP",
+                    "name": "Hugo ANDERSEN HIDALGO"
+                },
+                {
+                    "country": "CAN",
+                    "name": "Martin RYGIELSKI"
+                },
+                {
+                    "winner": "Martin RYGIELSKI"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "NED",
+                    "name": "Jur SPIJKERS"
+                },
+                {
+                    "country": "CAN",
+                    "name": "Martin RYGIELSKI"
+                }
+            ],
+            [
+                {
+                    "country": "NED",
+                    "name": "Jur SPIJKERS"
+                }
+            ]
+        ]
+    }
+}

@@ -1,0 +1,222 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "AUS",
+                    "name": "Sam KING"
+                },
+                {
+                    "winner": "Sam KING"
+                }
+            ],
+            [
+                {
+                    "country": "NCL",
+                    "name": "Marco ATUVAHA"
+                },
+                {
+                    "winner": "Marco ATUVAHA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "AUS",
+                    "name": "Sam KING"
+                },
+                {
+                    "country": "NCL",
+                    "name": "Marco ATUVAHA"
+                }
+            ],
+            [
+                {
+                    "country": "AUS",
+                    "name": "Sam KING"
+                }
+            ]
+        ]
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "NZL",
+                    "name": "Logan VAN GILS"
+                },
+                {
+                    "winner": "Logan VAN GILS"
+                }
+            ],
+            []
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "NZL",
+                    "name": "Logan VAN GILS"
+                }
+            ]
+        ]
+    },
+    "POOL C": {
+        "round 1-2": [
+            [],
+            [
+                {
+                    "country": "NZL",
+                    "name": "Finn SWEETMAN"
+                },
+                {
+                    "winner": "Finn SWEETMAN"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "NZL",
+                    "name": "Finn SWEETMAN"
+                }
+            ]
+        ]
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "PYF",
+                    "name": "Hugo LARRAT"
+                },
+                {
+                    "winner": "Hugo LARRAT"
+                }
+            ],
+            [
+                {
+                    "country": "NCL",
+                    "name": "Vincent BURANI"
+                },
+                {
+                    "winner": "Vincent BURANI"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "PYF",
+                    "name": "Hugo LARRAT"
+                },
+                {
+                    "country": "NCL",
+                    "name": "Vincent BURANI"
+                }
+            ],
+            [
+                {
+                    "country": "NCL",
+                    "name": "Vincent BURANI"
+                }
+            ]
+        ]
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "NCL",
+                    "name": "Marco ATUVAHA"
+                }
+            ],
+            [
+                {
+                    "country": "PYF",
+                    "name": "Hugo LARRAT"
+                }
+            ],
+            [
+                {
+                    "country": "NCL",
+                    "name": "Marco ATUVAHA"
+                },
+                {
+                    "country": "NCL",
+                    "name": "Vincent BURANI"
+                }
+            ],
+            [
+                {
+                    "country": "PYF",
+                    "name": "Hugo LARRAT"
+                },
+                {
+                    "country": "NZL",
+                    "name": "Logan VAN GILS"
+                }
+            ],
+            [
+                {
+                    "country": "NCL",
+                    "name": "Vincent BURANI"
+                }
+            ],
+            [
+                {
+                    "country": "NZL",
+                    "name": "Logan VAN GILS"
+                }
+            ]
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "AUS",
+                    "name": "Sam KING"
+                },
+                {
+                    "country": "NZL",
+                    "name": "Logan VAN GILS"
+                },
+                {
+                    "winner": "Sam KING"
+                }
+            ],
+            [
+                {
+                    "country": "NZL",
+                    "name": "Finn SWEETMAN"
+                },
+                {
+                    "country": "NCL",
+                    "name": "Vincent BURANI"
+                },
+                {
+                    "winner": "Finn SWEETMAN"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "AUS",
+                    "name": "Sam KING"
+                },
+                {
+                    "country": "NZL",
+                    "name": "Finn SWEETMAN"
+                }
+            ],
+            [
+                {
+                    "country": "AUS",
+                    "name": "Sam KING"
+                }
+            ]
+        ]
+    }
+}

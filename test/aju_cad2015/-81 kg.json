@@ -1,0 +1,232 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [],
+            [
+                {
+                    "country": "EGY",
+                    "name": "Islam ELBADAWY"
+                },
+                {
+                    "winner": "Islam ELBADAWY"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "EGY",
+                    "name": "Islam ELBADAWY"
+                }
+            ]
+        ]
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "TUN",
+                    "name": "Jobrane ANENE"
+                },
+                {
+                    "winner": "Jobrane ANENE"
+                }
+            ],
+            [
+                {
+                    "country": "MAR",
+                    "name": "Mohamed BENAMOURI"
+                },
+                {
+                    "winner": "Mohamed BENAMOURI"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "TUN",
+                    "name": "Jobrane ANENE"
+                },
+                {
+                    "country": "MAR",
+                    "name": "Mohamed BENAMOURI"
+                }
+            ],
+            [
+                {
+                    "country": "MAR",
+                    "name": "Mohamed BENAMOURI"
+                }
+            ]
+        ]
+    },
+    "POOL C": {
+        "round 1-2": [
+            [],
+            [
+                {
+                    "country": "RSA",
+                    "name": "Dawid VAN HEERDEN"
+                },
+                {
+                    "winner": "Dawid VAN HEERDEN"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "RSA",
+                    "name": "Dawid VAN HEERDEN"
+                }
+            ]
+        ]
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ALG",
+                    "name": "Oussama Ramdane TEMRI"
+                },
+                {
+                    "winner": "Oussama Ramdane TEMRI"
+                }
+            ],
+            [
+                {
+                    "country": "EGY",
+                    "name": "Mohamed HALBY"
+                },
+                {
+                    "winner": "Mohamed HALBY"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "ALG",
+                    "name": "Oussama Ramdane TEMRI"
+                },
+                {
+                    "country": "EGY",
+                    "name": "Mohamed HALBY"
+                }
+            ],
+            [
+                {
+                    "country": "ALG",
+                    "name": "Oussama Ramdane TEMRI"
+                }
+            ]
+        ]
+    },
+    "REPECHAGE": {
+        "round 1-4": [
+            [],
+            [
+                {
+                    "country": "TUN",
+                    "name": "Jobrane ANENE"
+                },
+                {
+                    "winner": "Jobrane ANENE"
+                }
+            ],
+            [],
+            [
+                {
+                    "country": "EGY",
+                    "name": "Mohamed HALBY"
+                },
+                {
+                    "winner": "Mohamed HALBY"
+                }
+            ]
+        ],
+        "round 1-2": [
+            [
+                {
+                    "country": "TUN",
+                    "name": "Jobrane ANENE"
+                }
+            ],
+            [
+                {
+                    "country": "EGY",
+                    "name": "Mohamed HALBY"
+                }
+            ],
+            [
+                {
+                    "country": "TUN",
+                    "name": "Jobrane ANENE"
+                },
+                {
+                    "country": "RSA",
+                    "name": "Dawid VAN HEERDEN"
+                }
+            ],
+            [
+                {
+                    "country": "EGY",
+                    "name": "Mohamed HALBY"
+                },
+                {
+                    "country": "MAR",
+                    "name": "Mohamed BENAMOURI"
+                }
+            ]
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "EGY",
+                    "name": "Islam ELBADAWY"
+                },
+                {
+                    "country": "MAR",
+                    "name": "Mohamed BENAMOURI"
+                },
+                {
+                    "winner": "Islam ELBADAWY"
+                }
+            ],
+            [
+                {
+                    "country": "RSA",
+                    "name": "Dawid VAN HEERDEN"
+                },
+                {
+                    "country": "ALG",
+                    "name": "Oussama Ramdane TEMRI"
+                },
+                {
+                    "winner": "Oussama Ramdane TEMRI"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "EGY",
+                    "name": "Islam ELBADAWY"
+                },
+                {
+                    "country": "ALG",
+                    "name": "Oussama Ramdane TEMRI"
+                }
+            ],
+            [
+                {
+                    "country": "ALG",
+                    "name": "Oussama Ramdane TEMRI"
+                }
+            ]
+        ]
+    }
+}

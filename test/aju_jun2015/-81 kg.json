@@ -1,0 +1,274 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "EGY",
+                    "name": "Ahmed FAYAD"
+                },
+                {
+                    "winner": "Ahmed FAYAD"
+                }
+            ],
+            [
+                {
+                    "country": "SEN",
+                    "name": "Saliou NDIAYE"
+                },
+                {
+                    "winner": "Saliou NDIAYE"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "EGY",
+                    "name": "Ahmed FAYAD"
+                },
+                {
+                    "country": "SEN",
+                    "name": "Saliou NDIAYE"
+                }
+            ],
+            [
+                {
+                    "country": "SEN",
+                    "name": "Saliou NDIAYE"
+                }
+            ]
+        ]
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ALG",
+                    "name": "Sid Ali MOHAMMEDI"
+                },
+                {
+                    "winner": "Sid Ali MOHAMMEDI"
+                }
+            ],
+            [
+                {
+                    "country": "LBA",
+                    "name": "Osama ELHAZL"
+                },
+                {
+                    "winner": "Osama ELHAZL"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "ALG",
+                    "name": "Sid Ali MOHAMMEDI"
+                },
+                {
+                    "country": "LBA",
+                    "name": "Osama ELHAZL"
+                }
+            ],
+            [
+                {
+                    "country": "ALG",
+                    "name": "Sid Ali MOHAMMEDI"
+                }
+            ]
+        ]
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "GAB",
+                    "name": "Jean yves OKOWA"
+                },
+                {
+                    "winner": "Jean yves OKOWA"
+                }
+            ],
+            [
+                {
+                    "country": "MAR",
+                    "name": "Achraf MOUTII"
+                },
+                {
+                    "winner": "Achraf MOUTII"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "GAB",
+                    "name": "Jean yves OKOWA"
+                },
+                {
+                    "country": "MAR",
+                    "name": "Achraf MOUTII"
+                }
+            ],
+            [
+                {
+                    "country": "MAR",
+                    "name": "Achraf MOUTII"
+                }
+            ]
+        ]
+    },
+    "POOL D": {
+        "round 1-2": [
+            [],
+            [
+                {
+                    "country": "EGY",
+                    "name": "Mohamed SAFWAT"
+                },
+                {
+                    "winner": "Mohamed SAFWAT"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "EGY",
+                    "name": "Mohamed SAFWAT"
+                }
+            ]
+        ]
+    },
+    "REPECHAGE": {
+        "round 1-4": [
+            [
+                {
+                    "country": "EGY",
+                    "name": "Ahmed FAYAD"
+                },
+                {
+                    "winner": "Ahmed FAYAD"
+                }
+            ],
+            [
+                {
+                    "country": "LBA",
+                    "name": "Osama ELHAZL"
+                },
+                {
+                    "winner": "Osama ELHAZL"
+                }
+            ],
+            [
+                {
+                    "country": "GAB",
+                    "name": "Jean yves OKOWA"
+                },
+                {
+                    "winner": "Jean yves OKOWA"
+                }
+            ],
+            []
+        ],
+        "round 1-2": [
+            [
+                {
+                    "country": "EGY",
+                    "name": "Ahmed FAYAD"
+                },
+                {
+                    "country": "LBA",
+                    "name": "Osama ELHAZL"
+                }
+            ],
+            [
+                {
+                    "country": "GAB",
+                    "name": "Jean yves OKOWA"
+                }
+            ],
+            [
+                {
+                    "country": "EGY",
+                    "name": "Ahmed FAYAD"
+                },
+                {
+                    "country": "EGY",
+                    "name": "Mohamed SAFWAT"
+                }
+            ],
+            [
+                {
+                    "country": "GAB",
+                    "name": "Jean yves OKOWA"
+                },
+                {
+                    "country": "SEN",
+                    "name": "Saliou NDIAYE"
+                }
+            ],
+            [
+                {
+                    "country": "EGY",
+                    "name": "Mohamed SAFWAT"
+                }
+            ],
+            [
+                {
+                    "country": "SEN",
+                    "name": "Saliou NDIAYE"
+                }
+            ]
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "SEN",
+                    "name": "Saliou NDIAYE"
+                },
+                {
+                    "country": "ALG",
+                    "name": "Sid Ali MOHAMMEDI"
+                },
+                {
+                    "winner": "Sid Ali MOHAMMEDI"
+                }
+            ],
+            [
+                {
+                    "country": "MAR",
+                    "name": "Achraf MOUTII"
+                },
+                {
+                    "country": "EGY",
+                    "name": "Mohamed SAFWAT"
+                },
+                {
+                    "winner": "Achraf MOUTII"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "ALG",
+                    "name": "Sid Ali MOHAMMEDI"
+                },
+                {
+                    "country": "MAR",
+                    "name": "Achraf MOUTII"
+                }
+            ],
+            [
+                {
+                    "country": "MAR",
+                    "name": "Achraf MOUTII"
+                }
+            ]
+        ]
+    }
+}

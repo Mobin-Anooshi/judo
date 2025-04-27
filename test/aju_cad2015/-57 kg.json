@@ -1,0 +1,232 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [],
+            [
+                {
+                    "country": "RSA",
+                    "name": "Charne GRIESEL"
+                },
+                {
+                    "winner": "Charne GRIESEL"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "RSA",
+                    "name": "Charne GRIESEL"
+                }
+            ]
+        ]
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "SEN",
+                    "name": "Ndeye Marie NDAO"
+                },
+                {
+                    "winner": "Ndeye Marie NDAO"
+                }
+            ],
+            [
+                {
+                    "country": "EGY",
+                    "name": "Mona ABDALLAH"
+                },
+                {
+                    "winner": "Mona ABDALLAH"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "SEN",
+                    "name": "Ndeye Marie NDAO"
+                },
+                {
+                    "country": "EGY",
+                    "name": "Mona ABDALLAH"
+                }
+            ],
+            [
+                {
+                    "country": "SEN",
+                    "name": "Ndeye Marie NDAO"
+                }
+            ]
+        ]
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "GAB",
+                    "name": "Plevia ESSENG AYABOUMA"
+                },
+                {
+                    "winner": "Plevia ESSENG AYABOUMA"
+                }
+            ],
+            [
+                {
+                    "country": "TUN",
+                    "name": "Yousr SGHAIER"
+                },
+                {
+                    "winner": "Yousr SGHAIER"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "GAB",
+                    "name": "Plevia ESSENG AYABOUMA"
+                },
+                {
+                    "country": "TUN",
+                    "name": "Yousr SGHAIER"
+                }
+            ],
+            [
+                {
+                    "country": "GAB",
+                    "name": "Plevia ESSENG AYABOUMA"
+                }
+            ]
+        ]
+    },
+    "POOL D": {
+        "round 1-2": [
+            [],
+            [
+                {
+                    "country": "ALG",
+                    "name": "Nawel REZZIK"
+                },
+                {
+                    "winner": "Nawel REZZIK"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "ALG",
+                    "name": "Nawel REZZIK"
+                }
+            ]
+        ]
+    },
+    "REPECHAGE": {
+        "round 1-4": [
+            [],
+            [
+                {
+                    "country": "EGY",
+                    "name": "Mona ABDALLAH"
+                },
+                {
+                    "winner": "Mona ABDALLAH"
+                }
+            ],
+            [
+                {
+                    "country": "TUN",
+                    "name": "Yousr SGHAIER"
+                },
+                {
+                    "winner": "Yousr SGHAIER"
+                }
+            ],
+            []
+        ],
+        "round 1-2": [
+            [
+                {
+                    "country": "EGY",
+                    "name": "Mona ABDALLAH"
+                }
+            ],
+            [
+                {
+                    "country": "TUN",
+                    "name": "Yousr SGHAIER"
+                }
+            ],
+            [
+                {
+                    "country": "EGY",
+                    "name": "Mona ABDALLAH"
+                },
+                {
+                    "country": "GAB",
+                    "name": "Plevia ESSENG AYABOUMA"
+                }
+            ],
+            [
+                {
+                    "country": "TUN",
+                    "name": "Yousr SGHAIER"
+                },
+                {
+                    "country": "RSA",
+                    "name": "Charne GRIESEL"
+                }
+            ]
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "RSA",
+                    "name": "Charne GRIESEL"
+                },
+                {
+                    "country": "SEN",
+                    "name": "Ndeye Marie NDAO"
+                },
+                {
+                    "winner": "Ndeye Marie NDAO"
+                }
+            ],
+            [
+                {
+                    "country": "GAB",
+                    "name": "Plevia ESSENG AYABOUMA"
+                },
+                {
+                    "country": "ALG",
+                    "name": "Nawel REZZIK"
+                },
+                {
+                    "winner": "Nawel REZZIK"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "SEN",
+                    "name": "Ndeye Marie NDAO"
+                },
+                {
+                    "country": "ALG",
+                    "name": "Nawel REZZIK"
+                }
+            ],
+            [
+                {
+                    "country": "ALG",
+                    "name": "Nawel REZZIK"
+                }
+            ]
+        ]
+    }
+}

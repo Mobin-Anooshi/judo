@@ -1,0 +1,232 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "GER",
+                    "name": "Barbara BANDEL"
+                },
+                {
+                    "winner": "Barbara BANDEL"
+                }
+            ],
+            [
+                {
+                    "country": "AUS",
+                    "name": "Miranda GIAMBELLI"
+                },
+                {
+                    "winner": "Miranda GIAMBELLI"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "GER",
+                    "name": "Barbara BANDEL"
+                },
+                {
+                    "country": "AUS",
+                    "name": "Miranda GIAMBELLI"
+                }
+            ],
+            [
+                {
+                    "country": "GER",
+                    "name": "Barbara BANDEL"
+                }
+            ]
+        ]
+    },
+    "POOL B": {
+        "round 1-2": [
+            [],
+            [
+                {
+                    "country": "LIE",
+                    "name": "Anja KAISER"
+                },
+                {
+                    "winner": "Anja KAISER"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "LIE",
+                    "name": "Anja KAISER"
+                }
+            ]
+        ]
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ITA",
+                    "name": "Linda POLITI"
+                },
+                {
+                    "winner": "Linda POLITI"
+                }
+            ],
+            [
+                {
+                    "country": "JPN",
+                    "name": "Ayaka NAKAMURA"
+                },
+                {
+                    "winner": "Ayaka NAKAMURA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "ITA",
+                    "name": "Linda POLITI"
+                },
+                {
+                    "country": "JPN",
+                    "name": "Ayaka NAKAMURA"
+                }
+            ],
+            [
+                {
+                    "country": "ITA",
+                    "name": "Linda POLITI"
+                }
+            ]
+        ]
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "AUT",
+                    "name": "Sarah MAIRHOFER"
+                },
+                {
+                    "winner": "Sarah MAIRHOFER"
+                }
+            ],
+            []
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "AUT",
+                    "name": "Sarah MAIRHOFER"
+                }
+            ]
+        ]
+    },
+    "REPECHAGE": {
+        "round 1-4": [
+            [
+                {
+                    "country": "AUS",
+                    "name": "Miranda GIAMBELLI"
+                },
+                {
+                    "winner": "Miranda GIAMBELLI"
+                }
+            ],
+            [],
+            [
+                {
+                    "country": "JPN",
+                    "name": "Ayaka NAKAMURA"
+                },
+                {
+                    "winner": "Ayaka NAKAMURA"
+                }
+            ],
+            []
+        ],
+        "round 1-2": [
+            [
+                {
+                    "country": "AUS",
+                    "name": "Miranda GIAMBELLI"
+                }
+            ],
+            [
+                {
+                    "country": "JPN",
+                    "name": "Ayaka NAKAMURA"
+                }
+            ],
+            [
+                {
+                    "country": "AUS",
+                    "name": "Miranda GIAMBELLI"
+                },
+                {
+                    "country": "ITA",
+                    "name": "Linda POLITI"
+                }
+            ],
+            [
+                {
+                    "country": "JPN",
+                    "name": "Ayaka NAKAMURA"
+                },
+                {
+                    "country": "LIE",
+                    "name": "Anja KAISER"
+                }
+            ]
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "GER",
+                    "name": "Barbara BANDEL"
+                },
+                {
+                    "country": "LIE",
+                    "name": "Anja KAISER"
+                },
+                {
+                    "winner": "Barbara BANDEL"
+                }
+            ],
+            [
+                {
+                    "country": "ITA",
+                    "name": "Linda POLITI"
+                },
+                {
+                    "country": "AUT",
+                    "name": "Sarah MAIRHOFER"
+                },
+                {
+                    "winner": "Sarah MAIRHOFER"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "GER",
+                    "name": "Barbara BANDEL"
+                },
+                {
+                    "country": "AUT",
+                    "name": "Sarah MAIRHOFER"
+                }
+            ],
+            [
+                {
+                    "country": "GER",
+                    "name": "Barbara BANDEL"
+                }
+            ]
+        ]
+    }
+}

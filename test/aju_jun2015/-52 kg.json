@@ -1,0 +1,238 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ALG",
+                    "name": "Sadjia AMRANE"
+                },
+                {
+                    "winner": "Sadjia AMRANE"
+                }
+            ],
+            []
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "ALG",
+                    "name": "Sadjia AMRANE"
+                }
+            ]
+        ]
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "RSA",
+                    "name": "Siobhan ESTERHUYSEN"
+                },
+                {
+                    "winner": "Siobhan ESTERHUYSEN"
+                }
+            ],
+            [
+                {
+                    "country": "EGY",
+                    "name": "Nada ZAKARIA"
+                },
+                {
+                    "winner": "Nada ZAKARIA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "RSA",
+                    "name": "Siobhan ESTERHUYSEN"
+                },
+                {
+                    "country": "EGY",
+                    "name": "Nada ZAKARIA"
+                }
+            ],
+            [
+                {
+                    "country": "EGY",
+                    "name": "Nada ZAKARIA"
+                }
+            ]
+        ]
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CIV",
+                    "name": "Salimata FOFANA"
+                },
+                {
+                    "winner": "Salimata FOFANA"
+                }
+            ],
+            []
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "CIV",
+                    "name": "Salimata FOFANA"
+                }
+            ]
+        ]
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "MAR",
+                    "name": "Ikram SOUKATE"
+                },
+                {
+                    "winner": "Ikram SOUKATE"
+                }
+            ],
+            [
+                {
+                    "country": "ALG",
+                    "name": "Nesrine HADEL"
+                },
+                {
+                    "winner": "Nesrine HADEL"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "MAR",
+                    "name": "Ikram SOUKATE"
+                },
+                {
+                    "country": "ALG",
+                    "name": "Nesrine HADEL"
+                }
+            ],
+            [
+                {
+                    "country": "MAR",
+                    "name": "Ikram SOUKATE"
+                }
+            ]
+        ]
+    },
+    "REPECHAGE": {
+        "round 1-4": [
+            [],
+            [
+                {
+                    "country": "RSA",
+                    "name": "Siobhan ESTERHUYSEN"
+                },
+                {
+                    "winner": "Siobhan ESTERHUYSEN"
+                }
+            ],
+            [],
+            [
+                {
+                    "country": "ALG",
+                    "name": "Nesrine HADEL"
+                },
+                {
+                    "winner": "Nesrine HADEL"
+                }
+            ]
+        ],
+        "round 1-2": [
+            [
+                {
+                    "country": "RSA",
+                    "name": "Siobhan ESTERHUYSEN"
+                }
+            ],
+            [
+                {
+                    "country": "ALG",
+                    "name": "Nesrine HADEL"
+                }
+            ],
+            [
+                {
+                    "country": "RSA",
+                    "name": "Siobhan ESTERHUYSEN"
+                },
+                {
+                    "country": "CIV",
+                    "name": "Salimata FOFANA"
+                }
+            ],
+            [
+                {
+                    "country": "ALG",
+                    "name": "Nesrine HADEL"
+                },
+                {
+                    "country": "EGY",
+                    "name": "Nada ZAKARIA"
+                }
+            ],
+            [
+                {
+                    "country": "CIV",
+                    "name": "Salimata FOFANA"
+                }
+            ]
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ALG",
+                    "name": "Sadjia AMRANE"
+                },
+                {
+                    "country": "EGY",
+                    "name": "Nada ZAKARIA"
+                },
+                {
+                    "winner": "Sadjia AMRANE"
+                }
+            ],
+            [
+                {
+                    "country": "CIV",
+                    "name": "Salimata FOFANA"
+                },
+                {
+                    "country": "MAR",
+                    "name": "Ikram SOUKATE"
+                },
+                {
+                    "winner": "Ikram SOUKATE"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "ALG",
+                    "name": "Sadjia AMRANE"
+                },
+                {
+                    "country": "MAR",
+                    "name": "Ikram SOUKATE"
+                }
+            ],
+            [
+                {
+                    "country": "ALG",
+                    "name": "Sadjia AMRANE"
+                }
+            ]
+        ]
+    }
+}

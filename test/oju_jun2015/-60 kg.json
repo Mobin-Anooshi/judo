@@ -1,0 +1,210 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "AUS",
+                    "name": "Joshua KATZ"
+                },
+                {
+                    "winner": "Joshua KATZ"
+                }
+            ],
+            [
+                {
+                    "country": "NCL",
+                    "name": "Pierrick IDMONT"
+                },
+                {
+                    "winner": "Pierrick IDMONT"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "AUS",
+                    "name": "Joshua KATZ"
+                },
+                {
+                    "country": "NCL",
+                    "name": "Pierrick IDMONT"
+                }
+            ],
+            [
+                {
+                    "country": "AUS",
+                    "name": "Joshua KATZ"
+                }
+            ]
+        ]
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "PYF",
+                    "name": "Titouan ANDRES"
+                },
+                {
+                    "winner": "Titouan ANDRES"
+                }
+            ],
+            []
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "PYF",
+                    "name": "Titouan ANDRES"
+                }
+            ]
+        ]
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "PYF",
+                    "name": "Yvan SHAN"
+                },
+                {
+                    "winner": "Yvan SHAN"
+                }
+            ],
+            [
+                {
+                    "country": "NCL",
+                    "name": "Frederick MEURET"
+                },
+                {
+                    "winner": "Frederick MEURET"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "PYF",
+                    "name": "Yvan SHAN"
+                },
+                {
+                    "country": "NCL",
+                    "name": "Frederick MEURET"
+                }
+            ],
+            [
+                {
+                    "country": "NCL",
+                    "name": "Frederick MEURET"
+                }
+            ]
+        ]
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "NZL",
+                    "name": "Antoine RAHIER"
+                },
+                {
+                    "winner": "Antoine RAHIER"
+                }
+            ],
+            []
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "NZL",
+                    "name": "Antoine RAHIER"
+                }
+            ]
+        ]
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "NCL",
+                    "name": "Pierrick IDMONT"
+                }
+            ],
+            [
+                {
+                    "country": "PYF",
+                    "name": "Yvan SHAN"
+                }
+            ],
+            [
+                {
+                    "country": "NCL",
+                    "name": "Pierrick IDMONT"
+                },
+                {
+                    "country": "NCL",
+                    "name": "Frederick MEURET"
+                }
+            ],
+            [
+                {
+                    "country": "PYF",
+                    "name": "Yvan SHAN"
+                },
+                {
+                    "country": "PYF",
+                    "name": "Titouan ANDRES"
+                }
+            ]
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "AUS",
+                    "name": "Joshua KATZ"
+                },
+                {
+                    "country": "PYF",
+                    "name": "Titouan ANDRES"
+                },
+                {
+                    "winner": "Joshua KATZ"
+                }
+            ],
+            [
+                {
+                    "country": "NCL",
+                    "name": "Frederick MEURET"
+                },
+                {
+                    "country": "NZL",
+                    "name": "Antoine RAHIER"
+                },
+                {
+                    "winner": "Antoine RAHIER"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "AUS",
+                    "name": "Joshua KATZ"
+                },
+                {
+                    "country": "NZL",
+                    "name": "Antoine RAHIER"
+                }
+            ],
+            [
+                {
+                    "country": "AUS",
+                    "name": "Joshua KATZ"
+                }
+            ]
+        ]
+    }
+}

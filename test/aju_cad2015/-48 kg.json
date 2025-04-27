@@ -1,0 +1,232 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "MAR",
+                    "name": "Aziza CHAKIR"
+                },
+                {
+                    "winner": "Aziza CHAKIR"
+                }
+            ],
+            []
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "MAR",
+                    "name": "Aziza CHAKIR"
+                }
+            ]
+        ]
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "GAB",
+                    "name": "Sandrine MBAZOGHE"
+                },
+                {
+                    "winner": "Sandrine MBAZOGHE"
+                }
+            ],
+            [
+                {
+                    "country": "EGY",
+                    "name": "Raghda SALEIM"
+                },
+                {
+                    "winner": "Raghda SALEIM"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "GAB",
+                    "name": "Sandrine MBAZOGHE"
+                },
+                {
+                    "country": "EGY",
+                    "name": "Raghda SALEIM"
+                }
+            ],
+            [
+                {
+                    "country": "EGY",
+                    "name": "Raghda SALEIM"
+                }
+            ]
+        ]
+    },
+    "POOL C": {
+        "round 1-2": [
+            [],
+            [
+                {
+                    "country": "RSA",
+                    "name": "Jeandre BRAND"
+                },
+                {
+                    "winner": "Jeandre BRAND"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "RSA",
+                    "name": "Jeandre BRAND"
+                }
+            ]
+        ]
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "EGY",
+                    "name": "Aya RAMADAN"
+                },
+                {
+                    "winner": "Aya RAMADAN"
+                }
+            ],
+            [
+                {
+                    "country": "ALG",
+                    "name": "Khadidja KADDOUR"
+                },
+                {
+                    "winner": "Khadidja KADDOUR"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "EGY",
+                    "name": "Aya RAMADAN"
+                },
+                {
+                    "country": "ALG",
+                    "name": "Khadidja KADDOUR"
+                }
+            ],
+            [
+                {
+                    "country": "ALG",
+                    "name": "Khadidja KADDOUR"
+                }
+            ]
+        ]
+    },
+    "REPECHAGE": {
+        "round 1-4": [
+            [],
+            [
+                {
+                    "country": "GAB",
+                    "name": "Sandrine MBAZOGHE"
+                },
+                {
+                    "winner": "Sandrine MBAZOGHE"
+                }
+            ],
+            [],
+            [
+                {
+                    "country": "EGY",
+                    "name": "Aya RAMADAN"
+                },
+                {
+                    "winner": "Aya RAMADAN"
+                }
+            ]
+        ],
+        "round 1-2": [
+            [
+                {
+                    "country": "GAB",
+                    "name": "Sandrine MBAZOGHE"
+                }
+            ],
+            [
+                {
+                    "country": "EGY",
+                    "name": "Aya RAMADAN"
+                }
+            ],
+            [
+                {
+                    "country": "GAB",
+                    "name": "Sandrine MBAZOGHE"
+                },
+                {
+                    "country": "RSA",
+                    "name": "Jeandre BRAND"
+                }
+            ],
+            [
+                {
+                    "country": "EGY",
+                    "name": "Aya RAMADAN"
+                },
+                {
+                    "country": "EGY",
+                    "name": "Raghda SALEIM"
+                }
+            ]
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "MAR",
+                    "name": "Aziza CHAKIR"
+                },
+                {
+                    "country": "EGY",
+                    "name": "Raghda SALEIM"
+                },
+                {
+                    "winner": "Aziza CHAKIR"
+                }
+            ],
+            [
+                {
+                    "country": "RSA",
+                    "name": "Jeandre BRAND"
+                },
+                {
+                    "country": "ALG",
+                    "name": "Khadidja KADDOUR"
+                },
+                {
+                    "winner": "Khadidja KADDOUR"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "MAR",
+                    "name": "Aziza CHAKIR"
+                },
+                {
+                    "country": "ALG",
+                    "name": "Khadidja KADDOUR"
+                }
+            ],
+            [
+                {
+                    "country": "ALG",
+                    "name": "Khadidja KADDOUR"
+                }
+            ]
+        ]
+    }
+}

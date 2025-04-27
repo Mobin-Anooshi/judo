@@ -1,0 +1,244 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "EGY",
+                    "name": "Ahmed WAHID"
+                },
+                {
+                    "winner": "Ahmed WAHID"
+                }
+            ],
+            []
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "EGY",
+                    "name": "Ahmed WAHID"
+                }
+            ]
+        ]
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "MAR",
+                    "name": "El Mehdi FRIFRA"
+                },
+                {
+                    "winner": "El Mehdi FRIFRA"
+                }
+            ],
+            [
+                {
+                    "country": "RSA",
+                    "name": "Juan DE BRUYN"
+                },
+                {
+                    "winner": "Juan DE BRUYN"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "MAR",
+                    "name": "El Mehdi FRIFRA"
+                },
+                {
+                    "country": "RSA",
+                    "name": "Juan DE BRUYN"
+                }
+            ],
+            [
+                {
+                    "country": "MAR",
+                    "name": "El Mehdi FRIFRA"
+                }
+            ]
+        ]
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ALG",
+                    "name": "Mohamed El Mehdi LILI"
+                },
+                {
+                    "winner": "Mohamed El Mehdi LILI"
+                }
+            ],
+            [
+                {
+                    "country": "GAB",
+                    "name": "Jean charles richepin MANDJOMBE WANG DIBOUBA"
+                },
+                {
+                    "winner": "Jean charles richepin MANDJOMBE WANG DIBOUBA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "ALG",
+                    "name": "Mohamed El Mehdi LILI"
+                },
+                {
+                    "country": "GAB",
+                    "name": "Jean charles richepin MANDJOMBE WANG DIBOUBA"
+                }
+            ],
+            [
+                {
+                    "country": "ALG",
+                    "name": "Mohamed El Mehdi LILI"
+                }
+            ]
+        ]
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CIV",
+                    "name": "Boduit Wilfried Anderson POLNEAU"
+                },
+                {
+                    "winner": "Boduit Wilfried Anderson POLNEAU"
+                }
+            ],
+            []
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "CIV",
+                    "name": "Boduit Wilfried Anderson POLNEAU"
+                }
+            ]
+        ]
+    },
+    "REPECHAGE": {
+        "round 1-4": [
+            [],
+            [
+                {
+                    "country": "RSA",
+                    "name": "Juan DE BRUYN"
+                },
+                {
+                    "winner": "Juan DE BRUYN"
+                }
+            ],
+            [
+                {
+                    "country": "GAB",
+                    "name": "Jean charles richepin MANDJOMBE WANG DIBOUBA"
+                },
+                {
+                    "winner": "Jean charles richepin MANDJOMBE WANG DIBOUBA"
+                }
+            ],
+            []
+        ],
+        "round 1-2": [
+            [
+                {
+                    "country": "RSA",
+                    "name": "Juan DE BRUYN"
+                }
+            ],
+            [
+                {
+                    "country": "GAB",
+                    "name": "Jean charles richepin MANDJOMBE WANG DIBOUBA"
+                }
+            ],
+            [
+                {
+                    "country": "RSA",
+                    "name": "Juan DE BRUYN"
+                },
+                {
+                    "country": "CIV",
+                    "name": "Boduit Wilfried Anderson POLNEAU"
+                }
+            ],
+            [
+                {
+                    "country": "GAB",
+                    "name": "Jean charles richepin MANDJOMBE WANG DIBOUBA"
+                },
+                {
+                    "country": "MAR",
+                    "name": "El Mehdi FRIFRA"
+                }
+            ],
+            [
+                {
+                    "country": "CIV",
+                    "name": "Boduit Wilfried Anderson POLNEAU"
+                }
+            ],
+            [
+                {
+                    "country": "MAR",
+                    "name": "El Mehdi FRIFRA"
+                }
+            ]
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "EGY",
+                    "name": "Ahmed WAHID"
+                },
+                {
+                    "country": "MAR",
+                    "name": "El Mehdi FRIFRA"
+                },
+                {
+                    "winner": "Ahmed WAHID"
+                }
+            ],
+            [
+                {
+                    "country": "ALG",
+                    "name": "Mohamed El Mehdi LILI"
+                },
+                {
+                    "country": "CIV",
+                    "name": "Boduit Wilfried Anderson POLNEAU"
+                },
+                {
+                    "winner": "Mohamed El Mehdi LILI"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "EGY",
+                    "name": "Ahmed WAHID"
+                },
+                {
+                    "country": "ALG",
+                    "name": "Mohamed El Mehdi LILI"
+                }
+            ],
+            [
+                {
+                    "country": "ALG",
+                    "name": "Mohamed El Mehdi LILI"
+                }
+            ]
+        ]
+    }
+}

@@ -1,0 +1,274 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Larissa FARIAS"
+                },
+                {
+                    "winner": "Larissa FARIAS"
+                }
+            ],
+            []
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Larissa FARIAS"
+                }
+            ]
+        ]
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ESP",
+                    "name": "Mireia LAPUERTA COMAS"
+                },
+                {
+                    "winner": "Mireia LAPUERTA COMAS"
+                }
+            ],
+            [
+                {
+                    "country": "HUN",
+                    "name": "Ditta LUKACS"
+                },
+                {
+                    "winner": "Ditta LUKACS"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "ESP",
+                    "name": "Mireia LAPUERTA COMAS"
+                },
+                {
+                    "country": "HUN",
+                    "name": "Ditta LUKACS"
+                }
+            ],
+            [
+                {
+                    "country": "ESP",
+                    "name": "Mireia LAPUERTA COMAS"
+                }
+            ]
+        ]
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "TUR",
+                    "name": "Melisa ARSLAN"
+                },
+                {
+                    "winner": "Melisa ARSLAN"
+                }
+            ],
+            [
+                {
+                    "country": "BRA",
+                    "name": "Rita REIS"
+                },
+                {
+                    "winner": "Rita REIS"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "TUR",
+                    "name": "Melisa ARSLAN"
+                },
+                {
+                    "country": "BRA",
+                    "name": "Rita REIS"
+                }
+            ],
+            [
+                {
+                    "country": "BRA",
+                    "name": "Rita REIS"
+                }
+            ]
+        ]
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "TUR",
+                    "name": "Tugba YAYLA"
+                },
+                {
+                    "winner": "Tugba YAYLA"
+                }
+            ],
+            [
+                {
+                    "country": "KAZ",
+                    "name": "Gulfairuz NAIMANTAYEVA"
+                },
+                {
+                    "winner": "Gulfairuz NAIMANTAYEVA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "TUR",
+                    "name": "Tugba YAYLA"
+                },
+                {
+                    "country": "KAZ",
+                    "name": "Gulfairuz NAIMANTAYEVA"
+                }
+            ],
+            [
+                {
+                    "country": "TUR",
+                    "name": "Tugba YAYLA"
+                }
+            ]
+        ]
+    },
+    "REPECHAGE": {
+        "round 1-4": [
+            [],
+            [
+                {
+                    "country": "HUN",
+                    "name": "Ditta LUKACS"
+                },
+                {
+                    "winner": "Ditta LUKACS"
+                }
+            ],
+            [
+                {
+                    "country": "TUR",
+                    "name": "Melisa ARSLAN"
+                },
+                {
+                    "winner": "Melisa ARSLAN"
+                }
+            ],
+            [
+                {
+                    "country": "KAZ",
+                    "name": "Gulfairuz NAIMANTAYEVA"
+                },
+                {
+                    "winner": "Gulfairuz NAIMANTAYEVA"
+                }
+            ]
+        ],
+        "round 1-2": [
+            [
+                {
+                    "country": "HUN",
+                    "name": "Ditta LUKACS"
+                }
+            ],
+            [
+                {
+                    "country": "TUR",
+                    "name": "Melisa ARSLAN"
+                },
+                {
+                    "country": "KAZ",
+                    "name": "Gulfairuz NAIMANTAYEVA"
+                }
+            ],
+            [
+                {
+                    "country": "HUN",
+                    "name": "Ditta LUKACS"
+                },
+                {
+                    "country": "BRA",
+                    "name": "Rita REIS"
+                }
+            ],
+            [
+                {
+                    "country": "TUR",
+                    "name": "Melisa ARSLAN"
+                },
+                {
+                    "country": "ESP",
+                    "name": "Mireia LAPUERTA COMAS"
+                }
+            ],
+            [
+                {
+                    "country": "BRA",
+                    "name": "Rita REIS"
+                }
+            ],
+            [
+                {
+                    "country": "TUR",
+                    "name": "Melisa ARSLAN"
+                }
+            ]
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Larissa FARIAS"
+                },
+                {
+                    "country": "ESP",
+                    "name": "Mireia LAPUERTA COMAS"
+                },
+                {
+                    "winner": "Larissa FARIAS"
+                }
+            ],
+            [
+                {
+                    "country": "BRA",
+                    "name": "Rita REIS"
+                },
+                {
+                    "country": "TUR",
+                    "name": "Tugba YAYLA"
+                },
+                {
+                    "winner": "Tugba YAYLA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Larissa FARIAS"
+                },
+                {
+                    "country": "TUR",
+                    "name": "Tugba YAYLA"
+                }
+            ],
+            [
+                {
+                    "country": "BRA",
+                    "name": "Larissa FARIAS"
+                }
+            ]
+        ]
+    }
+}

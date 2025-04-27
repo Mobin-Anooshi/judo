@@ -1,0 +1,298 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "GEO",
+                    "name": "Varlam LIPARTELIANI"
+                },
+                {
+                    "country": "FRA",
+                    "name": "Alexandre IDDIR"
+                },
+                {
+                    "winner": "Alexandre IDDIR"
+                }
+            ],
+            [
+                {
+                    "country": "JPN",
+                    "name": "Yuya YOSHIDA"
+                },
+                {
+                    "country": "MAR",
+                    "name": "Imad ABDALLAOUI"
+                },
+                {
+                    "winner": "Yuya YOSHIDA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "FRA",
+                    "name": "Alexandre IDDIR"
+                },
+                {
+                    "country": "JPN",
+                    "name": "Yuya YOSHIDA"
+                }
+            ],
+            [
+                {
+                    "country": "JPN",
+                    "name": "Yuya YOSHIDA"
+                }
+            ]
+        ]
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "RUS",
+                    "name": "Kirill DENISOV"
+                },
+                {
+                    "country": "SUI",
+                    "name": "Ciril GROSSKLAUS"
+                },
+                {
+                    "winner": "Kirill DENISOV"
+                }
+            ],
+            [
+                {
+                    "country": "RUS",
+                    "name": "Kirill VOPROSOV"
+                },
+                {
+                    "country": "NED",
+                    "name": "Guillaume ELMONT"
+                },
+                {
+                    "winner": "Kirill VOPROSOV"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "RUS",
+                    "name": "Kirill DENISOV"
+                },
+                {
+                    "country": "RUS",
+                    "name": "Kirill VOPROSOV"
+                }
+            ],
+            [
+                {
+                    "country": "RUS",
+                    "name": "Kirill DENISOV"
+                }
+            ]
+        ]
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "NED",
+                    "name": "Noel VAN T END"
+                },
+                {
+                    "country": "ITA",
+                    "name": "Walter FACENTE"
+                },
+                {
+                    "winner": "Noel VAN T END"
+                }
+            ],
+            [
+                {
+                    "country": "CUB",
+                    "name": "Asley GONZALEZ"
+                },
+                {
+                    "country": "SWE",
+                    "name": "Joakim DVARBY"
+                },
+                {
+                    "winner": "Asley GONZALEZ"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "NED",
+                    "name": "Noel VAN T END"
+                },
+                {
+                    "country": "CUB",
+                    "name": "Asley GONZALEZ"
+                }
+            ],
+            [
+                {
+                    "country": "CUB",
+                    "name": "Asley GONZALEZ"
+                }
+            ]
+        ]
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "GRE",
+                    "name": "Ilias ILIADIS"
+                },
+                {
+                    "country": "TJK",
+                    "name": "Komronshokh USTOPIRIYON"
+                },
+                {
+                    "winner": "Ilias ILIADIS"
+                }
+            ],
+            [
+                {
+                    "country": "GEO",
+                    "name": "Beka GVINIASHVILI"
+                },
+                {
+                    "country": "SRB",
+                    "name": "Aleksandar KUKOLJ"
+                },
+                {
+                    "winner": "Beka GVINIASHVILI"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "GRE",
+                    "name": "Ilias ILIADIS"
+                },
+                {
+                    "country": "GEO",
+                    "name": "Beka GVINIASHVILI"
+                }
+            ],
+            [
+                {
+                    "country": "GEO",
+                    "name": "Beka GVINIASHVILI"
+                }
+            ]
+        ]
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "FRA",
+                    "name": "Alexandre IDDIR"
+                },
+                {
+                    "country": "RUS",
+                    "name": "Kirill VOPROSOV"
+                }
+            ],
+            [
+                {
+                    "country": "NED",
+                    "name": "Noel VAN T END"
+                },
+                {
+                    "country": "GRE",
+                    "name": "Ilias ILIADIS"
+                }
+            ],
+            [
+                {
+                    "country": "FRA",
+                    "name": "Alexandre IDDIR"
+                },
+                {
+                    "country": "CUB",
+                    "name": "Asley GONZALEZ"
+                }
+            ],
+            [
+                {
+                    "country": "NED",
+                    "name": "Noel VAN T END"
+                },
+                {
+                    "country": "RUS",
+                    "name": "Kirill DENISOV"
+                }
+            ],
+            [
+                {
+                    "country": "CUB",
+                    "name": "Asley GONZALEZ"
+                }
+            ],
+            [
+                {
+                    "country": "NED",
+                    "name": "Noel VAN T END"
+                }
+            ]
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "JPN",
+                    "name": "Yuya YOSHIDA"
+                },
+                {
+                    "country": "RUS",
+                    "name": "Kirill DENISOV"
+                },
+                {
+                    "winner": "Yuya YOSHIDA"
+                }
+            ],
+            [
+                {
+                    "country": "CUB",
+                    "name": "Asley GONZALEZ"
+                },
+                {
+                    "country": "GEO",
+                    "name": "Beka GVINIASHVILI"
+                },
+                {
+                    "winner": "Beka GVINIASHVILI"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "JPN",
+                    "name": "Yuya YOSHIDA"
+                },
+                {
+                    "country": "GEO",
+                    "name": "Beka GVINIASHVILI"
+                }
+            ],
+            [
+                {
+                    "country": "GEO",
+                    "name": "Beka GVINIASHVILI"
+                }
+            ]
+        ]
+    }
+}
