@@ -1,0 +1,261 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Gabriella MORAES"
+                },
+                {
+                    "winner": "Gabriella MORAES"
+                }
+            ],
+            [
+                {
+                    "country": "CHI",
+                    "name": "Javiera MUNOZ"
+                },
+                {
+                    "country": "ARG",
+                    "name": "Antonella ELISII"
+                },
+                {
+                    "winner": "Antonella ELISII"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Gabriella MORAES"
+                },
+                {
+                    "country": "ARG",
+                    "name": "Antonella ELISII"
+                }
+            ]
+        ],
+        "final_winner": "Gabriella MORAES"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "MEX",
+                    "name": "Itzel PECHA"
+                },
+                {
+                    "winner": "Itzel PECHA"
+                }
+            ],
+            [
+                {
+                    "country": "CAN",
+                    "name": "Alicia FIANDOR"
+                },
+                {
+                    "winner": "Alicia FIANDOR"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "MEX",
+                    "name": "Itzel PECHA"
+                },
+                {
+                    "country": "CAN",
+                    "name": "Alicia FIANDOR"
+                }
+            ]
+        ],
+        "final_winner": "Alicia FIANDOR"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "COL",
+                    "name": "Cindy MERA"
+                },
+                {
+                    "winner": "Cindy MERA"
+                }
+            ],
+            [
+                {
+                    "country": "CAN",
+                    "name": "Sierra TANNER"
+                },
+                {
+                    "winner": "Sierra TANNER"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "COL",
+                    "name": "Cindy MERA"
+                },
+                {
+                    "country": "CAN",
+                    "name": "Sierra TANNER"
+                }
+            ]
+        ],
+        "final_winner": "Cindy MERA"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "USA",
+                    "name": "Erica PACCIONE"
+                },
+                {
+                    "winner": "Erica PACCIONE"
+                }
+            ],
+            [
+                {
+                    "country": "PER",
+                    "name": "Ariana CORNEJO"
+                },
+                {
+                    "winner": "Ariana CORNEJO"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "USA",
+                    "name": "Erica PACCIONE"
+                },
+                {
+                    "country": "PER",
+                    "name": "Ariana CORNEJO"
+                }
+            ]
+        ],
+        "final_winner": "Ariana CORNEJO"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ARG",
+                    "name": "Antonella ELISII"
+                },
+                {
+                    "country": "MEX",
+                    "name": "Itzel PECHA"
+                },
+                {
+                    "winner": "Itzel PECHA"
+                }
+            ],
+            [
+                {
+                    "country": "CAN",
+                    "name": "Sierra TANNER"
+                },
+                {
+                    "country": "USA",
+                    "name": "Erica PACCIONE"
+                },
+                {
+                    "winner": "Sierra TANNER"
+                }
+            ],
+            [
+                {
+                    "country": "MEX",
+                    "name": "Itzel PECHA"
+                },
+                {
+                    "country": "PER",
+                    "name": "Ariana CORNEJO"
+                },
+                {
+                    "winner": "Itzel PECHA"
+                }
+            ],
+            [
+                {
+                    "country": "CAN",
+                    "name": "Sierra TANNER"
+                },
+                {
+                    "country": "CAN",
+                    "name": "Alicia FIANDOR"
+                },
+                {
+                    "winner": "Alicia FIANDOR"
+                }
+            ],
+            [
+                {
+                    "country": "MEX",
+                    "name": "Itzel PECHA"
+                }
+            ],
+            [
+                {
+                    "country": "CAN",
+                    "name": "Alicia FIANDOR"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Itzel PECHA",
+            "Alicia FIANDOR"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Gabriella MORAES"
+                },
+                {
+                    "country": "CAN",
+                    "name": "Alicia FIANDOR"
+                },
+                {
+                    "winner": "Gabriella MORAES"
+                }
+            ],
+            [
+                {
+                    "country": "COL",
+                    "name": "Cindy MERA"
+                },
+                {
+                    "country": "PER",
+                    "name": "Ariana CORNEJO"
+                },
+                {
+                    "winner": "Cindy MERA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Gabriella MORAES"
+                },
+                {
+                    "country": "COL",
+                    "name": "Cindy MERA"
+                }
+            ]
+        ],
+        "final_winner": "Gabriella MORAES"
+    }
+}

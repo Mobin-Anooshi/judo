@@ -1,0 +1,265 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "NED",
+                    "name": "Merel BARKMAN"
+                },
+                {
+                    "winner": "Merel BARKMAN"
+                }
+            ],
+            [
+                {
+                    "country": "POL",
+                    "name": "Julia KSIEZYK"
+                },
+                {
+                    "winner": "Julia KSIEZYK"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "NED",
+                    "name": "Merel BARKMAN"
+                },
+                {
+                    "country": "POL",
+                    "name": "Julia KSIEZYK"
+                }
+            ]
+        ],
+        "final_winner": "Merel BARKMAN"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [],
+            [
+                {
+                    "country": "CAN",
+                    "name": "Sarah PERKS"
+                },
+                {
+                    "winner": "Sarah PERKS"
+                }
+            ]
+        ],
+        "round 1-1": [],
+        "final_winner": "Sarah PERKS"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "POL",
+                    "name": "Anita FORMELA"
+                },
+                {
+                    "winner": "Anita FORMELA"
+                }
+            ],
+            [
+                {
+                    "country": "FRA",
+                    "name": "Rauhiti VERNAUDON"
+                },
+                {
+                    "winner": "Rauhiti VERNAUDON"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "POL",
+                    "name": "Anita FORMELA"
+                },
+                {
+                    "country": "FRA",
+                    "name": "Rauhiti VERNAUDON"
+                }
+            ]
+        ],
+        "final_winner": "Anita FORMELA"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CZE",
+                    "name": "Marketa PAULUSOVA"
+                },
+                {
+                    "winner": "Marketa PAULUSOVA"
+                }
+            ],
+            [
+                {
+                    "country": "BLR",
+                    "name": "Anastasiya HRYSHCHANKA"
+                },
+                {
+                    "country": "POL",
+                    "name": "Wiktoria LIS"
+                },
+                {
+                    "winner": "Anastasiya HRYSHCHANKA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "CZE",
+                    "name": "Marketa PAULUSOVA"
+                },
+                {
+                    "country": "BLR",
+                    "name": "Anastasiya HRYSHCHANKA"
+                }
+            ]
+        ],
+        "final_winner": "Marketa PAULUSOVA"
+    },
+    "REPECHAGE": {
+        "round 1-4": [
+            [
+                {
+                    "country": "POL",
+                    "name": "Julia KSIEZYK"
+                },
+                {
+                    "winner": "Julia KSIEZYK"
+                }
+            ],
+            [],
+            [
+                {
+                    "country": "FRA",
+                    "name": "Rauhiti VERNAUDON"
+                },
+                {
+                    "winner": "Rauhiti VERNAUDON"
+                }
+            ],
+            [
+                {
+                    "country": "BLR",
+                    "name": "Anastasiya HRYSHCHANKA"
+                },
+                {
+                    "winner": "Anastasiya HRYSHCHANKA"
+                }
+            ]
+        ],
+        "round 1-2": [
+            [
+                {
+                    "country": "POL",
+                    "name": "Julia KSIEZYK"
+                }
+            ],
+            [
+                {
+                    "country": "FRA",
+                    "name": "Rauhiti VERNAUDON"
+                },
+                {
+                    "country": "BLR",
+                    "name": "Anastasiya HRYSHCHANKA"
+                },
+                {
+                    "winner": "Rauhiti VERNAUDON"
+                }
+            ],
+            [
+                {
+                    "country": "POL",
+                    "name": "Julia KSIEZYK"
+                },
+                {
+                    "country": "POL",
+                    "name": "Anita FORMELA"
+                },
+                {
+                    "winner": "Anita FORMELA"
+                }
+            ],
+            [
+                {
+                    "country": "FRA",
+                    "name": "Rauhiti VERNAUDON"
+                },
+                {
+                    "country": "CAN",
+                    "name": "Sarah PERKS"
+                },
+                {
+                    "winner": "Rauhiti VERNAUDON"
+                }
+            ],
+            [
+                {
+                    "country": "POL",
+                    "name": "Anita FORMELA"
+                }
+            ],
+            [
+                {
+                    "country": "FRA",
+                    "name": "Rauhiti VERNAUDON"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Anita FORMELA",
+            "Rauhiti VERNAUDON"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "NED",
+                    "name": "Merel BARKMAN"
+                },
+                {
+                    "country": "CAN",
+                    "name": "Sarah PERKS"
+                },
+                {
+                    "winner": "Merel BARKMAN"
+                }
+            ],
+            [
+                {
+                    "country": "POL",
+                    "name": "Anita FORMELA"
+                },
+                {
+                    "country": "CZE",
+                    "name": "Marketa PAULUSOVA"
+                },
+                {
+                    "winner": "Marketa PAULUSOVA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "NED",
+                    "name": "Merel BARKMAN"
+                },
+                {
+                    "country": "CZE",
+                    "name": "Marketa PAULUSOVA"
+                }
+            ]
+        ],
+        "final_winner": "Marketa PAULUSOVA"
+    }
+}

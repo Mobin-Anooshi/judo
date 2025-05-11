@@ -1,0 +1,177 @@
+{
+    "POOL A": {
+        "round 1-1": [
+            [
+                {
+                    "country": "CRO",
+                    "name": "Helena VUKOVIC"
+                },
+                {
+                    "country": "KAZ",
+                    "name": "Akerke RAMAZANOVA"
+                }
+            ]
+        ],
+        "final_winner": "Helena VUKOVIC"
+    },
+    "POOL B": {
+        "round 1-1": [
+            [
+                {
+                    "country": "CRO",
+                    "name": "Katarina Lucija VUKOVIC"
+                },
+                {
+                    "country": "NED",
+                    "name": "Carmen DIJKSTRA"
+                }
+            ]
+        ],
+        "final_winner": "Carmen DIJKSTRA"
+    },
+    "POOL C": {
+        "round 1-1": [
+            [
+                {
+                    "country": "SLO",
+                    "name": "Nicki NORCIC"
+                },
+                {
+                    "country": "FRA",
+                    "name": "Tahina DURAND"
+                }
+            ]
+        ],
+        "final_winner": "Nicki NORCIC"
+    },
+    "POOL D": {
+        "round 1-1": [
+            [
+                {
+                    "country": "CRO",
+                    "name": "Ivana SUTALO"
+                },
+                {
+                    "country": "AUT",
+                    "name": "Maria HOELLWART"
+                }
+            ]
+        ],
+        "final_winner": "Ivana SUTALO"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "KAZ",
+                    "name": "Akerke RAMAZANOVA"
+                },
+                {
+                    "country": "CRO",
+                    "name": "Katarina Lucija VUKOVIC"
+                },
+                {
+                    "winner": "Akerke RAMAZANOVA"
+                }
+            ],
+            [
+                {
+                    "country": "FRA",
+                    "name": "Tahina DURAND"
+                },
+                {
+                    "country": "AUT",
+                    "name": "Maria HOELLWART"
+                },
+                {
+                    "winner": "Maria HOELLWART"
+                }
+            ],
+            [
+                {
+                    "country": "KAZ",
+                    "name": "Akerke RAMAZANOVA"
+                },
+                {
+                    "country": "SLO",
+                    "name": "Nicki NORCIC"
+                },
+                {
+                    "winner": "Akerke RAMAZANOVA"
+                }
+            ],
+            [
+                {
+                    "country": "AUT",
+                    "name": "Maria HOELLWART"
+                },
+                {
+                    "country": "CRO",
+                    "name": "Helena VUKOVIC"
+                },
+                {
+                    "winner": "Helena VUKOVIC"
+                }
+            ],
+            [
+                {
+                    "country": "KAZ",
+                    "name": "Akerke RAMAZANOVA"
+                }
+            ],
+            [
+                {
+                    "country": "CRO",
+                    "name": "Helena VUKOVIC"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Akerke RAMAZANOVA",
+            "Helena VUKOVIC"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CRO",
+                    "name": "Helena VUKOVIC"
+                },
+                {
+                    "country": "NED",
+                    "name": "Carmen DIJKSTRA"
+                },
+                {
+                    "winner": "Carmen DIJKSTRA"
+                }
+            ],
+            [
+                {
+                    "country": "SLO",
+                    "name": "Nicki NORCIC"
+                },
+                {
+                    "country": "CRO",
+                    "name": "Ivana SUTALO"
+                },
+                {
+                    "winner": "Ivana SUTALO"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "NED",
+                    "name": "Carmen DIJKSTRA"
+                },
+                {
+                    "country": "CRO",
+                    "name": "Ivana SUTALO"
+                }
+            ]
+        ],
+        "final_winner": "Ivana SUTALO"
+    }
+}

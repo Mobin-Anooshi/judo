@@ -1,0 +1,273 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CIV",
+                    "name": "Koffi Kreme KOBENA"
+                },
+                {
+                    "winner": "Koffi Kreme KOBENA"
+                }
+            ],
+            [
+                {
+                    "country": "MAR",
+                    "name": "Mohammed LAHBOUB"
+                },
+                {
+                    "country": "SEN",
+                    "name": "Modou FALL"
+                },
+                {
+                    "winner": "Mohammed LAHBOUB"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "CIV",
+                    "name": "Koffi Kreme KOBENA"
+                },
+                {
+                    "country": "MAR",
+                    "name": "Mohammed LAHBOUB"
+                }
+            ]
+        ],
+        "final_winner": "Koffi Kreme KOBENA"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "KEN",
+                    "name": "Joseph IRUNGU"
+                },
+                {
+                    "winner": "Joseph IRUNGU"
+                }
+            ],
+            [
+                {
+                    "country": "TUN",
+                    "name": "Koussay BEN GHARES"
+                },
+                {
+                    "country": "GHA",
+                    "name": "Victor AHIAVOR"
+                },
+                {
+                    "winner": "Koussay BEN GHARES"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "KEN",
+                    "name": "Joseph IRUNGU"
+                },
+                {
+                    "country": "TUN",
+                    "name": "Koussay BEN GHARES"
+                }
+            ]
+        ],
+        "final_winner": "Koussay BEN GHARES"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "GAB",
+                    "name": "Luc MANONGHO"
+                },
+                {
+                    "winner": "Luc MANONGHO"
+                }
+            ],
+            [
+                {
+                    "country": "ANG",
+                    "name": "Casimiro BENTO"
+                },
+                {
+                    "country": "NIG",
+                    "name": "Batoure MAMAN MOUSTAPHA"
+                },
+                {
+                    "winner": "Casimiro BENTO"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "GAB",
+                    "name": "Luc MANONGHO"
+                },
+                {
+                    "country": "ANG",
+                    "name": "Casimiro BENTO"
+                }
+            ]
+        ],
+        "final_winner": "Luc MANONGHO"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "RSA",
+                    "name": "Lwazi MAPITIZA"
+                },
+                {
+                    "winner": "Lwazi MAPITIZA"
+                }
+            ],
+            [
+                {
+                    "country": "ALG",
+                    "name": "Mustapha Yasser BOUAMAR"
+                },
+                {
+                    "country": "TOG",
+                    "name": "Sacha DENANYOH"
+                },
+                {
+                    "winner": "Mustapha Yasser BOUAMAR"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "RSA",
+                    "name": "Lwazi MAPITIZA"
+                },
+                {
+                    "country": "ALG",
+                    "name": "Mustapha Yasser BOUAMAR"
+                }
+            ]
+        ],
+        "final_winner": "Mustapha Yasser BOUAMAR"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "MAR",
+                    "name": "Mohammed LAHBOUB"
+                },
+                {
+                    "country": "KEN",
+                    "name": "Joseph IRUNGU"
+                },
+                {
+                    "winner": "Mohammed LAHBOUB"
+                }
+            ],
+            [
+                {
+                    "country": "ANG",
+                    "name": "Casimiro BENTO"
+                },
+                {
+                    "country": "RSA",
+                    "name": "Lwazi MAPITIZA"
+                },
+                {
+                    "winner": "Lwazi MAPITIZA"
+                }
+            ],
+            [
+                {
+                    "country": "MAR",
+                    "name": "Mohammed LAHBOUB"
+                },
+                {
+                    "country": "GAB",
+                    "name": "Luc MANONGHO"
+                },
+                {
+                    "winner": "Mohammed LAHBOUB"
+                }
+            ],
+            [
+                {
+                    "country": "RSA",
+                    "name": "Lwazi MAPITIZA"
+                },
+                {
+                    "country": "CIV",
+                    "name": "Koffi Kreme KOBENA"
+                },
+                {
+                    "winner": "Koffi Kreme KOBENA"
+                }
+            ],
+            [
+                {
+                    "country": "MAR",
+                    "name": "Mohammed LAHBOUB"
+                }
+            ],
+            [
+                {
+                    "country": "CIV",
+                    "name": "Koffi Kreme KOBENA"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Mohammed LAHBOUB",
+            "Koffi Kreme KOBENA"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CIV",
+                    "name": "Koffi Kreme KOBENA"
+                },
+                {
+                    "country": "TUN",
+                    "name": "Koussay BEN GHARES"
+                },
+                {
+                    "winner": "Koussay BEN GHARES"
+                }
+            ],
+            [
+                {
+                    "country": "GAB",
+                    "name": "Luc MANONGHO"
+                },
+                {
+                    "country": "ALG",
+                    "name": "Mustapha Yasser BOUAMAR"
+                },
+                {
+                    "winner": "Mustapha Yasser BOUAMAR"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "TUN",
+                    "name": "Koussay BEN GHARES"
+                },
+                {
+                    "country": "ALG",
+                    "name": "Mustapha Yasser BOUAMAR"
+                }
+            ]
+        ],
+        "final_winner": "Mustapha Yasser BOUAMAR"
+    }
+}

@@ -1,0 +1,269 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "COL",
+                    "name": "Johan ROJAS"
+                },
+                {
+                    "winner": "Johan ROJAS"
+                }
+            ],
+            [
+                {
+                    "country": "CHI",
+                    "name": "Hugo VERA"
+                },
+                {
+                    "country": "DOM",
+                    "name": "Marcos COLA GONZALEZ"
+                },
+                {
+                    "winner": "Hugo VERA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "COL",
+                    "name": "Johan ROJAS"
+                },
+                {
+                    "country": "CHI",
+                    "name": "Hugo VERA"
+                }
+            ]
+        ],
+        "final_winner": "Johan ROJAS"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ECU",
+                    "name": "Steven MOROCHO"
+                },
+                {
+                    "winner": "Steven MOROCHO"
+                }
+            ],
+            [
+                {
+                    "country": "COL",
+                    "name": "Santiago VASQUEZ"
+                },
+                {
+                    "winner": "Santiago VASQUEZ"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "ECU",
+                    "name": "Steven MOROCHO"
+                },
+                {
+                    "country": "COL",
+                    "name": "Santiago VASQUEZ"
+                }
+            ]
+        ],
+        "final_winner": "Steven MOROCHO"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ECU",
+                    "name": "Bryan GARBOA"
+                },
+                {
+                    "winner": "Bryan GARBOA"
+                }
+            ],
+            [
+                {
+                    "country": "COL",
+                    "name": "Jeronimo PINO BALBIN"
+                },
+                {
+                    "country": "DOM",
+                    "name": "Juan Alberto MELENCIANO"
+                },
+                {
+                    "winner": "Juan Alberto MELENCIANO"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "ECU",
+                    "name": "Bryan GARBOA"
+                },
+                {
+                    "country": "DOM",
+                    "name": "Juan Alberto MELENCIANO"
+                }
+            ]
+        ],
+        "final_winner": "Bryan GARBOA"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ECU",
+                    "name": "Juan AYALA"
+                },
+                {
+                    "winner": "Juan AYALA"
+                }
+            ],
+            [
+                {
+                    "country": "COL",
+                    "name": "John FUTTINICO"
+                },
+                {
+                    "country": "COL",
+                    "name": "Juan MONTEALEGRE"
+                },
+                {
+                    "winner": "John FUTTINICO"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "ECU",
+                    "name": "Juan AYALA"
+                },
+                {
+                    "country": "COL",
+                    "name": "John FUTTINICO"
+                }
+            ]
+        ],
+        "final_winner": "Juan AYALA"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CHI",
+                    "name": "Hugo VERA"
+                },
+                {
+                    "country": "COL",
+                    "name": "Santiago VASQUEZ"
+                },
+                {
+                    "winner": "Santiago VASQUEZ"
+                }
+            ],
+            [
+                {
+                    "country": "DOM",
+                    "name": "Juan Alberto MELENCIANO"
+                },
+                {
+                    "country": "COL",
+                    "name": "John FUTTINICO"
+                },
+                {
+                    "winner": "John FUTTINICO"
+                }
+            ],
+            [
+                {
+                    "country": "COL",
+                    "name": "Santiago VASQUEZ"
+                },
+                {
+                    "country": "ECU",
+                    "name": "Juan AYALA"
+                },
+                {
+                    "winner": "Santiago VASQUEZ"
+                }
+            ],
+            [
+                {
+                    "country": "COL",
+                    "name": "John FUTTINICO"
+                },
+                {
+                    "country": "COL",
+                    "name": "Johan ROJAS"
+                },
+                {
+                    "winner": "Johan ROJAS"
+                }
+            ],
+            [
+                {
+                    "country": "COL",
+                    "name": "Santiago VASQUEZ"
+                }
+            ],
+            [
+                {
+                    "country": "COL",
+                    "name": "Johan ROJAS"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Santiago VASQUEZ",
+            "Johan ROJAS"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "COL",
+                    "name": "Johan ROJAS"
+                },
+                {
+                    "country": "ECU",
+                    "name": "Steven MOROCHO"
+                },
+                {
+                    "winner": "Steven MOROCHO"
+                }
+            ],
+            [
+                {
+                    "country": "ECU",
+                    "name": "Bryan GARBOA"
+                },
+                {
+                    "country": "ECU",
+                    "name": "Juan AYALA"
+                },
+                {
+                    "winner": "Bryan GARBOA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "ECU",
+                    "name": "Steven MOROCHO"
+                },
+                {
+                    "country": "ECU",
+                    "name": "Bryan GARBOA"
+                }
+            ]
+        ],
+        "final_winner": "Bryan GARBOA"
+    }
+}

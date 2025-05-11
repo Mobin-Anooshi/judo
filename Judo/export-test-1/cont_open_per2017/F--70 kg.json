@@ -1,0 +1,159 @@
+{
+    "POOL A": {
+        "round 1-1": [],
+        "final_winner": "Maria PORTELA"
+    },
+    "POOL B": {
+        "round 1-1": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Amanda OLIVEIRA"
+                },
+                {
+                    "country": "CHI",
+                    "name": "Fiorella CRUZ"
+                }
+            ]
+        ],
+        "final_winner": "Amanda OLIVEIRA"
+    },
+    "POOL C": {
+        "round 1-1": [
+            [
+                {
+                    "country": "PUR",
+                    "name": "Maria PEREZ"
+                },
+                {
+                    "country": "PER",
+                    "name": "Camila FIGUEROA"
+                }
+            ]
+        ],
+        "final_winner": "Maria PEREZ"
+    },
+    "POOL D": {
+        "round 1-1": [
+            [
+                {
+                    "country": "USA",
+                    "name": "Nicole STOUT"
+                },
+                {
+                    "country": "PER",
+                    "name": "Mayte BELLOTA"
+                }
+            ]
+        ],
+        "final_winner": "Nicole STOUT"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CHI",
+                    "name": "Fiorella CRUZ"
+                }
+            ],
+            [
+                {
+                    "country": "PER",
+                    "name": "Camila FIGUEROA"
+                },
+                {
+                    "country": "PER",
+                    "name": "Mayte BELLOTA"
+                },
+                {
+                    "winner": "Camila FIGUEROA"
+                }
+            ],
+            [
+                {
+                    "country": "CHI",
+                    "name": "Fiorella CRUZ"
+                },
+                {
+                    "country": "USA",
+                    "name": "Nicole STOUT"
+                },
+                {
+                    "winner": "Nicole STOUT"
+                }
+            ],
+            [
+                {
+                    "country": "PER",
+                    "name": "Camila FIGUEROA"
+                },
+                {
+                    "country": "BRA",
+                    "name": "Amanda OLIVEIRA"
+                },
+                {
+                    "winner": "Amanda OLIVEIRA"
+                }
+            ],
+            [
+                {
+                    "country": "USA",
+                    "name": "Nicole STOUT"
+                }
+            ],
+            [
+                {
+                    "country": "BRA",
+                    "name": "Amanda OLIVEIRA"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Nicole STOUT",
+            "Amanda OLIVEIRA"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Maria PORTELA"
+                },
+                {
+                    "country": "BRA",
+                    "name": "Amanda OLIVEIRA"
+                },
+                {
+                    "winner": "Maria PORTELA"
+                }
+            ],
+            [
+                {
+                    "country": "PUR",
+                    "name": "Maria PEREZ"
+                },
+                {
+                    "country": "USA",
+                    "name": "Nicole STOUT"
+                },
+                {
+                    "winner": "Maria PEREZ"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Maria PORTELA"
+                },
+                {
+                    "country": "PUR",
+                    "name": "Maria PEREZ"
+                }
+            ]
+        ],
+        "final_winner": "Maria PEREZ"
+    }
+}

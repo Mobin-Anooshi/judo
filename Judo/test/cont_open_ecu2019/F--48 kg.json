@@ -1,0 +1,270 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "MRI",
+                    "name": "Priscilla MORAND"
+                },
+                {
+                    "winner": "Priscilla MORAND"
+                }
+            ],
+            [
+                {
+                    "country": "BRA",
+                    "name": "Bianca PAIVA DE LARA"
+                },
+                {
+                    "winner": "Bianca PAIVA DE LARA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "MRI",
+                    "name": "Priscilla MORAND"
+                },
+                {
+                    "country": "BRA",
+                    "name": "Bianca PAIVA DE LARA"
+                }
+            ],
+            [
+                {
+                    "country": "BRA",
+                    "name": "Bianca PAIVA DE LARA"
+                }
+            ]
+        ]
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "DOM",
+                    "name": "Estefania SORIANO"
+                },
+                {
+                    "winner": "Estefania SORIANO"
+                }
+            ],
+            [
+                {
+                    "country": "ECU",
+                    "name": "Aracelly BARRIONUEVO"
+                },
+                {
+                    "winner": "Aracelly BARRIONUEVO"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "DOM",
+                    "name": "Estefania SORIANO"
+                },
+                {
+                    "country": "ECU",
+                    "name": "Aracelly BARRIONUEVO"
+                }
+            ],
+            [
+                {
+                    "country": "ECU",
+                    "name": "Aracelly BARRIONUEVO"
+                }
+            ]
+        ]
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "COL",
+                    "name": "Luz ALVAREZ"
+                },
+                {
+                    "winner": "Luz ALVAREZ"
+                }
+            ],
+            [
+                {
+                    "country": "ECU",
+                    "name": "Luz PENA"
+                },
+                {
+                    "winner": "Luz PENA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "COL",
+                    "name": "Luz ALVAREZ"
+                },
+                {
+                    "country": "ECU",
+                    "name": "Luz PENA"
+                }
+            ],
+            [
+                {
+                    "country": "COL",
+                    "name": "Luz ALVAREZ"
+                }
+            ]
+        ]
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "AZE",
+                    "name": "Leyla ALIYEVA"
+                },
+                {
+                    "winner": "Leyla ALIYEVA"
+                }
+            ],
+            [
+                {
+                    "country": "ECU",
+                    "name": "Estefania ERAZO"
+                },
+                {
+                    "country": "BRA",
+                    "name": "Eduarda FRANCISCO"
+                },
+                {
+                    "winner": "Eduarda FRANCISCO"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "AZE",
+                    "name": "Leyla ALIYEVA"
+                },
+                {
+                    "country": "BRA",
+                    "name": "Eduarda FRANCISCO"
+                }
+            ],
+            [
+                {
+                    "country": "BRA",
+                    "name": "Eduarda FRANCISCO"
+                }
+            ]
+        ]
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "MRI",
+                    "name": "Priscilla MORAND"
+                },
+                {
+                    "country": "DOM",
+                    "name": "Estefania SORIANO"
+                }
+            ],
+            [
+                {
+                    "country": "ECU",
+                    "name": "Luz PENA"
+                },
+                {
+                    "country": "AZE",
+                    "name": "Leyla ALIYEVA"
+                }
+            ],
+            [
+                {
+                    "country": "DOM",
+                    "name": "Estefania SORIANO"
+                },
+                {
+                    "country": "COL",
+                    "name": "Luz ALVAREZ"
+                }
+            ],
+            [
+                {
+                    "country": "ECU",
+                    "name": "Luz PENA"
+                },
+                {
+                    "country": "ECU",
+                    "name": "Aracelly BARRIONUEVO"
+                }
+            ],
+            [
+                {
+                    "country": "COL",
+                    "name": "Luz ALVAREZ"
+                }
+            ],
+            [
+                {
+                    "country": "ECU",
+                    "name": "Aracelly BARRIONUEVO"
+                }
+            ]
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Bianca PAIVA DE LARA"
+                },
+                {
+                    "country": "ECU",
+                    "name": "Aracelly BARRIONUEVO"
+                },
+                {
+                    "winner": "Bianca PAIVA DE LARA"
+                }
+            ],
+            [
+                {
+                    "country": "COL",
+                    "name": "Luz ALVAREZ"
+                },
+                {
+                    "country": "BRA",
+                    "name": "Eduarda FRANCISCO"
+                },
+                {
+                    "winner": "Eduarda FRANCISCO"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Bianca PAIVA DE LARA"
+                },
+                {
+                    "country": "BRA",
+                    "name": "Eduarda FRANCISCO"
+                }
+            ],
+            [
+                {
+                    "country": "BRA",
+                    "name": "Eduarda FRANCISCO"
+                }
+            ]
+        ]
+    }
+}

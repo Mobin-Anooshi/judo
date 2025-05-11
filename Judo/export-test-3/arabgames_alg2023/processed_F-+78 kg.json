@@ -1,0 +1,87 @@
+{
+    "POOL A": {
+        "round 1-3": [
+            [
+                {
+                    "country": "ALG",
+                    "name": "Sonia ASSELAH"
+                },
+                {
+                    "country": "ALG",
+                    "name": "Meroua MAMMERI"
+                },
+                {
+                    "winner": "Sonia ASSELAH"
+                }
+            ],
+            [
+                {
+                    "country": "ALG",
+                    "name": "Sonia ASSELAH"
+                },
+                {
+                    "country": "MTN",
+                    "name": "Fatimetou SY"
+                },
+                {
+                    "winner": "Fatimetou SY"
+                }
+            ],
+            [
+                {
+                    "country": "ALG",
+                    "name": "Meroua MAMMERI"
+                },
+                {
+                    "country": "MTN",
+                    "name": "Fatimetou SY"
+                },
+                {
+                    "winner": "Meroua MAMMERI"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Sonia ASSELAH",
+            "Meroua MAMMERI"
+        ]
+    },
+    "POOL B": {
+        "round 1-1": [],
+        "final_winners": [
+            "Sarra MZOUGUI"
+        ]
+    },
+    "REPECHAGE": {
+        "round 1-1": [
+            [
+                {
+                    "country": "ALG",
+                    "name": "Meroua MAMMERI"
+                },
+                {
+                    "country": "YEM",
+                    "name": "Arwa AL YAS"
+                },
+                {
+                    "winner": "Meroua MAMMERI"
+                }
+            ],
+            [
+                {
+                    "country": "ALG",
+                    "name": "Meroua MAMMERI"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Meroua MAMMERI"
+        ]
+    },
+    "FINALS": {
+        "round 1-1": [],
+        "final_winners": [
+            "Sonia ASSELAH"
+        ]
+    }
+}

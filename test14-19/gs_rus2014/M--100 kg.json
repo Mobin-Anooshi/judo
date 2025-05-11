@@ -1,0 +1,286 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Luciano CORREA"
+                },
+                {
+                    "winner": "Luciano CORREA"
+                }
+            ],
+            [
+                {
+                    "country": "CAN",
+                    "name": "Kyle REYES"
+                },
+                {
+                    "country": "RUS",
+                    "name": "Mikhail KOSYASHNIKOV"
+                },
+                {
+                    "winner": "Kyle REYES"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Luciano CORREA"
+                },
+                {
+                    "country": "CAN",
+                    "name": "Kyle REYES"
+                }
+            ],
+            [
+                {
+                    "country": "CAN",
+                    "name": "Kyle REYES"
+                }
+            ]
+        ]
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "RUS",
+                    "name": "Adlan BISULTANOV"
+                },
+                {
+                    "country": "JPN",
+                    "name": "Ryunosuke HAGA"
+                },
+                {
+                    "winner": "Ryunosuke HAGA"
+                }
+            ],
+            [
+                {
+                    "country": "SWE",
+                    "name": "Martin PACEK"
+                },
+                {
+                    "country": "RUS",
+                    "name": "David BITIEV"
+                },
+                {
+                    "winner": "Martin PACEK"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "JPN",
+                    "name": "Ryunosuke HAGA"
+                },
+                {
+                    "country": "SWE",
+                    "name": "Martin PACEK"
+                }
+            ],
+            [
+                {
+                    "country": "JPN",
+                    "name": "Ryunosuke HAGA"
+                }
+            ]
+        ]
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "UZB",
+                    "name": "Ramziddin SAYIDOV"
+                },
+                {
+                    "winner": "Ramziddin SAYIDOV"
+                }
+            ],
+            [
+                {
+                    "country": "BEL",
+                    "name": "Toma NIKIFOROV"
+                },
+                {
+                    "country": "RUS",
+                    "name": "Arsen OMAROV"
+                },
+                {
+                    "winner": "Arsen OMAROV"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "UZB",
+                    "name": "Ramziddin SAYIDOV"
+                },
+                {
+                    "country": "RUS",
+                    "name": "Arsen OMAROV"
+                }
+            ],
+            [
+                {
+                    "country": "RUS",
+                    "name": "Arsen OMAROV"
+                }
+            ]
+        ]
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "AZE",
+                    "name": "Elmar GASIMOV"
+                },
+                {
+                    "winner": "Elmar GASIMOV"
+                }
+            ],
+            [
+                {
+                    "country": "UZB",
+                    "name": "Soyib KURBONOV"
+                },
+                {
+                    "country": "JPN",
+                    "name": "Ryuko OGAWA"
+                },
+                {
+                    "winner": "Ryuko OGAWA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "AZE",
+                    "name": "Elmar GASIMOV"
+                },
+                {
+                    "country": "JPN",
+                    "name": "Ryuko OGAWA"
+                }
+            ],
+            [
+                {
+                    "country": "AZE",
+                    "name": "Elmar GASIMOV"
+                }
+            ]
+        ]
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Luciano CORREA"
+                },
+                {
+                    "country": "SWE",
+                    "name": "Martin PACEK"
+                }
+            ],
+            [
+                {
+                    "country": "UZB",
+                    "name": "Ramziddin SAYIDOV"
+                },
+                {
+                    "country": "JPN",
+                    "name": "Ryuko OGAWA"
+                }
+            ],
+            [
+                {
+                    "country": "SWE",
+                    "name": "Martin PACEK"
+                },
+                {
+                    "country": "RUS",
+                    "name": "Arsen OMAROV"
+                }
+            ],
+            [
+                {
+                    "country": "UZB",
+                    "name": "Ramziddin SAYIDOV"
+                },
+                {
+                    "country": "JPN",
+                    "name": "Ryunosuke HAGA"
+                }
+            ],
+            [
+                {
+                    "country": "SWE",
+                    "name": "Martin PACEK"
+                }
+            ],
+            [
+                {
+                    "country": "JPN",
+                    "name": "Ryunosuke HAGA"
+                }
+            ]
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CAN",
+                    "name": "Kyle REYES"
+                },
+                {
+                    "country": "JPN",
+                    "name": "Ryunosuke HAGA"
+                },
+                {
+                    "winner": "Kyle REYES"
+                }
+            ],
+            [
+                {
+                    "country": "RUS",
+                    "name": "Arsen OMAROV"
+                },
+                {
+                    "country": "AZE",
+                    "name": "Elmar GASIMOV"
+                },
+                {
+                    "winner": "Elmar GASIMOV"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "CAN",
+                    "name": "Kyle REYES"
+                },
+                {
+                    "country": "AZE",
+                    "name": "Elmar GASIMOV"
+                }
+            ],
+            [
+                {
+                    "country": "AZE",
+                    "name": "Elmar GASIMOV"
+                }
+            ]
+        ]
+    }
+}

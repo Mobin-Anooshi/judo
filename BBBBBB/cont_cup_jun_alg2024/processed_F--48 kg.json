@@ -1,0 +1,159 @@
+{
+    "POOL A": {
+        "round 1-1": [],
+        "final_winner": "Amira BEN AYED"
+    },
+    "POOL B": {
+        "round 1-1": [
+            [
+                {
+                    "country": "ALG",
+                    "name": "Hiba BENTALEB"
+                },
+                {
+                    "country": "ALG",
+                    "name": "Houria Selma BAAHMED"
+                }
+            ]
+        ],
+        "final_winner": "Hiba BENTALEB"
+    },
+    "POOL C": {
+        "round 1-1": [
+            [
+                {
+                    "country": "ALG",
+                    "name": "Aya DERARDJA"
+                },
+                {
+                    "country": "ALG",
+                    "name": "Lisa KACI"
+                }
+            ]
+        ],
+        "final_winner": "Aya DERARDJA"
+    },
+    "POOL D": {
+        "round 1-1": [
+            [
+                {
+                    "country": "ALG",
+                    "name": "Ryma DERIASSE"
+                },
+                {
+                    "country": "ALG",
+                    "name": "Yousra AOUADI"
+                }
+            ]
+        ],
+        "final_winner": "Ryma DERIASSE"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ALG",
+                    "name": "Houria Selma BAAHMED"
+                }
+            ],
+            [
+                {
+                    "country": "ALG",
+                    "name": "Lisa KACI"
+                },
+                {
+                    "country": "ALG",
+                    "name": "Yousra AOUADI"
+                },
+                {
+                    "winner": "Lisa KACI"
+                }
+            ],
+            [
+                {
+                    "country": "ALG",
+                    "name": "Houria Selma BAAHMED"
+                },
+                {
+                    "country": "ALG",
+                    "name": "Ryma DERIASSE"
+                },
+                {
+                    "winner": "Ryma DERIASSE"
+                }
+            ],
+            [
+                {
+                    "country": "ALG",
+                    "name": "Lisa KACI"
+                },
+                {
+                    "country": "ALG",
+                    "name": "Hiba BENTALEB"
+                },
+                {
+                    "winner": "Hiba BENTALEB"
+                }
+            ],
+            [
+                {
+                    "country": "ALG",
+                    "name": "Ryma DERIASSE"
+                }
+            ],
+            [
+                {
+                    "country": "ALG",
+                    "name": "Hiba BENTALEB"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Ryma DERIASSE",
+            "Hiba BENTALEB"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "TUN",
+                    "name": "Amira BEN AYED"
+                },
+                {
+                    "country": "ALG",
+                    "name": "Hiba BENTALEB"
+                },
+                {
+                    "winner": "Amira BEN AYED"
+                }
+            ],
+            [
+                {
+                    "country": "ALG",
+                    "name": "Aya DERARDJA"
+                },
+                {
+                    "country": "ALG",
+                    "name": "Ryma DERIASSE"
+                },
+                {
+                    "winner": "Aya DERARDJA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "TUN",
+                    "name": "Amira BEN AYED"
+                },
+                {
+                    "country": "ALG",
+                    "name": "Aya DERARDJA"
+                }
+            ]
+        ],
+        "final_winner": "Amira BEN AYED"
+    }
+}

@@ -1,0 +1,200 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "AUS",
+                    "name": "Marissa FINKA"
+                },
+                {
+                    "winner": "Marissa FINKA"
+                }
+            ],
+            []
+        ],
+        "round 1-1": [],
+        "final_winner": "Marissa FINKA"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "AUS",
+                    "name": "Andjela BODIROZA"
+                },
+                {
+                    "winner": "Andjela BODIROZA"
+                }
+            ],
+            [
+                {
+                    "country": "NZL",
+                    "name": "Roberta GRIFFITHS"
+                },
+                {
+                    "winner": "Roberta GRIFFITHS"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "AUS",
+                    "name": "Andjela BODIROZA"
+                },
+                {
+                    "country": "NZL",
+                    "name": "Roberta GRIFFITHS"
+                }
+            ]
+        ],
+        "final_winner": "Roberta GRIFFITHS"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "AUS",
+                    "name": "Deana FINKA"
+                },
+                {
+                    "winner": "Deana FINKA"
+                }
+            ],
+            []
+        ],
+        "round 1-1": [],
+        "final_winner": "Deana FINKA"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "KOR",
+                    "name": "Huijin BAE"
+                },
+                {
+                    "winner": "Huijin BAE"
+                }
+            ],
+            [
+                {
+                    "country": "AUS",
+                    "name": "Gabrielle WOODWARD"
+                },
+                {
+                    "winner": "Gabrielle WOODWARD"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "KOR",
+                    "name": "Huijin BAE"
+                },
+                {
+                    "country": "AUS",
+                    "name": "Gabrielle WOODWARD"
+                }
+            ]
+        ],
+        "final_winner": "Huijin BAE"
+    },
+    "REPECHAGE": {
+        "round 1-4": [
+            [],
+            [],
+            [],
+            []
+        ],
+        "round 1-2": [
+            [],
+            [
+                {
+                    "country": "AUS",
+                    "name": "Andjela BODIROZA"
+                },
+                {
+                    "country": "AUS",
+                    "name": "Deana FINKA"
+                },
+                {
+                    "winner": "Deana FINKA"
+                }
+            ],
+            [
+                {
+                    "country": "AUS",
+                    "name": "Gabrielle WOODWARD"
+                },
+                {
+                    "country": "NZL",
+                    "name": "Roberta GRIFFITHS"
+                },
+                {
+                    "winner": "Gabrielle WOODWARD"
+                }
+            ],
+            [
+                {
+                    "country": "AUS",
+                    "name": "Deana FINKA"
+                }
+            ],
+            [
+                {
+                    "country": "AUS",
+                    "name": "Gabrielle WOODWARD"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Deana FINKA",
+            "Gabrielle WOODWARD"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "AUS",
+                    "name": "Marissa FINKA"
+                },
+                {
+                    "country": "NZL",
+                    "name": "Roberta GRIFFITHS"
+                },
+                {
+                    "winner": "Marissa FINKA"
+                }
+            ],
+            [
+                {
+                    "country": "AUS",
+                    "name": "Deana FINKA"
+                },
+                {
+                    "country": "KOR",
+                    "name": "Huijin BAE"
+                },
+                {
+                    "winner": "Huijin BAE"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "AUS",
+                    "name": "Marissa FINKA"
+                },
+                {
+                    "country": "KOR",
+                    "name": "Huijin BAE"
+                }
+            ]
+        ],
+        "final_winner": "Marissa FINKA"
+    }
+}

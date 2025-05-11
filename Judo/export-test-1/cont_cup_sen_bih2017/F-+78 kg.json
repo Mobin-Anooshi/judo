@@ -1,0 +1,255 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CRO",
+                    "name": "Ivana MARANIC"
+                },
+                {
+                    "winner": "Ivana MARANIC"
+                }
+            ],
+            []
+        ],
+        "round 1-1": [],
+        "final_winner": "Ivana MARANIC"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "HUN",
+                    "name": "Emese KARPATI"
+                },
+                {
+                    "winner": "Emese KARPATI"
+                }
+            ],
+            [
+                {
+                    "country": "FRA",
+                    "name": "Marie DEL PUPPO"
+                },
+                {
+                    "winner": "Marie DEL PUPPO"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "HUN",
+                    "name": "Emese KARPATI"
+                },
+                {
+                    "country": "FRA",
+                    "name": "Marie DEL PUPPO"
+                }
+            ]
+        ],
+        "final_winner": "Emese KARPATI"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CRO",
+                    "name": "Tina RADIC"
+                },
+                {
+                    "winner": "Tina RADIC"
+                }
+            ],
+            [
+                {
+                    "country": "MNE",
+                    "name": "Jovana NIKIC"
+                },
+                {
+                    "winner": "Jovana NIKIC"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "CRO",
+                    "name": "Tina RADIC"
+                },
+                {
+                    "country": "MNE",
+                    "name": "Jovana NIKIC"
+                }
+            ]
+        ],
+        "final_winner": "Tina RADIC"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "HUN",
+                    "name": "Mercedesz SZIGETVARI"
+                },
+                {
+                    "winner": "Mercedesz SZIGETVARI"
+                }
+            ],
+            [
+                {
+                    "country": "BIH",
+                    "name": "Jelena ARNAUTOVIC"
+                },
+                {
+                    "winner": "Jelena ARNAUTOVIC"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "HUN",
+                    "name": "Mercedesz SZIGETVARI"
+                },
+                {
+                    "country": "BIH",
+                    "name": "Jelena ARNAUTOVIC"
+                }
+            ]
+        ],
+        "final_winner": "Mercedesz SZIGETVARI"
+    },
+    "REPECHAGE": {
+        "round 1-4": [
+            [],
+            [
+                {
+                    "country": "FRA",
+                    "name": "Marie DEL PUPPO"
+                },
+                {
+                    "winner": "Marie DEL PUPPO"
+                }
+            ],
+            [
+                {
+                    "country": "MNE",
+                    "name": "Jovana NIKIC"
+                },
+                {
+                    "winner": "Jovana NIKIC"
+                }
+            ],
+            [
+                {
+                    "country": "BIH",
+                    "name": "Jelena ARNAUTOVIC"
+                },
+                {
+                    "winner": "Jelena ARNAUTOVIC"
+                }
+            ]
+        ],
+        "round 1-2": [
+            [
+                {
+                    "country": "FRA",
+                    "name": "Marie DEL PUPPO"
+                }
+            ],
+            [
+                {
+                    "country": "MNE",
+                    "name": "Jovana NIKIC"
+                },
+                {
+                    "country": "BIH",
+                    "name": "Jelena ARNAUTOVIC"
+                },
+                {
+                    "winner": "Jovana NIKIC"
+                }
+            ],
+            [
+                {
+                    "country": "FRA",
+                    "name": "Marie DEL PUPPO"
+                },
+                {
+                    "country": "CRO",
+                    "name": "Tina RADIC"
+                },
+                {
+                    "winner": "Marie DEL PUPPO"
+                }
+            ],
+            [
+                {
+                    "country": "MNE",
+                    "name": "Jovana NIKIC"
+                },
+                {
+                    "country": "HUN",
+                    "name": "Emese KARPATI"
+                },
+                {
+                    "winner": "Emese KARPATI"
+                }
+            ],
+            [
+                {
+                    "country": "HUN",
+                    "name": "Emese KARPATI"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Jovana NIKIC",
+            "Marie DEL PUPPO"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CRO",
+                    "name": "Ivana MARANIC"
+                },
+                {
+                    "country": "HUN",
+                    "name": "Emese KARPATI"
+                },
+                {
+                    "winner": "Ivana MARANIC"
+                }
+            ],
+            [
+                {
+                    "country": "CRO",
+                    "name": "Tina RADIC"
+                },
+                {
+                    "country": "HUN",
+                    "name": "Mercedesz SZIGETVARI"
+                },
+                {
+                    "winner": "Mercedesz SZIGETVARI"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "CRO",
+                    "name": "Ivana MARANIC"
+                },
+                {
+                    "country": "HUN",
+                    "name": "Mercedesz SZIGETVARI"
+                }
+            ]
+        ],
+        "final_winner": "Ivana MARANIC"
+    }
+}

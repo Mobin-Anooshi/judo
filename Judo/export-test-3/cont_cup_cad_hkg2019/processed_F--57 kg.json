@@ -1,0 +1,68 @@
+{
+    "ROUND 1": {
+        "round 1-2": [
+            [
+                {
+                    "country": "SGP",
+                    "name": "Hwee Ru KOM"
+                },
+                {
+                    "country": "THA",
+                    "name": "Mingpimol AIADMING"
+                },
+                {
+                    "winner": "Hwee Ru KOM"
+                }
+            ],
+            [
+                {
+                    "country": "GUM",
+                    "name": "Maria ESCANO"
+                },
+                {
+                    "country": "MAC",
+                    "name": "Chi Cheng NG"
+                },
+                {
+                    "winner": "Maria ESCANO"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Hwee Ru KOM",
+            "Maria ESCANO"
+        ]
+    },
+    "REPECHAGE": {
+        "round 1-1": [
+            [
+                {
+                    "country": "THA",
+                    "name": "Mingpimol AIADMING"
+                },
+                {
+                    "country": "MAC",
+                    "name": "Chi Cheng NG"
+                },
+                {
+                    "winner": "Mingpimol AIADMING"
+                }
+            ],
+            [
+                {
+                    "country": "THA",
+                    "name": "Mingpimol AIADMING"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Mingpimol AIADMING"
+        ]
+    },
+    "FINALS": {
+        "round 1-1": [],
+        "final_winners": [
+            "Hwee Ru KOM"
+        ]
+    }
+}

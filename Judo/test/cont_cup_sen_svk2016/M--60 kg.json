@@ -1,0 +1,344 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "GER",
+                    "name": "Philip GRAF"
+                },
+                {
+                    "winner": "Philip GRAF"
+                }
+            ],
+            [
+                {
+                    "country": "ITA",
+                    "name": "Alessandro LACALAPRICE"
+                },
+                {
+                    "country": "ESP",
+                    "name": "Jonathan IMEDIO RODRIGUEZ"
+                },
+                {
+                    "winner": "Jonathan IMEDIO RODRIGUEZ"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "GER",
+                    "name": "Philip GRAF"
+                },
+                {
+                    "country": "ESP",
+                    "name": "Jonathan IMEDIO RODRIGUEZ"
+                }
+            ],
+            [
+                {
+                    "country": "GER",
+                    "name": "Philip GRAF"
+                }
+            ]
+        ]
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "HUN",
+                    "name": "Csaba SZABO"
+                },
+                {
+                    "country": "GER",
+                    "name": "Alexander Bernd GABLER"
+                },
+                {
+                    "winner": "Csaba SZABO"
+                }
+            ],
+            [
+                {
+                    "country": "FIN",
+                    "name": "Juho REINVALL"
+                },
+                {
+                    "country": "CZE",
+                    "name": "David PULKRABEK"
+                },
+                {
+                    "winner": "David PULKRABEK"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "HUN",
+                    "name": "Csaba SZABO"
+                },
+                {
+                    "country": "CZE",
+                    "name": "David PULKRABEK"
+                }
+            ],
+            [
+                {
+                    "country": "HUN",
+                    "name": "Csaba SZABO"
+                }
+            ]
+        ]
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ITA",
+                    "name": "Daniel LOMBARDO"
+                },
+                {
+                    "country": "RUS",
+                    "name": "Beslan MUDRANOV"
+                },
+                {
+                    "winner": "Beslan MUDRANOV"
+                }
+            ],
+            [
+                {
+                    "country": "HUN",
+                    "name": "Richard GARD"
+                },
+                {
+                    "country": "GER",
+                    "name": "Paul SCHWISOW"
+                },
+                {
+                    "winner": "Paul SCHWISOW"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "RUS",
+                    "name": "Beslan MUDRANOV"
+                },
+                {
+                    "country": "GER",
+                    "name": "Paul SCHWISOW"
+                }
+            ],
+            [
+                {
+                    "country": "RUS",
+                    "name": "Beslan MUDRANOV"
+                }
+            ]
+        ]
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "AUT",
+                    "name": "Kimran BORCHASHVILI"
+                },
+                {
+                    "country": "EST",
+                    "name": "Mark TSIRKIN"
+                },
+                {
+                    "winner": "Kimran BORCHASHVILI"
+                }
+            ],
+            [
+                {
+                    "country": "GER",
+                    "name": "Nils BECKER"
+                },
+                {
+                    "country": "ESP",
+                    "name": "Adrian IMEDIO RODRIGUEZ"
+                },
+                {
+                    "winner": "Nils BECKER"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "AUT",
+                    "name": "Kimran BORCHASHVILI"
+                },
+                {
+                    "country": "GER",
+                    "name": "Nils BECKER"
+                }
+            ],
+            [
+                {
+                    "country": "AUT",
+                    "name": "Kimran BORCHASHVILI"
+                }
+            ]
+        ]
+    },
+    "REPECHAGE": {
+        "round 1-4": [
+            [
+                {
+                    "country": "ESP",
+                    "name": "Jonathan IMEDIO RODRIGUEZ"
+                },
+                {
+                    "winner": "Jonathan IMEDIO RODRIGUEZ"
+                }
+            ],
+            [
+                {
+                    "country": "GER",
+                    "name": "Alexander Bernd GABLER"
+                },
+                {
+                    "country": "CZE",
+                    "name": "David PULKRABEK"
+                },
+                {
+                    "winner": "David PULKRABEK"
+                }
+            ],
+            [
+                {
+                    "country": "ITA",
+                    "name": "Daniel LOMBARDO"
+                },
+                {
+                    "country": "GER",
+                    "name": "Paul SCHWISOW"
+                },
+                {
+                    "winner": "Daniel LOMBARDO"
+                }
+            ],
+            [
+                {
+                    "country": "EST",
+                    "name": "Mark TSIRKIN"
+                },
+                {
+                    "country": "GER",
+                    "name": "Nils BECKER"
+                },
+                {
+                    "winner": "Nils BECKER"
+                }
+            ]
+        ],
+        "round 1-2": [
+            [
+                {
+                    "country": "ESP",
+                    "name": "Jonathan IMEDIO RODRIGUEZ"
+                },
+                {
+                    "country": "CZE",
+                    "name": "David PULKRABEK"
+                }
+            ],
+            [
+                {
+                    "country": "ITA",
+                    "name": "Daniel LOMBARDO"
+                },
+                {
+                    "country": "GER",
+                    "name": "Nils BECKER"
+                }
+            ],
+            [
+                {
+                    "country": "CZE",
+                    "name": "David PULKRABEK"
+                },
+                {
+                    "country": "AUT",
+                    "name": "Kimran BORCHASHVILI"
+                }
+            ],
+            [
+                {
+                    "country": "ITA",
+                    "name": "Daniel LOMBARDO"
+                },
+                {
+                    "country": "HUN",
+                    "name": "Csaba SZABO"
+                }
+            ],
+            [
+                {
+                    "country": "CZE",
+                    "name": "David PULKRABEK"
+                }
+            ],
+            [
+                {
+                    "country": "HUN",
+                    "name": "Csaba SZABO"
+                }
+            ]
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "GER",
+                    "name": "Philip GRAF"
+                },
+                {
+                    "country": "HUN",
+                    "name": "Csaba SZABO"
+                },
+                {
+                    "winner": "Philip GRAF"
+                }
+            ],
+            [
+                {
+                    "country": "RUS",
+                    "name": "Beslan MUDRANOV"
+                },
+                {
+                    "country": "AUT",
+                    "name": "Kimran BORCHASHVILI"
+                },
+                {
+                    "winner": "Beslan MUDRANOV"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "GER",
+                    "name": "Philip GRAF"
+                },
+                {
+                    "country": "RUS",
+                    "name": "Beslan MUDRANOV"
+                }
+            ],
+            [
+                {
+                    "country": "GER",
+                    "name": "Philip GRAF"
+                }
+            ]
+        ]
+    }
+}

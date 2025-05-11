@@ -1,0 +1,135 @@
+{
+    "POOL A": {
+        "round 1-1": [],
+        "final_winner": "Meroua MAMMERI"
+    },
+    "POOL B": {
+        "round 1-1": [
+            [
+                {
+                    "country": "TUN",
+                    "name": "Islem LATRECH"
+                },
+                {
+                    "country": "GUI",
+                    "name": "Monic GUILAVOGUI"
+                }
+            ]
+        ],
+        "final_winner": "Islem LATRECH"
+    },
+    "POOL C": {
+        "round 1-1": [],
+        "final_winner": "Siwar DHAWEDI"
+    },
+    "POOL D": {
+        "round 1-1": [
+            [
+                {
+                    "country": "SEN",
+                    "name": "Oulimata SECK"
+                },
+                {
+                    "country": "EGY",
+                    "name": "Farah SHARAF"
+                }
+            ]
+        ],
+        "final_winner": "Oulimata SECK"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "GUI",
+                    "name": "Monic GUILAVOGUI"
+                }
+            ],
+            [
+                {
+                    "country": "EGY",
+                    "name": "Farah SHARAF"
+                }
+            ],
+            [
+                {
+                    "country": "GUI",
+                    "name": "Monic GUILAVOGUI"
+                },
+                {
+                    "country": "SEN",
+                    "name": "Oulimata SECK"
+                },
+                {
+                    "winner": "Monic GUILAVOGUI"
+                }
+            ],
+            [
+                {
+                    "country": "EGY",
+                    "name": "Farah SHARAF"
+                },
+                {
+                    "country": "TUN",
+                    "name": "Islem LATRECH"
+                },
+                {
+                    "winner": "Islem LATRECH"
+                }
+            ],
+            [
+                {
+                    "country": "TUN",
+                    "name": "Islem LATRECH"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Farah SHARAF",
+            "Monic GUILAVOGUI"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ALG",
+                    "name": "Meroua MAMMERI"
+                },
+                {
+                    "country": "TUN",
+                    "name": "Islem LATRECH"
+                },
+                {
+                    "winner": "Meroua MAMMERI"
+                }
+            ],
+            [
+                {
+                    "country": "TUN",
+                    "name": "Siwar DHAWEDI"
+                },
+                {
+                    "country": "SEN",
+                    "name": "Oulimata SECK"
+                },
+                {
+                    "winner": "Siwar DHAWEDI"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "ALG",
+                    "name": "Meroua MAMMERI"
+                },
+                {
+                    "country": "TUN",
+                    "name": "Siwar DHAWEDI"
+                }
+            ]
+        ],
+        "final_winner": "Siwar DHAWEDI"
+    }
+}

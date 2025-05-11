@@ -1,0 +1,177 @@
+{
+    "POOL A": {
+        "round 1-1": [
+            [
+                {
+                    "country": "ALG",
+                    "name": "Kaouthar OUALLAL"
+                },
+                {
+                    "country": "CIV",
+                    "name": "Fatim FOFANA"
+                }
+            ]
+        ],
+        "final_winner": "Kaouthar OUALLAL"
+    },
+    "POOL B": {
+        "round 1-1": [
+            [
+                {
+                    "country": "MAR",
+                    "name": "Hafsa YATIM"
+                },
+                {
+                    "country": "KEN",
+                    "name": "Joyce BICHBICH"
+                }
+            ]
+        ],
+        "final_winner": "Hafsa YATIM"
+    },
+    "POOL C": {
+        "round 1-1": [
+            [
+                {
+                    "country": "COD",
+                    "name": "Marie BRANSER"
+                },
+                {
+                    "country": "NGR",
+                    "name": "Joy Oluchi ASONYE"
+                }
+            ]
+        ],
+        "final_winner": "Marie BRANSER"
+    },
+    "POOL D": {
+        "round 1-1": [
+            [
+                {
+                    "country": "TUN",
+                    "name": "Sarra MZOUGUI"
+                },
+                {
+                    "country": "SEN",
+                    "name": "Yacine DIATTA"
+                }
+            ]
+        ],
+        "final_winner": "Sarra MZOUGUI"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CIV",
+                    "name": "Fatim FOFANA"
+                },
+                {
+                    "country": "KEN",
+                    "name": "Joyce BICHBICH"
+                },
+                {
+                    "winner": "Fatim FOFANA"
+                }
+            ],
+            [
+                {
+                    "country": "NGR",
+                    "name": "Joy Oluchi ASONYE"
+                },
+                {
+                    "country": "SEN",
+                    "name": "Yacine DIATTA"
+                },
+                {
+                    "winner": "Joy Oluchi ASONYE"
+                }
+            ],
+            [
+                {
+                    "country": "CIV",
+                    "name": "Fatim FOFANA"
+                },
+                {
+                    "country": "TUN",
+                    "name": "Sarra MZOUGUI"
+                },
+                {
+                    "winner": "Sarra MZOUGUI"
+                }
+            ],
+            [
+                {
+                    "country": "NGR",
+                    "name": "Joy Oluchi ASONYE"
+                },
+                {
+                    "country": "ALG",
+                    "name": "Kaouthar OUALLAL"
+                },
+                {
+                    "winner": "Kaouthar OUALLAL"
+                }
+            ],
+            [
+                {
+                    "country": "TUN",
+                    "name": "Sarra MZOUGUI"
+                }
+            ],
+            [
+                {
+                    "country": "ALG",
+                    "name": "Kaouthar OUALLAL"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Sarra MZOUGUI",
+            "Kaouthar OUALLAL"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ALG",
+                    "name": "Kaouthar OUALLAL"
+                },
+                {
+                    "country": "MAR",
+                    "name": "Hafsa YATIM"
+                },
+                {
+                    "winner": "Hafsa YATIM"
+                }
+            ],
+            [
+                {
+                    "country": "COD",
+                    "name": "Marie BRANSER"
+                },
+                {
+                    "country": "TUN",
+                    "name": "Sarra MZOUGUI"
+                },
+                {
+                    "winner": "Marie BRANSER"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "MAR",
+                    "name": "Hafsa YATIM"
+                },
+                {
+                    "country": "COD",
+                    "name": "Marie BRANSER"
+                }
+            ]
+        ],
+        "final_winner": "Marie BRANSER"
+    }
+}

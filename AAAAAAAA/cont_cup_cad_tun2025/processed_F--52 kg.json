@@ -1,0 +1,141 @@
+{
+    "POOL A": {
+        "round 1-1": [],
+        "final_winner": "Amina ALAOUI CHERIFI"
+    },
+    "POOL B": {
+        "round 1-1": [
+            [
+                {
+                    "country": "TUN",
+                    "name": "Imen FENDRI"
+                },
+                {
+                    "country": "TUN",
+                    "name": "Zeineb KHARDANI"
+                }
+            ]
+        ],
+        "final_winner": "Imen FENDRI"
+    },
+    "POOL C": {
+        "round 1-1": [],
+        "final_winner": "Tasnim JOMLI"
+    },
+    "POOL D": {
+        "round 1-1": [
+            [
+                {
+                    "country": "JOR",
+                    "name": "Sara AL SAIFI"
+                },
+                {
+                    "country": "TUN",
+                    "name": "Khadija ABDELKAFI"
+                }
+            ]
+        ],
+        "final_winner": "Khadija ABDELKAFI"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "TUN",
+                    "name": "Zeineb KHARDANI"
+                }
+            ],
+            [
+                {
+                    "country": "JOR",
+                    "name": "Sara AL SAIFI"
+                }
+            ],
+            [
+                {
+                    "country": "TUN",
+                    "name": "Zeineb KHARDANI"
+                },
+                {
+                    "country": "TUN",
+                    "name": "Khadija ABDELKAFI"
+                },
+                {
+                    "winner": "Khadija ABDELKAFI"
+                }
+            ],
+            [
+                {
+                    "country": "JOR",
+                    "name": "Sara AL SAIFI"
+                },
+                {
+                    "country": "TUN",
+                    "name": "Imen FENDRI"
+                },
+                {
+                    "winner": "Imen FENDRI"
+                }
+            ],
+            [
+                {
+                    "country": "TUN",
+                    "name": "Khadija ABDELKAFI"
+                }
+            ],
+            [
+                {
+                    "country": "TUN",
+                    "name": "Imen FENDRI"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Khadija ABDELKAFI",
+            "Imen FENDRI"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "MAR",
+                    "name": "Amina ALAOUI CHERIFI"
+                },
+                {
+                    "country": "TUN",
+                    "name": "Imen FENDRI"
+                },
+                {
+                    "winner": "Amina ALAOUI CHERIFI"
+                }
+            ],
+            [
+                {
+                    "country": "TUN",
+                    "name": "Tasnim JOMLI"
+                },
+                {
+                    "country": "TUN",
+                    "name": "Khadija ABDELKAFI"
+                },
+                {
+                    "winner": "Tasnim JOMLI"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "MAR",
+                    "name": "Amina ALAOUI CHERIFI"
+                },
+                {
+                    "country": "TUN",
+                    "name": "Tasnim JOMLI"
+                }
+            ]
+        ],
+        "final_winner": "Amina ALAOUI CHERIFI"
+    }
+}

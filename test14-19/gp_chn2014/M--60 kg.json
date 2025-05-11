@@ -1,0 +1,266 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [],
+            [
+                {
+                    "country": "FRA",
+                    "name": "Vincent LIMARE"
+                },
+                {
+                    "country": "ARM",
+                    "name": "Grigor IVANYAN"
+                },
+                {
+                    "winner": "Vincent LIMARE"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "FRA",
+                    "name": "Vincent LIMARE"
+                }
+            ]
+        ]
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "AUT",
+                    "name": "Ludwig PAISCHER"
+                },
+                {
+                    "country": "TPE",
+                    "name": "Chun-Ting YANG"
+                },
+                {
+                    "winner": "Ludwig PAISCHER"
+                }
+            ],
+            [
+                {
+                    "country": "RUS",
+                    "name": "Robert MSHVIDOBADZE"
+                },
+                {
+                    "country": "CHN",
+                    "name": "Jianqi AN"
+                },
+                {
+                    "winner": "Robert MSHVIDOBADZE"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "AUT",
+                    "name": "Ludwig PAISCHER"
+                },
+                {
+                    "country": "RUS",
+                    "name": "Robert MSHVIDOBADZE"
+                }
+            ],
+            [
+                {
+                    "country": "RUS",
+                    "name": "Robert MSHVIDOBADZE"
+                }
+            ]
+        ]
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "MGL",
+                    "name": "Kherlen GANBOLD"
+                },
+                {
+                    "country": "PLE",
+                    "name": "Simon YACOUB"
+                },
+                {
+                    "winner": "Kherlen GANBOLD"
+                }
+            ],
+            [
+                {
+                    "country": "SUI",
+                    "name": "Ludovic CHAMMARTIN"
+                },
+                {
+                    "country": "CHN",
+                    "name": "He BU"
+                },
+                {
+                    "winner": "Ludovic CHAMMARTIN"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "MGL",
+                    "name": "Kherlen GANBOLD"
+                },
+                {
+                    "country": "SUI",
+                    "name": "Ludovic CHAMMARTIN"
+                }
+            ],
+            [
+                {
+                    "country": "SUI",
+                    "name": "Ludovic CHAMMARTIN"
+                }
+            ]
+        ]
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "TPE",
+                    "name": "Ming Yen TSAI"
+                },
+                {
+                    "country": "USA",
+                    "name": "Corwin LEARNED"
+                },
+                {
+                    "winner": "Ming Yen TSAI"
+                }
+            ],
+            [
+                {
+                    "country": "ARM",
+                    "name": "Hovhannes DAVTYAN"
+                },
+                {
+                    "country": "CHN",
+                    "name": "Hui LI"
+                },
+                {
+                    "winner": "Hovhannes DAVTYAN"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "TPE",
+                    "name": "Ming Yen TSAI"
+                },
+                {
+                    "country": "ARM",
+                    "name": "Hovhannes DAVTYAN"
+                }
+            ],
+            [
+                {
+                    "country": "ARM",
+                    "name": "Hovhannes DAVTYAN"
+                }
+            ]
+        ]
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "AUT",
+                    "name": "Ludwig PAISCHER"
+                }
+            ],
+            [
+                {
+                    "country": "MGL",
+                    "name": "Kherlen GANBOLD"
+                },
+                {
+                    "country": "TPE",
+                    "name": "Ming Yen TSAI"
+                }
+            ],
+            [
+                {
+                    "country": "AUT",
+                    "name": "Ludwig PAISCHER"
+                },
+                {
+                    "country": "SUI",
+                    "name": "Ludovic CHAMMARTIN"
+                }
+            ],
+            [
+                {
+                    "country": "MGL",
+                    "name": "Kherlen GANBOLD"
+                },
+                {
+                    "country": "RUS",
+                    "name": "Robert MSHVIDOBADZE"
+                }
+            ],
+            [
+                {
+                    "country": "RUS",
+                    "name": "Robert MSHVIDOBADZE"
+                }
+            ]
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "FRA",
+                    "name": "Vincent LIMARE"
+                },
+                {
+                    "country": "RUS",
+                    "name": "Robert MSHVIDOBADZE"
+                },
+                {
+                    "winner": "Vincent LIMARE"
+                }
+            ],
+            [
+                {
+                    "country": "SUI",
+                    "name": "Ludovic CHAMMARTIN"
+                },
+                {
+                    "country": "ARM",
+                    "name": "Hovhannes DAVTYAN"
+                },
+                {
+                    "winner": "Hovhannes DAVTYAN"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "FRA",
+                    "name": "Vincent LIMARE"
+                },
+                {
+                    "country": "ARM",
+                    "name": "Hovhannes DAVTYAN"
+                }
+            ],
+            [
+                {
+                    "country": "FRA",
+                    "name": "Vincent LIMARE"
+                }
+            ]
+        ]
+    }
+}

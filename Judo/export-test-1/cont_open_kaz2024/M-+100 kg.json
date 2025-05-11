@@ -1,0 +1,265 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "UZB",
+                    "name": "Abdulloh KHUDOYOROV"
+                },
+                {
+                    "winner": "Abdulloh KHUDOYOROV"
+                }
+            ],
+            [
+                {
+                    "country": "KAZ",
+                    "name": "Yerassyl NUGUMAT"
+                },
+                {
+                    "winner": "Yerassyl NUGUMAT"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "UZB",
+                    "name": "Abdulloh KHUDOYOROV"
+                },
+                {
+                    "country": "KAZ",
+                    "name": "Yerassyl NUGUMAT"
+                }
+            ]
+        ],
+        "final_winner": "Abdulloh KHUDOYOROV"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "IND",
+                    "name": "Manav SHARMA"
+                },
+                {
+                    "winner": "Manav SHARMA"
+                }
+            ],
+            [
+                {
+                    "country": "AZE",
+                    "name": "Eldar ALIYEV"
+                },
+                {
+                    "country": "KAZ",
+                    "name": "Ilyas KALIDOLDA"
+                },
+                {
+                    "winner": "Eldar ALIYEV"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "IND",
+                    "name": "Manav SHARMA"
+                },
+                {
+                    "country": "AZE",
+                    "name": "Eldar ALIYEV"
+                }
+            ]
+        ],
+        "final_winner": "Eldar ALIYEV"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "AZE",
+                    "name": "Jamal FEYZIYEV"
+                },
+                {
+                    "winner": "Jamal FEYZIYEV"
+                }
+            ],
+            [
+                {
+                    "country": "KAZ",
+                    "name": "Shynggys YERZHANULY"
+                },
+                {
+                    "country": "UZB",
+                    "name": "Temirlan IBRAEV"
+                },
+                {
+                    "winner": "Temirlan IBRAEV"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "AZE",
+                    "name": "Jamal FEYZIYEV"
+                },
+                {
+                    "country": "UZB",
+                    "name": "Temirlan IBRAEV"
+                }
+            ]
+        ],
+        "final_winner": "Jamal FEYZIYEV"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "IND",
+                    "name": "Rahul RAHUL"
+                },
+                {
+                    "winner": "Rahul RAHUL"
+                }
+            ],
+            [
+                {
+                    "country": "UZB",
+                    "name": "Asadbek SHIXNAZAROV"
+                },
+                {
+                    "winner": "Asadbek SHIXNAZAROV"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "IND",
+                    "name": "Rahul RAHUL"
+                },
+                {
+                    "country": "UZB",
+                    "name": "Asadbek SHIXNAZAROV"
+                }
+            ]
+        ],
+        "final_winner": "Asadbek SHIXNAZAROV"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "KAZ",
+                    "name": "Yerassyl NUGUMAT"
+                },
+                {
+                    "country": "IND",
+                    "name": "Manav SHARMA"
+                },
+                {
+                    "winner": "Yerassyl NUGUMAT"
+                }
+            ],
+            [
+                {
+                    "country": "UZB",
+                    "name": "Temirlan IBRAEV"
+                },
+                {
+                    "country": "IND",
+                    "name": "Rahul RAHUL"
+                },
+                {
+                    "winner": "Temirlan IBRAEV"
+                }
+            ],
+            [
+                {
+                    "country": "KAZ",
+                    "name": "Yerassyl NUGUMAT"
+                },
+                {
+                    "country": "AZE",
+                    "name": "Jamal FEYZIYEV"
+                },
+                {
+                    "winner": "Jamal FEYZIYEV"
+                }
+            ],
+            [
+                {
+                    "country": "UZB",
+                    "name": "Temirlan IBRAEV"
+                },
+                {
+                    "country": "AZE",
+                    "name": "Eldar ALIYEV"
+                },
+                {
+                    "winner": "Eldar ALIYEV"
+                }
+            ],
+            [
+                {
+                    "country": "AZE",
+                    "name": "Jamal FEYZIYEV"
+                }
+            ],
+            [
+                {
+                    "country": "AZE",
+                    "name": "Eldar ALIYEV"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Jamal FEYZIYEV",
+            "Eldar ALIYEV"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "UZB",
+                    "name": "Abdulloh KHUDOYOROV"
+                },
+                {
+                    "country": "AZE",
+                    "name": "Eldar ALIYEV"
+                },
+                {
+                    "winner": "Abdulloh KHUDOYOROV"
+                }
+            ],
+            [
+                {
+                    "country": "AZE",
+                    "name": "Jamal FEYZIYEV"
+                },
+                {
+                    "country": "UZB",
+                    "name": "Asadbek SHIXNAZAROV"
+                },
+                {
+                    "winner": "Asadbek SHIXNAZAROV"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "UZB",
+                    "name": "Abdulloh KHUDOYOROV"
+                },
+                {
+                    "country": "UZB",
+                    "name": "Asadbek SHIXNAZAROV"
+                }
+            ]
+        ],
+        "final_winner": "Asadbek SHIXNAZAROV"
+    }
+}

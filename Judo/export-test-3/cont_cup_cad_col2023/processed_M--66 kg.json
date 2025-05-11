@@ -1,0 +1,68 @@
+{
+    "ROUND 1": {
+        "round 1-2": [
+            [
+                {
+                    "country": "COL",
+                    "name": "Jhonatan CASTILLO SEPULVEDA"
+                },
+                {
+                    "country": "PAR",
+                    "name": "Agustin LEDESMA"
+                },
+                {
+                    "winner": "Jhonatan CASTILLO SEPULVEDA"
+                }
+            ],
+            [
+                {
+                    "country": "COL",
+                    "name": "Isaac ESPANA"
+                },
+                {
+                    "country": "COL",
+                    "name": "Jhordan VANEGAS"
+                },
+                {
+                    "winner": "Jhordan VANEGAS"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Jhonatan CASTILLO SEPULVEDA",
+            "Jhordan VANEGAS"
+        ]
+    },
+    "REPECHAGE": {
+        "round 1-1": [
+            [
+                {
+                    "country": "PAR",
+                    "name": "Agustin LEDESMA"
+                },
+                {
+                    "country": "COL",
+                    "name": "Isaac ESPANA"
+                },
+                {
+                    "winner": "Isaac ESPANA"
+                }
+            ],
+            [
+                {
+                    "country": "COL",
+                    "name": "Isaac ESPANA"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Isaac ESPANA"
+        ]
+    },
+    "FINALS": {
+        "round 1-1": [],
+        "final_winners": [
+            "Jhonatan CASTILLO SEPULVEDA"
+        ]
+    }
+}

@@ -1,0 +1,177 @@
+{
+    "POOL A": {
+        "round 1-1": [
+            [
+                {
+                    "country": "CUB",
+                    "name": "Ivan Felipe SILVA MORALES"
+                },
+                {
+                    "country": "ECU",
+                    "name": "Edison MOGOLLON"
+                }
+            ]
+        ],
+        "final_winner": "Ivan Felipe SILVA MORALES"
+    },
+    "POOL B": {
+        "round 1-1": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Milton MIRANDA"
+                },
+                {
+                    "country": "ECU",
+                    "name": "Aaron PISCO"
+                }
+            ]
+        ],
+        "final_winner": "Milton MIRANDA"
+    },
+    "POOL C": {
+        "round 1-1": [
+            [
+                {
+                    "country": "PER",
+                    "name": "Yuta GALARRETA"
+                },
+                {
+                    "country": "CAN",
+                    "name": "Danil NEYOLOV"
+                }
+            ]
+        ],
+        "final_winner": "Yuta GALARRETA"
+    },
+    "POOL D": {
+        "round 1-1": [
+            [
+                {
+                    "country": "COL",
+                    "name": "Francisco BALANTA"
+                },
+                {
+                    "country": "ECU",
+                    "name": "Diego SUQUILANDA"
+                }
+            ]
+        ],
+        "final_winner": "Francisco BALANTA"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ECU",
+                    "name": "Edison MOGOLLON"
+                },
+                {
+                    "country": "ECU",
+                    "name": "Aaron PISCO"
+                },
+                {
+                    "winner": "Edison MOGOLLON"
+                }
+            ],
+            [
+                {
+                    "country": "CAN",
+                    "name": "Danil NEYOLOV"
+                },
+                {
+                    "country": "ECU",
+                    "name": "Diego SUQUILANDA"
+                },
+                {
+                    "winner": "Danil NEYOLOV"
+                }
+            ],
+            [
+                {
+                    "country": "ECU",
+                    "name": "Edison MOGOLLON"
+                },
+                {
+                    "country": "COL",
+                    "name": "Francisco BALANTA"
+                },
+                {
+                    "winner": "Francisco BALANTA"
+                }
+            ],
+            [
+                {
+                    "country": "CAN",
+                    "name": "Danil NEYOLOV"
+                },
+                {
+                    "country": "BRA",
+                    "name": "Milton MIRANDA"
+                },
+                {
+                    "winner": "Milton MIRANDA"
+                }
+            ],
+            [
+                {
+                    "country": "COL",
+                    "name": "Francisco BALANTA"
+                }
+            ],
+            [
+                {
+                    "country": "BRA",
+                    "name": "Milton MIRANDA"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Francisco BALANTA",
+            "Milton MIRANDA"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CUB",
+                    "name": "Ivan Felipe SILVA MORALES"
+                },
+                {
+                    "country": "BRA",
+                    "name": "Milton MIRANDA"
+                },
+                {
+                    "winner": "Ivan Felipe SILVA MORALES"
+                }
+            ],
+            [
+                {
+                    "country": "PER",
+                    "name": "Yuta GALARRETA"
+                },
+                {
+                    "country": "COL",
+                    "name": "Francisco BALANTA"
+                },
+                {
+                    "winner": "Yuta GALARRETA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "CUB",
+                    "name": "Ivan Felipe SILVA MORALES"
+                },
+                {
+                    "country": "PER",
+                    "name": "Yuta GALARRETA"
+                }
+            ]
+        ],
+        "final_winner": "Ivan Felipe SILVA MORALES"
+    }
+}

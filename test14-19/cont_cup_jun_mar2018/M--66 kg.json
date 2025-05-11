@@ -1,0 +1,238 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "TUN",
+                    "name": "Mohamed ROUINI"
+                },
+                {
+                    "winner": "Mohamed ROUINI"
+                }
+            ],
+            []
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "TUN",
+                    "name": "Mohamed ROUINI"
+                }
+            ]
+        ]
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CYP",
+                    "name": "Kyprianos ANDREOU"
+                },
+                {
+                    "winner": "Kyprianos ANDREOU"
+                }
+            ],
+            [
+                {
+                    "country": "CYP",
+                    "name": "Louka LOUKAS"
+                },
+                {
+                    "winner": "Louka LOUKAS"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "CYP",
+                    "name": "Kyprianos ANDREOU"
+                },
+                {
+                    "country": "CYP",
+                    "name": "Louka LOUKAS"
+                }
+            ],
+            [
+                {
+                    "country": "CYP",
+                    "name": "Kyprianos ANDREOU"
+                }
+            ]
+        ]
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "BUL",
+                    "name": "Bozhidar TEMELKOV"
+                },
+                {
+                    "winner": "Bozhidar TEMELKOV"
+                }
+            ],
+            []
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "BUL",
+                    "name": "Bozhidar TEMELKOV"
+                }
+            ]
+        ]
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "MAR",
+                    "name": "Hamza ELOUADGHIRI"
+                },
+                {
+                    "winner": "Hamza ELOUADGHIRI"
+                }
+            ],
+            [
+                {
+                    "country": "CYP",
+                    "name": "Georgios BALARJISHVILI"
+                },
+                {
+                    "winner": "Georgios BALARJISHVILI"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "MAR",
+                    "name": "Hamza ELOUADGHIRI"
+                },
+                {
+                    "country": "CYP",
+                    "name": "Georgios BALARJISHVILI"
+                }
+            ],
+            [
+                {
+                    "country": "CYP",
+                    "name": "Georgios BALARJISHVILI"
+                }
+            ]
+        ]
+    },
+    "REPECHAGE": {
+        "round 1-4": [
+            [],
+            [
+                {
+                    "country": "CYP",
+                    "name": "Louka LOUKAS"
+                },
+                {
+                    "winner": "Louka LOUKAS"
+                }
+            ],
+            [],
+            [
+                {
+                    "country": "MAR",
+                    "name": "Hamza ELOUADGHIRI"
+                },
+                {
+                    "winner": "Hamza ELOUADGHIRI"
+                }
+            ]
+        ],
+        "round 1-2": [
+            [
+                {
+                    "country": "CYP",
+                    "name": "Louka LOUKAS"
+                }
+            ],
+            [
+                {
+                    "country": "MAR",
+                    "name": "Hamza ELOUADGHIRI"
+                }
+            ],
+            [
+                {
+                    "country": "CYP",
+                    "name": "Louka LOUKAS"
+                },
+                {
+                    "country": "CYP",
+                    "name": "Georgios BALARJISHVILI"
+                }
+            ],
+            [
+                {
+                    "country": "MAR",
+                    "name": "Hamza ELOUADGHIRI"
+                },
+                {
+                    "country": "CYP",
+                    "name": "Kyprianos ANDREOU"
+                }
+            ],
+            [
+                {
+                    "country": "CYP",
+                    "name": "Georgios BALARJISHVILI"
+                }
+            ]
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "TUN",
+                    "name": "Mohamed ROUINI"
+                },
+                {
+                    "country": "CYP",
+                    "name": "Kyprianos ANDREOU"
+                },
+                {
+                    "winner": "Mohamed ROUINI"
+                }
+            ],
+            [
+                {
+                    "country": "BUL",
+                    "name": "Bozhidar TEMELKOV"
+                },
+                {
+                    "country": "CYP",
+                    "name": "Georgios BALARJISHVILI"
+                },
+                {
+                    "winner": "Bozhidar TEMELKOV"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "TUN",
+                    "name": "Mohamed ROUINI"
+                },
+                {
+                    "country": "BUL",
+                    "name": "Bozhidar TEMELKOV"
+                }
+            ],
+            [
+                {
+                    "country": "BUL",
+                    "name": "Bozhidar TEMELKOV"
+                }
+            ]
+        ]
+    }
+}

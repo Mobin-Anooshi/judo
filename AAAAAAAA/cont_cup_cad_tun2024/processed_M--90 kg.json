@@ -1,0 +1,159 @@
+{
+    "POOL A": {
+        "round 1-1": [
+            [
+                {
+                    "country": "ALG",
+                    "name": "Mohammed Salah HAIMEUR"
+                },
+                {
+                    "country": "TUN",
+                    "name": "Jasser ABIDI"
+                }
+            ]
+        ],
+        "final_winner": "Mohammed Salah HAIMEUR"
+    },
+    "POOL B": {
+        "round 1-1": [
+            [
+                {
+                    "country": "TUN",
+                    "name": "Rayen CHAANBI"
+                },
+                {
+                    "country": "KSA",
+                    "name": "Mohammed SHAIKH MUBARK"
+                }
+            ]
+        ],
+        "final_winner": "Rayen CHAANBI"
+    },
+    "POOL C": {
+        "round 1-1": [],
+        "final_winner": "Aymen BENATIA"
+    },
+    "POOL D": {
+        "round 1-1": [
+            [
+                {
+                    "country": "TUN",
+                    "name": "Adem LANDOLSI"
+                },
+                {
+                    "country": "ALG",
+                    "name": "Mohamed Abderraouf FERADJI"
+                }
+            ]
+        ],
+        "final_winner": "Adem LANDOLSI"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "TUN",
+                    "name": "Jasser ABIDI"
+                },
+                {
+                    "country": "KSA",
+                    "name": "Mohammed SHAIKH MUBARK"
+                },
+                {
+                    "winner": "Mohammed SHAIKH MUBARK"
+                }
+            ],
+            [
+                {
+                    "country": "ALG",
+                    "name": "Mohamed Abderraouf FERADJI"
+                }
+            ],
+            [
+                {
+                    "country": "KSA",
+                    "name": "Mohammed SHAIKH MUBARK"
+                },
+                {
+                    "country": "TUN",
+                    "name": "Adem LANDOLSI"
+                },
+                {
+                    "winner": "Mohammed SHAIKH MUBARK"
+                }
+            ],
+            [
+                {
+                    "country": "ALG",
+                    "name": "Mohamed Abderraouf FERADJI"
+                },
+                {
+                    "country": "ALG",
+                    "name": "Mohammed Salah HAIMEUR"
+                },
+                {
+                    "winner": "Mohammed Salah HAIMEUR"
+                }
+            ],
+            [
+                {
+                    "country": "KSA",
+                    "name": "Mohammed SHAIKH MUBARK"
+                }
+            ],
+            [
+                {
+                    "country": "ALG",
+                    "name": "Mohammed Salah HAIMEUR"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Mohammed SHAIKH MUBARK",
+            "Mohammed Salah HAIMEUR"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ALG",
+                    "name": "Mohammed Salah HAIMEUR"
+                },
+                {
+                    "country": "TUN",
+                    "name": "Rayen CHAANBI"
+                },
+                {
+                    "winner": "Rayen CHAANBI"
+                }
+            ],
+            [
+                {
+                    "country": "ALG",
+                    "name": "Aymen BENATIA"
+                },
+                {
+                    "country": "TUN",
+                    "name": "Adem LANDOLSI"
+                },
+                {
+                    "winner": "Aymen BENATIA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "TUN",
+                    "name": "Rayen CHAANBI"
+                },
+                {
+                    "country": "ALG",
+                    "name": "Aymen BENATIA"
+                }
+            ]
+        ],
+        "final_winner": "Aymen BENATIA"
+    }
+}

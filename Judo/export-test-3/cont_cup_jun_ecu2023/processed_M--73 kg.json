@@ -1,0 +1,87 @@
+{
+    "POOL A": {
+        "round 1-3": [
+            [
+                {
+                    "country": "ECU",
+                    "name": "Jose GONZALEZ"
+                },
+                {
+                    "country": "ECU",
+                    "name": "Julio ARELLANO"
+                },
+                {
+                    "winner": "Jose GONZALEZ"
+                }
+            ],
+            [
+                {
+                    "country": "ECU",
+                    "name": "Jose GONZALEZ"
+                },
+                {
+                    "country": "USA",
+                    "name": "Anthony FARNOT"
+                },
+                {
+                    "winner": "Anthony FARNOT"
+                }
+            ],
+            [
+                {
+                    "country": "ECU",
+                    "name": "Julio ARELLANO"
+                },
+                {
+                    "country": "USA",
+                    "name": "Anthony FARNOT"
+                },
+                {
+                    "winner": "Anthony FARNOT"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Jose GONZALEZ",
+            "Anthony FARNOT"
+        ]
+    },
+    "POOL B": {
+        "round 1-1": [],
+        "final_winners": [
+            "Dominic RODRIGUEZ"
+        ]
+    },
+    "REPECHAGE": {
+        "round 1-1": [
+            [
+                {
+                    "country": "USA",
+                    "name": "Anthony FARNOT"
+                },
+                {
+                    "country": "ECU",
+                    "name": "Jean VALDIVIEZO"
+                },
+                {
+                    "winner": "Anthony FARNOT"
+                }
+            ],
+            [
+                {
+                    "country": "USA",
+                    "name": "Anthony FARNOT"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Anthony FARNOT"
+        ]
+    },
+    "FINALS": {
+        "round 1-1": [],
+        "final_winners": [
+            "Dominic RODRIGUEZ"
+        ]
+    }
+}

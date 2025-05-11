@@ -1,0 +1,221 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "KAZ",
+                    "name": "Madina PARAGULGOVA"
+                },
+                {
+                    "winner": "Madina PARAGULGOVA"
+                }
+            ],
+            []
+        ],
+        "round 1-1": [],
+        "final_winner": "Madina PARAGULGOVA"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "KAZ",
+                    "name": "Nurzhaz SABIOLLA"
+                },
+                {
+                    "winner": "Nurzhaz SABIOLLA"
+                }
+            ],
+            [
+                {
+                    "country": "KGZ",
+                    "name": "Aizhan ANARBEKOVA"
+                },
+                {
+                    "winner": "Aizhan ANARBEKOVA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "KAZ",
+                    "name": "Nurzhaz SABIOLLA"
+                },
+                {
+                    "country": "KGZ",
+                    "name": "Aizhan ANARBEKOVA"
+                }
+            ]
+        ],
+        "final_winner": "Nurzhaz SABIOLLA"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "KAZ",
+                    "name": "Nazgul YESSIMBEK"
+                },
+                {
+                    "winner": "Nazgul YESSIMBEK"
+                }
+            ],
+            [
+                {
+                    "country": "UZB",
+                    "name": "Shinar IBRAEVA"
+                },
+                {
+                    "winner": "Shinar IBRAEVA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "KAZ",
+                    "name": "Nazgul YESSIMBEK"
+                },
+                {
+                    "country": "UZB",
+                    "name": "Shinar IBRAEVA"
+                }
+            ]
+        ],
+        "final_winner": "Shinar IBRAEVA"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "KAZ",
+                    "name": "Assel BISSEMBAY"
+                },
+                {
+                    "winner": "Assel BISSEMBAY"
+                }
+            ],
+            []
+        ],
+        "round 1-1": [],
+        "final_winner": "Assel BISSEMBAY"
+    },
+    "REPECHAGE": {
+        "round 1-4": [
+            [],
+            [
+                {
+                    "country": "KGZ",
+                    "name": "Aizhan ANARBEKOVA"
+                },
+                {
+                    "winner": "Aizhan ANARBEKOVA"
+                }
+            ],
+            [
+                {
+                    "country": "KAZ",
+                    "name": "Nazgul YESSIMBEK"
+                },
+                {
+                    "winner": "Nazgul YESSIMBEK"
+                }
+            ],
+            []
+        ],
+        "round 1-2": [
+            [
+                {
+                    "country": "KGZ",
+                    "name": "Aizhan ANARBEKOVA"
+                }
+            ],
+            [
+                {
+                    "country": "KAZ",
+                    "name": "Nazgul YESSIMBEK"
+                }
+            ],
+            [
+                {
+                    "country": "KGZ",
+                    "name": "Aizhan ANARBEKOVA"
+                },
+                {
+                    "country": "UZB",
+                    "name": "Shinar IBRAEVA"
+                },
+                {
+                    "winner": "Shinar IBRAEVA"
+                }
+            ],
+            [
+                {
+                    "country": "KAZ",
+                    "name": "Nazgul YESSIMBEK"
+                },
+                {
+                    "country": "KAZ",
+                    "name": "Nurzhaz SABIOLLA"
+                },
+                {
+                    "winner": "Nazgul YESSIMBEK"
+                }
+            ],
+            [
+                {
+                    "country": "UZB",
+                    "name": "Shinar IBRAEVA"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Nazgul YESSIMBEK",
+            "Shinar IBRAEVA"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "KAZ",
+                    "name": "Madina PARAGULGOVA"
+                },
+                {
+                    "country": "KAZ",
+                    "name": "Nurzhaz SABIOLLA"
+                },
+                {
+                    "winner": "Madina PARAGULGOVA"
+                }
+            ],
+            [
+                {
+                    "country": "UZB",
+                    "name": "Shinar IBRAEVA"
+                },
+                {
+                    "country": "KAZ",
+                    "name": "Assel BISSEMBAY"
+                },
+                {
+                    "winner": "Assel BISSEMBAY"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "KAZ",
+                    "name": "Madina PARAGULGOVA"
+                },
+                {
+                    "country": "KAZ",
+                    "name": "Assel BISSEMBAY"
+                }
+            ]
+        ],
+        "final_winner": "Assel BISSEMBAY"
+    }
+}

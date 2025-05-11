@@ -1,0 +1,225 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "UZB",
+                    "name": "Makhliyo MANNONOVA"
+                },
+                {
+                    "winner": "Makhliyo MANNONOVA"
+                }
+            ],
+            []
+        ],
+        "round 1-1": [],
+        "final_winner": "Makhliyo MANNONOVA"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "NEP",
+                    "name": "Phupu lhamu KHATRI"
+                },
+                {
+                    "winner": "Phupu lhamu KHATRI"
+                }
+            ],
+            [
+                {
+                    "country": "KOR",
+                    "name": "Sohee LEE"
+                },
+                {
+                    "winner": "Sohee LEE"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "NEP",
+                    "name": "Phupu lhamu KHATRI"
+                },
+                {
+                    "country": "KOR",
+                    "name": "Sohee LEE"
+                }
+            ]
+        ],
+        "final_winner": "Sohee LEE"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "IND",
+                    "name": "Mitlesh MITLESH"
+                },
+                {
+                    "winner": "Mitlesh MITLESH"
+                }
+            ],
+            [
+                {
+                    "country": "IRI",
+                    "name": "Nasim MOHAMMADIBANDBOUNI"
+                },
+                {
+                    "winner": "Nasim MOHAMMADIBANDBOUNI"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "IND",
+                    "name": "Mitlesh MITLESH"
+                },
+                {
+                    "country": "IRI",
+                    "name": "Nasim MOHAMMADIBANDBOUNI"
+                }
+            ]
+        ],
+        "final_winner": "Nasim MOHAMMADIBANDBOUNI"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "KAZ",
+                    "name": "Azhar SALYKOVA"
+                },
+                {
+                    "winner": "Azhar SALYKOVA"
+                }
+            ],
+            [
+                {
+                    "country": "TPE",
+                    "name": "Yu Ching CHENG"
+                },
+                {
+                    "winner": "Yu Ching CHENG"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "KAZ",
+                    "name": "Azhar SALYKOVA"
+                },
+                {
+                    "country": "TPE",
+                    "name": "Yu Ching CHENG"
+                }
+            ]
+        ],
+        "final_winner": "Azhar SALYKOVA"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "NEP",
+                    "name": "Phupu lhamu KHATRI"
+                }
+            ],
+            [
+                {
+                    "country": "IND",
+                    "name": "Mitlesh MITLESH"
+                },
+                {
+                    "country": "TPE",
+                    "name": "Yu Ching CHENG"
+                },
+                {
+                    "winner": "Yu Ching CHENG"
+                }
+            ],
+            [
+                {
+                    "country": "NEP",
+                    "name": "Phupu lhamu KHATRI"
+                },
+                {
+                    "country": "IRI",
+                    "name": "Nasim MOHAMMADIBANDBOUNI"
+                },
+                {
+                    "winner": "Phupu lhamu KHATRI"
+                }
+            ],
+            [
+                {
+                    "country": "TPE",
+                    "name": "Yu Ching CHENG"
+                },
+                {
+                    "country": "UZB",
+                    "name": "Makhliyo MANNONOVA"
+                },
+                {
+                    "winner": "Makhliyo MANNONOVA"
+                }
+            ],
+            [
+                {
+                    "country": "UZB",
+                    "name": "Makhliyo MANNONOVA"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Yu Ching CHENG",
+            "Phupu lhamu KHATRI"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "UZB",
+                    "name": "Makhliyo MANNONOVA"
+                },
+                {
+                    "country": "KOR",
+                    "name": "Sohee LEE"
+                },
+                {
+                    "winner": "Sohee LEE"
+                }
+            ],
+            [
+                {
+                    "country": "IRI",
+                    "name": "Nasim MOHAMMADIBANDBOUNI"
+                },
+                {
+                    "country": "KAZ",
+                    "name": "Azhar SALYKOVA"
+                },
+                {
+                    "winner": "Azhar SALYKOVA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "KOR",
+                    "name": "Sohee LEE"
+                },
+                {
+                    "country": "KAZ",
+                    "name": "Azhar SALYKOVA"
+                }
+            ]
+        ],
+        "final_winner": "Sohee LEE"
+    }
+}

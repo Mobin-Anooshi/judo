@@ -1,0 +1,270 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "DOM",
+                    "name": "Elizon DE LA ROSA PEREZ"
+                },
+                {
+                    "country": "COL",
+                    "name": "Juan MONTEALEGRE"
+                },
+                {
+                    "winner": "Juan MONTEALEGRE"
+                }
+            ],
+            [
+                {
+                    "country": "ARG",
+                    "name": "Felipe CAMPITELLI"
+                },
+                {
+                    "winner": "Felipe CAMPITELLI"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "COL",
+                    "name": "Juan MONTEALEGRE"
+                },
+                {
+                    "country": "ARG",
+                    "name": "Felipe CAMPITELLI"
+                }
+            ],
+            [
+                {
+                    "country": "COL",
+                    "name": "Juan MONTEALEGRE"
+                }
+            ]
+        ]
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CAN",
+                    "name": "Arno BLACQUIERE"
+                },
+                {
+                    "winner": "Arno BLACQUIERE"
+                }
+            ],
+            [
+                {
+                    "country": "USA",
+                    "name": "Joziah FRY"
+                },
+                {
+                    "winner": "Joziah FRY"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "CAN",
+                    "name": "Arno BLACQUIERE"
+                },
+                {
+                    "country": "USA",
+                    "name": "Joziah FRY"
+                }
+            ],
+            [
+                {
+                    "country": "CAN",
+                    "name": "Arno BLACQUIERE"
+                }
+            ]
+        ]
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "PER",
+                    "name": "JEREMY CORDOVA"
+                },
+                {
+                    "winner": "JEREMY CORDOVA"
+                }
+            ],
+            [
+                {
+                    "country": "BRA",
+                    "name": "Aldi DE OLIVEIRA"
+                },
+                {
+                    "winner": "Aldi DE OLIVEIRA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "PER",
+                    "name": "JEREMY CORDOVA"
+                },
+                {
+                    "country": "BRA",
+                    "name": "Aldi DE OLIVEIRA"
+                }
+            ],
+            [
+                {
+                    "country": "BRA",
+                    "name": "Aldi DE OLIVEIRA"
+                }
+            ]
+        ]
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ECU",
+                    "name": "LUIS MURILLO"
+                },
+                {
+                    "winner": "LUIS MURILLO"
+                }
+            ],
+            [
+                {
+                    "country": "PUR",
+                    "name": "Steven GONZALES"
+                },
+                {
+                    "winner": "Steven GONZALES"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "ECU",
+                    "name": "LUIS MURILLO"
+                },
+                {
+                    "country": "PUR",
+                    "name": "Steven GONZALES"
+                }
+            ],
+            [
+                {
+                    "country": "ECU",
+                    "name": "LUIS MURILLO"
+                }
+            ]
+        ]
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ARG",
+                    "name": "Felipe CAMPITELLI"
+                },
+                {
+                    "country": "USA",
+                    "name": "Joziah FRY"
+                }
+            ],
+            [
+                {
+                    "country": "PER",
+                    "name": "JEREMY CORDOVA"
+                },
+                {
+                    "country": "PUR",
+                    "name": "Steven GONZALES"
+                }
+            ],
+            [
+                {
+                    "country": "USA",
+                    "name": "Joziah FRY"
+                },
+                {
+                    "country": "ECU",
+                    "name": "LUIS MURILLO"
+                }
+            ],
+            [
+                {
+                    "country": "PUR",
+                    "name": "Steven GONZALES"
+                },
+                {
+                    "country": "CAN",
+                    "name": "Arno BLACQUIERE"
+                }
+            ],
+            [
+                {
+                    "country": "USA",
+                    "name": "Joziah FRY"
+                }
+            ],
+            [
+                {
+                    "country": "CAN",
+                    "name": "Arno BLACQUIERE"
+                }
+            ]
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "COL",
+                    "name": "Juan MONTEALEGRE"
+                },
+                {
+                    "country": "CAN",
+                    "name": "Arno BLACQUIERE"
+                },
+                {
+                    "winner": "Juan MONTEALEGRE"
+                }
+            ],
+            [
+                {
+                    "country": "BRA",
+                    "name": "Aldi DE OLIVEIRA"
+                },
+                {
+                    "country": "ECU",
+                    "name": "LUIS MURILLO"
+                },
+                {
+                    "winner": "Aldi DE OLIVEIRA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "COL",
+                    "name": "Juan MONTEALEGRE"
+                },
+                {
+                    "country": "BRA",
+                    "name": "Aldi DE OLIVEIRA"
+                }
+            ],
+            [
+                {
+                    "country": "BRA",
+                    "name": "Aldi DE OLIVEIRA"
+                }
+            ]
+        ]
+    }
+}

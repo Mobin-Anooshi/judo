@@ -1,0 +1,153 @@
+{
+    "POOL A": {
+        "round 1-1": [],
+        "final_winner": "Mohamed El Mehdi LILI"
+    },
+    "POOL B": {
+        "round 1-1": [
+            [
+                {
+                    "country": "ALG",
+                    "name": "Samir MOULLA"
+                },
+                {
+                    "country": "ALG",
+                    "name": "Abdelkader FETOUH"
+                }
+            ]
+        ],
+        "final_winner": "Abdelkader FETOUH"
+    },
+    "POOL C": {
+        "round 1-1": [
+            [
+                {
+                    "country": "TUN",
+                    "name": "Wahib HDIOUECH"
+                },
+                {
+                    "country": "ALG",
+                    "name": "Mohamed Amokrane SEBKI"
+                }
+            ]
+        ],
+        "final_winner": "Wahib HDIOUECH"
+    },
+    "POOL D": {
+        "round 1-1": [
+            [
+                {
+                    "country": "TUN",
+                    "name": "Adem KOUKI"
+                },
+                {
+                    "country": "ALG",
+                    "name": "Abdenour AIFFA"
+                }
+            ]
+        ],
+        "final_winner": "Adem KOUKI"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ALG",
+                    "name": "Samir MOULLA"
+                }
+            ],
+            [
+                {
+                    "country": "ALG",
+                    "name": "Mohamed Amokrane SEBKI"
+                },
+                {
+                    "country": "ALG",
+                    "name": "Abdenour AIFFA"
+                },
+                {
+                    "winner": "Abdenour AIFFA"
+                }
+            ],
+            [
+                {
+                    "country": "ALG",
+                    "name": "Samir MOULLA"
+                },
+                {
+                    "country": "TUN",
+                    "name": "Wahib HDIOUECH"
+                },
+                {
+                    "winner": "Samir MOULLA"
+                }
+            ],
+            [
+                {
+                    "country": "ALG",
+                    "name": "Abdenour AIFFA"
+                },
+                {
+                    "country": "ALG",
+                    "name": "Abdelkader FETOUH"
+                },
+                {
+                    "winner": "Abdelkader FETOUH"
+                }
+            ],
+            [
+                {
+                    "country": "ALG",
+                    "name": "Abdelkader FETOUH"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Abdenour AIFFA",
+            "Samir MOULLA"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ALG",
+                    "name": "Mohamed El Mehdi LILI"
+                },
+                {
+                    "country": "ALG",
+                    "name": "Abdelkader FETOUH"
+                },
+                {
+                    "winner": "Mohamed El Mehdi LILI"
+                }
+            ],
+            [
+                {
+                    "country": "TUN",
+                    "name": "Wahib HDIOUECH"
+                },
+                {
+                    "country": "TUN",
+                    "name": "Adem KOUKI"
+                },
+                {
+                    "winner": "Adem KOUKI"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "ALG",
+                    "name": "Mohamed El Mehdi LILI"
+                },
+                {
+                    "country": "TUN",
+                    "name": "Adem KOUKI"
+                }
+            ]
+        ],
+        "final_winner": "Mohamed El Mehdi LILI"
+    }
+}

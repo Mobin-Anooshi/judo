@@ -1,0 +1,153 @@
+{
+    "POOL A": {
+        "round 1-1": [],
+        "final_winner": "Hector CAMPOS"
+    },
+    "POOL B": {
+        "round 1-1": [
+            [
+                {
+                    "country": "CHI",
+                    "name": "Francisco SOLIS"
+                },
+                {
+                    "country": "CAN",
+                    "name": "Jean Francois OUELLET"
+                }
+            ]
+        ],
+        "final_winner": "Jean Francois OUELLET"
+    },
+    "POOL C": {
+        "round 1-1": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Ruan ISQUIERDO"
+                },
+                {
+                    "country": "PUR",
+                    "name": "Rafael FERRER"
+                }
+            ]
+        ],
+        "final_winner": "Ruan ISQUIERDO"
+    },
+    "POOL D": {
+        "round 1-1": [
+            [
+                {
+                    "country": "USA",
+                    "name": "Ajax TADEHARA"
+                },
+                {
+                    "country": "USA",
+                    "name": "Arash SOOFIANI"
+                }
+            ]
+        ],
+        "final_winner": "Arash SOOFIANI"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CHI",
+                    "name": "Francisco SOLIS"
+                }
+            ],
+            [
+                {
+                    "country": "PUR",
+                    "name": "Rafael FERRER"
+                },
+                {
+                    "country": "USA",
+                    "name": "Ajax TADEHARA"
+                },
+                {
+                    "winner": "Ajax TADEHARA"
+                }
+            ],
+            [
+                {
+                    "country": "CHI",
+                    "name": "Francisco SOLIS"
+                },
+                {
+                    "country": "USA",
+                    "name": "Arash SOOFIANI"
+                },
+                {
+                    "winner": "Francisco SOLIS"
+                }
+            ],
+            [
+                {
+                    "country": "USA",
+                    "name": "Ajax TADEHARA"
+                },
+                {
+                    "country": "CAN",
+                    "name": "Jean Francois OUELLET"
+                },
+                {
+                    "winner": "Jean Francois OUELLET"
+                }
+            ],
+            [
+                {
+                    "country": "CAN",
+                    "name": "Jean Francois OUELLET"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Ajax TADEHARA",
+            "Francisco SOLIS"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ARG",
+                    "name": "Hector CAMPOS"
+                },
+                {
+                    "country": "CAN",
+                    "name": "Jean Francois OUELLET"
+                },
+                {
+                    "winner": "Hector CAMPOS"
+                }
+            ],
+            [
+                {
+                    "country": "BRA",
+                    "name": "Ruan ISQUIERDO"
+                },
+                {
+                    "country": "USA",
+                    "name": "Arash SOOFIANI"
+                },
+                {
+                    "winner": "Ruan ISQUIERDO"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "ARG",
+                    "name": "Hector CAMPOS"
+                },
+                {
+                    "country": "BRA",
+                    "name": "Ruan ISQUIERDO"
+                }
+            ]
+        ],
+        "final_winner": "Ruan ISQUIERDO"
+    }
+}

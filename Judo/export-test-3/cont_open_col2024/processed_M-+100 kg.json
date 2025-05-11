@@ -1,0 +1,68 @@
+{
+    "ROUND 1": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ECU",
+                    "name": "Freddy FIGUEROA"
+                },
+                {
+                    "country": "DOM",
+                    "name": "Julio Cesar JAVIER ARIAS"
+                },
+                {
+                    "winner": "Freddy FIGUEROA"
+                }
+            ],
+            [
+                {
+                    "country": "USA",
+                    "name": "Philip HORIUCHI"
+                },
+                {
+                    "country": "COL",
+                    "name": "Juan Camilo LANDAZURI"
+                },
+                {
+                    "winner": "Philip HORIUCHI"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Freddy FIGUEROA",
+            "Philip HORIUCHI"
+        ]
+    },
+    "REPECHAGE": {
+        "round 1-1": [
+            [
+                {
+                    "country": "DOM",
+                    "name": "Julio Cesar JAVIER ARIAS"
+                },
+                {
+                    "country": "COL",
+                    "name": "Juan Camilo LANDAZURI"
+                },
+                {
+                    "winner": "Juan Camilo LANDAZURI"
+                }
+            ],
+            [
+                {
+                    "country": "COL",
+                    "name": "Juan Camilo LANDAZURI"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Juan Camilo LANDAZURI"
+        ]
+    },
+    "FINALS": {
+        "round 1-1": [],
+        "final_winners": [
+            "Freddy FIGUEROA"
+        ]
+    }
+}

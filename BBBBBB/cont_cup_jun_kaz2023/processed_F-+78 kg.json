@@ -1,0 +1,159 @@
+{
+    "POOL A": {
+        "round 1-1": [],
+        "final_winner": "Karina TAKIYEVA"
+    },
+    "POOL B": {
+        "round 1-1": [
+            [
+                {
+                    "country": "UZB",
+                    "name": "Mokhlaroyim TUKHTAMISHEVA"
+                },
+                {
+                    "country": "KAZ",
+                    "name": "Korkem BAKYTBEK"
+                }
+            ]
+        ],
+        "final_winner": "Mokhlaroyim TUKHTAMISHEVA"
+    },
+    "POOL C": {
+        "round 1-1": [
+            [
+                {
+                    "country": "KAZ",
+                    "name": "Tolkyn TURSYNAKYNOVA"
+                },
+                {
+                    "country": "KGZ",
+                    "name": "Akmarzhan TURDAZHIEVA"
+                }
+            ]
+        ],
+        "final_winner": "Akmarzhan TURDAZHIEVA"
+    },
+    "POOL D": {
+        "round 1-1": [
+            [
+                {
+                    "country": "UZB",
+                    "name": "Durdona NIZOMADDINOVA"
+                },
+                {
+                    "country": "KAZ",
+                    "name": "Kuralay SATTAR"
+                }
+            ]
+        ],
+        "final_winner": "Durdona NIZOMADDINOVA"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "KAZ",
+                    "name": "Korkem BAKYTBEK"
+                }
+            ],
+            [
+                {
+                    "country": "KAZ",
+                    "name": "Tolkyn TURSYNAKYNOVA"
+                },
+                {
+                    "country": "KAZ",
+                    "name": "Kuralay SATTAR"
+                },
+                {
+                    "winner": "Tolkyn TURSYNAKYNOVA"
+                }
+            ],
+            [
+                {
+                    "country": "KAZ",
+                    "name": "Korkem BAKYTBEK"
+                },
+                {
+                    "country": "KGZ",
+                    "name": "Akmarzhan TURDAZHIEVA"
+                },
+                {
+                    "winner": "Akmarzhan TURDAZHIEVA"
+                }
+            ],
+            [
+                {
+                    "country": "KAZ",
+                    "name": "Tolkyn TURSYNAKYNOVA"
+                },
+                {
+                    "country": "UZB",
+                    "name": "Mokhlaroyim TUKHTAMISHEVA"
+                },
+                {
+                    "winner": "Mokhlaroyim TUKHTAMISHEVA"
+                }
+            ],
+            [
+                {
+                    "country": "KGZ",
+                    "name": "Akmarzhan TURDAZHIEVA"
+                }
+            ],
+            [
+                {
+                    "country": "UZB",
+                    "name": "Mokhlaroyim TUKHTAMISHEVA"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Akmarzhan TURDAZHIEVA",
+            "Mokhlaroyim TUKHTAMISHEVA"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "KAZ",
+                    "name": "Karina TAKIYEVA"
+                },
+                {
+                    "country": "UZB",
+                    "name": "Mokhlaroyim TUKHTAMISHEVA"
+                },
+                {
+                    "winner": "Karina TAKIYEVA"
+                }
+            ],
+            [
+                {
+                    "country": "KGZ",
+                    "name": "Akmarzhan TURDAZHIEVA"
+                },
+                {
+                    "country": "UZB",
+                    "name": "Durdona NIZOMADDINOVA"
+                },
+                {
+                    "winner": "Durdona NIZOMADDINOVA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "KAZ",
+                    "name": "Karina TAKIYEVA"
+                },
+                {
+                    "country": "UZB",
+                    "name": "Durdona NIZOMADDINOVA"
+                }
+            ]
+        ],
+        "final_winner": "Karina TAKIYEVA"
+    }
+}

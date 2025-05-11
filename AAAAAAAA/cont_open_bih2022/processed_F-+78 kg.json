@@ -1,0 +1,261 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CRO",
+                    "name": "Helena VUKOVIC"
+                },
+                {
+                    "winner": "Helena VUKOVIC"
+                }
+            ],
+            [
+                {
+                    "country": "FRA",
+                    "name": "Emma SAUDRAIS"
+                },
+                {
+                    "winner": "Emma SAUDRAIS"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "CRO",
+                    "name": "Helena VUKOVIC"
+                },
+                {
+                    "country": "FRA",
+                    "name": "Emma SAUDRAIS"
+                }
+            ]
+        ],
+        "final_winner": "Helena VUKOVIC"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "SLO",
+                    "name": "Urska TORKAR"
+                },
+                {
+                    "winner": "Urska TORKAR"
+                }
+            ],
+            [
+                {
+                    "country": "TUR",
+                    "name": "Kubranur ESIR"
+                },
+                {
+                    "winner": "Kubranur ESIR"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "SLO",
+                    "name": "Urska TORKAR"
+                },
+                {
+                    "country": "TUR",
+                    "name": "Kubranur ESIR"
+                }
+            ]
+        ],
+        "final_winner": "Urska TORKAR"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "FRA",
+                    "name": "Valentine MARCHAND"
+                },
+                {
+                    "winner": "Valentine MARCHAND"
+                }
+            ],
+            [
+                {
+                    "country": "TUR",
+                    "name": "Sebile AKBULUT"
+                },
+                {
+                    "country": "FRA",
+                    "name": "Tahina DURAND"
+                },
+                {
+                    "winner": "Sebile AKBULUT"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "FRA",
+                    "name": "Valentine MARCHAND"
+                },
+                {
+                    "country": "TUR",
+                    "name": "Sebile AKBULUT"
+                }
+            ]
+        ],
+        "final_winner": "Valentine MARCHAND"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "SLO",
+                    "name": "Nicki NORCIC"
+                },
+                {
+                    "winner": "Nicki NORCIC"
+                }
+            ],
+            [
+                {
+                    "country": "UKR",
+                    "name": "Khrystyna HOMAN"
+                },
+                {
+                    "winner": "Khrystyna HOMAN"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "SLO",
+                    "name": "Nicki NORCIC"
+                },
+                {
+                    "country": "UKR",
+                    "name": "Khrystyna HOMAN"
+                }
+            ]
+        ],
+        "final_winner": "Nicki NORCIC"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "FRA",
+                    "name": "Emma SAUDRAIS"
+                },
+                {
+                    "country": "TUR",
+                    "name": "Kubranur ESIR"
+                },
+                {
+                    "winner": "Emma SAUDRAIS"
+                }
+            ],
+            [
+                {
+                    "country": "TUR",
+                    "name": "Sebile AKBULUT"
+                },
+                {
+                    "country": "UKR",
+                    "name": "Khrystyna HOMAN"
+                },
+                {
+                    "winner": "Sebile AKBULUT"
+                }
+            ],
+            [
+                {
+                    "country": "FRA",
+                    "name": "Emma SAUDRAIS"
+                },
+                {
+                    "country": "SLO",
+                    "name": "Nicki NORCIC"
+                },
+                {
+                    "winner": "Nicki NORCIC"
+                }
+            ],
+            [
+                {
+                    "country": "TUR",
+                    "name": "Sebile AKBULUT"
+                },
+                {
+                    "country": "CRO",
+                    "name": "Helena VUKOVIC"
+                },
+                {
+                    "winner": "Sebile AKBULUT"
+                }
+            ],
+            [
+                {
+                    "country": "SLO",
+                    "name": "Nicki NORCIC"
+                }
+            ],
+            [
+                {
+                    "country": "TUR",
+                    "name": "Sebile AKBULUT"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Nicki NORCIC",
+            "Sebile AKBULUT"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CRO",
+                    "name": "Helena VUKOVIC"
+                },
+                {
+                    "country": "SLO",
+                    "name": "Urska TORKAR"
+                },
+                {
+                    "winner": "Urska TORKAR"
+                }
+            ],
+            [
+                {
+                    "country": "FRA",
+                    "name": "Valentine MARCHAND"
+                },
+                {
+                    "country": "SLO",
+                    "name": "Nicki NORCIC"
+                },
+                {
+                    "winner": "Valentine MARCHAND"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "SLO",
+                    "name": "Urska TORKAR"
+                },
+                {
+                    "country": "FRA",
+                    "name": "Valentine MARCHAND"
+                }
+            ]
+        ],
+        "final_winner": "Valentine MARCHAND"
+    }
+}

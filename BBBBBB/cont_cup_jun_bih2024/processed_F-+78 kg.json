@@ -1,0 +1,159 @@
+{
+    "POOL A": {
+        "round 1-1": [],
+        "final_winner": "Jovana MRVALJEVIC"
+    },
+    "POOL B": {
+        "round 1-1": [
+            [
+                {
+                    "country": "BIH",
+                    "name": "Danijela KAJTAZOVIC"
+                },
+                {
+                    "country": "TUR",
+                    "name": "Yagmur YILMAZ"
+                }
+            ]
+        ],
+        "final_winner": "Yagmur YILMAZ"
+    },
+    "POOL C": {
+        "round 1-1": [
+            [
+                {
+                    "country": "CRO",
+                    "name": "Marcelina VRANJES"
+                },
+                {
+                    "country": "ROU",
+                    "name": "Daria TUDORACHE"
+                }
+            ]
+        ],
+        "final_winner": "Marcelina VRANJES"
+    },
+    "POOL D": {
+        "round 1-1": [
+            [
+                {
+                    "country": "BIH",
+                    "name": "Lana BJELICA"
+                },
+                {
+                    "country": "BIH",
+                    "name": "Andrea SIMOVIC"
+                }
+            ]
+        ],
+        "final_winner": "Lana BJELICA"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "BIH",
+                    "name": "Danijela KAJTAZOVIC"
+                }
+            ],
+            [
+                {
+                    "country": "ROU",
+                    "name": "Daria TUDORACHE"
+                },
+                {
+                    "country": "BIH",
+                    "name": "Andrea SIMOVIC"
+                },
+                {
+                    "winner": "Daria TUDORACHE"
+                }
+            ],
+            [
+                {
+                    "country": "BIH",
+                    "name": "Danijela KAJTAZOVIC"
+                },
+                {
+                    "country": "BIH",
+                    "name": "Lana BJELICA"
+                },
+                {
+                    "winner": "Lana BJELICA"
+                }
+            ],
+            [
+                {
+                    "country": "ROU",
+                    "name": "Daria TUDORACHE"
+                },
+                {
+                    "country": "TUR",
+                    "name": "Yagmur YILMAZ"
+                },
+                {
+                    "winner": "Yagmur YILMAZ"
+                }
+            ],
+            [
+                {
+                    "country": "BIH",
+                    "name": "Lana BJELICA"
+                }
+            ],
+            [
+                {
+                    "country": "TUR",
+                    "name": "Yagmur YILMAZ"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Lana BJELICA",
+            "Yagmur YILMAZ"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "MNE",
+                    "name": "Jovana MRVALJEVIC"
+                },
+                {
+                    "country": "TUR",
+                    "name": "Yagmur YILMAZ"
+                },
+                {
+                    "winner": "Jovana MRVALJEVIC"
+                }
+            ],
+            [
+                {
+                    "country": "CRO",
+                    "name": "Marcelina VRANJES"
+                },
+                {
+                    "country": "BIH",
+                    "name": "Lana BJELICA"
+                },
+                {
+                    "winner": "Marcelina VRANJES"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "MNE",
+                    "name": "Jovana MRVALJEVIC"
+                },
+                {
+                    "country": "CRO",
+                    "name": "Marcelina VRANJES"
+                }
+            ]
+        ],
+        "final_winner": "Marcelina VRANJES"
+    }
+}

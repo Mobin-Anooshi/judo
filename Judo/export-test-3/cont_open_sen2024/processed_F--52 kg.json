@@ -1,0 +1,68 @@
+{
+    "ROUND 1": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CMR",
+                    "name": "Marie Celine BABA MATIA"
+                },
+                {
+                    "country": "MAR",
+                    "name": "Amina ALAOUI CHERIFI"
+                },
+                {
+                    "winner": "Marie Celine BABA MATIA"
+                }
+            ],
+            [
+                {
+                    "country": "SEN",
+                    "name": "Diodio SONKO"
+                },
+                {
+                    "country": "MAD",
+                    "name": "Idealisoa RAMORASATA"
+                },
+                {
+                    "winner": "Diodio SONKO"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Marie Celine BABA MATIA",
+            "Diodio SONKO"
+        ]
+    },
+    "REPECHAGE": {
+        "round 1-1": [
+            [
+                {
+                    "country": "MAR",
+                    "name": "Amina ALAOUI CHERIFI"
+                },
+                {
+                    "country": "MAD",
+                    "name": "Idealisoa RAMORASATA"
+                },
+                {
+                    "winner": "Amina ALAOUI CHERIFI"
+                }
+            ],
+            [
+                {
+                    "country": "MAR",
+                    "name": "Amina ALAOUI CHERIFI"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Amina ALAOUI CHERIFI"
+        ]
+    },
+    "FINALS": {
+        "round 1-1": [],
+        "final_winners": [
+            "Diodio SONKO"
+        ]
+    }
+}

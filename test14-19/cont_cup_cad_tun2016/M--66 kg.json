@@ -1,0 +1,238 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "SLO",
+                    "name": "Luka BIZJAK"
+                },
+                {
+                    "winner": "Luka BIZJAK"
+                }
+            ],
+            [
+                {
+                    "country": "ALG",
+                    "name": "Hamanou HADDAD"
+                },
+                {
+                    "winner": "Hamanou HADDAD"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "SLO",
+                    "name": "Luka BIZJAK"
+                },
+                {
+                    "country": "ALG",
+                    "name": "Hamanou HADDAD"
+                }
+            ],
+            [
+                {
+                    "country": "SLO",
+                    "name": "Luka BIZJAK"
+                }
+            ]
+        ]
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "HUN",
+                    "name": "Botond CSORBA"
+                },
+                {
+                    "winner": "Botond CSORBA"
+                }
+            ],
+            [
+                {
+                    "country": "TUN",
+                    "name": "Hachem SELLAMI"
+                },
+                {
+                    "winner": "Hachem SELLAMI"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "HUN",
+                    "name": "Botond CSORBA"
+                },
+                {
+                    "country": "TUN",
+                    "name": "Hachem SELLAMI"
+                }
+            ],
+            [
+                {
+                    "country": "TUN",
+                    "name": "Hachem SELLAMI"
+                }
+            ]
+        ]
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "TUN",
+                    "name": "Raed NWIWI"
+                },
+                {
+                    "winner": "Raed NWIWI"
+                }
+            ],
+            []
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "TUN",
+                    "name": "Raed NWIWI"
+                }
+            ]
+        ]
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ALG",
+                    "name": "Boubekeur REBAHI"
+                },
+                {
+                    "winner": "Boubekeur REBAHI"
+                }
+            ],
+            [
+                {
+                    "country": "TUN",
+                    "name": "Nabil MEFTAHI"
+                },
+                {
+                    "winner": "Nabil MEFTAHI"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "ALG",
+                    "name": "Boubekeur REBAHI"
+                },
+                {
+                    "country": "TUN",
+                    "name": "Nabil MEFTAHI"
+                }
+            ],
+            [
+                {
+                    "country": "TUN",
+                    "name": "Nabil MEFTAHI"
+                }
+            ]
+        ]
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ALG",
+                    "name": "Hamanou HADDAD"
+                },
+                {
+                    "country": "HUN",
+                    "name": "Botond CSORBA"
+                }
+            ],
+            [
+                {
+                    "country": "ALG",
+                    "name": "Boubekeur REBAHI"
+                }
+            ],
+            [
+                {
+                    "country": "ALG",
+                    "name": "Hamanou HADDAD"
+                },
+                {
+                    "country": "TUN",
+                    "name": "Nabil MEFTAHI"
+                }
+            ],
+            [
+                {
+                    "country": "ALG",
+                    "name": "Boubekeur REBAHI"
+                },
+                {
+                    "country": "TUN",
+                    "name": "Hachem SELLAMI"
+                }
+            ],
+            [
+                {
+                    "country": "ALG",
+                    "name": "Hamanou HADDAD"
+                }
+            ]
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "SLO",
+                    "name": "Luka BIZJAK"
+                },
+                {
+                    "country": "TUN",
+                    "name": "Hachem SELLAMI"
+                },
+                {
+                    "winner": "Luka BIZJAK"
+                }
+            ],
+            [
+                {
+                    "country": "TUN",
+                    "name": "Raed NWIWI"
+                },
+                {
+                    "country": "TUN",
+                    "name": "Nabil MEFTAHI"
+                },
+                {
+                    "winner": "Raed NWIWI"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "SLO",
+                    "name": "Luka BIZJAK"
+                },
+                {
+                    "country": "TUN",
+                    "name": "Raed NWIWI"
+                }
+            ],
+            [
+                {
+                    "country": "SLO",
+                    "name": "Luka BIZJAK"
+                }
+            ]
+        ]
+    }
+}

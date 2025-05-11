@@ -1,0 +1,266 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "USA",
+                    "name": "Samantha BLEIER"
+                },
+                {
+                    "winner": "Samantha BLEIER"
+                }
+            ],
+            [
+                {
+                    "country": "BRA",
+                    "name": "Melina SCARDUA"
+                },
+                {
+                    "winner": "Melina SCARDUA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "USA",
+                    "name": "Samantha BLEIER"
+                },
+                {
+                    "country": "BRA",
+                    "name": "Melina SCARDUA"
+                }
+            ],
+            [
+                {
+                    "country": "USA",
+                    "name": "Samantha BLEIER"
+                }
+            ]
+        ]
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CHI",
+                    "name": "Jacqueline USNAYO"
+                },
+                {
+                    "winner": "Jacqueline USNAYO"
+                }
+            ],
+            [
+                {
+                    "country": "GUA",
+                    "name": "Mirla NOLBERTO LABRIEL"
+                },
+                {
+                    "winner": "Mirla NOLBERTO LABRIEL"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "CHI",
+                    "name": "Jacqueline USNAYO"
+                },
+                {
+                    "country": "GUA",
+                    "name": "Mirla NOLBERTO LABRIEL"
+                }
+            ],
+            [
+                {
+                    "country": "CHI",
+                    "name": "Jacqueline USNAYO"
+                }
+            ]
+        ]
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ECU",
+                    "name": "Diana CHALA"
+                },
+                {
+                    "winner": "Diana CHALA"
+                }
+            ],
+            [
+                {
+                    "country": "CHI",
+                    "name": "Marta DAVILA"
+                },
+                {
+                    "winner": "Marta DAVILA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "ECU",
+                    "name": "Diana CHALA"
+                },
+                {
+                    "country": "CHI",
+                    "name": "Marta DAVILA"
+                }
+            ],
+            [
+                {
+                    "country": "ECU",
+                    "name": "Diana CHALA"
+                }
+            ]
+        ]
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ESP",
+                    "name": "Laia TALARN"
+                },
+                {
+                    "winner": "Laia TALARN"
+                }
+            ],
+            [
+                {
+                    "country": "MEX",
+                    "name": "Myriam GONZALEZ"
+                },
+                {
+                    "winner": "Myriam GONZALEZ"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "ESP",
+                    "name": "Laia TALARN"
+                },
+                {
+                    "country": "MEX",
+                    "name": "Myriam GONZALEZ"
+                }
+            ],
+            [
+                {
+                    "country": "ESP",
+                    "name": "Laia TALARN"
+                }
+            ]
+        ]
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Melina SCARDUA"
+                },
+                {
+                    "country": "GUA",
+                    "name": "Mirla NOLBERTO LABRIEL"
+                }
+            ],
+            [
+                {
+                    "country": "CHI",
+                    "name": "Marta DAVILA"
+                },
+                {
+                    "country": "MEX",
+                    "name": "Myriam GONZALEZ"
+                }
+            ],
+            [
+                {
+                    "country": "BRA",
+                    "name": "Melina SCARDUA"
+                },
+                {
+                    "country": "ECU",
+                    "name": "Diana CHALA"
+                }
+            ],
+            [
+                {
+                    "country": "MEX",
+                    "name": "Myriam GONZALEZ"
+                },
+                {
+                    "country": "USA",
+                    "name": "Samantha BLEIER"
+                }
+            ],
+            [
+                {
+                    "country": "ECU",
+                    "name": "Diana CHALA"
+                }
+            ],
+            [
+                {
+                    "country": "MEX",
+                    "name": "Myriam GONZALEZ"
+                }
+            ]
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "USA",
+                    "name": "Samantha BLEIER"
+                },
+                {
+                    "country": "CHI",
+                    "name": "Jacqueline USNAYO"
+                },
+                {
+                    "winner": "Jacqueline USNAYO"
+                }
+            ],
+            [
+                {
+                    "country": "ECU",
+                    "name": "Diana CHALA"
+                },
+                {
+                    "country": "ESP",
+                    "name": "Laia TALARN"
+                },
+                {
+                    "winner": "Laia TALARN"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "CHI",
+                    "name": "Jacqueline USNAYO"
+                },
+                {
+                    "country": "ESP",
+                    "name": "Laia TALARN"
+                }
+            ],
+            [
+                {
+                    "country": "ESP",
+                    "name": "Laia TALARN"
+                }
+            ]
+        ]
+    }
+}

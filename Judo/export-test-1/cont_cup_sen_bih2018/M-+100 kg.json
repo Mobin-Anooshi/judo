@@ -1,0 +1,295 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CRO",
+                    "name": "Ivan COVIC"
+                },
+                {
+                    "winner": "Ivan COVIC"
+                }
+            ],
+            [
+                {
+                    "country": "ISR",
+                    "name": "Naor ITAH"
+                },
+                {
+                    "winner": "Naor ITAH"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "CRO",
+                    "name": "Ivan COVIC"
+                },
+                {
+                    "country": "ISR",
+                    "name": "Naor ITAH"
+                }
+            ]
+        ],
+        "final_winner": "Ivan COVIC"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "BUL",
+                    "name": "Veselin IVANOV"
+                },
+                {
+                    "winner": "Veselin IVANOV"
+                }
+            ],
+            [
+                {
+                    "country": "SLO",
+                    "name": "Enej MARINIC"
+                },
+                {
+                    "winner": "Enej MARINIC"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "BUL",
+                    "name": "Veselin IVANOV"
+                },
+                {
+                    "country": "SLO",
+                    "name": "Enej MARINIC"
+                }
+            ]
+        ],
+        "final_winner": "Enej MARINIC"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "RUS",
+                    "name": "Anton BRACHEV"
+                },
+                {
+                    "winner": "Anton BRACHEV"
+                }
+            ],
+            [
+                {
+                    "country": "BIH",
+                    "name": "Igor VRACAR"
+                },
+                {
+                    "winner": "Igor VRACAR"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "RUS",
+                    "name": "Anton BRACHEV"
+                },
+                {
+                    "country": "BIH",
+                    "name": "Igor VRACAR"
+                }
+            ]
+        ],
+        "final_winner": "Anton BRACHEV"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CRO",
+                    "name": "Marko KUMRIC"
+                },
+                {
+                    "winner": "Marko KUMRIC"
+                }
+            ],
+            [
+                {
+                    "country": "MNE",
+                    "name": "Jovan PEKOVIC"
+                },
+                {
+                    "winner": "Jovan PEKOVIC"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "CRO",
+                    "name": "Marko KUMRIC"
+                },
+                {
+                    "country": "MNE",
+                    "name": "Jovan PEKOVIC"
+                }
+            ]
+        ],
+        "final_winner": "Marko KUMRIC"
+    },
+    "REPECHAGE": {
+        "round 1-4": [
+            [
+                {
+                    "country": "ISR",
+                    "name": "Naor ITAH"
+                },
+                {
+                    "winner": "Naor ITAH"
+                }
+            ],
+            [
+                {
+                    "country": "BUL",
+                    "name": "Veselin IVANOV"
+                },
+                {
+                    "winner": "Veselin IVANOV"
+                }
+            ],
+            [
+                {
+                    "country": "BIH",
+                    "name": "Igor VRACAR"
+                },
+                {
+                    "winner": "Igor VRACAR"
+                }
+            ],
+            [
+                {
+                    "country": "MNE",
+                    "name": "Jovan PEKOVIC"
+                },
+                {
+                    "winner": "Jovan PEKOVIC"
+                }
+            ]
+        ],
+        "round 1-2": [
+            [
+                {
+                    "country": "ISR",
+                    "name": "Naor ITAH"
+                },
+                {
+                    "country": "BUL",
+                    "name": "Veselin IVANOV"
+                },
+                {
+                    "winner": "Naor ITAH"
+                }
+            ],
+            [
+                {
+                    "country": "BIH",
+                    "name": "Igor VRACAR"
+                },
+                {
+                    "country": "MNE",
+                    "name": "Jovan PEKOVIC"
+                },
+                {
+                    "winner": "Jovan PEKOVIC"
+                }
+            ],
+            [
+                {
+                    "country": "ISR",
+                    "name": "Naor ITAH"
+                },
+                {
+                    "country": "CRO",
+                    "name": "Marko KUMRIC"
+                },
+                {
+                    "winner": "Marko KUMRIC"
+                }
+            ],
+            [
+                {
+                    "country": "MNE",
+                    "name": "Jovan PEKOVIC"
+                },
+                {
+                    "country": "CRO",
+                    "name": "Ivan COVIC"
+                },
+                {
+                    "winner": "Jovan PEKOVIC"
+                }
+            ],
+            [
+                {
+                    "country": "CRO",
+                    "name": "Marko KUMRIC"
+                }
+            ],
+            [
+                {
+                    "country": "MNE",
+                    "name": "Jovan PEKOVIC"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Marko KUMRIC",
+            "Jovan PEKOVIC"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CRO",
+                    "name": "Ivan COVIC"
+                },
+                {
+                    "country": "SLO",
+                    "name": "Enej MARINIC"
+                },
+                {
+                    "winner": "Enej MARINIC"
+                }
+            ],
+            [
+                {
+                    "country": "RUS",
+                    "name": "Anton BRACHEV"
+                },
+                {
+                    "country": "CRO",
+                    "name": "Marko KUMRIC"
+                },
+                {
+                    "winner": "Anton BRACHEV"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "SLO",
+                    "name": "Enej MARINIC"
+                },
+                {
+                    "country": "RUS",
+                    "name": "Anton BRACHEV"
+                }
+            ]
+        ],
+        "final_winner": "Anton BRACHEV"
+    }
+}

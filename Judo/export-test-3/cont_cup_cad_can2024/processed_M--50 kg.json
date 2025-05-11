@@ -1,0 +1,68 @@
+{
+    "ROUND 1": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CAN",
+                    "name": "Kohen GALYE"
+                },
+                {
+                    "country": "CAN",
+                    "name": "Akhmed LOLIEV"
+                },
+                {
+                    "winner": "Akhmed LOLIEV"
+                }
+            ],
+            [
+                {
+                    "country": "CAN",
+                    "name": "William MAHEUX"
+                },
+                {
+                    "country": "USA",
+                    "name": "Jannaco SEARCY"
+                },
+                {
+                    "winner": "Jannaco SEARCY"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Akhmed LOLIEV",
+            "Jannaco SEARCY"
+        ]
+    },
+    "REPECHAGE": {
+        "round 1-1": [
+            [
+                {
+                    "country": "CAN",
+                    "name": "Kohen GALYE"
+                },
+                {
+                    "country": "CAN",
+                    "name": "William MAHEUX"
+                },
+                {
+                    "winner": "William MAHEUX"
+                }
+            ],
+            [
+                {
+                    "country": "CAN",
+                    "name": "William MAHEUX"
+                }
+            ]
+        ],
+        "final_winners": [
+            "William MAHEUX"
+        ]
+    },
+    "FINALS": {
+        "round 1-1": [],
+        "final_winners": [
+            "Jannaco SEARCY"
+        ]
+    }
+}

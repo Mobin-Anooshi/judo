@@ -1,0 +1,261 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "KAZ",
+                    "name": "Diana TELBAYEVA"
+                },
+                {
+                    "winner": "Diana TELBAYEVA"
+                }
+            ],
+            []
+        ],
+        "round 1-1": [],
+        "final_winner": "Diana TELBAYEVA"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "LBN",
+                    "name": "Gaelle GHOLMIEH"
+                },
+                {
+                    "winner": "Gaelle GHOLMIEH"
+                }
+            ],
+            [
+                {
+                    "country": "IND",
+                    "name": "Nandani VATS"
+                },
+                {
+                    "winner": "Nandani VATS"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "LBN",
+                    "name": "Gaelle GHOLMIEH"
+                },
+                {
+                    "country": "IND",
+                    "name": "Nandani VATS"
+                }
+            ]
+        ],
+        "final_winner": "Nandani VATS"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "UZB",
+                    "name": "Tuygul KHAMROEVA"
+                },
+                {
+                    "winner": "Tuygul KHAMROEVA"
+                }
+            ],
+            [
+                {
+                    "country": "LBN",
+                    "name": "Serine SHEIKH"
+                },
+                {
+                    "winner": "Serine SHEIKH"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "UZB",
+                    "name": "Tuygul KHAMROEVA"
+                },
+                {
+                    "country": "LBN",
+                    "name": "Serine SHEIKH"
+                }
+            ]
+        ],
+        "final_winner": "Tuygul KHAMROEVA"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "KGZ",
+                    "name": "Aiganysh DZHUMALIEVA"
+                },
+                {
+                    "winner": "Aiganysh DZHUMALIEVA"
+                }
+            ],
+            [
+                {
+                    "country": "KOR",
+                    "name": "Minji KANG"
+                },
+                {
+                    "winner": "Minji KANG"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "KGZ",
+                    "name": "Aiganysh DZHUMALIEVA"
+                },
+                {
+                    "country": "KOR",
+                    "name": "Minji KANG"
+                }
+            ]
+        ],
+        "final_winner": "Minji KANG"
+    },
+    "REPECHAGE": {
+        "round 1-4": [
+            [],
+            [
+                {
+                    "country": "LBN",
+                    "name": "Gaelle GHOLMIEH"
+                },
+                {
+                    "winner": "Gaelle GHOLMIEH"
+                }
+            ],
+            [
+                {
+                    "country": "LBN",
+                    "name": "Serine SHEIKH"
+                },
+                {
+                    "winner": "Serine SHEIKH"
+                }
+            ],
+            [
+                {
+                    "country": "KGZ",
+                    "name": "Aiganysh DZHUMALIEVA"
+                },
+                {
+                    "winner": "Aiganysh DZHUMALIEVA"
+                }
+            ]
+        ],
+        "round 1-2": [
+            [
+                {
+                    "country": "LBN",
+                    "name": "Gaelle GHOLMIEH"
+                }
+            ],
+            [
+                {
+                    "country": "LBN",
+                    "name": "Serine SHEIKH"
+                },
+                {
+                    "country": "KGZ",
+                    "name": "Aiganysh DZHUMALIEVA"
+                },
+                {
+                    "winner": "Aiganysh DZHUMALIEVA"
+                }
+            ],
+            [
+                {
+                    "country": "LBN",
+                    "name": "Gaelle GHOLMIEH"
+                },
+                {
+                    "country": "KOR",
+                    "name": "Minji KANG"
+                },
+                {
+                    "winner": "Minji KANG"
+                }
+            ],
+            [
+                {
+                    "country": "KGZ",
+                    "name": "Aiganysh DZHUMALIEVA"
+                },
+                {
+                    "country": "IND",
+                    "name": "Nandani VATS"
+                },
+                {
+                    "winner": "Nandani VATS"
+                }
+            ],
+            [
+                {
+                    "country": "KOR",
+                    "name": "Minji KANG"
+                }
+            ],
+            [
+                {
+                    "country": "IND",
+                    "name": "Nandani VATS"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Minji KANG",
+            "Nandani VATS"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "KAZ",
+                    "name": "Diana TELBAYEVA"
+                },
+                {
+                    "country": "IND",
+                    "name": "Nandani VATS"
+                },
+                {
+                    "winner": "Diana TELBAYEVA"
+                }
+            ],
+            [
+                {
+                    "country": "UZB",
+                    "name": "Tuygul KHAMROEVA"
+                },
+                {
+                    "country": "KOR",
+                    "name": "Minji KANG"
+                },
+                {
+                    "winner": "Tuygul KHAMROEVA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "KAZ",
+                    "name": "Diana TELBAYEVA"
+                },
+                {
+                    "country": "UZB",
+                    "name": "Tuygul KHAMROEVA"
+                }
+            ]
+        ],
+        "final_winner": "Tuygul KHAMROEVA"
+    }
+}

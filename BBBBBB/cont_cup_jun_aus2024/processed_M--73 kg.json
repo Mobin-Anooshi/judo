@@ -1,0 +1,159 @@
+{
+    "POOL A": {
+        "round 1-1": [],
+        "final_winner": "Kohsei TOYOSHIMA"
+    },
+    "POOL B": {
+        "round 1-1": [
+            [
+                {
+                    "country": "AUS",
+                    "name": "Alexander VASILYEV"
+                },
+                {
+                    "country": "AUS",
+                    "name": "Flynn MOGILIN"
+                }
+            ]
+        ],
+        "final_winner": "Alexander VASILYEV"
+    },
+    "POOL C": {
+        "round 1-1": [
+            [
+                {
+                    "country": "AUS",
+                    "name": "Thomas CRAMP"
+                },
+                {
+                    "country": "AUS",
+                    "name": "Nikola DOBRIC"
+                }
+            ]
+        ],
+        "final_winner": "Thomas CRAMP"
+    },
+    "POOL D": {
+        "round 1-1": [
+            [
+                {
+                    "country": "MGL",
+                    "name": "Bilguundalai NYAMDORJ"
+                },
+                {
+                    "country": "AUS",
+                    "name": "Warrick PEDLEY"
+                }
+            ]
+        ],
+        "final_winner": "Warrick PEDLEY"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "AUS",
+                    "name": "Flynn MOGILIN"
+                }
+            ],
+            [
+                {
+                    "country": "AUS",
+                    "name": "Nikola DOBRIC"
+                },
+                {
+                    "country": "MGL",
+                    "name": "Bilguundalai NYAMDORJ"
+                },
+                {
+                    "winner": "Nikola DOBRIC"
+                }
+            ],
+            [
+                {
+                    "country": "AUS",
+                    "name": "Flynn MOGILIN"
+                },
+                {
+                    "country": "AUS",
+                    "name": "Warrick PEDLEY"
+                },
+                {
+                    "winner": "Warrick PEDLEY"
+                }
+            ],
+            [
+                {
+                    "country": "AUS",
+                    "name": "Nikola DOBRIC"
+                },
+                {
+                    "country": "AUS",
+                    "name": "Alexander VASILYEV"
+                },
+                {
+                    "winner": "Alexander VASILYEV"
+                }
+            ],
+            [
+                {
+                    "country": "AUS",
+                    "name": "Warrick PEDLEY"
+                }
+            ],
+            [
+                {
+                    "country": "AUS",
+                    "name": "Alexander VASILYEV"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Warrick PEDLEY",
+            "Alexander VASILYEV"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "AUS",
+                    "name": "Kohsei TOYOSHIMA"
+                },
+                {
+                    "country": "AUS",
+                    "name": "Alexander VASILYEV"
+                },
+                {
+                    "winner": "Kohsei TOYOSHIMA"
+                }
+            ],
+            [
+                {
+                    "country": "AUS",
+                    "name": "Thomas CRAMP"
+                },
+                {
+                    "country": "AUS",
+                    "name": "Warrick PEDLEY"
+                },
+                {
+                    "winner": "Thomas CRAMP"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "AUS",
+                    "name": "Kohsei TOYOSHIMA"
+                },
+                {
+                    "country": "AUS",
+                    "name": "Thomas CRAMP"
+                }
+            ]
+        ],
+        "final_winner": "Kohsei TOYOSHIMA"
+    }
+}

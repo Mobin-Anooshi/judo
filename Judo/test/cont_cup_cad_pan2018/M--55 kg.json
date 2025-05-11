@@ -1,0 +1,244 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ECU",
+                    "name": "Bryan GARBOA"
+                },
+                {
+                    "winner": "Bryan GARBOA"
+                }
+            ],
+            []
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "ECU",
+                    "name": "Bryan GARBOA"
+                }
+            ]
+        ]
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "MEX",
+                    "name": "Jose RAMIREZ"
+                },
+                {
+                    "winner": "Jose RAMIREZ"
+                }
+            ],
+            [
+                {
+                    "country": "PER",
+                    "name": "Jose Carlos NARVAEZ"
+                },
+                {
+                    "winner": "Jose Carlos NARVAEZ"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "MEX",
+                    "name": "Jose RAMIREZ"
+                },
+                {
+                    "country": "PER",
+                    "name": "Jose Carlos NARVAEZ"
+                }
+            ],
+            [
+                {
+                    "country": "PER",
+                    "name": "Jose Carlos NARVAEZ"
+                }
+            ]
+        ]
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "MEX",
+                    "name": "Santiago CARDOSO"
+                },
+                {
+                    "winner": "Santiago CARDOSO"
+                }
+            ],
+            []
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "MEX",
+                    "name": "Santiago CARDOSO"
+                }
+            ]
+        ]
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "MEX",
+                    "name": "Jose QUINTA"
+                },
+                {
+                    "winner": "Jose QUINTA"
+                }
+            ],
+            [
+                {
+                    "country": "PAN",
+                    "name": "Pablo DIAZ"
+                },
+                {
+                    "winner": "Pablo DIAZ"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "MEX",
+                    "name": "Jose QUINTA"
+                },
+                {
+                    "country": "PAN",
+                    "name": "Pablo DIAZ"
+                }
+            ],
+            [
+                {
+                    "country": "MEX",
+                    "name": "Jose QUINTA"
+                }
+            ]
+        ]
+    },
+    "REPECHAGE": {
+        "round 1-4": [
+            [],
+            [
+                {
+                    "country": "MEX",
+                    "name": "Jose RAMIREZ"
+                },
+                {
+                    "winner": "Jose RAMIREZ"
+                }
+            ],
+            [],
+            [
+                {
+                    "country": "PAN",
+                    "name": "Pablo DIAZ"
+                },
+                {
+                    "winner": "Pablo DIAZ"
+                }
+            ]
+        ],
+        "round 1-2": [
+            [
+                {
+                    "country": "MEX",
+                    "name": "Jose RAMIREZ"
+                }
+            ],
+            [
+                {
+                    "country": "PAN",
+                    "name": "Pablo DIAZ"
+                }
+            ],
+            [
+                {
+                    "country": "MEX",
+                    "name": "Jose RAMIREZ"
+                },
+                {
+                    "country": "MEX",
+                    "name": "Santiago CARDOSO"
+                }
+            ],
+            [
+                {
+                    "country": "PAN",
+                    "name": "Pablo DIAZ"
+                },
+                {
+                    "country": "PER",
+                    "name": "Jose Carlos NARVAEZ"
+                }
+            ],
+            [
+                {
+                    "country": "MEX",
+                    "name": "Santiago CARDOSO"
+                }
+            ],
+            [
+                {
+                    "country": "PER",
+                    "name": "Jose Carlos NARVAEZ"
+                }
+            ]
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ECU",
+                    "name": "Bryan GARBOA"
+                },
+                {
+                    "country": "PER",
+                    "name": "Jose Carlos NARVAEZ"
+                },
+                {
+                    "winner": "Bryan GARBOA"
+                }
+            ],
+            [
+                {
+                    "country": "MEX",
+                    "name": "Santiago CARDOSO"
+                },
+                {
+                    "country": "MEX",
+                    "name": "Jose QUINTA"
+                },
+                {
+                    "winner": "Jose QUINTA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "ECU",
+                    "name": "Bryan GARBOA"
+                },
+                {
+                    "country": "MEX",
+                    "name": "Jose QUINTA"
+                }
+            ],
+            [
+                {
+                    "country": "ECU",
+                    "name": "Bryan GARBOA"
+                }
+            ]
+        ]
+    }
+}

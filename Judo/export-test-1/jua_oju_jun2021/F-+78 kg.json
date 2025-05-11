@@ -1,0 +1,227 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "KAZ",
+                    "name": "Karina TAKIYEVA"
+                },
+                {
+                    "winner": "Karina TAKIYEVA"
+                }
+            ],
+            []
+        ],
+        "round 1-1": [],
+        "final_winner": "Karina TAKIYEVA"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "KOR",
+                    "name": "Saetbyeol PARK"
+                },
+                {
+                    "winner": "Saetbyeol PARK"
+                }
+            ],
+            [
+                {
+                    "country": "LBN",
+                    "name": "Touka BEKSMATI"
+                },
+                {
+                    "winner": "Touka BEKSMATI"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "KOR",
+                    "name": "Saetbyeol PARK"
+                },
+                {
+                    "country": "LBN",
+                    "name": "Touka BEKSMATI"
+                }
+            ]
+        ],
+        "final_winner": "Saetbyeol PARK"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "UZB",
+                    "name": "Khosiyat MASHARIPOVA"
+                },
+                {
+                    "winner": "Khosiyat MASHARIPOVA"
+                }
+            ],
+            []
+        ],
+        "round 1-1": [],
+        "final_winner": "Khosiyat MASHARIPOVA"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "IND",
+                    "name": "Ishroop NARANG"
+                },
+                {
+                    "winner": "Ishroop NARANG"
+                }
+            ],
+            [
+                {
+                    "country": "LBN",
+                    "name": "Natacha TARABAY"
+                },
+                {
+                    "winner": "Natacha TARABAY"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "IND",
+                    "name": "Ishroop NARANG"
+                },
+                {
+                    "country": "LBN",
+                    "name": "Natacha TARABAY"
+                }
+            ]
+        ],
+        "final_winner": "Ishroop NARANG"
+    },
+    "REPECHAGE": {
+        "round 1-4": [
+            [],
+            [
+                {
+                    "country": "LBN",
+                    "name": "Touka BEKSMATI"
+                },
+                {
+                    "winner": "Touka BEKSMATI"
+                }
+            ],
+            [],
+            [
+                {
+                    "country": "LBN",
+                    "name": "Natacha TARABAY"
+                },
+                {
+                    "winner": "Natacha TARABAY"
+                }
+            ]
+        ],
+        "round 1-2": [
+            [
+                {
+                    "country": "LBN",
+                    "name": "Touka BEKSMATI"
+                }
+            ],
+            [
+                {
+                    "country": "LBN",
+                    "name": "Natacha TARABAY"
+                }
+            ],
+            [
+                {
+                    "country": "LBN",
+                    "name": "Touka BEKSMATI"
+                },
+                {
+                    "country": "IND",
+                    "name": "Ishroop NARANG"
+                },
+                {
+                    "winner": "Ishroop NARANG"
+                }
+            ],
+            [
+                {
+                    "country": "LBN",
+                    "name": "Natacha TARABAY"
+                },
+                {
+                    "country": "KOR",
+                    "name": "Saetbyeol PARK"
+                },
+                {
+                    "winner": "Saetbyeol PARK"
+                }
+            ],
+            [
+                {
+                    "country": "IND",
+                    "name": "Ishroop NARANG"
+                }
+            ],
+            [
+                {
+                    "country": "KOR",
+                    "name": "Saetbyeol PARK"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Ishroop NARANG",
+            "Saetbyeol PARK"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "KAZ",
+                    "name": "Karina TAKIYEVA"
+                },
+                {
+                    "country": "KOR",
+                    "name": "Saetbyeol PARK"
+                },
+                {
+                    "winner": "Karina TAKIYEVA"
+                }
+            ],
+            [
+                {
+                    "country": "UZB",
+                    "name": "Khosiyat MASHARIPOVA"
+                },
+                {
+                    "country": "IND",
+                    "name": "Ishroop NARANG"
+                },
+                {
+                    "winner": "Khosiyat MASHARIPOVA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "KAZ",
+                    "name": "Karina TAKIYEVA"
+                },
+                {
+                    "country": "UZB",
+                    "name": "Khosiyat MASHARIPOVA"
+                }
+            ]
+        ],
+        "final_winner": "Karina TAKIYEVA"
+    }
+}

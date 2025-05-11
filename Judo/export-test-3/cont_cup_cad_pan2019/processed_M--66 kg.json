@@ -1,0 +1,68 @@
+{
+    "ROUND 1": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CUB",
+                    "name": "Kimy BRAVO BLANCO"
+                },
+                {
+                    "country": "PUR",
+                    "name": "Luis ROSADO SEGARRA"
+                },
+                {
+                    "winner": "Kimy BRAVO BLANCO"
+                }
+            ],
+            [
+                {
+                    "country": "PUR",
+                    "name": "Darrick GARCIA"
+                },
+                {
+                    "country": "CRC",
+                    "name": "Fabian QUESADA"
+                },
+                {
+                    "winner": "Darrick GARCIA"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Kimy BRAVO BLANCO",
+            "Darrick GARCIA"
+        ]
+    },
+    "REPECHAGE": {
+        "round 1-1": [
+            [
+                {
+                    "country": "PUR",
+                    "name": "Luis ROSADO SEGARRA"
+                },
+                {
+                    "country": "CRC",
+                    "name": "Fabian QUESADA"
+                },
+                {
+                    "winner": "Fabian QUESADA"
+                }
+            ],
+            [
+                {
+                    "country": "CRC",
+                    "name": "Fabian QUESADA"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Fabian QUESADA"
+        ]
+    },
+    "FINALS": {
+        "round 1-1": [],
+        "final_winners": [
+            "Kimy BRAVO BLANCO"
+        ]
+    }
+}

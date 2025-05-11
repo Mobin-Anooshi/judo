@@ -1,0 +1,261 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "UZB",
+                    "name": "Sita KADAMBOEVA"
+                },
+                {
+                    "winner": "Sita KADAMBOEVA"
+                }
+            ],
+            []
+        ],
+        "round 1-1": [],
+        "final_winner": "Sita KADAMBOEVA"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "IND",
+                    "name": "Gayatri TOKAS"
+                },
+                {
+                    "winner": "Gayatri TOKAS"
+                }
+            ],
+            [
+                {
+                    "country": "MAC",
+                    "name": "KAI I HOI"
+                },
+                {
+                    "winner": "KAI I HOI"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "IND",
+                    "name": "Gayatri TOKAS"
+                },
+                {
+                    "country": "MAC",
+                    "name": "KAI I HOI"
+                }
+            ]
+        ],
+        "final_winner": "Gayatri TOKAS"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "AUS",
+                    "name": "Anneliese FIELDER"
+                },
+                {
+                    "winner": "Anneliese FIELDER"
+                }
+            ],
+            [
+                {
+                    "country": "MAS",
+                    "name": "E-FAYE CHOI"
+                },
+                {
+                    "winner": "E-FAYE CHOI"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "AUS",
+                    "name": "Anneliese FIELDER"
+                },
+                {
+                    "country": "MAS",
+                    "name": "E-FAYE CHOI"
+                }
+            ]
+        ],
+        "final_winner": "Anneliese FIELDER"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "TPE",
+                    "name": "Yi-Shan HSIEH"
+                },
+                {
+                    "winner": "Yi-Shan HSIEH"
+                }
+            ],
+            [
+                {
+                    "country": "CHN",
+                    "name": "Yiting CHEN"
+                },
+                {
+                    "winner": "Yiting CHEN"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "TPE",
+                    "name": "Yi-Shan HSIEH"
+                },
+                {
+                    "country": "CHN",
+                    "name": "Yiting CHEN"
+                }
+            ]
+        ],
+        "final_winner": "Yi-Shan HSIEH"
+    },
+    "REPECHAGE": {
+        "round 1-4": [
+            [],
+            [
+                {
+                    "country": "MAC",
+                    "name": "KAI I HOI"
+                },
+                {
+                    "winner": "KAI I HOI"
+                }
+            ],
+            [
+                {
+                    "country": "MAS",
+                    "name": "E-FAYE CHOI"
+                },
+                {
+                    "winner": "E-FAYE CHOI"
+                }
+            ],
+            [
+                {
+                    "country": "CHN",
+                    "name": "Yiting CHEN"
+                },
+                {
+                    "winner": "Yiting CHEN"
+                }
+            ]
+        ],
+        "round 1-2": [
+            [
+                {
+                    "country": "MAC",
+                    "name": "KAI I HOI"
+                }
+            ],
+            [
+                {
+                    "country": "MAS",
+                    "name": "E-FAYE CHOI"
+                },
+                {
+                    "country": "CHN",
+                    "name": "Yiting CHEN"
+                },
+                {
+                    "winner": "Yiting CHEN"
+                }
+            ],
+            [
+                {
+                    "country": "MAC",
+                    "name": "KAI I HOI"
+                },
+                {
+                    "country": "AUS",
+                    "name": "Anneliese FIELDER"
+                },
+                {
+                    "winner": "Anneliese FIELDER"
+                }
+            ],
+            [
+                {
+                    "country": "CHN",
+                    "name": "Yiting CHEN"
+                },
+                {
+                    "country": "IND",
+                    "name": "Gayatri TOKAS"
+                },
+                {
+                    "winner": "Yiting CHEN"
+                }
+            ],
+            [
+                {
+                    "country": "AUS",
+                    "name": "Anneliese FIELDER"
+                }
+            ],
+            [
+                {
+                    "country": "CHN",
+                    "name": "Yiting CHEN"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Anneliese FIELDER",
+            "Yiting CHEN"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "UZB",
+                    "name": "Sita KADAMBOEVA"
+                },
+                {
+                    "country": "IND",
+                    "name": "Gayatri TOKAS"
+                },
+                {
+                    "winner": "Sita KADAMBOEVA"
+                }
+            ],
+            [
+                {
+                    "country": "AUS",
+                    "name": "Anneliese FIELDER"
+                },
+                {
+                    "country": "TPE",
+                    "name": "Yi-Shan HSIEH"
+                },
+                {
+                    "winner": "Yi-Shan HSIEH"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "UZB",
+                    "name": "Sita KADAMBOEVA"
+                },
+                {
+                    "country": "TPE",
+                    "name": "Yi-Shan HSIEH"
+                }
+            ]
+        ],
+        "final_winner": "Sita KADAMBOEVA"
+    }
+}

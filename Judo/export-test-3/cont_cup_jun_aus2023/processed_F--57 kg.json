@@ -1,0 +1,68 @@
+{
+    "ROUND 1": {
+        "round 1-2": [
+            [
+                {
+                    "country": "AUS",
+                    "name": "Oren KELLY"
+                },
+                {
+                    "country": "AUS",
+                    "name": "Olivia KNIGHTS"
+                },
+                {
+                    "winner": "Oren KELLY"
+                }
+            ],
+            [
+                {
+                    "country": "AUS",
+                    "name": "Mia WALKER"
+                },
+                {
+                    "country": "AUS",
+                    "name": "Bella NOLAN"
+                },
+                {
+                    "winner": "Bella NOLAN"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Oren KELLY",
+            "Bella NOLAN"
+        ]
+    },
+    "REPECHAGE": {
+        "round 1-1": [
+            [
+                {
+                    "country": "AUS",
+                    "name": "Olivia KNIGHTS"
+                },
+                {
+                    "country": "AUS",
+                    "name": "Mia WALKER"
+                },
+                {
+                    "winner": "Olivia KNIGHTS"
+                }
+            ],
+            [
+                {
+                    "country": "AUS",
+                    "name": "Olivia KNIGHTS"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Olivia KNIGHTS"
+        ]
+    },
+    "FINALS": {
+        "round 1-1": [],
+        "final_winners": [
+            "Oren KELLY"
+        ]
+    }
+}

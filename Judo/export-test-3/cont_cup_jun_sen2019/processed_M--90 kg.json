@@ -1,0 +1,87 @@
+{
+    "POOL A": {
+        "round 1-3": [
+            [
+                {
+                    "country": "SEN",
+                    "name": "Mouhamed WADE"
+                },
+                {
+                    "country": "SEN",
+                    "name": "Abdou Khadre DIATTA"
+                },
+                {
+                    "winner": "Mouhamed WADE"
+                }
+            ],
+            [
+                {
+                    "country": "SEN",
+                    "name": "Mouhamed WADE"
+                },
+                {
+                    "country": "TUN",
+                    "name": "Koussay BEN GHARES"
+                },
+                {
+                    "winner": "Koussay BEN GHARES"
+                }
+            ],
+            [
+                {
+                    "country": "SEN",
+                    "name": "Abdou Khadre DIATTA"
+                },
+                {
+                    "country": "TUN",
+                    "name": "Koussay BEN GHARES"
+                },
+                {
+                    "winner": "Abdou Khadre DIATTA"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Abdou Khadre DIATTA",
+            "Koussay BEN GHARES"
+        ]
+    },
+    "POOL B": {
+        "round 1-1": [],
+        "final_winners": [
+            "Louis BACOURINE"
+        ]
+    },
+    "REPECHAGE": {
+        "round 1-1": [
+            [
+                {
+                    "country": "SEN",
+                    "name": "Abdou Khadre DIATTA"
+                },
+                {
+                    "country": "BDI",
+                    "name": "Fleury NIHOZEKO"
+                },
+                {
+                    "winner": "Abdou Khadre DIATTA"
+                }
+            ],
+            [
+                {
+                    "country": "SEN",
+                    "name": "Abdou Khadre DIATTA"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Abdou Khadre DIATTA"
+        ]
+    },
+    "FINALS": {
+        "round 1-1": [],
+        "final_winners": [
+            "Koussay BEN GHARES"
+        ]
+    }
+}

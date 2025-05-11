@@ -1,0 +1,68 @@
+{
+    "ROUND 1": {
+        "round 1-2": [
+            [
+                {
+                    "country": "DOM",
+                    "name": "Luis Alberto MOQUETE"
+                },
+                {
+                    "country": "PAN",
+                    "name": "Julio ESCOBAR MUTIS"
+                },
+                {
+                    "winner": "Julio ESCOBAR MUTIS"
+                }
+            ],
+            [
+                {
+                    "country": "PAN",
+                    "name": "Mario RODRIGUEZ"
+                },
+                {
+                    "country": "PAN",
+                    "name": "Juan COSSU"
+                },
+                {
+                    "winner": "Mario RODRIGUEZ"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Julio ESCOBAR MUTIS",
+            "Mario RODRIGUEZ"
+        ]
+    },
+    "REPECHAGE": {
+        "round 1-1": [
+            [
+                {
+                    "country": "DOM",
+                    "name": "Luis Alberto MOQUETE"
+                },
+                {
+                    "country": "PAN",
+                    "name": "Juan COSSU"
+                },
+                {
+                    "winner": "Luis Alberto MOQUETE"
+                }
+            ],
+            [
+                {
+                    "country": "DOM",
+                    "name": "Luis Alberto MOQUETE"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Luis Alberto MOQUETE"
+        ]
+    },
+    "FINALS": {
+        "round 1-1": [],
+        "final_winners": [
+            "Mario RODRIGUEZ"
+        ]
+    }
+}

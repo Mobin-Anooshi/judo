@@ -1,0 +1,285 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "RUS",
+                    "name": "Alan KHUBETSOV"
+                },
+                {
+                    "winner": "Alan KHUBETSOV"
+                }
+            ],
+            [
+                {
+                    "country": "RUS",
+                    "name": "Aslan LAPPINAGOV"
+                },
+                {
+                    "country": "LTU",
+                    "name": "Ramunas DIBURYS"
+                },
+                {
+                    "winner": "Aslan LAPPINAGOV"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "RUS",
+                    "name": "Alan KHUBETSOV"
+                },
+                {
+                    "country": "RUS",
+                    "name": "Aslan LAPPINAGOV"
+                }
+            ]
+        ],
+        "final_winner": "Aslan LAPPINAGOV"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ARG",
+                    "name": "Emmanuel LUCENTI"
+                },
+                {
+                    "country": "MDA",
+                    "name": "Dorin GOTONOAGA"
+                },
+                {
+                    "winner": "Emmanuel LUCENTI"
+                }
+            ],
+            [
+                {
+                    "country": "HUN",
+                    "name": "Attila UNGVARI"
+                },
+                {
+                    "country": "SWE",
+                    "name": "Victor BUSCH"
+                },
+                {
+                    "winner": "Attila UNGVARI"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "ARG",
+                    "name": "Emmanuel LUCENTI"
+                },
+                {
+                    "country": "HUN",
+                    "name": "Attila UNGVARI"
+                }
+            ]
+        ],
+        "final_winner": "Attila UNGVARI"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "RUS",
+                    "name": "Ivan VOROBEV"
+                },
+                {
+                    "country": "EST",
+                    "name": "Georgi LADOGIN"
+                },
+                {
+                    "winner": "Ivan VOROBEV"
+                }
+            ],
+            [
+                {
+                    "country": "RUS",
+                    "name": "Stanislav SEMENOV"
+                },
+                {
+                    "country": "AZE",
+                    "name": "Afig SAFARLI"
+                },
+                {
+                    "winner": "Stanislav SEMENOV"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "RUS",
+                    "name": "Ivan VOROBEV"
+                },
+                {
+                    "country": "RUS",
+                    "name": "Stanislav SEMENOV"
+                }
+            ]
+        ],
+        "final_winner": "Ivan VOROBEV"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "SWE",
+                    "name": "Robin PACEK"
+                },
+                {
+                    "country": "MDA",
+                    "name": "Nicon ZABOROSCIUC"
+                },
+                {
+                    "winner": "Robin PACEK"
+                }
+            ],
+            [
+                {
+                    "country": "JPN",
+                    "name": "Seidai SATO"
+                },
+                {
+                    "country": "LAT",
+                    "name": "Filips MIKUCKIS"
+                },
+                {
+                    "winner": "Seidai SATO"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "SWE",
+                    "name": "Robin PACEK"
+                },
+                {
+                    "country": "JPN",
+                    "name": "Seidai SATO"
+                }
+            ]
+        ],
+        "final_winner": "Seidai SATO"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "RUS",
+                    "name": "Alan KHUBETSOV"
+                },
+                {
+                    "country": "ARG",
+                    "name": "Emmanuel LUCENTI"
+                },
+                {
+                    "winner": "Alan KHUBETSOV"
+                }
+            ],
+            [
+                {
+                    "country": "RUS",
+                    "name": "Stanislav SEMENOV"
+                },
+                {
+                    "country": "SWE",
+                    "name": "Robin PACEK"
+                },
+                {
+                    "winner": "Stanislav SEMENOV"
+                }
+            ],
+            [
+                {
+                    "country": "RUS",
+                    "name": "Alan KHUBETSOV"
+                },
+                {
+                    "country": "RUS",
+                    "name": "Ivan VOROBEV"
+                },
+                {
+                    "winner": "Alan KHUBETSOV"
+                }
+            ],
+            [
+                {
+                    "country": "RUS",
+                    "name": "Stanislav SEMENOV"
+                },
+                {
+                    "country": "HUN",
+                    "name": "Attila UNGVARI"
+                },
+                {
+                    "winner": "Stanislav SEMENOV"
+                }
+            ],
+            [
+                {
+                    "country": "RUS",
+                    "name": "Alan KHUBETSOV"
+                }
+            ],
+            [
+                {
+                    "country": "RUS",
+                    "name": "Stanislav SEMENOV"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Alan KHUBETSOV",
+            "Stanislav SEMENOV"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "RUS",
+                    "name": "Aslan LAPPINAGOV"
+                },
+                {
+                    "country": "HUN",
+                    "name": "Attila UNGVARI"
+                },
+                {
+                    "winner": "Aslan LAPPINAGOV"
+                }
+            ],
+            [
+                {
+                    "country": "RUS",
+                    "name": "Ivan VOROBEV"
+                },
+                {
+                    "country": "JPN",
+                    "name": "Seidai SATO"
+                },
+                {
+                    "winner": "Seidai SATO"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "RUS",
+                    "name": "Aslan LAPPINAGOV"
+                },
+                {
+                    "country": "JPN",
+                    "name": "Seidai SATO"
+                }
+            ]
+        ],
+        "final_winner": "Aslan LAPPINAGOV"
+    }
+}

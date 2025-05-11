@@ -1,0 +1,281 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "POL",
+                    "name": "Katarzyna KLYS"
+                },
+                {
+                    "winner": "Katarzyna KLYS"
+                }
+            ],
+            [
+                {
+                    "country": "GBR",
+                    "name": "Katie-Jemima YEATS-BROWN"
+                },
+                {
+                    "country": "USA",
+                    "name": "Nicole STOUT"
+                },
+                {
+                    "winner": "Katie-Jemima YEATS-BROWN"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "POL",
+                    "name": "Katarzyna KLYS"
+                },
+                {
+                    "country": "GBR",
+                    "name": "Katie-Jemima YEATS-BROWN"
+                }
+            ]
+        ],
+        "final_winner": "Katarzyna KLYS"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "SLO",
+                    "name": "Anka POGACNIK"
+                },
+                {
+                    "country": "GER",
+                    "name": "Lea PUESCHEL"
+                },
+                {
+                    "winner": "Anka POGACNIK"
+                }
+            ],
+            [
+                {
+                    "country": "BIH",
+                    "name": "Aleksandra SAMARDZIC"
+                },
+                {
+                    "country": "ROU",
+                    "name": "Lorena PODELENCZKI"
+                },
+                {
+                    "winner": "Aleksandra SAMARDZIC"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "SLO",
+                    "name": "Anka POGACNIK"
+                },
+                {
+                    "country": "BIH",
+                    "name": "Aleksandra SAMARDZIC"
+                }
+            ]
+        ],
+        "final_winner": "Anka POGACNIK"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CRO",
+                    "name": "Barbara MATIC"
+                },
+                {
+                    "winner": "Barbara MATIC"
+                }
+            ],
+            [
+                {
+                    "country": "LUX",
+                    "name": "Lynn MOSSONG"
+                },
+                {
+                    "country": "AUT",
+                    "name": "Michaela POLLERES"
+                },
+                {
+                    "winner": "Michaela POLLERES"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "CRO",
+                    "name": "Barbara MATIC"
+                },
+                {
+                    "country": "AUT",
+                    "name": "Michaela POLLERES"
+                }
+            ]
+        ],
+        "final_winner": "Barbara MATIC"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "HUN",
+                    "name": "Szabina GERCSAK"
+                },
+                {
+                    "country": "FRA",
+                    "name": "Melissa HELEINE"
+                },
+                {
+                    "winner": "Szabina GERCSAK"
+                }
+            ],
+            [
+                {
+                    "country": "SWE",
+                    "name": "Anna BERNHOLM"
+                },
+                {
+                    "country": "RUS",
+                    "name": "Ekaterina n TOKAREVA"
+                },
+                {
+                    "winner": "Anna BERNHOLM"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "HUN",
+                    "name": "Szabina GERCSAK"
+                },
+                {
+                    "country": "SWE",
+                    "name": "Anna BERNHOLM"
+                }
+            ]
+        ],
+        "final_winner": "Anna BERNHOLM"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "GBR",
+                    "name": "Katie-Jemima YEATS-BROWN"
+                },
+                {
+                    "country": "BIH",
+                    "name": "Aleksandra SAMARDZIC"
+                },
+                {
+                    "winner": "Aleksandra SAMARDZIC"
+                }
+            ],
+            [
+                {
+                    "country": "AUT",
+                    "name": "Michaela POLLERES"
+                },
+                {
+                    "country": "HUN",
+                    "name": "Szabina GERCSAK"
+                },
+                {
+                    "winner": "Szabina GERCSAK"
+                }
+            ],
+            [
+                {
+                    "country": "BIH",
+                    "name": "Aleksandra SAMARDZIC"
+                },
+                {
+                    "country": "SWE",
+                    "name": "Anna BERNHOLM"
+                },
+                {
+                    "winner": "Aleksandra SAMARDZIC"
+                }
+            ],
+            [
+                {
+                    "country": "HUN",
+                    "name": "Szabina GERCSAK"
+                },
+                {
+                    "country": "SLO",
+                    "name": "Anka POGACNIK"
+                },
+                {
+                    "winner": "Anka POGACNIK"
+                }
+            ],
+            [
+                {
+                    "country": "BIH",
+                    "name": "Aleksandra SAMARDZIC"
+                }
+            ],
+            [
+                {
+                    "country": "SLO",
+                    "name": "Anka POGACNIK"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Aleksandra SAMARDZIC",
+            "Anka POGACNIK"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "POL",
+                    "name": "Katarzyna KLYS"
+                },
+                {
+                    "country": "SLO",
+                    "name": "Anka POGACNIK"
+                },
+                {
+                    "winner": "Katarzyna KLYS"
+                }
+            ],
+            [
+                {
+                    "country": "CRO",
+                    "name": "Barbara MATIC"
+                },
+                {
+                    "country": "SWE",
+                    "name": "Anna BERNHOLM"
+                },
+                {
+                    "winner": "Barbara MATIC"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "POL",
+                    "name": "Katarzyna KLYS"
+                },
+                {
+                    "country": "CRO",
+                    "name": "Barbara MATIC"
+                }
+            ]
+        ],
+        "final_winner": "Barbara MATIC"
+    }
+}

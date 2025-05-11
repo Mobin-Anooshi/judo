@@ -1,0 +1,281 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "KOR",
+                    "name": "Changrim AN"
+                },
+                {
+                    "country": "KGZ",
+                    "name": "Beksultan SULTANOV"
+                },
+                {
+                    "winner": "Changrim AN"
+                }
+            ],
+            [
+                {
+                    "country": "KSA",
+                    "name": "Sulaiman HAMAD"
+                },
+                {
+                    "country": "PHI",
+                    "name": "Keisei NAKANO"
+                },
+                {
+                    "winner": "Keisei NAKANO"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "KOR",
+                    "name": "Changrim AN"
+                },
+                {
+                    "country": "PHI",
+                    "name": "Keisei NAKANO"
+                }
+            ]
+        ],
+        "final_winner": "Changrim AN"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "UAE",
+                    "name": "Victor SCVORTOV"
+                },
+                {
+                    "country": "KUW",
+                    "name": "Mohammad ALRAMZI"
+                },
+                {
+                    "winner": "Victor SCVORTOV"
+                }
+            ],
+            [
+                {
+                    "country": "CHN",
+                    "name": "Daga QING"
+                },
+                {
+                    "winner": "Daga QING"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "UAE",
+                    "name": "Victor SCVORTOV"
+                },
+                {
+                    "country": "CHN",
+                    "name": "Daga QING"
+                }
+            ]
+        ],
+        "final_winner": "Daga QING"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "KAZ",
+                    "name": "Zhansay SMAGULOV"
+                },
+                {
+                    "winner": "Zhansay SMAGULOV"
+                }
+            ],
+            [
+                {
+                    "country": "UZB",
+                    "name": "Murodjon YULDOSHEV"
+                },
+                {
+                    "country": "JOR",
+                    "name": "Younis EYAL SLMAN"
+                },
+                {
+                    "winner": "Murodjon YULDOSHEV"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "KAZ",
+                    "name": "Zhansay SMAGULOV"
+                },
+                {
+                    "country": "UZB",
+                    "name": "Murodjon YULDOSHEV"
+                }
+            ]
+        ],
+        "final_winner": "Zhansay SMAGULOV"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "TJK",
+                    "name": "Somon MAKHMADBEKOV"
+                },
+                {
+                    "country": "YEM",
+                    "name": "Ahmed AYASH"
+                },
+                {
+                    "winner": "Somon MAKHMADBEKOV"
+                }
+            ],
+            [
+                {
+                    "country": "IRI",
+                    "name": "Mohammad MOHAMMADI"
+                },
+                {
+                    "country": "TKM",
+                    "name": "Shatlyk JUMANYYAZOV"
+                },
+                {
+                    "winner": "Mohammad MOHAMMADI"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "TJK",
+                    "name": "Somon MAKHMADBEKOV"
+                },
+                {
+                    "country": "IRI",
+                    "name": "Mohammad MOHAMMADI"
+                }
+            ]
+        ],
+        "final_winner": "Somon MAKHMADBEKOV"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "PHI",
+                    "name": "Keisei NAKANO"
+                },
+                {
+                    "country": "UAE",
+                    "name": "Victor SCVORTOV"
+                },
+                {
+                    "winner": "Victor SCVORTOV"
+                }
+            ],
+            [
+                {
+                    "country": "UZB",
+                    "name": "Murodjon YULDOSHEV"
+                },
+                {
+                    "country": "IRI",
+                    "name": "Mohammad MOHAMMADI"
+                },
+                {
+                    "winner": "Mohammad MOHAMMADI"
+                }
+            ],
+            [
+                {
+                    "country": "UAE",
+                    "name": "Victor SCVORTOV"
+                },
+                {
+                    "country": "KAZ",
+                    "name": "Zhansay SMAGULOV"
+                },
+                {
+                    "winner": "Victor SCVORTOV"
+                }
+            ],
+            [
+                {
+                    "country": "IRI",
+                    "name": "Mohammad MOHAMMADI"
+                },
+                {
+                    "country": "CHN",
+                    "name": "Daga QING"
+                },
+                {
+                    "winner": "Daga QING"
+                }
+            ],
+            [
+                {
+                    "country": "UAE",
+                    "name": "Victor SCVORTOV"
+                }
+            ],
+            [
+                {
+                    "country": "CHN",
+                    "name": "Daga QING"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Victor SCVORTOV",
+            "Daga QING"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "KOR",
+                    "name": "Changrim AN"
+                },
+                {
+                    "country": "CHN",
+                    "name": "Daga QING"
+                },
+                {
+                    "winner": "Changrim AN"
+                }
+            ],
+            [
+                {
+                    "country": "KAZ",
+                    "name": "Zhansay SMAGULOV"
+                },
+                {
+                    "country": "TJK",
+                    "name": "Somon MAKHMADBEKOV"
+                },
+                {
+                    "winner": "Somon MAKHMADBEKOV"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "KOR",
+                    "name": "Changrim AN"
+                },
+                {
+                    "country": "TJK",
+                    "name": "Somon MAKHMADBEKOV"
+                }
+            ]
+        ],
+        "final_winner": "Changrim AN"
+    }
+}

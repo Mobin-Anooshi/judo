@@ -1,0 +1,159 @@
+{
+    "POOL A": {
+        "round 1-1": [],
+        "final_winner": "Soraya GUENTHER"
+    },
+    "POOL B": {
+        "round 1-1": [
+            [
+                {
+                    "country": "POR",
+                    "name": "Maria RODRIGUES"
+                },
+                {
+                    "country": "POR",
+                    "name": "Iara GUEDES"
+                }
+            ]
+        ],
+        "final_winner": "Iara GUEDES"
+    },
+    "POOL C": {
+        "round 1-1": [
+            [
+                {
+                    "country": "FRA",
+                    "name": "Lalou LEBRUN"
+                },
+                {
+                    "country": "POR",
+                    "name": "Catarina COSTA"
+                }
+            ]
+        ],
+        "final_winner": "Catarina COSTA"
+    },
+    "POOL D": {
+        "round 1-1": [
+            [
+                {
+                    "country": "ITA",
+                    "name": "Alessandra ROCCO"
+                },
+                {
+                    "country": "POR",
+                    "name": "Raquel BRITO"
+                }
+            ]
+        ],
+        "final_winner": "Raquel BRITO"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "POR",
+                    "name": "Maria RODRIGUES"
+                }
+            ],
+            [
+                {
+                    "country": "FRA",
+                    "name": "Lalou LEBRUN"
+                },
+                {
+                    "country": "ITA",
+                    "name": "Alessandra ROCCO"
+                },
+                {
+                    "winner": "Alessandra ROCCO"
+                }
+            ],
+            [
+                {
+                    "country": "POR",
+                    "name": "Maria RODRIGUES"
+                },
+                {
+                    "country": "POR",
+                    "name": "Catarina COSTA"
+                },
+                {
+                    "winner": "Catarina COSTA"
+                }
+            ],
+            [
+                {
+                    "country": "ITA",
+                    "name": "Alessandra ROCCO"
+                },
+                {
+                    "country": "GER",
+                    "name": "Soraya GUENTHER"
+                },
+                {
+                    "winner": "Alessandra ROCCO"
+                }
+            ],
+            [
+                {
+                    "country": "POR",
+                    "name": "Catarina COSTA"
+                }
+            ],
+            [
+                {
+                    "country": "ITA",
+                    "name": "Alessandra ROCCO"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Catarina COSTA",
+            "Alessandra ROCCO"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "GER",
+                    "name": "Soraya GUENTHER"
+                },
+                {
+                    "country": "POR",
+                    "name": "Iara GUEDES"
+                },
+                {
+                    "winner": "Iara GUEDES"
+                }
+            ],
+            [
+                {
+                    "country": "POR",
+                    "name": "Catarina COSTA"
+                },
+                {
+                    "country": "POR",
+                    "name": "Raquel BRITO"
+                },
+                {
+                    "winner": "Raquel BRITO"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "POR",
+                    "name": "Iara GUEDES"
+                },
+                {
+                    "country": "POR",
+                    "name": "Raquel BRITO"
+                }
+            ]
+        ],
+        "final_winner": "Raquel BRITO"
+    }
+}

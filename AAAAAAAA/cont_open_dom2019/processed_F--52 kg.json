@@ -1,0 +1,159 @@
+{
+    "POOL A": {
+        "round 1-1": [],
+        "final_winner": "Kristine JIMENEZ"
+    },
+    "POOL B": {
+        "round 1-1": [
+            [
+                {
+                    "country": "PAN",
+                    "name": "Anna TIRADO"
+                },
+                {
+                    "country": "HAI",
+                    "name": "Jennifer ETIENNE"
+                }
+            ]
+        ],
+        "final_winner": "Jennifer ETIENNE"
+    },
+    "POOL C": {
+        "round 1-1": [
+            [
+                {
+                    "country": "USA",
+                    "name": "Katelyn JARRELL"
+                },
+                {
+                    "country": "DOM",
+                    "name": "Leslie Daniela SOSA HINOJOSA"
+                }
+            ]
+        ],
+        "final_winner": "Katelyn JARRELL"
+    },
+    "POOL D": {
+        "round 1-1": [
+            [
+                {
+                    "country": "HAI",
+                    "name": "Sabiana ANESTOR"
+                },
+                {
+                    "country": "DOM",
+                    "name": "Ana BONILLA RODRIGUEZ"
+                }
+            ]
+        ],
+        "final_winner": "Sabiana ANESTOR"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "PAN",
+                    "name": "Anna TIRADO"
+                }
+            ],
+            [
+                {
+                    "country": "DOM",
+                    "name": "Leslie Daniela SOSA HINOJOSA"
+                },
+                {
+                    "country": "DOM",
+                    "name": "Ana BONILLA RODRIGUEZ"
+                },
+                {
+                    "winner": "Leslie Daniela SOSA HINOJOSA"
+                }
+            ],
+            [
+                {
+                    "country": "PAN",
+                    "name": "Anna TIRADO"
+                },
+                {
+                    "country": "HAI",
+                    "name": "Sabiana ANESTOR"
+                },
+                {
+                    "winner": "Sabiana ANESTOR"
+                }
+            ],
+            [
+                {
+                    "country": "DOM",
+                    "name": "Leslie Daniela SOSA HINOJOSA"
+                },
+                {
+                    "country": "HAI",
+                    "name": "Jennifer ETIENNE"
+                },
+                {
+                    "winner": "Jennifer ETIENNE"
+                }
+            ],
+            [
+                {
+                    "country": "HAI",
+                    "name": "Sabiana ANESTOR"
+                }
+            ],
+            [
+                {
+                    "country": "HAI",
+                    "name": "Jennifer ETIENNE"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Sabiana ANESTOR",
+            "Jennifer ETIENNE"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "PAN",
+                    "name": "Kristine JIMENEZ"
+                },
+                {
+                    "country": "HAI",
+                    "name": "Jennifer ETIENNE"
+                },
+                {
+                    "winner": "Kristine JIMENEZ"
+                }
+            ],
+            [
+                {
+                    "country": "USA",
+                    "name": "Katelyn JARRELL"
+                },
+                {
+                    "country": "HAI",
+                    "name": "Sabiana ANESTOR"
+                },
+                {
+                    "winner": "Katelyn JARRELL"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "PAN",
+                    "name": "Kristine JIMENEZ"
+                },
+                {
+                    "country": "USA",
+                    "name": "Katelyn JARRELL"
+                }
+            ]
+        ],
+        "final_winner": "Katelyn JARRELL"
+    }
+}

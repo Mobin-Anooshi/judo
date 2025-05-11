@@ -1,0 +1,177 @@
+{
+    "POOL A": {
+        "round 1-1": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Enzo TROMBINI"
+                },
+                {
+                    "country": "BRA",
+                    "name": "Gustavo VIEIRA"
+                }
+            ]
+        ],
+        "final_winner": "Enzo TROMBINI"
+    },
+    "POOL B": {
+        "round 1-1": [
+            [
+                {
+                    "country": "ARG",
+                    "name": "Alem YUMA"
+                },
+                {
+                    "country": "BRA",
+                    "name": "Joao Pedro CANELLO"
+                }
+            ]
+        ],
+        "final_winner": "Joao Pedro CANELLO"
+    },
+    "POOL C": {
+        "round 1-1": [
+            [
+                {
+                    "country": "VEN",
+                    "name": "Luis PARICHE"
+                },
+                {
+                    "country": "BRA",
+                    "name": "Arthur CORDEIRO"
+                }
+            ]
+        ],
+        "final_winner": "Luis PARICHE"
+    },
+    "POOL D": {
+        "round 1-1": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Antonio MEDEIROS NETO"
+                },
+                {
+                    "country": "BRA",
+                    "name": "Silas COSTA"
+                }
+            ]
+        ],
+        "final_winner": "Antonio MEDEIROS NETO"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Gustavo VIEIRA"
+                },
+                {
+                    "country": "ARG",
+                    "name": "Alem YUMA"
+                },
+                {
+                    "winner": "Gustavo VIEIRA"
+                }
+            ],
+            [
+                {
+                    "country": "BRA",
+                    "name": "Arthur CORDEIRO"
+                },
+                {
+                    "country": "BRA",
+                    "name": "Silas COSTA"
+                },
+                {
+                    "winner": "Silas COSTA"
+                }
+            ],
+            [
+                {
+                    "country": "BRA",
+                    "name": "Gustavo VIEIRA"
+                },
+                {
+                    "country": "VEN",
+                    "name": "Luis PARICHE"
+                },
+                {
+                    "winner": "Luis PARICHE"
+                }
+            ],
+            [
+                {
+                    "country": "BRA",
+                    "name": "Silas COSTA"
+                },
+                {
+                    "country": "BRA",
+                    "name": "Joao Pedro CANELLO"
+                },
+                {
+                    "winner": "Joao Pedro CANELLO"
+                }
+            ],
+            [
+                {
+                    "country": "VEN",
+                    "name": "Luis PARICHE"
+                }
+            ],
+            [
+                {
+                    "country": "BRA",
+                    "name": "Joao Pedro CANELLO"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Luis PARICHE",
+            "Joao Pedro CANELLO"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Enzo TROMBINI"
+                },
+                {
+                    "country": "BRA",
+                    "name": "Joao Pedro CANELLO"
+                },
+                {
+                    "winner": "Enzo TROMBINI"
+                }
+            ],
+            [
+                {
+                    "country": "VEN",
+                    "name": "Luis PARICHE"
+                },
+                {
+                    "country": "BRA",
+                    "name": "Antonio MEDEIROS NETO"
+                },
+                {
+                    "winner": "Antonio MEDEIROS NETO"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Enzo TROMBINI"
+                },
+                {
+                    "country": "BRA",
+                    "name": "Antonio MEDEIROS NETO"
+                }
+            ]
+        ],
+        "final_winner": "Antonio MEDEIROS NETO"
+    }
+}

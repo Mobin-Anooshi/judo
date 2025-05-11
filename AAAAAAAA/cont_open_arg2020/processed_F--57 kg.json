@@ -1,0 +1,261 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "BAH",
+                    "name": "Cynthia RAHMING"
+                },
+                {
+                    "winner": "Cynthia RAHMING"
+                }
+            ],
+            [
+                {
+                    "country": "ARG",
+                    "name": "Oritia GONZALEZ"
+                },
+                {
+                    "winner": "Oritia GONZALEZ"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "BAH",
+                    "name": "Cynthia RAHMING"
+                },
+                {
+                    "country": "ARG",
+                    "name": "Oritia GONZALEZ"
+                }
+            ]
+        ],
+        "final_winner": "Oritia GONZALEZ"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ARG",
+                    "name": "Brisa GOMEZ"
+                },
+                {
+                    "winner": "Brisa GOMEZ"
+                }
+            ],
+            [
+                {
+                    "country": "CHI",
+                    "name": "Sasha MUNOZ"
+                },
+                {
+                    "winner": "Sasha MUNOZ"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "ARG",
+                    "name": "Brisa GOMEZ"
+                },
+                {
+                    "country": "CHI",
+                    "name": "Sasha MUNOZ"
+                }
+            ]
+        ],
+        "final_winner": "Brisa GOMEZ"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ECU",
+                    "name": "Karla VALENCIA"
+                },
+                {
+                    "winner": "Karla VALENCIA"
+                }
+            ],
+            [
+                {
+                    "country": "ARG",
+                    "name": "Rocio LEGUIZAMON"
+                },
+                {
+                    "winner": "Rocio LEGUIZAMON"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "ECU",
+                    "name": "Karla VALENCIA"
+                },
+                {
+                    "country": "ARG",
+                    "name": "Rocio LEGUIZAMON"
+                }
+            ]
+        ],
+        "final_winner": "Karla VALENCIA"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CHI",
+                    "name": "Micaela HERNANDEZ"
+                },
+                {
+                    "winner": "Micaela HERNANDEZ"
+                }
+            ],
+            [
+                {
+                    "country": "BRA",
+                    "name": "Gabrielle GONZAGA"
+                },
+                {
+                    "country": "ARG",
+                    "name": "Sabina SERRANO"
+                },
+                {
+                    "winner": "Gabrielle GONZAGA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "CHI",
+                    "name": "Micaela HERNANDEZ"
+                },
+                {
+                    "country": "BRA",
+                    "name": "Gabrielle GONZAGA"
+                }
+            ]
+        ],
+        "final_winner": "Gabrielle GONZAGA"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "BAH",
+                    "name": "Cynthia RAHMING"
+                },
+                {
+                    "country": "CHI",
+                    "name": "Sasha MUNOZ"
+                },
+                {
+                    "winner": "Sasha MUNOZ"
+                }
+            ],
+            [
+                {
+                    "country": "ARG",
+                    "name": "Rocio LEGUIZAMON"
+                },
+                {
+                    "country": "CHI",
+                    "name": "Micaela HERNANDEZ"
+                },
+                {
+                    "winner": "Micaela HERNANDEZ"
+                }
+            ],
+            [
+                {
+                    "country": "CHI",
+                    "name": "Sasha MUNOZ"
+                },
+                {
+                    "country": "BRA",
+                    "name": "Gabrielle GONZAGA"
+                },
+                {
+                    "winner": "Gabrielle GONZAGA"
+                }
+            ],
+            [
+                {
+                    "country": "CHI",
+                    "name": "Micaela HERNANDEZ"
+                },
+                {
+                    "country": "ARG",
+                    "name": "Brisa GOMEZ"
+                },
+                {
+                    "winner": "Brisa GOMEZ"
+                }
+            ],
+            [
+                {
+                    "country": "BRA",
+                    "name": "Gabrielle GONZAGA"
+                }
+            ],
+            [
+                {
+                    "country": "ARG",
+                    "name": "Brisa GOMEZ"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Gabrielle GONZAGA",
+            "Brisa GOMEZ"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ARG",
+                    "name": "Oritia GONZALEZ"
+                },
+                {
+                    "country": "ARG",
+                    "name": "Brisa GOMEZ"
+                },
+                {
+                    "winner": "Oritia GONZALEZ"
+                }
+            ],
+            [
+                {
+                    "country": "ECU",
+                    "name": "Karla VALENCIA"
+                },
+                {
+                    "country": "BRA",
+                    "name": "Gabrielle GONZAGA"
+                },
+                {
+                    "winner": "Karla VALENCIA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "ARG",
+                    "name": "Oritia GONZALEZ"
+                },
+                {
+                    "country": "ECU",
+                    "name": "Karla VALENCIA"
+                }
+            ]
+        ],
+        "final_winner": "Karla VALENCIA"
+    }
+}

@@ -1,0 +1,261 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "PAR",
+                    "name": "Marcelo VICENTINI"
+                },
+                {
+                    "winner": "Marcelo VICENTINI"
+                }
+            ],
+            []
+        ],
+        "round 1-1": [],
+        "final_winner": "Marcelo VICENTINI"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "URU",
+                    "name": "Paolo Alberto SILVA MANZI"
+                },
+                {
+                    "winner": "Paolo Alberto SILVA MANZI"
+                }
+            ],
+            [
+                {
+                    "country": "ARG",
+                    "name": "Misael LUJAN VERA"
+                },
+                {
+                    "winner": "Misael LUJAN VERA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "URU",
+                    "name": "Paolo Alberto SILVA MANZI"
+                },
+                {
+                    "country": "ARG",
+                    "name": "Misael LUJAN VERA"
+                }
+            ]
+        ],
+        "final_winner": "Paolo Alberto SILVA MANZI"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "URU",
+                    "name": "Santino Mario CERCHI"
+                },
+                {
+                    "winner": "Santino Mario CERCHI"
+                }
+            ],
+            [
+                {
+                    "country": "ARG",
+                    "name": "Ivan GOMEZ"
+                },
+                {
+                    "winner": "Ivan GOMEZ"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "URU",
+                    "name": "Santino Mario CERCHI"
+                },
+                {
+                    "country": "ARG",
+                    "name": "Ivan GOMEZ"
+                }
+            ]
+        ],
+        "final_winner": "Ivan GOMEZ"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ARG",
+                    "name": "Reiver ALVARENGA SOTO"
+                },
+                {
+                    "winner": "Reiver ALVARENGA SOTO"
+                }
+            ],
+            [
+                {
+                    "country": "ARG",
+                    "name": "Gonzalo MIRAS"
+                },
+                {
+                    "winner": "Gonzalo MIRAS"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "ARG",
+                    "name": "Reiver ALVARENGA SOTO"
+                },
+                {
+                    "country": "ARG",
+                    "name": "Gonzalo MIRAS"
+                }
+            ]
+        ],
+        "final_winner": "Reiver ALVARENGA SOTO"
+    },
+    "REPECHAGE": {
+        "round 1-4": [
+            [],
+            [
+                {
+                    "country": "ARG",
+                    "name": "Misael LUJAN VERA"
+                },
+                {
+                    "winner": "Misael LUJAN VERA"
+                }
+            ],
+            [
+                {
+                    "country": "URU",
+                    "name": "Santino Mario CERCHI"
+                },
+                {
+                    "winner": "Santino Mario CERCHI"
+                }
+            ],
+            [
+                {
+                    "country": "ARG",
+                    "name": "Gonzalo MIRAS"
+                },
+                {
+                    "winner": "Gonzalo MIRAS"
+                }
+            ]
+        ],
+        "round 1-2": [
+            [
+                {
+                    "country": "ARG",
+                    "name": "Misael LUJAN VERA"
+                }
+            ],
+            [
+                {
+                    "country": "URU",
+                    "name": "Santino Mario CERCHI"
+                },
+                {
+                    "country": "ARG",
+                    "name": "Gonzalo MIRAS"
+                },
+                {
+                    "winner": "Gonzalo MIRAS"
+                }
+            ],
+            [
+                {
+                    "country": "ARG",
+                    "name": "Misael LUJAN VERA"
+                },
+                {
+                    "country": "ARG",
+                    "name": "Reiver ALVARENGA SOTO"
+                },
+                {
+                    "winner": "Reiver ALVARENGA SOTO"
+                }
+            ],
+            [
+                {
+                    "country": "ARG",
+                    "name": "Gonzalo MIRAS"
+                },
+                {
+                    "country": "URU",
+                    "name": "Paolo Alberto SILVA MANZI"
+                },
+                {
+                    "winner": "Gonzalo MIRAS"
+                }
+            ],
+            [
+                {
+                    "country": "ARG",
+                    "name": "Reiver ALVARENGA SOTO"
+                }
+            ],
+            [
+                {
+                    "country": "ARG",
+                    "name": "Gonzalo MIRAS"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Reiver ALVARENGA SOTO",
+            "Gonzalo MIRAS"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "PAR",
+                    "name": "Marcelo VICENTINI"
+                },
+                {
+                    "country": "URU",
+                    "name": "Paolo Alberto SILVA MANZI"
+                },
+                {
+                    "winner": "Marcelo VICENTINI"
+                }
+            ],
+            [
+                {
+                    "country": "ARG",
+                    "name": "Ivan GOMEZ"
+                },
+                {
+                    "country": "ARG",
+                    "name": "Reiver ALVARENGA SOTO"
+                },
+                {
+                    "winner": "Ivan GOMEZ"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "PAR",
+                    "name": "Marcelo VICENTINI"
+                },
+                {
+                    "country": "ARG",
+                    "name": "Ivan GOMEZ"
+                }
+            ]
+        ],
+        "final_winner": "Ivan GOMEZ"
+    }
+}

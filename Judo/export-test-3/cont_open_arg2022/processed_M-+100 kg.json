@@ -1,0 +1,68 @@
+{
+    "ROUND 1": {
+        "round 1-2": [
+            [
+                {
+                    "country": "VEN",
+                    "name": "Luis AMEZQUITA"
+                },
+                {
+                    "country": "CHI",
+                    "name": "Oscar ALARCON"
+                },
+                {
+                    "winner": "Oscar ALARCON"
+                }
+            ],
+            [
+                {
+                    "country": "ARG",
+                    "name": "Alejo BURGOS"
+                },
+                {
+                    "country": "CHI",
+                    "name": "Angelo SALINAS"
+                },
+                {
+                    "winner": "Alejo BURGOS"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Oscar ALARCON",
+            "Alejo BURGOS"
+        ]
+    },
+    "REPECHAGE": {
+        "round 1-1": [
+            [
+                {
+                    "country": "VEN",
+                    "name": "Luis AMEZQUITA"
+                },
+                {
+                    "country": "CHI",
+                    "name": "Angelo SALINAS"
+                },
+                {
+                    "winner": "Luis AMEZQUITA"
+                }
+            ],
+            [
+                {
+                    "country": "VEN",
+                    "name": "Luis AMEZQUITA"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Luis AMEZQUITA"
+        ]
+    },
+    "FINALS": {
+        "round 1-1": [],
+        "final_winners": [
+            "Alejo BURGOS"
+        ]
+    }
+}

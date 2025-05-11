@@ -1,0 +1,68 @@
+{
+    "ROUND 1": {
+        "round 1-2": [
+            [
+                {
+                    "country": "TKM",
+                    "name": "Sayara ROZYYEVA"
+                },
+                {
+                    "country": "KAZ",
+                    "name": "Nurailym SARSENBEK"
+                },
+                {
+                    "winner": "Nurailym SARSENBEK"
+                }
+            ],
+            [
+                {
+                    "country": "HKG",
+                    "name": "Shuk Ki TSUI"
+                },
+                {
+                    "country": "KOR",
+                    "name": "Mio HUH"
+                },
+                {
+                    "winner": "Mio HUH"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Nurailym SARSENBEK",
+            "Mio HUH"
+        ]
+    },
+    "REPECHAGE": {
+        "round 1-1": [
+            [
+                {
+                    "country": "TKM",
+                    "name": "Sayara ROZYYEVA"
+                },
+                {
+                    "country": "HKG",
+                    "name": "Shuk Ki TSUI"
+                },
+                {
+                    "winner": "Shuk Ki TSUI"
+                }
+            ],
+            [
+                {
+                    "country": "HKG",
+                    "name": "Shuk Ki TSUI"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Shuk Ki TSUI"
+        ]
+    },
+    "FINALS": {
+        "round 1-1": [],
+        "final_winners": [
+            "Mio HUH"
+        ]
+    }
+}

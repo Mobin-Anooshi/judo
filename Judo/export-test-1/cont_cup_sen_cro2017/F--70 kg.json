@@ -1,0 +1,261 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "SUI",
+                    "name": "Alina LENGWEILER"
+                },
+                {
+                    "winner": "Alina LENGWEILER"
+                }
+            ],
+            []
+        ],
+        "round 1-1": [],
+        "final_winner": "Alina LENGWEILER"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "IRL",
+                    "name": "Megan FLETCHER"
+                },
+                {
+                    "winner": "Megan FLETCHER"
+                }
+            ],
+            [
+                {
+                    "country": "SRB",
+                    "name": "Sara TINTOR"
+                },
+                {
+                    "winner": "Sara TINTOR"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "IRL",
+                    "name": "Megan FLETCHER"
+                },
+                {
+                    "country": "SRB",
+                    "name": "Sara TINTOR"
+                }
+            ]
+        ],
+        "final_winner": "Megan FLETCHER"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "MNE",
+                    "name": "Jovana PEKOVIC"
+                },
+                {
+                    "winner": "Jovana PEKOVIC"
+                }
+            ],
+            [
+                {
+                    "country": "BIH",
+                    "name": "Danica JURIC"
+                },
+                {
+                    "winner": "Danica JURIC"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "MNE",
+                    "name": "Jovana PEKOVIC"
+                },
+                {
+                    "country": "BIH",
+                    "name": "Danica JURIC"
+                }
+            ]
+        ],
+        "final_winner": "Jovana PEKOVIC"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "FRA",
+                    "name": "Gwenaelle VIARD"
+                },
+                {
+                    "winner": "Gwenaelle VIARD"
+                }
+            ],
+            [
+                {
+                    "country": "SRB",
+                    "name": "Katarina DENIC"
+                },
+                {
+                    "winner": "Katarina DENIC"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "FRA",
+                    "name": "Gwenaelle VIARD"
+                },
+                {
+                    "country": "SRB",
+                    "name": "Katarina DENIC"
+                }
+            ]
+        ],
+        "final_winner": "Gwenaelle VIARD"
+    },
+    "REPECHAGE": {
+        "round 1-4": [
+            [],
+            [
+                {
+                    "country": "SRB",
+                    "name": "Sara TINTOR"
+                },
+                {
+                    "winner": "Sara TINTOR"
+                }
+            ],
+            [
+                {
+                    "country": "BIH",
+                    "name": "Danica JURIC"
+                },
+                {
+                    "winner": "Danica JURIC"
+                }
+            ],
+            [
+                {
+                    "country": "SRB",
+                    "name": "Katarina DENIC"
+                },
+                {
+                    "winner": "Katarina DENIC"
+                }
+            ]
+        ],
+        "round 1-2": [
+            [
+                {
+                    "country": "SRB",
+                    "name": "Sara TINTOR"
+                }
+            ],
+            [
+                {
+                    "country": "BIH",
+                    "name": "Danica JURIC"
+                },
+                {
+                    "country": "SRB",
+                    "name": "Katarina DENIC"
+                },
+                {
+                    "winner": "Katarina DENIC"
+                }
+            ],
+            [
+                {
+                    "country": "SRB",
+                    "name": "Sara TINTOR"
+                },
+                {
+                    "country": "MNE",
+                    "name": "Jovana PEKOVIC"
+                },
+                {
+                    "winner": "Jovana PEKOVIC"
+                }
+            ],
+            [
+                {
+                    "country": "SRB",
+                    "name": "Katarina DENIC"
+                },
+                {
+                    "country": "SUI",
+                    "name": "Alina LENGWEILER"
+                },
+                {
+                    "winner": "Alina LENGWEILER"
+                }
+            ],
+            [
+                {
+                    "country": "MNE",
+                    "name": "Jovana PEKOVIC"
+                }
+            ],
+            [
+                {
+                    "country": "SUI",
+                    "name": "Alina LENGWEILER"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Jovana PEKOVIC",
+            "Alina LENGWEILER"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "SUI",
+                    "name": "Alina LENGWEILER"
+                },
+                {
+                    "country": "IRL",
+                    "name": "Megan FLETCHER"
+                },
+                {
+                    "winner": "Megan FLETCHER"
+                }
+            ],
+            [
+                {
+                    "country": "MNE",
+                    "name": "Jovana PEKOVIC"
+                },
+                {
+                    "country": "FRA",
+                    "name": "Gwenaelle VIARD"
+                },
+                {
+                    "winner": "Gwenaelle VIARD"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "IRL",
+                    "name": "Megan FLETCHER"
+                },
+                {
+                    "country": "FRA",
+                    "name": "Gwenaelle VIARD"
+                }
+            ]
+        ],
+        "final_winner": "Megan FLETCHER"
+    }
+}

@@ -1,0 +1,177 @@
+{
+    "POOL A": {
+        "round 1-1": [
+            [
+                {
+                    "country": "TUN",
+                    "name": "Yassine KOURAICHI"
+                },
+                {
+                    "country": "ALG",
+                    "name": "Sid Ali BENABOURA"
+                }
+            ]
+        ],
+        "final_winner": "Sid Ali BENABOURA"
+    },
+    "POOL B": {
+        "round 1-1": [
+            [
+                {
+                    "country": "ALG",
+                    "name": "Mohamed Cherif DAHMANI"
+                },
+                {
+                    "country": "ALG",
+                    "name": "Houssem Abderrahim BENBRINIS"
+                }
+            ]
+        ],
+        "final_winner": "Houssem Abderrahim BENBRINIS"
+    },
+    "POOL C": {
+        "round 1-1": [
+            [
+                {
+                    "country": "ALG",
+                    "name": "Rayane Zakaria BENATIA"
+                },
+                {
+                    "country": "ALG",
+                    "name": "Saad ALLA"
+                }
+            ]
+        ],
+        "final_winner": "Rayane Zakaria BENATIA"
+    },
+    "POOL D": {
+        "round 1-1": [
+            [
+                {
+                    "country": "TUN",
+                    "name": "Khalil MCHICHI GUZANNAI"
+                },
+                {
+                    "country": "ALG",
+                    "name": "Ammar LAGAB"
+                }
+            ]
+        ],
+        "final_winner": "Khalil MCHICHI GUZANNAI"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "TUN",
+                    "name": "Yassine KOURAICHI"
+                },
+                {
+                    "country": "ALG",
+                    "name": "Mohamed Cherif DAHMANI"
+                },
+                {
+                    "winner": "Yassine KOURAICHI"
+                }
+            ],
+            [
+                {
+                    "country": "ALG",
+                    "name": "Saad ALLA"
+                },
+                {
+                    "country": "ALG",
+                    "name": "Ammar LAGAB"
+                },
+                {
+                    "winner": "Ammar LAGAB"
+                }
+            ],
+            [
+                {
+                    "country": "TUN",
+                    "name": "Yassine KOURAICHI"
+                },
+                {
+                    "country": "TUN",
+                    "name": "Khalil MCHICHI GUZANNAI"
+                },
+                {
+                    "winner": "Yassine KOURAICHI"
+                }
+            ],
+            [
+                {
+                    "country": "ALG",
+                    "name": "Ammar LAGAB"
+                },
+                {
+                    "country": "ALG",
+                    "name": "Houssem Abderrahim BENBRINIS"
+                },
+                {
+                    "winner": "Ammar LAGAB"
+                }
+            ],
+            [
+                {
+                    "country": "TUN",
+                    "name": "Yassine KOURAICHI"
+                }
+            ],
+            [
+                {
+                    "country": "ALG",
+                    "name": "Ammar LAGAB"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Yassine KOURAICHI",
+            "Ammar LAGAB"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ALG",
+                    "name": "Sid Ali BENABOURA"
+                },
+                {
+                    "country": "ALG",
+                    "name": "Houssem Abderrahim BENBRINIS"
+                },
+                {
+                    "winner": "Sid Ali BENABOURA"
+                }
+            ],
+            [
+                {
+                    "country": "ALG",
+                    "name": "Rayane Zakaria BENATIA"
+                },
+                {
+                    "country": "TUN",
+                    "name": "Khalil MCHICHI GUZANNAI"
+                },
+                {
+                    "winner": "Rayane Zakaria BENATIA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "ALG",
+                    "name": "Sid Ali BENABOURA"
+                },
+                {
+                    "country": "ALG",
+                    "name": "Rayane Zakaria BENATIA"
+                }
+            ]
+        ],
+        "final_winner": "Rayane Zakaria BENATIA"
+    }
+}

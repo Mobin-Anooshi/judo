@@ -1,0 +1,153 @@
+{
+    "POOL A": {
+        "round 1-1": [],
+        "final_winner": "Lydia KECHOUT"
+    },
+    "POOL B": {
+        "round 1-1": [
+            [
+                {
+                    "country": "EGY",
+                    "name": "Jana IBRAHIM"
+                },
+                {
+                    "country": "MAR",
+                    "name": "Yasmine HARISS"
+                }
+            ]
+        ],
+        "final_winner": "Jana IBRAHIM"
+    },
+    "POOL C": {
+        "round 1-1": [
+            [
+                {
+                    "country": "ANG",
+                    "name": "Olga BENTO"
+                },
+                {
+                    "country": "KEN",
+                    "name": "Hannah NGENDO"
+                }
+            ]
+        ],
+        "final_winner": "Olga BENTO"
+    },
+    "POOL D": {
+        "round 1-1": [
+            [
+                {
+                    "country": "GUI",
+                    "name": "Nmah Kolma BANGOURA"
+                },
+                {
+                    "country": "GAB",
+                    "name": "Djora Chaiman Catoucha BIDOULE ASSEGHE"
+                }
+            ]
+        ],
+        "final_winner": "Nmah Kolma BANGOURA"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "MAR",
+                    "name": "Yasmine HARISS"
+                }
+            ],
+            [
+                {
+                    "country": "KEN",
+                    "name": "Hannah NGENDO"
+                },
+                {
+                    "country": "GAB",
+                    "name": "Djora Chaiman Catoucha BIDOULE ASSEGHE"
+                },
+                {
+                    "winner": "Djora Chaiman Catoucha BIDOULE ASSEGHE"
+                }
+            ],
+            [
+                {
+                    "country": "MAR",
+                    "name": "Yasmine HARISS"
+                },
+                {
+                    "country": "GUI",
+                    "name": "Nmah Kolma BANGOURA"
+                },
+                {
+                    "winner": "Yasmine HARISS"
+                }
+            ],
+            [
+                {
+                    "country": "GAB",
+                    "name": "Djora Chaiman Catoucha BIDOULE ASSEGHE"
+                },
+                {
+                    "country": "ALG",
+                    "name": "Lydia KECHOUT"
+                },
+                {
+                    "winner": "Lydia KECHOUT"
+                }
+            ],
+            [
+                {
+                    "country": "ALG",
+                    "name": "Lydia KECHOUT"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Djora Chaiman Catoucha BIDOULE ASSEGHE",
+            "Yasmine HARISS"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ALG",
+                    "name": "Lydia KECHOUT"
+                },
+                {
+                    "country": "EGY",
+                    "name": "Jana IBRAHIM"
+                },
+                {
+                    "winner": "Jana IBRAHIM"
+                }
+            ],
+            [
+                {
+                    "country": "ANG",
+                    "name": "Olga BENTO"
+                },
+                {
+                    "country": "GUI",
+                    "name": "Nmah Kolma BANGOURA"
+                },
+                {
+                    "winner": "Olga BENTO"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "EGY",
+                    "name": "Jana IBRAHIM"
+                },
+                {
+                    "country": "ANG",
+                    "name": "Olga BENTO"
+                }
+            ]
+        ],
+        "final_winner": "Jana IBRAHIM"
+    }
+}

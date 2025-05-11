@@ -1,0 +1,129 @@
+{
+    "POOL A": {
+        "round 1-1": [],
+        "final_winner": "Asma FARHAT"
+    },
+    "POOL B": {
+        "round 1-1": [
+            [
+                {
+                    "country": "ALG",
+                    "name": "Lydia REGUIG"
+                },
+                {
+                    "country": "ALG",
+                    "name": "Alae MEKKAK"
+                }
+            ]
+        ],
+        "final_winner": "Alae MEKKAK"
+    },
+    "POOL C": {
+        "round 1-1": [],
+        "final_winner": "Samia Douaa Senia KHALDI"
+    },
+    "POOL D": {
+        "round 1-1": [
+            [
+                {
+                    "country": "ALG",
+                    "name": "Hanane BRAHIMI"
+                },
+                {
+                    "country": "ALG",
+                    "name": "Sameh ARICHA"
+                }
+            ]
+        ],
+        "final_winner": "Sameh ARICHA"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ALG",
+                    "name": "Lydia REGUIG"
+                }
+            ],
+            [
+                {
+                    "country": "ALG",
+                    "name": "Hanane BRAHIMI"
+                }
+            ],
+            [
+                {
+                    "country": "ALG",
+                    "name": "Lydia REGUIG"
+                },
+                {
+                    "country": "ALG",
+                    "name": "Sameh ARICHA"
+                },
+                {
+                    "winner": "Lydia REGUIG"
+                }
+            ],
+            [
+                {
+                    "country": "ALG",
+                    "name": "Hanane BRAHIMI"
+                },
+                {
+                    "country": "ALG",
+                    "name": "Alae MEKKAK"
+                },
+                {
+                    "winner": "Hanane BRAHIMI"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Lydia REGUIG",
+            "Hanane BRAHIMI"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "TUN",
+                    "name": "Asma FARHAT"
+                },
+                {
+                    "country": "ALG",
+                    "name": "Alae MEKKAK"
+                },
+                {
+                    "winner": "Asma FARHAT"
+                }
+            ],
+            [
+                {
+                    "country": "ALG",
+                    "name": "Samia Douaa Senia KHALDI"
+                },
+                {
+                    "country": "ALG",
+                    "name": "Sameh ARICHA"
+                },
+                {
+                    "winner": "Samia Douaa Senia KHALDI"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "TUN",
+                    "name": "Asma FARHAT"
+                },
+                {
+                    "country": "ALG",
+                    "name": "Samia Douaa Senia KHALDI"
+                }
+            ]
+        ],
+        "final_winner": "Samia Douaa Senia KHALDI"
+    }
+}

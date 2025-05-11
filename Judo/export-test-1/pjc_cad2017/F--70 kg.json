@@ -1,0 +1,240 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Eduarda ROSA"
+                },
+                {
+                    "winner": "Eduarda ROSA"
+                }
+            ],
+            [
+                {
+                    "country": "CAN",
+                    "name": "Coralie GODBOUT"
+                },
+                {
+                    "country": "COL",
+                    "name": "Esteysy DIAZ"
+                }
+            ]
+        ],
+        "round 1-1": [],
+        "final_winner": "Eduarda ROSA"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CAN",
+                    "name": "Coralie GODBOUT"
+                },
+                {
+                    "winner": "Coralie GODBOUT"
+                }
+            ],
+            [
+                {
+                    "country": "COL",
+                    "name": "Esteysy DIAZ"
+                },
+                {
+                    "winner": "Esteysy DIAZ"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "CAN",
+                    "name": "Coralie GODBOUT"
+                },
+                {
+                    "country": "COL",
+                    "name": "Esteysy DIAZ"
+                }
+            ]
+        ],
+        "final_winner": "Esteysy DIAZ"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ECU",
+                    "name": "Edith ORTIZ"
+                },
+                {
+                    "winner": "Edith ORTIZ"
+                }
+            ],
+            [
+                {
+                    "country": "MEX",
+                    "name": "Jessica GALLEGOS"
+                },
+                {
+                    "winner": "Jessica GALLEGOS"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "ECU",
+                    "name": "Edith ORTIZ"
+                },
+                {
+                    "country": "MEX",
+                    "name": "Jessica GALLEGOS"
+                }
+            ]
+        ],
+        "final_winner": "Edith ORTIZ"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "USA",
+                    "name": "Mia LIU"
+                },
+                {
+                    "winner": "Mia LIU"
+                }
+            ],
+            [
+                {
+                    "country": "VEN",
+                    "name": "Daniela SANCHEZ"
+                },
+                {
+                    "winner": "Daniela SANCHEZ"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "USA",
+                    "name": "Mia LIU"
+                },
+                {
+                    "country": "VEN",
+                    "name": "Daniela SANCHEZ"
+                }
+            ]
+        ],
+        "final_winner": "Daniela SANCHEZ"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CAN",
+                    "name": "Coralie GODBOUT"
+                }
+            ],
+            [
+                {
+                    "country": "MEX",
+                    "name": "Jessica GALLEGOS"
+                },
+                {
+                    "country": "USA",
+                    "name": "Mia LIU"
+                },
+                {
+                    "winner": "Jessica GALLEGOS"
+                }
+            ],
+            [
+                {
+                    "country": "CAN",
+                    "name": "Coralie GODBOUT"
+                },
+                {
+                    "country": "VEN",
+                    "name": "Daniela SANCHEZ"
+                },
+                {
+                    "winner": "Daniela SANCHEZ"
+                }
+            ],
+            [
+                {
+                    "country": "MEX",
+                    "name": "Jessica GALLEGOS"
+                },
+                {
+                    "country": "COL",
+                    "name": "Esteysy DIAZ"
+                },
+                {
+                    "winner": "Esteysy DIAZ"
+                }
+            ],
+            [
+                {
+                    "country": "VEN",
+                    "name": "Daniela SANCHEZ"
+                }
+            ],
+            [
+                {
+                    "country": "COL",
+                    "name": "Esteysy DIAZ"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Daniela SANCHEZ",
+            "Esteysy DIAZ"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Eduarda ROSA"
+                },
+                {
+                    "country": "COL",
+                    "name": "Esteysy DIAZ"
+                },
+                {
+                    "winner": "Eduarda ROSA"
+                }
+            ],
+            [
+                {
+                    "country": "ECU",
+                    "name": "Edith ORTIZ"
+                },
+                {
+                    "country": "VEN",
+                    "name": "Daniela SANCHEZ"
+                },
+                {
+                    "winner": "Edith ORTIZ"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Eduarda ROSA"
+                },
+                {
+                    "country": "ECU",
+                    "name": "Edith ORTIZ"
+                }
+            ]
+        ],
+        "final_winner": "Eduarda ROSA"
+    }
+}

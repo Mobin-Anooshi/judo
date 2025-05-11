@@ -1,0 +1,159 @@
+{
+    "POOL A": {
+        "round 1-1": [],
+        "final_winner": "Yasmine HARISS"
+    },
+    "POOL B": {
+        "round 1-1": [
+            [
+                {
+                    "country": "RSA",
+                    "name": "Tyla STACEY-HALE"
+                },
+                {
+                    "country": "CMR",
+                    "name": "Berthe Dyvane TETNDA KOUONGNI"
+                }
+            ]
+        ],
+        "final_winner": "Berthe Dyvane TETNDA KOUONGNI"
+    },
+    "POOL C": {
+        "round 1-1": [
+            [
+                {
+                    "country": "CMR",
+                    "name": "Genevieve Rolande Yaelle ABOMO"
+                },
+                {
+                    "country": "EGY",
+                    "name": "Jana FOUAD"
+                }
+            ]
+        ],
+        "final_winner": "Jana FOUAD"
+    },
+    "POOL D": {
+        "round 1-1": [
+            [
+                {
+                    "country": "CMR",
+                    "name": "Antoinette Mafleur OMBEDE AYISSI"
+                },
+                {
+                    "country": "BDI",
+                    "name": "Verra Camille IRAKOZE"
+                }
+            ]
+        ],
+        "final_winner": "Verra Camille IRAKOZE"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "RSA",
+                    "name": "Tyla STACEY-HALE"
+                }
+            ],
+            [
+                {
+                    "country": "CMR",
+                    "name": "Genevieve Rolande Yaelle ABOMO"
+                },
+                {
+                    "country": "CMR",
+                    "name": "Antoinette Mafleur OMBEDE AYISSI"
+                },
+                {
+                    "winner": "Genevieve Rolande Yaelle ABOMO"
+                }
+            ],
+            [
+                {
+                    "country": "RSA",
+                    "name": "Tyla STACEY-HALE"
+                },
+                {
+                    "country": "BDI",
+                    "name": "Verra Camille IRAKOZE"
+                },
+                {
+                    "winner": "Verra Camille IRAKOZE"
+                }
+            ],
+            [
+                {
+                    "country": "CMR",
+                    "name": "Genevieve Rolande Yaelle ABOMO"
+                },
+                {
+                    "country": "CMR",
+                    "name": "Berthe Dyvane TETNDA KOUONGNI"
+                },
+                {
+                    "winner": "Genevieve Rolande Yaelle ABOMO"
+                }
+            ],
+            [
+                {
+                    "country": "BDI",
+                    "name": "Verra Camille IRAKOZE"
+                }
+            ],
+            [
+                {
+                    "country": "CMR",
+                    "name": "Genevieve Rolande Yaelle ABOMO"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Verra Camille IRAKOZE",
+            "Genevieve Rolande Yaelle ABOMO"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "MAR",
+                    "name": "Yasmine HARISS"
+                },
+                {
+                    "country": "CMR",
+                    "name": "Berthe Dyvane TETNDA KOUONGNI"
+                },
+                {
+                    "winner": "Yasmine HARISS"
+                }
+            ],
+            [
+                {
+                    "country": "EGY",
+                    "name": "Jana FOUAD"
+                },
+                {
+                    "country": "BDI",
+                    "name": "Verra Camille IRAKOZE"
+                },
+                {
+                    "winner": "Jana FOUAD"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "MAR",
+                    "name": "Yasmine HARISS"
+                },
+                {
+                    "country": "EGY",
+                    "name": "Jana FOUAD"
+                }
+            ]
+        ],
+        "final_winner": "Yasmine HARISS"
+    }
+}

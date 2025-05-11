@@ -1,0 +1,177 @@
+{
+    "POOL A": {
+        "round 1-1": [
+            [
+                {
+                    "country": "SEN",
+                    "name": "Arabietou DIEDHIOU"
+                },
+                {
+                    "country": "ALG",
+                    "name": "Rajae AISSA MAMOUNE"
+                }
+            ]
+        ],
+        "final_winner": "Rajae AISSA MAMOUNE"
+    },
+    "POOL B": {
+        "round 1-1": [
+            [
+                {
+                    "country": "EGY",
+                    "name": "Haneen ALTAEB"
+                },
+                {
+                    "country": "CIV",
+                    "name": "Kadiatou DIAKITE"
+                }
+            ]
+        ],
+        "final_winner": "Haneen ALTAEB"
+    },
+    "POOL C": {
+        "round 1-1": [
+            [
+                {
+                    "country": "SEN",
+                    "name": "Adama NDIAYE"
+                },
+                {
+                    "country": "RSA",
+                    "name": "Donne BREYTENBACH"
+                }
+            ]
+        ],
+        "final_winner": "Donne BREYTENBACH"
+    },
+    "POOL D": {
+        "round 1-1": [
+            [
+                {
+                    "country": "ALG",
+                    "name": "Manel BOURSASA"
+                },
+                {
+                    "country": "TUN",
+                    "name": "Saida MONSER"
+                }
+            ]
+        ],
+        "final_winner": "Saida MONSER"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "SEN",
+                    "name": "Arabietou DIEDHIOU"
+                },
+                {
+                    "country": "CIV",
+                    "name": "Kadiatou DIAKITE"
+                },
+                {
+                    "winner": "Arabietou DIEDHIOU"
+                }
+            ],
+            [
+                {
+                    "country": "SEN",
+                    "name": "Adama NDIAYE"
+                },
+                {
+                    "country": "ALG",
+                    "name": "Manel BOURSASA"
+                },
+                {
+                    "winner": "Manel BOURSASA"
+                }
+            ],
+            [
+                {
+                    "country": "SEN",
+                    "name": "Arabietou DIEDHIOU"
+                },
+                {
+                    "country": "RSA",
+                    "name": "Donne BREYTENBACH"
+                },
+                {
+                    "winner": "Donne BREYTENBACH"
+                }
+            ],
+            [
+                {
+                    "country": "ALG",
+                    "name": "Manel BOURSASA"
+                },
+                {
+                    "country": "ALG",
+                    "name": "Rajae AISSA MAMOUNE"
+                },
+                {
+                    "winner": "Rajae AISSA MAMOUNE"
+                }
+            ],
+            [
+                {
+                    "country": "RSA",
+                    "name": "Donne BREYTENBACH"
+                }
+            ],
+            [
+                {
+                    "country": "ALG",
+                    "name": "Rajae AISSA MAMOUNE"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Donne BREYTENBACH",
+            "Rajae AISSA MAMOUNE"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ALG",
+                    "name": "Rajae AISSA MAMOUNE"
+                },
+                {
+                    "country": "EGY",
+                    "name": "Haneen ALTAEB"
+                },
+                {
+                    "winner": "Haneen ALTAEB"
+                }
+            ],
+            [
+                {
+                    "country": "RSA",
+                    "name": "Donne BREYTENBACH"
+                },
+                {
+                    "country": "TUN",
+                    "name": "Saida MONSER"
+                },
+                {
+                    "winner": "Saida MONSER"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "EGY",
+                    "name": "Haneen ALTAEB"
+                },
+                {
+                    "country": "TUN",
+                    "name": "Saida MONSER"
+                }
+            ]
+        ],
+        "final_winner": "Saida MONSER"
+    }
+}

@@ -1,0 +1,261 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "PYF",
+                    "name": "Tamaterai HERVE"
+                },
+                {
+                    "winner": "Tamaterai HERVE"
+                }
+            ],
+            [
+                {
+                    "country": "NCL",
+                    "name": "Antoine DEPREZ"
+                },
+                {
+                    "winner": "Antoine DEPREZ"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "PYF",
+                    "name": "Tamaterai HERVE"
+                },
+                {
+                    "country": "NCL",
+                    "name": "Antoine DEPREZ"
+                }
+            ]
+        ],
+        "final_winner": "Tamaterai HERVE"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "SOL",
+                    "name": "Patterson LOMO"
+                },
+                {
+                    "country": "KIR",
+                    "name": "Tebania MWEMWENIKEAKI"
+                },
+                {
+                    "winner": "Tebania MWEMWENIKEAKI"
+                }
+            ],
+            [
+                {
+                    "country": "VAN",
+                    "name": "Alan MONTHOUEL"
+                },
+                {
+                    "winner": "Alan MONTHOUEL"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "KIR",
+                    "name": "Tebania MWEMWENIKEAKI"
+                },
+                {
+                    "country": "VAN",
+                    "name": "Alan MONTHOUEL"
+                }
+            ]
+        ],
+        "final_winner": "Tebania MWEMWENIKEAKI"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "PYF",
+                    "name": "Anthony KAAN"
+                },
+                {
+                    "winner": "Anthony KAAN"
+                }
+            ],
+            [
+                {
+                    "country": "NCL",
+                    "name": "Matteo LEPAUVRE"
+                },
+                {
+                    "winner": "Matteo LEPAUVRE"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "PYF",
+                    "name": "Anthony KAAN"
+                },
+                {
+                    "country": "NCL",
+                    "name": "Matteo LEPAUVRE"
+                }
+            ]
+        ],
+        "final_winner": "Matteo LEPAUVRE"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "NRU",
+                    "name": "Lo-Agson DENUGA"
+                },
+                {
+                    "winner": "Lo-Agson DENUGA"
+                }
+            ],
+            [
+                {
+                    "country": "SOL",
+                    "name": "Stepsai JACK"
+                },
+                {
+                    "winner": "Stepsai JACK"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "NRU",
+                    "name": "Lo-Agson DENUGA"
+                },
+                {
+                    "country": "SOL",
+                    "name": "Stepsai JACK"
+                }
+            ]
+        ],
+        "final_winner": "Stepsai JACK"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "NCL",
+                    "name": "Antoine DEPREZ"
+                },
+                {
+                    "country": "VAN",
+                    "name": "Alan MONTHOUEL"
+                },
+                {
+                    "winner": "Antoine DEPREZ"
+                }
+            ],
+            [
+                {
+                    "country": "PYF",
+                    "name": "Anthony KAAN"
+                },
+                {
+                    "country": "NRU",
+                    "name": "Lo-Agson DENUGA"
+                },
+                {
+                    "winner": "Anthony KAAN"
+                }
+            ],
+            [
+                {
+                    "country": "NCL",
+                    "name": "Antoine DEPREZ"
+                },
+                {
+                    "country": "SOL",
+                    "name": "Stepsai JACK"
+                },
+                {
+                    "winner": "Antoine DEPREZ"
+                }
+            ],
+            [
+                {
+                    "country": "PYF",
+                    "name": "Anthony KAAN"
+                },
+                {
+                    "country": "KIR",
+                    "name": "Tebania MWEMWENIKEAKI"
+                },
+                {
+                    "winner": "Tebania MWEMWENIKEAKI"
+                }
+            ],
+            [
+                {
+                    "country": "NCL",
+                    "name": "Antoine DEPREZ"
+                }
+            ],
+            [
+                {
+                    "country": "KIR",
+                    "name": "Tebania MWEMWENIKEAKI"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Antoine DEPREZ",
+            "Tebania MWEMWENIKEAKI"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "PYF",
+                    "name": "Tamaterai HERVE"
+                },
+                {
+                    "country": "KIR",
+                    "name": "Tebania MWEMWENIKEAKI"
+                },
+                {
+                    "winner": "Tamaterai HERVE"
+                }
+            ],
+            [
+                {
+                    "country": "NCL",
+                    "name": "Matteo LEPAUVRE"
+                },
+                {
+                    "country": "SOL",
+                    "name": "Stepsai JACK"
+                },
+                {
+                    "winner": "Matteo LEPAUVRE"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "PYF",
+                    "name": "Tamaterai HERVE"
+                },
+                {
+                    "country": "NCL",
+                    "name": "Matteo LEPAUVRE"
+                }
+            ]
+        ],
+        "final_winner": "Tamaterai HERVE"
+    }
+}

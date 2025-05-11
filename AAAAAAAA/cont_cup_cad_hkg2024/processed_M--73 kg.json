@@ -1,0 +1,177 @@
+{
+    "POOL A": {
+        "round 1-1": [
+            [
+                {
+                    "country": "USA",
+                    "name": "Heinrich HANADA"
+                },
+                {
+                    "country": "PHI",
+                    "name": "Antonio Joaquin VIOLAGO"
+                }
+            ]
+        ],
+        "final_winner": "Heinrich HANADA"
+    },
+    "POOL B": {
+        "round 1-1": [
+            [
+                {
+                    "country": "AUS",
+                    "name": "Flynn MOGILIN"
+                },
+                {
+                    "country": "MGL",
+                    "name": "Odbaatar ULAMJLAL"
+                }
+            ]
+        ],
+        "final_winner": "Flynn MOGILIN"
+    },
+    "POOL C": {
+        "round 1-1": [
+            [
+                {
+                    "country": "AUS",
+                    "name": "Nikola DOBRIC"
+                },
+                {
+                    "country": "HKG",
+                    "name": "Sik Ming TSANG"
+                }
+            ]
+        ],
+        "final_winner": "Nikola DOBRIC"
+    },
+    "POOL D": {
+        "round 1-1": [
+            [
+                {
+                    "country": "MGL",
+                    "name": "Bilguundalai NYAMDORJ"
+                },
+                {
+                    "country": "KSA",
+                    "name": "Saad ALZAHRANI"
+                }
+            ]
+        ],
+        "final_winner": "Bilguundalai NYAMDORJ"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "PHI",
+                    "name": "Antonio Joaquin VIOLAGO"
+                },
+                {
+                    "country": "MGL",
+                    "name": "Odbaatar ULAMJLAL"
+                },
+                {
+                    "winner": "Odbaatar ULAMJLAL"
+                }
+            ],
+            [
+                {
+                    "country": "HKG",
+                    "name": "Sik Ming TSANG"
+                },
+                {
+                    "country": "KSA",
+                    "name": "Saad ALZAHRANI"
+                },
+                {
+                    "winner": "Saad ALZAHRANI"
+                }
+            ],
+            [
+                {
+                    "country": "MGL",
+                    "name": "Odbaatar ULAMJLAL"
+                },
+                {
+                    "country": "MGL",
+                    "name": "Bilguundalai NYAMDORJ"
+                },
+                {
+                    "winner": "Bilguundalai NYAMDORJ"
+                }
+            ],
+            [
+                {
+                    "country": "KSA",
+                    "name": "Saad ALZAHRANI"
+                },
+                {
+                    "country": "AUS",
+                    "name": "Flynn MOGILIN"
+                },
+                {
+                    "winner": "Saad ALZAHRANI"
+                }
+            ],
+            [
+                {
+                    "country": "MGL",
+                    "name": "Bilguundalai NYAMDORJ"
+                }
+            ],
+            [
+                {
+                    "country": "KSA",
+                    "name": "Saad ALZAHRANI"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Bilguundalai NYAMDORJ",
+            "Saad ALZAHRANI"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "USA",
+                    "name": "Heinrich HANADA"
+                },
+                {
+                    "country": "AUS",
+                    "name": "Flynn MOGILIN"
+                },
+                {
+                    "winner": "Heinrich HANADA"
+                }
+            ],
+            [
+                {
+                    "country": "AUS",
+                    "name": "Nikola DOBRIC"
+                },
+                {
+                    "country": "MGL",
+                    "name": "Bilguundalai NYAMDORJ"
+                },
+                {
+                    "winner": "Nikola DOBRIC"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "USA",
+                    "name": "Heinrich HANADA"
+                },
+                {
+                    "country": "AUS",
+                    "name": "Nikola DOBRIC"
+                }
+            ]
+        ],
+        "final_winner": "Heinrich HANADA"
+    }
+}

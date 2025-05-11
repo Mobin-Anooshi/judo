@@ -1,0 +1,265 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "AUS",
+                    "name": "Melanie WALLIS"
+                },
+                {
+                    "winner": "Melanie WALLIS"
+                }
+            ],
+            [
+                {
+                    "country": "IND",
+                    "name": "Jina Devi CHONGTHAM"
+                },
+                {
+                    "country": "KOR",
+                    "name": "Jinjoo HONG"
+                },
+                {
+                    "winner": "Jinjoo HONG"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "AUS",
+                    "name": "Melanie WALLIS"
+                },
+                {
+                    "country": "KOR",
+                    "name": "Jinjoo HONG"
+                }
+            ]
+        ],
+        "final_winner": "Jinjoo HONG"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "AUS",
+                    "name": "Tabitha CROTON"
+                },
+                {
+                    "winner": "Tabitha CROTON"
+                }
+            ],
+            [
+                {
+                    "country": "KOR",
+                    "name": "Ahyeon KIM"
+                },
+                {
+                    "winner": "Ahyeon KIM"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "AUS",
+                    "name": "Tabitha CROTON"
+                },
+                {
+                    "country": "KOR",
+                    "name": "Ahyeon KIM"
+                }
+            ]
+        ],
+        "final_winner": "Ahyeon KIM"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "KOR",
+                    "name": "Yoonji CHAE"
+                },
+                {
+                    "winner": "Yoonji CHAE"
+                }
+            ],
+            [
+                {
+                    "country": "KOR",
+                    "name": "Ahyun KIM"
+                },
+                {
+                    "country": "TPE",
+                    "name": "Yi-Jun CHEN"
+                },
+                {
+                    "winner": "Ahyun KIM"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "KOR",
+                    "name": "Yoonji CHAE"
+                },
+                {
+                    "country": "KOR",
+                    "name": "Ahyun KIM"
+                }
+            ]
+        ],
+        "final_winner": "Ahyun KIM"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "KOR",
+                    "name": "Daseul MUN"
+                },
+                {
+                    "winner": "Daseul MUN"
+                }
+            ],
+            [
+                {
+                    "country": "VIE",
+                    "name": "Thi Quynh Nhu DUONG"
+                },
+                {
+                    "winner": "Thi Quynh Nhu DUONG"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "KOR",
+                    "name": "Daseul MUN"
+                },
+                {
+                    "country": "VIE",
+                    "name": "Thi Quynh Nhu DUONG"
+                }
+            ]
+        ],
+        "final_winner": "Daseul MUN"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "AUS",
+                    "name": "Melanie WALLIS"
+                },
+                {
+                    "country": "AUS",
+                    "name": "Tabitha CROTON"
+                },
+                {
+                    "winner": "Melanie WALLIS"
+                }
+            ],
+            [
+                {
+                    "country": "KOR",
+                    "name": "Yoonji CHAE"
+                },
+                {
+                    "country": "VIE",
+                    "name": "Thi Quynh Nhu DUONG"
+                },
+                {
+                    "winner": "Yoonji CHAE"
+                }
+            ],
+            [
+                {
+                    "country": "AUS",
+                    "name": "Melanie WALLIS"
+                },
+                {
+                    "country": "KOR",
+                    "name": "Ahyun KIM"
+                },
+                {
+                    "winner": "Ahyun KIM"
+                }
+            ],
+            [
+                {
+                    "country": "KOR",
+                    "name": "Yoonji CHAE"
+                },
+                {
+                    "country": "KOR",
+                    "name": "Ahyeon KIM"
+                },
+                {
+                    "winner": "Ahyeon KIM"
+                }
+            ],
+            [
+                {
+                    "country": "KOR",
+                    "name": "Ahyun KIM"
+                }
+            ],
+            [
+                {
+                    "country": "KOR",
+                    "name": "Ahyeon KIM"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Ahyun KIM",
+            "Ahyeon KIM"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "KOR",
+                    "name": "Jinjoo HONG"
+                },
+                {
+                    "country": "KOR",
+                    "name": "Ahyeon KIM"
+                },
+                {
+                    "winner": "Jinjoo HONG"
+                }
+            ],
+            [
+                {
+                    "country": "KOR",
+                    "name": "Ahyun KIM"
+                },
+                {
+                    "country": "KOR",
+                    "name": "Daseul MUN"
+                },
+                {
+                    "winner": "Daseul MUN"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "KOR",
+                    "name": "Jinjoo HONG"
+                },
+                {
+                    "country": "KOR",
+                    "name": "Daseul MUN"
+                }
+            ]
+        ],
+        "final_winner": "Jinjoo HONG"
+    }
+}

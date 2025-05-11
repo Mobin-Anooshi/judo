@@ -1,0 +1,261 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "VEN",
+                    "name": "Anriquelis BARRIOS"
+                },
+                {
+                    "winner": "Anriquelis BARRIOS"
+                }
+            ],
+            [
+                {
+                    "country": "COL",
+                    "name": "Keyla VASQUEZ"
+                },
+                {
+                    "winner": "Keyla VASQUEZ"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "VEN",
+                    "name": "Anriquelis BARRIOS"
+                },
+                {
+                    "country": "COL",
+                    "name": "Keyla VASQUEZ"
+                }
+            ]
+        ],
+        "final_winner": "Anriquelis BARRIOS"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CHI",
+                    "name": "Constanza PEREZ"
+                },
+                {
+                    "winner": "Constanza PEREZ"
+                }
+            ],
+            [
+                {
+                    "country": "ARG",
+                    "name": "Fiona CUNEO"
+                },
+                {
+                    "winner": "Fiona CUNEO"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "CHI",
+                    "name": "Constanza PEREZ"
+                },
+                {
+                    "country": "ARG",
+                    "name": "Fiona CUNEO"
+                }
+            ]
+        ],
+        "final_winner": "Constanza PEREZ"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CUB",
+                    "name": "Maylin DEL TORO CARVAJAL"
+                },
+                {
+                    "winner": "Maylin DEL TORO CARVAJAL"
+                }
+            ],
+            [
+                {
+                    "country": "CHI",
+                    "name": "Fernanda CORNEJO"
+                },
+                {
+                    "country": "COL",
+                    "name": "Ingrid CHOCO"
+                },
+                {
+                    "winner": "Ingrid CHOCO"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "CUB",
+                    "name": "Maylin DEL TORO CARVAJAL"
+                },
+                {
+                    "country": "COL",
+                    "name": "Ingrid CHOCO"
+                }
+            ]
+        ],
+        "final_winner": "Maylin DEL TORO CARVAJAL"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CAN",
+                    "name": "Isabelle HARRIS"
+                },
+                {
+                    "winner": "Isabelle HARRIS"
+                }
+            ],
+            [
+                {
+                    "country": "DOM",
+                    "name": "Creymarlin VALDEZ"
+                },
+                {
+                    "winner": "Creymarlin VALDEZ"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "CAN",
+                    "name": "Isabelle HARRIS"
+                },
+                {
+                    "country": "DOM",
+                    "name": "Creymarlin VALDEZ"
+                }
+            ]
+        ],
+        "final_winner": "Isabelle HARRIS"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "COL",
+                    "name": "Keyla VASQUEZ"
+                },
+                {
+                    "country": "ARG",
+                    "name": "Fiona CUNEO"
+                },
+                {
+                    "winner": "Keyla VASQUEZ"
+                }
+            ],
+            [
+                {
+                    "country": "COL",
+                    "name": "Ingrid CHOCO"
+                },
+                {
+                    "country": "DOM",
+                    "name": "Creymarlin VALDEZ"
+                },
+                {
+                    "winner": "Ingrid CHOCO"
+                }
+            ],
+            [
+                {
+                    "country": "COL",
+                    "name": "Keyla VASQUEZ"
+                },
+                {
+                    "country": "CAN",
+                    "name": "Isabelle HARRIS"
+                },
+                {
+                    "winner": "Isabelle HARRIS"
+                }
+            ],
+            [
+                {
+                    "country": "COL",
+                    "name": "Ingrid CHOCO"
+                },
+                {
+                    "country": "CHI",
+                    "name": "Constanza PEREZ"
+                },
+                {
+                    "winner": "Ingrid CHOCO"
+                }
+            ],
+            [
+                {
+                    "country": "CAN",
+                    "name": "Isabelle HARRIS"
+                }
+            ],
+            [
+                {
+                    "country": "COL",
+                    "name": "Ingrid CHOCO"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Isabelle HARRIS",
+            "Ingrid CHOCO"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "VEN",
+                    "name": "Anriquelis BARRIOS"
+                },
+                {
+                    "country": "CHI",
+                    "name": "Constanza PEREZ"
+                },
+                {
+                    "winner": "Anriquelis BARRIOS"
+                }
+            ],
+            [
+                {
+                    "country": "CUB",
+                    "name": "Maylin DEL TORO CARVAJAL"
+                },
+                {
+                    "country": "CAN",
+                    "name": "Isabelle HARRIS"
+                },
+                {
+                    "winner": "Maylin DEL TORO CARVAJAL"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "VEN",
+                    "name": "Anriquelis BARRIOS"
+                },
+                {
+                    "country": "CUB",
+                    "name": "Maylin DEL TORO CARVAJAL"
+                }
+            ]
+        ],
+        "final_winner": "Maylin DEL TORO CARVAJAL"
+    }
+}

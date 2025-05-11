@@ -1,0 +1,265 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "FRA",
+                    "name": "Samah Hawa CAMARA"
+                },
+                {
+                    "winner": "Samah Hawa CAMARA"
+                }
+            ],
+            [
+                {
+                    "country": "FRA",
+                    "name": "Stessie BASTAREAUD"
+                },
+                {
+                    "country": "ITA",
+                    "name": "Valeria FERRARI"
+                },
+                {
+                    "winner": "Valeria FERRARI"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "FRA",
+                    "name": "Samah Hawa CAMARA"
+                },
+                {
+                    "country": "ITA",
+                    "name": "Valeria FERRARI"
+                }
+            ]
+        ],
+        "final_winner": "Samah Hawa CAMARA"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "GER",
+                    "name": "Luise MALZAHN"
+                },
+                {
+                    "winner": "Luise MALZAHN"
+                }
+            ],
+            [
+                {
+                    "country": "RUS",
+                    "name": "Antonina SHMELEVA"
+                },
+                {
+                    "winner": "Antonina SHMELEVA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "GER",
+                    "name": "Luise MALZAHN"
+                },
+                {
+                    "country": "RUS",
+                    "name": "Antonina SHMELEVA"
+                }
+            ]
+        ],
+        "final_winner": "Luise MALZAHN"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "JPN",
+                    "name": "Shori HAMADA"
+                },
+                {
+                    "winner": "Shori HAMADA"
+                }
+            ],
+            [
+                {
+                    "country": "CAN",
+                    "name": "Mina COULOMBE"
+                },
+                {
+                    "country": "GER",
+                    "name": "Maike ZIECH"
+                },
+                {
+                    "winner": "Maike ZIECH"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "JPN",
+                    "name": "Shori HAMADA"
+                },
+                {
+                    "country": "GER",
+                    "name": "Maike ZIECH"
+                }
+            ]
+        ],
+        "final_winner": "Shori HAMADA"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "VEN",
+                    "name": "Karen LEON"
+                },
+                {
+                    "winner": "Karen LEON"
+                }
+            ],
+            [
+                {
+                    "country": "POR",
+                    "name": "Yahima RAMIREZ"
+                },
+                {
+                    "winner": "Yahima RAMIREZ"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "VEN",
+                    "name": "Karen LEON"
+                },
+                {
+                    "country": "POR",
+                    "name": "Yahima RAMIREZ"
+                }
+            ]
+        ],
+        "final_winner": "Yahima RAMIREZ"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ITA",
+                    "name": "Valeria FERRARI"
+                },
+                {
+                    "country": "RUS",
+                    "name": "Antonina SHMELEVA"
+                },
+                {
+                    "winner": "Valeria FERRARI"
+                }
+            ],
+            [
+                {
+                    "country": "GER",
+                    "name": "Maike ZIECH"
+                },
+                {
+                    "country": "VEN",
+                    "name": "Karen LEON"
+                },
+                {
+                    "winner": "Maike ZIECH"
+                }
+            ],
+            [
+                {
+                    "country": "ITA",
+                    "name": "Valeria FERRARI"
+                },
+                {
+                    "country": "POR",
+                    "name": "Yahima RAMIREZ"
+                },
+                {
+                    "winner": "Yahima RAMIREZ"
+                }
+            ],
+            [
+                {
+                    "country": "GER",
+                    "name": "Maike ZIECH"
+                },
+                {
+                    "country": "GER",
+                    "name": "Luise MALZAHN"
+                },
+                {
+                    "winner": "Luise MALZAHN"
+                }
+            ],
+            [
+                {
+                    "country": "POR",
+                    "name": "Yahima RAMIREZ"
+                }
+            ],
+            [
+                {
+                    "country": "GER",
+                    "name": "Luise MALZAHN"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Yahima RAMIREZ",
+            "Luise MALZAHN"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "FRA",
+                    "name": "Samah Hawa CAMARA"
+                },
+                {
+                    "country": "GER",
+                    "name": "Luise MALZAHN"
+                },
+                {
+                    "winner": "Samah Hawa CAMARA"
+                }
+            ],
+            [
+                {
+                    "country": "JPN",
+                    "name": "Shori HAMADA"
+                },
+                {
+                    "country": "POR",
+                    "name": "Yahima RAMIREZ"
+                },
+                {
+                    "winner": "Shori HAMADA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "FRA",
+                    "name": "Samah Hawa CAMARA"
+                },
+                {
+                    "country": "JPN",
+                    "name": "Shori HAMADA"
+                }
+            ]
+        ],
+        "final_winner": "Shori HAMADA"
+    }
+}

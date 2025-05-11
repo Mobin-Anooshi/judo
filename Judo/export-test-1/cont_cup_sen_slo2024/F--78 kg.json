@@ -1,0 +1,299 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "HUN",
+                    "name": "Nikolett SAGI"
+                },
+                {
+                    "winner": "Nikolett SAGI"
+                }
+            ],
+            [
+                {
+                    "country": "POL",
+                    "name": "Paulina MUSZYNSKA"
+                },
+                {
+                    "country": "CRO",
+                    "name": "Lea GOBEC"
+                },
+                {
+                    "winner": "Lea GOBEC"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "HUN",
+                    "name": "Nikolett SAGI"
+                },
+                {
+                    "country": "CRO",
+                    "name": "Lea GOBEC"
+                }
+            ]
+        ],
+        "final_winner": "Nikolett SAGI"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CRO",
+                    "name": "Lorena PERKOVIC"
+                },
+                {
+                    "winner": "Lorena PERKOVIC"
+                }
+            ],
+            [
+                {
+                    "country": "SLO",
+                    "name": "Masa ZAVRSNIK"
+                },
+                {
+                    "winner": "Masa ZAVRSNIK"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "CRO",
+                    "name": "Lorena PERKOVIC"
+                },
+                {
+                    "country": "SLO",
+                    "name": "Masa ZAVRSNIK"
+                }
+            ]
+        ],
+        "final_winner": "Lorena PERKOVIC"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CRO",
+                    "name": "Nika JAKUS"
+                },
+                {
+                    "winner": "Nika JAKUS"
+                }
+            ],
+            [
+                {
+                    "country": "AUT",
+                    "name": "Christina SOKCEVIC"
+                },
+                {
+                    "winner": "Christina SOKCEVIC"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "CRO",
+                    "name": "Nika JAKUS"
+                },
+                {
+                    "country": "AUT",
+                    "name": "Christina SOKCEVIC"
+                }
+            ]
+        ],
+        "final_winner": "Nika JAKUS"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "POL",
+                    "name": "Aleksandra TUREK"
+                },
+                {
+                    "winner": "Aleksandra TUREK"
+                }
+            ],
+            [
+                {
+                    "country": "GER",
+                    "name": "Mathilda Sophie NIEMEYER"
+                },
+                {
+                    "winner": "Mathilda Sophie NIEMEYER"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "POL",
+                    "name": "Aleksandra TUREK"
+                },
+                {
+                    "country": "GER",
+                    "name": "Mathilda Sophie NIEMEYER"
+                }
+            ]
+        ],
+        "final_winner": "Mathilda Sophie NIEMEYER"
+    },
+    "REPECHAGE": {
+        "round 1-4": [
+            [
+                {
+                    "country": "CRO",
+                    "name": "Lea GOBEC"
+                },
+                {
+                    "winner": "Lea GOBEC"
+                }
+            ],
+            [
+                {
+                    "country": "SLO",
+                    "name": "Masa ZAVRSNIK"
+                },
+                {
+                    "winner": "Masa ZAVRSNIK"
+                }
+            ],
+            [
+                {
+                    "country": "AUT",
+                    "name": "Christina SOKCEVIC"
+                },
+                {
+                    "winner": "Christina SOKCEVIC"
+                }
+            ],
+            [
+                {
+                    "country": "POL",
+                    "name": "Aleksandra TUREK"
+                },
+                {
+                    "winner": "Aleksandra TUREK"
+                }
+            ]
+        ],
+        "round 1-2": [
+            [
+                {
+                    "country": "CRO",
+                    "name": "Lea GOBEC"
+                },
+                {
+                    "country": "SLO",
+                    "name": "Masa ZAVRSNIK"
+                },
+                {
+                    "winner": "Lea GOBEC"
+                }
+            ],
+            [
+                {
+                    "country": "AUT",
+                    "name": "Christina SOKCEVIC"
+                },
+                {
+                    "country": "POL",
+                    "name": "Aleksandra TUREK"
+                },
+                {
+                    "winner": "Aleksandra TUREK"
+                }
+            ],
+            [
+                {
+                    "country": "CRO",
+                    "name": "Lea GOBEC"
+                },
+                {
+                    "country": "CRO",
+                    "name": "Nika JAKUS"
+                },
+                {
+                    "winner": "Lea GOBEC"
+                }
+            ],
+            [
+                {
+                    "country": "POL",
+                    "name": "Aleksandra TUREK"
+                },
+                {
+                    "country": "CRO",
+                    "name": "Lorena PERKOVIC"
+                },
+                {
+                    "winner": "Aleksandra TUREK"
+                }
+            ],
+            [
+                {
+                    "country": "CRO",
+                    "name": "Lea GOBEC"
+                }
+            ],
+            [
+                {
+                    "country": "POL",
+                    "name": "Aleksandra TUREK"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Lea GOBEC",
+            "Aleksandra TUREK"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "HUN",
+                    "name": "Nikolett SAGI"
+                },
+                {
+                    "country": "CRO",
+                    "name": "Lorena PERKOVIC"
+                },
+                {
+                    "winner": "Nikolett SAGI"
+                }
+            ],
+            [
+                {
+                    "country": "CRO",
+                    "name": "Nika JAKUS"
+                },
+                {
+                    "country": "GER",
+                    "name": "Mathilda Sophie NIEMEYER"
+                },
+                {
+                    "winner": "Mathilda Sophie NIEMEYER"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "HUN",
+                    "name": "Nikolett SAGI"
+                },
+                {
+                    "country": "GER",
+                    "name": "Mathilda Sophie NIEMEYER"
+                }
+            ]
+        ],
+        "final_winner": "Mathilda Sophie NIEMEYER"
+    }
+}

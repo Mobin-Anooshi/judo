@@ -1,0 +1,68 @@
+{
+    "ROUND 1": {
+        "round 1-2": [
+            [
+                {
+                    "country": "COL",
+                    "name": "Maria Camila BERMUDEZ"
+                },
+                {
+                    "country": "PER",
+                    "name": "Carla Patricia LEON"
+                },
+                {
+                    "winner": "Maria Camila BERMUDEZ"
+                }
+            ],
+            [
+                {
+                    "country": "PER",
+                    "name": "Sandra ZARATE"
+                },
+                {
+                    "country": "PER",
+                    "name": "Milagros AREVALO"
+                },
+                {
+                    "winner": "Milagros AREVALO"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Maria Camila BERMUDEZ",
+            "Milagros AREVALO"
+        ]
+    },
+    "REPECHAGE": {
+        "round 1-1": [
+            [
+                {
+                    "country": "PER",
+                    "name": "Carla Patricia LEON"
+                },
+                {
+                    "country": "PER",
+                    "name": "Sandra ZARATE"
+                },
+                {
+                    "winner": "Carla Patricia LEON"
+                }
+            ],
+            [
+                {
+                    "country": "PER",
+                    "name": "Carla Patricia LEON"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Carla Patricia LEON"
+        ]
+    },
+    "FINALS": {
+        "round 1-1": [],
+        "final_winners": [
+            "Maria Camila BERMUDEZ"
+        ]
+    }
+}

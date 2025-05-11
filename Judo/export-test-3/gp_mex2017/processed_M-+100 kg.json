@@ -1,0 +1,68 @@
+{
+    "ROUND 1": {
+        "round 1-2": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "David MOURA"
+                },
+                {
+                    "country": "USA",
+                    "name": "Arash SOOFIANI"
+                },
+                {
+                    "winner": "David MOURA"
+                }
+            ],
+            [
+                {
+                    "country": "CUB",
+                    "name": "Alex GARCIA MENDOZA"
+                },
+                {
+                    "country": "CHI",
+                    "name": "Francisco SOLIS"
+                },
+                {
+                    "winner": "Alex GARCIA MENDOZA"
+                }
+            ]
+        ],
+        "final_winners": [
+            "David MOURA",
+            "Alex GARCIA MENDOZA"
+        ]
+    },
+    "REPECHAGE": {
+        "round 1-1": [
+            [
+                {
+                    "country": "USA",
+                    "name": "Arash SOOFIANI"
+                },
+                {
+                    "country": "CHI",
+                    "name": "Francisco SOLIS"
+                },
+                {
+                    "winner": "Francisco SOLIS"
+                }
+            ],
+            [
+                {
+                    "country": "CHI",
+                    "name": "Francisco SOLIS"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Francisco SOLIS"
+        ]
+    },
+    "FINALS": {
+        "round 1-1": [],
+        "final_winners": [
+            "David MOURA"
+        ]
+    }
+}

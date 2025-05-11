@@ -1,0 +1,159 @@
+{
+    "POOL A": {
+        "round 1-1": [],
+        "final_winner": "Paris POLYKARPOU"
+    },
+    "POOL B": {
+        "round 1-1": [
+            [
+                {
+                    "country": "ISL",
+                    "name": "Romans PSENICNIJS"
+                },
+                {
+                    "country": "CYP",
+                    "name": "Vladimiros CHARALAMPOUS"
+                }
+            ]
+        ],
+        "final_winner": "Vladimiros CHARALAMPOUS"
+    },
+    "POOL C": {
+        "round 1-1": [
+            [
+                {
+                    "country": "CYP",
+                    "name": "Kyriakos SPETSIOS"
+                },
+                {
+                    "country": "LIE",
+                    "name": "Gabriel MEIER"
+                }
+            ]
+        ],
+        "final_winner": "Kyriakos SPETSIOS"
+    },
+    "POOL D": {
+        "round 1-1": [
+            [
+                {
+                    "country": "CYP",
+                    "name": "Stefanos LAZARIDES"
+                },
+                {
+                    "country": "LUX",
+                    "name": "Marcos REBELO OSORIO"
+                }
+            ]
+        ],
+        "final_winner": "Stefanos LAZARIDES"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ISL",
+                    "name": "Romans PSENICNIJS"
+                }
+            ],
+            [
+                {
+                    "country": "LIE",
+                    "name": "Gabriel MEIER"
+                },
+                {
+                    "country": "LUX",
+                    "name": "Marcos REBELO OSORIO"
+                },
+                {
+                    "winner": "Marcos REBELO OSORIO"
+                }
+            ],
+            [
+                {
+                    "country": "ISL",
+                    "name": "Romans PSENICNIJS"
+                },
+                {
+                    "country": "CYP",
+                    "name": "Stefanos LAZARIDES"
+                },
+                {
+                    "winner": "Stefanos LAZARIDES"
+                }
+            ],
+            [
+                {
+                    "country": "LUX",
+                    "name": "Marcos REBELO OSORIO"
+                },
+                {
+                    "country": "CYP",
+                    "name": "Paris POLYKARPOU"
+                },
+                {
+                    "winner": "Marcos REBELO OSORIO"
+                }
+            ],
+            [
+                {
+                    "country": "CYP",
+                    "name": "Stefanos LAZARIDES"
+                }
+            ],
+            [
+                {
+                    "country": "LUX",
+                    "name": "Marcos REBELO OSORIO"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Stefanos LAZARIDES",
+            "Marcos REBELO OSORIO"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CYP",
+                    "name": "Paris POLYKARPOU"
+                },
+                {
+                    "country": "CYP",
+                    "name": "Vladimiros CHARALAMPOUS"
+                },
+                {
+                    "winner": "Vladimiros CHARALAMPOUS"
+                }
+            ],
+            [
+                {
+                    "country": "CYP",
+                    "name": "Kyriakos SPETSIOS"
+                },
+                {
+                    "country": "CYP",
+                    "name": "Stefanos LAZARIDES"
+                },
+                {
+                    "winner": "Kyriakos SPETSIOS"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "CYP",
+                    "name": "Vladimiros CHARALAMPOUS"
+                },
+                {
+                    "country": "CYP",
+                    "name": "Kyriakos SPETSIOS"
+                }
+            ]
+        ],
+        "final_winner": "Kyriakos SPETSIOS"
+    }
+}

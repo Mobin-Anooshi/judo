@@ -1,0 +1,135 @@
+{
+    "POOL A": {
+        "round 1-1": [],
+        "final_winner": "Matheus GUIMARAES"
+    },
+    "POOL B": {
+        "round 1-1": [
+            [
+                {
+                    "country": "ECU",
+                    "name": "Ramiro AREVALO"
+                },
+                {
+                    "country": "COL",
+                    "name": "Christopherd GALVIS"
+                }
+            ]
+        ],
+        "final_winner": "Christopherd GALVIS"
+    },
+    "POOL C": {
+        "round 1-1": [],
+        "final_winner": "Gustavo CANIZALEZ"
+    },
+    "POOL D": {
+        "round 1-1": [
+            [
+                {
+                    "country": "COL",
+                    "name": "Michael HERNANDEZ HENAO"
+                },
+                {
+                    "country": "CHI",
+                    "name": "Marko FIGUEROA"
+                }
+            ]
+        ],
+        "final_winner": "Michael HERNANDEZ HENAO"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ECU",
+                    "name": "Ramiro AREVALO"
+                }
+            ],
+            [
+                {
+                    "country": "CHI",
+                    "name": "Marko FIGUEROA"
+                }
+            ],
+            [
+                {
+                    "country": "ECU",
+                    "name": "Ramiro AREVALO"
+                },
+                {
+                    "country": "COL",
+                    "name": "Michael HERNANDEZ HENAO"
+                },
+                {
+                    "winner": "Ramiro AREVALO"
+                }
+            ],
+            [
+                {
+                    "country": "CHI",
+                    "name": "Marko FIGUEROA"
+                },
+                {
+                    "country": "COL",
+                    "name": "Christopherd GALVIS"
+                },
+                {
+                    "winner": "Christopherd GALVIS"
+                }
+            ],
+            [
+                {
+                    "country": "COL",
+                    "name": "Christopherd GALVIS"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Marko FIGUEROA",
+            "Ramiro AREVALO"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Matheus GUIMARAES"
+                },
+                {
+                    "country": "COL",
+                    "name": "Christopherd GALVIS"
+                },
+                {
+                    "winner": "Matheus GUIMARAES"
+                }
+            ],
+            [
+                {
+                    "country": "VEN",
+                    "name": "Gustavo CANIZALEZ"
+                },
+                {
+                    "country": "COL",
+                    "name": "Michael HERNANDEZ HENAO"
+                },
+                {
+                    "winner": "Gustavo CANIZALEZ"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Matheus GUIMARAES"
+                },
+                {
+                    "country": "VEN",
+                    "name": "Gustavo CANIZALEZ"
+                }
+            ]
+        ],
+        "final_winner": "Matheus GUIMARAES"
+    }
+}

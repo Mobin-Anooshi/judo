@@ -1,0 +1,153 @@
+{
+    "POOL A": {
+        "round 1-1": [],
+        "final_winner": "Faiza AISSAHINE"
+    },
+    "POOL B": {
+        "round 1-1": [
+            [
+                {
+                    "country": "ALG",
+                    "name": "Chirine ABDELLAOUI"
+                },
+                {
+                    "country": "ALG",
+                    "name": "Rania NAIT AMMAR"
+                }
+            ]
+        ],
+        "final_winner": "Rania NAIT AMMAR"
+    },
+    "POOL C": {
+        "round 1-1": [
+            [
+                {
+                    "country": "TUN",
+                    "name": "Rahma TIBI"
+                },
+                {
+                    "country": "ALG",
+                    "name": "Lisa HAMI"
+                }
+            ]
+        ],
+        "final_winner": "Rahma TIBI"
+    },
+    "POOL D": {
+        "round 1-1": [
+            [
+                {
+                    "country": "MOZ",
+                    "name": "Jacira FERREIRA"
+                },
+                {
+                    "country": "ALG",
+                    "name": "Yasmine HADI"
+                }
+            ]
+        ],
+        "final_winner": "Yasmine HADI"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ALG",
+                    "name": "Chirine ABDELLAOUI"
+                }
+            ],
+            [
+                {
+                    "country": "ALG",
+                    "name": "Lisa HAMI"
+                },
+                {
+                    "country": "MOZ",
+                    "name": "Jacira FERREIRA"
+                },
+                {
+                    "winner": "Lisa HAMI"
+                }
+            ],
+            [
+                {
+                    "country": "ALG",
+                    "name": "Chirine ABDELLAOUI"
+                },
+                {
+                    "country": "ALG",
+                    "name": "Yasmine HADI"
+                },
+                {
+                    "winner": "Chirine ABDELLAOUI"
+                }
+            ],
+            [
+                {
+                    "country": "ALG",
+                    "name": "Lisa HAMI"
+                },
+                {
+                    "country": "ALG",
+                    "name": "Rania NAIT AMMAR"
+                },
+                {
+                    "winner": "Rania NAIT AMMAR"
+                }
+            ],
+            [
+                {
+                    "country": "ALG",
+                    "name": "Rania NAIT AMMAR"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Lisa HAMI",
+            "Chirine ABDELLAOUI"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ALG",
+                    "name": "Faiza AISSAHINE"
+                },
+                {
+                    "country": "ALG",
+                    "name": "Rania NAIT AMMAR"
+                },
+                {
+                    "winner": "Faiza AISSAHINE"
+                }
+            ],
+            [
+                {
+                    "country": "TUN",
+                    "name": "Rahma TIBI"
+                },
+                {
+                    "country": "ALG",
+                    "name": "Yasmine HADI"
+                },
+                {
+                    "winner": "Rahma TIBI"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "ALG",
+                    "name": "Faiza AISSAHINE"
+                },
+                {
+                    "country": "TUN",
+                    "name": "Rahma TIBI"
+                }
+            ]
+        ],
+        "final_winner": "Rahma TIBI"
+    }
+}

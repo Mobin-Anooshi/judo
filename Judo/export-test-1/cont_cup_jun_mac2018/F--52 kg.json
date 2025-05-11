@@ -1,0 +1,261 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "IND",
+                    "name": "Pincky BALHARA"
+                },
+                {
+                    "winner": "Pincky BALHARA"
+                }
+            ],
+            []
+        ],
+        "round 1-1": [],
+        "final_winner": "Pincky BALHARA"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "TPE",
+                    "name": "Yu-hsuan CHUANG"
+                },
+                {
+                    "winner": "Yu-hsuan CHUANG"
+                }
+            ],
+            [
+                {
+                    "country": "MAS",
+                    "name": "E ANN ANGELINE CHOI"
+                },
+                {
+                    "winner": "E ANN ANGELINE CHOI"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "TPE",
+                    "name": "Yu-hsuan CHUANG"
+                },
+                {
+                    "country": "MAS",
+                    "name": "E ANN ANGELINE CHOI"
+                }
+            ]
+        ],
+        "final_winner": "Yu-hsuan CHUANG"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "MAS",
+                    "name": "Xuan Le GOH"
+                },
+                {
+                    "winner": "Xuan Le GOH"
+                }
+            ],
+            [
+                {
+                    "country": "MAC",
+                    "name": "Weng i HO"
+                },
+                {
+                    "winner": "Weng i HO"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "MAS",
+                    "name": "Xuan Le GOH"
+                },
+                {
+                    "country": "MAC",
+                    "name": "Weng i HO"
+                }
+            ]
+        ],
+        "final_winner": "Weng i HO"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "HKG",
+                    "name": "Nok Lam YEUNG"
+                },
+                {
+                    "winner": "Nok Lam YEUNG"
+                }
+            ],
+            [
+                {
+                    "country": "AUS",
+                    "name": "Nina MADDOCKS"
+                },
+                {
+                    "winner": "Nina MADDOCKS"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "HKG",
+                    "name": "Nok Lam YEUNG"
+                },
+                {
+                    "country": "AUS",
+                    "name": "Nina MADDOCKS"
+                }
+            ]
+        ],
+        "final_winner": "Nok Lam YEUNG"
+    },
+    "REPECHAGE": {
+        "round 1-4": [
+            [],
+            [
+                {
+                    "country": "MAS",
+                    "name": "E ANN ANGELINE CHOI"
+                },
+                {
+                    "winner": "E ANN ANGELINE CHOI"
+                }
+            ],
+            [
+                {
+                    "country": "MAS",
+                    "name": "Xuan Le GOH"
+                },
+                {
+                    "winner": "Xuan Le GOH"
+                }
+            ],
+            [
+                {
+                    "country": "AUS",
+                    "name": "Nina MADDOCKS"
+                },
+                {
+                    "winner": "Nina MADDOCKS"
+                }
+            ]
+        ],
+        "round 1-2": [
+            [
+                {
+                    "country": "MAS",
+                    "name": "E ANN ANGELINE CHOI"
+                }
+            ],
+            [
+                {
+                    "country": "MAS",
+                    "name": "Xuan Le GOH"
+                },
+                {
+                    "country": "AUS",
+                    "name": "Nina MADDOCKS"
+                },
+                {
+                    "winner": "Xuan Le GOH"
+                }
+            ],
+            [
+                {
+                    "country": "MAS",
+                    "name": "E ANN ANGELINE CHOI"
+                },
+                {
+                    "country": "MAC",
+                    "name": "Weng i HO"
+                },
+                {
+                    "winner": "Weng i HO"
+                }
+            ],
+            [
+                {
+                    "country": "MAS",
+                    "name": "Xuan Le GOH"
+                },
+                {
+                    "country": "TPE",
+                    "name": "Yu-hsuan CHUANG"
+                },
+                {
+                    "winner": "Yu-hsuan CHUANG"
+                }
+            ],
+            [
+                {
+                    "country": "MAC",
+                    "name": "Weng i HO"
+                }
+            ],
+            [
+                {
+                    "country": "TPE",
+                    "name": "Yu-hsuan CHUANG"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Weng i HO",
+            "Yu-hsuan CHUANG"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "IND",
+                    "name": "Pincky BALHARA"
+                },
+                {
+                    "country": "TPE",
+                    "name": "Yu-hsuan CHUANG"
+                },
+                {
+                    "winner": "Pincky BALHARA"
+                }
+            ],
+            [
+                {
+                    "country": "MAC",
+                    "name": "Weng i HO"
+                },
+                {
+                    "country": "HKG",
+                    "name": "Nok Lam YEUNG"
+                },
+                {
+                    "winner": "Nok Lam YEUNG"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "IND",
+                    "name": "Pincky BALHARA"
+                },
+                {
+                    "country": "HKG",
+                    "name": "Nok Lam YEUNG"
+                }
+            ]
+        ],
+        "final_winner": "Pincky BALHARA"
+    }
+}

@@ -1,0 +1,257 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "KAZ",
+                    "name": "Kamila BERLIKASH"
+                },
+                {
+                    "winner": "Kamila BERLIKASH"
+                }
+            ],
+            [
+                {
+                    "country": "SYR",
+                    "name": "Marwa ALSHALABI"
+                },
+                {
+                    "winner": "Marwa ALSHALABI"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "KAZ",
+                    "name": "Kamila BERLIKASH"
+                },
+                {
+                    "country": "SYR",
+                    "name": "Marwa ALSHALABI"
+                }
+            ]
+        ],
+        "final_winner": "Kamila BERLIKASH"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "KGZ",
+                    "name": "Daiana MINALIEVA"
+                },
+                {
+                    "winner": "Daiana MINALIEVA"
+                }
+            ],
+            [
+                {
+                    "country": "IND",
+                    "name": "Tulika MAAN"
+                },
+                {
+                    "winner": "Tulika MAAN"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "KGZ",
+                    "name": "Daiana MINALIEVA"
+                },
+                {
+                    "country": "IND",
+                    "name": "Tulika MAAN"
+                }
+            ]
+        ],
+        "final_winner": "Tulika MAAN"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "UZB",
+                    "name": "Rinata ILMATOVA"
+                },
+                {
+                    "winner": "Rinata ILMATOVA"
+                }
+            ],
+            [
+                {
+                    "country": "KOR",
+                    "name": "Hayun KIM"
+                },
+                {
+                    "winner": "Hayun KIM"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "UZB",
+                    "name": "Rinata ILMATOVA"
+                },
+                {
+                    "country": "KOR",
+                    "name": "Hayun KIM"
+                }
+            ]
+        ],
+        "final_winner": "Hayun KIM"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "KGZ",
+                    "name": "Kristina NEZHNIKOVA"
+                },
+                {
+                    "winner": "Kristina NEZHNIKOVA"
+                }
+            ],
+            [
+                {
+                    "country": "TPE",
+                    "name": "Yuan-Jung LIU"
+                },
+                {
+                    "winner": "Yuan-Jung LIU"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "KGZ",
+                    "name": "Kristina NEZHNIKOVA"
+                },
+                {
+                    "country": "TPE",
+                    "name": "Yuan-Jung LIU"
+                }
+            ]
+        ],
+        "final_winner": "Kristina NEZHNIKOVA"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "SYR",
+                    "name": "Marwa ALSHALABI"
+                },
+                {
+                    "country": "KGZ",
+                    "name": "Daiana MINALIEVA"
+                },
+                {
+                    "winner": "Marwa ALSHALABI"
+                }
+            ],
+            [
+                {
+                    "country": "UZB",
+                    "name": "Rinata ILMATOVA"
+                },
+                {
+                    "country": "TPE",
+                    "name": "Yuan-Jung LIU"
+                },
+                {
+                    "winner": "Yuan-Jung LIU"
+                }
+            ],
+            [
+                {
+                    "country": "SYR",
+                    "name": "Marwa ALSHALABI"
+                },
+                {
+                    "country": "KGZ",
+                    "name": "Kristina NEZHNIKOVA"
+                },
+                {
+                    "winner": "Kristina NEZHNIKOVA"
+                }
+            ],
+            [
+                {
+                    "country": "TPE",
+                    "name": "Yuan-Jung LIU"
+                },
+                {
+                    "country": "IND",
+                    "name": "Tulika MAAN"
+                },
+                {
+                    "winner": "Tulika MAAN"
+                }
+            ],
+            [
+                {
+                    "country": "KGZ",
+                    "name": "Kristina NEZHNIKOVA"
+                }
+            ],
+            [
+                {
+                    "country": "IND",
+                    "name": "Tulika MAAN"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Kristina NEZHNIKOVA",
+            "Tulika MAAN"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "KAZ",
+                    "name": "Kamila BERLIKASH"
+                },
+                {
+                    "country": "IND",
+                    "name": "Tulika MAAN"
+                },
+                {
+                    "winner": "Kamila BERLIKASH"
+                }
+            ],
+            [
+                {
+                    "country": "KOR",
+                    "name": "Hayun KIM"
+                },
+                {
+                    "country": "KGZ",
+                    "name": "Kristina NEZHNIKOVA"
+                },
+                {
+                    "winner": "Hayun KIM"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "KAZ",
+                    "name": "Kamila BERLIKASH"
+                },
+                {
+                    "country": "KOR",
+                    "name": "Hayun KIM"
+                }
+            ]
+        ],
+        "final_winner": "Hayun KIM"
+    }
+}

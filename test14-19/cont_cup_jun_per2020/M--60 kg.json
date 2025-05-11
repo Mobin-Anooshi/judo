@@ -1,0 +1,274 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "USA",
+                    "name": "Jacob MORE"
+                },
+                {
+                    "winner": "Jacob MORE"
+                }
+            ],
+            []
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "USA",
+                    "name": "Jacob MORE"
+                }
+            ]
+        ]
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "MEX",
+                    "name": "Jose QUINTA"
+                },
+                {
+                    "winner": "Jose QUINTA"
+                }
+            ],
+            [
+                {
+                    "country": "GUA",
+                    "name": "Jorge Roberto GARCIA"
+                },
+                {
+                    "winner": "Jorge Roberto GARCIA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "MEX",
+                    "name": "Jose QUINTA"
+                },
+                {
+                    "country": "GUA",
+                    "name": "Jorge Roberto GARCIA"
+                }
+            ],
+            [
+                {
+                    "country": "MEX",
+                    "name": "Jose QUINTA"
+                }
+            ]
+        ]
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "PER",
+                    "name": "Arnold PRADO"
+                },
+                {
+                    "winner": "Arnold PRADO"
+                }
+            ],
+            [
+                {
+                    "country": "USA",
+                    "name": "Brayden BELLA"
+                },
+                {
+                    "winner": "Brayden BELLA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "PER",
+                    "name": "Arnold PRADO"
+                },
+                {
+                    "country": "USA",
+                    "name": "Brayden BELLA"
+                }
+            ],
+            [
+                {
+                    "country": "PER",
+                    "name": "Arnold PRADO"
+                }
+            ]
+        ]
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "MEX",
+                    "name": "Carlos SAGASTEGUI"
+                },
+                {
+                    "winner": "Carlos SAGASTEGUI"
+                }
+            ],
+            [
+                {
+                    "country": "PAR",
+                    "name": "Marcelo VICENTINI"
+                },
+                {
+                    "winner": "Marcelo VICENTINI"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "MEX",
+                    "name": "Carlos SAGASTEGUI"
+                },
+                {
+                    "country": "PAR",
+                    "name": "Marcelo VICENTINI"
+                }
+            ],
+            [
+                {
+                    "country": "PAR",
+                    "name": "Marcelo VICENTINI"
+                }
+            ]
+        ]
+    },
+    "REPECHAGE": {
+        "round 1-4": [
+            [],
+            [
+                {
+                    "country": "GUA",
+                    "name": "Jorge Roberto GARCIA"
+                },
+                {
+                    "winner": "Jorge Roberto GARCIA"
+                }
+            ],
+            [
+                {
+                    "country": "USA",
+                    "name": "Brayden BELLA"
+                },
+                {
+                    "winner": "Brayden BELLA"
+                }
+            ],
+            [
+                {
+                    "country": "MEX",
+                    "name": "Carlos SAGASTEGUI"
+                },
+                {
+                    "winner": "Carlos SAGASTEGUI"
+                }
+            ]
+        ],
+        "round 1-2": [
+            [
+                {
+                    "country": "GUA",
+                    "name": "Jorge Roberto GARCIA"
+                }
+            ],
+            [
+                {
+                    "country": "USA",
+                    "name": "Brayden BELLA"
+                },
+                {
+                    "country": "MEX",
+                    "name": "Carlos SAGASTEGUI"
+                }
+            ],
+            [
+                {
+                    "country": "GUA",
+                    "name": "Jorge Roberto GARCIA"
+                },
+                {
+                    "country": "PER",
+                    "name": "Arnold PRADO"
+                }
+            ],
+            [
+                {
+                    "country": "MEX",
+                    "name": "Carlos SAGASTEGUI"
+                },
+                {
+                    "country": "MEX",
+                    "name": "Jose QUINTA"
+                }
+            ],
+            [
+                {
+                    "country": "PER",
+                    "name": "Arnold PRADO"
+                }
+            ],
+            [
+                {
+                    "country": "MEX",
+                    "name": "Jose QUINTA"
+                }
+            ]
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "USA",
+                    "name": "Jacob MORE"
+                },
+                {
+                    "country": "MEX",
+                    "name": "Jose QUINTA"
+                },
+                {
+                    "winner": "Jacob MORE"
+                }
+            ],
+            [
+                {
+                    "country": "PER",
+                    "name": "Arnold PRADO"
+                },
+                {
+                    "country": "PAR",
+                    "name": "Marcelo VICENTINI"
+                },
+                {
+                    "winner": "Marcelo VICENTINI"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "USA",
+                    "name": "Jacob MORE"
+                },
+                {
+                    "country": "PAR",
+                    "name": "Marcelo VICENTINI"
+                }
+            ],
+            [
+                {
+                    "country": "PAR",
+                    "name": "Marcelo VICENTINI"
+                }
+            ]
+        ]
+    }
+}

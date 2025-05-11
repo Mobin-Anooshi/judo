@@ -1,0 +1,177 @@
+{
+    "POOL A": {
+        "round 1-1": [
+            [
+                {
+                    "country": "TUN",
+                    "name": "Wahib HDIOUECH"
+                },
+                {
+                    "country": "MAR",
+                    "name": "Youssef EL KIHEL"
+                }
+            ]
+        ],
+        "final_winner": "Wahib HDIOUECH"
+    },
+    "POOL B": {
+        "round 1-1": [
+            [
+                {
+                    "country": "FRA",
+                    "name": "Sami RAMDANI"
+                },
+                {
+                    "country": "MAR",
+                    "name": "Zakariae AZIANI"
+                }
+            ]
+        ],
+        "final_winner": "Sami RAMDANI"
+    },
+    "POOL C": {
+        "round 1-1": [
+            [
+                {
+                    "country": "GUI",
+                    "name": "Moustapha FOFANA"
+                },
+                {
+                    "country": "MAR",
+                    "name": "Anouar HALIMY"
+                }
+            ]
+        ],
+        "final_winner": "Moustapha FOFANA"
+    },
+    "POOL D": {
+        "round 1-1": [
+            [
+                {
+                    "country": "MAR",
+                    "name": "Anass RHEFRAOUI"
+                },
+                {
+                    "country": "TUN",
+                    "name": "Adem KOUKI"
+                }
+            ]
+        ],
+        "final_winner": "Adem KOUKI"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "MAR",
+                    "name": "Youssef EL KIHEL"
+                },
+                {
+                    "country": "MAR",
+                    "name": "Zakariae AZIANI"
+                },
+                {
+                    "winner": "Zakariae AZIANI"
+                }
+            ],
+            [
+                {
+                    "country": "MAR",
+                    "name": "Anouar HALIMY"
+                },
+                {
+                    "country": "MAR",
+                    "name": "Anass RHEFRAOUI"
+                },
+                {
+                    "winner": "Anass RHEFRAOUI"
+                }
+            ],
+            [
+                {
+                    "country": "MAR",
+                    "name": "Zakariae AZIANI"
+                },
+                {
+                    "country": "TUN",
+                    "name": "Adem KOUKI"
+                },
+                {
+                    "winner": "Adem KOUKI"
+                }
+            ],
+            [
+                {
+                    "country": "MAR",
+                    "name": "Anass RHEFRAOUI"
+                },
+                {
+                    "country": "FRA",
+                    "name": "Sami RAMDANI"
+                },
+                {
+                    "winner": "Sami RAMDANI"
+                }
+            ],
+            [
+                {
+                    "country": "TUN",
+                    "name": "Adem KOUKI"
+                }
+            ],
+            [
+                {
+                    "country": "FRA",
+                    "name": "Sami RAMDANI"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Adem KOUKI",
+            "Sami RAMDANI"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "TUN",
+                    "name": "Wahib HDIOUECH"
+                },
+                {
+                    "country": "FRA",
+                    "name": "Sami RAMDANI"
+                },
+                {
+                    "winner": "Wahib HDIOUECH"
+                }
+            ],
+            [
+                {
+                    "country": "GUI",
+                    "name": "Moustapha FOFANA"
+                },
+                {
+                    "country": "TUN",
+                    "name": "Adem KOUKI"
+                },
+                {
+                    "winner": "Moustapha FOFANA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "TUN",
+                    "name": "Wahib HDIOUECH"
+                },
+                {
+                    "country": "GUI",
+                    "name": "Moustapha FOFANA"
+                }
+            ]
+        ],
+        "final_winner": "Wahib HDIOUECH"
+    }
+}

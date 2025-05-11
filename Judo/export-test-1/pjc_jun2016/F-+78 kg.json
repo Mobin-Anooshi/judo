@@ -1,0 +1,221 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Victoria ARCHINA"
+                },
+                {
+                    "winner": "Victoria ARCHINA"
+                }
+            ],
+            [
+                {
+                    "country": "ECU",
+                    "name": "Adriana VALENCIA"
+                },
+                {
+                    "winner": "Adriana VALENCIA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Victoria ARCHINA"
+                },
+                {
+                    "country": "ECU",
+                    "name": "Adriana VALENCIA"
+                }
+            ]
+        ],
+        "final_winner": "Victoria ARCHINA"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "MEX",
+                    "name": "Diana JUAREZ"
+                },
+                {
+                    "winner": "Diana JUAREZ"
+                }
+            ],
+            []
+        ],
+        "round 1-1": [],
+        "final_winner": "Diana JUAREZ"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "COL",
+                    "name": "Laura CASTILLO"
+                },
+                {
+                    "winner": "Laura CASTILLO"
+                }
+            ],
+            [
+                {
+                    "country": "CHI",
+                    "name": "Josefina FUENTEALBA"
+                },
+                {
+                    "winner": "Josefina FUENTEALBA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "COL",
+                    "name": "Laura CASTILLO"
+                },
+                {
+                    "country": "CHI",
+                    "name": "Josefina FUENTEALBA"
+                }
+            ]
+        ],
+        "final_winner": "Josefina FUENTEALBA"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [],
+            [
+                {
+                    "country": "ARG",
+                    "name": "Natalia AQUINO"
+                },
+                {
+                    "winner": "Natalia AQUINO"
+                }
+            ]
+        ],
+        "round 1-1": [],
+        "final_winner": "Natalia AQUINO"
+    },
+    "REPECHAGE": {
+        "round 1-4": [
+            [
+                {
+                    "country": "ECU",
+                    "name": "Adriana VALENCIA"
+                },
+                {
+                    "winner": "Adriana VALENCIA"
+                }
+            ],
+            [],
+            [
+                {
+                    "country": "COL",
+                    "name": "Laura CASTILLO"
+                },
+                {
+                    "winner": "Laura CASTILLO"
+                }
+            ],
+            []
+        ],
+        "round 1-2": [
+            [
+                {
+                    "country": "ECU",
+                    "name": "Adriana VALENCIA"
+                }
+            ],
+            [
+                {
+                    "country": "COL",
+                    "name": "Laura CASTILLO"
+                }
+            ],
+            [
+                {
+                    "country": "ECU",
+                    "name": "Adriana VALENCIA"
+                },
+                {
+                    "country": "ARG",
+                    "name": "Natalia AQUINO"
+                },
+                {
+                    "winner": "Adriana VALENCIA"
+                }
+            ],
+            [
+                {
+                    "country": "COL",
+                    "name": "Laura CASTILLO"
+                },
+                {
+                    "country": "BRA",
+                    "name": "Victoria ARCHINA"
+                },
+                {
+                    "winner": "Victoria ARCHINA"
+                }
+            ],
+            [
+                {
+                    "country": "BRA",
+                    "name": "Victoria ARCHINA"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Laura CASTILLO",
+            "Adriana VALENCIA"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Victoria ARCHINA"
+                },
+                {
+                    "country": "MEX",
+                    "name": "Diana JUAREZ"
+                },
+                {
+                    "winner": "Diana JUAREZ"
+                }
+            ],
+            [
+                {
+                    "country": "CHI",
+                    "name": "Josefina FUENTEALBA"
+                },
+                {
+                    "country": "ARG",
+                    "name": "Natalia AQUINO"
+                },
+                {
+                    "winner": "Josefina FUENTEALBA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "MEX",
+                    "name": "Diana JUAREZ"
+                },
+                {
+                    "country": "CHI",
+                    "name": "Josefina FUENTEALBA"
+                }
+            ]
+        ],
+        "final_winner": "Diana JUAREZ"
+    }
+}

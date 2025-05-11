@@ -1,0 +1,159 @@
+{
+    "POOL A": {
+        "round 1-1": [],
+        "final_winner": "Brillith GAMARRA"
+    },
+    "POOL B": {
+        "round 1-1": [
+            [
+                {
+                    "country": "ARG",
+                    "name": "Oritia GONZALEZ"
+                },
+                {
+                    "country": "CHI",
+                    "name": "Judith GONZALEZ"
+                }
+            ]
+        ],
+        "final_winner": "Judith GONZALEZ"
+    },
+    "POOL C": {
+        "round 1-1": [
+            [
+                {
+                    "country": "ARG",
+                    "name": "Ayelen ELIZECHE"
+                },
+                {
+                    "country": "PER",
+                    "name": "Noemi HUAYHUAMEZA"
+                }
+            ]
+        ],
+        "final_winner": "Ayelen ELIZECHE"
+    },
+    "POOL D": {
+        "round 1-1": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Larissa PIMENTA"
+                },
+                {
+                    "country": "USA",
+                    "name": "Alaine ABUAN"
+                }
+            ]
+        ],
+        "final_winner": "Larissa PIMENTA"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ARG",
+                    "name": "Oritia GONZALEZ"
+                }
+            ],
+            [
+                {
+                    "country": "PER",
+                    "name": "Noemi HUAYHUAMEZA"
+                },
+                {
+                    "country": "USA",
+                    "name": "Alaine ABUAN"
+                },
+                {
+                    "winner": "Alaine ABUAN"
+                }
+            ],
+            [
+                {
+                    "country": "ARG",
+                    "name": "Oritia GONZALEZ"
+                },
+                {
+                    "country": "ARG",
+                    "name": "Ayelen ELIZECHE"
+                },
+                {
+                    "winner": "Ayelen ELIZECHE"
+                }
+            ],
+            [
+                {
+                    "country": "USA",
+                    "name": "Alaine ABUAN"
+                },
+                {
+                    "country": "CHI",
+                    "name": "Judith GONZALEZ"
+                },
+                {
+                    "winner": "Alaine ABUAN"
+                }
+            ],
+            [
+                {
+                    "country": "ARG",
+                    "name": "Ayelen ELIZECHE"
+                }
+            ],
+            [
+                {
+                    "country": "USA",
+                    "name": "Alaine ABUAN"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Ayelen ELIZECHE",
+            "Alaine ABUAN"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "PER",
+                    "name": "Brillith GAMARRA"
+                },
+                {
+                    "country": "CHI",
+                    "name": "Judith GONZALEZ"
+                },
+                {
+                    "winner": "Brillith GAMARRA"
+                }
+            ],
+            [
+                {
+                    "country": "ARG",
+                    "name": "Ayelen ELIZECHE"
+                },
+                {
+                    "country": "BRA",
+                    "name": "Larissa PIMENTA"
+                },
+                {
+                    "winner": "Larissa PIMENTA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "PER",
+                    "name": "Brillith GAMARRA"
+                },
+                {
+                    "country": "BRA",
+                    "name": "Larissa PIMENTA"
+                }
+            ]
+        ],
+        "final_winner": "Larissa PIMENTA"
+    }
+}

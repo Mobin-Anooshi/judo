@@ -1,0 +1,68 @@
+{
+    "ROUND 1": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CHI",
+                    "name": "Benjamin QUEZADA"
+                },
+                {
+                    "country": "ARG",
+                    "name": "Benjamin MOLINA"
+                },
+                {
+                    "winner": "Benjamin MOLINA"
+                }
+            ],
+            [
+                {
+                    "country": "ARG",
+                    "name": "Mateo MANAS"
+                },
+                {
+                    "country": "ARG",
+                    "name": "Lautaro CRUCES"
+                },
+                {
+                    "winner": "Lautaro CRUCES"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Benjamin MOLINA",
+            "Lautaro CRUCES"
+        ]
+    },
+    "REPECHAGE": {
+        "round 1-1": [
+            [
+                {
+                    "country": "CHI",
+                    "name": "Benjamin QUEZADA"
+                },
+                {
+                    "country": "ARG",
+                    "name": "Mateo MANAS"
+                },
+                {
+                    "winner": "Benjamin QUEZADA"
+                }
+            ],
+            [
+                {
+                    "country": "CHI",
+                    "name": "Benjamin QUEZADA"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Benjamin QUEZADA"
+        ]
+    },
+    "FINALS": {
+        "round 1-1": [],
+        "final_winners": [
+            "Benjamin MOLINA"
+        ]
+    }
+}

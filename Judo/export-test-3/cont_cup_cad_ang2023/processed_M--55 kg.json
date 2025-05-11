@@ -1,0 +1,68 @@
+{
+    "ROUND 1": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ANG",
+                    "name": "Francisco BAMBI"
+                },
+                {
+                    "country": "ANG",
+                    "name": "Adelino KATIVA"
+                },
+                {
+                    "winner": "Francisco BAMBI"
+                }
+            ],
+            [
+                {
+                    "country": "ANG",
+                    "name": "Albino VILARIGUES"
+                },
+                {
+                    "country": "ANG",
+                    "name": "Honorio ALEXANDRE"
+                },
+                {
+                    "winner": "Honorio ALEXANDRE"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Francisco BAMBI",
+            "Honorio ALEXANDRE"
+        ]
+    },
+    "REPECHAGE": {
+        "round 1-1": [
+            [
+                {
+                    "country": "ANG",
+                    "name": "Adelino KATIVA"
+                },
+                {
+                    "country": "ANG",
+                    "name": "Albino VILARIGUES"
+                },
+                {
+                    "winner": "Adelino KATIVA"
+                }
+            ],
+            [
+                {
+                    "country": "ANG",
+                    "name": "Adelino KATIVA"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Adelino KATIVA"
+        ]
+    },
+    "FINALS": {
+        "round 1-1": [],
+        "final_winners": [
+            "Francisco BAMBI"
+        ]
+    }
+}

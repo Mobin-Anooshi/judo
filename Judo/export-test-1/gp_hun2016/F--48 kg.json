@@ -1,0 +1,265 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "GBS",
+                    "name": "Taciana CESAR"
+                },
+                {
+                    "winner": "Taciana CESAR"
+                }
+            ],
+            [
+                {
+                    "country": "JPN",
+                    "name": "Hiromi ENDO"
+                },
+                {
+                    "country": "ROU",
+                    "name": "Alexandra POP"
+                },
+                {
+                    "winner": "Hiromi ENDO"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "GBS",
+                    "name": "Taciana CESAR"
+                },
+                {
+                    "country": "JPN",
+                    "name": "Hiromi ENDO"
+                }
+            ]
+        ],
+        "final_winner": "Hiromi ENDO"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "SRB",
+                    "name": "Milica NIKOLIC"
+                },
+                {
+                    "winner": "Milica NIKOLIC"
+                }
+            ],
+            [
+                {
+                    "country": "FRA",
+                    "name": "Melanie LEGOUX CLEMENT"
+                },
+                {
+                    "winner": "Melanie LEGOUX CLEMENT"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "SRB",
+                    "name": "Milica NIKOLIC"
+                },
+                {
+                    "country": "FRA",
+                    "name": "Melanie LEGOUX CLEMENT"
+                }
+            ]
+        ],
+        "final_winner": "Milica NIKOLIC"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "AUS",
+                    "name": "Chloe RAYNER"
+                },
+                {
+                    "winner": "Chloe RAYNER"
+                }
+            ],
+            [
+                {
+                    "country": "FRA",
+                    "name": "Romane YVIN"
+                },
+                {
+                    "country": "ESP",
+                    "name": "Cristina CASAS"
+                },
+                {
+                    "winner": "Romane YVIN"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "AUS",
+                    "name": "Chloe RAYNER"
+                },
+                {
+                    "country": "FRA",
+                    "name": "Romane YVIN"
+                }
+            ]
+        ],
+        "final_winner": "Romane YVIN"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ROU",
+                    "name": "Violeta DUMITRU"
+                },
+                {
+                    "winner": "Violeta DUMITRU"
+                }
+            ],
+            [
+                {
+                    "country": "HUN",
+                    "name": "Reka PUPP"
+                },
+                {
+                    "winner": "Reka PUPP"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "ROU",
+                    "name": "Violeta DUMITRU"
+                },
+                {
+                    "country": "HUN",
+                    "name": "Reka PUPP"
+                }
+            ]
+        ],
+        "final_winner": "Violeta DUMITRU"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "GBS",
+                    "name": "Taciana CESAR"
+                },
+                {
+                    "country": "FRA",
+                    "name": "Melanie LEGOUX CLEMENT"
+                },
+                {
+                    "winner": "Taciana CESAR"
+                }
+            ],
+            [
+                {
+                    "country": "AUS",
+                    "name": "Chloe RAYNER"
+                },
+                {
+                    "country": "HUN",
+                    "name": "Reka PUPP"
+                },
+                {
+                    "winner": "Reka PUPP"
+                }
+            ],
+            [
+                {
+                    "country": "GBS",
+                    "name": "Taciana CESAR"
+                },
+                {
+                    "country": "ROU",
+                    "name": "Violeta DUMITRU"
+                },
+                {
+                    "winner": "Taciana CESAR"
+                }
+            ],
+            [
+                {
+                    "country": "HUN",
+                    "name": "Reka PUPP"
+                },
+                {
+                    "country": "SRB",
+                    "name": "Milica NIKOLIC"
+                },
+                {
+                    "winner": "Milica NIKOLIC"
+                }
+            ],
+            [
+                {
+                    "country": "GBS",
+                    "name": "Taciana CESAR"
+                }
+            ],
+            [
+                {
+                    "country": "SRB",
+                    "name": "Milica NIKOLIC"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Taciana CESAR",
+            "Milica NIKOLIC"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "JPN",
+                    "name": "Hiromi ENDO"
+                },
+                {
+                    "country": "SRB",
+                    "name": "Milica NIKOLIC"
+                },
+                {
+                    "winner": "Hiromi ENDO"
+                }
+            ],
+            [
+                {
+                    "country": "FRA",
+                    "name": "Romane YVIN"
+                },
+                {
+                    "country": "ROU",
+                    "name": "Violeta DUMITRU"
+                },
+                {
+                    "winner": "Romane YVIN"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "JPN",
+                    "name": "Hiromi ENDO"
+                },
+                {
+                    "country": "FRA",
+                    "name": "Romane YVIN"
+                }
+            ]
+        ],
+        "final_winner": "Hiromi ENDO"
+    }
+}

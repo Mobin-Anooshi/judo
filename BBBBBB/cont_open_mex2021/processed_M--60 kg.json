@@ -1,0 +1,159 @@
+{
+    "POOL A": {
+        "round 1-1": [
+            [
+                {
+                    "country": "PER",
+                    "name": "Dilmer CALLE MOROCHO"
+                },
+                {
+                    "country": "MEX",
+                    "name": "Luis DAMAS"
+                }
+            ]
+        ],
+        "final_winner": "Dilmer CALLE MOROCHO"
+    },
+    "POOL B": {
+        "round 1-1": [
+            [
+                {
+                    "country": "NCA",
+                    "name": "Luis MONTES"
+                },
+                {
+                    "country": "PER",
+                    "name": "Alexander RAMIREZ"
+                }
+            ]
+        ],
+        "final_winner": "Alexander RAMIREZ"
+    },
+    "POOL C": {
+        "round 1-1": [
+            [
+                {
+                    "country": "GUA",
+                    "name": "Jose RAMOS"
+                },
+                {
+                    "country": "MEX",
+                    "name": "Juan Pablo RAMIREZ"
+                }
+            ]
+        ],
+        "final_winner": "Jose RAMOS"
+    },
+    "POOL D": {
+        "round 1-1": [],
+        "final_winner": "Moises ROSADO"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "MEX",
+                    "name": "Luis DAMAS"
+                },
+                {
+                    "country": "NCA",
+                    "name": "Luis MONTES"
+                },
+                {
+                    "winner": "Luis DAMAS"
+                }
+            ],
+            [
+                {
+                    "country": "MEX",
+                    "name": "Juan Pablo RAMIREZ"
+                }
+            ],
+            [
+                {
+                    "country": "MEX",
+                    "name": "Luis DAMAS"
+                },
+                {
+                    "country": "MEX",
+                    "name": "Moises ROSADO"
+                },
+                {
+                    "winner": "Moises ROSADO"
+                }
+            ],
+            [
+                {
+                    "country": "MEX",
+                    "name": "Juan Pablo RAMIREZ"
+                },
+                {
+                    "country": "PER",
+                    "name": "Alexander RAMIREZ"
+                },
+                {
+                    "winner": "Alexander RAMIREZ"
+                }
+            ],
+            [
+                {
+                    "country": "MEX",
+                    "name": "Moises ROSADO"
+                }
+            ],
+            [
+                {
+                    "country": "PER",
+                    "name": "Alexander RAMIREZ"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Moises ROSADO",
+            "Alexander RAMIREZ"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "PER",
+                    "name": "Dilmer CALLE MOROCHO"
+                },
+                {
+                    "country": "PER",
+                    "name": "Alexander RAMIREZ"
+                },
+                {
+                    "winner": "Dilmer CALLE MOROCHO"
+                }
+            ],
+            [
+                {
+                    "country": "GUA",
+                    "name": "Jose RAMOS"
+                },
+                {
+                    "country": "MEX",
+                    "name": "Moises ROSADO"
+                },
+                {
+                    "winner": "Jose RAMOS"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "PER",
+                    "name": "Dilmer CALLE MOROCHO"
+                },
+                {
+                    "country": "GUA",
+                    "name": "Jose RAMOS"
+                }
+            ]
+        ],
+        "final_winner": "Jose RAMOS"
+    }
+}

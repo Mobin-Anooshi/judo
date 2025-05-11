@@ -1,0 +1,68 @@
+{
+    "ROUND 1": {
+        "round 1-2": [
+            [
+                {
+                    "country": "AUS",
+                    "name": "Tinka EASTON"
+                },
+                {
+                    "country": "HKG",
+                    "name": "Annie LAU"
+                },
+                {
+                    "winner": "Tinka EASTON"
+                }
+            ],
+            [
+                {
+                    "country": "HKG",
+                    "name": "Shuk Ki TSUI"
+                },
+                {
+                    "country": "AUS",
+                    "name": "Nina TAKENAKA"
+                },
+                {
+                    "winner": "Nina TAKENAKA"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Tinka EASTON",
+            "Nina TAKENAKA"
+        ]
+    },
+    "REPECHAGE": {
+        "round 1-1": [
+            [
+                {
+                    "country": "HKG",
+                    "name": "Annie LAU"
+                },
+                {
+                    "country": "HKG",
+                    "name": "Shuk Ki TSUI"
+                },
+                {
+                    "winner": "Shuk Ki TSUI"
+                }
+            ],
+            [
+                {
+                    "country": "HKG",
+                    "name": "Shuk Ki TSUI"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Shuk Ki TSUI"
+        ]
+    },
+    "FINALS": {
+        "round 1-1": [],
+        "final_winners": [
+            "Nina TAKENAKA"
+        ]
+    }
+}

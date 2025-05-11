@@ -1,0 +1,68 @@
+{
+    "ROUND 1": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ANG",
+                    "name": "Adriano TCHISSENDE"
+                },
+                {
+                    "country": "CMR",
+                    "name": "Yvan BIEN ASSENE"
+                },
+                {
+                    "winner": "Adriano TCHISSENDE"
+                }
+            ],
+            [
+                {
+                    "country": "SEN",
+                    "name": "Ryan DACOSTA"
+                },
+                {
+                    "country": "CMR",
+                    "name": "Vladimir Carlos NGUEYA NAHEU"
+                },
+                {
+                    "winner": "Vladimir Carlos NGUEYA NAHEU"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Adriano TCHISSENDE",
+            "Vladimir Carlos NGUEYA NAHEU"
+        ]
+    },
+    "REPECHAGE": {
+        "round 1-1": [
+            [
+                {
+                    "country": "CMR",
+                    "name": "Yvan BIEN ASSENE"
+                },
+                {
+                    "country": "SEN",
+                    "name": "Ryan DACOSTA"
+                },
+                {
+                    "winner": "Ryan DACOSTA"
+                }
+            ],
+            [
+                {
+                    "country": "SEN",
+                    "name": "Ryan DACOSTA"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Ryan DACOSTA"
+        ]
+    },
+    "FINALS": {
+        "round 1-1": [],
+        "final_winners": [
+            "Adriano TCHISSENDE"
+        ]
+    }
+}

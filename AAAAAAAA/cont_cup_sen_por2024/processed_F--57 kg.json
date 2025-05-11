@@ -1,0 +1,159 @@
+{
+    "POOL A": {
+        "round 1-1": [],
+        "final_winner": "Ana AGULHAS"
+    },
+    "POOL B": {
+        "round 1-1": [
+            [
+                {
+                    "country": "ARG",
+                    "name": "Brisa GOMEZ"
+                },
+                {
+                    "country": "CRO",
+                    "name": "Dora BORTAS"
+                }
+            ]
+        ],
+        "final_winner": "Dora BORTAS"
+    },
+    "POOL C": {
+        "round 1-1": [
+            [
+                {
+                    "country": "SLO",
+                    "name": "Jevgenija GAJIC"
+                },
+                {
+                    "country": "SWE",
+                    "name": "Tova GRANBERG"
+                }
+            ]
+        ],
+        "final_winner": "Tova GRANBERG"
+    },
+    "POOL D": {
+        "round 1-1": [
+            [
+                {
+                    "country": "POR",
+                    "name": "Raquel BRAS"
+                },
+                {
+                    "country": "GBR",
+                    "name": "Chloe ROBYNS-LANDRICOMBE"
+                }
+            ]
+        ],
+        "final_winner": "Raquel BRAS"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ARG",
+                    "name": "Brisa GOMEZ"
+                }
+            ],
+            [
+                {
+                    "country": "SLO",
+                    "name": "Jevgenija GAJIC"
+                },
+                {
+                    "country": "GBR",
+                    "name": "Chloe ROBYNS-LANDRICOMBE"
+                },
+                {
+                    "winner": "Jevgenija GAJIC"
+                }
+            ],
+            [
+                {
+                    "country": "ARG",
+                    "name": "Brisa GOMEZ"
+                },
+                {
+                    "country": "POR",
+                    "name": "Raquel BRAS"
+                },
+                {
+                    "winner": "Raquel BRAS"
+                }
+            ],
+            [
+                {
+                    "country": "SLO",
+                    "name": "Jevgenija GAJIC"
+                },
+                {
+                    "country": "POR",
+                    "name": "Ana AGULHAS"
+                },
+                {
+                    "winner": "Jevgenija GAJIC"
+                }
+            ],
+            [
+                {
+                    "country": "POR",
+                    "name": "Raquel BRAS"
+                }
+            ],
+            [
+                {
+                    "country": "SLO",
+                    "name": "Jevgenija GAJIC"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Raquel BRAS",
+            "Jevgenija GAJIC"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "POR",
+                    "name": "Ana AGULHAS"
+                },
+                {
+                    "country": "CRO",
+                    "name": "Dora BORTAS"
+                },
+                {
+                    "winner": "Dora BORTAS"
+                }
+            ],
+            [
+                {
+                    "country": "SWE",
+                    "name": "Tova GRANBERG"
+                },
+                {
+                    "country": "POR",
+                    "name": "Raquel BRAS"
+                },
+                {
+                    "winner": "Tova GRANBERG"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "CRO",
+                    "name": "Dora BORTAS"
+                },
+                {
+                    "country": "SWE",
+                    "name": "Tova GRANBERG"
+                }
+            ]
+        ],
+        "final_winner": "Dora BORTAS"
+    }
+}

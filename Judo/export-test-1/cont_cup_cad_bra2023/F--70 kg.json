@@ -1,0 +1,221 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Kauane SENGER"
+                },
+                {
+                    "winner": "Kauane SENGER"
+                }
+            ],
+            [
+                {
+                    "country": "BRA",
+                    "name": "Ana SOARES"
+                },
+                {
+                    "winner": "Ana SOARES"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Kauane SENGER"
+                },
+                {
+                    "country": "BRA",
+                    "name": "Ana SOARES"
+                }
+            ]
+        ],
+        "final_winner": "Kauane SENGER"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [],
+            [
+                {
+                    "country": "BRA",
+                    "name": "Maria HOTTIS"
+                },
+                {
+                    "winner": "Maria HOTTIS"
+                }
+            ]
+        ],
+        "round 1-1": [],
+        "final_winner": "Maria HOTTIS"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [],
+            [
+                {
+                    "country": "BRA",
+                    "name": "Laura NASCIMENTO"
+                },
+                {
+                    "winner": "Laura NASCIMENTO"
+                }
+            ]
+        ],
+        "round 1-1": [],
+        "final_winner": "Laura NASCIMENTO"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Raissa LIMA"
+                },
+                {
+                    "winner": "Raissa LIMA"
+                }
+            ],
+            [
+                {
+                    "country": "BRA",
+                    "name": "Emanuela LUCAS"
+                },
+                {
+                    "winner": "Emanuela LUCAS"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Raissa LIMA"
+                },
+                {
+                    "country": "BRA",
+                    "name": "Emanuela LUCAS"
+                }
+            ]
+        ],
+        "final_winner": "Raissa LIMA"
+    },
+    "REPECHAGE": {
+        "round 1-4": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Ana SOARES"
+                },
+                {
+                    "winner": "Ana SOARES"
+                }
+            ],
+            [],
+            [],
+            [
+                {
+                    "country": "BRA",
+                    "name": "Emanuela LUCAS"
+                },
+                {
+                    "winner": "Emanuela LUCAS"
+                }
+            ]
+        ],
+        "round 1-2": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Ana SOARES"
+                }
+            ],
+            [
+                {
+                    "country": "BRA",
+                    "name": "Emanuela LUCAS"
+                }
+            ],
+            [
+                {
+                    "country": "BRA",
+                    "name": "Ana SOARES"
+                },
+                {
+                    "country": "BRA",
+                    "name": "Laura NASCIMENTO"
+                },
+                {
+                    "winner": "Laura NASCIMENTO"
+                }
+            ],
+            [
+                {
+                    "country": "BRA",
+                    "name": "Emanuela LUCAS"
+                },
+                {
+                    "country": "BRA",
+                    "name": "Kauane SENGER"
+                },
+                {
+                    "winner": "Emanuela LUCAS"
+                }
+            ],
+            [
+                {
+                    "country": "BRA",
+                    "name": "Laura NASCIMENTO"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Emanuela LUCAS",
+            "Laura NASCIMENTO"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Kauane SENGER"
+                },
+                {
+                    "country": "BRA",
+                    "name": "Maria HOTTIS"
+                },
+                {
+                    "winner": "Maria HOTTIS"
+                }
+            ],
+            [
+                {
+                    "country": "BRA",
+                    "name": "Laura NASCIMENTO"
+                },
+                {
+                    "country": "BRA",
+                    "name": "Raissa LIMA"
+                },
+                {
+                    "winner": "Raissa LIMA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Maria HOTTIS"
+                },
+                {
+                    "country": "BRA",
+                    "name": "Raissa LIMA"
+                }
+            ]
+        ],
+        "final_winner": "Raissa LIMA"
+    }
+}

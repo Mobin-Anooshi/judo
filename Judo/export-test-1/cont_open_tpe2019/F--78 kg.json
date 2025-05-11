@@ -1,0 +1,153 @@
+{
+    "POOL A": {
+        "round 1-1": [],
+        "final_winner": "Melanie WALLIS"
+    },
+    "POOL B": {
+        "round 1-1": [
+            [
+                {
+                    "country": "PRK",
+                    "name": "Ye Yong KIM"
+                },
+                {
+                    "country": "TPE",
+                    "name": "Chih-Jou TSENG"
+                }
+            ]
+        ],
+        "final_winner": "Ye Yong KIM"
+    },
+    "POOL C": {
+        "round 1-1": [
+            [
+                {
+                    "country": "TPE",
+                    "name": "Shu Huei HSU WANG"
+                },
+                {
+                    "country": "VIE",
+                    "name": "Thi Phoung Quynh VO"
+                }
+            ]
+        ],
+        "final_winner": "Shu Huei HSU WANG"
+    },
+    "POOL D": {
+        "round 1-1": [
+            [
+                {
+                    "country": "MGL",
+                    "name": "Erdenet-Od BATBAYAR"
+                },
+                {
+                    "country": "IND",
+                    "name": "Nutan SHARMA"
+                }
+            ]
+        ],
+        "final_winner": "Erdenet-Od BATBAYAR"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "TPE",
+                    "name": "Chih-Jou TSENG"
+                }
+            ],
+            [
+                {
+                    "country": "VIE",
+                    "name": "Thi Phoung Quynh VO"
+                },
+                {
+                    "country": "IND",
+                    "name": "Nutan SHARMA"
+                },
+                {
+                    "winner": "Thi Phoung Quynh VO"
+                }
+            ],
+            [
+                {
+                    "country": "TPE",
+                    "name": "Chih-Jou TSENG"
+                },
+                {
+                    "country": "MGL",
+                    "name": "Erdenet-Od BATBAYAR"
+                },
+                {
+                    "winner": "Chih-Jou TSENG"
+                }
+            ],
+            [
+                {
+                    "country": "VIE",
+                    "name": "Thi Phoung Quynh VO"
+                },
+                {
+                    "country": "AUS",
+                    "name": "Melanie WALLIS"
+                },
+                {
+                    "winner": "Thi Phoung Quynh VO"
+                }
+            ],
+            [
+                {
+                    "country": "VIE",
+                    "name": "Thi Phoung Quynh VO"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Thi Phoung Quynh VO",
+            "Chih-Jou TSENG"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "AUS",
+                    "name": "Melanie WALLIS"
+                },
+                {
+                    "country": "PRK",
+                    "name": "Ye Yong KIM"
+                },
+                {
+                    "winner": "Ye Yong KIM"
+                }
+            ],
+            [
+                {
+                    "country": "TPE",
+                    "name": "Shu Huei HSU WANG"
+                },
+                {
+                    "country": "MGL",
+                    "name": "Erdenet-Od BATBAYAR"
+                },
+                {
+                    "winner": "Shu Huei HSU WANG"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "PRK",
+                    "name": "Ye Yong KIM"
+                },
+                {
+                    "country": "TPE",
+                    "name": "Shu Huei HSU WANG"
+                }
+            ]
+        ],
+        "final_winner": "Ye Yong KIM"
+    }
+}

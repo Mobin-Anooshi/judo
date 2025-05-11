@@ -1,0 +1,245 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [],
+            [
+                {
+                    "country": "CHA",
+                    "name": "Hissein OUMAR"
+                },
+                {
+                    "winner": "Hissein OUMAR"
+                }
+            ]
+        ],
+        "round 1-1": [],
+        "final_winner": "Hissein OUMAR"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "BOT",
+                    "name": "Gavin MOGOPA"
+                },
+                {
+                    "country": "CMR",
+                    "name": "Seraphin EVRIC NDJODO ENONGO"
+                },
+                {
+                    "winner": "Gavin MOGOPA"
+                }
+            ],
+            [
+                {
+                    "country": "CMR",
+                    "name": "Etoga Dieudonne NAMA"
+                },
+                {
+                    "country": "SEN",
+                    "name": "Mame NDIAYE"
+                },
+                {
+                    "winner": "Etoga Dieudonne NAMA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "BOT",
+                    "name": "Gavin MOGOPA"
+                },
+                {
+                    "country": "CMR",
+                    "name": "Etoga Dieudonne NAMA"
+                }
+            ]
+        ],
+        "final_winner": "Gavin MOGOPA"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "RSA",
+                    "name": "Siyabulela MABULU"
+                },
+                {
+                    "country": "CMR",
+                    "name": "Jordan Loic DIHANG MBANG"
+                },
+                {
+                    "winner": "Siyabulela MABULU"
+                }
+            ],
+            [
+                {
+                    "country": "NIG",
+                    "name": "Ismael ALHASSANE"
+                },
+                {
+                    "country": "CMR",
+                    "name": "Ronald Beaudoin DEMANOU"
+                },
+                {
+                    "winner": "Ronald Beaudoin DEMANOU"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "RSA",
+                    "name": "Siyabulela MABULU"
+                },
+                {
+                    "country": "CMR",
+                    "name": "Ronald Beaudoin DEMANOU"
+                }
+            ]
+        ],
+        "final_winner": "Siyabulela MABULU"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "MOZ",
+                    "name": "Kevin LOFORTE"
+                },
+                {
+                    "country": "CHA",
+                    "name": "Hissein YOUSSOUF"
+                },
+                {
+                    "winner": "Kevin LOFORTE"
+                }
+            ],
+            [
+                {
+                    "country": "TOG",
+                    "name": "Adebayo Frederic OLYMPIO"
+                },
+                {
+                    "winner": "Adebayo Frederic OLYMPIO"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "MOZ",
+                    "name": "Kevin LOFORTE"
+                },
+                {
+                    "country": "TOG",
+                    "name": "Adebayo Frederic OLYMPIO"
+                }
+            ]
+        ],
+        "final_winner": "Kevin LOFORTE"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CMR",
+                    "name": "Etoga Dieudonne NAMA"
+                }
+            ],
+            [
+                {
+                    "country": "CMR",
+                    "name": "Ronald Beaudoin DEMANOU"
+                },
+                {
+                    "country": "TOG",
+                    "name": "Adebayo Frederic OLYMPIO"
+                },
+                {
+                    "winner": "Adebayo Frederic OLYMPIO"
+                }
+            ],
+            [
+                {
+                    "country": "CMR",
+                    "name": "Etoga Dieudonne NAMA"
+                },
+                {
+                    "country": "RSA",
+                    "name": "Siyabulela MABULU"
+                },
+                {
+                    "winner": "Etoga Dieudonne NAMA"
+                }
+            ],
+            [
+                {
+                    "country": "TOG",
+                    "name": "Adebayo Frederic OLYMPIO"
+                },
+                {
+                    "country": "CHA",
+                    "name": "Hissein OUMAR"
+                },
+                {
+                    "winner": "Adebayo Frederic OLYMPIO"
+                }
+            ],
+            [
+                {
+                    "country": "TOG",
+                    "name": "Adebayo Frederic OLYMPIO"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Adebayo Frederic OLYMPIO",
+            "Etoga Dieudonne NAMA"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CHA",
+                    "name": "Hissein OUMAR"
+                },
+                {
+                    "country": "BOT",
+                    "name": "Gavin MOGOPA"
+                },
+                {
+                    "winner": "Gavin MOGOPA"
+                }
+            ],
+            [
+                {
+                    "country": "RSA",
+                    "name": "Siyabulela MABULU"
+                },
+                {
+                    "country": "MOZ",
+                    "name": "Kevin LOFORTE"
+                },
+                {
+                    "winner": "Kevin LOFORTE"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "BOT",
+                    "name": "Gavin MOGOPA"
+                },
+                {
+                    "country": "MOZ",
+                    "name": "Kevin LOFORTE"
+                }
+            ]
+        ],
+        "final_winner": "Gavin MOGOPA"
+    }
+}

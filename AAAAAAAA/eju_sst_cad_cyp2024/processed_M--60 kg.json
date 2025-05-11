@@ -1,0 +1,135 @@
+{
+    "POOL A": {
+        "round 1-1": [],
+        "final_winner": "Christos STAVROU"
+    },
+    "POOL B": {
+        "round 1-1": [
+            [
+                {
+                    "country": "AND",
+                    "name": "Joanet GILABERT"
+                },
+                {
+                    "country": "CYP",
+                    "name": "Afxentis AFXENTIOU"
+                }
+            ]
+        ],
+        "final_winner": "Afxentis AFXENTIOU"
+    },
+    "POOL C": {
+        "round 1-1": [],
+        "final_winner": "Kjartan GRAY"
+    },
+    "POOL D": {
+        "round 1-1": [
+            [
+                {
+                    "country": "CYP",
+                    "name": "Nestoras HADJIYIANNIS"
+                },
+                {
+                    "country": "CYP",
+                    "name": "Nikolas MOUSIKOS"
+                }
+            ]
+        ],
+        "final_winner": "Nestoras HADJIYIANNIS"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "AND",
+                    "name": "Joanet GILABERT"
+                }
+            ],
+            [
+                {
+                    "country": "CYP",
+                    "name": "Nikolas MOUSIKOS"
+                }
+            ],
+            [
+                {
+                    "country": "AND",
+                    "name": "Joanet GILABERT"
+                },
+                {
+                    "country": "FRO",
+                    "name": "Kjartan GRAY"
+                },
+                {
+                    "winner": "Joanet GILABERT"
+                }
+            ],
+            [
+                {
+                    "country": "CYP",
+                    "name": "Nikolas MOUSIKOS"
+                },
+                {
+                    "country": "CYP",
+                    "name": "Afxentis AFXENTIOU"
+                },
+                {
+                    "winner": "Afxentis AFXENTIOU"
+                }
+            ],
+            [
+                {
+                    "country": "CYP",
+                    "name": "Afxentis AFXENTIOU"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Nikolas MOUSIKOS",
+            "Joanet GILABERT"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CYP",
+                    "name": "Christos STAVROU"
+                },
+                {
+                    "country": "CYP",
+                    "name": "Afxentis AFXENTIOU"
+                },
+                {
+                    "winner": "Christos STAVROU"
+                }
+            ],
+            [
+                {
+                    "country": "FRO",
+                    "name": "Kjartan GRAY"
+                },
+                {
+                    "country": "CYP",
+                    "name": "Nestoras HADJIYIANNIS"
+                },
+                {
+                    "winner": "Nestoras HADJIYIANNIS"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "CYP",
+                    "name": "Christos STAVROU"
+                },
+                {
+                    "country": "CYP",
+                    "name": "Nestoras HADJIYIANNIS"
+                }
+            ]
+        ],
+        "final_winner": "Christos STAVROU"
+    }
+}

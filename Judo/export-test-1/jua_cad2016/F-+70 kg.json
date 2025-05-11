@@ -1,0 +1,225 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "TPE",
+                    "name": "Tzu ching WANG"
+                },
+                {
+                    "winner": "Tzu ching WANG"
+                }
+            ],
+            [
+                {
+                    "country": "KAZ",
+                    "name": "Kamila BERLIKASH"
+                },
+                {
+                    "winner": "Kamila BERLIKASH"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "TPE",
+                    "name": "Tzu ching WANG"
+                },
+                {
+                    "country": "KAZ",
+                    "name": "Kamila BERLIKASH"
+                }
+            ]
+        ],
+        "final_winner": "Kamila BERLIKASH"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "KOR",
+                    "name": "Hayun KIM"
+                },
+                {
+                    "winner": "Hayun KIM"
+                }
+            ],
+            []
+        ],
+        "round 1-1": [],
+        "final_winner": "Hayun KIM"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "KGZ",
+                    "name": "Daiana MINALIEVA"
+                },
+                {
+                    "winner": "Daiana MINALIEVA"
+                }
+            ],
+            [
+                {
+                    "country": "UZB",
+                    "name": "Dilnoza KAMOLOVA"
+                },
+                {
+                    "winner": "Dilnoza KAMOLOVA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "KGZ",
+                    "name": "Daiana MINALIEVA"
+                },
+                {
+                    "country": "UZB",
+                    "name": "Dilnoza KAMOLOVA"
+                }
+            ]
+        ],
+        "final_winner": "Dilnoza KAMOLOVA"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "IND",
+                    "name": "Divya MANN"
+                },
+                {
+                    "winner": "Divya MANN"
+                }
+            ],
+            [
+                {
+                    "country": "JPN",
+                    "name": "Kana NAGATA"
+                },
+                {
+                    "winner": "Kana NAGATA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "IND",
+                    "name": "Divya MANN"
+                },
+                {
+                    "country": "JPN",
+                    "name": "Kana NAGATA"
+                }
+            ]
+        ],
+        "final_winner": "Kana NAGATA"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "TPE",
+                    "name": "Tzu ching WANG"
+                }
+            ],
+            [
+                {
+                    "country": "KGZ",
+                    "name": "Daiana MINALIEVA"
+                },
+                {
+                    "country": "IND",
+                    "name": "Divya MANN"
+                },
+                {
+                    "winner": "Daiana MINALIEVA"
+                }
+            ],
+            [
+                {
+                    "country": "TPE",
+                    "name": "Tzu ching WANG"
+                },
+                {
+                    "country": "UZB",
+                    "name": "Dilnoza KAMOLOVA"
+                },
+                {
+                    "winner": "Tzu ching WANG"
+                }
+            ],
+            [
+                {
+                    "country": "KGZ",
+                    "name": "Daiana MINALIEVA"
+                },
+                {
+                    "country": "KAZ",
+                    "name": "Kamila BERLIKASH"
+                },
+                {
+                    "winner": "Kamila BERLIKASH"
+                }
+            ],
+            [
+                {
+                    "country": "KAZ",
+                    "name": "Kamila BERLIKASH"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Daiana MINALIEVA",
+            "Tzu ching WANG"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "KAZ",
+                    "name": "Kamila BERLIKASH"
+                },
+                {
+                    "country": "KOR",
+                    "name": "Hayun KIM"
+                },
+                {
+                    "winner": "Hayun KIM"
+                }
+            ],
+            [
+                {
+                    "country": "UZB",
+                    "name": "Dilnoza KAMOLOVA"
+                },
+                {
+                    "country": "JPN",
+                    "name": "Kana NAGATA"
+                },
+                {
+                    "winner": "Kana NAGATA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "KOR",
+                    "name": "Hayun KIM"
+                },
+                {
+                    "country": "JPN",
+                    "name": "Kana NAGATA"
+                }
+            ]
+        ],
+        "final_winner": "Kana NAGATA"
+    }
+}

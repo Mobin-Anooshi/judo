@@ -1,0 +1,135 @@
+{
+    "POOL A": {
+        "round 1-1": [],
+        "final_winner": "Maftuna KHAMDAMOVA"
+    },
+    "POOL B": {
+        "round 1-1": [
+            [
+                {
+                    "country": "TKM",
+                    "name": "Ogulgerek NURMEDOVA"
+                },
+                {
+                    "country": "UZB",
+                    "name": "Nodira YULDASHEVA"
+                }
+            ]
+        ],
+        "final_winner": "Nodira YULDASHEVA"
+    },
+    "POOL C": {
+        "round 1-1": [],
+        "final_winner": "Mokhinsakhon KHUSANOVA"
+    },
+    "POOL D": {
+        "round 1-1": [
+            [
+                {
+                    "country": "KGZ",
+                    "name": "Daria TIMOFEEVA"
+                },
+                {
+                    "country": "UZB",
+                    "name": "Shokhista ANAROVA"
+                }
+            ]
+        ],
+        "final_winner": "Shokhista ANAROVA"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "TKM",
+                    "name": "Ogulgerek NURMEDOVA"
+                }
+            ],
+            [
+                {
+                    "country": "KGZ",
+                    "name": "Daria TIMOFEEVA"
+                }
+            ],
+            [
+                {
+                    "country": "TKM",
+                    "name": "Ogulgerek NURMEDOVA"
+                },
+                {
+                    "country": "UZB",
+                    "name": "Shokhista ANAROVA"
+                },
+                {
+                    "winner": "Ogulgerek NURMEDOVA"
+                }
+            ],
+            [
+                {
+                    "country": "KGZ",
+                    "name": "Daria TIMOFEEVA"
+                },
+                {
+                    "country": "UZB",
+                    "name": "Maftuna KHAMDAMOVA"
+                },
+                {
+                    "winner": "Maftuna KHAMDAMOVA"
+                }
+            ],
+            [
+                {
+                    "country": "UZB",
+                    "name": "Maftuna KHAMDAMOVA"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Daria TIMOFEEVA",
+            "Ogulgerek NURMEDOVA"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "UZB",
+                    "name": "Maftuna KHAMDAMOVA"
+                },
+                {
+                    "country": "UZB",
+                    "name": "Nodira YULDASHEVA"
+                },
+                {
+                    "winner": "Nodira YULDASHEVA"
+                }
+            ],
+            [
+                {
+                    "country": "UZB",
+                    "name": "Mokhinsakhon KHUSANOVA"
+                },
+                {
+                    "country": "UZB",
+                    "name": "Shokhista ANAROVA"
+                },
+                {
+                    "winner": "Mokhinsakhon KHUSANOVA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "UZB",
+                    "name": "Nodira YULDASHEVA"
+                },
+                {
+                    "country": "UZB",
+                    "name": "Mokhinsakhon KHUSANOVA"
+                }
+            ]
+        ],
+        "final_winner": "Nodira YULDASHEVA"
+    }
+}

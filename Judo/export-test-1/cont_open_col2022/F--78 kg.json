@@ -1,0 +1,146 @@
+{
+    "POOL A": {
+        "round 1-1": [],
+        "final_winner": "Vanessa CHALA"
+    },
+    "POOL B": {
+        "round 1-1": [
+            [
+                {
+                    "country": "COL",
+                    "name": "Esteysy DIAZ"
+                },
+                {
+                    "country": "CAN",
+                    "name": "Mina COULOMBE"
+                }
+            ]
+        ],
+        "final_winner": "Mina COULOMBE"
+    },
+    "POOL C": {
+        "round 1-1": [
+            [
+                {
+                    "country": "PER",
+                    "name": "Camila FIGUEROA"
+                },
+                {
+                    "country": "MEX",
+                    "name": "Jessica GOMEZ"
+                }
+            ]
+        ],
+        "final_winner": "Camila FIGUEROA"
+    },
+    "POOL D": {
+        "round 1-1": [
+            [
+                {
+                    "country": "CAN",
+                    "name": "Coralie GODBOUT"
+                },
+                {
+                    "country": "COL",
+                    "name": "Liseth DIAZ LAGAREJO"
+                }
+            ]
+        ],
+        "final_winner": "Coralie GODBOUT"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "COL",
+                    "name": "Esteysy DIAZ"
+                }
+            ],
+            [
+                {
+                    "country": "MEX",
+                    "name": "Jessica GOMEZ"
+                },
+                {
+                    "country": "COL",
+                    "name": "Liseth DIAZ LAGAREJO"
+                },
+                {
+                    "winner": "Jessica GOMEZ"
+                }
+            ],
+            [
+                {
+                    "country": "COL",
+                    "name": "Esteysy DIAZ"
+                },
+                {
+                    "country": "CAN",
+                    "name": "Coralie GODBOUT"
+                },
+                {
+                    "winner": "Coralie GODBOUT"
+                }
+            ],
+            [
+                {
+                    "country": "CAN",
+                    "name": "Mina COULOMBE"
+                }
+            ],
+            [
+                {
+                    "country": "CAN",
+                    "name": "Coralie GODBOUT"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Jessica GOMEZ",
+            "Coralie GODBOUT"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ECU",
+                    "name": "Vanessa CHALA"
+                },
+                {
+                    "country": "CAN",
+                    "name": "Mina COULOMBE"
+                },
+                {
+                    "winner": "Vanessa CHALA"
+                }
+            ],
+            [
+                {
+                    "country": "PER",
+                    "name": "Camila FIGUEROA"
+                },
+                {
+                    "country": "CAN",
+                    "name": "Coralie GODBOUT"
+                },
+                {
+                    "winner": "Camila FIGUEROA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "ECU",
+                    "name": "Vanessa CHALA"
+                },
+                {
+                    "country": "PER",
+                    "name": "Camila FIGUEROA"
+                }
+            ]
+        ],
+        "final_winner": "Vanessa CHALA"
+    }
+}

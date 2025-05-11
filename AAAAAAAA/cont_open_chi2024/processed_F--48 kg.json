@@ -1,0 +1,177 @@
+{
+    "POOL A": {
+        "round 1-1": [
+            [
+                {
+                    "country": "ARG",
+                    "name": "Keisy PERAFAN"
+                },
+                {
+                    "country": "COL",
+                    "name": "Manuela CRESPO"
+                }
+            ]
+        ],
+        "final_winner": "Keisy PERAFAN"
+    },
+    "POOL B": {
+        "round 1-1": [
+            [
+                {
+                    "country": "USA",
+                    "name": "Anat TSYRLIN"
+                },
+                {
+                    "country": "CHI",
+                    "name": "Martina DIAZ"
+                }
+            ]
+        ],
+        "final_winner": "Martina DIAZ"
+    },
+    "POOL C": {
+        "round 1-1": [
+            [
+                {
+                    "country": "PAR",
+                    "name": "Gabriela NARVAEZ"
+                },
+                {
+                    "country": "CHI",
+                    "name": "Ayinko TOLOZA"
+                }
+            ]
+        ],
+        "final_winner": "Gabriela NARVAEZ"
+    },
+    "POOL D": {
+        "round 1-1": [
+            [
+                {
+                    "country": "ECU",
+                    "name": "Erika JARA"
+                },
+                {
+                    "country": "CHI",
+                    "name": "Anahis PEREZ"
+                }
+            ]
+        ],
+        "final_winner": "Erika JARA"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "COL",
+                    "name": "Manuela CRESPO"
+                },
+                {
+                    "country": "USA",
+                    "name": "Anat TSYRLIN"
+                },
+                {
+                    "winner": "Manuela CRESPO"
+                }
+            ],
+            [
+                {
+                    "country": "CHI",
+                    "name": "Ayinko TOLOZA"
+                },
+                {
+                    "country": "CHI",
+                    "name": "Anahis PEREZ"
+                },
+                {
+                    "winner": "Ayinko TOLOZA"
+                }
+            ],
+            [
+                {
+                    "country": "COL",
+                    "name": "Manuela CRESPO"
+                },
+                {
+                    "country": "ECU",
+                    "name": "Erika JARA"
+                },
+                {
+                    "winner": "Erika JARA"
+                }
+            ],
+            [
+                {
+                    "country": "CHI",
+                    "name": "Ayinko TOLOZA"
+                },
+                {
+                    "country": "CHI",
+                    "name": "Martina DIAZ"
+                },
+                {
+                    "winner": "Ayinko TOLOZA"
+                }
+            ],
+            [
+                {
+                    "country": "ECU",
+                    "name": "Erika JARA"
+                }
+            ],
+            [
+                {
+                    "country": "CHI",
+                    "name": "Ayinko TOLOZA"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Erika JARA",
+            "Ayinko TOLOZA"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ARG",
+                    "name": "Keisy PERAFAN"
+                },
+                {
+                    "country": "CHI",
+                    "name": "Martina DIAZ"
+                },
+                {
+                    "winner": "Keisy PERAFAN"
+                }
+            ],
+            [
+                {
+                    "country": "PAR",
+                    "name": "Gabriela NARVAEZ"
+                },
+                {
+                    "country": "ECU",
+                    "name": "Erika JARA"
+                },
+                {
+                    "winner": "Gabriela NARVAEZ"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "ARG",
+                    "name": "Keisy PERAFAN"
+                },
+                {
+                    "country": "PAR",
+                    "name": "Gabriela NARVAEZ"
+                }
+            ]
+        ],
+        "final_winner": "Keisy PERAFAN"
+    }
+}

@@ -1,0 +1,68 @@
+{
+    "ROUND 1": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ITA",
+                    "name": "Matteo MAZZI"
+                },
+                {
+                    "country": "MAR",
+                    "name": "Soufiane ERRAGADI"
+                },
+                {
+                    "winner": "Matteo MAZZI"
+                }
+            ],
+            [
+                {
+                    "country": "MAR",
+                    "name": "Ayman ELHOUSSAINI"
+                },
+                {
+                    "country": "CYP",
+                    "name": "Panagiotis SHAKOS"
+                },
+                {
+                    "winner": "Panagiotis SHAKOS"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Matteo MAZZI",
+            "Panagiotis SHAKOS"
+        ]
+    },
+    "REPECHAGE": {
+        "round 1-1": [
+            [
+                {
+                    "country": "MAR",
+                    "name": "Soufiane ERRAGADI"
+                },
+                {
+                    "country": "MAR",
+                    "name": "Ayman ELHOUSSAINI"
+                },
+                {
+                    "winner": "Ayman ELHOUSSAINI"
+                }
+            ],
+            [
+                {
+                    "country": "MAR",
+                    "name": "Ayman ELHOUSSAINI"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Ayman ELHOUSSAINI"
+        ]
+    },
+    "FINALS": {
+        "round 1-1": [],
+        "final_winners": [
+            "Matteo MAZZI"
+        ]
+    }
+}

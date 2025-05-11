@@ -1,0 +1,244 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "POR",
+                    "name": "Raquel BRITO"
+                },
+                {
+                    "winner": "Raquel BRITO"
+                }
+            ],
+            []
+        ],
+        "round 1-1": [],
+        "final_winner": "Raquel BRITO"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "SWE",
+                    "name": "Tara BABULFATH"
+                },
+                {
+                    "winner": "Tara BABULFATH"
+                }
+            ],
+            [
+                {
+                    "country": "AUS",
+                    "name": "Ashlyn DO"
+                },
+                {
+                    "winner": "Ashlyn DO"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "SWE",
+                    "name": "Tara BABULFATH"
+                },
+                {
+                    "country": "AUS",
+                    "name": "Ashlyn DO"
+                }
+            ]
+        ],
+        "final_winner": "Tara BABULFATH"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ARG",
+                    "name": "Mikaela ROJAS"
+                },
+                {
+                    "winner": "Mikaela ROJAS"
+                }
+            ],
+            [
+                {
+                    "country": "BEL",
+                    "name": "Camille STERNON"
+                },
+                {
+                    "winner": "Camille STERNON"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "ARG",
+                    "name": "Mikaela ROJAS"
+                },
+                {
+                    "country": "BEL",
+                    "name": "Camille STERNON"
+                }
+            ]
+        ],
+        "final_winner": "Camille STERNON"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CZE",
+                    "name": "Tereza BODNAROVA"
+                },
+                {
+                    "winner": "Tereza BODNAROVA"
+                }
+            ],
+            [
+                {
+                    "country": "AUT",
+                    "name": "Lisa PEHERSTORFER"
+                },
+                {
+                    "winner": "Lisa PEHERSTORFER"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "CZE",
+                    "name": "Tereza BODNAROVA"
+                },
+                {
+                    "country": "AUT",
+                    "name": "Lisa PEHERSTORFER"
+                }
+            ]
+        ],
+        "final_winner": "Tereza BODNAROVA"
+    },
+    "REPECHAGE": {
+        "round 1-4": [
+            [],
+            [
+                {
+                    "country": "AUS",
+                    "name": "Ashlyn DO"
+                },
+                {
+                    "winner": "Ashlyn DO"
+                }
+            ],
+            [
+                {
+                    "country": "ARG",
+                    "name": "Mikaela ROJAS"
+                },
+                {
+                    "winner": "Mikaela ROJAS"
+                }
+            ],
+            [
+                {
+                    "country": "AUT",
+                    "name": "Lisa PEHERSTORFER"
+                },
+                {
+                    "winner": "Lisa PEHERSTORFER"
+                }
+            ]
+        ],
+        "round 1-2": [
+            [
+                {
+                    "country": "AUS",
+                    "name": "Ashlyn DO"
+                }
+            ],
+            [
+                {
+                    "country": "ARG",
+                    "name": "Mikaela ROJAS"
+                },
+                {
+                    "country": "AUT",
+                    "name": "Lisa PEHERSTORFER"
+                },
+                {
+                    "winner": "Mikaela ROJAS"
+                }
+            ],
+            [
+                {
+                    "country": "AUS",
+                    "name": "Ashlyn DO"
+                },
+                {
+                    "country": "CZE",
+                    "name": "Tereza BODNAROVA"
+                },
+                {
+                    "winner": "Tereza BODNAROVA"
+                }
+            ],
+            [
+                {
+                    "country": "ARG",
+                    "name": "Mikaela ROJAS"
+                }
+            ],
+            [
+                {
+                    "country": "CZE",
+                    "name": "Tereza BODNAROVA"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Mikaela ROJAS",
+            "Tereza BODNAROVA"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "SWE",
+                    "name": "Tara BABULFATH"
+                },
+                {
+                    "winner": "Tara BABULFATH"
+                }
+            ],
+            [
+                {
+                    "country": "BEL",
+                    "name": "Camille STERNON"
+                },
+                {
+                    "country": "CZE",
+                    "name": "Tereza BODNAROVA"
+                },
+                {
+                    "winner": "Camille STERNON"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "SWE",
+                    "name": "Tara BABULFATH"
+                },
+                {
+                    "country": "BEL",
+                    "name": "Camille STERNON"
+                }
+            ]
+        ],
+        "final_winner": "Tara BABULFATH"
+    }
+}

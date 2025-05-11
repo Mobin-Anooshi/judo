@@ -1,0 +1,289 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "IRL",
+                    "name": "Joshua GREEN"
+                },
+                {
+                    "country": "GRE",
+                    "name": "Aris ZARAGKAS"
+                },
+                {
+                    "winner": "Joshua GREEN"
+                }
+            ],
+            [
+                {
+                    "country": "LBN",
+                    "name": "Omar AL NOUAR"
+                },
+                {
+                    "country": "HKG",
+                    "name": "Pak Hin NG"
+                },
+                {
+                    "winner": "Omar AL NOUAR"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "IRL",
+                    "name": "Joshua GREEN"
+                },
+                {
+                    "country": "LBN",
+                    "name": "Omar AL NOUAR"
+                }
+            ]
+        ],
+        "final_winner": "Joshua GREEN"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "HKG",
+                    "name": "Hong Nin MAK"
+                },
+                {
+                    "country": "LBN",
+                    "name": "Kevin KAMMOUN"
+                },
+                {
+                    "winner": "Hong Nin MAK"
+                }
+            ],
+            [
+                {
+                    "country": "PLE",
+                    "name": "Talal ALTAHHAN"
+                },
+                {
+                    "country": "CYP",
+                    "name": "Christos SKOUROUMOUNIS"
+                },
+                {
+                    "winner": "Christos SKOUROUMOUNIS"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "HKG",
+                    "name": "Hong Nin MAK"
+                },
+                {
+                    "country": "CYP",
+                    "name": "Christos SKOUROUMOUNIS"
+                }
+            ]
+        ],
+        "final_winner": "Hong Nin MAK"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CYP",
+                    "name": "Kyprianos ANDREOU"
+                },
+                {
+                    "country": "LBN",
+                    "name": "Ali LAKKIS"
+                },
+                {
+                    "winner": "Kyprianos ANDREOU"
+                }
+            ],
+            [
+                {
+                    "country": "FRA",
+                    "name": "Romain MENGUY"
+                },
+                {
+                    "country": "LBN",
+                    "name": "Angelo GIETANY"
+                },
+                {
+                    "winner": "Romain MENGUY"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "CYP",
+                    "name": "Kyprianos ANDREOU"
+                },
+                {
+                    "country": "FRA",
+                    "name": "Romain MENGUY"
+                }
+            ]
+        ],
+        "final_winner": "Romain MENGUY"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "LBN",
+                    "name": "Ghady MOUSSA"
+                },
+                {
+                    "country": "CYP",
+                    "name": "Panagiotis SHAKOS"
+                },
+                {
+                    "winner": "Ghady MOUSSA"
+                }
+            ],
+            [
+                {
+                    "country": "HKG",
+                    "name": "Ching Pang CHOW"
+                },
+                {
+                    "country": "SYR",
+                    "name": "Hasan BAYAN"
+                },
+                {
+                    "winner": "Hasan BAYAN"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "LBN",
+                    "name": "Ghady MOUSSA"
+                },
+                {
+                    "country": "SYR",
+                    "name": "Hasan BAYAN"
+                }
+            ]
+        ],
+        "final_winner": "Hasan BAYAN"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "LBN",
+                    "name": "Omar AL NOUAR"
+                },
+                {
+                    "country": "CYP",
+                    "name": "Christos SKOUROUMOUNIS"
+                },
+                {
+                    "winner": "Christos SKOUROUMOUNIS"
+                }
+            ],
+            [
+                {
+                    "country": "CYP",
+                    "name": "Kyprianos ANDREOU"
+                },
+                {
+                    "country": "LBN",
+                    "name": "Ghady MOUSSA"
+                },
+                {
+                    "winner": "Kyprianos ANDREOU"
+                }
+            ],
+            [
+                {
+                    "country": "CYP",
+                    "name": "Christos SKOUROUMOUNIS"
+                },
+                {
+                    "country": "FRA",
+                    "name": "Romain MENGUY"
+                },
+                {
+                    "winner": "Romain MENGUY"
+                }
+            ],
+            [
+                {
+                    "country": "CYP",
+                    "name": "Kyprianos ANDREOU"
+                },
+                {
+                    "country": "HKG",
+                    "name": "Hong Nin MAK"
+                },
+                {
+                    "winner": "Kyprianos ANDREOU"
+                }
+            ],
+            [
+                {
+                    "country": "FRA",
+                    "name": "Romain MENGUY"
+                }
+            ],
+            [
+                {
+                    "country": "CYP",
+                    "name": "Kyprianos ANDREOU"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Romain MENGUY",
+            "Kyprianos ANDREOU"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "IRL",
+                    "name": "Joshua GREEN"
+                },
+                {
+                    "country": "HKG",
+                    "name": "Hong Nin MAK"
+                },
+                {
+                    "winner": "Joshua GREEN"
+                }
+            ],
+            [
+                {
+                    "country": "FRA",
+                    "name": "Romain MENGUY"
+                },
+                {
+                    "country": "SYR",
+                    "name": "Hasan BAYAN"
+                },
+                {
+                    "winner": "Hasan BAYAN"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "IRL",
+                    "name": "Joshua GREEN"
+                },
+                {
+                    "country": "SYR",
+                    "name": "Hasan BAYAN"
+                }
+            ]
+        ],
+        "final_winner": "Hasan BAYAN"
+    }
+}

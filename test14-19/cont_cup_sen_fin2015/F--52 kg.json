@@ -1,0 +1,238 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "FIN",
+                    "name": "Katri KAKKO"
+                },
+                {
+                    "winner": "Katri KAKKO"
+                }
+            ],
+            [
+                {
+                    "country": "NOR",
+                    "name": "Madelene RUBINSTEIN"
+                },
+                {
+                    "winner": "Madelene RUBINSTEIN"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "FIN",
+                    "name": "Katri KAKKO"
+                },
+                {
+                    "country": "NOR",
+                    "name": "Madelene RUBINSTEIN"
+                }
+            ],
+            [
+                {
+                    "country": "NOR",
+                    "name": "Madelene RUBINSTEIN"
+                }
+            ]
+        ]
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "GBR",
+                    "name": "Lanina SOLLEY"
+                },
+                {
+                    "winner": "Lanina SOLLEY"
+                }
+            ],
+            []
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "GBR",
+                    "name": "Lanina SOLLEY"
+                }
+            ]
+        ]
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ITA",
+                    "name": "Fabiola PIDRONI"
+                },
+                {
+                    "winner": "Fabiola PIDRONI"
+                }
+            ],
+            [
+                {
+                    "country": "GBR",
+                    "name": "Jessica GORDON BROWN"
+                },
+                {
+                    "winner": "Jessica GORDON BROWN"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "ITA",
+                    "name": "Fabiola PIDRONI"
+                },
+                {
+                    "country": "GBR",
+                    "name": "Jessica GORDON BROWN"
+                }
+            ],
+            [
+                {
+                    "country": "ITA",
+                    "name": "Fabiola PIDRONI"
+                }
+            ]
+        ]
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "GBR",
+                    "name": "Julia SCARDONE"
+                },
+                {
+                    "winner": "Julia SCARDONE"
+                }
+            ],
+            []
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "GBR",
+                    "name": "Julia SCARDONE"
+                }
+            ]
+        ]
+    },
+    "REPECHAGE": {
+        "round 1-4": [
+            [
+                {
+                    "country": "FIN",
+                    "name": "Katri KAKKO"
+                },
+                {
+                    "winner": "Katri KAKKO"
+                }
+            ],
+            [],
+            [
+                {
+                    "country": "GBR",
+                    "name": "Jessica GORDON BROWN"
+                },
+                {
+                    "winner": "Jessica GORDON BROWN"
+                }
+            ],
+            []
+        ],
+        "round 1-2": [
+            [
+                {
+                    "country": "FIN",
+                    "name": "Katri KAKKO"
+                }
+            ],
+            [
+                {
+                    "country": "GBR",
+                    "name": "Jessica GORDON BROWN"
+                }
+            ],
+            [
+                {
+                    "country": "FIN",
+                    "name": "Katri KAKKO"
+                },
+                {
+                    "country": "GBR",
+                    "name": "Julia SCARDONE"
+                }
+            ],
+            [
+                {
+                    "country": "GBR",
+                    "name": "Jessica GORDON BROWN"
+                },
+                {
+                    "country": "GBR",
+                    "name": "Lanina SOLLEY"
+                }
+            ],
+            [
+                {
+                    "country": "GBR",
+                    "name": "Lanina SOLLEY"
+                }
+            ]
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "NOR",
+                    "name": "Madelene RUBINSTEIN"
+                },
+                {
+                    "country": "GBR",
+                    "name": "Lanina SOLLEY"
+                },
+                {
+                    "winner": "Madelene RUBINSTEIN"
+                }
+            ],
+            [
+                {
+                    "country": "ITA",
+                    "name": "Fabiola PIDRONI"
+                },
+                {
+                    "country": "GBR",
+                    "name": "Julia SCARDONE"
+                },
+                {
+                    "winner": "Fabiola PIDRONI"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "NOR",
+                    "name": "Madelene RUBINSTEIN"
+                },
+                {
+                    "country": "ITA",
+                    "name": "Fabiola PIDRONI"
+                }
+            ],
+            [
+                {
+                    "country": "NOR",
+                    "name": "Madelene RUBINSTEIN"
+                }
+            ]
+        ]
+    }
+}

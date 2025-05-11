@@ -1,0 +1,177 @@
+{
+    "POOL A": {
+        "round 1-1": [
+            [
+                {
+                    "country": "DOM",
+                    "name": "Ana ROSA"
+                },
+                {
+                    "country": "CAN",
+                    "name": "Cheyenne FIANDOR"
+                }
+            ]
+        ],
+        "final_winner": "Ana ROSA"
+    },
+    "POOL B": {
+        "round 1-1": [
+            [
+                {
+                    "country": "BAH",
+                    "name": "Cynthia RAHMING"
+                },
+                {
+                    "country": "DOM",
+                    "name": "Marialy MARTE"
+                }
+            ]
+        ],
+        "final_winner": "Cynthia RAHMING"
+    },
+    "POOL C": {
+        "round 1-1": [
+            [
+                {
+                    "country": "USA",
+                    "name": "Mariah HOLGUIN"
+                },
+                {
+                    "country": "DOM",
+                    "name": "Beronica CUELLO"
+                }
+            ]
+        ],
+        "final_winner": "Mariah HOLGUIN"
+    },
+    "POOL D": {
+        "round 1-1": [
+            [
+                {
+                    "country": "COL",
+                    "name": "Keyla VASQUEZ"
+                },
+                {
+                    "country": "DOM",
+                    "name": "Clara BARINAS BENITEZ"
+                }
+            ]
+        ],
+        "final_winner": "Keyla VASQUEZ"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CAN",
+                    "name": "Cheyenne FIANDOR"
+                },
+                {
+                    "country": "DOM",
+                    "name": "Marialy MARTE"
+                },
+                {
+                    "winner": "Cheyenne FIANDOR"
+                }
+            ],
+            [
+                {
+                    "country": "DOM",
+                    "name": "Beronica CUELLO"
+                },
+                {
+                    "country": "DOM",
+                    "name": "Clara BARINAS BENITEZ"
+                },
+                {
+                    "winner": "Clara BARINAS BENITEZ"
+                }
+            ],
+            [
+                {
+                    "country": "CAN",
+                    "name": "Cheyenne FIANDOR"
+                },
+                {
+                    "country": "COL",
+                    "name": "Keyla VASQUEZ"
+                },
+                {
+                    "winner": "Keyla VASQUEZ"
+                }
+            ],
+            [
+                {
+                    "country": "DOM",
+                    "name": "Clara BARINAS BENITEZ"
+                },
+                {
+                    "country": "BAH",
+                    "name": "Cynthia RAHMING"
+                },
+                {
+                    "winner": "Cynthia RAHMING"
+                }
+            ],
+            [
+                {
+                    "country": "COL",
+                    "name": "Keyla VASQUEZ"
+                }
+            ],
+            [
+                {
+                    "country": "BAH",
+                    "name": "Cynthia RAHMING"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Keyla VASQUEZ",
+            "Cynthia RAHMING"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "DOM",
+                    "name": "Ana ROSA"
+                },
+                {
+                    "country": "BAH",
+                    "name": "Cynthia RAHMING"
+                },
+                {
+                    "winner": "Ana ROSA"
+                }
+            ],
+            [
+                {
+                    "country": "USA",
+                    "name": "Mariah HOLGUIN"
+                },
+                {
+                    "country": "COL",
+                    "name": "Keyla VASQUEZ"
+                },
+                {
+                    "winner": "Mariah HOLGUIN"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "DOM",
+                    "name": "Ana ROSA"
+                },
+                {
+                    "country": "USA",
+                    "name": "Mariah HOLGUIN"
+                }
+            ]
+        ],
+        "final_winner": "Ana ROSA"
+    }
+}

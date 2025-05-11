@@ -1,0 +1,152 @@
+{
+    "POOL A": {
+        "round 1-1": [
+            [
+                {
+                    "country": "ARG",
+                    "name": "Alem YUMA"
+                }
+            ]
+        ]
+    },
+    "POOL B": {
+        "round 1-1": [
+            [
+                {
+                    "country": "CHI",
+                    "name": "Luciano JIMENEZ"
+                },
+                {
+                    "country": "ECU",
+                    "name": "Anner ORTIZ"
+                }
+            ],
+            [
+                {
+                    "country": "ECU",
+                    "name": "Anner ORTIZ"
+                }
+            ]
+        ]
+    },
+    "POOL C": {
+        "round 1-1": [
+            [
+                {
+                    "country": "USA",
+                    "name": "Daniel SHULGIN"
+                }
+            ]
+        ]
+    },
+    "POOL D": {
+        "round 1-1": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Gilberto NETO"
+                },
+                {
+                    "country": "COL",
+                    "name": "Jhon CAICEDO SINISTERRA"
+                }
+            ],
+            [
+                {
+                    "country": "COL",
+                    "name": "Jhon CAICEDO SINISTERRA"
+                }
+            ]
+        ]
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CHI",
+                    "name": "Luciano JIMENEZ"
+                }
+            ],
+            [
+                {
+                    "country": "BRA",
+                    "name": "Gilberto NETO"
+                }
+            ],
+            [
+                {
+                    "country": "CHI",
+                    "name": "Luciano JIMENEZ"
+                },
+                {
+                    "country": "COL",
+                    "name": "Jhon CAICEDO SINISTERRA"
+                }
+            ],
+            [
+                {
+                    "country": "BRA",
+                    "name": "Gilberto NETO"
+                },
+                {
+                    "country": "ECU",
+                    "name": "Anner ORTIZ"
+                }
+            ],
+            [
+                {
+                    "country": "COL",
+                    "name": "Jhon CAICEDO SINISTERRA"
+                }
+            ]
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ARG",
+                    "name": "Alem YUMA"
+                },
+                {
+                    "country": "ECU",
+                    "name": "Anner ORTIZ"
+                },
+                {
+                    "winner": "Alem YUMA"
+                }
+            ],
+            [
+                {
+                    "country": "USA",
+                    "name": "Daniel SHULGIN"
+                },
+                {
+                    "country": "COL",
+                    "name": "Jhon CAICEDO SINISTERRA"
+                },
+                {
+                    "winner": "Daniel SHULGIN"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "ARG",
+                    "name": "Alem YUMA"
+                },
+                {
+                    "country": "USA",
+                    "name": "Daniel SHULGIN"
+                }
+            ],
+            [
+                {
+                    "country": "USA",
+                    "name": "Daniel SHULGIN"
+                }
+            ]
+        ]
+    }
+}

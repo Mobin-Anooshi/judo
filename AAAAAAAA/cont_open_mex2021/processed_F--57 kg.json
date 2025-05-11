@@ -1,0 +1,141 @@
+{
+    "POOL A": {
+        "round 1-1": [],
+        "final_winner": "Ketelyn NASCIMENTO"
+    },
+    "POOL B": {
+        "round 1-1": [
+            [
+                {
+                    "country": "BAH",
+                    "name": "Cynthia RAHMING"
+                },
+                {
+                    "country": "MEX",
+                    "name": "Paulina GARNICA"
+                }
+            ]
+        ],
+        "final_winner": "Paulina GARNICA"
+    },
+    "POOL C": {
+        "round 1-1": [],
+        "final_winner": "Jessica PEREIRA"
+    },
+    "POOL D": {
+        "round 1-1": [
+            [
+                {
+                    "country": "USA",
+                    "name": "Mariah HOLGUIN"
+                },
+                {
+                    "country": "PAN",
+                    "name": "Anna TIRADO"
+                }
+            ]
+        ],
+        "final_winner": "Mariah HOLGUIN"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "BAH",
+                    "name": "Cynthia RAHMING"
+                }
+            ],
+            [
+                {
+                    "country": "PAN",
+                    "name": "Anna TIRADO"
+                }
+            ],
+            [
+                {
+                    "country": "BAH",
+                    "name": "Cynthia RAHMING"
+                },
+                {
+                    "country": "USA",
+                    "name": "Mariah HOLGUIN"
+                },
+                {
+                    "winner": "Mariah HOLGUIN"
+                }
+            ],
+            [
+                {
+                    "country": "PAN",
+                    "name": "Anna TIRADO"
+                },
+                {
+                    "country": "MEX",
+                    "name": "Paulina GARNICA"
+                },
+                {
+                    "winner": "Paulina GARNICA"
+                }
+            ],
+            [
+                {
+                    "country": "USA",
+                    "name": "Mariah HOLGUIN"
+                }
+            ],
+            [
+                {
+                    "country": "MEX",
+                    "name": "Paulina GARNICA"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Mariah HOLGUIN",
+            "Paulina GARNICA"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Ketelyn NASCIMENTO"
+                },
+                {
+                    "country": "MEX",
+                    "name": "Paulina GARNICA"
+                },
+                {
+                    "winner": "Ketelyn NASCIMENTO"
+                }
+            ],
+            [
+                {
+                    "country": "BRA",
+                    "name": "Jessica PEREIRA"
+                },
+                {
+                    "country": "USA",
+                    "name": "Mariah HOLGUIN"
+                },
+                {
+                    "winner": "Jessica PEREIRA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Ketelyn NASCIMENTO"
+                },
+                {
+                    "country": "BRA",
+                    "name": "Jessica PEREIRA"
+                }
+            ]
+        ],
+        "final_winner": "Ketelyn NASCIMENTO"
+    }
+}

@@ -1,0 +1,261 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CRO",
+                    "name": "Katarina Lucija VUKOVIC"
+                },
+                {
+                    "winner": "Katarina Lucija VUKOVIC"
+                }
+            ],
+            []
+        ],
+        "round 1-1": [],
+        "final_winner": "Katarina Lucija VUKOVIC"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "HUN",
+                    "name": "Hanna PERLAKI"
+                },
+                {
+                    "winner": "Hanna PERLAKI"
+                }
+            ],
+            [
+                {
+                    "country": "POL",
+                    "name": "Wiktoria LIS"
+                },
+                {
+                    "winner": "Wiktoria LIS"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "HUN",
+                    "name": "Hanna PERLAKI"
+                },
+                {
+                    "country": "POL",
+                    "name": "Wiktoria LIS"
+                }
+            ]
+        ],
+        "final_winner": "Wiktoria LIS"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CRO",
+                    "name": "Ivana SUTALO"
+                },
+                {
+                    "winner": "Ivana SUTALO"
+                }
+            ],
+            [
+                {
+                    "country": "BIH",
+                    "name": "Larisa CERIC"
+                },
+                {
+                    "winner": "Larisa CERIC"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "CRO",
+                    "name": "Ivana SUTALO"
+                },
+                {
+                    "country": "BIH",
+                    "name": "Larisa CERIC"
+                }
+            ]
+        ],
+        "final_winner": "Larisa CERIC"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "SLO",
+                    "name": "Urska TORKAR"
+                },
+                {
+                    "winner": "Urska TORKAR"
+                }
+            ],
+            [
+                {
+                    "country": "EGY",
+                    "name": "Farah SHARAF"
+                },
+                {
+                    "winner": "Farah SHARAF"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "SLO",
+                    "name": "Urska TORKAR"
+                },
+                {
+                    "country": "EGY",
+                    "name": "Farah SHARAF"
+                }
+            ]
+        ],
+        "final_winner": "Farah SHARAF"
+    },
+    "REPECHAGE": {
+        "round 1-4": [
+            [],
+            [
+                {
+                    "country": "HUN",
+                    "name": "Hanna PERLAKI"
+                },
+                {
+                    "winner": "Hanna PERLAKI"
+                }
+            ],
+            [
+                {
+                    "country": "CRO",
+                    "name": "Ivana SUTALO"
+                },
+                {
+                    "winner": "Ivana SUTALO"
+                }
+            ],
+            [
+                {
+                    "country": "SLO",
+                    "name": "Urska TORKAR"
+                },
+                {
+                    "winner": "Urska TORKAR"
+                }
+            ]
+        ],
+        "round 1-2": [
+            [
+                {
+                    "country": "HUN",
+                    "name": "Hanna PERLAKI"
+                }
+            ],
+            [
+                {
+                    "country": "CRO",
+                    "name": "Ivana SUTALO"
+                },
+                {
+                    "country": "SLO",
+                    "name": "Urska TORKAR"
+                },
+                {
+                    "winner": "Ivana SUTALO"
+                }
+            ],
+            [
+                {
+                    "country": "HUN",
+                    "name": "Hanna PERLAKI"
+                },
+                {
+                    "country": "EGY",
+                    "name": "Farah SHARAF"
+                },
+                {
+                    "winner": "Farah SHARAF"
+                }
+            ],
+            [
+                {
+                    "country": "CRO",
+                    "name": "Ivana SUTALO"
+                },
+                {
+                    "country": "CRO",
+                    "name": "Katarina Lucija VUKOVIC"
+                },
+                {
+                    "winner": "Katarina Lucija VUKOVIC"
+                }
+            ],
+            [
+                {
+                    "country": "EGY",
+                    "name": "Farah SHARAF"
+                }
+            ],
+            [
+                {
+                    "country": "CRO",
+                    "name": "Katarina Lucija VUKOVIC"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Farah SHARAF",
+            "Katarina Lucija VUKOVIC"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CRO",
+                    "name": "Katarina Lucija VUKOVIC"
+                },
+                {
+                    "country": "POL",
+                    "name": "Wiktoria LIS"
+                },
+                {
+                    "winner": "Wiktoria LIS"
+                }
+            ],
+            [
+                {
+                    "country": "BIH",
+                    "name": "Larisa CERIC"
+                },
+                {
+                    "country": "EGY",
+                    "name": "Farah SHARAF"
+                },
+                {
+                    "winner": "Larisa CERIC"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "POL",
+                    "name": "Wiktoria LIS"
+                },
+                {
+                    "country": "BIH",
+                    "name": "Larisa CERIC"
+                }
+            ]
+        ],
+        "final_winner": "Larisa CERIC"
+    }
+}

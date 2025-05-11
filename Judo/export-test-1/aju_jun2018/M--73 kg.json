@@ -1,0 +1,295 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ALG",
+                    "name": "Abdelkader MABROUK"
+                },
+                {
+                    "winner": "Abdelkader MABROUK"
+                }
+            ],
+            [
+                {
+                    "country": "RSA",
+                    "name": "Devan STEMMET"
+                },
+                {
+                    "winner": "Devan STEMMET"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "ALG",
+                    "name": "Abdelkader MABROUK"
+                },
+                {
+                    "country": "RSA",
+                    "name": "Devan STEMMET"
+                }
+            ]
+        ],
+        "final_winner": "Abdelkader MABROUK"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "COD",
+                    "name": "Merdi LUYINDULA"
+                },
+                {
+                    "winner": "Merdi LUYINDULA"
+                }
+            ],
+            [
+                {
+                    "country": "BDI",
+                    "name": "Jean Claude HAKIZIMANA"
+                },
+                {
+                    "winner": "Jean Claude HAKIZIMANA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "COD",
+                    "name": "Merdi LUYINDULA"
+                },
+                {
+                    "country": "BDI",
+                    "name": "Jean Claude HAKIZIMANA"
+                }
+            ]
+        ],
+        "final_winner": "Jean Claude HAKIZIMANA"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "GAB",
+                    "name": "Aime MIKANDZE"
+                },
+                {
+                    "winner": "Aime MIKANDZE"
+                }
+            ],
+            [
+                {
+                    "country": "TUN",
+                    "name": "Aziz HARBI"
+                },
+                {
+                    "winner": "Aziz HARBI"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "GAB",
+                    "name": "Aime MIKANDZE"
+                },
+                {
+                    "country": "TUN",
+                    "name": "Aziz HARBI"
+                }
+            ]
+        ],
+        "final_winner": "Aziz HARBI"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "EGY",
+                    "name": "Abdelrahman ABDELGHANY"
+                },
+                {
+                    "winner": "Abdelrahman ABDELGHANY"
+                }
+            ],
+            [
+                {
+                    "country": "RSA",
+                    "name": "Bernhard VENTER"
+                },
+                {
+                    "winner": "Bernhard VENTER"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "EGY",
+                    "name": "Abdelrahman ABDELGHANY"
+                },
+                {
+                    "country": "RSA",
+                    "name": "Bernhard VENTER"
+                }
+            ]
+        ],
+        "final_winner": "Abdelrahman ABDELGHANY"
+    },
+    "REPECHAGE": {
+        "round 1-4": [
+            [
+                {
+                    "country": "RSA",
+                    "name": "Devan STEMMET"
+                },
+                {
+                    "winner": "Devan STEMMET"
+                }
+            ],
+            [
+                {
+                    "country": "COD",
+                    "name": "Merdi LUYINDULA"
+                },
+                {
+                    "winner": "Merdi LUYINDULA"
+                }
+            ],
+            [
+                {
+                    "country": "GAB",
+                    "name": "Aime MIKANDZE"
+                },
+                {
+                    "winner": "Aime MIKANDZE"
+                }
+            ],
+            [
+                {
+                    "country": "RSA",
+                    "name": "Bernhard VENTER"
+                },
+                {
+                    "winner": "Bernhard VENTER"
+                }
+            ]
+        ],
+        "round 1-2": [
+            [
+                {
+                    "country": "RSA",
+                    "name": "Devan STEMMET"
+                },
+                {
+                    "country": "COD",
+                    "name": "Merdi LUYINDULA"
+                },
+                {
+                    "winner": "Devan STEMMET"
+                }
+            ],
+            [
+                {
+                    "country": "GAB",
+                    "name": "Aime MIKANDZE"
+                },
+                {
+                    "country": "RSA",
+                    "name": "Bernhard VENTER"
+                },
+                {
+                    "winner": "Bernhard VENTER"
+                }
+            ],
+            [
+                {
+                    "country": "RSA",
+                    "name": "Devan STEMMET"
+                },
+                {
+                    "country": "TUN",
+                    "name": "Aziz HARBI"
+                },
+                {
+                    "winner": "Devan STEMMET"
+                }
+            ],
+            [
+                {
+                    "country": "RSA",
+                    "name": "Bernhard VENTER"
+                },
+                {
+                    "country": "BDI",
+                    "name": "Jean Claude HAKIZIMANA"
+                },
+                {
+                    "winner": "Bernhard VENTER"
+                }
+            ],
+            [
+                {
+                    "country": "RSA",
+                    "name": "Devan STEMMET"
+                }
+            ],
+            [
+                {
+                    "country": "RSA",
+                    "name": "Bernhard VENTER"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Devan STEMMET",
+            "Bernhard VENTER"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ALG",
+                    "name": "Abdelkader MABROUK"
+                },
+                {
+                    "country": "BDI",
+                    "name": "Jean Claude HAKIZIMANA"
+                },
+                {
+                    "winner": "Abdelkader MABROUK"
+                }
+            ],
+            [
+                {
+                    "country": "TUN",
+                    "name": "Aziz HARBI"
+                },
+                {
+                    "country": "EGY",
+                    "name": "Abdelrahman ABDELGHANY"
+                },
+                {
+                    "winner": "Abdelrahman ABDELGHANY"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "ALG",
+                    "name": "Abdelkader MABROUK"
+                },
+                {
+                    "country": "EGY",
+                    "name": "Abdelrahman ABDELGHANY"
+                }
+            ]
+        ],
+        "final_winner": "Abdelkader MABROUK"
+    }
+}

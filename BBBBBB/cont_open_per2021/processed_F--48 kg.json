@@ -1,0 +1,129 @@
+{
+    "POOL A": {
+        "round 1-1": [],
+        "final_winner": "Luz ALVAREZ"
+    },
+    "POOL B": {
+        "round 1-1": [
+            [
+                {
+                    "country": "PER",
+                    "name": "Brillith GAMARRA"
+                },
+                {
+                    "country": "MEX",
+                    "name": "Fabiola ORTIZ"
+                }
+            ]
+        ],
+        "final_winner": "Brillith GAMARRA"
+    },
+    "POOL C": {
+        "round 1-1": [],
+        "final_winner": "Erika LASSO"
+    },
+    "POOL D": {
+        "round 1-1": [
+            [
+                {
+                    "country": "PAN",
+                    "name": "Nemesis CANDELO"
+                },
+                {
+                    "country": "MEX",
+                    "name": "Kassandra ESPINOZA"
+                }
+            ]
+        ],
+        "final_winner": "Nemesis CANDELO"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "MEX",
+                    "name": "Fabiola ORTIZ"
+                }
+            ],
+            [
+                {
+                    "country": "MEX",
+                    "name": "Kassandra ESPINOZA"
+                }
+            ],
+            [
+                {
+                    "country": "MEX",
+                    "name": "Fabiola ORTIZ"
+                },
+                {
+                    "country": "PAN",
+                    "name": "Nemesis CANDELO"
+                },
+                {
+                    "winner": "Fabiola ORTIZ"
+                }
+            ],
+            [
+                {
+                    "country": "MEX",
+                    "name": "Kassandra ESPINOZA"
+                },
+                {
+                    "country": "COL",
+                    "name": "Luz ALVAREZ"
+                },
+                {
+                    "winner": "Kassandra ESPINOZA"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Fabiola ORTIZ",
+            "Kassandra ESPINOZA"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "COL",
+                    "name": "Luz ALVAREZ"
+                },
+                {
+                    "country": "PER",
+                    "name": "Brillith GAMARRA"
+                },
+                {
+                    "winner": "Brillith GAMARRA"
+                }
+            ],
+            [
+                {
+                    "country": "COL",
+                    "name": "Erika LASSO"
+                },
+                {
+                    "country": "PAN",
+                    "name": "Nemesis CANDELO"
+                },
+                {
+                    "winner": "Erika LASSO"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "PER",
+                    "name": "Brillith GAMARRA"
+                },
+                {
+                    "country": "COL",
+                    "name": "Erika LASSO"
+                }
+            ]
+        ],
+        "final_winner": "Brillith GAMARRA"
+    }
+}

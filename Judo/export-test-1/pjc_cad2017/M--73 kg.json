@@ -1,0 +1,269 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "DOM",
+                    "name": "Marcos MARTE"
+                },
+                {
+                    "winner": "Marcos MARTE"
+                }
+            ],
+            [
+                {
+                    "country": "VEN",
+                    "name": "Carlos PAEZ"
+                },
+                {
+                    "country": "CHI",
+                    "name": "Sebastian DIAZ"
+                },
+                {
+                    "winner": "Carlos PAEZ"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "DOM",
+                    "name": "Marcos MARTE"
+                },
+                {
+                    "country": "VEN",
+                    "name": "Carlos PAEZ"
+                }
+            ]
+        ],
+        "final_winner": "Carlos PAEZ"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "USA",
+                    "name": "Jackson BUTLER"
+                },
+                {
+                    "winner": "Jackson BUTLER"
+                }
+            ],
+            [
+                {
+                    "country": "CAN",
+                    "name": "Sava ANTIC"
+                },
+                {
+                    "winner": "Sava ANTIC"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "USA",
+                    "name": "Jackson BUTLER"
+                },
+                {
+                    "country": "CAN",
+                    "name": "Sava ANTIC"
+                }
+            ]
+        ],
+        "final_winner": "Sava ANTIC"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "USA",
+                    "name": "Liam WRIGHT"
+                },
+                {
+                    "winner": "Liam WRIGHT"
+                }
+            ],
+            [
+                {
+                    "country": "MEX",
+                    "name": "Daniel GONZALEZ"
+                },
+                {
+                    "country": "PER",
+                    "name": "FITGERALD FERRADAS"
+                },
+                {
+                    "winner": "Daniel GONZALEZ"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "USA",
+                    "name": "Liam WRIGHT"
+                },
+                {
+                    "country": "MEX",
+                    "name": "Daniel GONZALEZ"
+                }
+            ]
+        ],
+        "final_winner": "Liam WRIGHT"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Guilherme SCHIMIDT"
+                },
+                {
+                    "winner": "Guilherme SCHIMIDT"
+                }
+            ],
+            [
+                {
+                    "country": "COL",
+                    "name": "Juan ALVAREZ"
+                },
+                {
+                    "country": "ARG",
+                    "name": "Milton TORRES"
+                },
+                {
+                    "winner": "Juan ALVAREZ"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Guilherme SCHIMIDT"
+                },
+                {
+                    "country": "COL",
+                    "name": "Juan ALVAREZ"
+                }
+            ]
+        ],
+        "final_winner": "Guilherme SCHIMIDT"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "DOM",
+                    "name": "Marcos MARTE"
+                },
+                {
+                    "country": "USA",
+                    "name": "Jackson BUTLER"
+                },
+                {
+                    "winner": "Jackson BUTLER"
+                }
+            ],
+            [
+                {
+                    "country": "MEX",
+                    "name": "Daniel GONZALEZ"
+                },
+                {
+                    "country": "COL",
+                    "name": "Juan ALVAREZ"
+                },
+                {
+                    "winner": "Juan ALVAREZ"
+                }
+            ],
+            [
+                {
+                    "country": "USA",
+                    "name": "Jackson BUTLER"
+                },
+                {
+                    "country": "BRA",
+                    "name": "Guilherme SCHIMIDT"
+                },
+                {
+                    "winner": "Guilherme SCHIMIDT"
+                }
+            ],
+            [
+                {
+                    "country": "COL",
+                    "name": "Juan ALVAREZ"
+                },
+                {
+                    "country": "VEN",
+                    "name": "Carlos PAEZ"
+                },
+                {
+                    "winner": "Juan ALVAREZ"
+                }
+            ],
+            [
+                {
+                    "country": "BRA",
+                    "name": "Guilherme SCHIMIDT"
+                }
+            ],
+            [
+                {
+                    "country": "COL",
+                    "name": "Juan ALVAREZ"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Guilherme SCHIMIDT",
+            "Juan ALVAREZ"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "VEN",
+                    "name": "Carlos PAEZ"
+                },
+                {
+                    "country": "CAN",
+                    "name": "Sava ANTIC"
+                },
+                {
+                    "winner": "Sava ANTIC"
+                }
+            ],
+            [
+                {
+                    "country": "USA",
+                    "name": "Liam WRIGHT"
+                },
+                {
+                    "country": "BRA",
+                    "name": "Guilherme SCHIMIDT"
+                },
+                {
+                    "winner": "Liam WRIGHT"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "CAN",
+                    "name": "Sava ANTIC"
+                },
+                {
+                    "country": "USA",
+                    "name": "Liam WRIGHT"
+                }
+            ]
+        ],
+        "final_winner": "Sava ANTIC"
+    }
+}

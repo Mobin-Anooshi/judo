@@ -1,0 +1,285 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "MGL",
+                    "name": "Dagvasuren NYAMSUREN"
+                },
+                {
+                    "winner": "Dagvasuren NYAMSUREN"
+                }
+            ],
+            [
+                {
+                    "country": "POL",
+                    "name": "Damian STEPIEN"
+                },
+                {
+                    "country": "UZB",
+                    "name": "Sukhrob TURSUNOV"
+                },
+                {
+                    "winner": "Sukhrob TURSUNOV"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "MGL",
+                    "name": "Dagvasuren NYAMSUREN"
+                },
+                {
+                    "country": "UZB",
+                    "name": "Sukhrob TURSUNOV"
+                }
+            ]
+        ],
+        "final_winner": "Dagvasuren NYAMSUREN"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "UZB",
+                    "name": "Kamoliddin RASULOV"
+                },
+                {
+                    "country": "RUS",
+                    "name": "Magomed EDILBIEV"
+                },
+                {
+                    "winner": "Kamoliddin RASULOV"
+                }
+            ],
+            [
+                {
+                    "country": "KAZ",
+                    "name": "Bekzhan ABDUALIYEV"
+                },
+                {
+                    "country": "TJK",
+                    "name": "Karomatullo KHAKIMOV"
+                },
+                {
+                    "winner": "Bekzhan ABDUALIYEV"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "UZB",
+                    "name": "Kamoliddin RASULOV"
+                },
+                {
+                    "country": "KAZ",
+                    "name": "Bekzhan ABDUALIYEV"
+                }
+            ]
+        ],
+        "final_winner": "Kamoliddin RASULOV"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "POL",
+                    "name": "Jakub KUBIENIEC"
+                },
+                {
+                    "country": "UZB",
+                    "name": "Alisher HUDAYBERDIEV"
+                },
+                {
+                    "winner": "Jakub KUBIENIEC"
+                }
+            ],
+            [
+                {
+                    "country": "AZE",
+                    "name": "Fagan GULUZADA"
+                },
+                {
+                    "country": "AFG",
+                    "name": "Waheed YOSUFZAI"
+                },
+                {
+                    "winner": "Fagan GULUZADA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "POL",
+                    "name": "Jakub KUBIENIEC"
+                },
+                {
+                    "country": "AZE",
+                    "name": "Fagan GULUZADA"
+                }
+            ]
+        ],
+        "final_winner": "Fagan GULUZADA"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "TJK",
+                    "name": "Akmal MURODOV"
+                },
+                {
+                    "country": "UZB",
+                    "name": "Sharofiddin BOLTABOEV"
+                },
+                {
+                    "winner": "Sharofiddin BOLTABOEV"
+                }
+            ],
+            [
+                {
+                    "country": "ISR",
+                    "name": "Sagi MUKI"
+                },
+                {
+                    "country": "RUS",
+                    "name": "Gagik ZAKARIAN"
+                },
+                {
+                    "winner": "Sagi MUKI"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "UZB",
+                    "name": "Sharofiddin BOLTABOEV"
+                },
+                {
+                    "country": "ISR",
+                    "name": "Sagi MUKI"
+                }
+            ]
+        ],
+        "final_winner": "Sagi MUKI"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "UZB",
+                    "name": "Sukhrob TURSUNOV"
+                },
+                {
+                    "country": "KAZ",
+                    "name": "Bekzhan ABDUALIYEV"
+                },
+                {
+                    "winner": "Bekzhan ABDUALIYEV"
+                }
+            ],
+            [
+                {
+                    "country": "POL",
+                    "name": "Jakub KUBIENIEC"
+                },
+                {
+                    "country": "UZB",
+                    "name": "Sharofiddin BOLTABOEV"
+                },
+                {
+                    "winner": "Sharofiddin BOLTABOEV"
+                }
+            ],
+            [
+                {
+                    "country": "KAZ",
+                    "name": "Bekzhan ABDUALIYEV"
+                },
+                {
+                    "country": "AZE",
+                    "name": "Fagan GULUZADA"
+                },
+                {
+                    "winner": "Fagan GULUZADA"
+                }
+            ],
+            [
+                {
+                    "country": "UZB",
+                    "name": "Sharofiddin BOLTABOEV"
+                },
+                {
+                    "country": "UZB",
+                    "name": "Kamoliddin RASULOV"
+                },
+                {
+                    "winner": "Sharofiddin BOLTABOEV"
+                }
+            ],
+            [
+                {
+                    "country": "AZE",
+                    "name": "Fagan GULUZADA"
+                }
+            ],
+            [
+                {
+                    "country": "UZB",
+                    "name": "Sharofiddin BOLTABOEV"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Fagan GULUZADA",
+            "Sharofiddin BOLTABOEV"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "MGL",
+                    "name": "Dagvasuren NYAMSUREN"
+                },
+                {
+                    "country": "UZB",
+                    "name": "Kamoliddin RASULOV"
+                },
+                {
+                    "winner": "Dagvasuren NYAMSUREN"
+                }
+            ],
+            [
+                {
+                    "country": "AZE",
+                    "name": "Fagan GULUZADA"
+                },
+                {
+                    "country": "ISR",
+                    "name": "Sagi MUKI"
+                },
+                {
+                    "winner": "Sagi MUKI"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "MGL",
+                    "name": "Dagvasuren NYAMSUREN"
+                },
+                {
+                    "country": "ISR",
+                    "name": "Sagi MUKI"
+                }
+            ]
+        ],
+        "final_winner": "Sagi MUKI"
+    }
+}

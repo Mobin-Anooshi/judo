@@ -1,0 +1,213 @@
+{
+    "POOL A": {
+        "round 1-1": [],
+        "final_winner": "Jacob MORE"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "PUR",
+                    "name": "Jorge DIAZ"
+                },
+                {
+                    "winner": "Jorge DIAZ"
+                }
+            ],
+            [
+                {
+                    "country": "USA",
+                    "name": "Mason CLARKE"
+                },
+                {
+                    "winner": "Mason CLARKE"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "PUR",
+                    "name": "Jorge DIAZ"
+                },
+                {
+                    "country": "USA",
+                    "name": "Mason CLARKE"
+                }
+            ]
+        ],
+        "final_winner": "Mason CLARKE"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "USA",
+                    "name": "Max ANTONIOU"
+                },
+                {
+                    "winner": "Max ANTONIOU"
+                }
+            ],
+            [
+                {
+                    "country": "USA",
+                    "name": "Gabe WRUBEL"
+                },
+                {
+                    "winner": "Gabe WRUBEL"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "USA",
+                    "name": "Max ANTONIOU"
+                },
+                {
+                    "country": "USA",
+                    "name": "Gabe WRUBEL"
+                }
+            ]
+        ],
+        "final_winner": "Max ANTONIOU"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "GBR",
+                    "name": "Max BROWN"
+                },
+                {
+                    "winner": "Max BROWN"
+                }
+            ],
+            [
+                {
+                    "country": "USA",
+                    "name": "Parker ROLOFF"
+                },
+                {
+                    "winner": "Parker ROLOFF"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "GBR",
+                    "name": "Max BROWN"
+                },
+                {
+                    "country": "USA",
+                    "name": "Parker ROLOFF"
+                }
+            ]
+        ],
+        "final_winner": "Parker ROLOFF"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "PUR",
+                    "name": "Jorge DIAZ"
+                }
+            ],
+            [
+                {
+                    "country": "USA",
+                    "name": "Gabe WRUBEL"
+                },
+                {
+                    "country": "GBR",
+                    "name": "Max BROWN"
+                },
+                {
+                    "winner": "Max BROWN"
+                }
+            ],
+            [
+                {
+                    "country": "PUR",
+                    "name": "Jorge DIAZ"
+                },
+                {
+                    "country": "USA",
+                    "name": "Parker ROLOFF"
+                },
+                {
+                    "winner": "Jorge DIAZ"
+                }
+            ],
+            [
+                {
+                    "country": "GBR",
+                    "name": "Max BROWN"
+                },
+                {
+                    "country": "USA",
+                    "name": "Mason CLARKE"
+                },
+                {
+                    "winner": "Mason CLARKE"
+                }
+            ],
+            [
+                {
+                    "country": "USA",
+                    "name": "Mason CLARKE"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Max BROWN",
+            "Jorge DIAZ"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "USA",
+                    "name": "Jacob MORE"
+                },
+                {
+                    "country": "USA",
+                    "name": "Mason CLARKE"
+                },
+                {
+                    "winner": "Jacob MORE"
+                }
+            ],
+            [
+                {
+                    "country": "USA",
+                    "name": "Max ANTONIOU"
+                },
+                {
+                    "country": "USA",
+                    "name": "Parker ROLOFF"
+                },
+                {
+                    "winner": "Max ANTONIOU"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "USA",
+                    "name": "Jacob MORE"
+                },
+                {
+                    "country": "USA",
+                    "name": "Max ANTONIOU"
+                }
+            ]
+        ],
+        "final_winner": "Jacob MORE"
+    }
+}

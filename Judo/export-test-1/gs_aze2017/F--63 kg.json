@@ -1,0 +1,159 @@
+{
+    "POOL A": {
+        "round 1-1": [],
+        "final_winner": "Alice SCHLESINGER"
+    },
+    "POOL B": {
+        "round 1-1": [
+            [
+                {
+                    "country": "AZE",
+                    "name": "Khanim HUSEYNOVA"
+                },
+                {
+                    "country": "AZE",
+                    "name": "Nuriyya AKHUNDOVA"
+                }
+            ]
+        ],
+        "final_winner": "Khanim HUSEYNOVA"
+    },
+    "POOL C": {
+        "round 1-1": [
+            [
+                {
+                    "country": "TUR",
+                    "name": "Busra KATIPOGLU"
+                },
+                {
+                    "country": "AZE",
+                    "name": "Nargiz HAJIYEVA"
+                }
+            ]
+        ],
+        "final_winner": "Busra KATIPOGLU"
+    },
+    "POOL D": {
+        "round 1-1": [
+            [
+                {
+                    "country": "SLO",
+                    "name": "Andreja LESKI"
+                },
+                {
+                    "country": "AZE",
+                    "name": "Gulsadaf KARIMOVA"
+                }
+            ]
+        ],
+        "final_winner": "Andreja LESKI"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "AZE",
+                    "name": "Nuriyya AKHUNDOVA"
+                }
+            ],
+            [
+                {
+                    "country": "AZE",
+                    "name": "Nargiz HAJIYEVA"
+                },
+                {
+                    "country": "AZE",
+                    "name": "Gulsadaf KARIMOVA"
+                },
+                {
+                    "winner": "Gulsadaf KARIMOVA"
+                }
+            ],
+            [
+                {
+                    "country": "AZE",
+                    "name": "Nuriyya AKHUNDOVA"
+                },
+                {
+                    "country": "TUR",
+                    "name": "Busra KATIPOGLU"
+                },
+                {
+                    "winner": "Busra KATIPOGLU"
+                }
+            ],
+            [
+                {
+                    "country": "AZE",
+                    "name": "Gulsadaf KARIMOVA"
+                },
+                {
+                    "country": "AZE",
+                    "name": "Khanim HUSEYNOVA"
+                },
+                {
+                    "winner": "Khanim HUSEYNOVA"
+                }
+            ],
+            [
+                {
+                    "country": "TUR",
+                    "name": "Busra KATIPOGLU"
+                }
+            ],
+            [
+                {
+                    "country": "AZE",
+                    "name": "Khanim HUSEYNOVA"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Busra KATIPOGLU",
+            "Khanim HUSEYNOVA"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "GBR",
+                    "name": "Alice SCHLESINGER"
+                },
+                {
+                    "country": "AZE",
+                    "name": "Khanim HUSEYNOVA"
+                },
+                {
+                    "winner": "Alice SCHLESINGER"
+                }
+            ],
+            [
+                {
+                    "country": "TUR",
+                    "name": "Busra KATIPOGLU"
+                },
+                {
+                    "country": "SLO",
+                    "name": "Andreja LESKI"
+                },
+                {
+                    "winner": "Andreja LESKI"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "GBR",
+                    "name": "Alice SCHLESINGER"
+                },
+                {
+                    "country": "SLO",
+                    "name": "Andreja LESKI"
+                }
+            ]
+        ],
+        "final_winner": "Alice SCHLESINGER"
+    }
+}

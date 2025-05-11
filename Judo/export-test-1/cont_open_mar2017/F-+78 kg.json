@@ -1,0 +1,141 @@
+{
+    "POOL A": {
+        "round 1-1": [],
+        "final_winner": "Monica SAGNA"
+    },
+    "POOL B": {
+        "round 1-1": [
+            [
+                {
+                    "country": "MAR",
+                    "name": "Ikram BENSALEM"
+                },
+                {
+                    "country": "MAR",
+                    "name": "Khadija BENGHANEM"
+                }
+            ]
+        ],
+        "final_winner": "Ikram BENSALEM"
+    },
+    "POOL C": {
+        "round 1-1": [],
+        "final_winner": "Anne Fatoumata M BAIRO"
+    },
+    "POOL D": {
+        "round 1-1": [
+            [
+                {
+                    "country": "CRO",
+                    "name": "Ivana SUTALO"
+                },
+                {
+                    "country": "MAR",
+                    "name": "Yousra AOURZ"
+                }
+            ]
+        ],
+        "final_winner": "Ivana SUTALO"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "MAR",
+                    "name": "Khadija BENGHANEM"
+                }
+            ],
+            [
+                {
+                    "country": "MAR",
+                    "name": "Yousra AOURZ"
+                }
+            ],
+            [
+                {
+                    "country": "MAR",
+                    "name": "Khadija BENGHANEM"
+                },
+                {
+                    "country": "CRO",
+                    "name": "Ivana SUTALO"
+                },
+                {
+                    "winner": "Ivana SUTALO"
+                }
+            ],
+            [
+                {
+                    "country": "MAR",
+                    "name": "Yousra AOURZ"
+                },
+                {
+                    "country": "MAR",
+                    "name": "Ikram BENSALEM"
+                },
+                {
+                    "winner": "Ikram BENSALEM"
+                }
+            ],
+            [
+                {
+                    "country": "CRO",
+                    "name": "Ivana SUTALO"
+                }
+            ],
+            [
+                {
+                    "country": "MAR",
+                    "name": "Ikram BENSALEM"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Ivana SUTALO",
+            "Ikram BENSALEM"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "SEN",
+                    "name": "Monica SAGNA"
+                },
+                {
+                    "country": "MAR",
+                    "name": "Ikram BENSALEM"
+                },
+                {
+                    "winner": "Monica SAGNA"
+                }
+            ],
+            [
+                {
+                    "country": "FRA",
+                    "name": "Anne Fatoumata M BAIRO"
+                },
+                {
+                    "country": "CRO",
+                    "name": "Ivana SUTALO"
+                },
+                {
+                    "winner": "Anne Fatoumata M BAIRO"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "SEN",
+                    "name": "Monica SAGNA"
+                },
+                {
+                    "country": "FRA",
+                    "name": "Anne Fatoumata M BAIRO"
+                }
+            ]
+        ],
+        "final_winner": "Monica SAGNA"
+    }
+}

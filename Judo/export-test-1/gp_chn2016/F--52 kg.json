@@ -1,0 +1,235 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "TPE",
+                    "name": "Chin-Ying CHEN"
+                },
+                {
+                    "winner": "Chin-Ying CHEN"
+                }
+            ],
+            [
+                {
+                    "country": "CHN",
+                    "name": "Wei CHEN"
+                },
+                {
+                    "winner": "Wei CHEN"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "TPE",
+                    "name": "Chin-Ying CHEN"
+                },
+                {
+                    "country": "CHN",
+                    "name": "Wei CHEN"
+                }
+            ]
+        ],
+        "final_winner": "Wei CHEN"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "RUS",
+                    "name": "Galiya SAGITOVA"
+                },
+                {
+                    "winner": "Galiya SAGITOVA"
+                }
+            ],
+            [
+                {
+                    "country": "CHN",
+                    "name": "Xiaowei GU"
+                },
+                {
+                    "winner": "Xiaowei GU"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "RUS",
+                    "name": "Galiya SAGITOVA"
+                },
+                {
+                    "country": "CHN",
+                    "name": "Xiaowei GU"
+                }
+            ]
+        ],
+        "final_winner": "Galiya SAGITOVA"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [],
+            [
+                {
+                    "country": "CHN",
+                    "name": "Feng XU"
+                },
+                {
+                    "country": "RUS",
+                    "name": "Natalia PAVLOVA"
+                },
+                {
+                    "winner": "Natalia PAVLOVA"
+                }
+            ]
+        ],
+        "round 1-1": [],
+        "final_winner": "Natalia PAVLOVA"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CHN",
+                    "name": "Chen CHEN"
+                },
+                {
+                    "winner": "Chen CHEN"
+                }
+            ],
+            [
+                {
+                    "country": "HKG",
+                    "name": "Annie LAU"
+                },
+                {
+                    "winner": "Annie LAU"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "CHN",
+                    "name": "Chen CHEN"
+                },
+                {
+                    "country": "HKG",
+                    "name": "Annie LAU"
+                }
+            ]
+        ],
+        "final_winner": "Chen CHEN"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "TPE",
+                    "name": "Chin-Ying CHEN"
+                },
+                {
+                    "country": "CHN",
+                    "name": "Xiaowei GU"
+                },
+                {
+                    "winner": "Chin-Ying CHEN"
+                }
+            ],
+            [
+                {
+                    "country": "HKG",
+                    "name": "Annie LAU"
+                }
+            ],
+            [
+                {
+                    "country": "TPE",
+                    "name": "Chin-Ying CHEN"
+                },
+                {
+                    "country": "RUS",
+                    "name": "Natalia PAVLOVA"
+                },
+                {
+                    "winner": "Chin-Ying CHEN"
+                }
+            ],
+            [
+                {
+                    "country": "HKG",
+                    "name": "Annie LAU"
+                },
+                {
+                    "country": "CHN",
+                    "name": "Wei CHEN"
+                },
+                {
+                    "winner": "Wei CHEN"
+                }
+            ],
+            [
+                {
+                    "country": "TPE",
+                    "name": "Chin-Ying CHEN"
+                }
+            ],
+            [
+                {
+                    "country": "CHN",
+                    "name": "Wei CHEN"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Chin-Ying CHEN",
+            "Wei CHEN"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CHN",
+                    "name": "Wei CHEN"
+                },
+                {
+                    "country": "RUS",
+                    "name": "Galiya SAGITOVA"
+                },
+                {
+                    "winner": "Galiya SAGITOVA"
+                }
+            ],
+            [
+                {
+                    "country": "RUS",
+                    "name": "Natalia PAVLOVA"
+                },
+                {
+                    "country": "CHN",
+                    "name": "Chen CHEN"
+                },
+                {
+                    "winner": "Chen CHEN"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "RUS",
+                    "name": "Galiya SAGITOVA"
+                },
+                {
+                    "country": "CHN",
+                    "name": "Chen CHEN"
+                }
+            ]
+        ],
+        "final_winner": "Chen CHEN"
+    }
+}

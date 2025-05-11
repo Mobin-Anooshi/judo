@@ -1,0 +1,232 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "MGL",
+                    "name": "Otgonbaatar LKHAGVASUREN"
+                },
+                {
+                    "winner": "Otgonbaatar LKHAGVASUREN"
+                }
+            ],
+            [
+                {
+                    "country": "MGL",
+                    "name": "Tengis BATSAIKHAN"
+                },
+                {
+                    "country": "RUS",
+                    "name": "Evgenii IVANOV"
+                },
+                {
+                    "winner": "Evgenii IVANOV"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "MGL",
+                    "name": "Otgonbaatar LKHAGVASUREN"
+                },
+                {
+                    "country": "RUS",
+                    "name": "Evgenii IVANOV"
+                }
+            ]
+        ],
+        "final_winner": "Otgonbaatar LKHAGVASUREN"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CHN",
+                    "name": "Rigede BU"
+                },
+                {
+                    "winner": "Rigede BU"
+                }
+            ],
+            [
+                {
+                    "country": "AZE",
+                    "name": "Firudin DADASHOV"
+                },
+                {
+                    "winner": "Firudin DADASHOV"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "CHN",
+                    "name": "Rigede BU"
+                },
+                {
+                    "country": "AZE",
+                    "name": "Firudin DADASHOV"
+                }
+            ]
+        ],
+        "final_winner": "Rigede BU"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [],
+            [
+                {
+                    "country": "AZE",
+                    "name": "Vasif SHARBATLI"
+                },
+                {
+                    "country": "MGL",
+                    "name": "Tsetsentsengel ODKHUU"
+                }
+            ]
+        ]
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "MGL",
+                    "name": "Altanbagana GANTULGA"
+                },
+                {
+                    "winner": "Altanbagana GANTULGA"
+                }
+            ],
+            [
+                {
+                    "country": "CZE",
+                    "name": "David KLAMMERT"
+                },
+                {
+                    "country": "CHN",
+                    "name": "ERIHEMUBATU"
+                },
+                {
+                    "winner": "ERIHEMUBATU"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "MGL",
+                    "name": "Altanbagana GANTULGA"
+                },
+                {
+                    "country": "CHN",
+                    "name": "ERIHEMUBATU"
+                }
+            ]
+        ],
+        "final_winner": "Altanbagana GANTULGA"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "RUS",
+                    "name": "Evgenii IVANOV"
+                },
+                {
+                    "country": "AZE",
+                    "name": "Firudin DADASHOV"
+                },
+                {
+                    "winner": "Firudin DADASHOV"
+                }
+            ],
+            [
+                {
+                    "country": "CHN",
+                    "name": "ERIHEMUBATU"
+                }
+            ],
+            [
+                {
+                    "country": "AZE",
+                    "name": "Firudin DADASHOV"
+                },
+                {
+                    "country": "MGL",
+                    "name": "Tsetsentsengel ODKHUU"
+                },
+                {
+                    "winner": "Firudin DADASHOV"
+                }
+            ],
+            [
+                {
+                    "country": "CHN",
+                    "name": "ERIHEMUBATU"
+                },
+                {
+                    "country": "CHN",
+                    "name": "Rigede BU"
+                },
+                {
+                    "winner": "ERIHEMUBATU"
+                }
+            ],
+            [
+                {
+                    "country": "AZE",
+                    "name": "Firudin DADASHOV"
+                }
+            ]
+        ],
+        "final_winners": [
+            "ERIHEMUBATU",
+            "Firudin DADASHOV"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "MGL",
+                    "name": "Otgonbaatar LKHAGVASUREN"
+                },
+                {
+                    "country": "CHN",
+                    "name": "Rigede BU"
+                },
+                {
+                    "winner": "Otgonbaatar LKHAGVASUREN"
+                }
+            ],
+            [
+                {
+                    "country": "MGL",
+                    "name": "Tsetsentsengel ODKHUU"
+                },
+                {
+                    "country": "MGL",
+                    "name": "Altanbagana GANTULGA"
+                },
+                {
+                    "winner": "Altanbagana GANTULGA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "MGL",
+                    "name": "Otgonbaatar LKHAGVASUREN"
+                },
+                {
+                    "country": "MGL",
+                    "name": "Altanbagana GANTULGA"
+                }
+            ]
+        ],
+        "final_winner": "Otgonbaatar LKHAGVASUREN"
+    }
+}

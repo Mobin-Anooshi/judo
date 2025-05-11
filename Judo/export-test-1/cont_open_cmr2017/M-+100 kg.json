@@ -1,0 +1,153 @@
+{
+    "POOL A": {
+        "round 1-1": [
+            [
+                {
+                    "country": "ARG",
+                    "name": "Hector CAMPOS"
+                },
+                {
+                    "country": "CMR",
+                    "name": "François Marie TIENTCHEU KEUMAHA"
+                }
+            ]
+        ],
+        "final_winner": "Hector CAMPOS"
+    },
+    "POOL B": {
+        "round 1-1": [],
+        "final_winner": "Achille Durand SAFONGANG NITCHEO"
+    },
+    "POOL C": {
+        "round 1-1": [
+            [
+                {
+                    "country": "SEN",
+                    "name": "Mbagnick NDIAYE"
+                },
+                {
+                    "country": "CMR",
+                    "name": "Daniel MEPOUI ANONG"
+                }
+            ]
+        ],
+        "final_winner": "Mbagnick NDIAYE"
+    },
+    "POOL D": {
+        "round 1-1": [
+            [
+                {
+                    "country": "CMR",
+                    "name": "Gerard VANLIER NDAM"
+                },
+                {
+                    "country": "RSA",
+                    "name": "Jay NIEMANN"
+                }
+            ]
+        ],
+        "final_winner": "Gerard VANLIER NDAM"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CMR",
+                    "name": "François Marie TIENTCHEU KEUMAHA"
+                }
+            ],
+            [
+                {
+                    "country": "CMR",
+                    "name": "Daniel MEPOUI ANONG"
+                },
+                {
+                    "country": "RSA",
+                    "name": "Jay NIEMANN"
+                },
+                {
+                    "winner": "Daniel MEPOUI ANONG"
+                }
+            ],
+            [
+                {
+                    "country": "CMR",
+                    "name": "François Marie TIENTCHEU KEUMAHA"
+                },
+                {
+                    "country": "CMR",
+                    "name": "Gerard VANLIER NDAM"
+                },
+                {
+                    "winner": "François Marie TIENTCHEU KEUMAHA"
+                }
+            ],
+            [
+                {
+                    "country": "CMR",
+                    "name": "Daniel MEPOUI ANONG"
+                },
+                {
+                    "country": "CMR",
+                    "name": "Achille Durand SAFONGANG NITCHEO"
+                },
+                {
+                    "winner": "Daniel MEPOUI ANONG"
+                }
+            ],
+            [
+                {
+                    "country": "CMR",
+                    "name": "Daniel MEPOUI ANONG"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Daniel MEPOUI ANONG",
+            "François Marie TIENTCHEU KEUMAHA"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ARG",
+                    "name": "Hector CAMPOS"
+                },
+                {
+                    "country": "CMR",
+                    "name": "Achille Durand SAFONGANG NITCHEO"
+                },
+                {
+                    "winner": "Hector CAMPOS"
+                }
+            ],
+            [
+                {
+                    "country": "SEN",
+                    "name": "Mbagnick NDIAYE"
+                },
+                {
+                    "country": "CMR",
+                    "name": "Gerard VANLIER NDAM"
+                },
+                {
+                    "winner": "Mbagnick NDIAYE"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "ARG",
+                    "name": "Hector CAMPOS"
+                },
+                {
+                    "country": "SEN",
+                    "name": "Mbagnick NDIAYE"
+                }
+            ]
+        ],
+        "final_winner": "Mbagnick NDIAYE"
+    }
+}

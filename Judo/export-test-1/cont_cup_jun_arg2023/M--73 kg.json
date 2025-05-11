@@ -1,0 +1,98 @@
+{
+    "POOL A": {
+        "round 1-3": [
+            [
+                {
+                    "country": "CHI",
+                    "name": "Tomas HERNANDEZ"
+                },
+                {
+                    "country": "ARG",
+                    "name": "Esteban BARRIONUEVO"
+                }
+            ],
+            [
+                {
+                    "country": "CHI",
+                    "name": "Tomas HERNANDEZ"
+                },
+                {
+                    "country": "URU",
+                    "name": "Mathias Nahuel OTEN"
+                }
+            ],
+            [
+                {
+                    "country": "ARG",
+                    "name": "Esteban BARRIONUEVO"
+                },
+                {
+                    "country": "URU",
+                    "name": "Mathias Nahuel OTEN"
+                }
+            ],
+            [
+                {
+                    "country": "CHI",
+                    "name": "Tomas HERNANDEZ"
+                }
+            ],
+            [
+                {
+                    "country": "ARG",
+                    "name": "Esteban BARRIONUEVO"
+                }
+            ]
+        ]
+    },
+    "POOL B": {
+        "round 1-1": [
+            [
+                {
+                    "country": "USA",
+                    "name": "Jack YONEZUKA"
+                },
+                {
+                    "country": "ECU",
+                    "name": "Jose GONZALEZ"
+                }
+            ]
+        ],
+        "final_winner": "Jack YONEZUKA"
+    },
+    "REPECHAGE": {
+        "round 1-1": [
+            [
+                {
+                    "country": "ARG",
+                    "name": "Esteban BARRIONUEVO"
+                },
+                {
+                    "country": "ECU",
+                    "name": "Jose GONZALEZ"
+                }
+            ],
+            [
+                {
+                    "country": "ECU",
+                    "name": "Jose GONZALEZ"
+                }
+            ]
+        ]
+    },
+    "FINALS": {
+        "round 1-1": [
+            [
+                {
+                    "country": "CHI",
+                    "name": "Tomas HERNANDEZ"
+                },
+                {
+                    "country": "USA",
+                    "name": "Jack YONEZUKA"
+                }
+            ]
+        ],
+        "final_winner": "Jack YONEZUKA"
+    }
+}

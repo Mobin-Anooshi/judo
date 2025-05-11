@@ -1,0 +1,177 @@
+{
+    "POOL A": {
+        "round 1-1": [
+            [
+                {
+                    "country": "CMR",
+                    "name": "Helene WEZEU DOMBEU"
+                },
+                {
+                    "country": "DOM",
+                    "name": "Ariela SANCHEZ"
+                }
+            ]
+        ],
+        "final_winner": "Helene WEZEU DOMBEU"
+    },
+    "POOL B": {
+        "round 1-1": [
+            [
+                {
+                    "country": "CAN",
+                    "name": "Hanako KUNO"
+                },
+                {
+                    "country": "COL",
+                    "name": "Cindy MERA"
+                }
+            ]
+        ],
+        "final_winner": "Hanako KUNO"
+    },
+    "POOL C": {
+        "round 1-1": [
+            [
+                {
+                    "country": "USA",
+                    "name": "Alisha GALLES"
+                },
+                {
+                    "country": "PUR",
+                    "name": "Nahiara FELICIANO WILLIAMS"
+                }
+            ]
+        ],
+        "final_winner": "Alisha GALLES"
+    },
+    "POOL D": {
+        "round 1-1": [
+            [
+                {
+                    "country": "USA",
+                    "name": "Lauren DE SMIDT"
+                },
+                {
+                    "country": "DOM",
+                    "name": "Katherine OTANO PINA"
+                }
+            ]
+        ],
+        "final_winner": "Katherine OTANO PINA"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "DOM",
+                    "name": "Ariela SANCHEZ"
+                },
+                {
+                    "country": "COL",
+                    "name": "Cindy MERA"
+                },
+                {
+                    "winner": "Ariela SANCHEZ"
+                }
+            ],
+            [
+                {
+                    "country": "PUR",
+                    "name": "Nahiara FELICIANO WILLIAMS"
+                },
+                {
+                    "country": "USA",
+                    "name": "Lauren DE SMIDT"
+                },
+                {
+                    "winner": "Lauren DE SMIDT"
+                }
+            ],
+            [
+                {
+                    "country": "DOM",
+                    "name": "Ariela SANCHEZ"
+                },
+                {
+                    "country": "DOM",
+                    "name": "Katherine OTANO PINA"
+                },
+                {
+                    "winner": "Ariela SANCHEZ"
+                }
+            ],
+            [
+                {
+                    "country": "USA",
+                    "name": "Lauren DE SMIDT"
+                },
+                {
+                    "country": "CAN",
+                    "name": "Hanako KUNO"
+                },
+                {
+                    "winner": "Hanako KUNO"
+                }
+            ],
+            [
+                {
+                    "country": "DOM",
+                    "name": "Ariela SANCHEZ"
+                }
+            ],
+            [
+                {
+                    "country": "CAN",
+                    "name": "Hanako KUNO"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Ariela SANCHEZ",
+            "Hanako KUNO"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CMR",
+                    "name": "Helene WEZEU DOMBEU"
+                },
+                {
+                    "country": "CAN",
+                    "name": "Hanako KUNO"
+                },
+                {
+                    "winner": "Helene WEZEU DOMBEU"
+                }
+            ],
+            [
+                {
+                    "country": "USA",
+                    "name": "Alisha GALLES"
+                },
+                {
+                    "country": "DOM",
+                    "name": "Katherine OTANO PINA"
+                },
+                {
+                    "winner": "Alisha GALLES"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "CMR",
+                    "name": "Helene WEZEU DOMBEU"
+                },
+                {
+                    "country": "USA",
+                    "name": "Alisha GALLES"
+                }
+            ]
+        ],
+        "final_winner": "Alisha GALLES"
+    }
+}

@@ -1,0 +1,274 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "COL",
+                    "name": "Luz ALVAREZ"
+                },
+                {
+                    "winner": "Luz ALVAREZ"
+                }
+            ],
+            [
+                {
+                    "country": "DOM",
+                    "name": "Coral VELASQUEZ"
+                },
+                {
+                    "winner": "Coral VELASQUEZ"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "COL",
+                    "name": "Luz ALVAREZ"
+                },
+                {
+                    "country": "DOM",
+                    "name": "Coral VELASQUEZ"
+                }
+            ],
+            [
+                {
+                    "country": "COL",
+                    "name": "Luz ALVAREZ"
+                }
+            ]
+        ]
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "GUA",
+                    "name": "Jacqueline SOLIS"
+                },
+                {
+                    "winner": "Jacqueline SOLIS"
+                }
+            ],
+            [
+                {
+                    "country": "DOM",
+                    "name": "Teresa Ines GONZALEZ JIMENEZ"
+                },
+                {
+                    "winner": "Teresa Ines GONZALEZ JIMENEZ"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "GUA",
+                    "name": "Jacqueline SOLIS"
+                },
+                {
+                    "country": "DOM",
+                    "name": "Teresa Ines GONZALEZ JIMENEZ"
+                }
+            ],
+            [
+                {
+                    "country": "GUA",
+                    "name": "Jacqueline SOLIS"
+                }
+            ]
+        ]
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "MRI",
+                    "name": "Priscilla MORAND"
+                },
+                {
+                    "winner": "Priscilla MORAND"
+                }
+            ],
+            [
+                {
+                    "country": "CAN",
+                    "name": "Virginia NEMETH"
+                },
+                {
+                    "country": "DOM",
+                    "name": "Liliana GUERRERO"
+                },
+                {
+                    "winner": "Virginia NEMETH"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "MRI",
+                    "name": "Priscilla MORAND"
+                },
+                {
+                    "country": "CAN",
+                    "name": "Virginia NEMETH"
+                }
+            ],
+            [
+                {
+                    "country": "MRI",
+                    "name": "Priscilla MORAND"
+                }
+            ]
+        ]
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "DOM",
+                    "name": "Estefania SORIANO"
+                },
+                {
+                    "winner": "Estefania SORIANO"
+                }
+            ],
+            [
+                {
+                    "country": "USA",
+                    "name": "Jenna SCHURR"
+                },
+                {
+                    "country": "DOM",
+                    "name": "Adriana DE LEON"
+                },
+                {
+                    "winner": "Jenna SCHURR"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "DOM",
+                    "name": "Estefania SORIANO"
+                },
+                {
+                    "country": "USA",
+                    "name": "Jenna SCHURR"
+                }
+            ],
+            [
+                {
+                    "country": "DOM",
+                    "name": "Estefania SORIANO"
+                }
+            ]
+        ]
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "DOM",
+                    "name": "Coral VELASQUEZ"
+                },
+                {
+                    "country": "DOM",
+                    "name": "Teresa Ines GONZALEZ JIMENEZ"
+                }
+            ],
+            [
+                {
+                    "country": "CAN",
+                    "name": "Virginia NEMETH"
+                },
+                {
+                    "country": "USA",
+                    "name": "Jenna SCHURR"
+                }
+            ],
+            [
+                {
+                    "country": "DOM",
+                    "name": "Coral VELASQUEZ"
+                },
+                {
+                    "country": "DOM",
+                    "name": "Estefania SORIANO"
+                }
+            ],
+            [
+                {
+                    "country": "CAN",
+                    "name": "Virginia NEMETH"
+                },
+                {
+                    "country": "GUA",
+                    "name": "Jacqueline SOLIS"
+                }
+            ],
+            [
+                {
+                    "country": "DOM",
+                    "name": "Estefania SORIANO"
+                }
+            ],
+            [
+                {
+                    "country": "CAN",
+                    "name": "Virginia NEMETH"
+                }
+            ]
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "COL",
+                    "name": "Luz ALVAREZ"
+                },
+                {
+                    "country": "GUA",
+                    "name": "Jacqueline SOLIS"
+                },
+                {
+                    "winner": "Luz ALVAREZ"
+                }
+            ],
+            [
+                {
+                    "country": "MRI",
+                    "name": "Priscilla MORAND"
+                },
+                {
+                    "country": "DOM",
+                    "name": "Estefania SORIANO"
+                },
+                {
+                    "winner": "Priscilla MORAND"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "COL",
+                    "name": "Luz ALVAREZ"
+                },
+                {
+                    "country": "MRI",
+                    "name": "Priscilla MORAND"
+                }
+            ],
+            [
+                {
+                    "country": "COL",
+                    "name": "Luz ALVAREZ"
+                }
+            ]
+        ]
+    }
+}

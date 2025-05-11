@@ -1,0 +1,141 @@
+{
+    "POOL A": {
+        "round 1-1": [],
+        "final_winner": "John MESSE A BESSONG"
+    },
+    "POOL B": {
+        "round 1-1": [
+            [
+                {
+                    "country": "SRB",
+                    "name": "Mateja BOROJEVIC"
+                },
+                {
+                    "country": "MNE",
+                    "name": "Luka SESTOVIC"
+                }
+            ]
+        ],
+        "final_winner": "Mateja BOROJEVIC"
+    },
+    "POOL C": {
+        "round 1-1": [],
+        "final_winner": "Stefan KOVINIC"
+    },
+    "POOL D": {
+        "round 1-1": [
+            [
+                {
+                    "country": "GRE",
+                    "name": "Ioannis KOSTELIDIS"
+                },
+                {
+                    "country": "MNE",
+                    "name": "Vuk TAPUSKOVIC"
+                }
+            ]
+        ],
+        "final_winner": "Ioannis KOSTELIDIS"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "MNE",
+                    "name": "Luka SESTOVIC"
+                }
+            ],
+            [
+                {
+                    "country": "MNE",
+                    "name": "Vuk TAPUSKOVIC"
+                }
+            ],
+            [
+                {
+                    "country": "MNE",
+                    "name": "Luka SESTOVIC"
+                },
+                {
+                    "country": "GRE",
+                    "name": "Ioannis KOSTELIDIS"
+                },
+                {
+                    "winner": "Ioannis KOSTELIDIS"
+                }
+            ],
+            [
+                {
+                    "country": "MNE",
+                    "name": "Vuk TAPUSKOVIC"
+                },
+                {
+                    "country": "SRB",
+                    "name": "Mateja BOROJEVIC"
+                },
+                {
+                    "winner": "Mateja BOROJEVIC"
+                }
+            ],
+            [
+                {
+                    "country": "GRE",
+                    "name": "Ioannis KOSTELIDIS"
+                }
+            ],
+            [
+                {
+                    "country": "SRB",
+                    "name": "Mateja BOROJEVIC"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Ioannis KOSTELIDIS",
+            "Mateja BOROJEVIC"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CAN",
+                    "name": "John MESSE A BESSONG"
+                },
+                {
+                    "country": "SRB",
+                    "name": "Mateja BOROJEVIC"
+                },
+                {
+                    "winner": "John MESSE A BESSONG"
+                }
+            ],
+            [
+                {
+                    "country": "MNE",
+                    "name": "Stefan KOVINIC"
+                },
+                {
+                    "country": "GRE",
+                    "name": "Ioannis KOSTELIDIS"
+                },
+                {
+                    "winner": "Stefan KOVINIC"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "CAN",
+                    "name": "John MESSE A BESSONG"
+                },
+                {
+                    "country": "MNE",
+                    "name": "Stefan KOVINIC"
+                }
+            ]
+        ],
+        "final_winner": "John MESSE A BESSONG"
+    }
+}

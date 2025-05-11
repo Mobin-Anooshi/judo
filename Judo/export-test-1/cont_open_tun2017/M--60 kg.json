@@ -1,0 +1,265 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "SLO",
+                    "name": "Matjaz TRBOVC"
+                },
+                {
+                    "winner": "Matjaz TRBOVC"
+                }
+            ],
+            [
+                {
+                    "country": "TUN",
+                    "name": "Mohamed amine AYARI"
+                },
+                {
+                    "country": "HKG",
+                    "name": "Ka chun LAU"
+                },
+                {
+                    "winner": "Mohamed amine AYARI"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "SLO",
+                    "name": "Matjaz TRBOVC"
+                },
+                {
+                    "country": "TUN",
+                    "name": "Mohamed amine AYARI"
+                }
+            ]
+        ],
+        "final_winner": "Matjaz TRBOVC"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "TUN",
+                    "name": "Fraj DHOUIBI"
+                },
+                {
+                    "winner": "Fraj DHOUIBI"
+                }
+            ],
+            [
+                {
+                    "country": "ESP",
+                    "name": "Andres ROMERO"
+                },
+                {
+                    "winner": "Andres ROMERO"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "TUN",
+                    "name": "Fraj DHOUIBI"
+                },
+                {
+                    "country": "ESP",
+                    "name": "Andres ROMERO"
+                }
+            ]
+        ],
+        "final_winner": "Fraj DHOUIBI"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ESP",
+                    "name": "Joaquin GOMIS"
+                },
+                {
+                    "winner": "Joaquin GOMIS"
+                }
+            ],
+            [
+                {
+                    "country": "MAR",
+                    "name": "Issam BASSOU"
+                },
+                {
+                    "country": "TUN",
+                    "name": "Moneam MEJRI"
+                },
+                {
+                    "winner": "Issam BASSOU"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "ESP",
+                    "name": "Joaquin GOMIS"
+                },
+                {
+                    "country": "MAR",
+                    "name": "Issam BASSOU"
+                }
+            ]
+        ],
+        "final_winner": "Joaquin GOMIS"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "MAR",
+                    "name": "Yassine MOUDATIR"
+                },
+                {
+                    "winner": "Yassine MOUDATIR"
+                }
+            ],
+            [
+                {
+                    "country": "FRA",
+                    "name": "Richard VERGNES"
+                },
+                {
+                    "winner": "Richard VERGNES"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "MAR",
+                    "name": "Yassine MOUDATIR"
+                },
+                {
+                    "country": "FRA",
+                    "name": "Richard VERGNES"
+                }
+            ]
+        ],
+        "final_winner": "Richard VERGNES"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "TUN",
+                    "name": "Mohamed amine AYARI"
+                },
+                {
+                    "country": "ESP",
+                    "name": "Andres ROMERO"
+                },
+                {
+                    "winner": "Andres ROMERO"
+                }
+            ],
+            [
+                {
+                    "country": "MAR",
+                    "name": "Issam BASSOU"
+                },
+                {
+                    "country": "MAR",
+                    "name": "Yassine MOUDATIR"
+                },
+                {
+                    "winner": "Yassine MOUDATIR"
+                }
+            ],
+            [
+                {
+                    "country": "ESP",
+                    "name": "Andres ROMERO"
+                },
+                {
+                    "country": "ESP",
+                    "name": "Joaquin GOMIS"
+                },
+                {
+                    "winner": "Andres ROMERO"
+                }
+            ],
+            [
+                {
+                    "country": "MAR",
+                    "name": "Yassine MOUDATIR"
+                },
+                {
+                    "country": "SLO",
+                    "name": "Matjaz TRBOVC"
+                },
+                {
+                    "winner": "Yassine MOUDATIR"
+                }
+            ],
+            [
+                {
+                    "country": "ESP",
+                    "name": "Andres ROMERO"
+                }
+            ],
+            [
+                {
+                    "country": "MAR",
+                    "name": "Yassine MOUDATIR"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Andres ROMERO",
+            "Yassine MOUDATIR"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "SLO",
+                    "name": "Matjaz TRBOVC"
+                },
+                {
+                    "country": "TUN",
+                    "name": "Fraj DHOUIBI"
+                },
+                {
+                    "winner": "Fraj DHOUIBI"
+                }
+            ],
+            [
+                {
+                    "country": "ESP",
+                    "name": "Joaquin GOMIS"
+                },
+                {
+                    "country": "FRA",
+                    "name": "Richard VERGNES"
+                },
+                {
+                    "winner": "Richard VERGNES"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "TUN",
+                    "name": "Fraj DHOUIBI"
+                },
+                {
+                    "country": "FRA",
+                    "name": "Richard VERGNES"
+                }
+            ]
+        ],
+        "final_winner": "Richard VERGNES"
+    }
+}

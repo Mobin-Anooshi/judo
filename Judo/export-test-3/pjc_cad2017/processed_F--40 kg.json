@@ -1,0 +1,87 @@
+{
+    "POOL A": {
+        "round 1-3": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Giovanna MONTEIRO"
+                },
+                {
+                    "country": "VEN",
+                    "name": "Maria VERA"
+                },
+                {
+                    "winner": "Giovanna MONTEIRO"
+                }
+            ],
+            [
+                {
+                    "country": "BRA",
+                    "name": "Giovanna MONTEIRO"
+                },
+                {
+                    "country": "ECU",
+                    "name": "DANIELA RAMOS"
+                },
+                {
+                    "winner": "DANIELA RAMOS"
+                }
+            ],
+            [
+                {
+                    "country": "VEN",
+                    "name": "Maria VERA"
+                },
+                {
+                    "country": "ECU",
+                    "name": "DANIELA RAMOS"
+                },
+                {
+                    "winner": "Maria VERA"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Giovanna MONTEIRO",
+            "Maria VERA"
+        ]
+    },
+    "POOL B": {
+        "round 1-1": [],
+        "final_winners": [
+            "Mikaela ROJAS"
+        ]
+    },
+    "REPECHAGE": {
+        "round 1-1": [
+            [
+                {
+                    "country": "VEN",
+                    "name": "Maria VERA"
+                },
+                {
+                    "country": "MEX",
+                    "name": "Kassandra ESPINOZA"
+                },
+                {
+                    "winner": "Maria VERA"
+                }
+            ],
+            [
+                {
+                    "country": "VEN",
+                    "name": "Maria VERA"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Maria VERA"
+        ]
+    },
+    "FINALS": {
+        "round 1-1": [],
+        "final_winners": [
+            "Giovanna MONTEIRO"
+        ]
+    }
+}

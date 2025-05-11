@@ -1,0 +1,238 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "PER",
+                    "name": "Alexander RAMIREZ"
+                },
+                {
+                    "winner": "Alexander RAMIREZ"
+                }
+            ],
+            [
+                {
+                    "country": "USA",
+                    "name": "Devin GARRIDO"
+                },
+                {
+                    "winner": "Devin GARRIDO"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "PER",
+                    "name": "Alexander RAMIREZ"
+                },
+                {
+                    "country": "USA",
+                    "name": "Devin GARRIDO"
+                }
+            ],
+            [
+                {
+                    "country": "PER",
+                    "name": "Alexander RAMIREZ"
+                }
+            ]
+        ]
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ECU",
+                    "name": "Michael QUIROZ"
+                },
+                {
+                    "winner": "Michael QUIROZ"
+                }
+            ],
+            []
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "ECU",
+                    "name": "Michael QUIROZ"
+                }
+            ]
+        ]
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ARG",
+                    "name": "Angelo VILLALOBOS"
+                },
+                {
+                    "winner": "Angelo VILLALOBOS"
+                }
+            ],
+            []
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "ARG",
+                    "name": "Angelo VILLALOBOS"
+                }
+            ]
+        ]
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Daniel paulo SILVA"
+                },
+                {
+                    "winner": "Daniel paulo SILVA"
+                }
+            ],
+            [
+                {
+                    "country": "ECU",
+                    "name": "Jaime HURTADO"
+                },
+                {
+                    "winner": "Jaime HURTADO"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Daniel paulo SILVA"
+                },
+                {
+                    "country": "ECU",
+                    "name": "Jaime HURTADO"
+                }
+            ],
+            [
+                {
+                    "country": "BRA",
+                    "name": "Daniel paulo SILVA"
+                }
+            ]
+        ]
+    },
+    "REPECHAGE": {
+        "round 1-4": [
+            [
+                {
+                    "country": "USA",
+                    "name": "Devin GARRIDO"
+                },
+                {
+                    "winner": "Devin GARRIDO"
+                }
+            ],
+            [],
+            [],
+            [
+                {
+                    "country": "ECU",
+                    "name": "Jaime HURTADO"
+                },
+                {
+                    "winner": "Jaime HURTADO"
+                }
+            ]
+        ],
+        "round 1-2": [
+            [
+                {
+                    "country": "USA",
+                    "name": "Devin GARRIDO"
+                }
+            ],
+            [
+                {
+                    "country": "ECU",
+                    "name": "Jaime HURTADO"
+                }
+            ],
+            [
+                {
+                    "country": "USA",
+                    "name": "Devin GARRIDO"
+                },
+                {
+                    "country": "BRA",
+                    "name": "Daniel paulo SILVA"
+                }
+            ],
+            [
+                {
+                    "country": "ECU",
+                    "name": "Jaime HURTADO"
+                },
+                {
+                    "country": "PER",
+                    "name": "Alexander RAMIREZ"
+                }
+            ],
+            [
+                {
+                    "country": "BRA",
+                    "name": "Daniel paulo SILVA"
+                }
+            ]
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "PER",
+                    "name": "Alexander RAMIREZ"
+                },
+                {
+                    "country": "ECU",
+                    "name": "Michael QUIROZ"
+                },
+                {
+                    "winner": "Michael QUIROZ"
+                }
+            ],
+            [
+                {
+                    "country": "ARG",
+                    "name": "Angelo VILLALOBOS"
+                },
+                {
+                    "country": "BRA",
+                    "name": "Daniel paulo SILVA"
+                },
+                {
+                    "winner": "Angelo VILLALOBOS"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "ECU",
+                    "name": "Michael QUIROZ"
+                },
+                {
+                    "country": "ARG",
+                    "name": "Angelo VILLALOBOS"
+                }
+            ],
+            [
+                {
+                    "country": "ECU",
+                    "name": "Michael QUIROZ"
+                }
+            ]
+        ]
+    }
+}

@@ -1,0 +1,269 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "NED",
+                    "name": "Jur SPIJKERS"
+                },
+                {
+                    "winner": "Jur SPIJKERS"
+                }
+            ],
+            [
+                {
+                    "country": "AZE",
+                    "name": "Imran YUSIFOV"
+                },
+                {
+                    "winner": "Imran YUSIFOV"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "NED",
+                    "name": "Jur SPIJKERS"
+                },
+                {
+                    "country": "AZE",
+                    "name": "Imran YUSIFOV"
+                }
+            ]
+        ],
+        "final_winner": "Jur SPIJKERS"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "BLR",
+                    "name": "Yahor KUKHARENKA"
+                },
+                {
+                    "winner": "Yahor KUKHARENKA"
+                }
+            ],
+            [
+                {
+                    "country": "BUL",
+                    "name": "Veselin IVANOV"
+                },
+                {
+                    "country": "CRO",
+                    "name": "Marcel SKALEC"
+                },
+                {
+                    "winner": "Veselin IVANOV"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "BLR",
+                    "name": "Yahor KUKHARENKA"
+                },
+                {
+                    "country": "BUL",
+                    "name": "Veselin IVANOV"
+                }
+            ]
+        ],
+        "final_winner": "Yahor KUKHARENKA"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "HUN",
+                    "name": "Richard SIPOCZ"
+                },
+                {
+                    "winner": "Richard SIPOCZ"
+                }
+            ],
+            [
+                {
+                    "country": "ITA",
+                    "name": "Lorenzo TURINI"
+                },
+                {
+                    "country": "BUL",
+                    "name": "Ivaylo DIMITROV"
+                },
+                {
+                    "winner": "Ivaylo DIMITROV"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "HUN",
+                    "name": "Richard SIPOCZ"
+                },
+                {
+                    "country": "BUL",
+                    "name": "Ivaylo DIMITROV"
+                }
+            ]
+        ],
+        "final_winner": "Richard SIPOCZ"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "FIN",
+                    "name": "Martti PUUMALAINEN"
+                },
+                {
+                    "winner": "Martti PUUMALAINEN"
+                }
+            ],
+            [
+                {
+                    "country": "POL",
+                    "name": "Dominik MAJOWSKI"
+                },
+                {
+                    "country": "BLR",
+                    "name": "Bogdan VOITSIK"
+                },
+                {
+                    "winner": "Dominik MAJOWSKI"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "FIN",
+                    "name": "Martti PUUMALAINEN"
+                },
+                {
+                    "country": "POL",
+                    "name": "Dominik MAJOWSKI"
+                }
+            ]
+        ],
+        "final_winner": "Martti PUUMALAINEN"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "AZE",
+                    "name": "Imran YUSIFOV"
+                },
+                {
+                    "country": "BUL",
+                    "name": "Veselin IVANOV"
+                },
+                {
+                    "winner": "Imran YUSIFOV"
+                }
+            ],
+            [
+                {
+                    "country": "BUL",
+                    "name": "Ivaylo DIMITROV"
+                },
+                {
+                    "country": "POL",
+                    "name": "Dominik MAJOWSKI"
+                },
+                {
+                    "winner": "Dominik MAJOWSKI"
+                }
+            ],
+            [
+                {
+                    "country": "AZE",
+                    "name": "Imran YUSIFOV"
+                },
+                {
+                    "country": "FIN",
+                    "name": "Martti PUUMALAINEN"
+                },
+                {
+                    "winner": "Martti PUUMALAINEN"
+                }
+            ],
+            [
+                {
+                    "country": "POL",
+                    "name": "Dominik MAJOWSKI"
+                },
+                {
+                    "country": "BLR",
+                    "name": "Yahor KUKHARENKA"
+                },
+                {
+                    "winner": "Yahor KUKHARENKA"
+                }
+            ],
+            [
+                {
+                    "country": "FIN",
+                    "name": "Martti PUUMALAINEN"
+                }
+            ],
+            [
+                {
+                    "country": "BLR",
+                    "name": "Yahor KUKHARENKA"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Martti PUUMALAINEN",
+            "Yahor KUKHARENKA"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "NED",
+                    "name": "Jur SPIJKERS"
+                },
+                {
+                    "country": "BLR",
+                    "name": "Yahor KUKHARENKA"
+                },
+                {
+                    "winner": "Jur SPIJKERS"
+                }
+            ],
+            [
+                {
+                    "country": "HUN",
+                    "name": "Richard SIPOCZ"
+                },
+                {
+                    "country": "FIN",
+                    "name": "Martti PUUMALAINEN"
+                },
+                {
+                    "winner": "Richard SIPOCZ"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "NED",
+                    "name": "Jur SPIJKERS"
+                },
+                {
+                    "country": "HUN",
+                    "name": "Richard SIPOCZ"
+                }
+            ]
+        ],
+        "final_winner": "Richard SIPOCZ"
+    }
+}

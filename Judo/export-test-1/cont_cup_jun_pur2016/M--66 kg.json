@@ -1,0 +1,116 @@
+{
+    "POOL B": {
+        "round 1-1": [
+            [
+                {
+                    "country": "PUR",
+                    "name": "Carlos RODRIGUEZ"
+                },
+                {
+                    "country": "ESP",
+                    "name": "Ricardo CASAS FERNANDEZ"
+                }
+            ],
+            [
+                {
+                    "country": "PUR",
+                    "name": "Andy LOPEZ"
+                },
+                {
+                    "country": "ESP",
+                    "name": "Ricardo CASAS FERNANDEZ"
+                }
+            ]
+        ],
+        "final_winner": "Andy LOPEZ"
+    },
+    "POOL C": {
+        "round 1-1": [
+            [
+                {
+                    "country": "COL",
+                    "name": "Juan HERNANDEZ"
+                },
+                {
+                    "country": "PUR",
+                    "name": "Steven GONZALEZ"
+                }
+            ]
+        ],
+        "final_winner": "Juan HERNANDEZ"
+    },
+    "POOL D": {
+        "round 1-1": [
+            [
+                {
+                    "country": "PUR",
+                    "name": "De jesus JEAN"
+                },
+                {
+                    "country": "PUR",
+                    "name": "Anthony PAGAN"
+                }
+            ]
+        ],
+        "final_winner": "De jesus JEAN"
+    },
+    "REPECHAGE": {
+        "round 1-1": [
+            [
+                {
+                    "country": "ESP",
+                    "name": "Ricardo CASAS FERNANDEZ"
+                },
+                {
+                    "country": "PUR",
+                    "name": "De jesus JEAN"
+                }
+            ],
+            [
+                {
+                    "country": "ESP",
+                    "name": "Ricardo CASAS FERNANDEZ"
+                }
+            ]
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "PUR",
+                    "name": "Andy LOPEZ"
+                },
+                {
+                    "winner": "Andy LOPEZ"
+                }
+            ],
+            [
+                {
+                    "country": "COL",
+                    "name": "Juan HERNANDEZ"
+                },
+                {
+                    "country": "PUR",
+                    "name": "De jesus JEAN"
+                },
+                {
+                    "winner": "Juan HERNANDEZ"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "PUR",
+                    "name": "Andy LOPEZ"
+                },
+                {
+                    "country": "COL",
+                    "name": "Juan HERNANDEZ"
+                }
+            ]
+        ],
+        "final_winner": "Juan HERNANDEZ"
+    }
+}

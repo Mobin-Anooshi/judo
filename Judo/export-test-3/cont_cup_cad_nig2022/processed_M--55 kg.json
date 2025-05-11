@@ -1,0 +1,87 @@
+{
+    "POOL A": {
+        "round 1-3": [
+            [
+                {
+                    "country": "NIG",
+                    "name": "Mahamadou ISSOUFOU ABDOU"
+                },
+                {
+                    "country": "NIG",
+                    "name": "Djibo ABDOUL AZIZ"
+                },
+                {
+                    "winner": "Mahamadou ISSOUFOU ABDOU"
+                }
+            ],
+            [
+                {
+                    "country": "NIG",
+                    "name": "Mahamadou ISSOUFOU ABDOU"
+                },
+                {
+                    "country": "CIV",
+                    "name": "Kablan Ariel EHUI"
+                },
+                {
+                    "winner": "Kablan Ariel EHUI"
+                }
+            ],
+            [
+                {
+                    "country": "NIG",
+                    "name": "Djibo ABDOUL AZIZ"
+                },
+                {
+                    "country": "CIV",
+                    "name": "Kablan Ariel EHUI"
+                },
+                {
+                    "winner": "Djibo ABDOUL AZIZ"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Djibo ABDOUL AZIZ",
+            "Kablan Ariel EHUI"
+        ]
+    },
+    "POOL B": {
+        "round 1-1": [],
+        "final_winners": [
+            "Ibrahim HAMADOU DJIBO"
+        ]
+    },
+    "REPECHAGE": {
+        "round 1-1": [
+            [
+                {
+                    "country": "CIV",
+                    "name": "Kablan Ariel EHUI"
+                },
+                {
+                    "country": "GUI",
+                    "name": "Alssiny SOW"
+                },
+                {
+                    "winner": "Kablan Ariel EHUI"
+                }
+            ],
+            [
+                {
+                    "country": "CIV",
+                    "name": "Kablan Ariel EHUI"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Kablan Ariel EHUI"
+        ]
+    },
+    "FINALS": {
+        "round 1-1": [],
+        "final_winners": [
+            "Djibo ABDOUL AZIZ"
+        ]
+    }
+}

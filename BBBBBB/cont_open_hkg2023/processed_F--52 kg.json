@@ -1,0 +1,141 @@
+{
+    "POOL A": {
+        "round 1-1": [],
+        "final_winner": "Lea BUET"
+    },
+    "POOL B": {
+        "round 1-1": [
+            [
+                {
+                    "country": "KOR",
+                    "name": "Jiyeon KIM"
+                },
+                {
+                    "country": "HKG",
+                    "name": "Yee Lam Elim CHAN"
+                }
+            ]
+        ],
+        "final_winner": "Jiyeon KIM"
+    },
+    "POOL C": {
+        "round 1-1": [],
+        "final_winner": "Maryam March MAHARANI"
+    },
+    "POOL D": {
+        "round 1-1": [
+            [
+                {
+                    "country": "USA",
+                    "name": "Jenna SCHURR"
+                },
+                {
+                    "country": "HKG",
+                    "name": "King Wai KWOK"
+                }
+            ]
+        ],
+        "final_winner": "Jenna SCHURR"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "HKG",
+                    "name": "Yee Lam Elim CHAN"
+                }
+            ],
+            [
+                {
+                    "country": "HKG",
+                    "name": "King Wai KWOK"
+                }
+            ],
+            [
+                {
+                    "country": "HKG",
+                    "name": "Yee Lam Elim CHAN"
+                },
+                {
+                    "country": "USA",
+                    "name": "Jenna SCHURR"
+                },
+                {
+                    "winner": "Jenna SCHURR"
+                }
+            ],
+            [
+                {
+                    "country": "HKG",
+                    "name": "King Wai KWOK"
+                },
+                {
+                    "country": "SEN",
+                    "name": "Lea BUET"
+                },
+                {
+                    "winner": "Lea BUET"
+                }
+            ],
+            [
+                {
+                    "country": "USA",
+                    "name": "Jenna SCHURR"
+                }
+            ],
+            [
+                {
+                    "country": "SEN",
+                    "name": "Lea BUET"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Jenna SCHURR",
+            "Lea BUET"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "SEN",
+                    "name": "Lea BUET"
+                },
+                {
+                    "country": "KOR",
+                    "name": "Jiyeon KIM"
+                },
+                {
+                    "winner": "Jiyeon KIM"
+                }
+            ],
+            [
+                {
+                    "country": "INA",
+                    "name": "Maryam March MAHARANI"
+                },
+                {
+                    "country": "USA",
+                    "name": "Jenna SCHURR"
+                },
+                {
+                    "winner": "Maryam March MAHARANI"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "KOR",
+                    "name": "Jiyeon KIM"
+                },
+                {
+                    "country": "INA",
+                    "name": "Maryam March MAHARANI"
+                }
+            ]
+        ],
+        "final_winner": "Jiyeon KIM"
+    }
+}

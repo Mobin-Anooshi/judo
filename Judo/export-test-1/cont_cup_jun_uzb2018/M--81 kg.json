@@ -1,0 +1,277 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "KGZ",
+                    "name": "Erlan SHEROV"
+                },
+                {
+                    "country": "UZB",
+                    "name": "Shokhruh YUSUPOV"
+                },
+                {
+                    "winner": "Erlan SHEROV"
+                }
+            ],
+            [
+                {
+                    "country": "UZB",
+                    "name": "Shokhboz MUMINOV"
+                },
+                {
+                    "winner": "Shokhboz MUMINOV"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "KGZ",
+                    "name": "Erlan SHEROV"
+                },
+                {
+                    "country": "UZB",
+                    "name": "Shokhboz MUMINOV"
+                }
+            ]
+        ],
+        "final_winner": "Erlan SHEROV"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "UZB",
+                    "name": "Ulugbek UROKOV"
+                },
+                {
+                    "winner": "Ulugbek UROKOV"
+                }
+            ],
+            [
+                {
+                    "country": "UZB",
+                    "name": "Bunyod TURSUNOV"
+                },
+                {
+                    "country": "TJK",
+                    "name": "Mehrob TAGHOIMURODOV"
+                },
+                {
+                    "winner": "Bunyod TURSUNOV"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "UZB",
+                    "name": "Ulugbek UROKOV"
+                },
+                {
+                    "country": "UZB",
+                    "name": "Bunyod TURSUNOV"
+                }
+            ]
+        ],
+        "final_winner": "Bunyod TURSUNOV"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "UZB",
+                    "name": "Yusufbek NORMAMATOV"
+                },
+                {
+                    "country": "TJK",
+                    "name": "Rajabali MUHAMADIEV"
+                },
+                {
+                    "winner": "Yusufbek NORMAMATOV"
+                }
+            ],
+            [
+                {
+                    "country": "UZB",
+                    "name": "Dilshod DILIEV"
+                },
+                {
+                    "winner": "Dilshod DILIEV"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "UZB",
+                    "name": "Yusufbek NORMAMATOV"
+                },
+                {
+                    "country": "UZB",
+                    "name": "Dilshod DILIEV"
+                }
+            ]
+        ],
+        "final_winner": "Yusufbek NORMAMATOV"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "KGZ",
+                    "name": "Bogdan FILIPPOV"
+                },
+                {
+                    "country": "UZB",
+                    "name": "Ozodbek MUROTOV"
+                },
+                {
+                    "winner": "Ozodbek MUROTOV"
+                }
+            ],
+            [
+                {
+                    "country": "TJK",
+                    "name": "Muhammad ABDULLOEV"
+                },
+                {
+                    "country": "UZB",
+                    "name": "Jasur SODIKOV"
+                },
+                {
+                    "winner": "Jasur SODIKOV"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "UZB",
+                    "name": "Ozodbek MUROTOV"
+                },
+                {
+                    "country": "UZB",
+                    "name": "Jasur SODIKOV"
+                }
+            ]
+        ],
+        "final_winner": "Jasur SODIKOV"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "UZB",
+                    "name": "Shokhboz MUMINOV"
+                },
+                {
+                    "country": "UZB",
+                    "name": "Ulugbek UROKOV"
+                },
+                {
+                    "winner": "Ulugbek UROKOV"
+                }
+            ],
+            [
+                {
+                    "country": "UZB",
+                    "name": "Dilshod DILIEV"
+                },
+                {
+                    "country": "UZB",
+                    "name": "Ozodbek MUROTOV"
+                },
+                {
+                    "winner": "Ozodbek MUROTOV"
+                }
+            ],
+            [
+                {
+                    "country": "UZB",
+                    "name": "Ulugbek UROKOV"
+                },
+                {
+                    "country": "UZB",
+                    "name": "Yusufbek NORMAMATOV"
+                },
+                {
+                    "winner": "Yusufbek NORMAMATOV"
+                }
+            ],
+            [
+                {
+                    "country": "UZB",
+                    "name": "Ozodbek MUROTOV"
+                },
+                {
+                    "country": "UZB",
+                    "name": "Bunyod TURSUNOV"
+                },
+                {
+                    "winner": "Ozodbek MUROTOV"
+                }
+            ],
+            [
+                {
+                    "country": "UZB",
+                    "name": "Yusufbek NORMAMATOV"
+                }
+            ],
+            [
+                {
+                    "country": "UZB",
+                    "name": "Ozodbek MUROTOV"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Yusufbek NORMAMATOV",
+            "Ozodbek MUROTOV"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "KGZ",
+                    "name": "Erlan SHEROV"
+                },
+                {
+                    "country": "UZB",
+                    "name": "Bunyod TURSUNOV"
+                },
+                {
+                    "winner": "Erlan SHEROV"
+                }
+            ],
+            [
+                {
+                    "country": "UZB",
+                    "name": "Yusufbek NORMAMATOV"
+                },
+                {
+                    "country": "UZB",
+                    "name": "Jasur SODIKOV"
+                },
+                {
+                    "winner": "Jasur SODIKOV"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "KGZ",
+                    "name": "Erlan SHEROV"
+                },
+                {
+                    "country": "UZB",
+                    "name": "Jasur SODIKOV"
+                }
+            ]
+        ],
+        "final_winner": "Erlan SHEROV"
+    }
+}

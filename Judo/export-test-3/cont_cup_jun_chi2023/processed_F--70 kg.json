@@ -1,0 +1,68 @@
+{
+    "ROUND 1": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CHI",
+                    "name": "Valentina JIMENEZ"
+                },
+                {
+                    "country": "CHI",
+                    "name": "Antonella VEGA"
+                },
+                {
+                    "winner": "Valentina JIMENEZ"
+                }
+            ],
+            [
+                {
+                    "country": "CHI",
+                    "name": "Ignacia MAYORGA"
+                },
+                {
+                    "country": "CHI",
+                    "name": "Jacqueline ARP"
+                },
+                {
+                    "winner": "Ignacia MAYORGA"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Valentina JIMENEZ",
+            "Ignacia MAYORGA"
+        ]
+    },
+    "REPECHAGE": {
+        "round 1-1": [
+            [
+                {
+                    "country": "CHI",
+                    "name": "Antonella VEGA"
+                },
+                {
+                    "country": "CHI",
+                    "name": "Jacqueline ARP"
+                },
+                {
+                    "winner": "Antonella VEGA"
+                }
+            ],
+            [
+                {
+                    "country": "CHI",
+                    "name": "Antonella VEGA"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Antonella VEGA"
+        ]
+    },
+    "FINALS": {
+        "round 1-1": [],
+        "final_winners": [
+            "Valentina JIMENEZ"
+        ]
+    }
+}

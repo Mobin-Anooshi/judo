@@ -1,0 +1,235 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "EGY",
+                    "name": "Ramadan DARWISH"
+                },
+                {
+                    "winner": "Ramadan DARWISH"
+                }
+            ],
+            [
+                {
+                    "country": "COD",
+                    "name": "Prince KOSI SAMUZU"
+                },
+                {
+                    "country": "LBA",
+                    "name": "Mohamed SENUSI"
+                },
+                {
+                    "winner": "Prince KOSI SAMUZU"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "EGY",
+                    "name": "Ramadan DARWISH"
+                },
+                {
+                    "country": "COD",
+                    "name": "Prince KOSI SAMUZU"
+                }
+            ]
+        ],
+        "final_winner": "Ramadan DARWISH"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "GAB",
+                    "name": "Luc MANONGHO"
+                },
+                {
+                    "winner": "Luc MANONGHO"
+                }
+            ],
+            [
+                {
+                    "country": "KEN",
+                    "name": "George MBURU KIMANI"
+                },
+                {
+                    "winner": "George MBURU KIMANI"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "GAB",
+                    "name": "Luc MANONGHO"
+                },
+                {
+                    "country": "KEN",
+                    "name": "George MBURU KIMANI"
+                }
+            ]
+        ],
+        "final_winner": "Luc MANONGHO"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "MRI",
+                    "name": "Hansley ADONIS"
+                },
+                {
+                    "winner": "Hansley ADONIS"
+                }
+            ],
+            [
+                {
+                    "country": "MAR",
+                    "name": "Mohammed LAHBOUB"
+                },
+                {
+                    "winner": "Mohammed LAHBOUB"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "MRI",
+                    "name": "Hansley ADONIS"
+                },
+                {
+                    "country": "MAR",
+                    "name": "Mohammed LAHBOUB"
+                }
+            ]
+        ],
+        "final_winner": "Mohammed LAHBOUB"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [],
+            [
+                {
+                    "country": "ALG",
+                    "name": "Houari BELHADEUF"
+                },
+                {
+                    "winner": "Houari BELHADEUF"
+                }
+            ]
+        ],
+        "round 1-1": [],
+        "final_winner": "Houari BELHADEUF"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "COD",
+                    "name": "Prince KOSI SAMUZU"
+                },
+                {
+                    "country": "KEN",
+                    "name": "George MBURU KIMANI"
+                },
+                {
+                    "winner": "Prince KOSI SAMUZU"
+                }
+            ],
+            [
+                {
+                    "country": "MRI",
+                    "name": "Hansley ADONIS"
+                }
+            ],
+            [
+                {
+                    "country": "COD",
+                    "name": "Prince KOSI SAMUZU"
+                },
+                {
+                    "country": "ALG",
+                    "name": "Houari BELHADEUF"
+                },
+                {
+                    "winner": "Prince KOSI SAMUZU"
+                }
+            ],
+            [
+                {
+                    "country": "MRI",
+                    "name": "Hansley ADONIS"
+                },
+                {
+                    "country": "GAB",
+                    "name": "Luc MANONGHO"
+                },
+                {
+                    "winner": "Luc MANONGHO"
+                }
+            ],
+            [
+                {
+                    "country": "COD",
+                    "name": "Prince KOSI SAMUZU"
+                }
+            ],
+            [
+                {
+                    "country": "GAB",
+                    "name": "Luc MANONGHO"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Prince KOSI SAMUZU",
+            "Luc MANONGHO"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "EGY",
+                    "name": "Ramadan DARWISH"
+                },
+                {
+                    "country": "GAB",
+                    "name": "Luc MANONGHO"
+                },
+                {
+                    "winner": "Ramadan DARWISH"
+                }
+            ],
+            [
+                {
+                    "country": "MAR",
+                    "name": "Mohammed LAHBOUB"
+                },
+                {
+                    "country": "ALG",
+                    "name": "Houari BELHADEUF"
+                },
+                {
+                    "winner": "Mohammed LAHBOUB"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "EGY",
+                    "name": "Ramadan DARWISH"
+                },
+                {
+                    "country": "MAR",
+                    "name": "Mohammed LAHBOUB"
+                }
+            ]
+        ],
+        "final_winner": "Ramadan DARWISH"
+    }
+}

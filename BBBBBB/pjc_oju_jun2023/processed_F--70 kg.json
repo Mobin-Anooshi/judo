@@ -1,0 +1,261 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "USA",
+                    "name": "Shavon GONZALEZ"
+                },
+                {
+                    "winner": "Shavon GONZALEZ"
+                }
+            ],
+            []
+        ],
+        "round 1-1": [],
+        "final_winner": "Shavon GONZALEZ"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CAN",
+                    "name": "Laurence BIRON"
+                },
+                {
+                    "winner": "Laurence BIRON"
+                }
+            ],
+            [
+                {
+                    "country": "AUS",
+                    "name": "Avalon ANSKEY"
+                },
+                {
+                    "winner": "Avalon ANSKEY"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "CAN",
+                    "name": "Laurence BIRON"
+                },
+                {
+                    "country": "AUS",
+                    "name": "Avalon ANSKEY"
+                }
+            ]
+        ],
+        "final_winner": "Laurence BIRON"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "AUS",
+                    "name": "Saya MIDDLETON"
+                },
+                {
+                    "winner": "Saya MIDDLETON"
+                }
+            ],
+            [
+                {
+                    "country": "ARG",
+                    "name": "Joaquina NIETO"
+                },
+                {
+                    "winner": "Joaquina NIETO"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "AUS",
+                    "name": "Saya MIDDLETON"
+                },
+                {
+                    "country": "ARG",
+                    "name": "Joaquina NIETO"
+                }
+            ]
+        ],
+        "final_winner": "Saya MIDDLETON"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Kaillany CARDOSO"
+                },
+                {
+                    "winner": "Kaillany CARDOSO"
+                }
+            ],
+            [
+                {
+                    "country": "USA",
+                    "name": "Kira FERRANDINI"
+                },
+                {
+                    "winner": "Kira FERRANDINI"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Kaillany CARDOSO"
+                },
+                {
+                    "country": "USA",
+                    "name": "Kira FERRANDINI"
+                }
+            ]
+        ],
+        "final_winner": "Kaillany CARDOSO"
+    },
+    "REPECHAGE": {
+        "round 1-4": [
+            [],
+            [
+                {
+                    "country": "AUS",
+                    "name": "Avalon ANSKEY"
+                },
+                {
+                    "winner": "Avalon ANSKEY"
+                }
+            ],
+            [
+                {
+                    "country": "ARG",
+                    "name": "Joaquina NIETO"
+                },
+                {
+                    "winner": "Joaquina NIETO"
+                }
+            ],
+            [
+                {
+                    "country": "USA",
+                    "name": "Kira FERRANDINI"
+                },
+                {
+                    "winner": "Kira FERRANDINI"
+                }
+            ]
+        ],
+        "round 1-2": [
+            [
+                {
+                    "country": "AUS",
+                    "name": "Avalon ANSKEY"
+                }
+            ],
+            [
+                {
+                    "country": "ARG",
+                    "name": "Joaquina NIETO"
+                },
+                {
+                    "country": "USA",
+                    "name": "Kira FERRANDINI"
+                },
+                {
+                    "winner": "Joaquina NIETO"
+                }
+            ],
+            [
+                {
+                    "country": "AUS",
+                    "name": "Avalon ANSKEY"
+                },
+                {
+                    "country": "AUS",
+                    "name": "Saya MIDDLETON"
+                },
+                {
+                    "winner": "Saya MIDDLETON"
+                }
+            ],
+            [
+                {
+                    "country": "ARG",
+                    "name": "Joaquina NIETO"
+                },
+                {
+                    "country": "USA",
+                    "name": "Shavon GONZALEZ"
+                },
+                {
+                    "winner": "Shavon GONZALEZ"
+                }
+            ],
+            [
+                {
+                    "country": "AUS",
+                    "name": "Saya MIDDLETON"
+                }
+            ],
+            [
+                {
+                    "country": "USA",
+                    "name": "Shavon GONZALEZ"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Saya MIDDLETON",
+            "Shavon GONZALEZ"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "USA",
+                    "name": "Shavon GONZALEZ"
+                },
+                {
+                    "country": "CAN",
+                    "name": "Laurence BIRON"
+                },
+                {
+                    "winner": "Laurence BIRON"
+                }
+            ],
+            [
+                {
+                    "country": "AUS",
+                    "name": "Saya MIDDLETON"
+                },
+                {
+                    "country": "BRA",
+                    "name": "Kaillany CARDOSO"
+                },
+                {
+                    "winner": "Kaillany CARDOSO"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "CAN",
+                    "name": "Laurence BIRON"
+                },
+                {
+                    "country": "BRA",
+                    "name": "Kaillany CARDOSO"
+                }
+            ]
+        ],
+        "final_winner": "Laurence BIRON"
+    }
+}

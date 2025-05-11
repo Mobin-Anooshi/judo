@@ -1,0 +1,135 @@
+{
+    "POOL A": {
+        "round 1-1": [],
+        "final_winner": "Saya MIDDLETON"
+    },
+    "POOL B": {
+        "round 1-1": [
+            [
+                {
+                    "country": "KOR",
+                    "name": "Keongeun BAE"
+                },
+                {
+                    "country": "TPE",
+                    "name": "Hua-Fang KO"
+                }
+            ]
+        ],
+        "final_winner": "Keongeun BAE"
+    },
+    "POOL C": {
+        "round 1-1": [],
+        "final_winner": "Lai Iong KUOK"
+    },
+    "POOL D": {
+        "round 1-1": [
+            [
+                {
+                    "country": "TPE",
+                    "name": "Yu-Lan LIU"
+                },
+                {
+                    "country": "TPE",
+                    "name": "Ssu-Yu HUANG"
+                }
+            ]
+        ],
+        "final_winner": "Ssu-Yu HUANG"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "TPE",
+                    "name": "Hua-Fang KO"
+                }
+            ],
+            [
+                {
+                    "country": "TPE",
+                    "name": "Yu-Lan LIU"
+                }
+            ],
+            [
+                {
+                    "country": "TPE",
+                    "name": "Hua-Fang KO"
+                },
+                {
+                    "country": "MAC",
+                    "name": "Lai Iong KUOK"
+                },
+                {
+                    "winner": "Hua-Fang KO"
+                }
+            ],
+            [
+                {
+                    "country": "TPE",
+                    "name": "Yu-Lan LIU"
+                },
+                {
+                    "country": "KOR",
+                    "name": "Keongeun BAE"
+                },
+                {
+                    "winner": "Keongeun BAE"
+                }
+            ],
+            [
+                {
+                    "country": "KOR",
+                    "name": "Keongeun BAE"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Yu-Lan LIU",
+            "Hua-Fang KO"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "AUS",
+                    "name": "Saya MIDDLETON"
+                },
+                {
+                    "country": "KOR",
+                    "name": "Keongeun BAE"
+                },
+                {
+                    "winner": "Saya MIDDLETON"
+                }
+            ],
+            [
+                {
+                    "country": "MAC",
+                    "name": "Lai Iong KUOK"
+                },
+                {
+                    "country": "TPE",
+                    "name": "Ssu-Yu HUANG"
+                },
+                {
+                    "winner": "Ssu-Yu HUANG"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "AUS",
+                    "name": "Saya MIDDLETON"
+                },
+                {
+                    "country": "TPE",
+                    "name": "Ssu-Yu HUANG"
+                }
+            ]
+        ],
+        "final_winner": "Saya MIDDLETON"
+    }
+}

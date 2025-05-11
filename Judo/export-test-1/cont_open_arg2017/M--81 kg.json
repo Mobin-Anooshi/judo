@@ -1,0 +1,177 @@
+{
+    "POOL A": {
+        "round 1-1": [
+            [
+                {
+                    "country": "ARG",
+                    "name": "Emmanuel LUCENTI"
+                },
+                {
+                    "country": "USA",
+                    "name": "Kell BERLINER"
+                }
+            ]
+        ],
+        "final_winner": "Emmanuel LUCENTI"
+    },
+    "POOL B": {
+        "round 1-1": [
+            [
+                {
+                    "country": "URU",
+                    "name": "Alain APRAHAMIAN"
+                },
+                {
+                    "country": "ARG",
+                    "name": "Ivan DUARTE"
+                }
+            ]
+        ],
+        "final_winner": "Ivan DUARTE"
+    },
+    "POOL C": {
+        "round 1-1": [
+            [
+                {
+                    "country": "USA",
+                    "name": "Jack HATTON"
+                },
+                {
+                    "country": "USA",
+                    "name": "Arthur WRIGHT"
+                }
+            ]
+        ],
+        "final_winner": "Jack HATTON"
+    },
+    "POOL D": {
+        "round 1-1": [
+            [
+                {
+                    "country": "ARG",
+                    "name": "Luis VEGA"
+                },
+                {
+                    "country": "ARG",
+                    "name": "Tomas MORALES"
+                }
+            ]
+        ],
+        "final_winner": "Luis VEGA"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "USA",
+                    "name": "Kell BERLINER"
+                },
+                {
+                    "country": "URU",
+                    "name": "Alain APRAHAMIAN"
+                },
+                {
+                    "winner": "Kell BERLINER"
+                }
+            ],
+            [
+                {
+                    "country": "USA",
+                    "name": "Arthur WRIGHT"
+                },
+                {
+                    "country": "ARG",
+                    "name": "Tomas MORALES"
+                },
+                {
+                    "winner": "Tomas MORALES"
+                }
+            ],
+            [
+                {
+                    "country": "USA",
+                    "name": "Kell BERLINER"
+                },
+                {
+                    "country": "ARG",
+                    "name": "Luis VEGA"
+                },
+                {
+                    "winner": "Kell BERLINER"
+                }
+            ],
+            [
+                {
+                    "country": "ARG",
+                    "name": "Tomas MORALES"
+                },
+                {
+                    "country": "ARG",
+                    "name": "Ivan DUARTE"
+                },
+                {
+                    "winner": "Tomas MORALES"
+                }
+            ],
+            [
+                {
+                    "country": "USA",
+                    "name": "Kell BERLINER"
+                }
+            ],
+            [
+                {
+                    "country": "ARG",
+                    "name": "Tomas MORALES"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Kell BERLINER",
+            "Tomas MORALES"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ARG",
+                    "name": "Emmanuel LUCENTI"
+                },
+                {
+                    "country": "ARG",
+                    "name": "Ivan DUARTE"
+                },
+                {
+                    "winner": "Emmanuel LUCENTI"
+                }
+            ],
+            [
+                {
+                    "country": "USA",
+                    "name": "Jack HATTON"
+                },
+                {
+                    "country": "ARG",
+                    "name": "Luis VEGA"
+                },
+                {
+                    "winner": "Jack HATTON"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "ARG",
+                    "name": "Emmanuel LUCENTI"
+                },
+                {
+                    "country": "USA",
+                    "name": "Jack HATTON"
+                }
+            ]
+        ],
+        "final_winner": "Jack HATTON"
+    }
+}

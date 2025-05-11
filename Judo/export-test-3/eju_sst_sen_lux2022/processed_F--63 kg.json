@@ -1,0 +1,87 @@
+{
+    "POOL A": {
+        "round 1-3": [
+            [
+                {
+                    "country": "LUX",
+                    "name": "Kenza COSSU"
+                },
+                {
+                    "country": "MLT",
+                    "name": "Francesca CATANIA"
+                },
+                {
+                    "winner": "Kenza COSSU"
+                }
+            ],
+            [
+                {
+                    "country": "LUX",
+                    "name": "Kenza COSSU"
+                },
+                {
+                    "country": "CYP",
+                    "name": "Tatiana NEMCHINOVA"
+                },
+                {
+                    "winner": "Tatiana NEMCHINOVA"
+                }
+            ],
+            [
+                {
+                    "country": "MLT",
+                    "name": "Francesca CATANIA"
+                },
+                {
+                    "country": "CYP",
+                    "name": "Tatiana NEMCHINOVA"
+                },
+                {
+                    "winner": "Tatiana NEMCHINOVA"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Kenza COSSU",
+            "Tatiana NEMCHINOVA"
+        ]
+    },
+    "POOL B": {
+        "round 1-1": [],
+        "final_winners": [
+            "Lia POVEDANO RUIZ"
+        ]
+    },
+    "REPECHAGE": {
+        "round 1-1": [
+            [
+                {
+                    "country": "CYP",
+                    "name": "Tatiana NEMCHINOVA"
+                },
+                {
+                    "country": "CYP",
+                    "name": "Diana DIMITRIOU"
+                },
+                {
+                    "winner": "Diana DIMITRIOU"
+                }
+            ],
+            [
+                {
+                    "country": "CYP",
+                    "name": "Diana DIMITRIOU"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Diana DIMITRIOU"
+        ]
+    },
+    "FINALS": {
+        "round 1-1": [],
+        "final_winners": [
+            "Kenza COSSU"
+        ]
+    }
+}

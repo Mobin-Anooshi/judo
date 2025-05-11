@@ -1,0 +1,68 @@
+{
+    "ROUND 1": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ECU",
+                    "name": "Edith ORTIZ"
+                },
+                {
+                    "country": "CRC",
+                    "name": "Nicole GARITA"
+                },
+                {
+                    "winner": "Edith ORTIZ"
+                }
+            ],
+            [
+                {
+                    "country": "VEN",
+                    "name": "Eliana AGUIAR"
+                },
+                {
+                    "country": "PAN",
+                    "name": "Lombardo YULISA ARLIN"
+                },
+                {
+                    "winner": "Eliana AGUIAR"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Edith ORTIZ",
+            "Eliana AGUIAR"
+        ]
+    },
+    "REPECHAGE": {
+        "round 1-1": [
+            [
+                {
+                    "country": "CRC",
+                    "name": "Nicole GARITA"
+                },
+                {
+                    "country": "PAN",
+                    "name": "Lombardo YULISA ARLIN"
+                },
+                {
+                    "winner": "Nicole GARITA"
+                }
+            ],
+            [
+                {
+                    "country": "CRC",
+                    "name": "Nicole GARITA"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Nicole GARITA"
+        ]
+    },
+    "FINALS": {
+        "round 1-1": [],
+        "final_winners": [
+            "Eliana AGUIAR"
+        ]
+    }
+}

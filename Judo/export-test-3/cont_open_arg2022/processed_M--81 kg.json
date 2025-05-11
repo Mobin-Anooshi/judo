@@ -1,0 +1,101 @@
+{
+    "POOL A": {
+        "round 1-1": [
+            [
+                {
+                    "country": "ARG",
+                    "name": "Agustin GIL"
+                }
+            ]
+        ]
+    },
+    "POOL B": {
+        "round 1-1": [],
+        "final_winners": [
+            "Caio BRIGIDA"
+        ]
+    },
+    "POOL C": {
+        "round 1-1": [],
+        "final_winners": [
+            "Lincoln NEVES"
+        ]
+    },
+    "POOL D": {
+        "round 1-1": [],
+        "final_winners": [
+            "Henrique BOTHOME"
+        ]
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CHI",
+                    "name": "Franco TOSCANINI"
+                }
+            ],
+            [
+                {
+                    "country": "URU",
+                    "name": "Rodrigo GAMOU"
+                },
+                {
+                    "country": "CHI",
+                    "name": "Diego ZUNIGA"
+                },
+                {
+                    "winner": "Rodrigo GAMOU"
+                }
+            ],
+            [
+                {
+                    "country": "CHI",
+                    "name": "Franco TOSCANINI"
+                },
+                {
+                    "country": "BRA",
+                    "name": "Lincoln NEVES"
+                },
+                {
+                    "winner": "Lincoln NEVES"
+                }
+            ],
+            [
+                {
+                    "country": "URU",
+                    "name": "Rodrigo GAMOU"
+                },
+                {
+                    "country": "ARG",
+                    "name": "Agustin GIL"
+                },
+                {
+                    "winner": "Rodrigo GAMOU"
+                }
+            ],
+            [
+                {
+                    "country": "BRA",
+                    "name": "Lincoln NEVES"
+                }
+            ],
+            [
+                {
+                    "country": "URU",
+                    "name": "Rodrigo GAMOU"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Rodrigo GAMOU"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [],
+        "round 1-1": [],
+        "final_winners": [
+            "Henrique BOTHOME"
+        ]
+    }
+}

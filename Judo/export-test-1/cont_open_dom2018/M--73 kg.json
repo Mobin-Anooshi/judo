@@ -1,0 +1,289 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "PER",
+                    "name": "Alonso WONG"
+                },
+                {
+                    "country": "DOM",
+                    "name": "Jose GERONIMO"
+                },
+                {
+                    "winner": "Alonso WONG"
+                }
+            ],
+            [
+                {
+                    "country": "USA",
+                    "name": "Liam WRIGHT"
+                },
+                {
+                    "country": "DOM",
+                    "name": "Junior GEREZ"
+                },
+                {
+                    "winner": "Liam WRIGHT"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "PER",
+                    "name": "Alonso WONG"
+                },
+                {
+                    "country": "USA",
+                    "name": "Liam WRIGHT"
+                }
+            ]
+        ],
+        "final_winner": "Liam WRIGHT"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "DOM",
+                    "name": "Lwilli SANTANA"
+                },
+                {
+                    "country": "USA",
+                    "name": "Salama SALEM"
+                },
+                {
+                    "winner": "Lwilli SANTANA"
+                }
+            ],
+            [
+                {
+                    "country": "DOM",
+                    "name": "Darvi LORENZO"
+                },
+                {
+                    "country": "DOM",
+                    "name": "Carlos ARIAS"
+                },
+                {
+                    "winner": "Darvi LORENZO"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "DOM",
+                    "name": "Lwilli SANTANA"
+                },
+                {
+                    "country": "DOM",
+                    "name": "Darvi LORENZO"
+                }
+            ]
+        ],
+        "final_winner": "Lwilli SANTANA"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "PUR",
+                    "name": "Jeffrey RUIZ"
+                },
+                {
+                    "country": "USA",
+                    "name": "Caleb WESLEY"
+                },
+                {
+                    "winner": "Jeffrey RUIZ"
+                }
+            ],
+            [
+                {
+                    "country": "CAN",
+                    "name": "Warren SEIB"
+                },
+                {
+                    "country": "DOM",
+                    "name": "Derwin SILVETRI"
+                },
+                {
+                    "winner": "Derwin SILVETRI"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "PUR",
+                    "name": "Jeffrey RUIZ"
+                },
+                {
+                    "country": "DOM",
+                    "name": "Derwin SILVETRI"
+                }
+            ]
+        ],
+        "final_winner": "Jeffrey RUIZ"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "COL",
+                    "name": "Leider NAVARRO"
+                },
+                {
+                    "country": "DOM",
+                    "name": "Luis MEDRANO"
+                },
+                {
+                    "winner": "Leider NAVARRO"
+                }
+            ],
+            [
+                {
+                    "country": "HAI",
+                    "name": "Philippe Abel METELLUS"
+                },
+                {
+                    "country": "DOM",
+                    "name": "Orlando GEREZ CUELLO"
+                },
+                {
+                    "winner": "Philippe Abel METELLUS"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "COL",
+                    "name": "Leider NAVARRO"
+                },
+                {
+                    "country": "HAI",
+                    "name": "Philippe Abel METELLUS"
+                }
+            ]
+        ],
+        "final_winner": "Philippe Abel METELLUS"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "PER",
+                    "name": "Alonso WONG"
+                },
+                {
+                    "country": "DOM",
+                    "name": "Darvi LORENZO"
+                },
+                {
+                    "winner": "Alonso WONG"
+                }
+            ],
+            [
+                {
+                    "country": "DOM",
+                    "name": "Derwin SILVETRI"
+                },
+                {
+                    "country": "COL",
+                    "name": "Leider NAVARRO"
+                },
+                {
+                    "winner": "Leider NAVARRO"
+                }
+            ],
+            [
+                {
+                    "country": "PER",
+                    "name": "Alonso WONG"
+                },
+                {
+                    "country": "HAI",
+                    "name": "Philippe Abel METELLUS"
+                },
+                {
+                    "winner": "Alonso WONG"
+                }
+            ],
+            [
+                {
+                    "country": "COL",
+                    "name": "Leider NAVARRO"
+                },
+                {
+                    "country": "DOM",
+                    "name": "Lwilli SANTANA"
+                },
+                {
+                    "winner": "Leider NAVARRO"
+                }
+            ],
+            [
+                {
+                    "country": "PER",
+                    "name": "Alonso WONG"
+                }
+            ],
+            [
+                {
+                    "country": "COL",
+                    "name": "Leider NAVARRO"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Alonso WONG",
+            "Leider NAVARRO"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "USA",
+                    "name": "Liam WRIGHT"
+                },
+                {
+                    "country": "DOM",
+                    "name": "Lwilli SANTANA"
+                },
+                {
+                    "winner": "Liam WRIGHT"
+                }
+            ],
+            [
+                {
+                    "country": "PUR",
+                    "name": "Jeffrey RUIZ"
+                },
+                {
+                    "country": "HAI",
+                    "name": "Philippe Abel METELLUS"
+                },
+                {
+                    "winner": "Jeffrey RUIZ"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "USA",
+                    "name": "Liam WRIGHT"
+                },
+                {
+                    "country": "PUR",
+                    "name": "Jeffrey RUIZ"
+                }
+            ]
+        ],
+        "final_winner": "Jeffrey RUIZ"
+    }
+}

@@ -1,0 +1,68 @@
+{
+    "ROUND 1": {
+        "round 1-2": [
+            [
+                {
+                    "country": "JAM",
+                    "name": "Kurt-Ann SIMPSON"
+                },
+                {
+                    "country": "CAN",
+                    "name": "Alexandria LEFORT"
+                },
+                {
+                    "winner": "Alexandria LEFORT"
+                }
+            ],
+            [
+                {
+                    "country": "CAN",
+                    "name": "Brae BOOTH"
+                },
+                {
+                    "country": "JAM",
+                    "name": "Afflick ABENI"
+                },
+                {
+                    "winner": "Brae BOOTH"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Alexandria LEFORT",
+            "Brae BOOTH"
+        ]
+    },
+    "REPECHAGE": {
+        "round 1-1": [
+            [
+                {
+                    "country": "JAM",
+                    "name": "Kurt-Ann SIMPSON"
+                },
+                {
+                    "country": "JAM",
+                    "name": "Afflick ABENI"
+                },
+                {
+                    "winner": "Kurt-Ann SIMPSON"
+                }
+            ],
+            [
+                {
+                    "country": "JAM",
+                    "name": "Kurt-Ann SIMPSON"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Kurt-Ann SIMPSON"
+        ]
+    },
+    "FINALS": {
+        "round 1-1": [],
+        "final_winners": [
+            "Brae BOOTH"
+        ]
+    }
+}

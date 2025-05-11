@@ -1,0 +1,159 @@
+{
+    "POOL A": {
+        "round 1-1": [],
+        "final_winner": "Assmaa NIANG"
+    },
+    "POOL B": {
+        "round 1-1": [
+            [
+                {
+                    "country": "BUR",
+                    "name": "Aguirata KABORE"
+                },
+                {
+                    "country": "GAB",
+                    "name": "Karene AGONO WORA"
+                }
+            ]
+        ],
+        "final_winner": "Karene AGONO WORA"
+    },
+    "POOL C": {
+        "round 1-1": [
+            [
+                {
+                    "country": "TUN",
+                    "name": "Nihel LANDOLSI"
+                },
+                {
+                    "country": "CIV",
+                    "name": "Odio Estelle GBAGOU"
+                }
+            ]
+        ],
+        "final_winner": "Nihel LANDOLSI"
+    },
+    "POOL D": {
+        "round 1-1": [
+            [
+                {
+                    "country": "ALG",
+                    "name": "Souad BELLAKEHAL"
+                },
+                {
+                    "country": "SEN",
+                    "name": "Khadija SONKO"
+                }
+            ]
+        ],
+        "final_winner": "Souad BELLAKEHAL"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "BUR",
+                    "name": "Aguirata KABORE"
+                }
+            ],
+            [
+                {
+                    "country": "CIV",
+                    "name": "Odio Estelle GBAGOU"
+                },
+                {
+                    "country": "SEN",
+                    "name": "Khadija SONKO"
+                },
+                {
+                    "winner": "Khadija SONKO"
+                }
+            ],
+            [
+                {
+                    "country": "BUR",
+                    "name": "Aguirata KABORE"
+                },
+                {
+                    "country": "TUN",
+                    "name": "Nihel LANDOLSI"
+                },
+                {
+                    "winner": "Nihel LANDOLSI"
+                }
+            ],
+            [
+                {
+                    "country": "SEN",
+                    "name": "Khadija SONKO"
+                },
+                {
+                    "country": "GAB",
+                    "name": "Karene AGONO WORA"
+                },
+                {
+                    "winner": "Karene AGONO WORA"
+                }
+            ],
+            [
+                {
+                    "country": "TUN",
+                    "name": "Nihel LANDOLSI"
+                }
+            ],
+            [
+                {
+                    "country": "GAB",
+                    "name": "Karene AGONO WORA"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Nihel LANDOLSI",
+            "Karene AGONO WORA"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "MAR",
+                    "name": "Assmaa NIANG"
+                },
+                {
+                    "country": "GAB",
+                    "name": "Karene AGONO WORA"
+                },
+                {
+                    "winner": "Assmaa NIANG"
+                }
+            ],
+            [
+                {
+                    "country": "TUN",
+                    "name": "Nihel LANDOLSI"
+                },
+                {
+                    "country": "ALG",
+                    "name": "Souad BELLAKEHAL"
+                },
+                {
+                    "winner": "Souad BELLAKEHAL"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "MAR",
+                    "name": "Assmaa NIANG"
+                },
+                {
+                    "country": "ALG",
+                    "name": "Souad BELLAKEHAL"
+                }
+            ]
+        ],
+        "final_winner": "Assmaa NIANG"
+    }
+}

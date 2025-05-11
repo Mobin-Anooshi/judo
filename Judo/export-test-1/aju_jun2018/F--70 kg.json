@@ -1,0 +1,221 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ALG",
+                    "name": "Karima KECHOUT"
+                },
+                {
+                    "winner": "Karima KECHOUT"
+                }
+            ],
+            []
+        ],
+        "round 1-1": [],
+        "final_winner": "Karima KECHOUT"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CIV",
+                    "name": "Yasmine DENE"
+                },
+                {
+                    "winner": "Yasmine DENE"
+                }
+            ],
+            [
+                {
+                    "country": "BDI",
+                    "name": "Ange Ciella NIRAGIRA"
+                },
+                {
+                    "winner": "Ange Ciella NIRAGIRA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "CIV",
+                    "name": "Yasmine DENE"
+                },
+                {
+                    "country": "BDI",
+                    "name": "Ange Ciella NIRAGIRA"
+                }
+            ]
+        ],
+        "final_winner": "Ange Ciella NIRAGIRA"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "RSA",
+                    "name": "Katja LANG"
+                },
+                {
+                    "winner": "Katja LANG"
+                }
+            ],
+            [
+                {
+                    "country": "EGY",
+                    "name": "Moustafa SALMA"
+                },
+                {
+                    "winner": "Moustafa SALMA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "RSA",
+                    "name": "Katja LANG"
+                },
+                {
+                    "country": "EGY",
+                    "name": "Moustafa SALMA"
+                }
+            ]
+        ],
+        "final_winner": "Moustafa SALMA"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "SEN",
+                    "name": "Yacine DIATTA"
+                },
+                {
+                    "winner": "Yacine DIATTA"
+                }
+            ],
+            []
+        ],
+        "round 1-1": [],
+        "final_winner": "Yacine DIATTA"
+    },
+    "REPECHAGE": {
+        "round 1-4": [
+            [],
+            [
+                {
+                    "country": "CIV",
+                    "name": "Yasmine DENE"
+                },
+                {
+                    "winner": "Yasmine DENE"
+                }
+            ],
+            [
+                {
+                    "country": "RSA",
+                    "name": "Katja LANG"
+                },
+                {
+                    "winner": "Katja LANG"
+                }
+            ],
+            []
+        ],
+        "round 1-2": [
+            [
+                {
+                    "country": "CIV",
+                    "name": "Yasmine DENE"
+                }
+            ],
+            [
+                {
+                    "country": "RSA",
+                    "name": "Katja LANG"
+                }
+            ],
+            [
+                {
+                    "country": "CIV",
+                    "name": "Yasmine DENE"
+                },
+                {
+                    "country": "EGY",
+                    "name": "Moustafa SALMA"
+                },
+                {
+                    "winner": "Moustafa SALMA"
+                }
+            ],
+            [
+                {
+                    "country": "RSA",
+                    "name": "Katja LANG"
+                },
+                {
+                    "country": "BDI",
+                    "name": "Ange Ciella NIRAGIRA"
+                },
+                {
+                    "winner": "Katja LANG"
+                }
+            ],
+            [
+                {
+                    "country": "EGY",
+                    "name": "Moustafa SALMA"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Katja LANG",
+            "Moustafa SALMA"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ALG",
+                    "name": "Karima KECHOUT"
+                },
+                {
+                    "country": "BDI",
+                    "name": "Ange Ciella NIRAGIRA"
+                },
+                {
+                    "winner": "Karima KECHOUT"
+                }
+            ],
+            [
+                {
+                    "country": "EGY",
+                    "name": "Moustafa SALMA"
+                },
+                {
+                    "country": "SEN",
+                    "name": "Yacine DIATTA"
+                },
+                {
+                    "winner": "Yacine DIATTA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "ALG",
+                    "name": "Karima KECHOUT"
+                },
+                {
+                    "country": "SEN",
+                    "name": "Yacine DIATTA"
+                }
+            ]
+        ],
+        "final_winner": "Karima KECHOUT"
+    }
+}

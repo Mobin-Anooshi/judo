@@ -1,0 +1,265 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "FRA",
+                    "name": "Julia ROSSO"
+                },
+                {
+                    "winner": "Julia ROSSO"
+                }
+            ],
+            [
+                {
+                    "country": "SRB",
+                    "name": "MILICA LAZIC"
+                },
+                {
+                    "winner": "MILICA LAZIC"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "FRA",
+                    "name": "Julia ROSSO"
+                },
+                {
+                    "country": "SRB",
+                    "name": "MILICA LAZIC"
+                }
+            ]
+        ],
+        "final_winner": "Julia ROSSO"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ITA",
+                    "name": "Francesca GIORDA"
+                },
+                {
+                    "winner": "Francesca GIORDA"
+                }
+            ],
+            [
+                {
+                    "country": "SUI",
+                    "name": "Tamara SILVA"
+                },
+                {
+                    "winner": "Tamara SILVA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "ITA",
+                    "name": "Francesca GIORDA"
+                },
+                {
+                    "country": "SUI",
+                    "name": "Tamara SILVA"
+                }
+            ]
+        ],
+        "final_winner": "Francesca GIORDA"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "NOR",
+                    "name": "Madelene RUBINSTEIN"
+                },
+                {
+                    "winner": "Madelene RUBINSTEIN"
+                }
+            ],
+            [
+                {
+                    "country": "FRA",
+                    "name": "Laura HOLTZINGER"
+                },
+                {
+                    "country": "SRB",
+                    "name": "Tamara JOVANOVIC"
+                },
+                {
+                    "winner": "Laura HOLTZINGER"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "NOR",
+                    "name": "Madelene RUBINSTEIN"
+                },
+                {
+                    "country": "FRA",
+                    "name": "Laura HOLTZINGER"
+                }
+            ]
+        ],
+        "final_winner": "Madelene RUBINSTEIN"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "POR",
+                    "name": "Mariana ESTEVES"
+                },
+                {
+                    "winner": "Mariana ESTEVES"
+                }
+            ],
+            [
+                {
+                    "country": "GBR",
+                    "name": "Abbi BLACKIE"
+                },
+                {
+                    "country": "SRB",
+                    "name": "Milica NIKOLIC"
+                },
+                {
+                    "winner": "Milica NIKOLIC"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "POR",
+                    "name": "Mariana ESTEVES"
+                },
+                {
+                    "country": "SRB",
+                    "name": "Milica NIKOLIC"
+                }
+            ]
+        ],
+        "final_winner": "Milica NIKOLIC"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "SRB",
+                    "name": "MILICA LAZIC"
+                },
+                {
+                    "country": "SUI",
+                    "name": "Tamara SILVA"
+                },
+                {
+                    "winner": "Tamara SILVA"
+                }
+            ],
+            [
+                {
+                    "country": "FRA",
+                    "name": "Laura HOLTZINGER"
+                },
+                {
+                    "country": "POR",
+                    "name": "Mariana ESTEVES"
+                },
+                {
+                    "winner": "Laura HOLTZINGER"
+                }
+            ],
+            [
+                {
+                    "country": "SUI",
+                    "name": "Tamara SILVA"
+                },
+                {
+                    "country": "SRB",
+                    "name": "Milica NIKOLIC"
+                },
+                {
+                    "winner": "Milica NIKOLIC"
+                }
+            ],
+            [
+                {
+                    "country": "FRA",
+                    "name": "Laura HOLTZINGER"
+                },
+                {
+                    "country": "ITA",
+                    "name": "Francesca GIORDA"
+                },
+                {
+                    "winner": "Francesca GIORDA"
+                }
+            ],
+            [
+                {
+                    "country": "SRB",
+                    "name": "Milica NIKOLIC"
+                }
+            ],
+            [
+                {
+                    "country": "ITA",
+                    "name": "Francesca GIORDA"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Milica NIKOLIC",
+            "Francesca GIORDA"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "FRA",
+                    "name": "Julia ROSSO"
+                },
+                {
+                    "country": "ITA",
+                    "name": "Francesca GIORDA"
+                },
+                {
+                    "winner": "Julia ROSSO"
+                }
+            ],
+            [
+                {
+                    "country": "NOR",
+                    "name": "Madelene RUBINSTEIN"
+                },
+                {
+                    "country": "SRB",
+                    "name": "Milica NIKOLIC"
+                },
+                {
+                    "winner": "Madelene RUBINSTEIN"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "FRA",
+                    "name": "Julia ROSSO"
+                },
+                {
+                    "country": "NOR",
+                    "name": "Madelene RUBINSTEIN"
+                }
+            ]
+        ],
+        "final_winner": "Madelene RUBINSTEIN"
+    }
+}

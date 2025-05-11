@@ -1,0 +1,87 @@
+{
+    "POOL A": {
+        "round 1-3": [
+            [
+                {
+                    "country": "MEX",
+                    "name": "Kassandra ESPINOZA"
+                },
+                {
+                    "country": "COL",
+                    "name": "Luz ALVAREZ"
+                },
+                {
+                    "winner": "Kassandra ESPINOZA"
+                }
+            ],
+            [
+                {
+                    "country": "MEX",
+                    "name": "Kassandra ESPINOZA"
+                },
+                {
+                    "country": "MEX",
+                    "name": "Fabiola ORTIZ"
+                },
+                {
+                    "winner": "Fabiola ORTIZ"
+                }
+            ],
+            [
+                {
+                    "country": "COL",
+                    "name": "Luz ALVAREZ"
+                },
+                {
+                    "country": "MEX",
+                    "name": "Fabiola ORTIZ"
+                },
+                {
+                    "winner": "Luz ALVAREZ"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Luz ALVAREZ",
+            "Kassandra ESPINOZA"
+        ]
+    },
+    "POOL B": {
+        "round 1-1": [],
+        "final_winners": [
+            "Jacqueline SOLIS"
+        ]
+    },
+    "REPECHAGE": {
+        "round 1-1": [
+            [
+                {
+                    "country": "MEX",
+                    "name": "Kassandra ESPINOZA"
+                },
+                {
+                    "country": "ARG",
+                    "name": "Mikaela ROJAS"
+                },
+                {
+                    "winner": "Kassandra ESPINOZA"
+                }
+            ],
+            [
+                {
+                    "country": "MEX",
+                    "name": "Kassandra ESPINOZA"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Kassandra ESPINOZA"
+        ]
+    },
+    "FINALS": {
+        "round 1-1": [],
+        "final_winners": [
+            "Luz ALVAREZ"
+        ]
+    }
+}

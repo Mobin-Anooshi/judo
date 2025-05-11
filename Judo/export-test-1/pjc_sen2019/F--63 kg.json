@@ -1,0 +1,281 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CUB",
+                    "name": "Maylin DEL TORO CARVAJAL"
+                },
+                {
+                    "winner": "Maylin DEL TORO CARVAJAL"
+                }
+            ],
+            [
+                {
+                    "country": "USA",
+                    "name": "Alisha GALLES"
+                },
+                {
+                    "country": "MEX",
+                    "name": "Julieta PEREZ"
+                },
+                {
+                    "winner": "Alisha GALLES"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "CUB",
+                    "name": "Maylin DEL TORO CARVAJAL"
+                },
+                {
+                    "country": "USA",
+                    "name": "Alisha GALLES"
+                }
+            ]
+        ],
+        "final_winner": "Maylin DEL TORO CARVAJAL"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ECU",
+                    "name": "Estefania GARCIA"
+                },
+                {
+                    "country": "CHI",
+                    "name": "Karina ORELLANA"
+                },
+                {
+                    "winner": "Estefania GARCIA"
+                }
+            ],
+            [
+                {
+                    "country": "VEN",
+                    "name": "Anriquelis BARRIOS"
+                },
+                {
+                    "country": "ARG",
+                    "name": "Agustina DE LUCIA"
+                },
+                {
+                    "winner": "Anriquelis BARRIOS"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "ECU",
+                    "name": "Estefania GARCIA"
+                },
+                {
+                    "country": "VEN",
+                    "name": "Anriquelis BARRIOS"
+                }
+            ]
+        ],
+        "final_winner": "Estefania GARCIA"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CAN",
+                    "name": "Catherine BEAUCHEMIN-PINARD"
+                },
+                {
+                    "winner": "Catherine BEAUCHEMIN-PINARD"
+                }
+            ],
+            [
+                {
+                    "country": "MEX",
+                    "name": "Prisca AWITI ALCARAZ"
+                },
+                {
+                    "country": "PER",
+                    "name": "Ariana CORNEJO"
+                },
+                {
+                    "winner": "Prisca AWITI ALCARAZ"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "CAN",
+                    "name": "Catherine BEAUCHEMIN-PINARD"
+                },
+                {
+                    "country": "MEX",
+                    "name": "Prisca AWITI ALCARAZ"
+                }
+            ]
+        ],
+        "final_winner": "Catherine BEAUCHEMIN-PINARD"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Alexia CASTILHOS"
+                },
+                {
+                    "country": "HON",
+                    "name": "Cergia DAVID"
+                },
+                {
+                    "winner": "Alexia CASTILHOS"
+                }
+            ],
+            [
+                {
+                    "country": "USA",
+                    "name": "Hannah MARTIN"
+                },
+                {
+                    "country": "COL",
+                    "name": "Madeline CHOCONTA"
+                },
+                {
+                    "winner": "Hannah MARTIN"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Alexia CASTILHOS"
+                },
+                {
+                    "country": "USA",
+                    "name": "Hannah MARTIN"
+                }
+            ]
+        ],
+        "final_winner": "Hannah MARTIN"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "USA",
+                    "name": "Alisha GALLES"
+                },
+                {
+                    "country": "VEN",
+                    "name": "Anriquelis BARRIOS"
+                },
+                {
+                    "winner": "Alisha GALLES"
+                }
+            ],
+            [
+                {
+                    "country": "MEX",
+                    "name": "Prisca AWITI ALCARAZ"
+                },
+                {
+                    "country": "BRA",
+                    "name": "Alexia CASTILHOS"
+                },
+                {
+                    "winner": "Alexia CASTILHOS"
+                }
+            ],
+            [
+                {
+                    "country": "USA",
+                    "name": "Alisha GALLES"
+                },
+                {
+                    "country": "USA",
+                    "name": "Hannah MARTIN"
+                },
+                {
+                    "winner": "Hannah MARTIN"
+                }
+            ],
+            [
+                {
+                    "country": "BRA",
+                    "name": "Alexia CASTILHOS"
+                },
+                {
+                    "country": "ECU",
+                    "name": "Estefania GARCIA"
+                },
+                {
+                    "winner": "Estefania GARCIA"
+                }
+            ],
+            [
+                {
+                    "country": "USA",
+                    "name": "Hannah MARTIN"
+                }
+            ],
+            [
+                {
+                    "country": "ECU",
+                    "name": "Estefania GARCIA"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Hannah MARTIN",
+            "Estefania GARCIA"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CUB",
+                    "name": "Maylin DEL TORO CARVAJAL"
+                },
+                {
+                    "country": "ECU",
+                    "name": "Estefania GARCIA"
+                },
+                {
+                    "winner": "Maylin DEL TORO CARVAJAL"
+                }
+            ],
+            [
+                {
+                    "country": "CAN",
+                    "name": "Catherine BEAUCHEMIN-PINARD"
+                },
+                {
+                    "country": "USA",
+                    "name": "Hannah MARTIN"
+                },
+                {
+                    "winner": "Catherine BEAUCHEMIN-PINARD"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "CUB",
+                    "name": "Maylin DEL TORO CARVAJAL"
+                },
+                {
+                    "country": "CAN",
+                    "name": "Catherine BEAUCHEMIN-PINARD"
+                }
+            ]
+        ],
+        "final_winner": "Catherine BEAUCHEMIN-PINARD"
+    }
+}

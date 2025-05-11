@@ -1,0 +1,68 @@
+{
+    "ROUND 1": {
+        "round 1-2": [
+            [
+                {
+                    "country": "USA",
+                    "name": "Nicole STOUT"
+                },
+                {
+                    "country": "ECU",
+                    "name": "Nayeli PISCO"
+                },
+                {
+                    "winner": "Nicole STOUT"
+                }
+            ],
+            [
+                {
+                    "country": "PUR",
+                    "name": "Sairy COLON"
+                },
+                {
+                    "country": "COL",
+                    "name": "Esteysy DIAZ"
+                },
+                {
+                    "winner": "Sairy COLON"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Nicole STOUT",
+            "Sairy COLON"
+        ]
+    },
+    "REPECHAGE": {
+        "round 1-1": [
+            [
+                {
+                    "country": "ECU",
+                    "name": "Nayeli PISCO"
+                },
+                {
+                    "country": "COL",
+                    "name": "Esteysy DIAZ"
+                },
+                {
+                    "winner": "Esteysy DIAZ"
+                }
+            ],
+            [
+                {
+                    "country": "COL",
+                    "name": "Esteysy DIAZ"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Esteysy DIAZ"
+        ]
+    },
+    "FINALS": {
+        "round 1-1": [],
+        "final_winners": [
+            "Nicole STOUT"
+        ]
+    }
+}

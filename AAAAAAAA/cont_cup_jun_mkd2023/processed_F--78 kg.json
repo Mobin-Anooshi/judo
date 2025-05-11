@@ -1,0 +1,98 @@
+{
+    "POOL A": {
+        "round 1-3": [
+            [
+                {
+                    "country": "SRB",
+                    "name": "Jovana STJEPANOVIC"
+                },
+                {
+                    "country": "GRE",
+                    "name": "Maria-Nicoleta VULPASIN"
+                }
+            ],
+            [
+                {
+                    "country": "SRB",
+                    "name": "Jovana STJEPANOVIC"
+                },
+                {
+                    "country": "BIH",
+                    "name": "Una MICIC"
+                }
+            ],
+            [
+                {
+                    "country": "GRE",
+                    "name": "Maria-Nicoleta VULPASIN"
+                },
+                {
+                    "country": "BIH",
+                    "name": "Una MICIC"
+                }
+            ],
+            [
+                {
+                    "country": "SRB",
+                    "name": "Jovana STJEPANOVIC"
+                }
+            ],
+            [
+                {
+                    "country": "BIH",
+                    "name": "Una MICIC"
+                }
+            ]
+        ]
+    },
+    "POOL B": {
+        "round 1-1": [
+            [
+                {
+                    "country": "BIH",
+                    "name": "Sofija PAJIC"
+                },
+                {
+                    "country": "BUL",
+                    "name": "Veronika PETKOVA"
+                }
+            ]
+        ],
+        "final_winner": "Sofija PAJIC"
+    },
+    "REPECHAGE": {
+        "round 1-1": [
+            [
+                {
+                    "country": "BIH",
+                    "name": "Una MICIC"
+                },
+                {
+                    "country": "BUL",
+                    "name": "Veronika PETKOVA"
+                }
+            ],
+            [
+                {
+                    "country": "BIH",
+                    "name": "Una MICIC"
+                }
+            ]
+        ]
+    },
+    "FINALS": {
+        "round 1-1": [
+            [
+                {
+                    "country": "SRB",
+                    "name": "Jovana STJEPANOVIC"
+                },
+                {
+                    "country": "BIH",
+                    "name": "Sofija PAJIC"
+                }
+            ]
+        ],
+        "final_winner": "Jovana STJEPANOVIC"
+    }
+}

@@ -1,0 +1,261 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ITA",
+                    "name": "Veronica TONIOLO"
+                },
+                {
+                    "winner": "Veronica TONIOLO"
+                }
+            ],
+            []
+        ],
+        "round 1-1": [],
+        "final_winner": "Veronica TONIOLO"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "AZE",
+                    "name": "Farida SAFAROVA"
+                },
+                {
+                    "winner": "Farida SAFAROVA"
+                }
+            ],
+            [
+                {
+                    "country": "MAR",
+                    "name": "Fatine RZAL"
+                },
+                {
+                    "winner": "Fatine RZAL"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "AZE",
+                    "name": "Farida SAFAROVA"
+                },
+                {
+                    "country": "MAR",
+                    "name": "Fatine RZAL"
+                }
+            ]
+        ],
+        "final_winner": "Fatine RZAL"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "AZE",
+                    "name": "Ulviyya BAYRAMOVA"
+                },
+                {
+                    "winner": "Ulviyya BAYRAMOVA"
+                }
+            ],
+            [
+                {
+                    "country": "MAR",
+                    "name": "Amal FADLI"
+                },
+                {
+                    "winner": "Amal FADLI"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "AZE",
+                    "name": "Ulviyya BAYRAMOVA"
+                },
+                {
+                    "country": "MAR",
+                    "name": "Amal FADLI"
+                }
+            ]
+        ],
+        "final_winner": "Ulviyya BAYRAMOVA"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "BLR",
+                    "name": "Yana MAKRETSKAYA"
+                },
+                {
+                    "winner": "Yana MAKRETSKAYA"
+                }
+            ],
+            [
+                {
+                    "country": "TUN",
+                    "name": "Amani CHAYEB"
+                },
+                {
+                    "winner": "Amani CHAYEB"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "BLR",
+                    "name": "Yana MAKRETSKAYA"
+                },
+                {
+                    "country": "TUN",
+                    "name": "Amani CHAYEB"
+                }
+            ]
+        ],
+        "final_winner": "Amani CHAYEB"
+    },
+    "REPECHAGE": {
+        "round 1-4": [
+            [],
+            [
+                {
+                    "country": "AZE",
+                    "name": "Farida SAFAROVA"
+                },
+                {
+                    "winner": "Farida SAFAROVA"
+                }
+            ],
+            [
+                {
+                    "country": "MAR",
+                    "name": "Amal FADLI"
+                },
+                {
+                    "winner": "Amal FADLI"
+                }
+            ],
+            [
+                {
+                    "country": "BLR",
+                    "name": "Yana MAKRETSKAYA"
+                },
+                {
+                    "winner": "Yana MAKRETSKAYA"
+                }
+            ]
+        ],
+        "round 1-2": [
+            [
+                {
+                    "country": "AZE",
+                    "name": "Farida SAFAROVA"
+                }
+            ],
+            [
+                {
+                    "country": "MAR",
+                    "name": "Amal FADLI"
+                },
+                {
+                    "country": "BLR",
+                    "name": "Yana MAKRETSKAYA"
+                },
+                {
+                    "winner": "Amal FADLI"
+                }
+            ],
+            [
+                {
+                    "country": "AZE",
+                    "name": "Farida SAFAROVA"
+                },
+                {
+                    "country": "AZE",
+                    "name": "Ulviyya BAYRAMOVA"
+                },
+                {
+                    "winner": "Ulviyya BAYRAMOVA"
+                }
+            ],
+            [
+                {
+                    "country": "MAR",
+                    "name": "Amal FADLI"
+                },
+                {
+                    "country": "MAR",
+                    "name": "Fatine RZAL"
+                },
+                {
+                    "winner": "Fatine RZAL"
+                }
+            ],
+            [
+                {
+                    "country": "AZE",
+                    "name": "Ulviyya BAYRAMOVA"
+                }
+            ],
+            [
+                {
+                    "country": "MAR",
+                    "name": "Fatine RZAL"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Ulviyya BAYRAMOVA",
+            "Fatine RZAL"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ITA",
+                    "name": "Veronica TONIOLO"
+                },
+                {
+                    "country": "MAR",
+                    "name": "Fatine RZAL"
+                },
+                {
+                    "winner": "Veronica TONIOLO"
+                }
+            ],
+            [
+                {
+                    "country": "AZE",
+                    "name": "Ulviyya BAYRAMOVA"
+                },
+                {
+                    "country": "TUN",
+                    "name": "Amani CHAYEB"
+                },
+                {
+                    "winner": "Amani CHAYEB"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "ITA",
+                    "name": "Veronica TONIOLO"
+                },
+                {
+                    "country": "TUN",
+                    "name": "Amani CHAYEB"
+                }
+            ]
+        ],
+        "final_winner": "Veronica TONIOLO"
+    }
+}

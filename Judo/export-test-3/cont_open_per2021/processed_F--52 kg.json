@@ -1,0 +1,87 @@
+{
+    "POOL A": {
+        "round 1-3": [
+            [
+                {
+                    "country": "PAN",
+                    "name": "Lilian CORDONES"
+                },
+                {
+                    "country": "PER",
+                    "name": "Noemi HUAYHUAMEZA"
+                },
+                {
+                    "winner": "Lilian CORDONES"
+                }
+            ],
+            [
+                {
+                    "country": "PAN",
+                    "name": "Lilian CORDONES"
+                },
+                {
+                    "country": "MEX",
+                    "name": "Renata ORTIZ"
+                },
+                {
+                    "winner": "Renata ORTIZ"
+                }
+            ],
+            [
+                {
+                    "country": "PER",
+                    "name": "Noemi HUAYHUAMEZA"
+                },
+                {
+                    "country": "MEX",
+                    "name": "Renata ORTIZ"
+                },
+                {
+                    "winner": "Noemi HUAYHUAMEZA"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Noemi HUAYHUAMEZA",
+            "Renata ORTIZ"
+        ]
+    },
+    "POOL B": {
+        "round 1-1": [],
+        "final_winners": [
+            "Aracelly BARRIONUEVO"
+        ]
+    },
+    "REPECHAGE": {
+        "round 1-1": [
+            [
+                {
+                    "country": "PER",
+                    "name": "Noemi HUAYHUAMEZA"
+                },
+                {
+                    "country": "PER",
+                    "name": "Romina BALTAZAR"
+                },
+                {
+                    "winner": "Noemi HUAYHUAMEZA"
+                }
+            ],
+            [
+                {
+                    "country": "PER",
+                    "name": "Noemi HUAYHUAMEZA"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Noemi HUAYHUAMEZA"
+        ]
+    },
+    "FINALS": {
+        "round 1-1": [],
+        "final_winners": [
+            "Renata ORTIZ"
+        ]
+    }
+}

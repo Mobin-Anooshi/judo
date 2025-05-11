@@ -1,0 +1,244 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "POL",
+                    "name": "Kinga WOLSZCZAK"
+                },
+                {
+                    "winner": "Kinga WOLSZCZAK"
+                }
+            ],
+            []
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "POL",
+                    "name": "Kinga WOLSZCZAK"
+                }
+            ]
+        ]
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "FRA",
+                    "name": "Coralie HAYME"
+                },
+                {
+                    "winner": "Coralie HAYME"
+                }
+            ],
+            [
+                {
+                    "country": "NED",
+                    "name": "Suze ASSENDELFT"
+                },
+                {
+                    "winner": "Suze ASSENDELFT"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "FRA",
+                    "name": "Coralie HAYME"
+                },
+                {
+                    "country": "NED",
+                    "name": "Suze ASSENDELFT"
+                }
+            ],
+            [
+                {
+                    "country": "FRA",
+                    "name": "Coralie HAYME"
+                }
+            ]
+        ]
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "AZE",
+                    "name": "Aytakin PASHAZADE"
+                },
+                {
+                    "winner": "Aytakin PASHAZADE"
+                }
+            ],
+            [
+                {
+                    "country": "TUR",
+                    "name": "Hilal OZTURK"
+                },
+                {
+                    "winner": "Hilal OZTURK"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "AZE",
+                    "name": "Aytakin PASHAZADE"
+                },
+                {
+                    "country": "TUR",
+                    "name": "Hilal OZTURK"
+                }
+            ],
+            [
+                {
+                    "country": "TUR",
+                    "name": "Hilal OZTURK"
+                }
+            ]
+        ]
+    },
+    "POOL D": {
+        "round 1-2": [
+            [],
+            [
+                {
+                    "country": "NED",
+                    "name": "Carmen DIJKSTRA"
+                },
+                {
+                    "winner": "Carmen DIJKSTRA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "NED",
+                    "name": "Carmen DIJKSTRA"
+                }
+            ]
+        ]
+    },
+    "REPECHAGE": {
+        "round 1-4": [
+            [],
+            [
+                {
+                    "country": "NED",
+                    "name": "Suze ASSENDELFT"
+                },
+                {
+                    "winner": "Suze ASSENDELFT"
+                }
+            ],
+            [
+                {
+                    "country": "AZE",
+                    "name": "Aytakin PASHAZADE"
+                },
+                {
+                    "winner": "Aytakin PASHAZADE"
+                }
+            ],
+            []
+        ],
+        "round 1-2": [
+            [
+                {
+                    "country": "NED",
+                    "name": "Suze ASSENDELFT"
+                }
+            ],
+            [
+                {
+                    "country": "AZE",
+                    "name": "Aytakin PASHAZADE"
+                }
+            ],
+            [
+                {
+                    "country": "NED",
+                    "name": "Suze ASSENDELFT"
+                },
+                {
+                    "country": "NED",
+                    "name": "Carmen DIJKSTRA"
+                }
+            ],
+            [
+                {
+                    "country": "AZE",
+                    "name": "Aytakin PASHAZADE"
+                },
+                {
+                    "country": "POL",
+                    "name": "Kinga WOLSZCZAK"
+                }
+            ],
+            [
+                {
+                    "country": "NED",
+                    "name": "Carmen DIJKSTRA"
+                }
+            ],
+            [
+                {
+                    "country": "POL",
+                    "name": "Kinga WOLSZCZAK"
+                }
+            ]
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "POL",
+                    "name": "Kinga WOLSZCZAK"
+                },
+                {
+                    "country": "FRA",
+                    "name": "Coralie HAYME"
+                },
+                {
+                    "winner": "Coralie HAYME"
+                }
+            ],
+            [
+                {
+                    "country": "TUR",
+                    "name": "Hilal OZTURK"
+                },
+                {
+                    "country": "NED",
+                    "name": "Carmen DIJKSTRA"
+                },
+                {
+                    "winner": "Hilal OZTURK"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "FRA",
+                    "name": "Coralie HAYME"
+                },
+                {
+                    "country": "TUR",
+                    "name": "Hilal OZTURK"
+                }
+            ],
+            [
+                {
+                    "country": "FRA",
+                    "name": "Coralie HAYME"
+                }
+            ]
+        ]
+    }
+}

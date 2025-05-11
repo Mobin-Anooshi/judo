@@ -1,0 +1,87 @@
+{
+    "POOL A": {
+        "round 1-3": [
+            [
+                {
+                    "country": "ITA",
+                    "name": "Sofia LONGO"
+                },
+                {
+                    "country": "GBR",
+                    "name": "Holly FLYNN"
+                },
+                {
+                    "winner": "Sofia LONGO"
+                }
+            ],
+            [
+                {
+                    "country": "ITA",
+                    "name": "Sofia LONGO"
+                },
+                {
+                    "country": "ITA",
+                    "name": "Aurora FERRO"
+                },
+                {
+                    "winner": "Aurora FERRO"
+                }
+            ],
+            [
+                {
+                    "country": "GBR",
+                    "name": "Holly FLYNN"
+                },
+                {
+                    "country": "ITA",
+                    "name": "Aurora FERRO"
+                },
+                {
+                    "winner": "Aurora FERRO"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Sofia LONGO",
+            "Aurora FERRO"
+        ]
+    },
+    "POOL B": {
+        "round 1-1": [],
+        "final_winners": [
+            "Clelia DA COSTA"
+        ]
+    },
+    "REPECHAGE": {
+        "round 1-1": [
+            [
+                {
+                    "country": "ITA",
+                    "name": "Sofia LONGO"
+                },
+                {
+                    "country": "ITA",
+                    "name": "Rachele CIAVURRO"
+                },
+                {
+                    "winner": "Sofia LONGO"
+                }
+            ],
+            [
+                {
+                    "country": "ITA",
+                    "name": "Sofia LONGO"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Sofia LONGO"
+        ]
+    },
+    "FINALS": {
+        "round 1-1": [],
+        "final_winners": [
+            "Clelia DA COSTA"
+        ]
+    }
+}

@@ -1,0 +1,255 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "SLO",
+                    "name": "Vanessa Asja HERIC"
+                },
+                {
+                    "winner": "Vanessa Asja HERIC"
+                }
+            ],
+            []
+        ],
+        "round 1-1": [],
+        "final_winner": "Vanessa Asja HERIC"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "FRA",
+                    "name": "Celia CANCAN"
+                },
+                {
+                    "winner": "Celia CANCAN"
+                }
+            ],
+            [
+                {
+                    "country": "ROU",
+                    "name": "Daria TUDORACHE"
+                },
+                {
+                    "winner": "Daria TUDORACHE"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "FRA",
+                    "name": "Celia CANCAN"
+                },
+                {
+                    "country": "ROU",
+                    "name": "Daria TUDORACHE"
+                }
+            ]
+        ],
+        "final_winner": "Celia CANCAN"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "UKR",
+                    "name": "Marharyta BIELKOVA"
+                },
+                {
+                    "winner": "Marharyta BIELKOVA"
+                }
+            ],
+            [
+                {
+                    "country": "FRA",
+                    "name": "Quessia DIANKOLELA-BINIAKOUNOU"
+                },
+                {
+                    "winner": "Quessia DIANKOLELA-BINIAKOUNOU"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "UKR",
+                    "name": "Marharyta BIELKOVA"
+                },
+                {
+                    "country": "FRA",
+                    "name": "Quessia DIANKOLELA-BINIAKOUNOU"
+                }
+            ]
+        ],
+        "final_winner": "Quessia DIANKOLELA-BINIAKOUNOU"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "POL",
+                    "name": "Zuzanna MIKOLAJCZAK"
+                },
+                {
+                    "winner": "Zuzanna MIKOLAJCZAK"
+                }
+            ],
+            [
+                {
+                    "country": "BEL",
+                    "name": "Rachel RAMMANT"
+                },
+                {
+                    "winner": "Rachel RAMMANT"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "POL",
+                    "name": "Zuzanna MIKOLAJCZAK"
+                },
+                {
+                    "country": "BEL",
+                    "name": "Rachel RAMMANT"
+                }
+            ]
+        ],
+        "final_winner": "Rachel RAMMANT"
+    },
+    "REPECHAGE": {
+        "round 1-4": [
+            [],
+            [
+                {
+                    "country": "ROU",
+                    "name": "Daria TUDORACHE"
+                },
+                {
+                    "winner": "Daria TUDORACHE"
+                }
+            ],
+            [
+                {
+                    "country": "UKR",
+                    "name": "Marharyta BIELKOVA"
+                },
+                {
+                    "winner": "Marharyta BIELKOVA"
+                }
+            ],
+            [
+                {
+                    "country": "POL",
+                    "name": "Zuzanna MIKOLAJCZAK"
+                },
+                {
+                    "winner": "Zuzanna MIKOLAJCZAK"
+                }
+            ]
+        ],
+        "round 1-2": [
+            [
+                {
+                    "country": "ROU",
+                    "name": "Daria TUDORACHE"
+                }
+            ],
+            [
+                {
+                    "country": "UKR",
+                    "name": "Marharyta BIELKOVA"
+                },
+                {
+                    "country": "POL",
+                    "name": "Zuzanna MIKOLAJCZAK"
+                },
+                {
+                    "winner": "Marharyta BIELKOVA"
+                }
+            ],
+            [
+                {
+                    "country": "ROU",
+                    "name": "Daria TUDORACHE"
+                },
+                {
+                    "country": "FRA",
+                    "name": "Quessia DIANKOLELA-BINIAKOUNOU"
+                },
+                {
+                    "winner": "Daria TUDORACHE"
+                }
+            ],
+            [
+                {
+                    "country": "UKR",
+                    "name": "Marharyta BIELKOVA"
+                },
+                {
+                    "country": "SLO",
+                    "name": "Vanessa Asja HERIC"
+                },
+                {
+                    "winner": "Vanessa Asja HERIC"
+                }
+            ],
+            [
+                {
+                    "country": "SLO",
+                    "name": "Vanessa Asja HERIC"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Marharyta BIELKOVA",
+            "Daria TUDORACHE"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "SLO",
+                    "name": "Vanessa Asja HERIC"
+                },
+                {
+                    "country": "FRA",
+                    "name": "Celia CANCAN"
+                },
+                {
+                    "winner": "Celia CANCAN"
+                }
+            ],
+            [
+                {
+                    "country": "FRA",
+                    "name": "Quessia DIANKOLELA-BINIAKOUNOU"
+                },
+                {
+                    "country": "BEL",
+                    "name": "Rachel RAMMANT"
+                },
+                {
+                    "winner": "Rachel RAMMANT"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "FRA",
+                    "name": "Celia CANCAN"
+                },
+                {
+                    "country": "BEL",
+                    "name": "Rachel RAMMANT"
+                }
+            ]
+        ],
+        "final_winner": "Rachel RAMMANT"
+    }
+}

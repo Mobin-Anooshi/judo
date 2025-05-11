@@ -1,0 +1,227 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "VEN",
+                    "name": "Ramses ANSELMI"
+                },
+                {
+                    "winner": "Ramses ANSELMI"
+                }
+            ],
+            []
+        ],
+        "round 1-1": [],
+        "final_winner": "Ramses ANSELMI"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CHI",
+                    "name": "Franco ARISMENDI"
+                },
+                {
+                    "winner": "Franco ARISMENDI"
+                }
+            ],
+            [
+                {
+                    "country": "BRA",
+                    "name": "Adriel SANTOS"
+                },
+                {
+                    "winner": "Adriel SANTOS"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "CHI",
+                    "name": "Franco ARISMENDI"
+                },
+                {
+                    "country": "BRA",
+                    "name": "Adriel SANTOS"
+                }
+            ]
+        ],
+        "final_winner": "Adriel SANTOS"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CAN",
+                    "name": "Ian RYDER"
+                },
+                {
+                    "winner": "Ian RYDER"
+                }
+            ],
+            []
+        ],
+        "round 1-1": [],
+        "final_winner": "Ian RYDER"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "COL",
+                    "name": "Juan Pablo ESCOBAR"
+                },
+                {
+                    "winner": "Juan Pablo ESCOBAR"
+                }
+            ],
+            [
+                {
+                    "country": "CUB",
+                    "name": "Sergueis RODRIGUEZ FIGUEROA"
+                },
+                {
+                    "winner": "Sergueis RODRIGUEZ FIGUEROA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "COL",
+                    "name": "Juan Pablo ESCOBAR"
+                },
+                {
+                    "country": "CUB",
+                    "name": "Sergueis RODRIGUEZ FIGUEROA"
+                }
+            ]
+        ],
+        "final_winner": "Sergueis RODRIGUEZ FIGUEROA"
+    },
+    "REPECHAGE": {
+        "round 1-4": [
+            [],
+            [
+                {
+                    "country": "CHI",
+                    "name": "Franco ARISMENDI"
+                },
+                {
+                    "winner": "Franco ARISMENDI"
+                }
+            ],
+            [],
+            [
+                {
+                    "country": "COL",
+                    "name": "Juan Pablo ESCOBAR"
+                },
+                {
+                    "winner": "Juan Pablo ESCOBAR"
+                }
+            ]
+        ],
+        "round 1-2": [
+            [
+                {
+                    "country": "CHI",
+                    "name": "Franco ARISMENDI"
+                }
+            ],
+            [
+                {
+                    "country": "COL",
+                    "name": "Juan Pablo ESCOBAR"
+                }
+            ],
+            [
+                {
+                    "country": "CHI",
+                    "name": "Franco ARISMENDI"
+                },
+                {
+                    "country": "CUB",
+                    "name": "Sergueis RODRIGUEZ FIGUEROA"
+                },
+                {
+                    "winner": "Sergueis RODRIGUEZ FIGUEROA"
+                }
+            ],
+            [
+                {
+                    "country": "COL",
+                    "name": "Juan Pablo ESCOBAR"
+                },
+                {
+                    "country": "VEN",
+                    "name": "Ramses ANSELMI"
+                },
+                {
+                    "winner": "Ramses ANSELMI"
+                }
+            ],
+            [
+                {
+                    "country": "CUB",
+                    "name": "Sergueis RODRIGUEZ FIGUEROA"
+                }
+            ],
+            [
+                {
+                    "country": "VEN",
+                    "name": "Ramses ANSELMI"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Sergueis RODRIGUEZ FIGUEROA",
+            "Ramses ANSELMI"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "VEN",
+                    "name": "Ramses ANSELMI"
+                },
+                {
+                    "country": "BRA",
+                    "name": "Adriel SANTOS"
+                },
+                {
+                    "winner": "Adriel SANTOS"
+                }
+            ],
+            [
+                {
+                    "country": "CAN",
+                    "name": "Ian RYDER"
+                },
+                {
+                    "country": "CUB",
+                    "name": "Sergueis RODRIGUEZ FIGUEROA"
+                },
+                {
+                    "winner": "Ian RYDER"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Adriel SANTOS"
+                },
+                {
+                    "country": "CAN",
+                    "name": "Ian RYDER"
+                }
+            ]
+        ],
+        "final_winner": "Ian RYDER"
+    }
+}

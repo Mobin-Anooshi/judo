@@ -1,0 +1,295 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "TUR",
+                    "name": "Gamze SAYMA"
+                },
+                {
+                    "winner": "Gamze SAYMA"
+                }
+            ],
+            [
+                {
+                    "country": "FRA",
+                    "name": "Mathilde CHEVALIER"
+                },
+                {
+                    "winner": "Mathilde CHEVALIER"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "TUR",
+                    "name": "Gamze SAYMA"
+                },
+                {
+                    "country": "FRA",
+                    "name": "Mathilde CHEVALIER"
+                }
+            ]
+        ],
+        "final_winner": "Gamze SAYMA"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ROU",
+                    "name": "Ana MELNIC"
+                },
+                {
+                    "winner": "Ana MELNIC"
+                }
+            ],
+            [
+                {
+                    "country": "AZE",
+                    "name": "Ramila ALIYEVA"
+                },
+                {
+                    "winner": "Ramila ALIYEVA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "ROU",
+                    "name": "Ana MELNIC"
+                },
+                {
+                    "country": "AZE",
+                    "name": "Ramila ALIYEVA"
+                }
+            ]
+        ],
+        "final_winner": "Ramila ALIYEVA"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "RUS",
+                    "name": "Vladlena FARAKHUTDINOVA"
+                },
+                {
+                    "winner": "Vladlena FARAKHUTDINOVA"
+                }
+            ],
+            [
+                {
+                    "country": "AZE",
+                    "name": "Shafag HAMIDOVA"
+                },
+                {
+                    "winner": "Shafag HAMIDOVA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "RUS",
+                    "name": "Vladlena FARAKHUTDINOVA"
+                },
+                {
+                    "country": "AZE",
+                    "name": "Shafag HAMIDOVA"
+                }
+            ]
+        ],
+        "final_winner": "Shafag HAMIDOVA"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "RUS",
+                    "name": "Anastasiia KUTERINA"
+                },
+                {
+                    "winner": "Anastasiia KUTERINA"
+                }
+            ],
+            [
+                {
+                    "country": "POR",
+                    "name": "Vanessa BARBOSA"
+                },
+                {
+                    "winner": "Vanessa BARBOSA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "RUS",
+                    "name": "Anastasiia KUTERINA"
+                },
+                {
+                    "country": "POR",
+                    "name": "Vanessa BARBOSA"
+                }
+            ]
+        ],
+        "final_winner": "Anastasiia KUTERINA"
+    },
+    "REPECHAGE": {
+        "round 1-4": [
+            [
+                {
+                    "country": "FRA",
+                    "name": "Mathilde CHEVALIER"
+                },
+                {
+                    "winner": "Mathilde CHEVALIER"
+                }
+            ],
+            [
+                {
+                    "country": "ROU",
+                    "name": "Ana MELNIC"
+                },
+                {
+                    "winner": "Ana MELNIC"
+                }
+            ],
+            [
+                {
+                    "country": "RUS",
+                    "name": "Vladlena FARAKHUTDINOVA"
+                },
+                {
+                    "winner": "Vladlena FARAKHUTDINOVA"
+                }
+            ],
+            [
+                {
+                    "country": "POR",
+                    "name": "Vanessa BARBOSA"
+                },
+                {
+                    "winner": "Vanessa BARBOSA"
+                }
+            ]
+        ],
+        "round 1-2": [
+            [
+                {
+                    "country": "FRA",
+                    "name": "Mathilde CHEVALIER"
+                },
+                {
+                    "country": "ROU",
+                    "name": "Ana MELNIC"
+                },
+                {
+                    "winner": "Ana MELNIC"
+                }
+            ],
+            [
+                {
+                    "country": "RUS",
+                    "name": "Vladlena FARAKHUTDINOVA"
+                },
+                {
+                    "country": "POR",
+                    "name": "Vanessa BARBOSA"
+                },
+                {
+                    "winner": "Vladlena FARAKHUTDINOVA"
+                }
+            ],
+            [
+                {
+                    "country": "ROU",
+                    "name": "Ana MELNIC"
+                },
+                {
+                    "country": "RUS",
+                    "name": "Anastasiia KUTERINA"
+                },
+                {
+                    "winner": "Ana MELNIC"
+                }
+            ],
+            [
+                {
+                    "country": "RUS",
+                    "name": "Vladlena FARAKHUTDINOVA"
+                },
+                {
+                    "country": "AZE",
+                    "name": "Ramila ALIYEVA"
+                },
+                {
+                    "winner": "Ramila ALIYEVA"
+                }
+            ],
+            [
+                {
+                    "country": "ROU",
+                    "name": "Ana MELNIC"
+                }
+            ],
+            [
+                {
+                    "country": "AZE",
+                    "name": "Ramila ALIYEVA"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Ana MELNIC",
+            "Ramila ALIYEVA"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "TUR",
+                    "name": "Gamze SAYMA"
+                },
+                {
+                    "country": "AZE",
+                    "name": "Ramila ALIYEVA"
+                },
+                {
+                    "winner": "Gamze SAYMA"
+                }
+            ],
+            [
+                {
+                    "country": "AZE",
+                    "name": "Shafag HAMIDOVA"
+                },
+                {
+                    "country": "RUS",
+                    "name": "Anastasiia KUTERINA"
+                },
+                {
+                    "winner": "Shafag HAMIDOVA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "TUR",
+                    "name": "Gamze SAYMA"
+                },
+                {
+                    "country": "AZE",
+                    "name": "Shafag HAMIDOVA"
+                }
+            ]
+        ],
+        "final_winner": "Shafag HAMIDOVA"
+    }
+}

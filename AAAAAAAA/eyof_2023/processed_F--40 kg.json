@@ -1,0 +1,141 @@
+{
+    "POOL A": {
+        "round 1-1": [],
+        "final_winner": "Patricia TOMANKOVA"
+    },
+    "POOL B": {
+        "round 1-1": [
+            [
+                {
+                    "country": "FRA",
+                    "name": "Imane LIMA"
+                },
+                {
+                    "country": "ISR",
+                    "name": "Li-Or LARIA"
+                }
+            ]
+        ],
+        "final_winner": "Imane LIMA"
+    },
+    "POOL C": {
+        "round 1-1": [],
+        "final_winner": "Nina AUER"
+    },
+    "POOL D": {
+        "round 1-1": [
+            [
+                {
+                    "country": "SUI",
+                    "name": "Melody VEILLARD"
+                },
+                {
+                    "country": "SLO",
+                    "name": "Anemarie FEUS"
+                }
+            ]
+        ],
+        "final_winner": "Melody VEILLARD"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ISR",
+                    "name": "Li-Or LARIA"
+                }
+            ],
+            [
+                {
+                    "country": "SLO",
+                    "name": "Anemarie FEUS"
+                }
+            ],
+            [
+                {
+                    "country": "ISR",
+                    "name": "Li-Or LARIA"
+                },
+                {
+                    "country": "SUI",
+                    "name": "Melody VEILLARD"
+                },
+                {
+                    "winner": "Melody VEILLARD"
+                }
+            ],
+            [
+                {
+                    "country": "SLO",
+                    "name": "Anemarie FEUS"
+                },
+                {
+                    "country": "FRA",
+                    "name": "Imane LIMA"
+                },
+                {
+                    "winner": "Imane LIMA"
+                }
+            ],
+            [
+                {
+                    "country": "SUI",
+                    "name": "Melody VEILLARD"
+                }
+            ],
+            [
+                {
+                    "country": "FRA",
+                    "name": "Imane LIMA"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Melody VEILLARD",
+            "Imane LIMA"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "SVK",
+                    "name": "Patricia TOMANKOVA"
+                },
+                {
+                    "country": "FRA",
+                    "name": "Imane LIMA"
+                },
+                {
+                    "winner": "Patricia TOMANKOVA"
+                }
+            ],
+            [
+                {
+                    "country": "AUT",
+                    "name": "Nina AUER"
+                },
+                {
+                    "country": "SUI",
+                    "name": "Melody VEILLARD"
+                },
+                {
+                    "winner": "Nina AUER"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "SVK",
+                    "name": "Patricia TOMANKOVA"
+                },
+                {
+                    "country": "AUT",
+                    "name": "Nina AUER"
+                }
+            ]
+        ],
+        "final_winner": "Patricia TOMANKOVA"
+    }
+}

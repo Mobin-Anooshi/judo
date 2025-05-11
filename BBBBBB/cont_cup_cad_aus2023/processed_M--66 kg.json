@@ -1,0 +1,269 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "NZL",
+                    "name": "Conrad HYNES"
+                },
+                {
+                    "winner": "Conrad HYNES"
+                }
+            ],
+            [
+                {
+                    "country": "AUS",
+                    "name": "Charlie NEWMAN"
+                },
+                {
+                    "winner": "Charlie NEWMAN"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "NZL",
+                    "name": "Conrad HYNES"
+                },
+                {
+                    "country": "AUS",
+                    "name": "Charlie NEWMAN"
+                }
+            ]
+        ],
+        "final_winner": "Conrad HYNES"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "AUS",
+                    "name": "Maxwell ZOLLINGER"
+                },
+                {
+                    "country": "NZL",
+                    "name": "Sean MASUDA-MORGAN"
+                },
+                {
+                    "winner": "Maxwell ZOLLINGER"
+                }
+            ],
+            [
+                {
+                    "country": "AUS",
+                    "name": "Dylan EAMES"
+                },
+                {
+                    "winner": "Dylan EAMES"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "AUS",
+                    "name": "Maxwell ZOLLINGER"
+                },
+                {
+                    "country": "AUS",
+                    "name": "Dylan EAMES"
+                }
+            ]
+        ],
+        "final_winner": "Maxwell ZOLLINGER"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "HKG",
+                    "name": "Wing Yat YEUNG"
+                },
+                {
+                    "winner": "Wing Yat YEUNG"
+                }
+            ],
+            [
+                {
+                    "country": "NZL",
+                    "name": "Kieran MASUDA-MORGAN"
+                },
+                {
+                    "country": "AUS",
+                    "name": "Noa HOGARTH"
+                },
+                {
+                    "winner": "Noa HOGARTH"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "HKG",
+                    "name": "Wing Yat YEUNG"
+                },
+                {
+                    "country": "AUS",
+                    "name": "Noa HOGARTH"
+                }
+            ]
+        ],
+        "final_winner": "Noa HOGARTH"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "AUS",
+                    "name": "Alexander JONES"
+                },
+                {
+                    "winner": "Alexander JONES"
+                }
+            ],
+            [
+                {
+                    "country": "AUS",
+                    "name": "Denis HUDEC"
+                },
+                {
+                    "country": "KOR",
+                    "name": "Jaejun LEE"
+                },
+                {
+                    "winner": "Jaejun LEE"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "AUS",
+                    "name": "Alexander JONES"
+                },
+                {
+                    "country": "KOR",
+                    "name": "Jaejun LEE"
+                }
+            ]
+        ],
+        "final_winner": "Jaejun LEE"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "AUS",
+                    "name": "Charlie NEWMAN"
+                },
+                {
+                    "country": "AUS",
+                    "name": "Dylan EAMES"
+                },
+                {
+                    "winner": "Charlie NEWMAN"
+                }
+            ],
+            [
+                {
+                    "country": "HKG",
+                    "name": "Wing Yat YEUNG"
+                },
+                {
+                    "country": "AUS",
+                    "name": "Alexander JONES"
+                },
+                {
+                    "winner": "Alexander JONES"
+                }
+            ],
+            [
+                {
+                    "country": "AUS",
+                    "name": "Charlie NEWMAN"
+                },
+                {
+                    "country": "AUS",
+                    "name": "Noa HOGARTH"
+                },
+                {
+                    "winner": "Noa HOGARTH"
+                }
+            ],
+            [
+                {
+                    "country": "AUS",
+                    "name": "Alexander JONES"
+                },
+                {
+                    "country": "NZL",
+                    "name": "Conrad HYNES"
+                },
+                {
+                    "winner": "Alexander JONES"
+                }
+            ],
+            [
+                {
+                    "country": "AUS",
+                    "name": "Noa HOGARTH"
+                }
+            ],
+            [
+                {
+                    "country": "AUS",
+                    "name": "Alexander JONES"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Noa HOGARTH",
+            "Alexander JONES"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "NZL",
+                    "name": "Conrad HYNES"
+                },
+                {
+                    "country": "AUS",
+                    "name": "Maxwell ZOLLINGER"
+                },
+                {
+                    "winner": "Maxwell ZOLLINGER"
+                }
+            ],
+            [
+                {
+                    "country": "AUS",
+                    "name": "Noa HOGARTH"
+                },
+                {
+                    "country": "KOR",
+                    "name": "Jaejun LEE"
+                },
+                {
+                    "winner": "Jaejun LEE"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "AUS",
+                    "name": "Maxwell ZOLLINGER"
+                },
+                {
+                    "country": "KOR",
+                    "name": "Jaejun LEE"
+                }
+            ]
+        ],
+        "final_winner": "Jaejun LEE"
+    }
+}

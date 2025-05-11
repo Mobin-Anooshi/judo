@@ -1,0 +1,261 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CHI",
+                    "name": "Noel MUNOZ"
+                },
+                {
+                    "winner": "Noel MUNOZ"
+                }
+            ],
+            []
+        ],
+        "round 1-1": [],
+        "final_winner": "Noel MUNOZ"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Gustavo MILANO"
+                },
+                {
+                    "winner": "Gustavo MILANO"
+                }
+            ],
+            [
+                {
+                    "country": "PUR",
+                    "name": "Derik RODRIGUEZ"
+                },
+                {
+                    "winner": "Derik RODRIGUEZ"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Gustavo MILANO"
+                },
+                {
+                    "country": "PUR",
+                    "name": "Derik RODRIGUEZ"
+                }
+            ]
+        ],
+        "final_winner": "Gustavo MILANO"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "USA",
+                    "name": "Harutyun MUTAFYAN"
+                },
+                {
+                    "winner": "Harutyun MUTAFYAN"
+                }
+            ],
+            [
+                {
+                    "country": "USA",
+                    "name": "Daniel LIUBIMOVSKI"
+                },
+                {
+                    "winner": "Daniel LIUBIMOVSKI"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "USA",
+                    "name": "Harutyun MUTAFYAN"
+                },
+                {
+                    "country": "USA",
+                    "name": "Daniel LIUBIMOVSKI"
+                }
+            ]
+        ],
+        "final_winner": "Daniel LIUBIMOVSKI"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "MEX",
+                    "name": "Jeremy OLIVARES"
+                },
+                {
+                    "winner": "Jeremy OLIVARES"
+                }
+            ],
+            [
+                {
+                    "country": "CAN",
+                    "name": "Alec GARAND"
+                },
+                {
+                    "winner": "Alec GARAND"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "MEX",
+                    "name": "Jeremy OLIVARES"
+                },
+                {
+                    "country": "CAN",
+                    "name": "Alec GARAND"
+                }
+            ]
+        ],
+        "final_winner": "Jeremy OLIVARES"
+    },
+    "REPECHAGE": {
+        "round 1-4": [
+            [],
+            [
+                {
+                    "country": "PUR",
+                    "name": "Derik RODRIGUEZ"
+                },
+                {
+                    "winner": "Derik RODRIGUEZ"
+                }
+            ],
+            [
+                {
+                    "country": "USA",
+                    "name": "Harutyun MUTAFYAN"
+                },
+                {
+                    "winner": "Harutyun MUTAFYAN"
+                }
+            ],
+            [
+                {
+                    "country": "CAN",
+                    "name": "Alec GARAND"
+                },
+                {
+                    "winner": "Alec GARAND"
+                }
+            ]
+        ],
+        "round 1-2": [
+            [
+                {
+                    "country": "PUR",
+                    "name": "Derik RODRIGUEZ"
+                }
+            ],
+            [
+                {
+                    "country": "USA",
+                    "name": "Harutyun MUTAFYAN"
+                },
+                {
+                    "country": "CAN",
+                    "name": "Alec GARAND"
+                },
+                {
+                    "winner": "Alec GARAND"
+                }
+            ],
+            [
+                {
+                    "country": "PUR",
+                    "name": "Derik RODRIGUEZ"
+                },
+                {
+                    "country": "MEX",
+                    "name": "Jeremy OLIVARES"
+                },
+                {
+                    "winner": "Jeremy OLIVARES"
+                }
+            ],
+            [
+                {
+                    "country": "CAN",
+                    "name": "Alec GARAND"
+                },
+                {
+                    "country": "CHI",
+                    "name": "Noel MUNOZ"
+                },
+                {
+                    "winner": "Alec GARAND"
+                }
+            ],
+            [
+                {
+                    "country": "MEX",
+                    "name": "Jeremy OLIVARES"
+                }
+            ],
+            [
+                {
+                    "country": "CAN",
+                    "name": "Alec GARAND"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Jeremy OLIVARES",
+            "Alec GARAND"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CHI",
+                    "name": "Noel MUNOZ"
+                },
+                {
+                    "country": "BRA",
+                    "name": "Gustavo MILANO"
+                },
+                {
+                    "winner": "Gustavo MILANO"
+                }
+            ],
+            [
+                {
+                    "country": "USA",
+                    "name": "Daniel LIUBIMOVSKI"
+                },
+                {
+                    "country": "MEX",
+                    "name": "Jeremy OLIVARES"
+                },
+                {
+                    "winner": "Daniel LIUBIMOVSKI"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Gustavo MILANO"
+                },
+                {
+                    "country": "USA",
+                    "name": "Daniel LIUBIMOVSKI"
+                }
+            ]
+        ],
+        "final_winner": "Gustavo MILANO"
+    }
+}

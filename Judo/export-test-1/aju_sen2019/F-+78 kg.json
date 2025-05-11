@@ -1,0 +1,239 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "TUN",
+                    "name": "Nihel CHEIKH ROUHOU"
+                },
+                {
+                    "winner": "Nihel CHEIKH ROUHOU"
+                }
+            ],
+            [
+                {
+                    "country": "MRI",
+                    "name": "Tracy DURHONE"
+                },
+                {
+                    "country": "SEY",
+                    "name": "Marie-Annette VIDOT"
+                },
+                {
+                    "winner": "Tracy DURHONE"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "TUN",
+                    "name": "Nihel CHEIKH ROUHOU"
+                },
+                {
+                    "country": "MRI",
+                    "name": "Tracy DURHONE"
+                }
+            ]
+        ],
+        "final_winner": "Nihel CHEIKH ROUHOU"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [],
+            [
+                {
+                    "country": "EGY",
+                    "name": "Kariman SHAFIK"
+                },
+                {
+                    "winner": "Kariman SHAFIK"
+                }
+            ]
+        ],
+        "round 1-1": [],
+        "final_winner": "Kariman SHAFIK"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CMR",
+                    "name": "Hortence Vanessa MBALLA ATANGANA"
+                },
+                {
+                    "winner": "Hortence Vanessa MBALLA ATANGANA"
+                }
+            ],
+            [
+                {
+                    "country": "EGY",
+                    "name": "Salma ELSHAZLY"
+                },
+                {
+                    "winner": "Salma ELSHAZLY"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "CMR",
+                    "name": "Hortence Vanessa MBALLA ATANGANA"
+                },
+                {
+                    "country": "EGY",
+                    "name": "Salma ELSHAZLY"
+                }
+            ]
+        ],
+        "final_winner": "Hortence Vanessa MBALLA ATANGANA"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ALG",
+                    "name": "Sonia ASSELAH"
+                },
+                {
+                    "winner": "Sonia ASSELAH"
+                }
+            ],
+            [
+                {
+                    "country": "CPV",
+                    "name": "Adysangela MONIZ"
+                },
+                {
+                    "country": "MRI",
+                    "name": "Anielle FRANCOIS"
+                },
+                {
+                    "winner": "Anielle FRANCOIS"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "ALG",
+                    "name": "Sonia ASSELAH"
+                },
+                {
+                    "country": "MRI",
+                    "name": "Anielle FRANCOIS"
+                }
+            ]
+        ],
+        "final_winner": "Sonia ASSELAH"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "MRI",
+                    "name": "Tracy DURHONE"
+                }
+            ],
+            [
+                {
+                    "country": "EGY",
+                    "name": "Salma ELSHAZLY"
+                },
+                {
+                    "country": "MRI",
+                    "name": "Anielle FRANCOIS"
+                },
+                {
+                    "winner": "Salma ELSHAZLY"
+                }
+            ],
+            [
+                {
+                    "country": "MRI",
+                    "name": "Tracy DURHONE"
+                },
+                {
+                    "country": "ALG",
+                    "name": "Sonia ASSELAH"
+                },
+                {
+                    "winner": "Sonia ASSELAH"
+                }
+            ],
+            [
+                {
+                    "country": "EGY",
+                    "name": "Salma ELSHAZLY"
+                },
+                {
+                    "country": "EGY",
+                    "name": "Kariman SHAFIK"
+                },
+                {
+                    "winner": "Kariman SHAFIK"
+                }
+            ],
+            [
+                {
+                    "country": "ALG",
+                    "name": "Sonia ASSELAH"
+                }
+            ],
+            [
+                {
+                    "country": "EGY",
+                    "name": "Kariman SHAFIK"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Sonia ASSELAH",
+            "Kariman SHAFIK"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "TUN",
+                    "name": "Nihel CHEIKH ROUHOU"
+                },
+                {
+                    "country": "EGY",
+                    "name": "Kariman SHAFIK"
+                },
+                {
+                    "winner": "Nihel CHEIKH ROUHOU"
+                }
+            ],
+            [
+                {
+                    "country": "CMR",
+                    "name": "Hortence Vanessa MBALLA ATANGANA"
+                },
+                {
+                    "country": "ALG",
+                    "name": "Sonia ASSELAH"
+                },
+                {
+                    "winner": "Hortence Vanessa MBALLA ATANGANA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "TUN",
+                    "name": "Nihel CHEIKH ROUHOU"
+                },
+                {
+                    "country": "CMR",
+                    "name": "Hortence Vanessa MBALLA ATANGANA"
+                }
+            ]
+        ],
+        "final_winner": "Nihel CHEIKH ROUHOU"
+    }
+}

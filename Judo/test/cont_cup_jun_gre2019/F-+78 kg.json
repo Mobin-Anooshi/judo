@@ -1,0 +1,244 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "POL",
+                    "name": "Kinga WOLSZCZAK"
+                },
+                {
+                    "winner": "Kinga WOLSZCZAK"
+                }
+            ],
+            []
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "POL",
+                    "name": "Kinga WOLSZCZAK"
+                }
+            ]
+        ]
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "GRE",
+                    "name": "Elli NIKA"
+                },
+                {
+                    "winner": "Elli NIKA"
+                }
+            ],
+            [
+                {
+                    "country": "TUR",
+                    "name": "Mine KALENDER"
+                },
+                {
+                    "winner": "Mine KALENDER"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "GRE",
+                    "name": "Elli NIKA"
+                },
+                {
+                    "country": "TUR",
+                    "name": "Mine KALENDER"
+                }
+            ],
+            [
+                {
+                    "country": "TUR",
+                    "name": "Mine KALENDER"
+                }
+            ]
+        ]
+    },
+    "POOL C": {
+        "round 1-2": [
+            [],
+            [
+                {
+                    "country": "TUR",
+                    "name": "Sevda TASLI"
+                },
+                {
+                    "winner": "Sevda TASLI"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "TUR",
+                    "name": "Sevda TASLI"
+                }
+            ]
+        ]
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "GRE",
+                    "name": "Aliki ALEXANDRIDI"
+                },
+                {
+                    "winner": "Aliki ALEXANDRIDI"
+                }
+            ],
+            [
+                {
+                    "country": "TUR",
+                    "name": "Yagmur SENGUL"
+                },
+                {
+                    "winner": "Yagmur SENGUL"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "GRE",
+                    "name": "Aliki ALEXANDRIDI"
+                },
+                {
+                    "country": "TUR",
+                    "name": "Yagmur SENGUL"
+                }
+            ],
+            [
+                {
+                    "country": "TUR",
+                    "name": "Yagmur SENGUL"
+                }
+            ]
+        ]
+    },
+    "REPECHAGE": {
+        "round 1-4": [
+            [],
+            [
+                {
+                    "country": "GRE",
+                    "name": "Elli NIKA"
+                },
+                {
+                    "winner": "Elli NIKA"
+                }
+            ],
+            [],
+            [
+                {
+                    "country": "GRE",
+                    "name": "Aliki ALEXANDRIDI"
+                },
+                {
+                    "winner": "Aliki ALEXANDRIDI"
+                }
+            ]
+        ],
+        "round 1-2": [
+            [
+                {
+                    "country": "GRE",
+                    "name": "Elli NIKA"
+                }
+            ],
+            [
+                {
+                    "country": "GRE",
+                    "name": "Aliki ALEXANDRIDI"
+                }
+            ],
+            [
+                {
+                    "country": "GRE",
+                    "name": "Elli NIKA"
+                },
+                {
+                    "country": "TUR",
+                    "name": "Yagmur SENGUL"
+                }
+            ],
+            [
+                {
+                    "country": "GRE",
+                    "name": "Aliki ALEXANDRIDI"
+                },
+                {
+                    "country": "POL",
+                    "name": "Kinga WOLSZCZAK"
+                }
+            ],
+            [
+                {
+                    "country": "TUR",
+                    "name": "Yagmur SENGUL"
+                }
+            ],
+            [
+                {
+                    "country": "POL",
+                    "name": "Kinga WOLSZCZAK"
+                }
+            ]
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "POL",
+                    "name": "Kinga WOLSZCZAK"
+                },
+                {
+                    "country": "TUR",
+                    "name": "Mine KALENDER"
+                },
+                {
+                    "winner": "Mine KALENDER"
+                }
+            ],
+            [
+                {
+                    "country": "TUR",
+                    "name": "Sevda TASLI"
+                },
+                {
+                    "country": "TUR",
+                    "name": "Yagmur SENGUL"
+                },
+                {
+                    "winner": "Sevda TASLI"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "TUR",
+                    "name": "Mine KALENDER"
+                },
+                {
+                    "country": "TUR",
+                    "name": "Sevda TASLI"
+                }
+            ],
+            [
+                {
+                    "country": "TUR",
+                    "name": "Mine KALENDER"
+                }
+            ]
+        ]
+    }
+}

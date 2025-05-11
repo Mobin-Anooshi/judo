@@ -1,0 +1,265 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "DOM",
+                    "name": "Robert FLORENTINO"
+                },
+                {
+                    "winner": "Robert FLORENTINO"
+                }
+            ],
+            [
+                {
+                    "country": "USA",
+                    "name": "Alexander KNAUF"
+                },
+                {
+                    "winner": "Alexander KNAUF"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "DOM",
+                    "name": "Robert FLORENTINO"
+                },
+                {
+                    "country": "USA",
+                    "name": "Alexander KNAUF"
+                }
+            ]
+        ],
+        "final_winner": "Robert FLORENTINO"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Rafael MACEDO"
+                },
+                {
+                    "winner": "Rafael MACEDO"
+                }
+            ],
+            [
+                {
+                    "country": "VEN",
+                    "name": "Carlos PAEZ"
+                },
+                {
+                    "country": "CHI",
+                    "name": "Daniel ARANCIBIA"
+                },
+                {
+                    "winner": "Carlos PAEZ"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Rafael MACEDO"
+                },
+                {
+                    "country": "VEN",
+                    "name": "Carlos PAEZ"
+                }
+            ]
+        ],
+        "final_winner": "Rafael MACEDO"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CUB",
+                    "name": "Ivan Felipe SILVA MORALES"
+                },
+                {
+                    "winner": "Ivan Felipe SILVA MORALES"
+                }
+            ],
+            [
+                {
+                    "country": "USA",
+                    "name": "Geronimo SAUCEDO"
+                },
+                {
+                    "winner": "Geronimo SAUCEDO"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "CUB",
+                    "name": "Ivan Felipe SILVA MORALES"
+                },
+                {
+                    "country": "USA",
+                    "name": "Geronimo SAUCEDO"
+                }
+            ]
+        ],
+        "final_winner": "Ivan Felipe SILVA MORALES"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "COL",
+                    "name": "Daniel PAZ ALBARRACIN"
+                },
+                {
+                    "winner": "Daniel PAZ ALBARRACIN"
+                }
+            ],
+            [
+                {
+                    "country": "MEX",
+                    "name": "Angel GARCIA"
+                },
+                {
+                    "country": "ARG",
+                    "name": "Mariano COTO BERSIER"
+                },
+                {
+                    "winner": "Mariano COTO BERSIER"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "COL",
+                    "name": "Daniel PAZ ALBARRACIN"
+                },
+                {
+                    "country": "ARG",
+                    "name": "Mariano COTO BERSIER"
+                }
+            ]
+        ],
+        "final_winner": "Mariano COTO BERSIER"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "USA",
+                    "name": "Alexander KNAUF"
+                },
+                {
+                    "country": "VEN",
+                    "name": "Carlos PAEZ"
+                },
+                {
+                    "winner": "Alexander KNAUF"
+                }
+            ],
+            [
+                {
+                    "country": "USA",
+                    "name": "Geronimo SAUCEDO"
+                },
+                {
+                    "country": "COL",
+                    "name": "Daniel PAZ ALBARRACIN"
+                },
+                {
+                    "winner": "Daniel PAZ ALBARRACIN"
+                }
+            ],
+            [
+                {
+                    "country": "USA",
+                    "name": "Alexander KNAUF"
+                },
+                {
+                    "country": "ARG",
+                    "name": "Mariano COTO BERSIER"
+                },
+                {
+                    "winner": "Alexander KNAUF"
+                }
+            ],
+            [
+                {
+                    "country": "COL",
+                    "name": "Daniel PAZ ALBARRACIN"
+                },
+                {
+                    "country": "DOM",
+                    "name": "Robert FLORENTINO"
+                },
+                {
+                    "winner": "Robert FLORENTINO"
+                }
+            ],
+            [
+                {
+                    "country": "USA",
+                    "name": "Alexander KNAUF"
+                }
+            ],
+            [
+                {
+                    "country": "DOM",
+                    "name": "Robert FLORENTINO"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Alexander KNAUF",
+            "Robert FLORENTINO"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "DOM",
+                    "name": "Robert FLORENTINO"
+                },
+                {
+                    "country": "BRA",
+                    "name": "Rafael MACEDO"
+                },
+                {
+                    "winner": "Rafael MACEDO"
+                }
+            ],
+            [
+                {
+                    "country": "CUB",
+                    "name": "Ivan Felipe SILVA MORALES"
+                },
+                {
+                    "country": "ARG",
+                    "name": "Mariano COTO BERSIER"
+                },
+                {
+                    "winner": "Ivan Felipe SILVA MORALES"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Rafael MACEDO"
+                },
+                {
+                    "country": "CUB",
+                    "name": "Ivan Felipe SILVA MORALES"
+                }
+            ]
+        ],
+        "final_winner": "Ivan Felipe SILVA MORALES"
+    }
+}

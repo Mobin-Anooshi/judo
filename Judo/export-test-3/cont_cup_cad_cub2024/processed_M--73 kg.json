@@ -1,0 +1,87 @@
+{
+    "POOL A": {
+        "round 1-3": [
+            [
+                {
+                    "country": "USA",
+                    "name": "Sebastian RAMIREZ"
+                },
+                {
+                    "country": "CUB",
+                    "name": "Jose SANCHEZ LOPEZ"
+                },
+                {
+                    "winner": "Sebastian RAMIREZ"
+                }
+            ],
+            [
+                {
+                    "country": "USA",
+                    "name": "Sebastian RAMIREZ"
+                },
+                {
+                    "country": "USA",
+                    "name": "Jared NAVARRO"
+                },
+                {
+                    "winner": "Jared NAVARRO"
+                }
+            ],
+            [
+                {
+                    "country": "CUB",
+                    "name": "Jose SANCHEZ LOPEZ"
+                },
+                {
+                    "country": "USA",
+                    "name": "Jared NAVARRO"
+                },
+                {
+                    "winner": "Jose SANCHEZ LOPEZ"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Jose SANCHEZ LOPEZ",
+            "Jared NAVARRO"
+        ]
+    },
+    "POOL B": {
+        "round 1-1": [],
+        "final_winners": [
+            "Anthony FARNOT"
+        ]
+    },
+    "REPECHAGE": {
+        "round 1-1": [
+            [
+                {
+                    "country": "CUB",
+                    "name": "Jose SANCHEZ LOPEZ"
+                },
+                {
+                    "country": "CUB",
+                    "name": "Kevin GOMEZ TAMAYO"
+                },
+                {
+                    "winner": "Kevin GOMEZ TAMAYO"
+                }
+            ],
+            [
+                {
+                    "country": "CUB",
+                    "name": "Kevin GOMEZ TAMAYO"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Kevin GOMEZ TAMAYO"
+        ]
+    },
+    "FINALS": {
+        "round 1-1": [],
+        "final_winners": [
+            "Anthony FARNOT"
+        ]
+    }
+}

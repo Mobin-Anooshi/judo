@@ -1,0 +1,135 @@
+{
+    "POOL A": {
+        "round 1-1": [],
+        "final_winner": "Katarina Lucija VUKOVIC"
+    },
+    "POOL B": {
+        "round 1-1": [
+            [
+                {
+                    "country": "CRO",
+                    "name": "Tina RADIC"
+                },
+                {
+                    "country": "FRA",
+                    "name": "Stessie BASTAREAUD"
+                }
+            ]
+        ],
+        "final_winner": "Stessie BASTAREAUD"
+    },
+    "POOL C": {
+        "round 1-1": [],
+        "final_winner": "Eleonora GHETTI"
+    },
+    "POOL D": {
+        "round 1-1": [
+            [
+                {
+                    "country": "GER",
+                    "name": "Rahel KRAUSE"
+                },
+                {
+                    "country": "CRO",
+                    "name": "Helena VUKOVIC"
+                }
+            ]
+        ],
+        "final_winner": "Helena VUKOVIC"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CRO",
+                    "name": "Tina RADIC"
+                }
+            ],
+            [
+                {
+                    "country": "GER",
+                    "name": "Rahel KRAUSE"
+                }
+            ],
+            [
+                {
+                    "country": "CRO",
+                    "name": "Tina RADIC"
+                },
+                {
+                    "country": "ITA",
+                    "name": "Eleonora GHETTI"
+                },
+                {
+                    "winner": "Tina RADIC"
+                }
+            ],
+            [
+                {
+                    "country": "GER",
+                    "name": "Rahel KRAUSE"
+                },
+                {
+                    "country": "CRO",
+                    "name": "Katarina Lucija VUKOVIC"
+                },
+                {
+                    "winner": "Katarina Lucija VUKOVIC"
+                }
+            ],
+            [
+                {
+                    "country": "CRO",
+                    "name": "Katarina Lucija VUKOVIC"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Rahel KRAUSE",
+            "Tina RADIC"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CRO",
+                    "name": "Katarina Lucija VUKOVIC"
+                },
+                {
+                    "country": "FRA",
+                    "name": "Stessie BASTAREAUD"
+                },
+                {
+                    "winner": "Stessie BASTAREAUD"
+                }
+            ],
+            [
+                {
+                    "country": "ITA",
+                    "name": "Eleonora GHETTI"
+                },
+                {
+                    "country": "CRO",
+                    "name": "Helena VUKOVIC"
+                },
+                {
+                    "winner": "Helena VUKOVIC"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "FRA",
+                    "name": "Stessie BASTAREAUD"
+                },
+                {
+                    "country": "CRO",
+                    "name": "Helena VUKOVIC"
+                }
+            ]
+        ],
+        "final_winner": "Stessie BASTAREAUD"
+    }
+}

@@ -1,0 +1,68 @@
+{
+    "ROUND 1": {
+        "round 1-2": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Rafael SILVA"
+                },
+                {
+                    "country": "CHI",
+                    "name": "Patricio URRA"
+                },
+                {
+                    "winner": "Rafael SILVA"
+                }
+            ],
+            [
+                {
+                    "country": "ECU",
+                    "name": "Freddy FIGUEROA"
+                },
+                {
+                    "country": "USA",
+                    "name": "Philip HORIUCHI"
+                },
+                {
+                    "winner": "Freddy FIGUEROA"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Rafael SILVA",
+            "Freddy FIGUEROA"
+        ]
+    },
+    "REPECHAGE": {
+        "round 1-1": [
+            [
+                {
+                    "country": "CHI",
+                    "name": "Patricio URRA"
+                },
+                {
+                    "country": "USA",
+                    "name": "Philip HORIUCHI"
+                },
+                {
+                    "winner": "Philip HORIUCHI"
+                }
+            ],
+            [
+                {
+                    "country": "USA",
+                    "name": "Philip HORIUCHI"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Philip HORIUCHI"
+        ]
+    },
+    "FINALS": {
+        "round 1-1": [],
+        "final_winners": [
+            "Rafael SILVA"
+        ]
+    }
+}

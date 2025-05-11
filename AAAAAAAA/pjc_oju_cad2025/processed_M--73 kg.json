@@ -1,0 +1,177 @@
+{
+    "POOL A": {
+        "round 1-1": [
+            [
+                {
+                    "country": "CAN",
+                    "name": "Lowan LE BRIS"
+                },
+                {
+                    "country": "COL",
+                    "name": "Yeison QUEJADA MORENO"
+                }
+            ]
+        ],
+        "final_winner": "Lowan LE BRIS"
+    },
+    "POOL B": {
+        "round 1-1": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Joao Gabriel MOURA"
+                },
+                {
+                    "country": "ECU",
+                    "name": "Sair VALDIVIESO"
+                }
+            ]
+        ],
+        "final_winner": "Joao Gabriel MOURA"
+    },
+    "POOL C": {
+        "round 1-1": [
+            [
+                {
+                    "country": "PER",
+                    "name": "Jose VILLANUEVA"
+                },
+                {
+                    "country": "USA",
+                    "name": "Luka TSIKARISHVILI"
+                }
+            ]
+        ],
+        "final_winner": "Luka TSIKARISHVILI"
+    },
+    "POOL D": {
+        "round 1-1": [
+            [
+                {
+                    "country": "CHI",
+                    "name": "Sebastian TALAMILLA"
+                },
+                {
+                    "country": "PAR",
+                    "name": "Enzo PERALTA"
+                }
+            ]
+        ],
+        "final_winner": "Sebastian TALAMILLA"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "COL",
+                    "name": "Yeison QUEJADA MORENO"
+                },
+                {
+                    "country": "ECU",
+                    "name": "Sair VALDIVIESO"
+                },
+                {
+                    "winner": "Yeison QUEJADA MORENO"
+                }
+            ],
+            [
+                {
+                    "country": "PER",
+                    "name": "Jose VILLANUEVA"
+                },
+                {
+                    "country": "PAR",
+                    "name": "Enzo PERALTA"
+                },
+                {
+                    "winner": "Enzo PERALTA"
+                }
+            ],
+            [
+                {
+                    "country": "COL",
+                    "name": "Yeison QUEJADA MORENO"
+                },
+                {
+                    "country": "CHI",
+                    "name": "Sebastian TALAMILLA"
+                },
+                {
+                    "winner": "Yeison QUEJADA MORENO"
+                }
+            ],
+            [
+                {
+                    "country": "PAR",
+                    "name": "Enzo PERALTA"
+                },
+                {
+                    "country": "CAN",
+                    "name": "Lowan LE BRIS"
+                },
+                {
+                    "winner": "Lowan LE BRIS"
+                }
+            ],
+            [
+                {
+                    "country": "COL",
+                    "name": "Yeison QUEJADA MORENO"
+                }
+            ],
+            [
+                {
+                    "country": "CAN",
+                    "name": "Lowan LE BRIS"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Yeison QUEJADA MORENO",
+            "Lowan LE BRIS"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CAN",
+                    "name": "Lowan LE BRIS"
+                },
+                {
+                    "country": "BRA",
+                    "name": "Joao Gabriel MOURA"
+                },
+                {
+                    "winner": "Joao Gabriel MOURA"
+                }
+            ],
+            [
+                {
+                    "country": "USA",
+                    "name": "Luka TSIKARISHVILI"
+                },
+                {
+                    "country": "CHI",
+                    "name": "Sebastian TALAMILLA"
+                },
+                {
+                    "winner": "Luka TSIKARISHVILI"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Joao Gabriel MOURA"
+                },
+                {
+                    "country": "USA",
+                    "name": "Luka TSIKARISHVILI"
+                }
+            ]
+        ],
+        "final_winner": "Joao Gabriel MOURA"
+    }
+}

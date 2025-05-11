@@ -1,0 +1,159 @@
+{
+    "POOL A": {
+        "round 1-1": [],
+        "final_winner": "Agustina DE LUCIA"
+    },
+    "POOL B": {
+        "round 1-1": [
+            [
+                {
+                    "country": "ARG",
+                    "name": "Belen TITTARELLI"
+                },
+                {
+                    "country": "CHI",
+                    "name": "Fernanda CORNEJO"
+                }
+            ]
+        ],
+        "final_winner": "Belen TITTARELLI"
+    },
+    "POOL C": {
+        "round 1-1": [
+            [
+                {
+                    "country": "CHI",
+                    "name": "Constanza PEREZ"
+                },
+                {
+                    "country": "URU",
+                    "name": "Martina HOWARD"
+                }
+            ]
+        ],
+        "final_winner": "Constanza PEREZ"
+    },
+    "POOL D": {
+        "round 1-1": [
+            [
+                {
+                    "country": "ARG",
+                    "name": "Fiona CUNEO"
+                },
+                {
+                    "country": "CHI",
+                    "name": "Allyson QUEVEDO"
+                }
+            ]
+        ],
+        "final_winner": "Fiona CUNEO"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CHI",
+                    "name": "Fernanda CORNEJO"
+                }
+            ],
+            [
+                {
+                    "country": "URU",
+                    "name": "Martina HOWARD"
+                },
+                {
+                    "country": "CHI",
+                    "name": "Allyson QUEVEDO"
+                },
+                {
+                    "winner": "Allyson QUEVEDO"
+                }
+            ],
+            [
+                {
+                    "country": "CHI",
+                    "name": "Fernanda CORNEJO"
+                },
+                {
+                    "country": "CHI",
+                    "name": "Constanza PEREZ"
+                },
+                {
+                    "winner": "Constanza PEREZ"
+                }
+            ],
+            [
+                {
+                    "country": "CHI",
+                    "name": "Allyson QUEVEDO"
+                },
+                {
+                    "country": "ARG",
+                    "name": "Belen TITTARELLI"
+                },
+                {
+                    "winner": "Belen TITTARELLI"
+                }
+            ],
+            [
+                {
+                    "country": "CHI",
+                    "name": "Constanza PEREZ"
+                }
+            ],
+            [
+                {
+                    "country": "ARG",
+                    "name": "Belen TITTARELLI"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Constanza PEREZ",
+            "Belen TITTARELLI"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ARG",
+                    "name": "Agustina DE LUCIA"
+                },
+                {
+                    "country": "ARG",
+                    "name": "Belen TITTARELLI"
+                },
+                {
+                    "winner": "Agustina DE LUCIA"
+                }
+            ],
+            [
+                {
+                    "country": "CHI",
+                    "name": "Constanza PEREZ"
+                },
+                {
+                    "country": "ARG",
+                    "name": "Fiona CUNEO"
+                },
+                {
+                    "winner": "Fiona CUNEO"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "ARG",
+                    "name": "Agustina DE LUCIA"
+                },
+                {
+                    "country": "ARG",
+                    "name": "Fiona CUNEO"
+                }
+            ]
+        ],
+        "final_winner": "Agustina DE LUCIA"
+    }
+}

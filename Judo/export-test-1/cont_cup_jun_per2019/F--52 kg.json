@@ -1,0 +1,221 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "PAN",
+                    "name": "Anna TIRADO"
+                },
+                {
+                    "winner": "Anna TIRADO"
+                }
+            ],
+            []
+        ],
+        "round 1-1": [],
+        "final_winner": "Anna TIRADO"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CHI",
+                    "name": "Elizabeth SEGURA"
+                },
+                {
+                    "winner": "Elizabeth SEGURA"
+                }
+            ],
+            [
+                {
+                    "country": "PER",
+                    "name": "Marian UGARTE GARCIA"
+                },
+                {
+                    "winner": "Marian UGARTE GARCIA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "CHI",
+                    "name": "Elizabeth SEGURA"
+                },
+                {
+                    "country": "PER",
+                    "name": "Marian UGARTE GARCIA"
+                }
+            ]
+        ],
+        "final_winner": "Elizabeth SEGURA"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [],
+            [
+                {
+                    "country": "PER",
+                    "name": "Charlotte BURGOS"
+                },
+                {
+                    "winner": "Charlotte BURGOS"
+                }
+            ]
+        ],
+        "round 1-1": [],
+        "final_winner": "Charlotte BURGOS"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CHI",
+                    "name": "Antonia VELASQUEZ"
+                },
+                {
+                    "winner": "Antonia VELASQUEZ"
+                }
+            ],
+            [
+                {
+                    "country": "PER",
+                    "name": "Flor ZAMBRANO"
+                },
+                {
+                    "winner": "Flor ZAMBRANO"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "CHI",
+                    "name": "Antonia VELASQUEZ"
+                },
+                {
+                    "country": "PER",
+                    "name": "Flor ZAMBRANO"
+                }
+            ]
+        ],
+        "final_winner": "Antonia VELASQUEZ"
+    },
+    "REPECHAGE": {
+        "round 1-4": [
+            [],
+            [
+                {
+                    "country": "PER",
+                    "name": "Marian UGARTE GARCIA"
+                },
+                {
+                    "winner": "Marian UGARTE GARCIA"
+                }
+            ],
+            [],
+            [
+                {
+                    "country": "PER",
+                    "name": "Flor ZAMBRANO"
+                },
+                {
+                    "winner": "Flor ZAMBRANO"
+                }
+            ]
+        ],
+        "round 1-2": [
+            [
+                {
+                    "country": "PER",
+                    "name": "Marian UGARTE GARCIA"
+                }
+            ],
+            [
+                {
+                    "country": "PER",
+                    "name": "Flor ZAMBRANO"
+                }
+            ],
+            [
+                {
+                    "country": "PER",
+                    "name": "Marian UGARTE GARCIA"
+                },
+                {
+                    "country": "PER",
+                    "name": "Charlotte BURGOS"
+                },
+                {
+                    "winner": "Marian UGARTE GARCIA"
+                }
+            ],
+            [
+                {
+                    "country": "PER",
+                    "name": "Flor ZAMBRANO"
+                },
+                {
+                    "country": "CHI",
+                    "name": "Elizabeth SEGURA"
+                },
+                {
+                    "winner": "Elizabeth SEGURA"
+                }
+            ],
+            [
+                {
+                    "country": "CHI",
+                    "name": "Elizabeth SEGURA"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Flor ZAMBRANO",
+            "Marian UGARTE GARCIA"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "PAN",
+                    "name": "Anna TIRADO"
+                },
+                {
+                    "country": "CHI",
+                    "name": "Elizabeth SEGURA"
+                },
+                {
+                    "winner": "Anna TIRADO"
+                }
+            ],
+            [
+                {
+                    "country": "PER",
+                    "name": "Charlotte BURGOS"
+                },
+                {
+                    "country": "CHI",
+                    "name": "Antonia VELASQUEZ"
+                },
+                {
+                    "winner": "Antonia VELASQUEZ"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "PAN",
+                    "name": "Anna TIRADO"
+                },
+                {
+                    "country": "CHI",
+                    "name": "Antonia VELASQUEZ"
+                }
+            ]
+        ],
+        "final_winner": "Anna TIRADO"
+    }
+}

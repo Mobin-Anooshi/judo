@@ -1,0 +1,153 @@
+{
+    "POOL A": {
+        "round 1-1": [],
+        "final_winner": "Djibo ABDOUL AZIZ"
+    },
+    "POOL B": {
+        "round 1-1": [
+            [
+                {
+                    "country": "CIV",
+                    "name": "Seydou Mohamed DABONE"
+                },
+                {
+                    "country": "GUI",
+                    "name": "Alhassane I I DIALLO"
+                }
+            ]
+        ],
+        "final_winner": "Alhassane I I DIALLO"
+    },
+    "POOL C": {
+        "round 1-1": [
+            [
+                {
+                    "country": "SEN",
+                    "name": "Seydou Bakary DJIMERA"
+                },
+                {
+                    "country": "CIV",
+                    "name": "Essoh Godwin OUTOU"
+                }
+            ]
+        ],
+        "final_winner": "Seydou Bakary DJIMERA"
+    },
+    "POOL D": {
+        "round 1-1": [
+            [
+                {
+                    "country": "CMR",
+                    "name": "Hinmara MOHAMAN SANI"
+                },
+                {
+                    "country": "CIV",
+                    "name": "Bi Christ William Mondesir YOUAN"
+                }
+            ]
+        ],
+        "final_winner": "Hinmara MOHAMAN SANI"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CIV",
+                    "name": "Seydou Mohamed DABONE"
+                }
+            ],
+            [
+                {
+                    "country": "CIV",
+                    "name": "Essoh Godwin OUTOU"
+                },
+                {
+                    "country": "CIV",
+                    "name": "Bi Christ William Mondesir YOUAN"
+                },
+                {
+                    "winner": "Essoh Godwin OUTOU"
+                }
+            ],
+            [
+                {
+                    "country": "CIV",
+                    "name": "Seydou Mohamed DABONE"
+                },
+                {
+                    "country": "CMR",
+                    "name": "Hinmara MOHAMAN SANI"
+                },
+                {
+                    "winner": "Seydou Mohamed DABONE"
+                }
+            ],
+            [
+                {
+                    "country": "CIV",
+                    "name": "Essoh Godwin OUTOU"
+                },
+                {
+                    "country": "GUI",
+                    "name": "Alhassane I I DIALLO"
+                },
+                {
+                    "winner": "Alhassane I I DIALLO"
+                }
+            ],
+            [
+                {
+                    "country": "GUI",
+                    "name": "Alhassane I I DIALLO"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Essoh Godwin OUTOU",
+            "Seydou Mohamed DABONE"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "NIG",
+                    "name": "Djibo ABDOUL AZIZ"
+                },
+                {
+                    "country": "GUI",
+                    "name": "Alhassane I I DIALLO"
+                },
+                {
+                    "winner": "Djibo ABDOUL AZIZ"
+                }
+            ],
+            [
+                {
+                    "country": "SEN",
+                    "name": "Seydou Bakary DJIMERA"
+                },
+                {
+                    "country": "CMR",
+                    "name": "Hinmara MOHAMAN SANI"
+                },
+                {
+                    "winner": "Seydou Bakary DJIMERA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "NIG",
+                    "name": "Djibo ABDOUL AZIZ"
+                },
+                {
+                    "country": "SEN",
+                    "name": "Seydou Bakary DJIMERA"
+                }
+            ]
+        ],
+        "final_winner": "Seydou Bakary DJIMERA"
+    }
+}

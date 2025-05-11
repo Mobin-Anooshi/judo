@@ -1,0 +1,68 @@
+{
+    "ROUND 1": {
+        "round 1-2": [
+            [
+                {
+                    "country": "NZL",
+                    "name": "Zita SPINKS"
+                },
+                {
+                    "country": "AUS",
+                    "name": "Amber RUDGLEY"
+                },
+                {
+                    "winner": "Zita SPINKS"
+                }
+            ],
+            [
+                {
+                    "country": "AUS",
+                    "name": "Maria SWAN"
+                },
+                {
+                    "country": "NZL",
+                    "name": "Cristyn JONES"
+                },
+                {
+                    "winner": "Cristyn JONES"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Zita SPINKS",
+            "Cristyn JONES"
+        ]
+    },
+    "REPECHAGE": {
+        "round 1-1": [
+            [
+                {
+                    "country": "AUS",
+                    "name": "Amber RUDGLEY"
+                },
+                {
+                    "country": "AUS",
+                    "name": "Maria SWAN"
+                },
+                {
+                    "winner": "Amber RUDGLEY"
+                }
+            ],
+            [
+                {
+                    "country": "AUS",
+                    "name": "Amber RUDGLEY"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Amber RUDGLEY"
+        ]
+    },
+    "FINALS": {
+        "round 1-1": [],
+        "final_winners": [
+            "Cristyn JONES"
+        ]
+    }
+}

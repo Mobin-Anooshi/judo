@@ -1,0 +1,177 @@
+{
+    "POOL A": {
+        "round 1-1": [
+            [
+                {
+                    "country": "USA",
+                    "name": "Sara GOLDEN"
+                },
+                {
+                    "country": "KOS",
+                    "name": "Debora GJAKOVA"
+                }
+            ]
+        ],
+        "final_winner": "Debora GJAKOVA"
+    },
+    "POOL B": {
+        "round 1-1": [
+            [
+                {
+                    "country": "CYP",
+                    "name": "Diana DIMITRIOU"
+                },
+                {
+                    "country": "IND",
+                    "name": "Unnati SHARMA"
+                }
+            ]
+        ],
+        "final_winner": "Unnati SHARMA"
+    },
+    "POOL C": {
+        "round 1-1": [
+            [
+                {
+                    "country": "TKM",
+                    "name": "Zulhumar DASHKINOVA"
+                },
+                {
+                    "country": "KOR",
+                    "name": "Jihyeon LEE"
+                }
+            ]
+        ],
+        "final_winner": "Jihyeon LEE"
+    },
+    "POOL D": {
+        "round 1-1": [
+            [
+                {
+                    "country": "SRB",
+                    "name": "Jovana BUNCIC"
+                },
+                {
+                    "country": "IND",
+                    "name": "Himanshi TOKAS"
+                }
+            ]
+        ],
+        "final_winner": "Jovana BUNCIC"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "USA",
+                    "name": "Sara GOLDEN"
+                },
+                {
+                    "country": "CYP",
+                    "name": "Diana DIMITRIOU"
+                },
+                {
+                    "winner": "Sara GOLDEN"
+                }
+            ],
+            [
+                {
+                    "country": "TKM",
+                    "name": "Zulhumar DASHKINOVA"
+                },
+                {
+                    "country": "IND",
+                    "name": "Himanshi TOKAS"
+                },
+                {
+                    "winner": "Himanshi TOKAS"
+                }
+            ],
+            [
+                {
+                    "country": "USA",
+                    "name": "Sara GOLDEN"
+                },
+                {
+                    "country": "KOR",
+                    "name": "Jihyeon LEE"
+                },
+                {
+                    "winner": "Sara GOLDEN"
+                }
+            ],
+            [
+                {
+                    "country": "IND",
+                    "name": "Himanshi TOKAS"
+                },
+                {
+                    "country": "KOS",
+                    "name": "Debora GJAKOVA"
+                },
+                {
+                    "winner": "Debora GJAKOVA"
+                }
+            ],
+            [
+                {
+                    "country": "USA",
+                    "name": "Sara GOLDEN"
+                }
+            ],
+            [
+                {
+                    "country": "KOS",
+                    "name": "Debora GJAKOVA"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Sara GOLDEN",
+            "Debora GJAKOVA"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "KOS",
+                    "name": "Debora GJAKOVA"
+                },
+                {
+                    "country": "IND",
+                    "name": "Unnati SHARMA"
+                },
+                {
+                    "winner": "Unnati SHARMA"
+                }
+            ],
+            [
+                {
+                    "country": "KOR",
+                    "name": "Jihyeon LEE"
+                },
+                {
+                    "country": "SRB",
+                    "name": "Jovana BUNCIC"
+                },
+                {
+                    "winner": "Jovana BUNCIC"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "IND",
+                    "name": "Unnati SHARMA"
+                },
+                {
+                    "country": "SRB",
+                    "name": "Jovana BUNCIC"
+                }
+            ]
+        ],
+        "final_winner": "Jovana BUNCIC"
+    }
+}

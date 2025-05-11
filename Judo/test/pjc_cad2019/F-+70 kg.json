@@ -1,0 +1,274 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Anna SANTOS"
+                },
+                {
+                    "winner": "Anna SANTOS"
+                }
+            ],
+            []
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Anna SANTOS"
+                }
+            ]
+        ]
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "JAM",
+                    "name": "Tamoy CAMPBELL"
+                },
+                {
+                    "winner": "Tamoy CAMPBELL"
+                }
+            ],
+            [
+                {
+                    "country": "GUA",
+                    "name": "Keilly ESTEBAN"
+                },
+                {
+                    "winner": "Keilly ESTEBAN"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "JAM",
+                    "name": "Tamoy CAMPBELL"
+                },
+                {
+                    "country": "GUA",
+                    "name": "Keilly ESTEBAN"
+                }
+            ],
+            [
+                {
+                    "country": "GUA",
+                    "name": "Keilly ESTEBAN"
+                }
+            ]
+        ]
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CAN",
+                    "name": "Asia DOUGLAS"
+                },
+                {
+                    "winner": "Asia DOUGLAS"
+                }
+            ],
+            [
+                {
+                    "country": "MEX",
+                    "name": "Maria LANDA"
+                },
+                {
+                    "winner": "Maria LANDA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "CAN",
+                    "name": "Asia DOUGLAS"
+                },
+                {
+                    "country": "MEX",
+                    "name": "Maria LANDA"
+                }
+            ],
+            [
+                {
+                    "country": "CAN",
+                    "name": "Asia DOUGLAS"
+                }
+            ]
+        ]
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "USA",
+                    "name": "Natalija STANOJEVIC"
+                },
+                {
+                    "winner": "Natalija STANOJEVIC"
+                }
+            ],
+            [
+                {
+                    "country": "COL",
+                    "name": "Lina Marcela OLAYA"
+                },
+                {
+                    "winner": "Lina Marcela OLAYA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "USA",
+                    "name": "Natalija STANOJEVIC"
+                },
+                {
+                    "country": "COL",
+                    "name": "Lina Marcela OLAYA"
+                }
+            ],
+            [
+                {
+                    "country": "USA",
+                    "name": "Natalija STANOJEVIC"
+                }
+            ]
+        ]
+    },
+    "REPECHAGE": {
+        "round 1-4": [
+            [],
+            [
+                {
+                    "country": "JAM",
+                    "name": "Tamoy CAMPBELL"
+                },
+                {
+                    "winner": "Tamoy CAMPBELL"
+                }
+            ],
+            [
+                {
+                    "country": "MEX",
+                    "name": "Maria LANDA"
+                },
+                {
+                    "winner": "Maria LANDA"
+                }
+            ],
+            [
+                {
+                    "country": "COL",
+                    "name": "Lina Marcela OLAYA"
+                },
+                {
+                    "winner": "Lina Marcela OLAYA"
+                }
+            ]
+        ],
+        "round 1-2": [
+            [
+                {
+                    "country": "JAM",
+                    "name": "Tamoy CAMPBELL"
+                }
+            ],
+            [
+                {
+                    "country": "MEX",
+                    "name": "Maria LANDA"
+                },
+                {
+                    "country": "COL",
+                    "name": "Lina Marcela OLAYA"
+                }
+            ],
+            [
+                {
+                    "country": "JAM",
+                    "name": "Tamoy CAMPBELL"
+                },
+                {
+                    "country": "USA",
+                    "name": "Natalija STANOJEVIC"
+                }
+            ],
+            [
+                {
+                    "country": "MEX",
+                    "name": "Maria LANDA"
+                },
+                {
+                    "country": "GUA",
+                    "name": "Keilly ESTEBAN"
+                }
+            ],
+            [
+                {
+                    "country": "USA",
+                    "name": "Natalija STANOJEVIC"
+                }
+            ],
+            [
+                {
+                    "country": "MEX",
+                    "name": "Maria LANDA"
+                }
+            ]
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Anna SANTOS"
+                },
+                {
+                    "country": "GUA",
+                    "name": "Keilly ESTEBAN"
+                },
+                {
+                    "winner": "Anna SANTOS"
+                }
+            ],
+            [
+                {
+                    "country": "CAN",
+                    "name": "Asia DOUGLAS"
+                },
+                {
+                    "country": "USA",
+                    "name": "Natalija STANOJEVIC"
+                },
+                {
+                    "winner": "Asia DOUGLAS"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Anna SANTOS"
+                },
+                {
+                    "country": "CAN",
+                    "name": "Asia DOUGLAS"
+                }
+            ],
+            [
+                {
+                    "country": "BRA",
+                    "name": "Anna SANTOS"
+                }
+            ]
+        ]
+    }
+}

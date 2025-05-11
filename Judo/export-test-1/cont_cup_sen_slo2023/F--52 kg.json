@@ -1,0 +1,153 @@
+{
+    "POOL A": {
+        "round 1-1": [],
+        "final_winner": "Giulia Italia DE LUCA"
+    },
+    "POOL B": {
+        "round 1-1": [
+            [
+                {
+                    "country": "SLO",
+                    "name": "Masa SLAVINEC"
+                },
+                {
+                    "country": "GER",
+                    "name": "Chiara SERRA"
+                }
+            ]
+        ],
+        "final_winner": "Chiara SERRA"
+    },
+    "POOL C": {
+        "round 1-1": [
+            [
+                {
+                    "country": "SUI",
+                    "name": "Michelle FERNANDEZ"
+                },
+                {
+                    "country": "SLO",
+                    "name": "Urska RIZNAR"
+                }
+            ]
+        ],
+        "final_winner": "Michelle FERNANDEZ"
+    },
+    "POOL D": {
+        "round 1-1": [
+            [
+                {
+                    "country": "ISR",
+                    "name": "Gal NAHUM"
+                },
+                {
+                    "country": "HUN",
+                    "name": "Viktoria PAAR"
+                }
+            ]
+        ],
+        "final_winner": "Gal NAHUM"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "SLO",
+                    "name": "Masa SLAVINEC"
+                }
+            ],
+            [
+                {
+                    "country": "SLO",
+                    "name": "Urska RIZNAR"
+                },
+                {
+                    "country": "HUN",
+                    "name": "Viktoria PAAR"
+                },
+                {
+                    "winner": "Urska RIZNAR"
+                }
+            ],
+            [
+                {
+                    "country": "SLO",
+                    "name": "Masa SLAVINEC"
+                },
+                {
+                    "country": "SUI",
+                    "name": "Michelle FERNANDEZ"
+                },
+                {
+                    "winner": "Masa SLAVINEC"
+                }
+            ],
+            [
+                {
+                    "country": "SLO",
+                    "name": "Urska RIZNAR"
+                },
+                {
+                    "country": "ITA",
+                    "name": "Giulia Italia DE LUCA"
+                },
+                {
+                    "winner": "Giulia Italia DE LUCA"
+                }
+            ],
+            [
+                {
+                    "country": "ITA",
+                    "name": "Giulia Italia DE LUCA"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Urska RIZNAR",
+            "Masa SLAVINEC"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ITA",
+                    "name": "Giulia Italia DE LUCA"
+                },
+                {
+                    "country": "GER",
+                    "name": "Chiara SERRA"
+                },
+                {
+                    "winner": "Chiara SERRA"
+                }
+            ],
+            [
+                {
+                    "country": "SUI",
+                    "name": "Michelle FERNANDEZ"
+                },
+                {
+                    "country": "ISR",
+                    "name": "Gal NAHUM"
+                },
+                {
+                    "winner": "Gal NAHUM"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "GER",
+                    "name": "Chiara SERRA"
+                },
+                {
+                    "country": "ISR",
+                    "name": "Gal NAHUM"
+                }
+            ]
+        ],
+        "final_winner": "Gal NAHUM"
+    }
+}

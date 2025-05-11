@@ -1,0 +1,274 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Mariana SILVA"
+                },
+                {
+                    "winner": "Mariana SILVA"
+                }
+            ],
+            [
+                {
+                    "country": "MEX",
+                    "name": "Andrea GUTIERREZ"
+                },
+                {
+                    "winner": "Andrea GUTIERREZ"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Mariana SILVA"
+                },
+                {
+                    "country": "MEX",
+                    "name": "Andrea GUTIERREZ"
+                }
+            ],
+            [
+                {
+                    "country": "BRA",
+                    "name": "Mariana SILVA"
+                }
+            ]
+        ]
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CUB",
+                    "name": "Maylin DEL TORO CARVAJAL"
+                },
+                {
+                    "winner": "Maylin DEL TORO CARVAJAL"
+                }
+            ],
+            [
+                {
+                    "country": "CAN",
+                    "name": "Stefanie TREMBLAY"
+                },
+                {
+                    "country": "ARG",
+                    "name": "Gimena LAFFEUILLADE"
+                },
+                {
+                    "winner": "Stefanie TREMBLAY"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "CUB",
+                    "name": "Maylin DEL TORO CARVAJAL"
+                },
+                {
+                    "country": "CAN",
+                    "name": "Stefanie TREMBLAY"
+                }
+            ],
+            [
+                {
+                    "country": "CAN",
+                    "name": "Stefanie TREMBLAY"
+                }
+            ]
+        ]
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ECU",
+                    "name": "Estefania GARCIA"
+                },
+                {
+                    "winner": "Estefania GARCIA"
+                }
+            ],
+            [
+                {
+                    "country": "COL",
+                    "name": "Diana VELASCO"
+                },
+                {
+                    "country": "GUA",
+                    "name": "Yennifer DOMINGUEZ"
+                },
+                {
+                    "winner": "Diana VELASCO"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "ECU",
+                    "name": "Estefania GARCIA"
+                },
+                {
+                    "country": "COL",
+                    "name": "Diana VELASCO"
+                }
+            ],
+            [
+                {
+                    "country": "ECU",
+                    "name": "Estefania GARCIA"
+                }
+            ]
+        ]
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "USA",
+                    "name": "Hannah MARTIN"
+                },
+                {
+                    "winner": "Hannah MARTIN"
+                }
+            ],
+            [
+                {
+                    "country": "VEN",
+                    "name": "Maria ARTEAGA"
+                },
+                {
+                    "winner": "Maria ARTEAGA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "USA",
+                    "name": "Hannah MARTIN"
+                },
+                {
+                    "country": "VEN",
+                    "name": "Maria ARTEAGA"
+                }
+            ],
+            [
+                {
+                    "country": "USA",
+                    "name": "Hannah MARTIN"
+                }
+            ]
+        ]
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "MEX",
+                    "name": "Andrea GUTIERREZ"
+                },
+                {
+                    "country": "CUB",
+                    "name": "Maylin DEL TORO CARVAJAL"
+                }
+            ],
+            [
+                {
+                    "country": "COL",
+                    "name": "Diana VELASCO"
+                },
+                {
+                    "country": "VEN",
+                    "name": "Maria ARTEAGA"
+                }
+            ],
+            [
+                {
+                    "country": "CUB",
+                    "name": "Maylin DEL TORO CARVAJAL"
+                },
+                {
+                    "country": "USA",
+                    "name": "Hannah MARTIN"
+                }
+            ],
+            [
+                {
+                    "country": "COL",
+                    "name": "Diana VELASCO"
+                },
+                {
+                    "country": "BRA",
+                    "name": "Mariana SILVA"
+                }
+            ],
+            [
+                {
+                    "country": "CUB",
+                    "name": "Maylin DEL TORO CARVAJAL"
+                }
+            ],
+            [
+                {
+                    "country": "BRA",
+                    "name": "Mariana SILVA"
+                }
+            ]
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Mariana SILVA"
+                },
+                {
+                    "country": "CAN",
+                    "name": "Stefanie TREMBLAY"
+                },
+                {
+                    "winner": "Stefanie TREMBLAY"
+                }
+            ],
+            [
+                {
+                    "country": "ECU",
+                    "name": "Estefania GARCIA"
+                },
+                {
+                    "country": "USA",
+                    "name": "Hannah MARTIN"
+                },
+                {
+                    "winner": "Estefania GARCIA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "CAN",
+                    "name": "Stefanie TREMBLAY"
+                },
+                {
+                    "country": "ECU",
+                    "name": "Estefania GARCIA"
+                }
+            ],
+            [
+                {
+                    "country": "ECU",
+                    "name": "Estefania GARCIA"
+                }
+            ]
+        ]
+    }
+}

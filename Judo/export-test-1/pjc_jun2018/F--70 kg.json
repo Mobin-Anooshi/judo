@@ -1,0 +1,261 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Ellen FRONER"
+                },
+                {
+                    "winner": "Ellen FRONER"
+                }
+            ],
+            [
+                {
+                    "country": "VEN",
+                    "name": "Eliana AGUIAR"
+                },
+                {
+                    "winner": "Eliana AGUIAR"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Ellen FRONER"
+                },
+                {
+                    "country": "VEN",
+                    "name": "Eliana AGUIAR"
+                }
+            ]
+        ],
+        "final_winner": "Ellen FRONER"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CAN",
+                    "name": "Coralie GODBOUT"
+                },
+                {
+                    "winner": "Coralie GODBOUT"
+                }
+            ],
+            [
+                {
+                    "country": "ECU",
+                    "name": "Edith ORTIZ"
+                },
+                {
+                    "winner": "Edith ORTIZ"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "CAN",
+                    "name": "Coralie GODBOUT"
+                },
+                {
+                    "country": "ECU",
+                    "name": "Edith ORTIZ"
+                }
+            ]
+        ],
+        "final_winner": "Edith ORTIZ"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "PER",
+                    "name": "Camila FIGUEROA"
+                },
+                {
+                    "winner": "Camila FIGUEROA"
+                }
+            ],
+            []
+        ],
+        "round 1-1": [],
+        "final_winner": "Camila FIGUEROA"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CHI",
+                    "name": "Mackarenna FIGUEROA"
+                },
+                {
+                    "winner": "Mackarenna FIGUEROA"
+                }
+            ],
+            [
+                {
+                    "country": "CAN",
+                    "name": "Brae BOOTH"
+                },
+                {
+                    "winner": "Brae BOOTH"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "CHI",
+                    "name": "Mackarenna FIGUEROA"
+                },
+                {
+                    "country": "CAN",
+                    "name": "Brae BOOTH"
+                }
+            ]
+        ],
+        "final_winner": "Brae BOOTH"
+    },
+    "REPECHAGE": {
+        "round 1-4": [
+            [
+                {
+                    "country": "VEN",
+                    "name": "Eliana AGUIAR"
+                },
+                {
+                    "winner": "Eliana AGUIAR"
+                }
+            ],
+            [
+                {
+                    "country": "CAN",
+                    "name": "Coralie GODBOUT"
+                },
+                {
+                    "winner": "Coralie GODBOUT"
+                }
+            ],
+            [],
+            [
+                {
+                    "country": "CHI",
+                    "name": "Mackarenna FIGUEROA"
+                },
+                {
+                    "winner": "Mackarenna FIGUEROA"
+                }
+            ]
+        ],
+        "round 1-2": [
+            [
+                {
+                    "country": "VEN",
+                    "name": "Eliana AGUIAR"
+                },
+                {
+                    "country": "CAN",
+                    "name": "Coralie GODBOUT"
+                },
+                {
+                    "winner": "Coralie GODBOUT"
+                }
+            ],
+            [
+                {
+                    "country": "CHI",
+                    "name": "Mackarenna FIGUEROA"
+                }
+            ],
+            [
+                {
+                    "country": "CAN",
+                    "name": "Coralie GODBOUT"
+                },
+                {
+                    "country": "CAN",
+                    "name": "Brae BOOTH"
+                },
+                {
+                    "winner": "Coralie GODBOUT"
+                }
+            ],
+            [
+                {
+                    "country": "CHI",
+                    "name": "Mackarenna FIGUEROA"
+                },
+                {
+                    "country": "ECU",
+                    "name": "Edith ORTIZ"
+                },
+                {
+                    "winner": "Edith ORTIZ"
+                }
+            ],
+            [
+                {
+                    "country": "CAN",
+                    "name": "Coralie GODBOUT"
+                }
+            ],
+            [
+                {
+                    "country": "ECU",
+                    "name": "Edith ORTIZ"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Coralie GODBOUT",
+            "Edith ORTIZ"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Ellen FRONER"
+                },
+                {
+                    "country": "ECU",
+                    "name": "Edith ORTIZ"
+                },
+                {
+                    "winner": "Ellen FRONER"
+                }
+            ],
+            [
+                {
+                    "country": "PER",
+                    "name": "Camila FIGUEROA"
+                },
+                {
+                    "country": "CAN",
+                    "name": "Brae BOOTH"
+                },
+                {
+                    "winner": "Camila FIGUEROA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Ellen FRONER"
+                },
+                {
+                    "country": "PER",
+                    "name": "Camila FIGUEROA"
+                }
+            ]
+        ],
+        "final_winner": "Ellen FRONER"
+    }
+}

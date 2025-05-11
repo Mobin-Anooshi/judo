@@ -1,0 +1,177 @@
+{
+    "POOL A": {
+        "round 1-1": [
+            [
+                {
+                    "country": "BDI",
+                    "name": "Divine IRAKOZE"
+                },
+                {
+                    "country": "EGY",
+                    "name": "Farida MAGDY"
+                }
+            ]
+        ],
+        "final_winner": "Farida MAGDY"
+    },
+    "POOL B": {
+        "round 1-1": [
+            [
+                {
+                    "country": "RSA",
+                    "name": "Bernice KLAASSENS"
+                },
+                {
+                    "country": "KEN",
+                    "name": "Mary NJERI"
+                }
+            ]
+        ],
+        "final_winner": "Bernice KLAASSENS"
+    },
+    "POOL C": {
+        "round 1-1": [
+            [
+                {
+                    "country": "EGY",
+                    "name": "Shehata AFNAN"
+                },
+                {
+                    "country": "RSA",
+                    "name": "Shawwal BAGARIA"
+                }
+            ]
+        ],
+        "final_winner": "Shehata AFNAN"
+    },
+    "POOL D": {
+        "round 1-1": [
+            [
+                {
+                    "country": "MAD",
+                    "name": "Aina Laura RASOANAIVO RAZAFY"
+                },
+                {
+                    "country": "CMR",
+                    "name": "Erna Cindy HEUKOUA DOUANLA"
+                }
+            ]
+        ],
+        "final_winner": "Aina Laura RASOANAIVO RAZAFY"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "BDI",
+                    "name": "Divine IRAKOZE"
+                },
+                {
+                    "country": "KEN",
+                    "name": "Mary NJERI"
+                },
+                {
+                    "winner": "Mary NJERI"
+                }
+            ],
+            [
+                {
+                    "country": "RSA",
+                    "name": "Shawwal BAGARIA"
+                },
+                {
+                    "country": "CMR",
+                    "name": "Erna Cindy HEUKOUA DOUANLA"
+                },
+                {
+                    "winner": "Erna Cindy HEUKOUA DOUANLA"
+                }
+            ],
+            [
+                {
+                    "country": "KEN",
+                    "name": "Mary NJERI"
+                },
+                {
+                    "country": "EGY",
+                    "name": "Shehata AFNAN"
+                },
+                {
+                    "winner": "Shehata AFNAN"
+                }
+            ],
+            [
+                {
+                    "country": "CMR",
+                    "name": "Erna Cindy HEUKOUA DOUANLA"
+                },
+                {
+                    "country": "RSA",
+                    "name": "Bernice KLAASSENS"
+                },
+                {
+                    "winner": "Erna Cindy HEUKOUA DOUANLA"
+                }
+            ],
+            [
+                {
+                    "country": "EGY",
+                    "name": "Shehata AFNAN"
+                }
+            ],
+            [
+                {
+                    "country": "CMR",
+                    "name": "Erna Cindy HEUKOUA DOUANLA"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Shehata AFNAN",
+            "Erna Cindy HEUKOUA DOUANLA"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "EGY",
+                    "name": "Farida MAGDY"
+                },
+                {
+                    "country": "RSA",
+                    "name": "Bernice KLAASSENS"
+                },
+                {
+                    "winner": "Farida MAGDY"
+                }
+            ],
+            [
+                {
+                    "country": "EGY",
+                    "name": "Shehata AFNAN"
+                },
+                {
+                    "country": "MAD",
+                    "name": "Aina Laura RASOANAIVO RAZAFY"
+                },
+                {
+                    "winner": "Aina Laura RASOANAIVO RAZAFY"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "EGY",
+                    "name": "Farida MAGDY"
+                },
+                {
+                    "country": "MAD",
+                    "name": "Aina Laura RASOANAIVO RAZAFY"
+                }
+            ]
+        ],
+        "final_winner": "Aina Laura RASOANAIVO RAZAFY"
+    }
+}

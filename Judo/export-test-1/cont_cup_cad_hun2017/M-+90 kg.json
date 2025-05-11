@@ -1,0 +1,311 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "HUN",
+                    "name": "Donat VARGA"
+                },
+                {
+                    "winner": "Donat VARGA"
+                }
+            ],
+            [
+                {
+                    "country": "POL",
+                    "name": "Amadeusz LEWANDOWICZ"
+                },
+                {
+                    "country": "GER",
+                    "name": "Lorenz MOOR"
+                },
+                {
+                    "winner": "Lorenz MOOR"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "HUN",
+                    "name": "Donat VARGA"
+                },
+                {
+                    "country": "GER",
+                    "name": "Lorenz MOOR"
+                }
+            ]
+        ],
+        "final_winner": "Lorenz MOOR"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "SVK",
+                    "name": "Lubomir STROMKO"
+                },
+                {
+                    "winner": "Lubomir STROMKO"
+                }
+            ],
+            [
+                {
+                    "country": "AUT",
+                    "name": "Niko HERZOG"
+                },
+                {
+                    "winner": "Niko HERZOG"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "SVK",
+                    "name": "Lubomir STROMKO"
+                },
+                {
+                    "country": "AUT",
+                    "name": "Niko HERZOG"
+                }
+            ]
+        ],
+        "final_winner": "Niko HERZOG"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "MNE",
+                    "name": "Slaven CADJENOVIC"
+                },
+                {
+                    "winner": "Slaven CADJENOVIC"
+                }
+            ],
+            [
+                {
+                    "country": "GER",
+                    "name": "Niklas SCHIESSL"
+                },
+                {
+                    "country": "SLO",
+                    "name": "Mark ROZAC"
+                },
+                {
+                    "winner": "Niklas SCHIESSL"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "MNE",
+                    "name": "Slaven CADJENOVIC"
+                },
+                {
+                    "country": "GER",
+                    "name": "Niklas SCHIESSL"
+                }
+            ]
+        ],
+        "final_winner": "Niklas SCHIESSL"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ROU",
+                    "name": "David NAGY"
+                },
+                {
+                    "winner": "David NAGY"
+                }
+            ],
+            [
+                {
+                    "country": "HUN",
+                    "name": "Benedek LENART"
+                },
+                {
+                    "winner": "Benedek LENART"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "ROU",
+                    "name": "David NAGY"
+                },
+                {
+                    "country": "HUN",
+                    "name": "Benedek LENART"
+                }
+            ]
+        ],
+        "final_winner": "David NAGY"
+    },
+    "REPECHAGE": {
+        "round 1-4": [
+            [
+                {
+                    "country": "POL",
+                    "name": "Amadeusz LEWANDOWICZ"
+                },
+                {
+                    "country": "HUN",
+                    "name": "Donat VARGA"
+                },
+                {
+                    "winner": "Donat VARGA"
+                }
+            ],
+            [
+                {
+                    "country": "SVK",
+                    "name": "Lubomir STROMKO"
+                },
+                {
+                    "winner": "Lubomir STROMKO"
+                }
+            ],
+            [
+                {
+                    "country": "SLO",
+                    "name": "Mark ROZAC"
+                },
+                {
+                    "country": "MNE",
+                    "name": "Slaven CADJENOVIC"
+                },
+                {
+                    "winner": "Slaven CADJENOVIC"
+                }
+            ],
+            [
+                {
+                    "country": "HUN",
+                    "name": "Benedek LENART"
+                },
+                {
+                    "winner": "Benedek LENART"
+                }
+            ]
+        ],
+        "round 1-2": [
+            [
+                {
+                    "country": "HUN",
+                    "name": "Donat VARGA"
+                },
+                {
+                    "country": "SVK",
+                    "name": "Lubomir STROMKO"
+                },
+                {
+                    "winner": "Donat VARGA"
+                }
+            ],
+            [
+                {
+                    "country": "MNE",
+                    "name": "Slaven CADJENOVIC"
+                },
+                {
+                    "country": "HUN",
+                    "name": "Benedek LENART"
+                },
+                {
+                    "winner": "Slaven CADJENOVIC"
+                }
+            ],
+            [
+                {
+                    "country": "HUN",
+                    "name": "Donat VARGA"
+                },
+                {
+                    "country": "ROU",
+                    "name": "David NAGY"
+                },
+                {
+                    "winner": "Donat VARGA"
+                }
+            ],
+            [
+                {
+                    "country": "MNE",
+                    "name": "Slaven CADJENOVIC"
+                },
+                {
+                    "country": "GER",
+                    "name": "Lorenz MOOR"
+                },
+                {
+                    "winner": "Slaven CADJENOVIC"
+                }
+            ],
+            [
+                {
+                    "country": "HUN",
+                    "name": "Donat VARGA"
+                }
+            ],
+            [
+                {
+                    "country": "MNE",
+                    "name": "Slaven CADJENOVIC"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Donat VARGA",
+            "Slaven CADJENOVIC"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "GER",
+                    "name": "Lorenz MOOR"
+                },
+                {
+                    "country": "AUT",
+                    "name": "Niko HERZOG"
+                },
+                {
+                    "winner": "Niko HERZOG"
+                }
+            ],
+            [
+                {
+                    "country": "GER",
+                    "name": "Niklas SCHIESSL"
+                },
+                {
+                    "country": "ROU",
+                    "name": "David NAGY"
+                },
+                {
+                    "winner": "Niklas SCHIESSL"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "AUT",
+                    "name": "Niko HERZOG"
+                },
+                {
+                    "country": "GER",
+                    "name": "Niklas SCHIESSL"
+                }
+            ]
+        ],
+        "final_winner": "Niko HERZOG"
+    }
+}

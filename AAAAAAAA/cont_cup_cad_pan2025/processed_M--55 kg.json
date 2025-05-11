@@ -1,0 +1,135 @@
+{
+    "POOL A": {
+        "round 1-1": [
+            [
+                {
+                    "country": "HON",
+                    "name": "Keneth AGUILUZ"
+                },
+                {
+                    "country": "ECU",
+                    "name": "Jose PRADO"
+                }
+            ]
+        ],
+        "final_winner": "Jose PRADO"
+    },
+    "POOL B": {
+        "round 1-1": [],
+        "final_winner": "Sebastian TERAN"
+    },
+    "POOL C": {
+        "round 1-1": [
+            [
+                {
+                    "country": "PAN",
+                    "name": "Altano GARCIA"
+                },
+                {
+                    "country": "COL",
+                    "name": "Camilo VALBUENA PINILLA"
+                }
+            ]
+        ],
+        "final_winner": "Camilo VALBUENA PINILLA"
+    },
+    "POOL D": {
+        "round 1-1": [],
+        "final_winner": "Cristian MARIN"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "HON",
+                    "name": "Keneth AGUILUZ"
+                }
+            ],
+            [
+                {
+                    "country": "PAN",
+                    "name": "Altano GARCIA"
+                }
+            ],
+            [
+                {
+                    "country": "HON",
+                    "name": "Keneth AGUILUZ"
+                },
+                {
+                    "country": "CRC",
+                    "name": "Cristian MARIN"
+                },
+                {
+                    "winner": "Cristian MARIN"
+                }
+            ],
+            [
+                {
+                    "country": "PAN",
+                    "name": "Altano GARCIA"
+                },
+                {
+                    "country": "ECU",
+                    "name": "Jose PRADO"
+                },
+                {
+                    "winner": "Altano GARCIA"
+                }
+            ],
+            [
+                {
+                    "country": "CRC",
+                    "name": "Cristian MARIN"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Altano GARCIA",
+            "Cristian MARIN"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ECU",
+                    "name": "Jose PRADO"
+                },
+                {
+                    "country": "USA",
+                    "name": "Sebastian TERAN"
+                },
+                {
+                    "winner": "Sebastian TERAN"
+                }
+            ],
+            [
+                {
+                    "country": "COL",
+                    "name": "Camilo VALBUENA PINILLA"
+                },
+                {
+                    "country": "CRC",
+                    "name": "Cristian MARIN"
+                },
+                {
+                    "winner": "Camilo VALBUENA PINILLA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "USA",
+                    "name": "Sebastian TERAN"
+                },
+                {
+                    "country": "COL",
+                    "name": "Camilo VALBUENA PINILLA"
+                }
+            ]
+        ],
+        "final_winner": "Sebastian TERAN"
+    }
+}

@@ -1,0 +1,215 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "EGY",
+                    "name": "Nouran KAMEL"
+                },
+                {
+                    "winner": "Nouran KAMEL"
+                }
+            ],
+            []
+        ],
+        "round 1-1": [],
+        "final_winner": "Nouran KAMEL"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "TUN",
+                    "name": "Safa JELASSI"
+                },
+                {
+                    "winner": "Safa JELASSI"
+                }
+            ],
+            [
+                {
+                    "country": "ALG",
+                    "name": "Lisa ISKOUNEN"
+                },
+                {
+                    "winner": "Lisa ISKOUNEN"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "TUN",
+                    "name": "Safa JELASSI"
+                },
+                {
+                    "country": "ALG",
+                    "name": "Lisa ISKOUNEN"
+                }
+            ]
+        ],
+        "final_winner": "Safa JELASSI"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "MAR",
+                    "name": "Hafsa YATIM"
+                },
+                {
+                    "winner": "Hafsa YATIM"
+                }
+            ],
+            [
+                {
+                    "country": "ALG",
+                    "name": "Louiza ICHALLAL"
+                },
+                {
+                    "winner": "Louiza ICHALLAL"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "MAR",
+                    "name": "Hafsa YATIM"
+                },
+                {
+                    "country": "ALG",
+                    "name": "Louiza ICHALLAL"
+                }
+            ]
+        ],
+        "final_winner": "Hafsa YATIM"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "EGY",
+                    "name": "Alaa MOUSSAD"
+                },
+                {
+                    "winner": "Alaa MOUSSAD"
+                }
+            ],
+            []
+        ],
+        "round 1-1": [],
+        "final_winner": "Alaa MOUSSAD"
+    },
+    "REPECHAGE": {
+        "round 1-4": [
+            [],
+            [
+                {
+                    "country": "ALG",
+                    "name": "Lisa ISKOUNEN"
+                },
+                {
+                    "winner": "Lisa ISKOUNEN"
+                }
+            ],
+            [
+                {
+                    "country": "ALG",
+                    "name": "Louiza ICHALLAL"
+                },
+                {
+                    "winner": "Louiza ICHALLAL"
+                }
+            ],
+            []
+        ],
+        "round 1-2": [
+            [
+                {
+                    "country": "ALG",
+                    "name": "Lisa ISKOUNEN"
+                }
+            ],
+            [
+                {
+                    "country": "ALG",
+                    "name": "Louiza ICHALLAL"
+                }
+            ],
+            [
+                {
+                    "country": "ALG",
+                    "name": "Lisa ISKOUNEN"
+                },
+                {
+                    "country": "EGY",
+                    "name": "Alaa MOUSSAD"
+                },
+                {
+                    "winner": "Lisa ISKOUNEN"
+                }
+            ],
+            [
+                {
+                    "country": "ALG",
+                    "name": "Louiza ICHALLAL"
+                },
+                {
+                    "country": "EGY",
+                    "name": "Nouran KAMEL"
+                },
+                {
+                    "winner": "Louiza ICHALLAL"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Lisa ISKOUNEN",
+            "Louiza ICHALLAL"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "EGY",
+                    "name": "Nouran KAMEL"
+                },
+                {
+                    "country": "TUN",
+                    "name": "Safa JELASSI"
+                },
+                {
+                    "winner": "Safa JELASSI"
+                }
+            ],
+            [
+                {
+                    "country": "MAR",
+                    "name": "Hafsa YATIM"
+                },
+                {
+                    "country": "EGY",
+                    "name": "Alaa MOUSSAD"
+                },
+                {
+                    "winner": "Hafsa YATIM"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "TUN",
+                    "name": "Safa JELASSI"
+                },
+                {
+                    "country": "MAR",
+                    "name": "Hafsa YATIM"
+                }
+            ]
+        ],
+        "final_winner": "Hafsa YATIM"
+    }
+}

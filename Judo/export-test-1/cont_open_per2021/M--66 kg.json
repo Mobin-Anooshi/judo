@@ -1,0 +1,177 @@
+{
+    "POOL A": {
+        "round 1-1": [
+            [
+                {
+                    "country": "CRC",
+                    "name": "Ian SANCHO"
+                },
+                {
+                    "country": "MEX",
+                    "name": "Raul LOZANO"
+                }
+            ]
+        ],
+        "final_winner": "Ian SANCHO"
+    },
+    "POOL B": {
+        "round 1-1": [
+            [
+                {
+                    "country": "COL",
+                    "name": "Cristian VARGAS"
+                },
+                {
+                    "country": "MEX",
+                    "name": "Robin JARA"
+                }
+            ]
+        ],
+        "final_winner": "Cristian VARGAS"
+    },
+    "POOL C": {
+        "round 1-1": [
+            [
+                {
+                    "country": "COL",
+                    "name": "Juan HERNANDEZ"
+                },
+                {
+                    "country": "HAI",
+                    "name": "Mackensy LAURENT"
+                }
+            ]
+        ],
+        "final_winner": "Juan HERNANDEZ"
+    },
+    "POOL D": {
+        "round 1-1": [
+            [
+                {
+                    "country": "PER",
+                    "name": "Michael PATINO"
+                },
+                {
+                    "country": "PER",
+                    "name": "Julio CUSI"
+                }
+            ]
+        ],
+        "final_winner": "Michael PATINO"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "MEX",
+                    "name": "Raul LOZANO"
+                },
+                {
+                    "country": "MEX",
+                    "name": "Robin JARA"
+                },
+                {
+                    "winner": "Robin JARA"
+                }
+            ],
+            [
+                {
+                    "country": "HAI",
+                    "name": "Mackensy LAURENT"
+                },
+                {
+                    "country": "PER",
+                    "name": "Julio CUSI"
+                },
+                {
+                    "winner": "Julio CUSI"
+                }
+            ],
+            [
+                {
+                    "country": "MEX",
+                    "name": "Robin JARA"
+                },
+                {
+                    "country": "PER",
+                    "name": "Michael PATINO"
+                },
+                {
+                    "winner": "Robin JARA"
+                }
+            ],
+            [
+                {
+                    "country": "PER",
+                    "name": "Julio CUSI"
+                },
+                {
+                    "country": "CRC",
+                    "name": "Ian SANCHO"
+                },
+                {
+                    "winner": "Julio CUSI"
+                }
+            ],
+            [
+                {
+                    "country": "MEX",
+                    "name": "Robin JARA"
+                }
+            ],
+            [
+                {
+                    "country": "PER",
+                    "name": "Julio CUSI"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Robin JARA",
+            "Julio CUSI"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CRC",
+                    "name": "Ian SANCHO"
+                },
+                {
+                    "country": "COL",
+                    "name": "Cristian VARGAS"
+                },
+                {
+                    "winner": "Cristian VARGAS"
+                }
+            ],
+            [
+                {
+                    "country": "COL",
+                    "name": "Juan HERNANDEZ"
+                },
+                {
+                    "country": "PER",
+                    "name": "Michael PATINO"
+                },
+                {
+                    "winner": "Juan HERNANDEZ"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "COL",
+                    "name": "Cristian VARGAS"
+                },
+                {
+                    "country": "COL",
+                    "name": "Juan HERNANDEZ"
+                }
+            ]
+        ],
+        "final_winner": "Juan HERNANDEZ"
+    }
+}

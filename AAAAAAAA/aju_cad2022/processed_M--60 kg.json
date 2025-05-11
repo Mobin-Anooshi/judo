@@ -1,0 +1,135 @@
+{
+    "POOL A": {
+        "round 1-1": [
+            [
+                {
+                    "country": "EGY",
+                    "name": "Fares IBRAHIM"
+                },
+                {
+                    "country": "ANG",
+                    "name": "Joaquim LUIS"
+                }
+            ]
+        ],
+        "final_winner": "Joaquim LUIS"
+    },
+    "POOL B": {
+        "round 1-1": [],
+        "final_winner": "Kelly DANIEL"
+    },
+    "POOL C": {
+        "round 1-1": [],
+        "final_winner": "Suleiman CHIGUBA"
+    },
+    "POOL D": {
+        "round 1-1": [
+            [
+                {
+                    "country": "RSA",
+                    "name": "Sinqobile SHONGWE"
+                },
+                {
+                    "country": "BDI",
+                    "name": "Evodius BIRUKUNDI"
+                }
+            ]
+        ],
+        "final_winner": "Sinqobile SHONGWE"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "EGY",
+                    "name": "Fares IBRAHIM"
+                }
+            ],
+            [
+                {
+                    "country": "BDI",
+                    "name": "Evodius BIRUKUNDI"
+                }
+            ],
+            [
+                {
+                    "country": "EGY",
+                    "name": "Fares IBRAHIM"
+                },
+                {
+                    "country": "KEN",
+                    "name": "Suleiman CHIGUBA"
+                },
+                {
+                    "winner": "Fares IBRAHIM"
+                }
+            ],
+            [
+                {
+                    "country": "BDI",
+                    "name": "Evodius BIRUKUNDI"
+                },
+                {
+                    "country": "KEN",
+                    "name": "Kelly DANIEL"
+                },
+                {
+                    "winner": "Kelly DANIEL"
+                }
+            ],
+            [
+                {
+                    "country": "KEN",
+                    "name": "Kelly DANIEL"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Evodius BIRUKUNDI",
+            "Fares IBRAHIM"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ANG",
+                    "name": "Joaquim LUIS"
+                },
+                {
+                    "country": "KEN",
+                    "name": "Kelly DANIEL"
+                },
+                {
+                    "winner": "Joaquim LUIS"
+                }
+            ],
+            [
+                {
+                    "country": "KEN",
+                    "name": "Suleiman CHIGUBA"
+                },
+                {
+                    "country": "RSA",
+                    "name": "Sinqobile SHONGWE"
+                },
+                {
+                    "winner": "Sinqobile SHONGWE"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "ANG",
+                    "name": "Joaquim LUIS"
+                },
+                {
+                    "country": "RSA",
+                    "name": "Sinqobile SHONGWE"
+                }
+            ]
+        ],
+        "final_winner": "Joaquim LUIS"
+    }
+}

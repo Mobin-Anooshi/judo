@@ -1,0 +1,177 @@
+{
+    "POOL A": {
+        "round 1-1": [
+            [
+                {
+                    "country": "FRA",
+                    "name": "Coralie HAYME"
+                },
+                {
+                    "country": "UZB",
+                    "name": "Durdona NIZOMADDINOVA"
+                }
+            ]
+        ],
+        "final_winner": "Coralie HAYME"
+    },
+    "POOL B": {
+        "round 1-1": [
+            [
+                {
+                    "country": "KAZ",
+                    "name": "Nazgul MARATOVA"
+                },
+                {
+                    "country": "KAZ",
+                    "name": "Karina TAKIYEVA"
+                }
+            ]
+        ],
+        "final_winner": "Nazgul MARATOVA"
+    },
+    "POOL C": {
+        "round 1-1": [
+            [
+                {
+                    "country": "NED",
+                    "name": "Karen STEVENSON"
+                },
+                {
+                    "country": "UZB",
+                    "name": "Fotima KURAMBOEVA"
+                }
+            ]
+        ],
+        "final_winner": "Karen STEVENSON"
+    },
+    "POOL D": {
+        "round 1-1": [
+            [
+                {
+                    "country": "CRO",
+                    "name": "Helena VUKOVIC"
+                },
+                {
+                    "country": "IJF",
+                    "name": "Anastasiia KHOLODILINA"
+                }
+            ]
+        ],
+        "final_winner": "Helena VUKOVIC"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "UZB",
+                    "name": "Durdona NIZOMADDINOVA"
+                },
+                {
+                    "country": "KAZ",
+                    "name": "Karina TAKIYEVA"
+                },
+                {
+                    "winner": "Karina TAKIYEVA"
+                }
+            ],
+            [
+                {
+                    "country": "UZB",
+                    "name": "Fotima KURAMBOEVA"
+                },
+                {
+                    "country": "IJF",
+                    "name": "Anastasiia KHOLODILINA"
+                },
+                {
+                    "winner": "Anastasiia KHOLODILINA"
+                }
+            ],
+            [
+                {
+                    "country": "KAZ",
+                    "name": "Karina TAKIYEVA"
+                },
+                {
+                    "country": "CRO",
+                    "name": "Helena VUKOVIC"
+                },
+                {
+                    "winner": "Helena VUKOVIC"
+                }
+            ],
+            [
+                {
+                    "country": "IJF",
+                    "name": "Anastasiia KHOLODILINA"
+                },
+                {
+                    "country": "KAZ",
+                    "name": "Nazgul MARATOVA"
+                },
+                {
+                    "winner": "Nazgul MARATOVA"
+                }
+            ],
+            [
+                {
+                    "country": "CRO",
+                    "name": "Helena VUKOVIC"
+                }
+            ],
+            [
+                {
+                    "country": "KAZ",
+                    "name": "Nazgul MARATOVA"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Helena VUKOVIC",
+            "Nazgul MARATOVA"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "FRA",
+                    "name": "Coralie HAYME"
+                },
+                {
+                    "country": "KAZ",
+                    "name": "Nazgul MARATOVA"
+                },
+                {
+                    "winner": "Coralie HAYME"
+                }
+            ],
+            [
+                {
+                    "country": "NED",
+                    "name": "Karen STEVENSON"
+                },
+                {
+                    "country": "CRO",
+                    "name": "Helena VUKOVIC"
+                },
+                {
+                    "winner": "Karen STEVENSON"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "FRA",
+                    "name": "Coralie HAYME"
+                },
+                {
+                    "country": "NED",
+                    "name": "Karen STEVENSON"
+                }
+            ]
+        ],
+        "final_winner": "Coralie HAYME"
+    }
+}

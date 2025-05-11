@@ -1,0 +1,265 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "AUS",
+                    "name": "Joshua KATZ"
+                },
+                {
+                    "winner": "Joshua KATZ"
+                }
+            ],
+            [
+                {
+                    "country": "USA",
+                    "name": "David TERAO"
+                },
+                {
+                    "country": "CUB",
+                    "name": "Jonathan CHARON"
+                },
+                {
+                    "winner": "Jonathan CHARON"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "AUS",
+                    "name": "Joshua KATZ"
+                },
+                {
+                    "country": "CUB",
+                    "name": "Jonathan CHARON"
+                }
+            ]
+        ],
+        "final_winner": "Joshua KATZ"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CRC",
+                    "name": "Sebastian SANCHO"
+                },
+                {
+                    "winner": "Sebastian SANCHO"
+                }
+            ],
+            [
+                {
+                    "country": "BRA",
+                    "name": "Michel AUGUSTO"
+                },
+                {
+                    "winner": "Michel AUGUSTO"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "CRC",
+                    "name": "Sebastian SANCHO"
+                },
+                {
+                    "country": "BRA",
+                    "name": "Michel AUGUSTO"
+                }
+            ]
+        ],
+        "final_winner": "Michel AUGUSTO"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Matheus TAKAKI"
+                },
+                {
+                    "winner": "Matheus TAKAKI"
+                }
+            ],
+            [
+                {
+                    "country": "MEX",
+                    "name": "Arath JUAREZ"
+                },
+                {
+                    "country": "ARG",
+                    "name": "Ignacio FREGGIARO"
+                },
+                {
+                    "winner": "Arath JUAREZ"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Matheus TAKAKI"
+                },
+                {
+                    "country": "MEX",
+                    "name": "Arath JUAREZ"
+                }
+            ]
+        ],
+        "final_winner": "Matheus TAKAKI"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ECU",
+                    "name": "Bryan GARBOA"
+                },
+                {
+                    "winner": "Bryan GARBOA"
+                }
+            ],
+            [
+                {
+                    "country": "ECU",
+                    "name": "Juan AYALA"
+                },
+                {
+                    "winner": "Juan AYALA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "ECU",
+                    "name": "Bryan GARBOA"
+                },
+                {
+                    "country": "ECU",
+                    "name": "Juan AYALA"
+                }
+            ]
+        ],
+        "final_winner": "Juan AYALA"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CUB",
+                    "name": "Jonathan CHARON"
+                },
+                {
+                    "country": "CRC",
+                    "name": "Sebastian SANCHO"
+                },
+                {
+                    "winner": "Jonathan CHARON"
+                }
+            ],
+            [
+                {
+                    "country": "MEX",
+                    "name": "Arath JUAREZ"
+                },
+                {
+                    "country": "ECU",
+                    "name": "Bryan GARBOA"
+                },
+                {
+                    "winner": "Bryan GARBOA"
+                }
+            ],
+            [
+                {
+                    "country": "CUB",
+                    "name": "Jonathan CHARON"
+                },
+                {
+                    "country": "ECU",
+                    "name": "Juan AYALA"
+                },
+                {
+                    "winner": "Jonathan CHARON"
+                }
+            ],
+            [
+                {
+                    "country": "ECU",
+                    "name": "Bryan GARBOA"
+                },
+                {
+                    "country": "BRA",
+                    "name": "Michel AUGUSTO"
+                },
+                {
+                    "winner": "Michel AUGUSTO"
+                }
+            ],
+            [
+                {
+                    "country": "CUB",
+                    "name": "Jonathan CHARON"
+                }
+            ],
+            [
+                {
+                    "country": "BRA",
+                    "name": "Michel AUGUSTO"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Jonathan CHARON",
+            "Michel AUGUSTO"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "AUS",
+                    "name": "Joshua KATZ"
+                },
+                {
+                    "country": "BRA",
+                    "name": "Michel AUGUSTO"
+                },
+                {
+                    "winner": "Joshua KATZ"
+                }
+            ],
+            [
+                {
+                    "country": "BRA",
+                    "name": "Matheus TAKAKI"
+                },
+                {
+                    "country": "ECU",
+                    "name": "Juan AYALA"
+                },
+                {
+                    "winner": "Matheus TAKAKI"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "AUS",
+                    "name": "Joshua KATZ"
+                },
+                {
+                    "country": "BRA",
+                    "name": "Matheus TAKAKI"
+                }
+            ]
+        ],
+        "final_winner": "Matheus TAKAKI"
+    }
+}

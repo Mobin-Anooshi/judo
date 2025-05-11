@@ -1,0 +1,177 @@
+{
+    "POOL A": {
+        "round 1-1": [
+            [
+                {
+                    "country": "CRC",
+                    "name": "Julian SANCHO"
+                },
+                {
+                    "country": "DOM",
+                    "name": "Carlos MERCEDES"
+                }
+            ]
+        ],
+        "final_winner": "Julian SANCHO"
+    },
+    "POOL B": {
+        "round 1-1": [
+            [
+                {
+                    "country": "DOM",
+                    "name": "Luis PEREZ"
+                },
+                {
+                    "country": "DOM",
+                    "name": "Antonio TORNAL"
+                }
+            ]
+        ],
+        "final_winner": "Antonio TORNAL"
+    },
+    "POOL C": {
+        "round 1-1": [
+            [
+                {
+                    "country": "HAI",
+                    "name": "Philippe Abel METELLUS"
+                },
+                {
+                    "country": "DOM",
+                    "name": "Junior GEREZ"
+                }
+            ]
+        ],
+        "final_winner": "Philippe Abel METELLUS"
+    },
+    "POOL D": {
+        "round 1-1": [
+            [
+                {
+                    "country": "GHA",
+                    "name": "Emmanuel NARTEY"
+                },
+                {
+                    "country": "ESP",
+                    "name": "Alberto VARELA FERRER"
+                }
+            ]
+        ],
+        "final_winner": "Alberto VARELA FERRER"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "DOM",
+                    "name": "Carlos MERCEDES"
+                },
+                {
+                    "country": "DOM",
+                    "name": "Luis PEREZ"
+                },
+                {
+                    "winner": "Luis PEREZ"
+                }
+            ],
+            [
+                {
+                    "country": "DOM",
+                    "name": "Junior GEREZ"
+                },
+                {
+                    "country": "GHA",
+                    "name": "Emmanuel NARTEY"
+                },
+                {
+                    "winner": "Emmanuel NARTEY"
+                }
+            ],
+            [
+                {
+                    "country": "DOM",
+                    "name": "Luis PEREZ"
+                },
+                {
+                    "country": "HAI",
+                    "name": "Philippe Abel METELLUS"
+                },
+                {
+                    "winner": "Philippe Abel METELLUS"
+                }
+            ],
+            [
+                {
+                    "country": "GHA",
+                    "name": "Emmanuel NARTEY"
+                },
+                {
+                    "country": "CRC",
+                    "name": "Julian SANCHO"
+                },
+                {
+                    "winner": "Emmanuel NARTEY"
+                }
+            ],
+            [
+                {
+                    "country": "HAI",
+                    "name": "Philippe Abel METELLUS"
+                }
+            ],
+            [
+                {
+                    "country": "GHA",
+                    "name": "Emmanuel NARTEY"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Philippe Abel METELLUS",
+            "Emmanuel NARTEY"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CRC",
+                    "name": "Julian SANCHO"
+                },
+                {
+                    "country": "DOM",
+                    "name": "Antonio TORNAL"
+                },
+                {
+                    "winner": "Antonio TORNAL"
+                }
+            ],
+            [
+                {
+                    "country": "HAI",
+                    "name": "Philippe Abel METELLUS"
+                },
+                {
+                    "country": "ESP",
+                    "name": "Alberto VARELA FERRER"
+                },
+                {
+                    "winner": "Alberto VARELA FERRER"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "DOM",
+                    "name": "Antonio TORNAL"
+                },
+                {
+                    "country": "ESP",
+                    "name": "Alberto VARELA FERRER"
+                }
+            ]
+        ],
+        "final_winner": "Antonio TORNAL"
+    }
+}

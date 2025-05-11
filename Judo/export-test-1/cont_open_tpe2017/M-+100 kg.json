@@ -1,0 +1,141 @@
+{
+    "POOL A": {
+        "round 1-1": [],
+        "final_winner": "Po yen LEE"
+    },
+    "POOL B": {
+        "round 1-1": [
+            [
+                {
+                    "country": "TPE",
+                    "name": "Sheng Min CHEN"
+                },
+                {
+                    "country": "PHI",
+                    "name": "George Angelo BACLAGAN"
+                }
+            ]
+        ],
+        "final_winner": "Sheng Min CHEN"
+    },
+    "POOL C": {
+        "round 1-1": [],
+        "final_winner": "Ajax TADEHARA"
+    },
+    "POOL D": {
+        "round 1-1": [
+            [
+                {
+                    "country": "MAS",
+                    "name": "Andrew SIA"
+                },
+                {
+                    "country": "AUS",
+                    "name": "Liam PARK"
+                }
+            ]
+        ],
+        "final_winner": "Liam PARK"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "PHI",
+                    "name": "George Angelo BACLAGAN"
+                }
+            ],
+            [
+                {
+                    "country": "MAS",
+                    "name": "Andrew SIA"
+                }
+            ],
+            [
+                {
+                    "country": "PHI",
+                    "name": "George Angelo BACLAGAN"
+                },
+                {
+                    "country": "AUS",
+                    "name": "Liam PARK"
+                },
+                {
+                    "winner": "Liam PARK"
+                }
+            ],
+            [
+                {
+                    "country": "MAS",
+                    "name": "Andrew SIA"
+                },
+                {
+                    "country": "TPE",
+                    "name": "Sheng Min CHEN"
+                },
+                {
+                    "winner": "Sheng Min CHEN"
+                }
+            ],
+            [
+                {
+                    "country": "AUS",
+                    "name": "Liam PARK"
+                }
+            ],
+            [
+                {
+                    "country": "TPE",
+                    "name": "Sheng Min CHEN"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Liam PARK",
+            "Sheng Min CHEN"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "TPE",
+                    "name": "Po yen LEE"
+                },
+                {
+                    "country": "TPE",
+                    "name": "Sheng Min CHEN"
+                },
+                {
+                    "winner": "Po yen LEE"
+                }
+            ],
+            [
+                {
+                    "country": "USA",
+                    "name": "Ajax TADEHARA"
+                },
+                {
+                    "country": "AUS",
+                    "name": "Liam PARK"
+                },
+                {
+                    "winner": "Ajax TADEHARA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "TPE",
+                    "name": "Po yen LEE"
+                },
+                {
+                    "country": "USA",
+                    "name": "Ajax TADEHARA"
+                }
+            ]
+        ],
+        "final_winner": "Po yen LEE"
+    }
+}

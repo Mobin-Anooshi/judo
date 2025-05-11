@@ -1,0 +1,277 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ALG",
+                    "name": "Faiza AISSAHINE"
+                },
+                {
+                    "winner": "Faiza AISSAHINE"
+                }
+            ],
+            [
+                {
+                    "country": "NGR",
+                    "name": "Franca AUDU"
+                },
+                {
+                    "country": "AJU",
+                    "name": "Marcelina DA CONCEICAO"
+                },
+                {
+                    "winner": "Franca AUDU"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "ALG",
+                    "name": "Faiza AISSAHINE"
+                },
+                {
+                    "country": "NGR",
+                    "name": "Franca AUDU"
+                }
+            ]
+        ],
+        "final_winner": "Franca AUDU"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "TUN",
+                    "name": "Rahma TIBI"
+                },
+                {
+                    "country": "GAB",
+                    "name": "Ada Claude Welda MOUNGUENGUI"
+                },
+                {
+                    "winner": "Rahma TIBI"
+                }
+            ],
+            [
+                {
+                    "country": "MOZ",
+                    "name": "Jacira FERREIRA"
+                },
+                {
+                    "country": "ZAM",
+                    "name": "Elizabeth MUBILA"
+                },
+                {
+                    "winner": "Elizabeth MUBILA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "TUN",
+                    "name": "Rahma TIBI"
+                },
+                {
+                    "country": "ZAM",
+                    "name": "Elizabeth MUBILA"
+                }
+            ]
+        ],
+        "final_winner": "Rahma TIBI"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "RSA",
+                    "name": "Charne GRIESEL"
+                },
+                {
+                    "winner": "Charne GRIESEL"
+                }
+            ],
+            [
+                {
+                    "country": "CHA",
+                    "name": "Fatime BARKA SEGUE"
+                },
+                {
+                    "country": "IJF",
+                    "name": "Audrey Celestina MOUDENE"
+                },
+                {
+                    "winner": "Fatime BARKA SEGUE"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "RSA",
+                    "name": "Charne GRIESEL"
+                },
+                {
+                    "country": "CHA",
+                    "name": "Fatime BARKA SEGUE"
+                }
+            ]
+        ],
+        "final_winner": "Charne GRIESEL"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CMR",
+                    "name": "Marie Celine BABA MATIA"
+                },
+                {
+                    "winner": "Marie Celine BABA MATIA"
+                }
+            ],
+            [
+                {
+                    "country": "SEN",
+                    "name": "Diodio SONKO"
+                },
+                {
+                    "country": "MRI",
+                    "name": "Sarah SYLVA"
+                },
+                {
+                    "winner": "Sarah SYLVA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "CMR",
+                    "name": "Marie Celine BABA MATIA"
+                },
+                {
+                    "country": "MRI",
+                    "name": "Sarah SYLVA"
+                }
+            ]
+        ],
+        "final_winner": "Marie Celine BABA MATIA"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ALG",
+                    "name": "Faiza AISSAHINE"
+                },
+                {
+                    "country": "ZAM",
+                    "name": "Elizabeth MUBILA"
+                },
+                {
+                    "winner": "Faiza AISSAHINE"
+                }
+            ],
+            [
+                {
+                    "country": "CHA",
+                    "name": "Fatime BARKA SEGUE"
+                },
+                {
+                    "country": "MRI",
+                    "name": "Sarah SYLVA"
+                },
+                {
+                    "winner": "Sarah SYLVA"
+                }
+            ],
+            [
+                {
+                    "country": "ALG",
+                    "name": "Faiza AISSAHINE"
+                },
+                {
+                    "country": "RSA",
+                    "name": "Charne GRIESEL"
+                },
+                {
+                    "winner": "Charne GRIESEL"
+                }
+            ],
+            [
+                {
+                    "country": "MRI",
+                    "name": "Sarah SYLVA"
+                },
+                {
+                    "country": "NGR",
+                    "name": "Franca AUDU"
+                },
+                {
+                    "winner": "Franca AUDU"
+                }
+            ],
+            [
+                {
+                    "country": "RSA",
+                    "name": "Charne GRIESEL"
+                }
+            ],
+            [
+                {
+                    "country": "NGR",
+                    "name": "Franca AUDU"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Charne GRIESEL",
+            "Franca AUDU"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "NGR",
+                    "name": "Franca AUDU"
+                },
+                {
+                    "country": "TUN",
+                    "name": "Rahma TIBI"
+                },
+                {
+                    "winner": "Rahma TIBI"
+                }
+            ],
+            [
+                {
+                    "country": "RSA",
+                    "name": "Charne GRIESEL"
+                },
+                {
+                    "country": "CMR",
+                    "name": "Marie Celine BABA MATIA"
+                },
+                {
+                    "winner": "Marie Celine BABA MATIA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "TUN",
+                    "name": "Rahma TIBI"
+                },
+                {
+                    "country": "CMR",
+                    "name": "Marie Celine BABA MATIA"
+                }
+            ]
+        ],
+        "final_winner": "Rahma TIBI"
+    }
+}

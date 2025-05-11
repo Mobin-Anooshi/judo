@@ -1,0 +1,269 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "SWE",
+                    "name": "Marcus NYMAN"
+                },
+                {
+                    "winner": "Marcus NYMAN"
+                }
+            ],
+            [
+                {
+                    "country": "RUS",
+                    "name": "Alexander GRIGOREV"
+                },
+                {
+                    "country": "AZE",
+                    "name": "Vasif SHARBATLI"
+                },
+                {
+                    "winner": "Alexander GRIGOREV"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "SWE",
+                    "name": "Marcus NYMAN"
+                },
+                {
+                    "country": "RUS",
+                    "name": "Alexander GRIGOREV"
+                }
+            ]
+        ],
+        "final_winner": "Marcus NYMAN"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "JPN",
+                    "name": "Kenta NAGASAWA"
+                },
+                {
+                    "winner": "Kenta NAGASAWA"
+                }
+            ],
+            [
+                {
+                    "country": "EST",
+                    "name": "Aleksandr MARMELJUK"
+                },
+                {
+                    "winner": "Aleksandr MARMELJUK"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "JPN",
+                    "name": "Kenta NAGASAWA"
+                },
+                {
+                    "country": "EST",
+                    "name": "Aleksandr MARMELJUK"
+                }
+            ]
+        ],
+        "final_winner": "Kenta NAGASAWA"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "RUS",
+                    "name": "Khusen KHALMURZAEV"
+                },
+                {
+                    "winner": "Khusen KHALMURZAEV"
+                }
+            ],
+            [
+                {
+                    "country": "RUS",
+                    "name": "Said Emi ZHAMBEKOV"
+                },
+                {
+                    "country": "UZB",
+                    "name": "Erbol RUSTAMOV"
+                },
+                {
+                    "winner": "Said Emi ZHAMBEKOV"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "RUS",
+                    "name": "Khusen KHALMURZAEV"
+                },
+                {
+                    "country": "RUS",
+                    "name": "Said Emi ZHAMBEKOV"
+                }
+            ]
+        ],
+        "final_winner": "Khusen KHALMURZAEV"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "RUS",
+                    "name": "Magomed MAGOMEDOV"
+                },
+                {
+                    "winner": "Magomed MAGOMEDOV"
+                }
+            ],
+            [
+                {
+                    "country": "AZE",
+                    "name": "Firudin DADASHOV"
+                },
+                {
+                    "country": "UZB",
+                    "name": "Mukhammadkarim KHURRAMOV"
+                },
+                {
+                    "winner": "Firudin DADASHOV"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "RUS",
+                    "name": "Magomed MAGOMEDOV"
+                },
+                {
+                    "country": "AZE",
+                    "name": "Firudin DADASHOV"
+                }
+            ]
+        ],
+        "final_winner": "Magomed MAGOMEDOV"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "RUS",
+                    "name": "Alexander GRIGOREV"
+                },
+                {
+                    "country": "EST",
+                    "name": "Aleksandr MARMELJUK"
+                },
+                {
+                    "winner": "Alexander GRIGOREV"
+                }
+            ],
+            [
+                {
+                    "country": "RUS",
+                    "name": "Said Emi ZHAMBEKOV"
+                },
+                {
+                    "country": "AZE",
+                    "name": "Firudin DADASHOV"
+                },
+                {
+                    "winner": "Firudin DADASHOV"
+                }
+            ],
+            [
+                {
+                    "country": "RUS",
+                    "name": "Alexander GRIGOREV"
+                },
+                {
+                    "country": "RUS",
+                    "name": "Magomed MAGOMEDOV"
+                },
+                {
+                    "winner": "Magomed MAGOMEDOV"
+                }
+            ],
+            [
+                {
+                    "country": "AZE",
+                    "name": "Firudin DADASHOV"
+                },
+                {
+                    "country": "JPN",
+                    "name": "Kenta NAGASAWA"
+                },
+                {
+                    "winner": "Kenta NAGASAWA"
+                }
+            ],
+            [
+                {
+                    "country": "RUS",
+                    "name": "Magomed MAGOMEDOV"
+                }
+            ],
+            [
+                {
+                    "country": "JPN",
+                    "name": "Kenta NAGASAWA"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Magomed MAGOMEDOV",
+            "Kenta NAGASAWA"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "SWE",
+                    "name": "Marcus NYMAN"
+                },
+                {
+                    "country": "JPN",
+                    "name": "Kenta NAGASAWA"
+                },
+                {
+                    "winner": "Marcus NYMAN"
+                }
+            ],
+            [
+                {
+                    "country": "RUS",
+                    "name": "Khusen KHALMURZAEV"
+                },
+                {
+                    "country": "RUS",
+                    "name": "Magomed MAGOMEDOV"
+                },
+                {
+                    "winner": "Khusen KHALMURZAEV"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "SWE",
+                    "name": "Marcus NYMAN"
+                },
+                {
+                    "country": "RUS",
+                    "name": "Khusen KHALMURZAEV"
+                }
+            ]
+        ],
+        "final_winner": "Marcus NYMAN"
+    }
+}

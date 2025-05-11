@@ -1,0 +1,251 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ARG",
+                    "name": "Luis VEGA"
+                },
+                {
+                    "winner": "Luis VEGA"
+                }
+            ],
+            [
+                {
+                    "country": "CHI",
+                    "name": "Sandro BOTTO"
+                },
+                {
+                    "country": "USA",
+                    "name": "Harmik AGHAKHANI"
+                },
+                {
+                    "winner": "Harmik AGHAKHANI"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "ARG",
+                    "name": "Luis VEGA"
+                },
+                {
+                    "country": "USA",
+                    "name": "Harmik AGHAKHANI"
+                }
+            ]
+        ],
+        "final_winner": "Luis VEGA"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Leandro GUILHEIRO"
+                },
+                {
+                    "country": "CHI",
+                    "name": "Rodrigo IDRO"
+                },
+                {
+                    "winner": "Leandro GUILHEIRO"
+                }
+            ],
+            [
+                {
+                    "country": "CAN",
+                    "name": "Danil NEYOLOV"
+                },
+                {
+                    "country": "CHI",
+                    "name": "Alvaro CABELLO"
+                },
+                {
+                    "winner": "Danil NEYOLOV"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Leandro GUILHEIRO"
+                },
+                {
+                    "country": "CAN",
+                    "name": "Danil NEYOLOV"
+                }
+            ]
+        ],
+        "final_winner": "Leandro GUILHEIRO"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [],
+            [
+                {
+                    "country": "COL",
+                    "name": "Alexander BORJA"
+                },
+                {
+                    "country": "BRA",
+                    "name": "Guilherme SCHIMIDT"
+                },
+                {
+                    "winner": "Guilherme SCHIMIDT"
+                }
+            ]
+        ],
+        "round 1-1": [],
+        "final_winner": "Guilherme SCHIMIDT"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "PER",
+                    "name": "Luis Eduardo ANGELES SOTELO"
+                },
+                {
+                    "winner": "Luis Eduardo ANGELES SOTELO"
+                }
+            ],
+            [
+                {
+                    "country": "CAN",
+                    "name": "Alex MARINEAU"
+                },
+                {
+                    "country": "CHI",
+                    "name": "Jorge PEREZ"
+                },
+                {
+                    "winner": "Alex MARINEAU"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "PER",
+                    "name": "Luis Eduardo ANGELES SOTELO"
+                },
+                {
+                    "country": "CAN",
+                    "name": "Alex MARINEAU"
+                }
+            ]
+        ],
+        "final_winner": "Alex MARINEAU"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "USA",
+                    "name": "Harmik AGHAKHANI"
+                },
+                {
+                    "country": "CAN",
+                    "name": "Danil NEYOLOV"
+                },
+                {
+                    "winner": "Harmik AGHAKHANI"
+                }
+            ],
+            [
+                {
+                    "country": "PER",
+                    "name": "Luis Eduardo ANGELES SOTELO"
+                }
+            ],
+            [
+                {
+                    "country": "USA",
+                    "name": "Harmik AGHAKHANI"
+                },
+                {
+                    "country": "BRA",
+                    "name": "Guilherme SCHIMIDT"
+                },
+                {
+                    "winner": "Guilherme SCHIMIDT"
+                }
+            ],
+            [
+                {
+                    "country": "PER",
+                    "name": "Luis Eduardo ANGELES SOTELO"
+                },
+                {
+                    "country": "BRA",
+                    "name": "Leandro GUILHEIRO"
+                },
+                {
+                    "winner": "Leandro GUILHEIRO"
+                }
+            ],
+            [
+                {
+                    "country": "BRA",
+                    "name": "Guilherme SCHIMIDT"
+                }
+            ],
+            [
+                {
+                    "country": "BRA",
+                    "name": "Leandro GUILHEIRO"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Guilherme SCHIMIDT",
+            "Leandro GUILHEIRO"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ARG",
+                    "name": "Luis VEGA"
+                },
+                {
+                    "country": "BRA",
+                    "name": "Leandro GUILHEIRO"
+                },
+                {
+                    "winner": "Luis VEGA"
+                }
+            ],
+            [
+                {
+                    "country": "BRA",
+                    "name": "Guilherme SCHIMIDT"
+                },
+                {
+                    "country": "CAN",
+                    "name": "Alex MARINEAU"
+                },
+                {
+                    "winner": "Alex MARINEAU"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "ARG",
+                    "name": "Luis VEGA"
+                },
+                {
+                    "country": "CAN",
+                    "name": "Alex MARINEAU"
+                }
+            ]
+        ],
+        "final_winner": "Alex MARINEAU"
+    }
+}

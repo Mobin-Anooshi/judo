@@ -1,0 +1,87 @@
+{
+    "POOL A": {
+        "round 1-3": [
+            [
+                {
+                    "country": "PUR",
+                    "name": "Sairy COLON"
+                },
+                {
+                    "country": "CHI",
+                    "name": "Camila CALDERON"
+                },
+                {
+                    "winner": "Sairy COLON"
+                }
+            ],
+            [
+                {
+                    "country": "PUR",
+                    "name": "Sairy COLON"
+                },
+                {
+                    "country": "PER",
+                    "name": "Eliama MANTILLA GUTIERREZ"
+                },
+                {
+                    "winner": "Eliama MANTILLA GUTIERREZ"
+                }
+            ],
+            [
+                {
+                    "country": "CHI",
+                    "name": "Camila CALDERON"
+                },
+                {
+                    "country": "PER",
+                    "name": "Eliama MANTILLA GUTIERREZ"
+                },
+                {
+                    "winner": "Camila CALDERON"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Sairy COLON",
+            "Camila CALDERON"
+        ]
+    },
+    "POOL B": {
+        "round 1-1": [],
+        "final_winners": [
+            "Kiara ARANGO"
+        ]
+    },
+    "REPECHAGE": {
+        "round 1-1": [
+            [
+                {
+                    "country": "CHI",
+                    "name": "Camila CALDERON"
+                },
+                {
+                    "country": "MEX",
+                    "name": "Sherlyn CAISEROS"
+                },
+                {
+                    "winner": "Camila CALDERON"
+                }
+            ],
+            [
+                {
+                    "country": "CHI",
+                    "name": "Camila CALDERON"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Camila CALDERON"
+        ]
+    },
+    "FINALS": {
+        "round 1-1": [],
+        "final_winners": [
+            "Sairy COLON"
+        ]
+    }
+}

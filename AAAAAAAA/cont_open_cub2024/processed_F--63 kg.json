@@ -1,0 +1,177 @@
+{
+    "POOL A": {
+        "round 1-1": [
+            [
+                {
+                    "country": "CUB",
+                    "name": "Maylin DEL TORO CARVAJAL"
+                },
+                {
+                    "country": "CUB",
+                    "name": "Karla RAMIRES LUNA"
+                }
+            ]
+        ],
+        "final_winner": "Maylin DEL TORO CARVAJAL"
+    },
+    "POOL B": {
+        "round 1-1": [
+            [
+                {
+                    "country": "USA",
+                    "name": "Emily Daniela JASPE"
+                },
+                {
+                    "country": "CUB",
+                    "name": "Wendy MARTINEZ"
+                }
+            ]
+        ],
+        "final_winner": "Emily Daniela JASPE"
+    },
+    "POOL C": {
+        "round 1-1": [
+            [
+                {
+                    "country": "USA",
+                    "name": "Sara GOLDEN"
+                },
+                {
+                    "country": "CUB",
+                    "name": "Jessica CASTELLANO"
+                }
+            ]
+        ],
+        "final_winner": "Sara GOLDEN"
+    },
+    "POOL D": {
+        "round 1-1": [
+            [
+                {
+                    "country": "CAN",
+                    "name": "Isabelle HARRIS"
+                },
+                {
+                    "country": "CUB",
+                    "name": "Odette TORRIENTE CABELLO"
+                }
+            ]
+        ],
+        "final_winner": "Isabelle HARRIS"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CUB",
+                    "name": "Karla RAMIRES LUNA"
+                },
+                {
+                    "country": "CUB",
+                    "name": "Wendy MARTINEZ"
+                },
+                {
+                    "winner": "Karla RAMIRES LUNA"
+                }
+            ],
+            [
+                {
+                    "country": "CUB",
+                    "name": "Jessica CASTELLANO"
+                },
+                {
+                    "country": "CUB",
+                    "name": "Odette TORRIENTE CABELLO"
+                },
+                {
+                    "winner": "Odette TORRIENTE CABELLO"
+                }
+            ],
+            [
+                {
+                    "country": "CUB",
+                    "name": "Karla RAMIRES LUNA"
+                },
+                {
+                    "country": "USA",
+                    "name": "Sara GOLDEN"
+                },
+                {
+                    "winner": "Sara GOLDEN"
+                }
+            ],
+            [
+                {
+                    "country": "CUB",
+                    "name": "Odette TORRIENTE CABELLO"
+                },
+                {
+                    "country": "USA",
+                    "name": "Emily Daniela JASPE"
+                },
+                {
+                    "winner": "Emily Daniela JASPE"
+                }
+            ],
+            [
+                {
+                    "country": "USA",
+                    "name": "Sara GOLDEN"
+                }
+            ],
+            [
+                {
+                    "country": "USA",
+                    "name": "Emily Daniela JASPE"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Sara GOLDEN",
+            "Emily Daniela JASPE"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CUB",
+                    "name": "Maylin DEL TORO CARVAJAL"
+                },
+                {
+                    "country": "USA",
+                    "name": "Emily Daniela JASPE"
+                },
+                {
+                    "winner": "Maylin DEL TORO CARVAJAL"
+                }
+            ],
+            [
+                {
+                    "country": "USA",
+                    "name": "Sara GOLDEN"
+                },
+                {
+                    "country": "CAN",
+                    "name": "Isabelle HARRIS"
+                },
+                {
+                    "winner": "Isabelle HARRIS"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "CUB",
+                    "name": "Maylin DEL TORO CARVAJAL"
+                },
+                {
+                    "country": "CAN",
+                    "name": "Isabelle HARRIS"
+                }
+            ]
+        ],
+        "final_winner": "Isabelle HARRIS"
+    }
+}

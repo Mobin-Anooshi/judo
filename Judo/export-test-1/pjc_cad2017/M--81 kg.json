@@ -1,0 +1,257 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "MEX",
+                    "name": "Naim DE LA CRUZ"
+                },
+                {
+                    "winner": "Naim DE LA CRUZ"
+                }
+            ],
+            [
+                {
+                    "country": "USA",
+                    "name": "Michael MUTZ"
+                },
+                {
+                    "winner": "Michael MUTZ"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "MEX",
+                    "name": "Naim DE LA CRUZ"
+                },
+                {
+                    "country": "USA",
+                    "name": "Michael MUTZ"
+                }
+            ]
+        ],
+        "final_winner": "Naim DE LA CRUZ"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ARG",
+                    "name": "Agustin GIL"
+                },
+                {
+                    "winner": "Agustin GIL"
+                }
+            ],
+            [
+                {
+                    "country": "CAN",
+                    "name": "Alexandre ARENCIBIA"
+                },
+                {
+                    "winner": "Alexandre ARENCIBIA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "ARG",
+                    "name": "Agustin GIL"
+                },
+                {
+                    "country": "CAN",
+                    "name": "Alexandre ARENCIBIA"
+                }
+            ]
+        ],
+        "final_winner": "Agustin GIL"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CAN",
+                    "name": "Luka KHATELISHVILI"
+                },
+                {
+                    "winner": "Luka KHATELISHVILI"
+                }
+            ],
+            [
+                {
+                    "country": "GUA",
+                    "name": "MOISES CORTEZ FLORES"
+                },
+                {
+                    "winner": "MOISES CORTEZ FLORES"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "CAN",
+                    "name": "Luka KHATELISHVILI"
+                },
+                {
+                    "country": "GUA",
+                    "name": "MOISES CORTEZ FLORES"
+                }
+            ]
+        ],
+        "final_winner": "Luka KHATELISHVILI"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Nuciano SANTOS JUNIOR"
+                },
+                {
+                    "winner": "Nuciano SANTOS JUNIOR"
+                }
+            ],
+            [
+                {
+                    "country": "MEX",
+                    "name": "ARTURO CAMPOS"
+                },
+                {
+                    "winner": "ARTURO CAMPOS"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Nuciano SANTOS JUNIOR"
+                },
+                {
+                    "country": "MEX",
+                    "name": "ARTURO CAMPOS"
+                }
+            ]
+        ],
+        "final_winner": "Nuciano SANTOS JUNIOR"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "USA",
+                    "name": "Michael MUTZ"
+                },
+                {
+                    "country": "CAN",
+                    "name": "Alexandre ARENCIBIA"
+                },
+                {
+                    "winner": "Alexandre ARENCIBIA"
+                }
+            ],
+            [
+                {
+                    "country": "GUA",
+                    "name": "MOISES CORTEZ FLORES"
+                },
+                {
+                    "country": "MEX",
+                    "name": "ARTURO CAMPOS"
+                },
+                {
+                    "winner": "MOISES CORTEZ FLORES"
+                }
+            ],
+            [
+                {
+                    "country": "CAN",
+                    "name": "Alexandre ARENCIBIA"
+                },
+                {
+                    "country": "BRA",
+                    "name": "Nuciano SANTOS JUNIOR"
+                },
+                {
+                    "winner": "Nuciano SANTOS JUNIOR"
+                }
+            ],
+            [
+                {
+                    "country": "GUA",
+                    "name": "MOISES CORTEZ FLORES"
+                },
+                {
+                    "country": "MEX",
+                    "name": "Naim DE LA CRUZ"
+                },
+                {
+                    "winner": "Naim DE LA CRUZ"
+                }
+            ],
+            [
+                {
+                    "country": "BRA",
+                    "name": "Nuciano SANTOS JUNIOR"
+                }
+            ],
+            [
+                {
+                    "country": "MEX",
+                    "name": "Naim DE LA CRUZ"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Nuciano SANTOS JUNIOR",
+            "Naim DE LA CRUZ"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "MEX",
+                    "name": "Naim DE LA CRUZ"
+                },
+                {
+                    "country": "ARG",
+                    "name": "Agustin GIL"
+                },
+                {
+                    "winner": "Agustin GIL"
+                }
+            ],
+            [
+                {
+                    "country": "CAN",
+                    "name": "Luka KHATELISHVILI"
+                },
+                {
+                    "country": "BRA",
+                    "name": "Nuciano SANTOS JUNIOR"
+                },
+                {
+                    "winner": "Luka KHATELISHVILI"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "ARG",
+                    "name": "Agustin GIL"
+                },
+                {
+                    "country": "CAN",
+                    "name": "Luka KHATELISHVILI"
+                }
+            ]
+        ],
+        "final_winner": "Agustin GIL"
+    }
+}

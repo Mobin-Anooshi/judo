@@ -1,0 +1,68 @@
+{
+    "ROUND 1": {
+        "round 1-2": [
+            [
+                {
+                    "country": "AUS",
+                    "name": "Callie BANNISTER"
+                },
+                {
+                    "country": "HKG",
+                    "name": "Chui Yi KWAN"
+                },
+                {
+                    "winner": "Callie BANNISTER"
+                }
+            ],
+            [
+                {
+                    "country": "AUS",
+                    "name": "Clarissa VUMBACA"
+                },
+                {
+                    "country": "AUS",
+                    "name": "Maelie TOURNIER"
+                },
+                {
+                    "winner": "Maelie TOURNIER"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Callie BANNISTER",
+            "Maelie TOURNIER"
+        ]
+    },
+    "REPECHAGE": {
+        "round 1-1": [
+            [
+                {
+                    "country": "HKG",
+                    "name": "Chui Yi KWAN"
+                },
+                {
+                    "country": "AUS",
+                    "name": "Clarissa VUMBACA"
+                },
+                {
+                    "winner": "Clarissa VUMBACA"
+                }
+            ],
+            [
+                {
+                    "country": "AUS",
+                    "name": "Clarissa VUMBACA"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Clarissa VUMBACA"
+        ]
+    },
+    "FINALS": {
+        "round 1-1": [],
+        "final_winners": [
+            "Callie BANNISTER"
+        ]
+    }
+}

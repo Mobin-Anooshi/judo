@@ -1,0 +1,177 @@
+{
+    "POOL A": {
+        "round 1-1": [
+            [
+                {
+                    "country": "USA",
+                    "name": "Mariah HOLGUIN"
+                },
+                {
+                    "country": "CHI",
+                    "name": "Francesca ALAMOS"
+                }
+            ]
+        ],
+        "final_winner": "Mariah HOLGUIN"
+    },
+    "POOL B": {
+        "round 1-1": [
+            [
+                {
+                    "country": "MEX",
+                    "name": "Paulina GARNICA"
+                },
+                {
+                    "country": "MEX",
+                    "name": "Renata ORTIZ"
+                }
+            ]
+        ],
+        "final_winner": "Renata ORTIZ"
+    },
+    "POOL C": {
+        "round 1-1": [
+            [
+                {
+                    "country": "ARG",
+                    "name": "Brisa GOMEZ"
+                },
+                {
+                    "country": "PER",
+                    "name": "Marian FLORES"
+                }
+            ]
+        ],
+        "final_winner": "Marian FLORES"
+    },
+    "POOL D": {
+        "round 1-1": [
+            [
+                {
+                    "country": "CHI",
+                    "name": "Sasha MUNOZ"
+                },
+                {
+                    "country": "COL",
+                    "name": "Maria VILLALBA"
+                }
+            ]
+        ],
+        "final_winner": "Maria VILLALBA"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CHI",
+                    "name": "Francesca ALAMOS"
+                },
+                {
+                    "country": "MEX",
+                    "name": "Paulina GARNICA"
+                },
+                {
+                    "winner": "Paulina GARNICA"
+                }
+            ],
+            [
+                {
+                    "country": "ARG",
+                    "name": "Brisa GOMEZ"
+                },
+                {
+                    "country": "CHI",
+                    "name": "Sasha MUNOZ"
+                },
+                {
+                    "winner": "Brisa GOMEZ"
+                }
+            ],
+            [
+                {
+                    "country": "MEX",
+                    "name": "Paulina GARNICA"
+                },
+                {
+                    "country": "PER",
+                    "name": "Marian FLORES"
+                },
+                {
+                    "winner": "Paulina GARNICA"
+                }
+            ],
+            [
+                {
+                    "country": "ARG",
+                    "name": "Brisa GOMEZ"
+                },
+                {
+                    "country": "MEX",
+                    "name": "Renata ORTIZ"
+                },
+                {
+                    "winner": "Brisa GOMEZ"
+                }
+            ],
+            [
+                {
+                    "country": "MEX",
+                    "name": "Paulina GARNICA"
+                }
+            ],
+            [
+                {
+                    "country": "ARG",
+                    "name": "Brisa GOMEZ"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Paulina GARNICA",
+            "Brisa GOMEZ"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "USA",
+                    "name": "Mariah HOLGUIN"
+                },
+                {
+                    "country": "MEX",
+                    "name": "Renata ORTIZ"
+                },
+                {
+                    "winner": "Mariah HOLGUIN"
+                }
+            ],
+            [
+                {
+                    "country": "PER",
+                    "name": "Marian FLORES"
+                },
+                {
+                    "country": "COL",
+                    "name": "Maria VILLALBA"
+                },
+                {
+                    "winner": "Maria VILLALBA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "USA",
+                    "name": "Mariah HOLGUIN"
+                },
+                {
+                    "country": "COL",
+                    "name": "Maria VILLALBA"
+                }
+            ]
+        ],
+        "final_winner": "Maria VILLALBA"
+    }
+}

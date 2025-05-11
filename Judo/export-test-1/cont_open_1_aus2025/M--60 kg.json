@@ -1,0 +1,177 @@
+{
+    "POOL A": {
+        "round 1-1": [
+            [
+                {
+                    "country": "MLT",
+                    "name": "James ZAHRA"
+                },
+                {
+                    "country": "AUS",
+                    "name": "Jack BANNISTER"
+                }
+            ]
+        ],
+        "final_winner": "James ZAHRA"
+    },
+    "POOL B": {
+        "round 1-1": [
+            [
+                {
+                    "country": "AUS",
+                    "name": "Pedro Carlos ANTUN NETO"
+                },
+                {
+                    "country": "NZL",
+                    "name": "Hayden BROSIUS"
+                }
+            ]
+        ],
+        "final_winner": "Pedro Carlos ANTUN NETO"
+    },
+    "POOL C": {
+        "round 1-1": [
+            [
+                {
+                    "country": "KUW",
+                    "name": "Habib HASAN"
+                },
+                {
+                    "country": "AUS",
+                    "name": "Yonatan AYZELMAN"
+                }
+            ]
+        ],
+        "final_winner": "Yonatan AYZELMAN"
+    },
+    "POOL D": {
+        "round 1-1": [
+            [
+                {
+                    "country": "CAN",
+                    "name": "Matteo FANTOZZI"
+                },
+                {
+                    "country": "AUS",
+                    "name": "Ji FORBES"
+                }
+            ]
+        ],
+        "final_winner": "Matteo FANTOZZI"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "AUS",
+                    "name": "Jack BANNISTER"
+                },
+                {
+                    "country": "NZL",
+                    "name": "Hayden BROSIUS"
+                },
+                {
+                    "winner": "Jack BANNISTER"
+                }
+            ],
+            [
+                {
+                    "country": "KUW",
+                    "name": "Habib HASAN"
+                },
+                {
+                    "country": "AUS",
+                    "name": "Ji FORBES"
+                },
+                {
+                    "winner": "Habib HASAN"
+                }
+            ],
+            [
+                {
+                    "country": "AUS",
+                    "name": "Jack BANNISTER"
+                },
+                {
+                    "country": "AUS",
+                    "name": "Yonatan AYZELMAN"
+                },
+                {
+                    "winner": "Yonatan AYZELMAN"
+                }
+            ],
+            [
+                {
+                    "country": "KUW",
+                    "name": "Habib HASAN"
+                },
+                {
+                    "country": "MLT",
+                    "name": "James ZAHRA"
+                },
+                {
+                    "winner": "James ZAHRA"
+                }
+            ],
+            [
+                {
+                    "country": "AUS",
+                    "name": "Yonatan AYZELMAN"
+                }
+            ],
+            [
+                {
+                    "country": "MLT",
+                    "name": "James ZAHRA"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Yonatan AYZELMAN",
+            "James ZAHRA"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "MLT",
+                    "name": "James ZAHRA"
+                },
+                {
+                    "country": "AUS",
+                    "name": "Pedro Carlos ANTUN NETO"
+                },
+                {
+                    "winner": "Pedro Carlos ANTUN NETO"
+                }
+            ],
+            [
+                {
+                    "country": "AUS",
+                    "name": "Yonatan AYZELMAN"
+                },
+                {
+                    "country": "CAN",
+                    "name": "Matteo FANTOZZI"
+                },
+                {
+                    "winner": "Matteo FANTOZZI"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "AUS",
+                    "name": "Pedro Carlos ANTUN NETO"
+                },
+                {
+                    "country": "CAN",
+                    "name": "Matteo FANTOZZI"
+                }
+            ]
+        ],
+        "final_winner": "Pedro Carlos ANTUN NETO"
+    }
+}

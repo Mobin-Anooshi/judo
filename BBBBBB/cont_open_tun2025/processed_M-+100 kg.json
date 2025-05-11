@@ -1,0 +1,159 @@
+{
+    "POOL A": {
+        "round 1-1": [],
+        "final_winner": "Mohamed El Mehdi LILI"
+    },
+    "POOL B": {
+        "round 1-1": [
+            [
+                {
+                    "country": "TUN",
+                    "name": "Adem KOUKI"
+                },
+                {
+                    "country": "MAR",
+                    "name": "Zakariae AZIANI"
+                }
+            ]
+        ],
+        "final_winner": "Adem KOUKI"
+    },
+    "POOL C": {
+        "round 1-1": [
+            [
+                {
+                    "country": "TUN",
+                    "name": "Wahib HDIOUECH"
+                },
+                {
+                    "country": "IRI",
+                    "name": "Hamidreza MALEKZADEH"
+                }
+            ]
+        ],
+        "final_winner": "Wahib HDIOUECH"
+    },
+    "POOL D": {
+        "round 1-1": [
+            [
+                {
+                    "country": "IJF",
+                    "name": "Yahor KUKHARENKA"
+                },
+                {
+                    "country": "TUN",
+                    "name": "Mohamed BEN ZID"
+                }
+            ]
+        ],
+        "final_winner": "Yahor KUKHARENKA"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "MAR",
+                    "name": "Zakariae AZIANI"
+                }
+            ],
+            [
+                {
+                    "country": "IRI",
+                    "name": "Hamidreza MALEKZADEH"
+                },
+                {
+                    "country": "TUN",
+                    "name": "Mohamed BEN ZID"
+                },
+                {
+                    "winner": "Mohamed BEN ZID"
+                }
+            ],
+            [
+                {
+                    "country": "MAR",
+                    "name": "Zakariae AZIANI"
+                },
+                {
+                    "country": "TUN",
+                    "name": "Wahib HDIOUECH"
+                },
+                {
+                    "winner": "Wahib HDIOUECH"
+                }
+            ],
+            [
+                {
+                    "country": "TUN",
+                    "name": "Mohamed BEN ZID"
+                },
+                {
+                    "country": "TUN",
+                    "name": "Adem KOUKI"
+                },
+                {
+                    "winner": "Adem KOUKI"
+                }
+            ],
+            [
+                {
+                    "country": "TUN",
+                    "name": "Wahib HDIOUECH"
+                }
+            ],
+            [
+                {
+                    "country": "TUN",
+                    "name": "Adem KOUKI"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Wahib HDIOUECH",
+            "Adem KOUKI"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ALG",
+                    "name": "Mohamed El Mehdi LILI"
+                },
+                {
+                    "country": "TUN",
+                    "name": "Adem KOUKI"
+                },
+                {
+                    "winner": "Mohamed El Mehdi LILI"
+                }
+            ],
+            [
+                {
+                    "country": "TUN",
+                    "name": "Wahib HDIOUECH"
+                },
+                {
+                    "country": "IJF",
+                    "name": "Yahor KUKHARENKA"
+                },
+                {
+                    "winner": "Yahor KUKHARENKA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "ALG",
+                    "name": "Mohamed El Mehdi LILI"
+                },
+                {
+                    "country": "IJF",
+                    "name": "Yahor KUKHARENKA"
+                }
+            ]
+        ],
+        "final_winner": "Yahor KUKHARENKA"
+    }
+}

@@ -1,0 +1,129 @@
+{
+    "POOL A": {
+        "round 1-1": [],
+        "final_winner": "Zeineb TROUDI"
+    },
+    "POOL B": {
+        "round 1-1": [
+            [
+                {
+                    "country": "TUN",
+                    "name": "Wala CHERNI"
+                },
+                {
+                    "country": "ALG",
+                    "name": "Lina BENFEDDA"
+                }
+            ]
+        ],
+        "final_winner": "Lina BENFEDDA"
+    },
+    "POOL C": {
+        "round 1-1": [],
+        "final_winner": "Cherifa SABBAGH"
+    },
+    "POOL D": {
+        "round 1-1": [
+            [
+                {
+                    "country": "ALG",
+                    "name": "Loubna SMATI"
+                },
+                {
+                    "country": "TUN",
+                    "name": "Siwar BEN ZID"
+                }
+            ]
+        ],
+        "final_winner": "Siwar BEN ZID"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "TUN",
+                    "name": "Wala CHERNI"
+                }
+            ],
+            [
+                {
+                    "country": "ALG",
+                    "name": "Loubna SMATI"
+                }
+            ],
+            [
+                {
+                    "country": "TUN",
+                    "name": "Wala CHERNI"
+                },
+                {
+                    "country": "TUN",
+                    "name": "Cherifa SABBAGH"
+                },
+                {
+                    "winner": "Wala CHERNI"
+                }
+            ],
+            [
+                {
+                    "country": "ALG",
+                    "name": "Loubna SMATI"
+                },
+                {
+                    "country": "ALG",
+                    "name": "Lina BENFEDDA"
+                },
+                {
+                    "winner": "Loubna SMATI"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Wala CHERNI",
+            "Loubna SMATI"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "TUN",
+                    "name": "Zeineb TROUDI"
+                },
+                {
+                    "country": "ALG",
+                    "name": "Lina BENFEDDA"
+                },
+                {
+                    "winner": "Zeineb TROUDI"
+                }
+            ],
+            [
+                {
+                    "country": "TUN",
+                    "name": "Cherifa SABBAGH"
+                },
+                {
+                    "country": "TUN",
+                    "name": "Siwar BEN ZID"
+                },
+                {
+                    "winner": "Siwar BEN ZID"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "TUN",
+                    "name": "Zeineb TROUDI"
+                },
+                {
+                    "country": "TUN",
+                    "name": "Siwar BEN ZID"
+                }
+            ]
+        ],
+        "final_winner": "Zeineb TROUDI"
+    }
+}

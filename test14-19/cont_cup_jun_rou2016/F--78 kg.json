@@ -1,0 +1,274 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ISR",
+                    "name": "Raz HERSHKO"
+                },
+                {
+                    "winner": "Raz HERSHKO"
+                }
+            ],
+            [
+                {
+                    "country": "CAN",
+                    "name": "Ariane LEVESQUE"
+                },
+                {
+                    "winner": "Ariane LEVESQUE"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "ISR",
+                    "name": "Raz HERSHKO"
+                },
+                {
+                    "country": "CAN",
+                    "name": "Ariane LEVESQUE"
+                }
+            ],
+            [
+                {
+                    "country": "ISR",
+                    "name": "Raz HERSHKO"
+                }
+            ]
+        ]
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CZE",
+                    "name": "Alice MATEJCKOVA"
+                },
+                {
+                    "winner": "Alice MATEJCKOVA"
+                }
+            ],
+            [
+                {
+                    "country": "ROU",
+                    "name": "Alexandra MAZILU"
+                },
+                {
+                    "winner": "Alexandra MAZILU"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "CZE",
+                    "name": "Alice MATEJCKOVA"
+                },
+                {
+                    "country": "ROU",
+                    "name": "Alexandra MAZILU"
+                }
+            ],
+            [
+                {
+                    "country": "CZE",
+                    "name": "Alice MATEJCKOVA"
+                }
+            ]
+        ]
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CAN",
+                    "name": "Mina COULOMBE"
+                },
+                {
+                    "winner": "Mina COULOMBE"
+                }
+            ],
+            []
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "CAN",
+                    "name": "Mina COULOMBE"
+                }
+            ]
+        ]
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "BUL",
+                    "name": "Ilina STOYANOVA"
+                },
+                {
+                    "winner": "Ilina STOYANOVA"
+                }
+            ],
+            [
+                {
+                    "country": "UKR",
+                    "name": "Oksana PEREVOZNIUK"
+                },
+                {
+                    "winner": "Oksana PEREVOZNIUK"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "BUL",
+                    "name": "Ilina STOYANOVA"
+                },
+                {
+                    "country": "UKR",
+                    "name": "Oksana PEREVOZNIUK"
+                }
+            ],
+            [
+                {
+                    "country": "BUL",
+                    "name": "Ilina STOYANOVA"
+                }
+            ]
+        ]
+    },
+    "REPECHAGE": {
+        "round 1-4": [
+            [
+                {
+                    "country": "CAN",
+                    "name": "Ariane LEVESQUE"
+                },
+                {
+                    "winner": "Ariane LEVESQUE"
+                }
+            ],
+            [
+                {
+                    "country": "ROU",
+                    "name": "Alexandra MAZILU"
+                },
+                {
+                    "winner": "Alexandra MAZILU"
+                }
+            ],
+            [],
+            [
+                {
+                    "country": "UKR",
+                    "name": "Oksana PEREVOZNIUK"
+                },
+                {
+                    "winner": "Oksana PEREVOZNIUK"
+                }
+            ]
+        ],
+        "round 1-2": [
+            [
+                {
+                    "country": "CAN",
+                    "name": "Ariane LEVESQUE"
+                },
+                {
+                    "country": "ROU",
+                    "name": "Alexandra MAZILU"
+                }
+            ],
+            [
+                {
+                    "country": "UKR",
+                    "name": "Oksana PEREVOZNIUK"
+                }
+            ],
+            [
+                {
+                    "country": "CAN",
+                    "name": "Ariane LEVESQUE"
+                },
+                {
+                    "country": "BUL",
+                    "name": "Ilina STOYANOVA"
+                }
+            ],
+            [
+                {
+                    "country": "UKR",
+                    "name": "Oksana PEREVOZNIUK"
+                },
+                {
+                    "country": "CZE",
+                    "name": "Alice MATEJCKOVA"
+                }
+            ],
+            [
+                {
+                    "country": "BUL",
+                    "name": "Ilina STOYANOVA"
+                }
+            ],
+            [
+                {
+                    "country": "CZE",
+                    "name": "Alice MATEJCKOVA"
+                }
+            ]
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ISR",
+                    "name": "Raz HERSHKO"
+                },
+                {
+                    "country": "CZE",
+                    "name": "Alice MATEJCKOVA"
+                },
+                {
+                    "winner": "Raz HERSHKO"
+                }
+            ],
+            [
+                {
+                    "country": "CAN",
+                    "name": "Mina COULOMBE"
+                },
+                {
+                    "country": "BUL",
+                    "name": "Ilina STOYANOVA"
+                },
+                {
+                    "winner": "Mina COULOMBE"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "ISR",
+                    "name": "Raz HERSHKO"
+                },
+                {
+                    "country": "CAN",
+                    "name": "Mina COULOMBE"
+                }
+            ],
+            [
+                {
+                    "country": "ISR",
+                    "name": "Raz HERSHKO"
+                }
+            ]
+        ]
+    }
+}

@@ -1,0 +1,68 @@
+{
+    "ROUND 1": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CHI",
+                    "name": "Constanza PEREZ"
+                },
+                {
+                    "country": "CHI",
+                    "name": "Javiera SOTO"
+                },
+                {
+                    "winner": "Constanza PEREZ"
+                }
+            ],
+            [
+                {
+                    "country": "CHI",
+                    "name": "Marcela ALFARO"
+                },
+                {
+                    "country": "COL",
+                    "name": "Ingrid CHOCO"
+                },
+                {
+                    "winner": "Marcela ALFARO"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Constanza PEREZ",
+            "Marcela ALFARO"
+        ]
+    },
+    "REPECHAGE": {
+        "round 1-1": [
+            [
+                {
+                    "country": "CHI",
+                    "name": "Javiera SOTO"
+                },
+                {
+                    "country": "COL",
+                    "name": "Ingrid CHOCO"
+                },
+                {
+                    "winner": "Ingrid CHOCO"
+                }
+            ],
+            [
+                {
+                    "country": "COL",
+                    "name": "Ingrid CHOCO"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Ingrid CHOCO"
+        ]
+    },
+    "FINALS": {
+        "round 1-1": [],
+        "final_winners": [
+            "Marcela ALFARO"
+        ]
+    }
+}

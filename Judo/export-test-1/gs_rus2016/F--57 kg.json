@@ -1,0 +1,238 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "JPN",
+                    "name": "Tsukasa YOSHIDA"
+                },
+                {
+                    "winner": "Tsukasa YOSHIDA"
+                }
+            ],
+            []
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "JPN",
+                    "name": "Tsukasa YOSHIDA"
+                }
+            ],
+            []
+        ]
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "RUS",
+                    "name": "Sofia CHISTANOVA"
+                },
+                {
+                    "winner": "Sofia CHISTANOVA"
+                }
+            ],
+            [
+                {
+                    "country": "RUS",
+                    "name": "Aleksandra SALNIKOVA"
+                },
+                {
+                    "winner": "Aleksandra SALNIKOVA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "RUS",
+                    "name": "Sofia CHISTANOVA"
+                },
+                {
+                    "country": "RUS",
+                    "name": "Aleksandra SALNIKOVA"
+                }
+            ]
+        ],
+        "final_winner": "Aleksandra SALNIKOVA"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "SRB",
+                    "name": "Jovana ROGIC"
+                },
+                {
+                    "winner": "Jovana ROGIC"
+                }
+            ],
+            [
+                {
+                    "country": "RUS",
+                    "name": "Natalia GOLOMIDOVA"
+                },
+                {
+                    "winner": "Natalia GOLOMIDOVA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "SRB",
+                    "name": "Jovana ROGIC"
+                },
+                {
+                    "country": "RUS",
+                    "name": "Natalia GOLOMIDOVA"
+                }
+            ]
+        ],
+        "final_winner": "Jovana ROGIC"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "LUX",
+                    "name": "Manon DURBACH"
+                },
+                {
+                    "winner": "Manon DURBACH"
+                }
+            ],
+            [
+                {
+                    "country": "RUS",
+                    "name": "Daria KURBONMAMADOVA"
+                },
+                {
+                    "winner": "Daria KURBONMAMADOVA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "LUX",
+                    "name": "Manon DURBACH"
+                },
+                {
+                    "country": "RUS",
+                    "name": "Daria KURBONMAMADOVA"
+                }
+            ]
+        ],
+        "final_winner": "Daria KURBONMAMADOVA"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "RUS",
+                    "name": "Sofia CHISTANOVA"
+                }
+            ],
+            [
+                {
+                    "country": "RUS",
+                    "name": "Natalia GOLOMIDOVA"
+                },
+                {
+                    "country": "LUX",
+                    "name": "Manon DURBACH"
+                },
+                {
+                    "winner": "Natalia GOLOMIDOVA"
+                }
+            ],
+            [
+                {
+                    "country": "RUS",
+                    "name": "Sofia CHISTANOVA"
+                },
+                {
+                    "country": "SRB",
+                    "name": "Jovana ROGIC"
+                },
+                {
+                    "winner": "Jovana ROGIC"
+                }
+            ],
+            [
+                {
+                    "country": "RUS",
+                    "name": "Natalia GOLOMIDOVA"
+                },
+                {
+                    "country": "RUS",
+                    "name": "Aleksandra SALNIKOVA"
+                },
+                {
+                    "winner": "Natalia GOLOMIDOVA"
+                }
+            ],
+            [
+                {
+                    "country": "SRB",
+                    "name": "Jovana ROGIC"
+                }
+            ],
+            [
+                {
+                    "country": "RUS",
+                    "name": "Natalia GOLOMIDOVA"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Jovana ROGIC",
+            "Natalia GOLOMIDOVA"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "JPN",
+                    "name": "Tsukasa YOSHIDA"
+                },
+                {
+                    "country": "RUS",
+                    "name": "Aleksandra SALNIKOVA"
+                },
+                {
+                    "winner": "Tsukasa YOSHIDA"
+                }
+            ],
+            [
+                {
+                    "country": "SRB",
+                    "name": "Jovana ROGIC"
+                },
+                {
+                    "country": "RUS",
+                    "name": "Daria KURBONMAMADOVA"
+                },
+                {
+                    "winner": "Daria KURBONMAMADOVA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "JPN",
+                    "name": "Tsukasa YOSHIDA"
+                },
+                {
+                    "country": "RUS",
+                    "name": "Daria KURBONMAMADOVA"
+                }
+            ]
+        ],
+        "final_winner": "Tsukasa YOSHIDA"
+    }
+}

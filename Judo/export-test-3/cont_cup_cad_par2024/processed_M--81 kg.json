@@ -1,0 +1,68 @@
+{
+    "ROUND 1": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CHI",
+                    "name": "Matias FERNANDEZ"
+                },
+                {
+                    "country": "URU",
+                    "name": "Mathias Nahuel OTEN"
+                },
+                {
+                    "winner": "Mathias Nahuel OTEN"
+                }
+            ],
+            [
+                {
+                    "country": "PAR",
+                    "name": "Elias VERON FERNANDEZ"
+                },
+                {
+                    "country": "ECU",
+                    "name": "Dario RAMIREZ"
+                },
+                {
+                    "winner": "Dario RAMIREZ"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Mathias Nahuel OTEN",
+            "Dario RAMIREZ"
+        ]
+    },
+    "REPECHAGE": {
+        "round 1-1": [
+            [
+                {
+                    "country": "CHI",
+                    "name": "Matias FERNANDEZ"
+                },
+                {
+                    "country": "PAR",
+                    "name": "Elias VERON FERNANDEZ"
+                },
+                {
+                    "winner": "Matias FERNANDEZ"
+                }
+            ],
+            [
+                {
+                    "country": "CHI",
+                    "name": "Matias FERNANDEZ"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Matias FERNANDEZ"
+        ]
+    },
+    "FINALS": {
+        "round 1-1": [],
+        "final_winners": [
+            "Dario RAMIREZ"
+        ]
+    }
+}

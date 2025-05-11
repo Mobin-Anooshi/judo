@@ -1,0 +1,87 @@
+{
+    "POOL A": {
+        "round 1-3": [
+            [
+                {
+                    "country": "PUR",
+                    "name": "Ronix ROMERO DANS"
+                },
+                {
+                    "country": "USA",
+                    "name": "Anthony FARNOT"
+                },
+                {
+                    "winner": "Ronix ROMERO DANS"
+                }
+            ],
+            [
+                {
+                    "country": "PUR",
+                    "name": "Ronix ROMERO DANS"
+                },
+                {
+                    "country": "DOM",
+                    "name": "Jesus RODRIGUEZ"
+                },
+                {
+                    "winner": "Jesus RODRIGUEZ"
+                }
+            ],
+            [
+                {
+                    "country": "USA",
+                    "name": "Anthony FARNOT"
+                },
+                {
+                    "country": "DOM",
+                    "name": "Jesus RODRIGUEZ"
+                },
+                {
+                    "winner": "Anthony FARNOT"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Anthony FARNOT",
+            "Jesus RODRIGUEZ"
+        ]
+    },
+    "POOL B": {
+        "round 1-1": [],
+        "final_winners": [
+            "John HERNANDEZ"
+        ]
+    },
+    "REPECHAGE": {
+        "round 1-1": [
+            [
+                {
+                    "country": "DOM",
+                    "name": "Jesus RODRIGUEZ"
+                },
+                {
+                    "country": "DOM",
+                    "name": "Angel RAMIREZ"
+                },
+                {
+                    "winner": "Jesus RODRIGUEZ"
+                }
+            ],
+            [
+                {
+                    "country": "DOM",
+                    "name": "Jesus RODRIGUEZ"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Jesus RODRIGUEZ"
+        ]
+    },
+    "FINALS": {
+        "round 1-1": [],
+        "final_winners": [
+            "Anthony FARNOT"
+        ]
+    }
+}

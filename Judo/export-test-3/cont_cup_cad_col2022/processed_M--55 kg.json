@@ -1,0 +1,68 @@
+{
+    "ROUND 1": {
+        "round 1-2": [
+            [
+                {
+                    "country": "DOM",
+                    "name": "Manuel Eduardo SIMO GARCIA"
+                },
+                {
+                    "country": "COL",
+                    "name": "Jean Carlos MALDONADO"
+                },
+                {
+                    "winner": "Manuel Eduardo SIMO GARCIA"
+                }
+            ],
+            [
+                {
+                    "country": "CRC",
+                    "name": "Gabriel ZAMORA COTO"
+                },
+                {
+                    "country": "COL",
+                    "name": "Jeronimo MIRA PEREZ"
+                },
+                {
+                    "winner": "Jeronimo MIRA PEREZ"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Manuel Eduardo SIMO GARCIA",
+            "Jeronimo MIRA PEREZ"
+        ]
+    },
+    "REPECHAGE": {
+        "round 1-1": [
+            [
+                {
+                    "country": "COL",
+                    "name": "Jean Carlos MALDONADO"
+                },
+                {
+                    "country": "CRC",
+                    "name": "Gabriel ZAMORA COTO"
+                },
+                {
+                    "winner": "Gabriel ZAMORA COTO"
+                }
+            ],
+            [
+                {
+                    "country": "CRC",
+                    "name": "Gabriel ZAMORA COTO"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Gabriel ZAMORA COTO"
+        ]
+    },
+    "FINALS": {
+        "round 1-1": [],
+        "final_winners": [
+            "Jeronimo MIRA PEREZ"
+        ]
+    }
+}

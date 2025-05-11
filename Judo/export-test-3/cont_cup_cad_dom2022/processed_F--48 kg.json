@@ -1,0 +1,87 @@
+{
+    "POOL A": {
+        "round 1-3": [
+            [
+                {
+                    "country": "DOM",
+                    "name": "Sofia HERRERA"
+                },
+                {
+                    "country": "DOM",
+                    "name": "Jazmel PAULINO"
+                },
+                {
+                    "winner": "Sofia HERRERA"
+                }
+            ],
+            [
+                {
+                    "country": "DOM",
+                    "name": "Sofia HERRERA"
+                },
+                {
+                    "country": "PUR",
+                    "name": "Adriana ECHEVARRIA"
+                },
+                {
+                    "winner": "Adriana ECHEVARRIA"
+                }
+            ],
+            [
+                {
+                    "country": "DOM",
+                    "name": "Jazmel PAULINO"
+                },
+                {
+                    "country": "PUR",
+                    "name": "Adriana ECHEVARRIA"
+                },
+                {
+                    "winner": "Adriana ECHEVARRIA"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Sofia HERRERA",
+            "Adriana ECHEVARRIA"
+        ]
+    },
+    "POOL B": {
+        "round 1-1": [],
+        "final_winners": [
+            "Gabriela LOPEZ"
+        ]
+    },
+    "REPECHAGE": {
+        "round 1-1": [
+            [
+                {
+                    "country": "DOM",
+                    "name": "Sofia HERRERA"
+                },
+                {
+                    "country": "DOM",
+                    "name": "Vivianne GOMEZ"
+                },
+                {
+                    "winner": "Vivianne GOMEZ"
+                }
+            ],
+            [
+                {
+                    "country": "DOM",
+                    "name": "Vivianne GOMEZ"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Vivianne GOMEZ"
+        ]
+    },
+    "FINALS": {
+        "round 1-1": [],
+        "final_winners": [
+            "Gabriela LOPEZ"
+        ]
+    }
+}

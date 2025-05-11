@@ -1,0 +1,221 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ITA",
+                    "name": "Asya TAVANO"
+                },
+                {
+                    "winner": "Asya TAVANO"
+                }
+            ],
+            []
+        ],
+        "round 1-1": [],
+        "final_winner": "Asya TAVANO"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "LTU",
+                    "name": "Justina KMIELIAUSKAITE"
+                },
+                {
+                    "winner": "Justina KMIELIAUSKAITE"
+                }
+            ],
+            [
+                {
+                    "country": "DOM",
+                    "name": "Moira MORILLO"
+                },
+                {
+                    "winner": "Moira MORILLO"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "LTU",
+                    "name": "Justina KMIELIAUSKAITE"
+                },
+                {
+                    "country": "DOM",
+                    "name": "Moira MORILLO"
+                }
+            ]
+        ],
+        "final_winner": "Justina KMIELIAUSKAITE"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "RUS",
+                    "name": "Alana ALBOROVA"
+                },
+                {
+                    "winner": "Alana ALBOROVA"
+                }
+            ],
+            []
+        ],
+        "round 1-1": [],
+        "final_winner": "Alana ALBOROVA"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "SLO",
+                    "name": "Nicki NORCIC"
+                },
+                {
+                    "winner": "Nicki NORCIC"
+                }
+            ],
+            [
+                {
+                    "country": "FRA",
+                    "name": "Laurie-Laure LOBE"
+                },
+                {
+                    "winner": "Laurie-Laure LOBE"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "SLO",
+                    "name": "Nicki NORCIC"
+                },
+                {
+                    "country": "FRA",
+                    "name": "Laurie-Laure LOBE"
+                }
+            ]
+        ],
+        "final_winner": "Nicki NORCIC"
+    },
+    "REPECHAGE": {
+        "round 1-4": [
+            [],
+            [
+                {
+                    "country": "DOM",
+                    "name": "Moira MORILLO"
+                },
+                {
+                    "winner": "Moira MORILLO"
+                }
+            ],
+            [],
+            [
+                {
+                    "country": "FRA",
+                    "name": "Laurie-Laure LOBE"
+                },
+                {
+                    "winner": "Laurie-Laure LOBE"
+                }
+            ]
+        ],
+        "round 1-2": [
+            [
+                {
+                    "country": "DOM",
+                    "name": "Moira MORILLO"
+                }
+            ],
+            [
+                {
+                    "country": "FRA",
+                    "name": "Laurie-Laure LOBE"
+                }
+            ],
+            [
+                {
+                    "country": "DOM",
+                    "name": "Moira MORILLO"
+                },
+                {
+                    "country": "SLO",
+                    "name": "Nicki NORCIC"
+                },
+                {
+                    "winner": "Moira MORILLO"
+                }
+            ],
+            [
+                {
+                    "country": "FRA",
+                    "name": "Laurie-Laure LOBE"
+                },
+                {
+                    "country": "LTU",
+                    "name": "Justina KMIELIAUSKAITE"
+                },
+                {
+                    "winner": "Justina KMIELIAUSKAITE"
+                }
+            ],
+            [
+                {
+                    "country": "LTU",
+                    "name": "Justina KMIELIAUSKAITE"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Laurie-Laure LOBE",
+            "Moira MORILLO"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ITA",
+                    "name": "Asya TAVANO"
+                },
+                {
+                    "country": "LTU",
+                    "name": "Justina KMIELIAUSKAITE"
+                },
+                {
+                    "winner": "Asya TAVANO"
+                }
+            ],
+            [
+                {
+                    "country": "RUS",
+                    "name": "Alana ALBOROVA"
+                },
+                {
+                    "country": "SLO",
+                    "name": "Nicki NORCIC"
+                },
+                {
+                    "winner": "Alana ALBOROVA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "ITA",
+                    "name": "Asya TAVANO"
+                },
+                {
+                    "country": "RUS",
+                    "name": "Alana ALBOROVA"
+                }
+            ]
+        ],
+        "final_winner": "Alana ALBOROVA"
+    }
+}

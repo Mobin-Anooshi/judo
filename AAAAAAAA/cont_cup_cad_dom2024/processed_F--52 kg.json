@@ -1,0 +1,177 @@
+{
+    "POOL A": {
+        "round 1-1": [
+            [
+                {
+                    "country": "DOM",
+                    "name": "Samantha JOSEFA"
+                },
+                {
+                    "country": "COL",
+                    "name": "Melissa VILLADA"
+                }
+            ]
+        ],
+        "final_winner": "Melissa VILLADA"
+    },
+    "POOL B": {
+        "round 1-1": [
+            [
+                {
+                    "country": "DOM",
+                    "name": "Darianny LIRIANO CHALA"
+                },
+                {
+                    "country": "PAN",
+                    "name": "Laura DE LEON"
+                }
+            ]
+        ],
+        "final_winner": "Laura DE LEON"
+    },
+    "POOL C": {
+        "round 1-1": [
+            [
+                {
+                    "country": "CRC",
+                    "name": "Jimena MORALES GAMBOA"
+                },
+                {
+                    "country": "DOM",
+                    "name": "Maria DE LA ROSA"
+                }
+            ]
+        ],
+        "final_winner": "Jimena MORALES GAMBOA"
+    },
+    "POOL D": {
+        "round 1-1": [
+            [
+                {
+                    "country": "CRC",
+                    "name": "Valeria VASQUEZ CALDERON"
+                },
+                {
+                    "country": "PAN",
+                    "name": "Julieta ESCOBAR MUTIS"
+                }
+            ]
+        ],
+        "final_winner": "Valeria VASQUEZ CALDERON"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "DOM",
+                    "name": "Samantha JOSEFA"
+                },
+                {
+                    "country": "DOM",
+                    "name": "Darianny LIRIANO CHALA"
+                },
+                {
+                    "winner": "Samantha JOSEFA"
+                }
+            ],
+            [
+                {
+                    "country": "DOM",
+                    "name": "Maria DE LA ROSA"
+                },
+                {
+                    "country": "PAN",
+                    "name": "Julieta ESCOBAR MUTIS"
+                },
+                {
+                    "winner": "Julieta ESCOBAR MUTIS"
+                }
+            ],
+            [
+                {
+                    "country": "DOM",
+                    "name": "Samantha JOSEFA"
+                },
+                {
+                    "country": "CRC",
+                    "name": "Jimena MORALES GAMBOA"
+                },
+                {
+                    "winner": "Samantha JOSEFA"
+                }
+            ],
+            [
+                {
+                    "country": "PAN",
+                    "name": "Julieta ESCOBAR MUTIS"
+                },
+                {
+                    "country": "PAN",
+                    "name": "Laura DE LEON"
+                },
+                {
+                    "winner": "Julieta ESCOBAR MUTIS"
+                }
+            ],
+            [
+                {
+                    "country": "DOM",
+                    "name": "Samantha JOSEFA"
+                }
+            ],
+            [
+                {
+                    "country": "PAN",
+                    "name": "Julieta ESCOBAR MUTIS"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Samantha JOSEFA",
+            "Julieta ESCOBAR MUTIS"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "COL",
+                    "name": "Melissa VILLADA"
+                },
+                {
+                    "country": "PAN",
+                    "name": "Laura DE LEON"
+                },
+                {
+                    "winner": "Melissa VILLADA"
+                }
+            ],
+            [
+                {
+                    "country": "CRC",
+                    "name": "Jimena MORALES GAMBOA"
+                },
+                {
+                    "country": "CRC",
+                    "name": "Valeria VASQUEZ CALDERON"
+                },
+                {
+                    "winner": "Valeria VASQUEZ CALDERON"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "COL",
+                    "name": "Melissa VILLADA"
+                },
+                {
+                    "country": "CRC",
+                    "name": "Valeria VASQUEZ CALDERON"
+                }
+            ]
+        ],
+        "final_winner": "Melissa VILLADA"
+    }
+}

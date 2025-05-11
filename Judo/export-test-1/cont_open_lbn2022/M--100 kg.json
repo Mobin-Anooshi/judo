@@ -1,0 +1,135 @@
+{
+    "POOL A": {
+        "round 1-1": [],
+        "final_winner": "Grigori MINASKIN"
+    },
+    "POOL B": {
+        "round 1-1": [
+            [
+                {
+                    "country": "FRA",
+                    "name": "Marc Ewen CODJOGAN"
+                },
+                {
+                    "country": "GRE",
+                    "name": "Luka KHUSKIVADZE"
+                }
+            ]
+        ],
+        "final_winner": "Marc Ewen CODJOGAN"
+    },
+    "POOL C": {
+        "round 1-1": [],
+        "final_winner": "Nicolas PAVLOVSKI"
+    },
+    "POOL D": {
+        "round 1-1": [
+            [
+                {
+                    "country": "CYP",
+                    "name": "Georgios KROUSSANIOTAKIS"
+                },
+                {
+                    "country": "KUW",
+                    "name": "Ghanam ALDIKAN"
+                }
+            ]
+        ],
+        "final_winner": "Georgios KROUSSANIOTAKIS"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "GRE",
+                    "name": "Luka KHUSKIVADZE"
+                }
+            ],
+            [
+                {
+                    "country": "KUW",
+                    "name": "Ghanam ALDIKAN"
+                }
+            ],
+            [
+                {
+                    "country": "GRE",
+                    "name": "Luka KHUSKIVADZE"
+                },
+                {
+                    "country": "FRA",
+                    "name": "Nicolas PAVLOVSKI"
+                },
+                {
+                    "winner": "Nicolas PAVLOVSKI"
+                }
+            ],
+            [
+                {
+                    "country": "KUW",
+                    "name": "Ghanam ALDIKAN"
+                },
+                {
+                    "country": "FRA",
+                    "name": "Marc Ewen CODJOGAN"
+                },
+                {
+                    "winner": "Ghanam ALDIKAN"
+                }
+            ],
+            [
+                {
+                    "country": "FRA",
+                    "name": "Nicolas PAVLOVSKI"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Ghanam ALDIKAN",
+            "Nicolas PAVLOVSKI"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "EST",
+                    "name": "Grigori MINASKIN"
+                },
+                {
+                    "country": "FRA",
+                    "name": "Marc Ewen CODJOGAN"
+                },
+                {
+                    "winner": "Grigori MINASKIN"
+                }
+            ],
+            [
+                {
+                    "country": "FRA",
+                    "name": "Nicolas PAVLOVSKI"
+                },
+                {
+                    "country": "CYP",
+                    "name": "Georgios KROUSSANIOTAKIS"
+                },
+                {
+                    "winner": "Georgios KROUSSANIOTAKIS"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "EST",
+                    "name": "Grigori MINASKIN"
+                },
+                {
+                    "country": "CYP",
+                    "name": "Georgios KROUSSANIOTAKIS"
+                }
+            ]
+        ],
+        "final_winner": "Grigori MINASKIN"
+    }
+}

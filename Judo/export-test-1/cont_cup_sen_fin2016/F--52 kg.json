@@ -1,0 +1,307 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "FIN",
+                    "name": "Katri KAKKO"
+                },
+                {
+                    "winner": "Katri KAKKO"
+                }
+            ],
+            [
+                {
+                    "country": "FRA",
+                    "name": "Julia ROSSO"
+                },
+                {
+                    "country": "ITA",
+                    "name": "Romina PASSA"
+                },
+                {
+                    "winner": "Julia ROSSO"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "FIN",
+                    "name": "Katri KAKKO"
+                },
+                {
+                    "country": "FRA",
+                    "name": "Julia ROSSO"
+                }
+            ]
+        ],
+        "final_winner": "Katri KAKKO"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "SUI",
+                    "name": "Tamara SILVA"
+                },
+                {
+                    "winner": "Tamara SILVA"
+                }
+            ],
+            [
+                {
+                    "country": "FIN",
+                    "name": "Sini OINONEN"
+                },
+                {
+                    "country": "RUS",
+                    "name": "Nadezhda ANDREEVA"
+                },
+                {
+                    "winner": "Nadezhda ANDREEVA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "SUI",
+                    "name": "Tamara SILVA"
+                },
+                {
+                    "country": "RUS",
+                    "name": "Nadezhda ANDREEVA"
+                }
+            ]
+        ],
+        "final_winner": "Tamara SILVA"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ITA",
+                    "name": "Fabiola PIDRONI"
+                },
+                {
+                    "winner": "Fabiola PIDRONI"
+                }
+            ],
+            [
+                {
+                    "country": "SUI",
+                    "name": "Rosalie TRIGUEIRA"
+                },
+                {
+                    "winner": "Rosalie TRIGUEIRA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "ITA",
+                    "name": "Fabiola PIDRONI"
+                },
+                {
+                    "country": "SUI",
+                    "name": "Rosalie TRIGUEIRA"
+                }
+            ]
+        ],
+        "final_winner": "Fabiola PIDRONI"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "NOR",
+                    "name": "Madelene RUBINSTEIN"
+                },
+                {
+                    "winner": "Madelene RUBINSTEIN"
+                }
+            ],
+            [
+                {
+                    "country": "USA",
+                    "name": "Kristin EL IDRISSI"
+                },
+                {
+                    "country": "FIN",
+                    "name": "Taina KAIPONEN"
+                },
+                {
+                    "winner": "Taina KAIPONEN"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "NOR",
+                    "name": "Madelene RUBINSTEIN"
+                },
+                {
+                    "country": "FIN",
+                    "name": "Taina KAIPONEN"
+                }
+            ]
+        ],
+        "final_winner": "Madelene RUBINSTEIN"
+    },
+    "REPECHAGE": {
+        "round 1-4": [
+            [
+                {
+                    "country": "FRA",
+                    "name": "Julia ROSSO"
+                },
+                {
+                    "winner": "Julia ROSSO"
+                }
+            ],
+            [
+                {
+                    "country": "RUS",
+                    "name": "Nadezhda ANDREEVA"
+                },
+                {
+                    "winner": "Nadezhda ANDREEVA"
+                }
+            ],
+            [
+                {
+                    "country": "SUI",
+                    "name": "Rosalie TRIGUEIRA"
+                },
+                {
+                    "winner": "Rosalie TRIGUEIRA"
+                }
+            ],
+            [
+                {
+                    "country": "FIN",
+                    "name": "Taina KAIPONEN"
+                },
+                {
+                    "winner": "Taina KAIPONEN"
+                }
+            ]
+        ],
+        "round 1-2": [
+            [
+                {
+                    "country": "FRA",
+                    "name": "Julia ROSSO"
+                },
+                {
+                    "country": "RUS",
+                    "name": "Nadezhda ANDREEVA"
+                },
+                {
+                    "winner": "Julia ROSSO"
+                }
+            ],
+            [
+                {
+                    "country": "SUI",
+                    "name": "Rosalie TRIGUEIRA"
+                },
+                {
+                    "country": "FIN",
+                    "name": "Taina KAIPONEN"
+                },
+                {
+                    "winner": "Rosalie TRIGUEIRA"
+                }
+            ],
+            [
+                {
+                    "country": "FRA",
+                    "name": "Julia ROSSO"
+                },
+                {
+                    "country": "NOR",
+                    "name": "Madelene RUBINSTEIN"
+                },
+                {
+                    "winner": "Julia ROSSO"
+                }
+            ],
+            [
+                {
+                    "country": "SUI",
+                    "name": "Rosalie TRIGUEIRA"
+                },
+                {
+                    "country": "SUI",
+                    "name": "Tamara SILVA"
+                },
+                {
+                    "winner": "Tamara SILVA"
+                }
+            ],
+            [
+                {
+                    "country": "FRA",
+                    "name": "Julia ROSSO"
+                }
+            ],
+            [
+                {
+                    "country": "SUI",
+                    "name": "Tamara SILVA"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Julia ROSSO",
+            "Tamara SILVA"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "FIN",
+                    "name": "Katri KAKKO"
+                },
+                {
+                    "country": "SUI",
+                    "name": "Tamara SILVA"
+                },
+                {
+                    "winner": "Katri KAKKO"
+                }
+            ],
+            [
+                {
+                    "country": "ITA",
+                    "name": "Fabiola PIDRONI"
+                },
+                {
+                    "country": "NOR",
+                    "name": "Madelene RUBINSTEIN"
+                },
+                {
+                    "winner": "Fabiola PIDRONI"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "FIN",
+                    "name": "Katri KAKKO"
+                },
+                {
+                    "country": "ITA",
+                    "name": "Fabiola PIDRONI"
+                }
+            ]
+        ],
+        "final_winner": "Katri KAKKO"
+    }
+}

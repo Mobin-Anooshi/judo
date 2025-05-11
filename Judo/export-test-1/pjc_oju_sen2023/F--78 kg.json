@@ -1,0 +1,269 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Mayra AGUIAR"
+                },
+                {
+                    "winner": "Mayra AGUIAR"
+                }
+            ],
+            [
+                {
+                    "country": "USA",
+                    "name": "Nicole STOUT"
+                },
+                {
+                    "country": "AUS",
+                    "name": "Maria SWAN"
+                },
+                {
+                    "winner": "Maria SWAN"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Mayra AGUIAR"
+                },
+                {
+                    "country": "AUS",
+                    "name": "Maria SWAN"
+                }
+            ]
+        ],
+        "final_winner": "Mayra AGUIAR"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "COL",
+                    "name": "Brenda OLAYA"
+                },
+                {
+                    "winner": "Brenda OLAYA"
+                }
+            ],
+            [
+                {
+                    "country": "PER",
+                    "name": "Camila FIGUEROA"
+                },
+                {
+                    "winner": "Camila FIGUEROA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "COL",
+                    "name": "Brenda OLAYA"
+                },
+                {
+                    "country": "PER",
+                    "name": "Camila FIGUEROA"
+                }
+            ]
+        ],
+        "final_winner": "Camila FIGUEROA"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "NZL",
+                    "name": "Moira DE VILLIERS"
+                },
+                {
+                    "winner": "Moira DE VILLIERS"
+                }
+            ],
+            [
+                {
+                    "country": "PUR",
+                    "name": "Sairy COLON"
+                },
+                {
+                    "country": "AUS",
+                    "name": "Abigail PADUCH"
+                },
+                {
+                    "winner": "Abigail PADUCH"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "NZL",
+                    "name": "Moira DE VILLIERS"
+                },
+                {
+                    "country": "AUS",
+                    "name": "Abigail PADUCH"
+                }
+            ]
+        ],
+        "final_winner": "Moira DE VILLIERS"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ECU",
+                    "name": "Vanessa CHALA"
+                },
+                {
+                    "winner": "Vanessa CHALA"
+                }
+            ],
+            [
+                {
+                    "country": "CAN",
+                    "name": "Coralie GODBOUT"
+                },
+                {
+                    "country": "CUB",
+                    "name": "Lianet CARDONA"
+                },
+                {
+                    "winner": "Lianet CARDONA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "ECU",
+                    "name": "Vanessa CHALA"
+                },
+                {
+                    "country": "CUB",
+                    "name": "Lianet CARDONA"
+                }
+            ]
+        ],
+        "final_winner": "Lianet CARDONA"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "AUS",
+                    "name": "Maria SWAN"
+                },
+                {
+                    "country": "COL",
+                    "name": "Brenda OLAYA"
+                },
+                {
+                    "winner": "Maria SWAN"
+                }
+            ],
+            [
+                {
+                    "country": "AUS",
+                    "name": "Abigail PADUCH"
+                },
+                {
+                    "country": "ECU",
+                    "name": "Vanessa CHALA"
+                },
+                {
+                    "winner": "Vanessa CHALA"
+                }
+            ],
+            [
+                {
+                    "country": "AUS",
+                    "name": "Maria SWAN"
+                },
+                {
+                    "country": "CUB",
+                    "name": "Lianet CARDONA"
+                },
+                {
+                    "winner": "Maria SWAN"
+                }
+            ],
+            [
+                {
+                    "country": "ECU",
+                    "name": "Vanessa CHALA"
+                },
+                {
+                    "country": "PER",
+                    "name": "Camila FIGUEROA"
+                },
+                {
+                    "winner": "Vanessa CHALA"
+                }
+            ],
+            [
+                {
+                    "country": "AUS",
+                    "name": "Maria SWAN"
+                }
+            ],
+            [
+                {
+                    "country": "ECU",
+                    "name": "Vanessa CHALA"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Maria SWAN",
+            "Vanessa CHALA"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Mayra AGUIAR"
+                },
+                {
+                    "country": "PER",
+                    "name": "Camila FIGUEROA"
+                },
+                {
+                    "winner": "Mayra AGUIAR"
+                }
+            ],
+            [
+                {
+                    "country": "NZL",
+                    "name": "Moira DE VILLIERS"
+                },
+                {
+                    "country": "CUB",
+                    "name": "Lianet CARDONA"
+                },
+                {
+                    "winner": "Moira DE VILLIERS"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Mayra AGUIAR"
+                },
+                {
+                    "country": "NZL",
+                    "name": "Moira DE VILLIERS"
+                }
+            ]
+        ],
+        "final_winner": "Mayra AGUIAR"
+    }
+}

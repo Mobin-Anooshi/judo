@@ -1,0 +1,255 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CRO",
+                    "name": "Ivana SUTALO"
+                },
+                {
+                    "winner": "Ivana SUTALO"
+                }
+            ],
+            []
+        ],
+        "round 1-1": [],
+        "final_winner": "Ivana SUTALO"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CRO",
+                    "name": "Zrinka MIOCIC"
+                },
+                {
+                    "winner": "Zrinka MIOCIC"
+                }
+            ],
+            [
+                {
+                    "country": "FRA",
+                    "name": "Lucie DUPIN"
+                },
+                {
+                    "winner": "Lucie DUPIN"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "CRO",
+                    "name": "Zrinka MIOCIC"
+                },
+                {
+                    "country": "FRA",
+                    "name": "Lucie DUPIN"
+                }
+            ]
+        ],
+        "final_winner": "Lucie DUPIN"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CRO",
+                    "name": "Tina RADIC"
+                },
+                {
+                    "winner": "Tina RADIC"
+                }
+            ],
+            [
+                {
+                    "country": "CRO",
+                    "name": "Ivana MARANIC"
+                },
+                {
+                    "winner": "Ivana MARANIC"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "CRO",
+                    "name": "Tina RADIC"
+                },
+                {
+                    "country": "CRO",
+                    "name": "Ivana MARANIC"
+                }
+            ]
+        ],
+        "final_winner": "Ivana MARANIC"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "MNE",
+                    "name": "Jovana NIKIC"
+                },
+                {
+                    "winner": "Jovana NIKIC"
+                }
+            ],
+            [
+                {
+                    "country": "CRO",
+                    "name": "Katarina Lucija VUKOVIC"
+                },
+                {
+                    "winner": "Katarina Lucija VUKOVIC"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "MNE",
+                    "name": "Jovana NIKIC"
+                },
+                {
+                    "country": "CRO",
+                    "name": "Katarina Lucija VUKOVIC"
+                }
+            ]
+        ],
+        "final_winner": "Jovana NIKIC"
+    },
+    "REPECHAGE": {
+        "round 1-4": [
+            [],
+            [
+                {
+                    "country": "CRO",
+                    "name": "Zrinka MIOCIC"
+                },
+                {
+                    "winner": "Zrinka MIOCIC"
+                }
+            ],
+            [
+                {
+                    "country": "CRO",
+                    "name": "Tina RADIC"
+                },
+                {
+                    "winner": "Tina RADIC"
+                }
+            ],
+            [
+                {
+                    "country": "CRO",
+                    "name": "Katarina Lucija VUKOVIC"
+                },
+                {
+                    "winner": "Katarina Lucija VUKOVIC"
+                }
+            ]
+        ],
+        "round 1-2": [
+            [
+                {
+                    "country": "CRO",
+                    "name": "Zrinka MIOCIC"
+                }
+            ],
+            [
+                {
+                    "country": "CRO",
+                    "name": "Tina RADIC"
+                },
+                {
+                    "country": "CRO",
+                    "name": "Katarina Lucija VUKOVIC"
+                },
+                {
+                    "winner": "Tina RADIC"
+                }
+            ],
+            [
+                {
+                    "country": "CRO",
+                    "name": "Zrinka MIOCIC"
+                },
+                {
+                    "country": "MNE",
+                    "name": "Jovana NIKIC"
+                },
+                {
+                    "winner": "Zrinka MIOCIC"
+                }
+            ],
+            [
+                {
+                    "country": "CRO",
+                    "name": "Tina RADIC"
+                },
+                {
+                    "country": "FRA",
+                    "name": "Lucie DUPIN"
+                },
+                {
+                    "winner": "Tina RADIC"
+                }
+            ],
+            [
+                {
+                    "country": "CRO",
+                    "name": "Tina RADIC"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Tina RADIC",
+            "Zrinka MIOCIC"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CRO",
+                    "name": "Ivana SUTALO"
+                },
+                {
+                    "country": "FRA",
+                    "name": "Lucie DUPIN"
+                },
+                {
+                    "winner": "Ivana SUTALO"
+                }
+            ],
+            [
+                {
+                    "country": "CRO",
+                    "name": "Ivana MARANIC"
+                },
+                {
+                    "country": "MNE",
+                    "name": "Jovana NIKIC"
+                },
+                {
+                    "winner": "Ivana MARANIC"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "CRO",
+                    "name": "Ivana SUTALO"
+                },
+                {
+                    "country": "CRO",
+                    "name": "Ivana MARANIC"
+                }
+            ]
+        ],
+        "final_winner": "Ivana MARANIC"
+    }
+}

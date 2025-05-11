@@ -1,0 +1,261 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "RUS",
+                    "name": "Alexandra GIMALETDINOVA"
+                },
+                {
+                    "winner": "Alexandra GIMALETDINOVA"
+                }
+            ],
+            []
+        ],
+        "round 1-1": [],
+        "final_winner": "Alexandra GIMALETDINOVA"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ITA",
+                    "name": "Giorgia STANGHERLIN"
+                },
+                {
+                    "winner": "Giorgia STANGHERLIN"
+                }
+            ],
+            [
+                {
+                    "country": "ROU",
+                    "name": "Alexandra MAZILU"
+                },
+                {
+                    "winner": "Alexandra MAZILU"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "ITA",
+                    "name": "Giorgia STANGHERLIN"
+                },
+                {
+                    "country": "ROU",
+                    "name": "Alexandra MAZILU"
+                }
+            ]
+        ],
+        "final_winner": "Giorgia STANGHERLIN"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "SLO",
+                    "name": "Tamara KRALJIC"
+                },
+                {
+                    "winner": "Tamara KRALJIC"
+                }
+            ],
+            [
+                {
+                    "country": "UKR",
+                    "name": "Oksana PEREVOZNIUK"
+                },
+                {
+                    "winner": "Oksana PEREVOZNIUK"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "SLO",
+                    "name": "Tamara KRALJIC"
+                },
+                {
+                    "country": "UKR",
+                    "name": "Oksana PEREVOZNIUK"
+                }
+            ]
+        ],
+        "final_winner": "Tamara KRALJIC"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "KAZ",
+                    "name": "Perizat KADIRBEKOVA"
+                },
+                {
+                    "winner": "Perizat KADIRBEKOVA"
+                }
+            ],
+            [
+                {
+                    "country": "KAZ",
+                    "name": "Elmira SAMIGOLLAYEVA"
+                },
+                {
+                    "winner": "Elmira SAMIGOLLAYEVA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "KAZ",
+                    "name": "Perizat KADIRBEKOVA"
+                },
+                {
+                    "country": "KAZ",
+                    "name": "Elmira SAMIGOLLAYEVA"
+                }
+            ]
+        ],
+        "final_winner": "Perizat KADIRBEKOVA"
+    },
+    "REPECHAGE": {
+        "round 1-4": [
+            [],
+            [
+                {
+                    "country": "ROU",
+                    "name": "Alexandra MAZILU"
+                },
+                {
+                    "winner": "Alexandra MAZILU"
+                }
+            ],
+            [
+                {
+                    "country": "UKR",
+                    "name": "Oksana PEREVOZNIUK"
+                },
+                {
+                    "winner": "Oksana PEREVOZNIUK"
+                }
+            ],
+            [
+                {
+                    "country": "KAZ",
+                    "name": "Elmira SAMIGOLLAYEVA"
+                },
+                {
+                    "winner": "Elmira SAMIGOLLAYEVA"
+                }
+            ]
+        ],
+        "round 1-2": [
+            [
+                {
+                    "country": "ROU",
+                    "name": "Alexandra MAZILU"
+                }
+            ],
+            [
+                {
+                    "country": "UKR",
+                    "name": "Oksana PEREVOZNIUK"
+                },
+                {
+                    "country": "KAZ",
+                    "name": "Elmira SAMIGOLLAYEVA"
+                },
+                {
+                    "winner": "Elmira SAMIGOLLAYEVA"
+                }
+            ],
+            [
+                {
+                    "country": "ROU",
+                    "name": "Alexandra MAZILU"
+                },
+                {
+                    "country": "SLO",
+                    "name": "Tamara KRALJIC"
+                },
+                {
+                    "winner": "Tamara KRALJIC"
+                }
+            ],
+            [
+                {
+                    "country": "KAZ",
+                    "name": "Elmira SAMIGOLLAYEVA"
+                },
+                {
+                    "country": "ITA",
+                    "name": "Giorgia STANGHERLIN"
+                },
+                {
+                    "winner": "Giorgia STANGHERLIN"
+                }
+            ],
+            [
+                {
+                    "country": "SLO",
+                    "name": "Tamara KRALJIC"
+                }
+            ],
+            [
+                {
+                    "country": "ITA",
+                    "name": "Giorgia STANGHERLIN"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Tamara KRALJIC",
+            "Giorgia STANGHERLIN"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "RUS",
+                    "name": "Alexandra GIMALETDINOVA"
+                },
+                {
+                    "country": "ITA",
+                    "name": "Giorgia STANGHERLIN"
+                },
+                {
+                    "winner": "Alexandra GIMALETDINOVA"
+                }
+            ],
+            [
+                {
+                    "country": "SLO",
+                    "name": "Tamara KRALJIC"
+                },
+                {
+                    "country": "KAZ",
+                    "name": "Perizat KADIRBEKOVA"
+                },
+                {
+                    "winner": "Perizat KADIRBEKOVA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "RUS",
+                    "name": "Alexandra GIMALETDINOVA"
+                },
+                {
+                    "country": "KAZ",
+                    "name": "Perizat KADIRBEKOVA"
+                }
+            ]
+        ],
+        "final_winner": "Alexandra GIMALETDINOVA"
+    }
+}

@@ -1,0 +1,129 @@
+{
+    "POOL A": {
+        "round 1-1": [],
+        "final_winner": "Amani KUESTER"
+    },
+    "POOL B": {
+        "round 1-1": [
+            [
+                {
+                    "country": "SRB",
+                    "name": "Anastasija BOGDANOVIC"
+                },
+                {
+                    "country": "ITA",
+                    "name": "Tiziana MARINI"
+                }
+            ]
+        ],
+        "final_winner": "Anastasija BOGDANOVIC"
+    },
+    "POOL C": {
+        "round 1-1": [],
+        "final_winner": "Ivana MARANIC"
+    },
+    "POOL D": {
+        "round 1-1": [
+            [
+                {
+                    "country": "POL",
+                    "name": "Wiktoria LIS"
+                },
+                {
+                    "country": "BIH",
+                    "name": "Lana BJELICA"
+                }
+            ]
+        ],
+        "final_winner": "Wiktoria LIS"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ITA",
+                    "name": "Tiziana MARINI"
+                }
+            ],
+            [
+                {
+                    "country": "BIH",
+                    "name": "Lana BJELICA"
+                }
+            ],
+            [
+                {
+                    "country": "ITA",
+                    "name": "Tiziana MARINI"
+                },
+                {
+                    "country": "CRO",
+                    "name": "Ivana MARANIC"
+                },
+                {
+                    "winner": "Tiziana MARINI"
+                }
+            ],
+            [
+                {
+                    "country": "BIH",
+                    "name": "Lana BJELICA"
+                },
+                {
+                    "country": "GER",
+                    "name": "Amani KUESTER"
+                },
+                {
+                    "winner": "Lana BJELICA"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Tiziana MARINI",
+            "Lana BJELICA"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "GER",
+                    "name": "Amani KUESTER"
+                },
+                {
+                    "country": "SRB",
+                    "name": "Anastasija BOGDANOVIC"
+                },
+                {
+                    "winner": "Anastasija BOGDANOVIC"
+                }
+            ],
+            [
+                {
+                    "country": "CRO",
+                    "name": "Ivana MARANIC"
+                },
+                {
+                    "country": "POL",
+                    "name": "Wiktoria LIS"
+                },
+                {
+                    "winner": "Wiktoria LIS"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "SRB",
+                    "name": "Anastasija BOGDANOVIC"
+                },
+                {
+                    "country": "POL",
+                    "name": "Wiktoria LIS"
+                }
+            ]
+        ],
+        "final_winner": "Wiktoria LIS"
+    }
+}

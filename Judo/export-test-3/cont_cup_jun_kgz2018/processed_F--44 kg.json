@@ -1,0 +1,68 @@
+{
+    "ROUND 1": {
+        "round 1-2": [
+            [
+                {
+                    "country": "UZB",
+                    "name": "Gulnur MURATBAEVA"
+                },
+                {
+                    "country": "KGZ",
+                    "name": "Syrga SADYBAKASOVA"
+                },
+                {
+                    "winner": "Gulnur MURATBAEVA"
+                }
+            ],
+            [
+                {
+                    "country": "KAZ",
+                    "name": "Margarita BAZHAYEVA"
+                },
+                {
+                    "country": "RUS",
+                    "name": "Vladlena FARAKHUTDINOVA"
+                },
+                {
+                    "winner": "Margarita BAZHAYEVA"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Gulnur MURATBAEVA",
+            "Margarita BAZHAYEVA"
+        ]
+    },
+    "REPECHAGE": {
+        "round 1-1": [
+            [
+                {
+                    "country": "KGZ",
+                    "name": "Syrga SADYBAKASOVA"
+                },
+                {
+                    "country": "RUS",
+                    "name": "Vladlena FARAKHUTDINOVA"
+                },
+                {
+                    "winner": "Vladlena FARAKHUTDINOVA"
+                }
+            ],
+            [
+                {
+                    "country": "RUS",
+                    "name": "Vladlena FARAKHUTDINOVA"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Vladlena FARAKHUTDINOVA"
+        ]
+    },
+    "FINALS": {
+        "round 1-1": [],
+        "final_winners": [
+            "Gulnur MURATBAEVA"
+        ]
+    }
+}

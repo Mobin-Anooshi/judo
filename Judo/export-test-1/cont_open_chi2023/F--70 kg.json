@@ -1,0 +1,269 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ECU",
+                    "name": "Celinda COROZO"
+                },
+                {
+                    "winner": "Celinda COROZO"
+                }
+            ],
+            [
+                {
+                    "country": "CHI",
+                    "name": "Fernanda CORNEJO"
+                },
+                {
+                    "country": "USA",
+                    "name": "Yasmin ALAMIN"
+                },
+                {
+                    "winner": "Yasmin ALAMIN"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "ECU",
+                    "name": "Celinda COROZO"
+                },
+                {
+                    "country": "USA",
+                    "name": "Yasmin ALAMIN"
+                }
+            ]
+        ],
+        "final_winner": "Celinda COROZO"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "USA",
+                    "name": "Shavon GONZALEZ"
+                },
+                {
+                    "winner": "Shavon GONZALEZ"
+                }
+            ],
+            [
+                {
+                    "country": "ARG",
+                    "name": "Joaquina NIETO"
+                },
+                {
+                    "winner": "Joaquina NIETO"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "USA",
+                    "name": "Shavon GONZALEZ"
+                },
+                {
+                    "country": "ARG",
+                    "name": "Joaquina NIETO"
+                }
+            ]
+        ],
+        "final_winner": "Joaquina NIETO"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Eduarda ROSA"
+                },
+                {
+                    "winner": "Eduarda ROSA"
+                }
+            ],
+            [
+                {
+                    "country": "CHI",
+                    "name": "Jade ULLOA"
+                },
+                {
+                    "country": "CHI",
+                    "name": "Camila LAGOS"
+                },
+                {
+                    "winner": "Camila LAGOS"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Eduarda ROSA"
+                },
+                {
+                    "country": "CHI",
+                    "name": "Camila LAGOS"
+                }
+            ]
+        ],
+        "final_winner": "Eduarda ROSA"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "USA",
+                    "name": "Melissa MYERS"
+                },
+                {
+                    "winner": "Melissa MYERS"
+                }
+            ],
+            [
+                {
+                    "country": "MEX",
+                    "name": "Katia CASTILLO"
+                },
+                {
+                    "country": "CHI",
+                    "name": "Mackarenna FIGUEROA"
+                },
+                {
+                    "winner": "Katia CASTILLO"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "USA",
+                    "name": "Melissa MYERS"
+                },
+                {
+                    "country": "MEX",
+                    "name": "Katia CASTILLO"
+                }
+            ]
+        ],
+        "final_winner": "Katia CASTILLO"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "USA",
+                    "name": "Yasmin ALAMIN"
+                },
+                {
+                    "country": "USA",
+                    "name": "Shavon GONZALEZ"
+                },
+                {
+                    "winner": "Yasmin ALAMIN"
+                }
+            ],
+            [
+                {
+                    "country": "CHI",
+                    "name": "Camila LAGOS"
+                },
+                {
+                    "country": "USA",
+                    "name": "Melissa MYERS"
+                },
+                {
+                    "winner": "Camila LAGOS"
+                }
+            ],
+            [
+                {
+                    "country": "USA",
+                    "name": "Yasmin ALAMIN"
+                },
+                {
+                    "country": "MEX",
+                    "name": "Katia CASTILLO"
+                },
+                {
+                    "winner": "Yasmin ALAMIN"
+                }
+            ],
+            [
+                {
+                    "country": "CHI",
+                    "name": "Camila LAGOS"
+                },
+                {
+                    "country": "ARG",
+                    "name": "Joaquina NIETO"
+                },
+                {
+                    "winner": "Joaquina NIETO"
+                }
+            ],
+            [
+                {
+                    "country": "USA",
+                    "name": "Yasmin ALAMIN"
+                }
+            ],
+            [
+                {
+                    "country": "ARG",
+                    "name": "Joaquina NIETO"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Yasmin ALAMIN",
+            "Joaquina NIETO"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ECU",
+                    "name": "Celinda COROZO"
+                },
+                {
+                    "country": "ARG",
+                    "name": "Joaquina NIETO"
+                },
+                {
+                    "winner": "Celinda COROZO"
+                }
+            ],
+            [
+                {
+                    "country": "BRA",
+                    "name": "Eduarda ROSA"
+                },
+                {
+                    "country": "MEX",
+                    "name": "Katia CASTILLO"
+                },
+                {
+                    "winner": "Eduarda ROSA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "ECU",
+                    "name": "Celinda COROZO"
+                },
+                {
+                    "country": "BRA",
+                    "name": "Eduarda ROSA"
+                }
+            ]
+        ],
+        "final_winner": "Celinda COROZO"
+    }
+}

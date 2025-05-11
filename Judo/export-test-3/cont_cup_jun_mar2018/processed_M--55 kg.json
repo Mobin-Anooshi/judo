@@ -1,0 +1,68 @@
+{
+    "ROUND 1": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ITA",
+                    "name": "Mattia MARTELLONI"
+                },
+                {
+                    "country": "MAR",
+                    "name": "Anass ELALAMI ELIDRISSI"
+                },
+                {
+                    "winner": "Mattia MARTELLONI"
+                }
+            ],
+            [
+                {
+                    "country": "ITA",
+                    "name": "Antonio CORSALE"
+                },
+                {
+                    "country": "MAR",
+                    "name": "Abdelali HAKIKA"
+                },
+                {
+                    "winner": "Abdelali HAKIKA"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Mattia MARTELLONI",
+            "Abdelali HAKIKA"
+        ]
+    },
+    "REPECHAGE": {
+        "round 1-1": [
+            [
+                {
+                    "country": "MAR",
+                    "name": "Anass ELALAMI ELIDRISSI"
+                },
+                {
+                    "country": "ITA",
+                    "name": "Antonio CORSALE"
+                },
+                {
+                    "winner": "Antonio CORSALE"
+                }
+            ],
+            [
+                {
+                    "country": "ITA",
+                    "name": "Antonio CORSALE"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Antonio CORSALE"
+        ]
+    },
+    "FINALS": {
+        "round 1-1": [],
+        "final_winners": [
+            "Mattia MARTELLONI"
+        ]
+    }
+}

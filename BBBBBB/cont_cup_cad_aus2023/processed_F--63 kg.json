@@ -1,0 +1,177 @@
+{
+    "POOL A": {
+        "round 1-1": [
+            [
+                {
+                    "country": "AUS",
+                    "name": "Gabrielle WOODWARD"
+                },
+                {
+                    "country": "AUS",
+                    "name": "Lily TAI TIN"
+                }
+            ]
+        ],
+        "final_winner": "Gabrielle WOODWARD"
+    },
+    "POOL B": {
+        "round 1-1": [
+            [
+                {
+                    "country": "AUS",
+                    "name": "Thalia ARMSTRONG"
+                },
+                {
+                    "country": "SAM",
+                    "name": "Regina PITTARD"
+                }
+            ]
+        ],
+        "final_winner": "Regina PITTARD"
+    },
+    "POOL C": {
+        "round 1-1": [
+            [
+                {
+                    "country": "HKG",
+                    "name": "Ching Man MAK"
+                },
+                {
+                    "country": "AUS",
+                    "name": "Bianca TANDEAN"
+                }
+            ]
+        ],
+        "final_winner": "Bianca TANDEAN"
+    },
+    "POOL D": {
+        "round 1-1": [
+            [
+                {
+                    "country": "AUS",
+                    "name": "Andjela BODIROZA"
+                },
+                {
+                    "country": "KOR",
+                    "name": "Hyewon JUNG"
+                }
+            ]
+        ],
+        "final_winner": "Hyewon JUNG"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "AUS",
+                    "name": "Lily TAI TIN"
+                },
+                {
+                    "country": "AUS",
+                    "name": "Thalia ARMSTRONG"
+                },
+                {
+                    "winner": "Thalia ARMSTRONG"
+                }
+            ],
+            [
+                {
+                    "country": "HKG",
+                    "name": "Ching Man MAK"
+                },
+                {
+                    "country": "AUS",
+                    "name": "Andjela BODIROZA"
+                },
+                {
+                    "winner": "Ching Man MAK"
+                }
+            ],
+            [
+                {
+                    "country": "AUS",
+                    "name": "Thalia ARMSTRONG"
+                },
+                {
+                    "country": "AUS",
+                    "name": "Bianca TANDEAN"
+                },
+                {
+                    "winner": "Bianca TANDEAN"
+                }
+            ],
+            [
+                {
+                    "country": "HKG",
+                    "name": "Ching Man MAK"
+                },
+                {
+                    "country": "SAM",
+                    "name": "Regina PITTARD"
+                },
+                {
+                    "winner": "Regina PITTARD"
+                }
+            ],
+            [
+                {
+                    "country": "AUS",
+                    "name": "Bianca TANDEAN"
+                }
+            ],
+            [
+                {
+                    "country": "SAM",
+                    "name": "Regina PITTARD"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Bianca TANDEAN",
+            "Regina PITTARD"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "AUS",
+                    "name": "Gabrielle WOODWARD"
+                },
+                {
+                    "country": "SAM",
+                    "name": "Regina PITTARD"
+                },
+                {
+                    "winner": "Gabrielle WOODWARD"
+                }
+            ],
+            [
+                {
+                    "country": "AUS",
+                    "name": "Bianca TANDEAN"
+                },
+                {
+                    "country": "KOR",
+                    "name": "Hyewon JUNG"
+                },
+                {
+                    "winner": "Hyewon JUNG"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "AUS",
+                    "name": "Gabrielle WOODWARD"
+                },
+                {
+                    "country": "KOR",
+                    "name": "Hyewon JUNG"
+                }
+            ]
+        ],
+        "final_winner": "Hyewon JUNG"
+    }
+}

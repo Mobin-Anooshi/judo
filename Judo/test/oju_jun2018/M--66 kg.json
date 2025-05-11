@@ -1,0 +1,221 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "AUS",
+                    "name": "Kyle MCINDOE"
+                },
+                {
+                    "winner": "Kyle MCINDOE"
+                }
+            ],
+            [
+                {
+                    "country": "NCL",
+                    "name": "Kai Ming BOUCHEZ"
+                },
+                {
+                    "country": "NRU",
+                    "name": "Tylon BENJAMIN"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "AUS",
+                    "name": "Kyle MCINDOE"
+                }
+            ]
+        ]
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "NCL",
+                    "name": "Kai Ming BOUCHEZ"
+                },
+                {
+                    "winner": "Kai Ming BOUCHEZ"
+                }
+            ],
+            [
+                {
+                    "country": "NRU",
+                    "name": "Tylon BENJAMIN"
+                },
+                {
+                    "winner": "Tylon BENJAMIN"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "NCL",
+                    "name": "Kai Ming BOUCHEZ"
+                },
+                {
+                    "country": "NRU",
+                    "name": "Tylon BENJAMIN"
+                }
+            ],
+            [
+                {
+                    "country": "NCL",
+                    "name": "Kai Ming BOUCHEZ"
+                }
+            ]
+        ]
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "NZL",
+                    "name": "Lorcan FIVET"
+                },
+                {
+                    "winner": "Lorcan FIVET"
+                }
+            ],
+            [
+                {
+                    "country": "NRU",
+                    "name": "Kip KOSAM"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "NZL",
+                    "name": "Lorcan FIVET"
+                }
+            ]
+        ]
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "NCL",
+                    "name": "Ugo LANGLOIS"
+                },
+                {
+                    "winner": "Ugo LANGLOIS"
+                }
+            ],
+            [
+                {
+                    "country": "NRU",
+                    "name": "Kip KOSAM"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "NCL",
+                    "name": "Ugo LANGLOIS"
+                },
+                {
+                    "country": "Vote",
+                    "name": "NRU"
+                },
+                {
+                    "country": "Kip KOSAM",
+                    "name": "Vote"
+                }
+            ],
+            []
+        ]
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "NRU",
+                    "name": "Tylon BENJAMIN"
+                }
+            ],
+            [
+                {
+                    "country": "NRU",
+                    "name": "Kip KOSAM"
+                }
+            ],
+            [
+                {
+                    "country": "NRU",
+                    "name": "Kip KOSAM"
+                },
+                {
+                    "country": "NCL",
+                    "name": "Kai Ming BOUCHEZ"
+                }
+            ],
+            [],
+            [
+                {
+                    "country": "NCL",
+                    "name": "Kai Ming BOUCHEZ"
+                }
+            ]
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "AUS",
+                    "name": "Kyle MCINDOE"
+                },
+                {
+                    "country": "NCL",
+                    "name": "Kai Ming BOUCHEZ"
+                },
+                {
+                    "winner": "Kyle MCINDOE"
+                }
+            ],
+            [
+                {
+                    "country": "NZL",
+                    "name": "Lorcan FIVET"
+                },
+                {
+                    "country": "Vote",
+                    "name": "NCL"
+                },
+                {
+                    "country": "Ugo LANGLOIS",
+                    "name": "Vote"
+                },
+                {
+                    "winner": "Lorcan FIVET"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "AUS",
+                    "name": "Kyle MCINDOE"
+                },
+                {
+                    "country": "NZL",
+                    "name": "Lorcan FIVET"
+                }
+            ],
+            [
+                {
+                    "country": "AUS",
+                    "name": "Kyle MCINDOE"
+                }
+            ]
+        ]
+    }
+}

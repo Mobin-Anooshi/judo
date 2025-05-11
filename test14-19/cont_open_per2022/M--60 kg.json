@@ -1,0 +1,298 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "COL",
+                    "name": "Johan ROJAS"
+                },
+                {
+                    "country": "MEX",
+                    "name": "Luis DAMAS"
+                },
+                {
+                    "winner": "Johan ROJAS"
+                }
+            ],
+            [
+                {
+                    "country": "PER",
+                    "name": "Alexander RAMIREZ"
+                },
+                {
+                    "country": "CHI",
+                    "name": "Jhan CATALAN"
+                },
+                {
+                    "winner": "Alexander RAMIREZ"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "COL",
+                    "name": "Johan ROJAS"
+                },
+                {
+                    "country": "PER",
+                    "name": "Alexander RAMIREZ"
+                }
+            ],
+            [
+                {
+                    "country": "COL",
+                    "name": "Johan ROJAS"
+                }
+            ]
+        ]
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Ryan CONCEICAO"
+                },
+                {
+                    "country": "PER",
+                    "name": "Arnold PRADO"
+                },
+                {
+                    "winner": "Ryan CONCEICAO"
+                }
+            ],
+            [
+                {
+                    "country": "BRA",
+                    "name": "Michel AUGUSTO"
+                },
+                {
+                    "country": "COL",
+                    "name": "Juan MONTEALEGRE"
+                },
+                {
+                    "winner": "Juan MONTEALEGRE"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Ryan CONCEICAO"
+                },
+                {
+                    "country": "COL",
+                    "name": "Juan MONTEALEGRE"
+                }
+            ],
+            [
+                {
+                    "country": "COL",
+                    "name": "Juan MONTEALEGRE"
+                }
+            ]
+        ]
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "PER",
+                    "name": "Dilmer CALLE MOROCHO"
+                },
+                {
+                    "country": "BOL",
+                    "name": "Alejandro ZAMUDIO RAMIREZ"
+                },
+                {
+                    "winner": "Dilmer CALLE MOROCHO"
+                }
+            ],
+            [
+                {
+                    "country": "CHI",
+                    "name": "Lucas FERNANDEZ"
+                },
+                {
+                    "country": "PAR",
+                    "name": "Mateo CABRAL"
+                },
+                {
+                    "winner": "Lucas FERNANDEZ"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "PER",
+                    "name": "Dilmer CALLE MOROCHO"
+                },
+                {
+                    "country": "CHI",
+                    "name": "Lucas FERNANDEZ"
+                }
+            ],
+            [
+                {
+                    "country": "PER",
+                    "name": "Dilmer CALLE MOROCHO"
+                }
+            ]
+        ]
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "COL",
+                    "name": "John FUTTINICO"
+                },
+                {
+                    "country": "PER",
+                    "name": "Mateo CONDOR"
+                },
+                {
+                    "winner": "John FUTTINICO"
+                }
+            ],
+            [
+                {
+                    "country": "MEX",
+                    "name": "Arath JUAREZ"
+                },
+                {
+                    "country": "CHI",
+                    "name": "Francisco IBACACHE"
+                },
+                {
+                    "winner": "Arath JUAREZ"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "COL",
+                    "name": "John FUTTINICO"
+                },
+                {
+                    "country": "MEX",
+                    "name": "Arath JUAREZ"
+                }
+            ],
+            [
+                {
+                    "country": "COL",
+                    "name": "John FUTTINICO"
+                }
+            ]
+        ]
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "PER",
+                    "name": "Alexander RAMIREZ"
+                },
+                {
+                    "country": "BRA",
+                    "name": "Ryan CONCEICAO"
+                }
+            ],
+            [
+                {
+                    "country": "CHI",
+                    "name": "Lucas FERNANDEZ"
+                },
+                {
+                    "country": "MEX",
+                    "name": "Arath JUAREZ"
+                }
+            ],
+            [
+                {
+                    "country": "BRA",
+                    "name": "Ryan CONCEICAO"
+                },
+                {
+                    "country": "PER",
+                    "name": "Dilmer CALLE MOROCHO"
+                }
+            ],
+            [
+                {
+                    "country": "MEX",
+                    "name": "Arath JUAREZ"
+                },
+                {
+                    "country": "COL",
+                    "name": "Juan MONTEALEGRE"
+                }
+            ],
+            [
+                {
+                    "country": "BRA",
+                    "name": "Ryan CONCEICAO"
+                }
+            ],
+            [
+                {
+                    "country": "MEX",
+                    "name": "Arath JUAREZ"
+                }
+            ]
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "COL",
+                    "name": "Johan ROJAS"
+                },
+                {
+                    "country": "COL",
+                    "name": "Juan MONTEALEGRE"
+                },
+                {
+                    "winner": "Johan ROJAS"
+                }
+            ],
+            [
+                {
+                    "country": "PER",
+                    "name": "Dilmer CALLE MOROCHO"
+                },
+                {
+                    "country": "COL",
+                    "name": "John FUTTINICO"
+                },
+                {
+                    "winner": "John FUTTINICO"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "COL",
+                    "name": "Johan ROJAS"
+                },
+                {
+                    "country": "COL",
+                    "name": "John FUTTINICO"
+                }
+            ],
+            [
+                {
+                    "country": "COL",
+                    "name": "John FUTTINICO"
+                }
+            ]
+        ]
+    }
+}

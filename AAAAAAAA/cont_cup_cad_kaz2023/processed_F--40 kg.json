@@ -1,0 +1,153 @@
+{
+    "POOL A": {
+        "round 1-1": [],
+        "final_winner": "Zere OTEPKALI"
+    },
+    "POOL B": {
+        "round 1-1": [
+            [
+                {
+                    "country": "GEO",
+                    "name": "Ana ABASHIDZE"
+                },
+                {
+                    "country": "UZB",
+                    "name": "Dilrukh HASANOVA"
+                }
+            ]
+        ],
+        "final_winner": "Ana ABASHIDZE"
+    },
+    "POOL C": {
+        "round 1-1": [
+            [
+                {
+                    "country": "KAZ",
+                    "name": "Assel RUSLANOVA"
+                },
+                {
+                    "country": "UZB",
+                    "name": "Dilnoza HAMITOVA"
+                }
+            ]
+        ],
+        "final_winner": "Dilnoza HAMITOVA"
+    },
+    "POOL D": {
+        "round 1-1": [
+            [
+                {
+                    "country": "UZB",
+                    "name": "Umida KULDOSHEVA"
+                },
+                {
+                    "country": "KAZ",
+                    "name": "Ulbossyn ABDUKARIMOVA"
+                }
+            ]
+        ],
+        "final_winner": "Umida KULDOSHEVA"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "UZB",
+                    "name": "Dilrukh HASANOVA"
+                }
+            ],
+            [
+                {
+                    "country": "KAZ",
+                    "name": "Assel RUSLANOVA"
+                },
+                {
+                    "country": "KAZ",
+                    "name": "Ulbossyn ABDUKARIMOVA"
+                },
+                {
+                    "winner": "Assel RUSLANOVA"
+                }
+            ],
+            [
+                {
+                    "country": "UZB",
+                    "name": "Dilrukh HASANOVA"
+                },
+                {
+                    "country": "UZB",
+                    "name": "Umida KULDOSHEVA"
+                },
+                {
+                    "winner": "Dilrukh HASANOVA"
+                }
+            ],
+            [
+                {
+                    "country": "KAZ",
+                    "name": "Assel RUSLANOVA"
+                },
+                {
+                    "country": "GEO",
+                    "name": "Ana ABASHIDZE"
+                },
+                {
+                    "winner": "Assel RUSLANOVA"
+                }
+            ],
+            [
+                {
+                    "country": "KAZ",
+                    "name": "Assel RUSLANOVA"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Assel RUSLANOVA",
+            "Dilrukh HASANOVA"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "KAZ",
+                    "name": "Zere OTEPKALI"
+                },
+                {
+                    "country": "GEO",
+                    "name": "Ana ABASHIDZE"
+                },
+                {
+                    "winner": "Zere OTEPKALI"
+                }
+            ],
+            [
+                {
+                    "country": "UZB",
+                    "name": "Dilnoza HAMITOVA"
+                },
+                {
+                    "country": "UZB",
+                    "name": "Umida KULDOSHEVA"
+                },
+                {
+                    "winner": "Dilnoza HAMITOVA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "KAZ",
+                    "name": "Zere OTEPKALI"
+                },
+                {
+                    "country": "UZB",
+                    "name": "Dilnoza HAMITOVA"
+                }
+            ]
+        ],
+        "final_winner": "Zere OTEPKALI"
+    }
+}

@@ -1,0 +1,68 @@
+{
+    "ROUND 1": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ANG",
+                    "name": "Lucas PAULO"
+                },
+                {
+                    "country": "ANG",
+                    "name": "Maravilha PATI"
+                },
+                {
+                    "winner": "Maravilha PATI"
+                }
+            ],
+            [
+                {
+                    "country": "ANG",
+                    "name": "Alaxael TAVARES"
+                },
+                {
+                    "country": "ANG",
+                    "name": "Panzo MBALA"
+                },
+                {
+                    "winner": "Alaxael TAVARES"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Maravilha PATI",
+            "Alaxael TAVARES"
+        ]
+    },
+    "REPECHAGE": {
+        "round 1-1": [
+            [
+                {
+                    "country": "ANG",
+                    "name": "Lucas PAULO"
+                },
+                {
+                    "country": "ANG",
+                    "name": "Panzo MBALA"
+                },
+                {
+                    "winner": "Lucas PAULO"
+                }
+            ],
+            [
+                {
+                    "country": "ANG",
+                    "name": "Lucas PAULO"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Lucas PAULO"
+        ]
+    },
+    "FINALS": {
+        "round 1-1": [],
+        "final_winners": [
+            "Maravilha PATI"
+        ]
+    }
+}

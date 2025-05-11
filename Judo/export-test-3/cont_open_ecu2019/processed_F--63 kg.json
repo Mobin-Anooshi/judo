@@ -1,0 +1,87 @@
+{
+    "POOL A": {
+        "round 1-3": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Mariana SILVA"
+                },
+                {
+                    "country": "CAN",
+                    "name": "Rachel KRAPMAN"
+                },
+                {
+                    "winner": "Mariana SILVA"
+                }
+            ],
+            [
+                {
+                    "country": "BRA",
+                    "name": "Mariana SILVA"
+                },
+                {
+                    "country": "ECU",
+                    "name": "Edith ORTIZ"
+                },
+                {
+                    "winner": "Edith ORTIZ"
+                }
+            ],
+            [
+                {
+                    "country": "CAN",
+                    "name": "Rachel KRAPMAN"
+                },
+                {
+                    "country": "ECU",
+                    "name": "Edith ORTIZ"
+                },
+                {
+                    "winner": "Edith ORTIZ"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Mariana SILVA",
+            "Edith ORTIZ"
+        ]
+    },
+    "POOL B": {
+        "round 1-1": [],
+        "final_winners": [
+            "Estefania GARCIA"
+        ]
+    },
+    "REPECHAGE": {
+        "round 1-1": [
+            [
+                {
+                    "country": "ECU",
+                    "name": "Edith ORTIZ"
+                },
+                {
+                    "country": "ECU",
+                    "name": "Victoria PEÑAFIEL"
+                },
+                {
+                    "winner": "Edith ORTIZ"
+                }
+            ],
+            [
+                {
+                    "country": "ECU",
+                    "name": "Edith ORTIZ"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Edith ORTIZ"
+        ]
+    },
+    "FINALS": {
+        "round 1-1": [],
+        "final_winners": [
+            "Mariana SILVA"
+        ]
+    }
+}

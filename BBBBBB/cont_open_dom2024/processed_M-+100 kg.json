@@ -1,0 +1,141 @@
+{
+    "POOL A": {
+        "round 1-1": [],
+        "final_winner": "Jose NOVA ALCANTARA"
+    },
+    "POOL B": {
+        "round 1-1": [
+            [
+                {
+                    "country": "DOM",
+                    "name": "Ariel LORENZO PINA"
+                },
+                {
+                    "country": "DOM",
+                    "name": "Joldin Omar MARCELINO"
+                }
+            ]
+        ],
+        "final_winner": "Ariel LORENZO PINA"
+    },
+    "POOL C": {
+        "round 1-1": [],
+        "final_winner": "Elmer OREJUELA"
+    },
+    "POOL D": {
+        "round 1-1": [
+            [
+                {
+                    "country": "DOM",
+                    "name": "Julio Cesar JAVIER ARIAS"
+                },
+                {
+                    "country": "DOM",
+                    "name": "Ekerlyn PERALTA FELIX"
+                }
+            ]
+        ],
+        "final_winner": "Julio Cesar JAVIER ARIAS"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "DOM",
+                    "name": "Joldin Omar MARCELINO"
+                }
+            ],
+            [
+                {
+                    "country": "DOM",
+                    "name": "Ekerlyn PERALTA FELIX"
+                }
+            ],
+            [
+                {
+                    "country": "DOM",
+                    "name": "Joldin Omar MARCELINO"
+                },
+                {
+                    "country": "DOM",
+                    "name": "Julio Cesar JAVIER ARIAS"
+                },
+                {
+                    "winner": "Julio Cesar JAVIER ARIAS"
+                }
+            ],
+            [
+                {
+                    "country": "DOM",
+                    "name": "Ekerlyn PERALTA FELIX"
+                },
+                {
+                    "country": "DOM",
+                    "name": "Ariel LORENZO PINA"
+                },
+                {
+                    "winner": "Ariel LORENZO PINA"
+                }
+            ],
+            [
+                {
+                    "country": "DOM",
+                    "name": "Julio Cesar JAVIER ARIAS"
+                }
+            ],
+            [
+                {
+                    "country": "DOM",
+                    "name": "Ariel LORENZO PINA"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Julio Cesar JAVIER ARIAS",
+            "Ariel LORENZO PINA"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "DOM",
+                    "name": "Jose NOVA ALCANTARA"
+                },
+                {
+                    "country": "DOM",
+                    "name": "Ariel LORENZO PINA"
+                },
+                {
+                    "winner": "Jose NOVA ALCANTARA"
+                }
+            ],
+            [
+                {
+                    "country": "COL",
+                    "name": "Elmer OREJUELA"
+                },
+                {
+                    "country": "DOM",
+                    "name": "Julio Cesar JAVIER ARIAS"
+                },
+                {
+                    "winner": "Elmer OREJUELA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "DOM",
+                    "name": "Jose NOVA ALCANTARA"
+                },
+                {
+                    "country": "COL",
+                    "name": "Elmer OREJUELA"
+                }
+            ]
+        ],
+        "final_winner": "Jose NOVA ALCANTARA"
+    }
+}

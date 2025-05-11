@@ -1,0 +1,68 @@
+{
+    "ROUND 1": {
+        "round 1-2": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Enya PIRES"
+                },
+                {
+                    "country": "MEX",
+                    "name": "Jessica GOMEZ"
+                },
+                {
+                    "winner": "Enya PIRES"
+                }
+            ],
+            [
+                {
+                    "country": "BRA",
+                    "name": "Katia ALVES"
+                },
+                {
+                    "country": "CAN",
+                    "name": "Brandi LINGLEY"
+                },
+                {
+                    "winner": "Katia ALVES"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Enya PIRES",
+            "Katia ALVES"
+        ]
+    },
+    "REPECHAGE": {
+        "round 1-1": [
+            [
+                {
+                    "country": "MEX",
+                    "name": "Jessica GOMEZ"
+                },
+                {
+                    "country": "CAN",
+                    "name": "Brandi LINGLEY"
+                },
+                {
+                    "winner": "Jessica GOMEZ"
+                }
+            ],
+            [
+                {
+                    "country": "MEX",
+                    "name": "Jessica GOMEZ"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Jessica GOMEZ"
+        ]
+    },
+    "FINALS": {
+        "round 1-1": [],
+        "final_winners": [
+            "Katia ALVES"
+        ]
+    }
+}

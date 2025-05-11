@@ -1,0 +1,159 @@
+{
+    "POOL A": {
+        "round 1-1": [],
+        "final_winner": "Helene RECEVEAUX"
+    },
+    "POOL B": {
+        "round 1-1": [
+            [
+                {
+                    "country": "FRA",
+                    "name": "Lola BENARROCHE"
+                },
+                {
+                    "country": "LUX",
+                    "name": "Manon DURBACH"
+                }
+            ]
+        ],
+        "final_winner": "Lola BENARROCHE"
+    },
+    "POOL C": {
+        "round 1-1": [
+            [
+                {
+                    "country": "SRB",
+                    "name": "Jovana ROGIC"
+                },
+                {
+                    "country": "GER",
+                    "name": "Theresa STOLL"
+                }
+            ]
+        ],
+        "final_winner": "Theresa STOLL"
+    },
+    "POOL D": {
+        "round 1-1": [
+            [
+                {
+                    "country": "ESP",
+                    "name": "Jaione EQUISOAIN"
+                },
+                {
+                    "country": "GER",
+                    "name": "Johanna MUELLER"
+                }
+            ]
+        ],
+        "final_winner": "Johanna MUELLER"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "LUX",
+                    "name": "Manon DURBACH"
+                }
+            ],
+            [
+                {
+                    "country": "SRB",
+                    "name": "Jovana ROGIC"
+                },
+                {
+                    "country": "ESP",
+                    "name": "Jaione EQUISOAIN"
+                },
+                {
+                    "winner": "Jovana ROGIC"
+                }
+            ],
+            [
+                {
+                    "country": "LUX",
+                    "name": "Manon DURBACH"
+                },
+                {
+                    "country": "GER",
+                    "name": "Johanna MUELLER"
+                },
+                {
+                    "winner": "Johanna MUELLER"
+                }
+            ],
+            [
+                {
+                    "country": "SRB",
+                    "name": "Jovana ROGIC"
+                },
+                {
+                    "country": "FRA",
+                    "name": "Lola BENARROCHE"
+                },
+                {
+                    "winner": "Lola BENARROCHE"
+                }
+            ],
+            [
+                {
+                    "country": "GER",
+                    "name": "Johanna MUELLER"
+                }
+            ],
+            [
+                {
+                    "country": "FRA",
+                    "name": "Lola BENARROCHE"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Johanna MUELLER",
+            "Lola BENARROCHE"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "FRA",
+                    "name": "Helene RECEVEAUX"
+                },
+                {
+                    "country": "FRA",
+                    "name": "Lola BENARROCHE"
+                },
+                {
+                    "winner": "Helene RECEVEAUX"
+                }
+            ],
+            [
+                {
+                    "country": "GER",
+                    "name": "Theresa STOLL"
+                },
+                {
+                    "country": "GER",
+                    "name": "Johanna MUELLER"
+                },
+                {
+                    "winner": "Theresa STOLL"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "FRA",
+                    "name": "Helene RECEVEAUX"
+                },
+                {
+                    "country": "GER",
+                    "name": "Theresa STOLL"
+                }
+            ]
+        ],
+        "final_winner": "Helene RECEVEAUX"
+    }
+}

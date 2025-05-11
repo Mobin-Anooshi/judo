@@ -1,0 +1,177 @@
+{
+    "POOL A": {
+        "round 1-1": [
+            [
+                {
+                    "country": "TUN",
+                    "name": "Nihel CHEIKH ROUHOU"
+                },
+                {
+                    "country": "KEN",
+                    "name": "Viola LORUPE"
+                }
+            ]
+        ],
+        "final_winner": "Nihel CHEIKH ROUHOU"
+    },
+    "POOL B": {
+        "round 1-1": [
+            [
+                {
+                    "country": "TOG",
+                    "name": "Essohanam Noeline KORO"
+                },
+                {
+                    "country": "ALG",
+                    "name": "Meroua MAMMERI"
+                }
+            ]
+        ],
+        "final_winner": "Meroua MAMMERI"
+    },
+    "POOL C": {
+        "round 1-1": [
+            [
+                {
+                    "country": "ALG",
+                    "name": "Sonia ASSELAH"
+                },
+                {
+                    "country": "ANG",
+                    "name": "Joaquina Carlos SILVA"
+                }
+            ]
+        ],
+        "final_winner": "Sonia ASSELAH"
+    },
+    "POOL D": {
+        "round 1-1": [
+            [
+                {
+                    "country": "SEN",
+                    "name": "Monica SAGNA"
+                },
+                {
+                    "country": "KEN",
+                    "name": "Perister BOSIRE"
+                }
+            ]
+        ],
+        "final_winner": "Monica SAGNA"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "KEN",
+                    "name": "Viola LORUPE"
+                },
+                {
+                    "country": "TOG",
+                    "name": "Essohanam Noeline KORO"
+                },
+                {
+                    "winner": "Essohanam Noeline KORO"
+                }
+            ],
+            [
+                {
+                    "country": "ANG",
+                    "name": "Joaquina Carlos SILVA"
+                },
+                {
+                    "country": "KEN",
+                    "name": "Perister BOSIRE"
+                },
+                {
+                    "winner": "Joaquina Carlos SILVA"
+                }
+            ],
+            [
+                {
+                    "country": "TOG",
+                    "name": "Essohanam Noeline KORO"
+                },
+                {
+                    "country": "SEN",
+                    "name": "Monica SAGNA"
+                },
+                {
+                    "winner": "Monica SAGNA"
+                }
+            ],
+            [
+                {
+                    "country": "ANG",
+                    "name": "Joaquina Carlos SILVA"
+                },
+                {
+                    "country": "ALG",
+                    "name": "Meroua MAMMERI"
+                },
+                {
+                    "winner": "Meroua MAMMERI"
+                }
+            ],
+            [
+                {
+                    "country": "SEN",
+                    "name": "Monica SAGNA"
+                }
+            ],
+            [
+                {
+                    "country": "ALG",
+                    "name": "Meroua MAMMERI"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Monica SAGNA",
+            "Meroua MAMMERI"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "TUN",
+                    "name": "Nihel CHEIKH ROUHOU"
+                },
+                {
+                    "country": "ALG",
+                    "name": "Meroua MAMMERI"
+                },
+                {
+                    "winner": "Nihel CHEIKH ROUHOU"
+                }
+            ],
+            [
+                {
+                    "country": "ALG",
+                    "name": "Sonia ASSELAH"
+                },
+                {
+                    "country": "SEN",
+                    "name": "Monica SAGNA"
+                },
+                {
+                    "winner": "Sonia ASSELAH"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "TUN",
+                    "name": "Nihel CHEIKH ROUHOU"
+                },
+                {
+                    "country": "ALG",
+                    "name": "Sonia ASSELAH"
+                }
+            ]
+        ],
+        "final_winner": "Nihel CHEIKH ROUHOU"
+    }
+}

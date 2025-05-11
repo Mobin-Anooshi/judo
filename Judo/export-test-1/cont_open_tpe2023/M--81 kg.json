@@ -1,0 +1,285 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "HKG",
+                    "name": "Kwok Wing LEE"
+                },
+                {
+                    "winner": "Kwok Wing LEE"
+                }
+            ],
+            [
+                {
+                    "country": "KOR",
+                    "name": "Hyeongju IM"
+                },
+                {
+                    "country": "JPN",
+                    "name": "Soshi SAWAGUCHI"
+                },
+                {
+                    "winner": "Soshi SAWAGUCHI"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "HKG",
+                    "name": "Kwok Wing LEE"
+                },
+                {
+                    "country": "JPN",
+                    "name": "Soshi SAWAGUCHI"
+                }
+            ]
+        ],
+        "final_winner": "Soshi SAWAGUCHI"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "TPE",
+                    "name": "Li-Wei SUN"
+                },
+                {
+                    "country": "KOR",
+                    "name": "Yoonsang LEE"
+                },
+                {
+                    "winner": "Li-Wei SUN"
+                }
+            ],
+            [
+                {
+                    "country": "KOR",
+                    "name": "Nakil CHOE"
+                },
+                {
+                    "country": "MAS",
+                    "name": "Kok Hong TAN"
+                },
+                {
+                    "winner": "Nakil CHOE"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "TPE",
+                    "name": "Li-Wei SUN"
+                },
+                {
+                    "country": "KOR",
+                    "name": "Nakil CHOE"
+                }
+            ]
+        ],
+        "final_winner": "Nakil CHOE"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "SAM",
+                    "name": "Peniamina PERCIVAL"
+                },
+                {
+                    "country": "KOR",
+                    "name": "Hongmin JEON"
+                },
+                {
+                    "winner": "Hongmin JEON"
+                }
+            ],
+            [
+                {
+                    "country": "HKG",
+                    "name": "Ka Hang LAI"
+                },
+                {
+                    "country": "KOR",
+                    "name": "Sunwoo KIM"
+                },
+                {
+                    "winner": "Sunwoo KIM"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "KOR",
+                    "name": "Hongmin JEON"
+                },
+                {
+                    "country": "KOR",
+                    "name": "Sunwoo KIM"
+                }
+            ]
+        ],
+        "final_winner": "Hongmin JEON"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "AUS",
+                    "name": "Rihari IKI"
+                },
+                {
+                    "country": "KOR",
+                    "name": "Minki SONG"
+                },
+                {
+                    "winner": "Minki SONG"
+                }
+            ],
+            [
+                {
+                    "country": "TPE",
+                    "name": "Chuan-kuo LIU"
+                },
+                {
+                    "country": "KOR",
+                    "name": "Taewan KIM"
+                },
+                {
+                    "winner": "Chuan-kuo LIU"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "KOR",
+                    "name": "Minki SONG"
+                },
+                {
+                    "country": "TPE",
+                    "name": "Chuan-kuo LIU"
+                }
+            ]
+        ],
+        "final_winner": "Minki SONG"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "HKG",
+                    "name": "Kwok Wing LEE"
+                },
+                {
+                    "country": "TPE",
+                    "name": "Li-Wei SUN"
+                },
+                {
+                    "winner": "Kwok Wing LEE"
+                }
+            ],
+            [
+                {
+                    "country": "KOR",
+                    "name": "Sunwoo KIM"
+                },
+                {
+                    "country": "TPE",
+                    "name": "Chuan-kuo LIU"
+                },
+                {
+                    "winner": "Chuan-kuo LIU"
+                }
+            ],
+            [
+                {
+                    "country": "HKG",
+                    "name": "Kwok Wing LEE"
+                },
+                {
+                    "country": "KOR",
+                    "name": "Hongmin JEON"
+                },
+                {
+                    "winner": "Kwok Wing LEE"
+                }
+            ],
+            [
+                {
+                    "country": "TPE",
+                    "name": "Chuan-kuo LIU"
+                },
+                {
+                    "country": "KOR",
+                    "name": "Nakil CHOE"
+                },
+                {
+                    "winner": "Nakil CHOE"
+                }
+            ],
+            [
+                {
+                    "country": "HKG",
+                    "name": "Kwok Wing LEE"
+                }
+            ],
+            [
+                {
+                    "country": "KOR",
+                    "name": "Nakil CHOE"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Kwok Wing LEE",
+            "Nakil CHOE"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "JPN",
+                    "name": "Soshi SAWAGUCHI"
+                },
+                {
+                    "country": "KOR",
+                    "name": "Nakil CHOE"
+                },
+                {
+                    "winner": "Soshi SAWAGUCHI"
+                }
+            ],
+            [
+                {
+                    "country": "KOR",
+                    "name": "Hongmin JEON"
+                },
+                {
+                    "country": "KOR",
+                    "name": "Minki SONG"
+                },
+                {
+                    "winner": "Minki SONG"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "JPN",
+                    "name": "Soshi SAWAGUCHI"
+                },
+                {
+                    "country": "KOR",
+                    "name": "Minki SONG"
+                }
+            ]
+        ],
+        "final_winner": "Minki SONG"
+    }
+}

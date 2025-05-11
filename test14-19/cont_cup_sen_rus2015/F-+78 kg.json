@@ -1,0 +1,268 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "RUS",
+                    "name": "Anna BALASHOVA"
+                },
+                {
+                    "winner": "Anna BALASHOVA"
+                }
+            ],
+            [
+                {
+                    "country": "RUS",
+                    "name": "Anzhela GASPARIAN"
+                },
+                {
+                    "winner": "Anzhela GASPARIAN"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "RUS",
+                    "name": "Anna BALASHOVA"
+                },
+                {
+                    "country": "RUS",
+                    "name": "Anzhela GASPARIAN"
+                }
+            ],
+            [
+                {
+                    "country": "RUS",
+                    "name": "Anna BALASHOVA"
+                }
+            ]
+        ]
+    },
+    "POOL B": {
+        "round 1-2": [
+            [],
+            [
+                {
+                    "country": "RUS",
+                    "name": "Ekaterina KOSHELEVA"
+                },
+                {
+                    "winner": "Ekaterina KOSHELEVA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "RUS",
+                    "name": "Ekaterina KOSHELEVA"
+                }
+            ]
+        ]
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "RUS",
+                    "name": "Aydana NAGOROVA"
+                },
+                {
+                    "winner": "Aydana NAGOROVA"
+                }
+            ],
+            [
+                {
+                    "country": "RUS",
+                    "name": "Anna VASILEVA"
+                },
+                {
+                    "winner": "Anna VASILEVA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "RUS",
+                    "name": "Aydana NAGOROVA"
+                },
+                {
+                    "country": "RUS",
+                    "name": "Anna VASILEVA"
+                }
+            ],
+            [
+                {
+                    "country": "RUS",
+                    "name": "Aydana NAGOROVA"
+                }
+            ]
+        ]
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "BLR",
+                    "name": "Katsiarina KALIUZHNAYA"
+                },
+                {
+                    "winner": "Katsiarina KALIUZHNAYA"
+                }
+            ],
+            [
+                {
+                    "country": "RUS",
+                    "name": "Zinaida MAKHMUDOVA"
+                },
+                {
+                    "winner": "Zinaida MAKHMUDOVA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "BLR",
+                    "name": "Katsiarina KALIUZHNAYA"
+                },
+                {
+                    "country": "RUS",
+                    "name": "Zinaida MAKHMUDOVA"
+                }
+            ],
+            [
+                {
+                    "country": "BLR",
+                    "name": "Katsiarina KALIUZHNAYA"
+                }
+            ]
+        ]
+    },
+    "REPECHAGE": {
+        "round 1-4": [
+            [
+                {
+                    "country": "RUS",
+                    "name": "Anzhela GASPARIAN"
+                },
+                {
+                    "winner": "Anzhela GASPARIAN"
+                }
+            ],
+            [],
+            [
+                {
+                    "country": "RUS",
+                    "name": "Anna VASILEVA"
+                },
+                {
+                    "winner": "Anna VASILEVA"
+                }
+            ],
+            [
+                {
+                    "country": "RUS",
+                    "name": "Zinaida MAKHMUDOVA"
+                },
+                {
+                    "winner": "Zinaida MAKHMUDOVA"
+                }
+            ]
+        ],
+        "round 1-2": [
+            [
+                {
+                    "country": "RUS",
+                    "name": "Anzhela GASPARIAN"
+                }
+            ],
+            [
+                {
+                    "country": "RUS",
+                    "name": "Anna VASILEVA"
+                },
+                {
+                    "country": "RUS",
+                    "name": "Zinaida MAKHMUDOVA"
+                }
+            ],
+            [
+                {
+                    "country": "RUS",
+                    "name": "Anzhela GASPARIAN"
+                },
+                {
+                    "country": "BLR",
+                    "name": "Katsiarina KALIUZHNAYA"
+                }
+            ],
+            [
+                {
+                    "country": "RUS",
+                    "name": "Zinaida MAKHMUDOVA"
+                },
+                {
+                    "country": "RUS",
+                    "name": "Ekaterina KOSHELEVA"
+                }
+            ],
+            [
+                {
+                    "country": "RUS",
+                    "name": "Ekaterina KOSHELEVA"
+                }
+            ]
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "RUS",
+                    "name": "Anna BALASHOVA"
+                },
+                {
+                    "country": "RUS",
+                    "name": "Ekaterina KOSHELEVA"
+                },
+                {
+                    "winner": "Anna BALASHOVA"
+                }
+            ],
+            [
+                {
+                    "country": "RUS",
+                    "name": "Aydana NAGOROVA"
+                },
+                {
+                    "country": "BLR",
+                    "name": "Katsiarina KALIUZHNAYA"
+                },
+                {
+                    "winner": "Aydana NAGOROVA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "RUS",
+                    "name": "Anna BALASHOVA"
+                },
+                {
+                    "country": "RUS",
+                    "name": "Aydana NAGOROVA"
+                }
+            ],
+            [
+                {
+                    "country": "RUS",
+                    "name": "Aydana NAGOROVA"
+                }
+            ]
+        ]
+    }
+}

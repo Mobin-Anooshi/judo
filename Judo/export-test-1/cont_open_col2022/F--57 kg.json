@@ -1,0 +1,269 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ARG",
+                    "name": "Brisa GOMEZ"
+                },
+                {
+                    "winner": "Brisa GOMEZ"
+                }
+            ],
+            [
+                {
+                    "country": "PER",
+                    "name": "Marian FLORES"
+                },
+                {
+                    "country": "COL",
+                    "name": "Nathalia RODRIGUEZ CHAVEZ"
+                },
+                {
+                    "winner": "Marian FLORES"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "ARG",
+                    "name": "Brisa GOMEZ"
+                },
+                {
+                    "country": "PER",
+                    "name": "Marian FLORES"
+                }
+            ]
+        ],
+        "final_winner": "Brisa GOMEZ"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "DOM",
+                    "name": "Clara BARINAS BENITEZ"
+                },
+                {
+                    "winner": "Clara BARINAS BENITEZ"
+                }
+            ],
+            [
+                {
+                    "country": "COL",
+                    "name": "Maria VILLALBA"
+                },
+                {
+                    "winner": "Maria VILLALBA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "DOM",
+                    "name": "Clara BARINAS BENITEZ"
+                },
+                {
+                    "country": "COL",
+                    "name": "Maria VILLALBA"
+                }
+            ]
+        ],
+        "final_winner": "Maria VILLALBA"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Thayane LEMOS"
+                },
+                {
+                    "winner": "Thayane LEMOS"
+                }
+            ],
+            [
+                {
+                    "country": "MEX",
+                    "name": "Renata ORTIZ"
+                },
+                {
+                    "country": "VEN",
+                    "name": "Kady CABEZO"
+                },
+                {
+                    "winner": "Renata ORTIZ"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Thayane LEMOS"
+                },
+                {
+                    "country": "MEX",
+                    "name": "Renata ORTIZ"
+                }
+            ]
+        ],
+        "final_winner": "Thayane LEMOS"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "MEX",
+                    "name": "Paulina GARNICA"
+                },
+                {
+                    "winner": "Paulina GARNICA"
+                }
+            ],
+            [
+                {
+                    "country": "ECU",
+                    "name": "Astrid GAVIDIA"
+                },
+                {
+                    "country": "COL",
+                    "name": "Keyla VASQUEZ"
+                },
+                {
+                    "winner": "Astrid GAVIDIA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "MEX",
+                    "name": "Paulina GARNICA"
+                },
+                {
+                    "country": "ECU",
+                    "name": "Astrid GAVIDIA"
+                }
+            ]
+        ],
+        "final_winner": "Paulina GARNICA"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "PER",
+                    "name": "Marian FLORES"
+                },
+                {
+                    "country": "DOM",
+                    "name": "Clara BARINAS BENITEZ"
+                },
+                {
+                    "winner": "Clara BARINAS BENITEZ"
+                }
+            ],
+            [
+                {
+                    "country": "MEX",
+                    "name": "Renata ORTIZ"
+                },
+                {
+                    "country": "ECU",
+                    "name": "Astrid GAVIDIA"
+                },
+                {
+                    "winner": "Renata ORTIZ"
+                }
+            ],
+            [
+                {
+                    "country": "DOM",
+                    "name": "Clara BARINAS BENITEZ"
+                },
+                {
+                    "country": "MEX",
+                    "name": "Paulina GARNICA"
+                },
+                {
+                    "winner": "Clara BARINAS BENITEZ"
+                }
+            ],
+            [
+                {
+                    "country": "MEX",
+                    "name": "Renata ORTIZ"
+                },
+                {
+                    "country": "ARG",
+                    "name": "Brisa GOMEZ"
+                },
+                {
+                    "winner": "Brisa GOMEZ"
+                }
+            ],
+            [
+                {
+                    "country": "DOM",
+                    "name": "Clara BARINAS BENITEZ"
+                }
+            ],
+            [
+                {
+                    "country": "ARG",
+                    "name": "Brisa GOMEZ"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Clara BARINAS BENITEZ",
+            "Brisa GOMEZ"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ARG",
+                    "name": "Brisa GOMEZ"
+                },
+                {
+                    "country": "COL",
+                    "name": "Maria VILLALBA"
+                },
+                {
+                    "winner": "Maria VILLALBA"
+                }
+            ],
+            [
+                {
+                    "country": "BRA",
+                    "name": "Thayane LEMOS"
+                },
+                {
+                    "country": "MEX",
+                    "name": "Paulina GARNICA"
+                },
+                {
+                    "winner": "Thayane LEMOS"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "COL",
+                    "name": "Maria VILLALBA"
+                },
+                {
+                    "country": "BRA",
+                    "name": "Thayane LEMOS"
+                }
+            ]
+        ],
+        "final_winner": "Thayane LEMOS"
+    }
+}

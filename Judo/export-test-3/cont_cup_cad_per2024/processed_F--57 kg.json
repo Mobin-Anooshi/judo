@@ -1,0 +1,87 @@
+{
+    "POOL A": {
+        "round 1-3": [
+            [
+                {
+                    "country": "PER",
+                    "name": "Johana VALDIVIEZO"
+                },
+                {
+                    "country": "PAR",
+                    "name": "Dylzhat RASKEVICHUS"
+                },
+                {
+                    "winner": "Johana VALDIVIEZO"
+                }
+            ],
+            [
+                {
+                    "country": "PER",
+                    "name": "Johana VALDIVIEZO"
+                },
+                {
+                    "country": "CHI",
+                    "name": "Catalina SEPULVEDA"
+                },
+                {
+                    "winner": "Catalina SEPULVEDA"
+                }
+            ],
+            [
+                {
+                    "country": "PAR",
+                    "name": "Dylzhat RASKEVICHUS"
+                },
+                {
+                    "country": "CHI",
+                    "name": "Catalina SEPULVEDA"
+                },
+                {
+                    "winner": "Catalina SEPULVEDA"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Johana VALDIVIEZO",
+            "Catalina SEPULVEDA"
+        ]
+    },
+    "POOL B": {
+        "round 1-1": [],
+        "final_winners": [
+            "Jimena ARCE LACAYO"
+        ]
+    },
+    "REPECHAGE": {
+        "round 1-1": [
+            [
+                {
+                    "country": "CHI",
+                    "name": "Catalina SEPULVEDA"
+                },
+                {
+                    "country": "CHI",
+                    "name": "Isidora PALMA"
+                },
+                {
+                    "winner": "Isidora PALMA"
+                }
+            ],
+            [
+                {
+                    "country": "CHI",
+                    "name": "Isidora PALMA"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Isidora PALMA"
+        ]
+    },
+    "FINALS": {
+        "round 1-1": [],
+        "final_winners": [
+            "Jimena ARCE LACAYO"
+        ]
+    }
+}

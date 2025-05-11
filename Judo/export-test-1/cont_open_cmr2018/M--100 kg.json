@@ -1,0 +1,229 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ALG",
+                    "name": "Lyes BOUYACOUB"
+                },
+                {
+                    "winner": "Lyes BOUYACOUB"
+                }
+            ],
+            [
+                {
+                    "country": "CMR",
+                    "name": "Seidou NJI MOULUH"
+                },
+                {
+                    "winner": "Seidou NJI MOULUH"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "ALG",
+                    "name": "Lyes BOUYACOUB"
+                },
+                {
+                    "country": "CMR",
+                    "name": "Seidou NJI MOULUH"
+                }
+            ]
+        ],
+        "final_winner": "Lyes BOUYACOUB"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [],
+            [
+                {
+                    "country": "CMR",
+                    "name": "Alexandre Lionel SCHUAME"
+                },
+                {
+                    "country": "CMR",
+                    "name": "Aim Berenger MBIAMOU MBUTCHA"
+                },
+                {
+                    "winner": "Aim Berenger MBIAMOU MBUTCHA"
+                }
+            ]
+        ],
+        "round 1-1": [],
+        "final_winner": "Aim Berenger MBIAMOU MBUTCHA"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CIV",
+                    "name": "Koffi Kreme KOBENA"
+                },
+                {
+                    "winner": "Koffi Kreme KOBENA"
+                }
+            ],
+            [
+                {
+                    "country": "CMR",
+                    "name": "Sebastien Olivier SANAMA ALIPE"
+                },
+                {
+                    "winner": "Sebastien Olivier SANAMA ALIPE"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "CIV",
+                    "name": "Koffi Kreme KOBENA"
+                },
+                {
+                    "country": "CMR",
+                    "name": "Sebastien Olivier SANAMA ALIPE"
+                }
+            ]
+        ],
+        "final_winner": "Koffi Kreme KOBENA"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CMR",
+                    "name": "Raoul NDJIMA EHOWA"
+                },
+                {
+                    "winner": "Raoul NDJIMA EHOWA"
+                }
+            ],
+            [
+                {
+                    "country": "CMR",
+                    "name": "Bernard Kevin KAMENI"
+                },
+                {
+                    "winner": "Bernard Kevin KAMENI"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "CMR",
+                    "name": "Raoul NDJIMA EHOWA"
+                },
+                {
+                    "country": "CMR",
+                    "name": "Bernard Kevin KAMENI"
+                }
+            ]
+        ],
+        "final_winner": "Raoul NDJIMA EHOWA"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CMR",
+                    "name": "Seidou NJI MOULUH"
+                }
+            ],
+            [
+                {
+                    "country": "CMR",
+                    "name": "Sebastien Olivier SANAMA ALIPE"
+                },
+                {
+                    "country": "CMR",
+                    "name": "Bernard Kevin KAMENI"
+                },
+                {
+                    "winner": "Bernard Kevin KAMENI"
+                }
+            ],
+            [
+                {
+                    "country": "CMR",
+                    "name": "Seidou NJI MOULUH"
+                },
+                {
+                    "country": "CMR",
+                    "name": "Raoul NDJIMA EHOWA"
+                },
+                {
+                    "winner": "Seidou NJI MOULUH"
+                }
+            ],
+            [
+                {
+                    "country": "CMR",
+                    "name": "Bernard Kevin KAMENI"
+                },
+                {
+                    "country": "CMR",
+                    "name": "Aim Berenger MBIAMOU MBUTCHA"
+                },
+                {
+                    "winner": "Aim Berenger MBIAMOU MBUTCHA"
+                }
+            ],
+            [
+                {
+                    "country": "CMR",
+                    "name": "Aim Berenger MBIAMOU MBUTCHA"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Bernard Kevin KAMENI",
+            "Seidou NJI MOULUH"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ALG",
+                    "name": "Lyes BOUYACOUB"
+                },
+                {
+                    "country": "CMR",
+                    "name": "Aim Berenger MBIAMOU MBUTCHA"
+                },
+                {
+                    "winner": "Lyes BOUYACOUB"
+                }
+            ],
+            [
+                {
+                    "country": "CIV",
+                    "name": "Koffi Kreme KOBENA"
+                },
+                {
+                    "country": "CMR",
+                    "name": "Raoul NDJIMA EHOWA"
+                },
+                {
+                    "winner": "Koffi Kreme KOBENA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "ALG",
+                    "name": "Lyes BOUYACOUB"
+                },
+                {
+                    "country": "CIV",
+                    "name": "Koffi Kreme KOBENA"
+                }
+            ]
+        ],
+        "final_winner": "Lyes BOUYACOUB"
+    }
+}

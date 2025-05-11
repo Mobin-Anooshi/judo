@@ -1,0 +1,221 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "SEN",
+                    "name": "Yacine DIATTA"
+                },
+                {
+                    "winner": "Yacine DIATTA"
+                }
+            ],
+            []
+        ],
+        "round 1-1": [],
+        "final_winner": "Yacine DIATTA"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "MAR",
+                    "name": "Oulaya KHAIRI"
+                },
+                {
+                    "winner": "Oulaya KHAIRI"
+                }
+            ],
+            [
+                {
+                    "country": "TUN",
+                    "name": "Fatma HADDADI"
+                },
+                {
+                    "winner": "Fatma HADDADI"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "MAR",
+                    "name": "Oulaya KHAIRI"
+                },
+                {
+                    "country": "TUN",
+                    "name": "Fatma HADDADI"
+                }
+            ]
+        ],
+        "final_winner": "Oulaya KHAIRI"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ALG",
+                    "name": "Karima KECHOUT"
+                },
+                {
+                    "winner": "Karima KECHOUT"
+                }
+            ],
+            []
+        ],
+        "round 1-1": [],
+        "final_winner": "Karima KECHOUT"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "TUN",
+                    "name": "Nawress CHOUCHAINE"
+                },
+                {
+                    "winner": "Nawress CHOUCHAINE"
+                }
+            ],
+            [
+                {
+                    "country": "MAR",
+                    "name": "Safae LAMSYAH"
+                },
+                {
+                    "winner": "Safae LAMSYAH"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "TUN",
+                    "name": "Nawress CHOUCHAINE"
+                },
+                {
+                    "country": "MAR",
+                    "name": "Safae LAMSYAH"
+                }
+            ]
+        ],
+        "final_winner": "Nawress CHOUCHAINE"
+    },
+    "REPECHAGE": {
+        "round 1-4": [
+            [],
+            [
+                {
+                    "country": "TUN",
+                    "name": "Fatma HADDADI"
+                },
+                {
+                    "winner": "Fatma HADDADI"
+                }
+            ],
+            [],
+            [
+                {
+                    "country": "MAR",
+                    "name": "Safae LAMSYAH"
+                },
+                {
+                    "winner": "Safae LAMSYAH"
+                }
+            ]
+        ],
+        "round 1-2": [
+            [
+                {
+                    "country": "TUN",
+                    "name": "Fatma HADDADI"
+                }
+            ],
+            [
+                {
+                    "country": "MAR",
+                    "name": "Safae LAMSYAH"
+                }
+            ],
+            [
+                {
+                    "country": "TUN",
+                    "name": "Fatma HADDADI"
+                },
+                {
+                    "country": "TUN",
+                    "name": "Nawress CHOUCHAINE"
+                },
+                {
+                    "winner": "Fatma HADDADI"
+                }
+            ],
+            [
+                {
+                    "country": "MAR",
+                    "name": "Safae LAMSYAH"
+                },
+                {
+                    "country": "MAR",
+                    "name": "Oulaya KHAIRI"
+                },
+                {
+                    "winner": "Oulaya KHAIRI"
+                }
+            ],
+            [
+                {
+                    "country": "MAR",
+                    "name": "Oulaya KHAIRI"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Safae LAMSYAH",
+            "Fatma HADDADI"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "SEN",
+                    "name": "Yacine DIATTA"
+                },
+                {
+                    "country": "MAR",
+                    "name": "Oulaya KHAIRI"
+                },
+                {
+                    "winner": "Yacine DIATTA"
+                }
+            ],
+            [
+                {
+                    "country": "ALG",
+                    "name": "Karima KECHOUT"
+                },
+                {
+                    "country": "TUN",
+                    "name": "Nawress CHOUCHAINE"
+                },
+                {
+                    "winner": "Karima KECHOUT"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "SEN",
+                    "name": "Yacine DIATTA"
+                },
+                {
+                    "country": "ALG",
+                    "name": "Karima KECHOUT"
+                }
+            ]
+        ],
+        "final_winner": "Karima KECHOUT"
+    }
+}

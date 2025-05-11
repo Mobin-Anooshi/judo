@@ -1,0 +1,228 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "PUR",
+                    "name": "Christian ALFAU"
+                },
+                {
+                    "country": "CRC",
+                    "name": "Sebastian SANCHO"
+                },
+                {
+                    "winner": "Sebastian SANCHO"
+                }
+            ],
+            [
+                {
+                    "country": "PUR",
+                    "name": "Jaleel CRUZ"
+                },
+                {
+                    "winner": "Jaleel CRUZ"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "CRC",
+                    "name": "Sebastian SANCHO"
+                },
+                {
+                    "country": "PUR",
+                    "name": "Jaleel CRUZ"
+                }
+            ]
+        ],
+        "final_winner": "Jaleel CRUZ"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "PUR",
+                    "name": "Lopez YOLKY"
+                },
+                {
+                    "winner": "Lopez YOLKY"
+                }
+            ],
+            [
+                {
+                    "country": "PUR",
+                    "name": "Hector FUENTES"
+                },
+                {
+                    "winner": "Hector FUENTES"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "PUR",
+                    "name": "Lopez YOLKY"
+                },
+                {
+                    "country": "PUR",
+                    "name": "Hector FUENTES"
+                }
+            ]
+        ],
+        "final_winner": "Lopez YOLKY"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CRC",
+                    "name": "Jose Eduardo PERALTA"
+                },
+                {
+                    "winner": "Jose Eduardo PERALTA"
+                }
+            ],
+            [
+                {
+                    "country": "PUR",
+                    "name": "Luis BERRIOS"
+                },
+                {
+                    "winner": "Luis BERRIOS"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "CRC",
+                    "name": "Jose Eduardo PERALTA"
+                },
+                {
+                    "country": "PUR",
+                    "name": "Luis BERRIOS"
+                }
+            ]
+        ],
+        "final_winner": "Jose Eduardo PERALTA"
+    },
+    "POOL D": {
+        "round 1-1": [
+            [
+                {
+                    "country": "PUR",
+                    "name": "Steven ROSADO"
+                },
+                {
+                    "country": "DOM",
+                    "name": "Elmert RAMIREZ"
+                }
+            ]
+        ],
+        "final_winner": "Elmert RAMIREZ"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CRC",
+                    "name": "Sebastian SANCHO"
+                },
+                {
+                    "country": "PUR",
+                    "name": "Hector FUENTES"
+                },
+                {
+                    "winner": "Sebastian SANCHO"
+                }
+            ],
+            [
+                {
+                    "country": "PUR",
+                    "name": "Luis BERRIOS"
+                }
+            ],
+            [
+                {
+                    "country": "CRC",
+                    "name": "Sebastian SANCHO"
+                },
+                {
+                    "country": "CRC",
+                    "name": "Jose Eduardo PERALTA"
+                },
+                {
+                    "winner": "Sebastian SANCHO"
+                }
+            ],
+            [
+                {
+                    "country": "PUR",
+                    "name": "Luis BERRIOS"
+                },
+                {
+                    "country": "PUR",
+                    "name": "Lopez YOLKY"
+                },
+                {
+                    "winner": "Luis BERRIOS"
+                }
+            ],
+            [
+                {
+                    "country": "CRC",
+                    "name": "Sebastian SANCHO"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Luis BERRIOS",
+            "Sebastian SANCHO"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "PUR",
+                    "name": "Jaleel CRUZ"
+                },
+                {
+                    "country": "PUR",
+                    "name": "Lopez YOLKY"
+                },
+                {
+                    "winner": "Jaleel CRUZ"
+                }
+            ],
+            [
+                {
+                    "country": "CRC",
+                    "name": "Jose Eduardo PERALTA"
+                },
+                {
+                    "country": "DOM",
+                    "name": "Elmert RAMIREZ"
+                },
+                {
+                    "winner": "Elmert RAMIREZ"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "PUR",
+                    "name": "Jaleel CRUZ"
+                },
+                {
+                    "country": "DOM",
+                    "name": "Elmert RAMIREZ"
+                }
+            ]
+        ],
+        "final_winner": "Jaleel CRUZ"
+    }
+}

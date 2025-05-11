@@ -1,0 +1,177 @@
+{
+    "POOL A": {
+        "round 1-1": [
+            [
+                {
+                    "country": "CUB",
+                    "name": "Kaliema ANTOMARCHI"
+                },
+                {
+                    "country": "CAN",
+                    "name": "Coralie GODBOUT"
+                }
+            ]
+        ],
+        "final_winner": "Kaliema ANTOMARCHI"
+    },
+    "POOL B": {
+        "round 1-1": [
+            [
+                {
+                    "country": "VEN",
+                    "name": "Karen LEON"
+                },
+                {
+                    "country": "ARG",
+                    "name": "Lucia CANTERO"
+                }
+            ]
+        ],
+        "final_winner": "Karen LEON"
+    },
+    "POOL C": {
+        "round 1-1": [
+            [
+                {
+                    "country": "ECU",
+                    "name": "Vanessa CHALA"
+                },
+                {
+                    "country": "USA",
+                    "name": "Nicole STOUT"
+                }
+            ]
+        ],
+        "final_winner": "Vanessa CHALA"
+    },
+    "POOL D": {
+        "round 1-1": [
+            [
+                {
+                    "country": "USA",
+                    "name": "Nefeli PAPADAKIS"
+                },
+                {
+                    "country": "MEX",
+                    "name": "Liliana CARDENAS"
+                }
+            ]
+        ],
+        "final_winner": "Nefeli PAPADAKIS"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CAN",
+                    "name": "Coralie GODBOUT"
+                },
+                {
+                    "country": "ARG",
+                    "name": "Lucia CANTERO"
+                },
+                {
+                    "winner": "Lucia CANTERO"
+                }
+            ],
+            [
+                {
+                    "country": "USA",
+                    "name": "Nicole STOUT"
+                },
+                {
+                    "country": "MEX",
+                    "name": "Liliana CARDENAS"
+                },
+                {
+                    "winner": "Liliana CARDENAS"
+                }
+            ],
+            [
+                {
+                    "country": "ARG",
+                    "name": "Lucia CANTERO"
+                },
+                {
+                    "country": "USA",
+                    "name": "Nefeli PAPADAKIS"
+                },
+                {
+                    "winner": "Nefeli PAPADAKIS"
+                }
+            ],
+            [
+                {
+                    "country": "MEX",
+                    "name": "Liliana CARDENAS"
+                },
+                {
+                    "country": "VEN",
+                    "name": "Karen LEON"
+                },
+                {
+                    "winner": "Karen LEON"
+                }
+            ],
+            [
+                {
+                    "country": "USA",
+                    "name": "Nefeli PAPADAKIS"
+                }
+            ],
+            [
+                {
+                    "country": "VEN",
+                    "name": "Karen LEON"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Nefeli PAPADAKIS",
+            "Karen LEON"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CUB",
+                    "name": "Kaliema ANTOMARCHI"
+                },
+                {
+                    "country": "VEN",
+                    "name": "Karen LEON"
+                },
+                {
+                    "winner": "Kaliema ANTOMARCHI"
+                }
+            ],
+            [
+                {
+                    "country": "ECU",
+                    "name": "Vanessa CHALA"
+                },
+                {
+                    "country": "USA",
+                    "name": "Nefeli PAPADAKIS"
+                },
+                {
+                    "winner": "Vanessa CHALA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "CUB",
+                    "name": "Kaliema ANTOMARCHI"
+                },
+                {
+                    "country": "ECU",
+                    "name": "Vanessa CHALA"
+                }
+            ]
+        ],
+        "final_winner": "Vanessa CHALA"
+    }
+}

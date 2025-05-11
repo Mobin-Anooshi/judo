@@ -1,0 +1,68 @@
+{
+    "ROUND 1": {
+        "round 1-2": [
+            [
+                {
+                    "country": "UAE",
+                    "name": "Ahmed AL HOSANI"
+                },
+                {
+                    "country": "MAC",
+                    "name": "Ngai wang HOI"
+                },
+                {
+                    "winner": "Ahmed AL HOSANI"
+                }
+            ],
+            [
+                {
+                    "country": "MAC",
+                    "name": "Tak Chong CHEK"
+                },
+                {
+                    "country": "UAE",
+                    "name": "Fares AL AREEFI"
+                },
+                {
+                    "winner": "Fares AL AREEFI"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Ahmed AL HOSANI",
+            "Fares AL AREEFI"
+        ]
+    },
+    "REPECHAGE": {
+        "round 1-1": [
+            [
+                {
+                    "country": "UAE",
+                    "name": "Ahmed AL HOSANI"
+                },
+                {
+                    "country": "MAC",
+                    "name": "Tak Chong CHEK"
+                },
+                {
+                    "winner": "Ahmed AL HOSANI"
+                }
+            ],
+            [
+                {
+                    "country": "UAE",
+                    "name": "Ahmed AL HOSANI"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Ahmed AL HOSANI"
+        ]
+    },
+    "FINALS": {
+        "round 1-1": [],
+        "final_winners": [
+            "Fares AL AREEFI"
+        ]
+    }
+}

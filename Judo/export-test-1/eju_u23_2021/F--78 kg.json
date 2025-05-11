@@ -1,0 +1,265 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "POR",
+                    "name": "Patricia SAMPAIO"
+                },
+                {
+                    "winner": "Patricia SAMPAIO"
+                }
+            ],
+            [
+                {
+                    "country": "ISR",
+                    "name": "Yuli Alma MISHINER"
+                },
+                {
+                    "country": "HUN",
+                    "name": "Szilvia FARKAS"
+                },
+                {
+                    "winner": "Yuli Alma MISHINER"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "POR",
+                    "name": "Patricia SAMPAIO"
+                },
+                {
+                    "country": "ISR",
+                    "name": "Yuli Alma MISHINER"
+                }
+            ]
+        ],
+        "final_winner": "Patricia SAMPAIO"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "RUS",
+                    "name": "Nadezhda TATARCHENKO"
+                },
+                {
+                    "winner": "Nadezhda TATARCHENKO"
+                }
+            ],
+            [
+                {
+                    "country": "AUT",
+                    "name": "Maria HOELLWART"
+                },
+                {
+                    "winner": "Maria HOELLWART"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "RUS",
+                    "name": "Nadezhda TATARCHENKO"
+                },
+                {
+                    "country": "AUT",
+                    "name": "Maria HOELLWART"
+                }
+            ]
+        ],
+        "final_winner": "Maria HOELLWART"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "GER",
+                    "name": "Lea SCHMID"
+                },
+                {
+                    "winner": "Lea SCHMID"
+                }
+            ],
+            [
+                {
+                    "country": "ESP",
+                    "name": "Lucia PEREZ GOMEZ"
+                },
+                {
+                    "country": "FRA",
+                    "name": "Habi MAGASSA"
+                },
+                {
+                    "winner": "Lucia PEREZ GOMEZ"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "GER",
+                    "name": "Lea SCHMID"
+                },
+                {
+                    "country": "ESP",
+                    "name": "Lucia PEREZ GOMEZ"
+                }
+            ]
+        ],
+        "final_winner": "Lucia PEREZ GOMEZ"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CRO",
+                    "name": "Petrunjela PAVIC"
+                },
+                {
+                    "winner": "Petrunjela PAVIC"
+                }
+            ],
+            [
+                {
+                    "country": "HUN",
+                    "name": "Nikolett SAGI"
+                },
+                {
+                    "winner": "Nikolett SAGI"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "CRO",
+                    "name": "Petrunjela PAVIC"
+                },
+                {
+                    "country": "HUN",
+                    "name": "Nikolett SAGI"
+                }
+            ]
+        ],
+        "final_winner": "Petrunjela PAVIC"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ISR",
+                    "name": "Yuli Alma MISHINER"
+                },
+                {
+                    "country": "RUS",
+                    "name": "Nadezhda TATARCHENKO"
+                },
+                {
+                    "winner": "Nadezhda TATARCHENKO"
+                }
+            ],
+            [
+                {
+                    "country": "GER",
+                    "name": "Lea SCHMID"
+                },
+                {
+                    "country": "HUN",
+                    "name": "Nikolett SAGI"
+                },
+                {
+                    "winner": "Lea SCHMID"
+                }
+            ],
+            [
+                {
+                    "country": "RUS",
+                    "name": "Nadezhda TATARCHENKO"
+                },
+                {
+                    "country": "ESP",
+                    "name": "Lucia PEREZ GOMEZ"
+                },
+                {
+                    "winner": "Nadezhda TATARCHENKO"
+                }
+            ],
+            [
+                {
+                    "country": "GER",
+                    "name": "Lea SCHMID"
+                },
+                {
+                    "country": "AUT",
+                    "name": "Maria HOELLWART"
+                },
+                {
+                    "winner": "Lea SCHMID"
+                }
+            ],
+            [
+                {
+                    "country": "RUS",
+                    "name": "Nadezhda TATARCHENKO"
+                }
+            ],
+            [
+                {
+                    "country": "GER",
+                    "name": "Lea SCHMID"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Nadezhda TATARCHENKO",
+            "Lea SCHMID"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "POR",
+                    "name": "Patricia SAMPAIO"
+                },
+                {
+                    "country": "AUT",
+                    "name": "Maria HOELLWART"
+                },
+                {
+                    "winner": "Patricia SAMPAIO"
+                }
+            ],
+            [
+                {
+                    "country": "ESP",
+                    "name": "Lucia PEREZ GOMEZ"
+                },
+                {
+                    "country": "CRO",
+                    "name": "Petrunjela PAVIC"
+                },
+                {
+                    "winner": "Petrunjela PAVIC"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "POR",
+                    "name": "Patricia SAMPAIO"
+                },
+                {
+                    "country": "CRO",
+                    "name": "Petrunjela PAVIC"
+                }
+            ]
+        ],
+        "final_winner": "Patricia SAMPAIO"
+    }
+}

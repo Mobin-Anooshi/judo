@@ -1,0 +1,68 @@
+{
+    "ROUND 1": {
+        "round 1-2": [
+            [
+                {
+                    "country": "VEN",
+                    "name": "Luis PARICHE"
+                },
+                {
+                    "country": "COL",
+                    "name": "Pablo SANABRIA"
+                },
+                {
+                    "winner": "Luis PARICHE"
+                }
+            ],
+            [
+                {
+                    "country": "PUR",
+                    "name": "Francisco GALARZA HERNANDEZ"
+                },
+                {
+                    "country": "COL",
+                    "name": "Alejandro MANZANO"
+                },
+                {
+                    "winner": "Francisco GALARZA HERNANDEZ"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Luis PARICHE",
+            "Francisco GALARZA HERNANDEZ"
+        ]
+    },
+    "REPECHAGE": {
+        "round 1-1": [
+            [
+                {
+                    "country": "COL",
+                    "name": "Pablo SANABRIA"
+                },
+                {
+                    "country": "COL",
+                    "name": "Alejandro MANZANO"
+                },
+                {
+                    "winner": "Alejandro MANZANO"
+                }
+            ],
+            [
+                {
+                    "country": "COL",
+                    "name": "Alejandro MANZANO"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Alejandro MANZANO"
+        ]
+    },
+    "FINALS": {
+        "round 1-1": [],
+        "final_winners": [
+            "Luis PARICHE"
+        ]
+    }
+}

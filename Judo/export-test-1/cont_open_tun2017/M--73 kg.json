@@ -1,0 +1,239 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "SLO",
+                    "name": "Martin HOJAK"
+                },
+                {
+                    "winner": "Martin HOJAK"
+                }
+            ],
+            [
+                {
+                    "country": "TUN",
+                    "name": "Wasfi LOUKIL"
+                },
+                {
+                    "country": "FRA",
+                    "name": "Samuel N ZINGO"
+                },
+                {
+                    "winner": "Samuel N ZINGO"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "SLO",
+                    "name": "Martin HOJAK"
+                },
+                {
+                    "country": "FRA",
+                    "name": "Samuel N ZINGO"
+                }
+            ]
+        ],
+        "final_winner": "Samuel N ZINGO"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "MAR",
+                    "name": "Noureddine HAJJAJ"
+                },
+                {
+                    "winner": "Noureddine HAJJAJ"
+                }
+            ],
+            [
+                {
+                    "country": "ESP",
+                    "name": "Alberto MENENDEZ RUBIERA"
+                },
+                {
+                    "winner": "Alberto MENENDEZ RUBIERA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "MAR",
+                    "name": "Noureddine HAJJAJ"
+                },
+                {
+                    "country": "ESP",
+                    "name": "Alberto MENENDEZ RUBIERA"
+                }
+            ]
+        ],
+        "final_winner": "Alberto MENENDEZ RUBIERA"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "USA",
+                    "name": "Alexander TURNER"
+                },
+                {
+                    "winner": "Alexander TURNER"
+                }
+            ],
+            [
+                {
+                    "country": "TUN",
+                    "name": "Boulbaba MAALEJ"
+                },
+                {
+                    "country": "MAR",
+                    "name": "Hatim DOUKKALI"
+                },
+                {
+                    "winner": "Boulbaba MAALEJ"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "USA",
+                    "name": "Alexander TURNER"
+                },
+                {
+                    "country": "TUN",
+                    "name": "Boulbaba MAALEJ"
+                }
+            ]
+        ],
+        "final_winner": "Alexander TURNER"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "FRA",
+                    "name": "Mathieu LITTLE LEBRETON"
+                },
+                {
+                    "winner": "Mathieu LITTLE LEBRETON"
+                }
+            ],
+            []
+        ],
+        "round 1-1": [],
+        "final_winner": "Mathieu LITTLE LEBRETON"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "SLO",
+                    "name": "Martin HOJAK"
+                },
+                {
+                    "country": "MAR",
+                    "name": "Noureddine HAJJAJ"
+                },
+                {
+                    "winner": "Martin HOJAK"
+                }
+            ],
+            [
+                {
+                    "country": "TUN",
+                    "name": "Boulbaba MAALEJ"
+                }
+            ],
+            [
+                {
+                    "country": "SLO",
+                    "name": "Martin HOJAK"
+                },
+                {
+                    "country": "USA",
+                    "name": "Alexander TURNER"
+                },
+                {
+                    "winner": "Martin HOJAK"
+                }
+            ],
+            [
+                {
+                    "country": "TUN",
+                    "name": "Boulbaba MAALEJ"
+                },
+                {
+                    "country": "ESP",
+                    "name": "Alberto MENENDEZ RUBIERA"
+                },
+                {
+                    "winner": "Alberto MENENDEZ RUBIERA"
+                }
+            ],
+            [
+                {
+                    "country": "SLO",
+                    "name": "Martin HOJAK"
+                }
+            ],
+            [
+                {
+                    "country": "ESP",
+                    "name": "Alberto MENENDEZ RUBIERA"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Martin HOJAK",
+            "Alberto MENENDEZ RUBIERA"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "FRA",
+                    "name": "Samuel N ZINGO"
+                },
+                {
+                    "country": "ESP",
+                    "name": "Alberto MENENDEZ RUBIERA"
+                },
+                {
+                    "winner": "Samuel N ZINGO"
+                }
+            ],
+            [
+                {
+                    "country": "USA",
+                    "name": "Alexander TURNER"
+                },
+                {
+                    "country": "FRA",
+                    "name": "Mathieu LITTLE LEBRETON"
+                },
+                {
+                    "winner": "Mathieu LITTLE LEBRETON"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "FRA",
+                    "name": "Samuel N ZINGO"
+                },
+                {
+                    "country": "FRA",
+                    "name": "Mathieu LITTLE LEBRETON"
+                }
+            ]
+        ],
+        "final_winner": "Samuel N ZINGO"
+    }
+}

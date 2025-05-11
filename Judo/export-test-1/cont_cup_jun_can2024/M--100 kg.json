@@ -1,0 +1,159 @@
+{
+    "POOL A": {
+        "round 1-1": [],
+        "final_winner": "Daniel LIUBIMOVSKI"
+    },
+    "POOL B": {
+        "round 1-1": [
+            [
+                {
+                    "country": "CAN",
+                    "name": "Eden KHALFON"
+                },
+                {
+                    "country": "CAN",
+                    "name": "Matys RAINVILLE"
+                }
+            ]
+        ],
+        "final_winner": "Matys RAINVILLE"
+    },
+    "POOL C": {
+        "round 1-1": [
+            [
+                {
+                    "country": "CAN",
+                    "name": "Yehor PALADII"
+                },
+                {
+                    "country": "CAN",
+                    "name": "Mohamed Amine SILEM"
+                }
+            ]
+        ],
+        "final_winner": "Yehor PALADII"
+    },
+    "POOL D": {
+        "round 1-1": [
+            [
+                {
+                    "country": "CAN",
+                    "name": "Ivan TYSHCHENKO"
+                },
+                {
+                    "country": "CAN",
+                    "name": "Ethan GAUDET"
+                }
+            ]
+        ],
+        "final_winner": "Ivan TYSHCHENKO"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CAN",
+                    "name": "Eden KHALFON"
+                }
+            ],
+            [
+                {
+                    "country": "CAN",
+                    "name": "Mohamed Amine SILEM"
+                },
+                {
+                    "country": "CAN",
+                    "name": "Ethan GAUDET"
+                },
+                {
+                    "winner": "Mohamed Amine SILEM"
+                }
+            ],
+            [
+                {
+                    "country": "CAN",
+                    "name": "Eden KHALFON"
+                },
+                {
+                    "country": "CAN",
+                    "name": "Ivan TYSHCHENKO"
+                },
+                {
+                    "winner": "Ivan TYSHCHENKO"
+                }
+            ],
+            [
+                {
+                    "country": "CAN",
+                    "name": "Mohamed Amine SILEM"
+                },
+                {
+                    "country": "CAN",
+                    "name": "Matys RAINVILLE"
+                },
+                {
+                    "winner": "Mohamed Amine SILEM"
+                }
+            ],
+            [
+                {
+                    "country": "CAN",
+                    "name": "Ivan TYSHCHENKO"
+                }
+            ],
+            [
+                {
+                    "country": "CAN",
+                    "name": "Mohamed Amine SILEM"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Ivan TYSHCHENKO",
+            "Mohamed Amine SILEM"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "USA",
+                    "name": "Daniel LIUBIMOVSKI"
+                },
+                {
+                    "country": "CAN",
+                    "name": "Matys RAINVILLE"
+                },
+                {
+                    "winner": "Daniel LIUBIMOVSKI"
+                }
+            ],
+            [
+                {
+                    "country": "CAN",
+                    "name": "Yehor PALADII"
+                },
+                {
+                    "country": "CAN",
+                    "name": "Ivan TYSHCHENKO"
+                },
+                {
+                    "winner": "Yehor PALADII"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "USA",
+                    "name": "Daniel LIUBIMOVSKI"
+                },
+                {
+                    "country": "CAN",
+                    "name": "Yehor PALADII"
+                }
+            ]
+        ],
+        "final_winner": "Yehor PALADII"
+    }
+}

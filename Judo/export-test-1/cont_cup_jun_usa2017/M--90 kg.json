@@ -1,0 +1,261 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "DOM",
+                    "name": "Ivan MEDOS"
+                },
+                {
+                    "winner": "Ivan MEDOS"
+                }
+            ],
+            [
+                {
+                    "country": "USA",
+                    "name": "Joseph LENTZ"
+                },
+                {
+                    "country": "HAI",
+                    "name": "Will CHERY"
+                },
+                {
+                    "winner": "Will CHERY"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "DOM",
+                    "name": "Ivan MEDOS"
+                },
+                {
+                    "country": "HAI",
+                    "name": "Will CHERY"
+                }
+            ]
+        ],
+        "final_winner": "Ivan MEDOS"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "USA",
+                    "name": "Larsen WAY"
+                },
+                {
+                    "winner": "Larsen WAY"
+                }
+            ],
+            [
+                {
+                    "country": "USA",
+                    "name": "Lewis DONNELLY"
+                },
+                {
+                    "winner": "Lewis DONNELLY"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "USA",
+                    "name": "Larsen WAY"
+                },
+                {
+                    "country": "USA",
+                    "name": "Lewis DONNELLY"
+                }
+            ]
+        ],
+        "final_winner": "Lewis DONNELLY"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "USA",
+                    "name": "Nicholas PAVLOV"
+                },
+                {
+                    "winner": "Nicholas PAVLOV"
+                }
+            ],
+            [
+                {
+                    "country": "USA",
+                    "name": "John SILVA"
+                },
+                {
+                    "winner": "John SILVA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "USA",
+                    "name": "Nicholas PAVLOV"
+                },
+                {
+                    "country": "USA",
+                    "name": "John SILVA"
+                }
+            ]
+        ],
+        "final_winner": "Nicholas PAVLOV"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "USA",
+                    "name": "Jeffrey STOUT"
+                },
+                {
+                    "winner": "Jeffrey STOUT"
+                }
+            ],
+            [
+                {
+                    "country": "CAN",
+                    "name": "Jackson MINNICK"
+                },
+                {
+                    "winner": "Jackson MINNICK"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "USA",
+                    "name": "Jeffrey STOUT"
+                },
+                {
+                    "country": "CAN",
+                    "name": "Jackson MINNICK"
+                }
+            ]
+        ],
+        "final_winner": "Jeffrey STOUT"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "HAI",
+                    "name": "Will CHERY"
+                },
+                {
+                    "country": "USA",
+                    "name": "Larsen WAY"
+                },
+                {
+                    "winner": "Will CHERY"
+                }
+            ],
+            [
+                {
+                    "country": "USA",
+                    "name": "John SILVA"
+                },
+                {
+                    "country": "CAN",
+                    "name": "Jackson MINNICK"
+                },
+                {
+                    "winner": "John SILVA"
+                }
+            ],
+            [
+                {
+                    "country": "HAI",
+                    "name": "Will CHERY"
+                },
+                {
+                    "country": "USA",
+                    "name": "Nicholas PAVLOV"
+                },
+                {
+                    "winner": "Nicholas PAVLOV"
+                }
+            ],
+            [
+                {
+                    "country": "USA",
+                    "name": "John SILVA"
+                },
+                {
+                    "country": "DOM",
+                    "name": "Ivan MEDOS"
+                },
+                {
+                    "winner": "John SILVA"
+                }
+            ],
+            [
+                {
+                    "country": "USA",
+                    "name": "Nicholas PAVLOV"
+                }
+            ],
+            [
+                {
+                    "country": "USA",
+                    "name": "John SILVA"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Nicholas PAVLOV",
+            "John SILVA"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "DOM",
+                    "name": "Ivan MEDOS"
+                },
+                {
+                    "country": "USA",
+                    "name": "Lewis DONNELLY"
+                },
+                {
+                    "winner": "Lewis DONNELLY"
+                }
+            ],
+            [
+                {
+                    "country": "USA",
+                    "name": "Nicholas PAVLOV"
+                },
+                {
+                    "country": "USA",
+                    "name": "Jeffrey STOUT"
+                },
+                {
+                    "winner": "Jeffrey STOUT"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "USA",
+                    "name": "Lewis DONNELLY"
+                },
+                {
+                    "country": "USA",
+                    "name": "Jeffrey STOUT"
+                }
+            ]
+        ],
+        "final_winner": "Jeffrey STOUT"
+    }
+}

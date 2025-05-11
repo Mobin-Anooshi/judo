@@ -1,0 +1,159 @@
+{
+    "POOL A": {
+        "round 1-1": [],
+        "final_winner": "Zarina RAIFOVA"
+    },
+    "POOL B": {
+        "round 1-1": [
+            [
+                {
+                    "country": "KAZ",
+                    "name": "Nazerke TILEUKHANOVA"
+                },
+                {
+                    "country": "KAZ",
+                    "name": "Elmira SAMIGOLLAYEVA"
+                }
+            ]
+        ],
+        "final_winner": "Elmira SAMIGOLLAYEVA"
+    },
+    "POOL C": {
+        "round 1-1": [
+            [
+                {
+                    "country": "RUS",
+                    "name": "Marina BUKREEVA"
+                },
+                {
+                    "country": "RUS",
+                    "name": "Tatiana LIALINA"
+                }
+            ]
+        ],
+        "final_winner": "Marina BUKREEVA"
+    },
+    "POOL D": {
+        "round 1-1": [
+            [
+                {
+                    "country": "MGL",
+                    "name": "Erdenet-Od BATBAYAR"
+                },
+                {
+                    "country": "RUS",
+                    "name": "Svetlana VORONINA"
+                }
+            ]
+        ],
+        "final_winner": "Svetlana VORONINA"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "KAZ",
+                    "name": "Nazerke TILEUKHANOVA"
+                }
+            ],
+            [
+                {
+                    "country": "RUS",
+                    "name": "Tatiana LIALINA"
+                },
+                {
+                    "country": "MGL",
+                    "name": "Erdenet-Od BATBAYAR"
+                },
+                {
+                    "winner": "Tatiana LIALINA"
+                }
+            ],
+            [
+                {
+                    "country": "KAZ",
+                    "name": "Nazerke TILEUKHANOVA"
+                },
+                {
+                    "country": "RUS",
+                    "name": "Svetlana VORONINA"
+                },
+                {
+                    "winner": "Svetlana VORONINA"
+                }
+            ],
+            [
+                {
+                    "country": "RUS",
+                    "name": "Tatiana LIALINA"
+                },
+                {
+                    "country": "KAZ",
+                    "name": "Elmira SAMIGOLLAYEVA"
+                },
+                {
+                    "winner": "Tatiana LIALINA"
+                }
+            ],
+            [
+                {
+                    "country": "RUS",
+                    "name": "Svetlana VORONINA"
+                }
+            ],
+            [
+                {
+                    "country": "RUS",
+                    "name": "Tatiana LIALINA"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Svetlana VORONINA",
+            "Tatiana LIALINA"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "KAZ",
+                    "name": "Zarina RAIFOVA"
+                },
+                {
+                    "country": "KAZ",
+                    "name": "Elmira SAMIGOLLAYEVA"
+                },
+                {
+                    "winner": "Zarina RAIFOVA"
+                }
+            ],
+            [
+                {
+                    "country": "RUS",
+                    "name": "Marina BUKREEVA"
+                },
+                {
+                    "country": "RUS",
+                    "name": "Svetlana VORONINA"
+                },
+                {
+                    "winner": "Marina BUKREEVA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "KAZ",
+                    "name": "Zarina RAIFOVA"
+                },
+                {
+                    "country": "RUS",
+                    "name": "Marina BUKREEVA"
+                }
+            ]
+        ],
+        "final_winner": "Marina BUKREEVA"
+    }
+}

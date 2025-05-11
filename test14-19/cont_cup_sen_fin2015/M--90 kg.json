@@ -1,0 +1,238 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "FIN",
+                    "name": "Lalli NUORTEVA"
+                },
+                {
+                    "winner": "Lalli NUORTEVA"
+                }
+            ],
+            []
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "FIN",
+                    "name": "Lalli NUORTEVA"
+                }
+            ]
+        ]
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "FIN",
+                    "name": "Henri HANNULA"
+                },
+                {
+                    "winner": "Henri HANNULA"
+                }
+            ],
+            [
+                {
+                    "country": "RUS",
+                    "name": "Alexander ROSLYAKOV"
+                },
+                {
+                    "winner": "Alexander ROSLYAKOV"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "FIN",
+                    "name": "Henri HANNULA"
+                },
+                {
+                    "country": "RUS",
+                    "name": "Alexander ROSLYAKOV"
+                }
+            ],
+            [
+                {
+                    "country": "RUS",
+                    "name": "Alexander ROSLYAKOV"
+                }
+            ]
+        ]
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ITA",
+                    "name": "Roberto CAMPI"
+                },
+                {
+                    "winner": "Roberto CAMPI"
+                }
+            ],
+            []
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "ITA",
+                    "name": "Roberto CAMPI"
+                }
+            ]
+        ]
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "FRA",
+                    "name": "Sylvain EL FAIZ"
+                },
+                {
+                    "winner": "Sylvain EL FAIZ"
+                }
+            ],
+            [
+                {
+                    "country": "FIN",
+                    "name": "Ville PONKILAINEN"
+                },
+                {
+                    "winner": "Ville PONKILAINEN"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "FRA",
+                    "name": "Sylvain EL FAIZ"
+                },
+                {
+                    "country": "FIN",
+                    "name": "Ville PONKILAINEN"
+                }
+            ],
+            [
+                {
+                    "country": "FRA",
+                    "name": "Sylvain EL FAIZ"
+                }
+            ]
+        ]
+    },
+    "REPECHAGE": {
+        "round 1-4": [
+            [],
+            [
+                {
+                    "country": "FIN",
+                    "name": "Henri HANNULA"
+                },
+                {
+                    "winner": "Henri HANNULA"
+                }
+            ],
+            [],
+            [
+                {
+                    "country": "FIN",
+                    "name": "Ville PONKILAINEN"
+                },
+                {
+                    "winner": "Ville PONKILAINEN"
+                }
+            ]
+        ],
+        "round 1-2": [
+            [
+                {
+                    "country": "FIN",
+                    "name": "Henri HANNULA"
+                }
+            ],
+            [
+                {
+                    "country": "FIN",
+                    "name": "Ville PONKILAINEN"
+                }
+            ],
+            [
+                {
+                    "country": "FIN",
+                    "name": "Henri HANNULA"
+                },
+                {
+                    "country": "ITA",
+                    "name": "Roberto CAMPI"
+                }
+            ],
+            [
+                {
+                    "country": "FIN",
+                    "name": "Ville PONKILAINEN"
+                },
+                {
+                    "country": "RUS",
+                    "name": "Alexander ROSLYAKOV"
+                }
+            ],
+            [
+                {
+                    "country": "RUS",
+                    "name": "Alexander ROSLYAKOV"
+                }
+            ]
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "FIN",
+                    "name": "Lalli NUORTEVA"
+                },
+                {
+                    "country": "RUS",
+                    "name": "Alexander ROSLYAKOV"
+                },
+                {
+                    "winner": "Lalli NUORTEVA"
+                }
+            ],
+            [
+                {
+                    "country": "ITA",
+                    "name": "Roberto CAMPI"
+                },
+                {
+                    "country": "FRA",
+                    "name": "Sylvain EL FAIZ"
+                },
+                {
+                    "winner": "Sylvain EL FAIZ"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "FIN",
+                    "name": "Lalli NUORTEVA"
+                },
+                {
+                    "country": "FRA",
+                    "name": "Sylvain EL FAIZ"
+                }
+            ],
+            [
+                {
+                    "country": "FRA",
+                    "name": "Sylvain EL FAIZ"
+                }
+            ]
+        ]
+    }
+}

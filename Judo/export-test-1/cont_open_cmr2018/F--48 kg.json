@@ -1,0 +1,141 @@
+{
+    "POOL A": {
+        "round 1-1": [],
+        "final_winner": "Hadjer MECEREM"
+    },
+    "POOL B": {
+        "round 1-1": [
+            [
+                {
+                    "country": "CMR",
+                    "name": "Marie Celine BABA MATIA"
+                },
+                {
+                    "country": "CMR",
+                    "name": "Noela Nick TAMBA"
+                }
+            ]
+        ],
+        "final_winner": "Noela Nick TAMBA"
+    },
+    "POOL C": {
+        "round 1-1": [],
+        "final_winner": "Priscilla MORAND"
+    },
+    "POOL D": {
+        "round 1-1": [
+            [
+                {
+                    "country": "CMR",
+                    "name": "Philomene BATA"
+                },
+                {
+                    "country": "CMR",
+                    "name": "Merveille ESSININ LEKEUFACK"
+                }
+            ]
+        ],
+        "final_winner": "Philomene BATA"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CMR",
+                    "name": "Marie Celine BABA MATIA"
+                }
+            ],
+            [
+                {
+                    "country": "CMR",
+                    "name": "Merveille ESSININ LEKEUFACK"
+                }
+            ],
+            [
+                {
+                    "country": "CMR",
+                    "name": "Marie Celine BABA MATIA"
+                },
+                {
+                    "country": "MRI",
+                    "name": "Priscilla MORAND"
+                },
+                {
+                    "winner": "Priscilla MORAND"
+                }
+            ],
+            [
+                {
+                    "country": "CMR",
+                    "name": "Merveille ESSININ LEKEUFACK"
+                },
+                {
+                    "country": "CMR",
+                    "name": "Noela Nick TAMBA"
+                },
+                {
+                    "winner": "Noela Nick TAMBA"
+                }
+            ],
+            [
+                {
+                    "country": "MRI",
+                    "name": "Priscilla MORAND"
+                }
+            ],
+            [
+                {
+                    "country": "CMR",
+                    "name": "Noela Nick TAMBA"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Priscilla MORAND",
+            "Noela Nick TAMBA"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ALG",
+                    "name": "Hadjer MECEREM"
+                },
+                {
+                    "country": "CMR",
+                    "name": "Noela Nick TAMBA"
+                },
+                {
+                    "winner": "Hadjer MECEREM"
+                }
+            ],
+            [
+                {
+                    "country": "MRI",
+                    "name": "Priscilla MORAND"
+                },
+                {
+                    "country": "CMR",
+                    "name": "Philomene BATA"
+                },
+                {
+                    "winner": "Philomene BATA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "ALG",
+                    "name": "Hadjer MECEREM"
+                },
+                {
+                    "country": "CMR",
+                    "name": "Philomene BATA"
+                }
+            ]
+        ],
+        "final_winner": "Hadjer MECEREM"
+    }
+}

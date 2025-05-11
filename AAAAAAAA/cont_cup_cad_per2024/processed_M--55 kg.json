@@ -1,0 +1,177 @@
+{
+    "POOL A": {
+        "round 1-1": [
+            [
+                {
+                    "country": "CRC",
+                    "name": "Gabriel AGUERO VASQUEZ"
+                },
+                {
+                    "country": "PER",
+                    "name": "Benjamin BURNSIDE"
+                }
+            ]
+        ],
+        "final_winner": "Gabriel AGUERO VASQUEZ"
+    },
+    "POOL B": {
+        "round 1-1": [
+            [
+                {
+                    "country": "PER",
+                    "name": "Jack URACO"
+                },
+                {
+                    "country": "CHI",
+                    "name": "Matias CHEHUAN"
+                }
+            ]
+        ],
+        "final_winner": "Jack URACO"
+    },
+    "POOL C": {
+        "round 1-1": [
+            [
+                {
+                    "country": "CRC",
+                    "name": "Ivan SOLIS FERNANDEZ"
+                },
+                {
+                    "country": "COL",
+                    "name": "Juan Diego CHAPETA"
+                }
+            ]
+        ],
+        "final_winner": "Ivan SOLIS FERNANDEZ"
+    },
+    "POOL D": {
+        "round 1-1": [
+            [
+                {
+                    "country": "CHI",
+                    "name": "John MADRID"
+                },
+                {
+                    "country": "PER",
+                    "name": "Bairom CAMPOS"
+                }
+            ]
+        ],
+        "final_winner": "John MADRID"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "PER",
+                    "name": "Benjamin BURNSIDE"
+                },
+                {
+                    "country": "CHI",
+                    "name": "Matias CHEHUAN"
+                },
+                {
+                    "winner": "Matias CHEHUAN"
+                }
+            ],
+            [
+                {
+                    "country": "COL",
+                    "name": "Juan Diego CHAPETA"
+                },
+                {
+                    "country": "PER",
+                    "name": "Bairom CAMPOS"
+                },
+                {
+                    "winner": "Juan Diego CHAPETA"
+                }
+            ],
+            [
+                {
+                    "country": "CHI",
+                    "name": "Matias CHEHUAN"
+                },
+                {
+                    "country": "CRC",
+                    "name": "Ivan SOLIS FERNANDEZ"
+                },
+                {
+                    "winner": "Ivan SOLIS FERNANDEZ"
+                }
+            ],
+            [
+                {
+                    "country": "COL",
+                    "name": "Juan Diego CHAPETA"
+                },
+                {
+                    "country": "PER",
+                    "name": "Jack URACO"
+                },
+                {
+                    "winner": "Jack URACO"
+                }
+            ],
+            [
+                {
+                    "country": "CRC",
+                    "name": "Ivan SOLIS FERNANDEZ"
+                }
+            ],
+            [
+                {
+                    "country": "PER",
+                    "name": "Jack URACO"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Ivan SOLIS FERNANDEZ",
+            "Jack URACO"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CRC",
+                    "name": "Gabriel AGUERO VASQUEZ"
+                },
+                {
+                    "country": "PER",
+                    "name": "Jack URACO"
+                },
+                {
+                    "winner": "Gabriel AGUERO VASQUEZ"
+                }
+            ],
+            [
+                {
+                    "country": "CRC",
+                    "name": "Ivan SOLIS FERNANDEZ"
+                },
+                {
+                    "country": "CHI",
+                    "name": "John MADRID"
+                },
+                {
+                    "winner": "John MADRID"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "CRC",
+                    "name": "Gabriel AGUERO VASQUEZ"
+                },
+                {
+                    "country": "CHI",
+                    "name": "John MADRID"
+                }
+            ]
+        ],
+        "final_winner": "Gabriel AGUERO VASQUEZ"
+    }
+}

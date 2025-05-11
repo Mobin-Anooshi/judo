@@ -1,0 +1,261 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ECU",
+                    "name": "Luz PENA"
+                },
+                {
+                    "winner": "Luz PENA"
+                }
+            ],
+            []
+        ],
+        "round 1-1": [],
+        "final_winner": "Luz PENA"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "VEN",
+                    "name": "Maria GIMENEZ"
+                },
+                {
+                    "winner": "Maria GIMENEZ"
+                }
+            ],
+            [
+                {
+                    "country": "USA",
+                    "name": "Anat TSYRLIN"
+                },
+                {
+                    "winner": "Anat TSYRLIN"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "VEN",
+                    "name": "Maria GIMENEZ"
+                },
+                {
+                    "country": "USA",
+                    "name": "Anat TSYRLIN"
+                }
+            ]
+        ],
+        "final_winner": "Maria GIMENEZ"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "COL",
+                    "name": "Erika LASSO"
+                },
+                {
+                    "winner": "Erika LASSO"
+                }
+            ],
+            [
+                {
+                    "country": "CAN",
+                    "name": "Kimiko KAMSTRA"
+                },
+                {
+                    "winner": "Kimiko KAMSTRA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "COL",
+                    "name": "Erika LASSO"
+                },
+                {
+                    "country": "CAN",
+                    "name": "Kimiko KAMSTRA"
+                }
+            ]
+        ],
+        "final_winner": "Erika LASSO"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Amanda ARRAES"
+                },
+                {
+                    "winner": "Amanda ARRAES"
+                }
+            ],
+            [
+                {
+                    "country": "ECU",
+                    "name": "DORIS LOPEZ"
+                },
+                {
+                    "winner": "DORIS LOPEZ"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Amanda ARRAES"
+                },
+                {
+                    "country": "ECU",
+                    "name": "DORIS LOPEZ"
+                }
+            ]
+        ],
+        "final_winner": "Amanda ARRAES"
+    },
+    "REPECHAGE": {
+        "round 1-4": [
+            [],
+            [
+                {
+                    "country": "USA",
+                    "name": "Anat TSYRLIN"
+                },
+                {
+                    "winner": "Anat TSYRLIN"
+                }
+            ],
+            [
+                {
+                    "country": "CAN",
+                    "name": "Kimiko KAMSTRA"
+                },
+                {
+                    "winner": "Kimiko KAMSTRA"
+                }
+            ],
+            [
+                {
+                    "country": "ECU",
+                    "name": "DORIS LOPEZ"
+                },
+                {
+                    "winner": "DORIS LOPEZ"
+                }
+            ]
+        ],
+        "round 1-2": [
+            [
+                {
+                    "country": "USA",
+                    "name": "Anat TSYRLIN"
+                }
+            ],
+            [
+                {
+                    "country": "CAN",
+                    "name": "Kimiko KAMSTRA"
+                },
+                {
+                    "country": "ECU",
+                    "name": "DORIS LOPEZ"
+                },
+                {
+                    "winner": "DORIS LOPEZ"
+                }
+            ],
+            [
+                {
+                    "country": "USA",
+                    "name": "Anat TSYRLIN"
+                },
+                {
+                    "country": "BRA",
+                    "name": "Amanda ARRAES"
+                },
+                {
+                    "winner": "Amanda ARRAES"
+                }
+            ],
+            [
+                {
+                    "country": "ECU",
+                    "name": "DORIS LOPEZ"
+                },
+                {
+                    "country": "VEN",
+                    "name": "Maria GIMENEZ"
+                },
+                {
+                    "winner": "Maria GIMENEZ"
+                }
+            ],
+            [
+                {
+                    "country": "BRA",
+                    "name": "Amanda ARRAES"
+                }
+            ],
+            [
+                {
+                    "country": "VEN",
+                    "name": "Maria GIMENEZ"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Amanda ARRAES",
+            "Maria GIMENEZ"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ECU",
+                    "name": "Luz PENA"
+                },
+                {
+                    "country": "VEN",
+                    "name": "Maria GIMENEZ"
+                },
+                {
+                    "winner": "Luz PENA"
+                }
+            ],
+            [
+                {
+                    "country": "COL",
+                    "name": "Erika LASSO"
+                },
+                {
+                    "country": "BRA",
+                    "name": "Amanda ARRAES"
+                },
+                {
+                    "winner": "Erika LASSO"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "ECU",
+                    "name": "Luz PENA"
+                },
+                {
+                    "country": "COL",
+                    "name": "Erika LASSO"
+                }
+            ]
+        ],
+        "final_winner": "Erika LASSO"
+    }
+}

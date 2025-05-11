@@ -1,0 +1,153 @@
+{
+    "POOL A": {
+        "round 1-1": [],
+        "final_winner": "Maria PEREZ"
+    },
+    "POOL B": {
+        "round 1-1": [
+            [
+                {
+                    "country": "USA",
+                    "name": "Melissa MYERS"
+                },
+                {
+                    "country": "ARG",
+                    "name": "Victoria DELVECCHIO"
+                }
+            ]
+        ],
+        "final_winner": "Victoria DELVECCHIO"
+    },
+    "POOL C": {
+        "round 1-1": [
+            [
+                {
+                    "country": "ECU",
+                    "name": "Celinda COROZO"
+                },
+                {
+                    "country": "CHI",
+                    "name": "Mackarenna FIGUEROA"
+                }
+            ]
+        ],
+        "final_winner": "Celinda COROZO"
+    },
+    "POOL D": {
+        "round 1-1": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Eduarda ROSA"
+                },
+                {
+                    "country": "CHI",
+                    "name": "Camila LAGOS"
+                }
+            ]
+        ],
+        "final_winner": "Eduarda ROSA"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "USA",
+                    "name": "Melissa MYERS"
+                }
+            ],
+            [
+                {
+                    "country": "CHI",
+                    "name": "Mackarenna FIGUEROA"
+                },
+                {
+                    "country": "CHI",
+                    "name": "Camila LAGOS"
+                },
+                {
+                    "winner": "Camila LAGOS"
+                }
+            ],
+            [
+                {
+                    "country": "USA",
+                    "name": "Melissa MYERS"
+                },
+                {
+                    "country": "BRA",
+                    "name": "Eduarda ROSA"
+                },
+                {
+                    "winner": "Melissa MYERS"
+                }
+            ],
+            [
+                {
+                    "country": "CHI",
+                    "name": "Camila LAGOS"
+                },
+                {
+                    "country": "ARG",
+                    "name": "Victoria DELVECCHIO"
+                },
+                {
+                    "winner": "Victoria DELVECCHIO"
+                }
+            ],
+            [
+                {
+                    "country": "ARG",
+                    "name": "Victoria DELVECCHIO"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Camila LAGOS",
+            "Melissa MYERS"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "PUR",
+                    "name": "Maria PEREZ"
+                },
+                {
+                    "country": "ARG",
+                    "name": "Victoria DELVECCHIO"
+                },
+                {
+                    "winner": "Maria PEREZ"
+                }
+            ],
+            [
+                {
+                    "country": "ECU",
+                    "name": "Celinda COROZO"
+                },
+                {
+                    "country": "BRA",
+                    "name": "Eduarda ROSA"
+                },
+                {
+                    "winner": "Celinda COROZO"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "PUR",
+                    "name": "Maria PEREZ"
+                },
+                {
+                    "country": "ECU",
+                    "name": "Celinda COROZO"
+                }
+            ]
+        ],
+        "final_winner": "Celinda COROZO"
+    }
+}

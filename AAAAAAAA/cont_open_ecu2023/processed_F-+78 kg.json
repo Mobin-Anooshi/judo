@@ -1,0 +1,141 @@
+{
+    "POOL A": {
+        "round 1-1": [],
+        "final_winner": "Idalys ORTIZ"
+    },
+    "POOL B": {
+        "round 1-1": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Giovanna SANTOS"
+                },
+                {
+                    "country": "COL",
+                    "name": "Brigitte CARABALI"
+                }
+            ]
+        ],
+        "final_winner": "Giovanna SANTOS"
+    },
+    "POOL C": {
+        "round 1-1": [],
+        "final_winner": "Moira MORILLO"
+    },
+    "POOL D": {
+        "round 1-1": [
+            [
+                {
+                    "country": "VEN",
+                    "name": "Amarantha URDANETA"
+                },
+                {
+                    "country": "COL",
+                    "name": "Estefania SALDARRIAGA"
+                }
+            ]
+        ],
+        "final_winner": "Amarantha URDANETA"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "COL",
+                    "name": "Brigitte CARABALI"
+                }
+            ],
+            [
+                {
+                    "country": "COL",
+                    "name": "Estefania SALDARRIAGA"
+                }
+            ],
+            [
+                {
+                    "country": "COL",
+                    "name": "Brigitte CARABALI"
+                },
+                {
+                    "country": "VEN",
+                    "name": "Amarantha URDANETA"
+                },
+                {
+                    "winner": "Amarantha URDANETA"
+                }
+            ],
+            [
+                {
+                    "country": "COL",
+                    "name": "Estefania SALDARRIAGA"
+                },
+                {
+                    "country": "BRA",
+                    "name": "Giovanna SANTOS"
+                },
+                {
+                    "winner": "Giovanna SANTOS"
+                }
+            ],
+            [
+                {
+                    "country": "VEN",
+                    "name": "Amarantha URDANETA"
+                }
+            ],
+            [
+                {
+                    "country": "BRA",
+                    "name": "Giovanna SANTOS"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Amarantha URDANETA",
+            "Giovanna SANTOS"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CUB",
+                    "name": "Idalys ORTIZ"
+                },
+                {
+                    "country": "BRA",
+                    "name": "Giovanna SANTOS"
+                },
+                {
+                    "winner": "Idalys ORTIZ"
+                }
+            ],
+            [
+                {
+                    "country": "DOM",
+                    "name": "Moira MORILLO"
+                },
+                {
+                    "country": "VEN",
+                    "name": "Amarantha URDANETA"
+                },
+                {
+                    "winner": "Moira MORILLO"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "CUB",
+                    "name": "Idalys ORTIZ"
+                },
+                {
+                    "country": "DOM",
+                    "name": "Moira MORILLO"
+                }
+            ]
+        ],
+        "final_winner": "Idalys ORTIZ"
+    }
+}

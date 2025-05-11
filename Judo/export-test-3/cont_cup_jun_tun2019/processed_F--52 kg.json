@@ -1,0 +1,68 @@
+{
+    "ROUND 1": {
+        "round 1-2": [
+            [
+                {
+                    "country": "MAR",
+                    "name": "Lamia EDDINARI"
+                },
+                {
+                    "country": "TUN",
+                    "name": "Chaima SIDAOUI"
+                },
+                {
+                    "winner": "Chaima SIDAOUI"
+                }
+            ],
+            [
+                {
+                    "country": "RSA",
+                    "name": "Charne GRIESEL"
+                },
+                {
+                    "country": "MAR",
+                    "name": "Khadija SAADI DRISSI"
+                },
+                {
+                    "winner": "Charne GRIESEL"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Chaima SIDAOUI",
+            "Charne GRIESEL"
+        ]
+    },
+    "REPECHAGE": {
+        "round 1-1": [
+            [
+                {
+                    "country": "MAR",
+                    "name": "Lamia EDDINARI"
+                },
+                {
+                    "country": "MAR",
+                    "name": "Khadija SAADI DRISSI"
+                },
+                {
+                    "winner": "Khadija SAADI DRISSI"
+                }
+            ],
+            [
+                {
+                    "country": "MAR",
+                    "name": "Khadija SAADI DRISSI"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Khadija SAADI DRISSI"
+        ]
+    },
+    "FINALS": {
+        "round 1-1": [],
+        "final_winners": [
+            "Charne GRIESEL"
+        ]
+    }
+}

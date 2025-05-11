@@ -1,0 +1,87 @@
+{
+    "POOL A": {
+        "round 1-3": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Clarice RIBEIRO"
+                },
+                {
+                    "country": "BRA",
+                    "name": "Giselle ARAUJO"
+                },
+                {
+                    "winner": "Clarice RIBEIRO"
+                }
+            ],
+            [
+                {
+                    "country": "BRA",
+                    "name": "Clarice RIBEIRO"
+                },
+                {
+                    "country": "BRA",
+                    "name": "Kerolin SANTANA"
+                },
+                {
+                    "winner": "Kerolin SANTANA"
+                }
+            ],
+            [
+                {
+                    "country": "BRA",
+                    "name": "Giselle ARAUJO"
+                },
+                {
+                    "country": "BRA",
+                    "name": "Kerolin SANTANA"
+                },
+                {
+                    "winner": "Giselle ARAUJO"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Clarice RIBEIRO",
+            "Giselle ARAUJO"
+        ]
+    },
+    "POOL B": {
+        "round 1-1": [],
+        "final_winners": [
+            "Juliana YAMASAKI"
+        ]
+    },
+    "REPECHAGE": {
+        "round 1-1": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Giselle ARAUJO"
+                },
+                {
+                    "country": "BRA",
+                    "name": "Marcela CIOLFI"
+                },
+                {
+                    "winner": "Giselle ARAUJO"
+                }
+            ],
+            [
+                {
+                    "country": "BRA",
+                    "name": "Giselle ARAUJO"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Giselle ARAUJO"
+        ]
+    },
+    "FINALS": {
+        "round 1-1": [],
+        "final_winners": [
+            "Clarice RIBEIRO"
+        ]
+    }
+}

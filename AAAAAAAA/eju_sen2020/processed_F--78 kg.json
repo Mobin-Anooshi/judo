@@ -1,0 +1,289 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "FRA",
+                    "name": "Madeleine MALONGA"
+                },
+                {
+                    "country": "BEL",
+                    "name": "Sophie BERGER"
+                },
+                {
+                    "winner": "Madeleine MALONGA"
+                }
+            ],
+            [
+                {
+                    "country": "POL",
+                    "name": "Beata PACUT-KLOCZKO"
+                },
+                {
+                    "country": "SLO",
+                    "name": "Patricija BROLIH"
+                },
+                {
+                    "winner": "Beata PACUT-KLOCZKO"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "FRA",
+                    "name": "Madeleine MALONGA"
+                },
+                {
+                    "country": "POL",
+                    "name": "Beata PACUT-KLOCZKO"
+                }
+            ]
+        ],
+        "final_winner": "Madeleine MALONGA"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "KOS",
+                    "name": "Loriana KUKA"
+                },
+                {
+                    "country": "POR",
+                    "name": "Yahima RAMIREZ"
+                },
+                {
+                    "winner": "Loriana KUKA"
+                }
+            ],
+            [
+                {
+                    "country": "RUS",
+                    "name": "Aleksandra BABINTSEVA"
+                },
+                {
+                    "country": "NED",
+                    "name": "Natascha AUSMA"
+                },
+                {
+                    "winner": "Aleksandra BABINTSEVA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "KOS",
+                    "name": "Loriana KUKA"
+                },
+                {
+                    "country": "RUS",
+                    "name": "Aleksandra BABINTSEVA"
+                }
+            ]
+        ],
+        "final_winner": "Loriana KUKA"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "GER",
+                    "name": "Anna-Maria WAGNER"
+                },
+                {
+                    "country": "ITA",
+                    "name": "Giorgia STANGHERLIN"
+                },
+                {
+                    "winner": "Giorgia STANGHERLIN"
+                }
+            ],
+            [
+                {
+                    "country": "NED",
+                    "name": "Marhinde VERKERK"
+                },
+                {
+                    "country": "CRO",
+                    "name": "Karla PRODAN"
+                },
+                {
+                    "winner": "Karla PRODAN"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "ITA",
+                    "name": "Giorgia STANGHERLIN"
+                },
+                {
+                    "country": "CRO",
+                    "name": "Karla PRODAN"
+                }
+            ]
+        ],
+        "final_winner": "Karla PRODAN"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "GER",
+                    "name": "Luise MALZAHN"
+                },
+                {
+                    "country": "UKR",
+                    "name": "Anastasiya TURCHYN"
+                },
+                {
+                    "winner": "Luise MALZAHN"
+                }
+            ],
+            [
+                {
+                    "country": "RUS",
+                    "name": "Antonina SHMELEVA"
+                },
+                {
+                    "country": "CZE",
+                    "name": "Alice MATEJCKOVA"
+                },
+                {
+                    "winner": "Antonina SHMELEVA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "GER",
+                    "name": "Luise MALZAHN"
+                },
+                {
+                    "country": "RUS",
+                    "name": "Antonina SHMELEVA"
+                }
+            ]
+        ],
+        "final_winner": "Luise MALZAHN"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "POL",
+                    "name": "Beata PACUT-KLOCZKO"
+                },
+                {
+                    "country": "RUS",
+                    "name": "Aleksandra BABINTSEVA"
+                },
+                {
+                    "winner": "Beata PACUT-KLOCZKO"
+                }
+            ],
+            [
+                {
+                    "country": "ITA",
+                    "name": "Giorgia STANGHERLIN"
+                },
+                {
+                    "country": "RUS",
+                    "name": "Antonina SHMELEVA"
+                },
+                {
+                    "winner": "Giorgia STANGHERLIN"
+                }
+            ],
+            [
+                {
+                    "country": "POL",
+                    "name": "Beata PACUT-KLOCZKO"
+                },
+                {
+                    "country": "CRO",
+                    "name": "Karla PRODAN"
+                },
+                {
+                    "winner": "Karla PRODAN"
+                }
+            ],
+            [
+                {
+                    "country": "ITA",
+                    "name": "Giorgia STANGHERLIN"
+                },
+                {
+                    "country": "KOS",
+                    "name": "Loriana KUKA"
+                },
+                {
+                    "winner": "Loriana KUKA"
+                }
+            ],
+            [
+                {
+                    "country": "CRO",
+                    "name": "Karla PRODAN"
+                }
+            ],
+            [
+                {
+                    "country": "KOS",
+                    "name": "Loriana KUKA"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Karla PRODAN",
+            "Loriana KUKA"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "FRA",
+                    "name": "Madeleine MALONGA"
+                },
+                {
+                    "country": "KOS",
+                    "name": "Loriana KUKA"
+                },
+                {
+                    "winner": "Madeleine MALONGA"
+                }
+            ],
+            [
+                {
+                    "country": "CRO",
+                    "name": "Karla PRODAN"
+                },
+                {
+                    "country": "GER",
+                    "name": "Luise MALZAHN"
+                },
+                {
+                    "winner": "Luise MALZAHN"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "FRA",
+                    "name": "Madeleine MALONGA"
+                },
+                {
+                    "country": "GER",
+                    "name": "Luise MALZAHN"
+                }
+            ]
+        ],
+        "final_winner": "Madeleine MALONGA"
+    }
+}

@@ -1,0 +1,261 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Maria PORTELA"
+                },
+                {
+                    "winner": "Maria PORTELA"
+                }
+            ],
+            [
+                {
+                    "country": "UAE",
+                    "name": "Amna ATIQ"
+                },
+                {
+                    "country": "GER",
+                    "name": "Giovanna SCOCCIMARRO"
+                },
+                {
+                    "winner": "Giovanna SCOCCIMARRO"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Maria PORTELA"
+                },
+                {
+                    "country": "GER",
+                    "name": "Giovanna SCOCCIMARRO"
+                }
+            ]
+        ],
+        "final_winner": "Maria PORTELA"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "SWE",
+                    "name": "Anna BERNHOLM"
+                },
+                {
+                    "winner": "Anna BERNHOLM"
+                }
+            ],
+            [
+                {
+                    "country": "LUX",
+                    "name": "Lynn MOSSONG"
+                },
+                {
+                    "winner": "Lynn MOSSONG"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "SWE",
+                    "name": "Anna BERNHOLM"
+                },
+                {
+                    "country": "LUX",
+                    "name": "Lynn MOSSONG"
+                }
+            ]
+        ],
+        "final_winner": "Anna BERNHOLM"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "FRA",
+                    "name": "Marie Eve GAHIE"
+                },
+                {
+                    "winner": "Marie Eve GAHIE"
+                }
+            ],
+            [
+                {
+                    "country": "TUR",
+                    "name": "Sukran BAKACAK"
+                },
+                {
+                    "winner": "Sukran BAKACAK"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "FRA",
+                    "name": "Marie Eve GAHIE"
+                },
+                {
+                    "country": "TUR",
+                    "name": "Sukran BAKACAK"
+                }
+            ]
+        ],
+        "final_winner": "Marie Eve GAHIE"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "GBR",
+                    "name": "Katie-Jemima YEATS-BROWN"
+                },
+                {
+                    "winner": "Katie-Jemima YEATS-BROWN"
+                }
+            ],
+            [
+                {
+                    "country": "BRA",
+                    "name": "Barbara TIMO"
+                },
+                {
+                    "winner": "Barbara TIMO"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "GBR",
+                    "name": "Katie-Jemima YEATS-BROWN"
+                },
+                {
+                    "country": "BRA",
+                    "name": "Barbara TIMO"
+                }
+            ]
+        ],
+        "final_winner": "Katie-Jemima YEATS-BROWN"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "GER",
+                    "name": "Giovanna SCOCCIMARRO"
+                },
+                {
+                    "country": "LUX",
+                    "name": "Lynn MOSSONG"
+                },
+                {
+                    "winner": "Giovanna SCOCCIMARRO"
+                }
+            ],
+            [
+                {
+                    "country": "TUR",
+                    "name": "Sukran BAKACAK"
+                },
+                {
+                    "country": "BRA",
+                    "name": "Barbara TIMO"
+                },
+                {
+                    "winner": "Barbara TIMO"
+                }
+            ],
+            [
+                {
+                    "country": "GER",
+                    "name": "Giovanna SCOCCIMARRO"
+                },
+                {
+                    "country": "GBR",
+                    "name": "Katie-Jemima YEATS-BROWN"
+                },
+                {
+                    "winner": "Katie-Jemima YEATS-BROWN"
+                }
+            ],
+            [
+                {
+                    "country": "BRA",
+                    "name": "Barbara TIMO"
+                },
+                {
+                    "country": "SWE",
+                    "name": "Anna BERNHOLM"
+                },
+                {
+                    "winner": "Barbara TIMO"
+                }
+            ],
+            [
+                {
+                    "country": "GBR",
+                    "name": "Katie-Jemima YEATS-BROWN"
+                }
+            ],
+            [
+                {
+                    "country": "BRA",
+                    "name": "Barbara TIMO"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Katie-Jemima YEATS-BROWN",
+            "Barbara TIMO"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Maria PORTELA"
+                },
+                {
+                    "country": "SWE",
+                    "name": "Anna BERNHOLM"
+                },
+                {
+                    "winner": "Maria PORTELA"
+                }
+            ],
+            [
+                {
+                    "country": "FRA",
+                    "name": "Marie Eve GAHIE"
+                },
+                {
+                    "country": "GBR",
+                    "name": "Katie-Jemima YEATS-BROWN"
+                },
+                {
+                    "winner": "Marie Eve GAHIE"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Maria PORTELA"
+                },
+                {
+                    "country": "FRA",
+                    "name": "Marie Eve GAHIE"
+                }
+            ]
+        ],
+        "final_winner": "Marie Eve GAHIE"
+    }
+}

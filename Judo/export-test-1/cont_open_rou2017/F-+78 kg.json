@@ -1,0 +1,177 @@
+{
+    "POOL A": {
+        "round 1-1": [
+            [
+                {
+                    "country": "ITA",
+                    "name": "Elisa MARCHIO"
+                },
+                {
+                    "country": "GBR",
+                    "name": "Sarah BARRITT"
+                }
+            ]
+        ],
+        "final_winner": "Elisa MARCHIO"
+    },
+    "POOL B": {
+        "round 1-1": [
+            [
+                {
+                    "country": "UKR",
+                    "name": "Vasylyna KYRYCHENKO"
+                },
+                {
+                    "country": "ROU",
+                    "name": "Beata KABAT"
+                }
+            ]
+        ],
+        "final_winner": "Vasylyna KYRYCHENKO"
+    },
+    "POOL C": {
+        "round 1-1": [
+            [
+                {
+                    "country": "UKR",
+                    "name": "Anastasiia SAPSAI"
+                },
+                {
+                    "country": "ITA",
+                    "name": "Carolina COSTA"
+                }
+            ]
+        ],
+        "final_winner": "Anastasiia SAPSAI"
+    },
+    "POOL D": {
+        "round 1-1": [
+            [
+                {
+                    "country": "HUN",
+                    "name": "Emese KARPATI"
+                },
+                {
+                    "country": "UKR",
+                    "name": "Galyna TARASOVA"
+                }
+            ]
+        ],
+        "final_winner": "Galyna TARASOVA"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "GBR",
+                    "name": "Sarah BARRITT"
+                },
+                {
+                    "country": "ROU",
+                    "name": "Beata KABAT"
+                },
+                {
+                    "winner": "Beata KABAT"
+                }
+            ],
+            [
+                {
+                    "country": "ITA",
+                    "name": "Carolina COSTA"
+                },
+                {
+                    "country": "HUN",
+                    "name": "Emese KARPATI"
+                },
+                {
+                    "winner": "Emese KARPATI"
+                }
+            ],
+            [
+                {
+                    "country": "ROU",
+                    "name": "Beata KABAT"
+                },
+                {
+                    "country": "UKR",
+                    "name": "Anastasiia SAPSAI"
+                },
+                {
+                    "winner": "Anastasiia SAPSAI"
+                }
+            ],
+            [
+                {
+                    "country": "HUN",
+                    "name": "Emese KARPATI"
+                },
+                {
+                    "country": "ITA",
+                    "name": "Elisa MARCHIO"
+                },
+                {
+                    "winner": "Emese KARPATI"
+                }
+            ],
+            [
+                {
+                    "country": "UKR",
+                    "name": "Anastasiia SAPSAI"
+                }
+            ],
+            [
+                {
+                    "country": "HUN",
+                    "name": "Emese KARPATI"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Anastasiia SAPSAI",
+            "Emese KARPATI"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ITA",
+                    "name": "Elisa MARCHIO"
+                },
+                {
+                    "country": "UKR",
+                    "name": "Vasylyna KYRYCHENKO"
+                },
+                {
+                    "winner": "Vasylyna KYRYCHENKO"
+                }
+            ],
+            [
+                {
+                    "country": "UKR",
+                    "name": "Anastasiia SAPSAI"
+                },
+                {
+                    "country": "UKR",
+                    "name": "Galyna TARASOVA"
+                },
+                {
+                    "winner": "Galyna TARASOVA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "UKR",
+                    "name": "Vasylyna KYRYCHENKO"
+                },
+                {
+                    "country": "UKR",
+                    "name": "Galyna TARASOVA"
+                }
+            ]
+        ],
+        "final_winner": "Galyna TARASOVA"
+    }
+}

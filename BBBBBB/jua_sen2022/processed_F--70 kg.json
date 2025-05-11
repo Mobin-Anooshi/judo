@@ -1,0 +1,269 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "JPN",
+                    "name": "Yoko ONO"
+                },
+                {
+                    "winner": "Yoko ONO"
+                }
+            ],
+            [
+                {
+                    "country": "CHN",
+                    "name": "Hongyan LIU"
+                },
+                {
+                    "country": "TPE",
+                    "name": "Yu-Jung LIAO"
+                },
+                {
+                    "winner": "Yu-Jung LIAO"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "JPN",
+                    "name": "Yoko ONO"
+                },
+                {
+                    "country": "TPE",
+                    "name": "Yu-Jung LIAO"
+                }
+            ]
+        ],
+        "final_winner": "Yoko ONO"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "UZB",
+                    "name": "Shokhista NAZAROVA"
+                },
+                {
+                    "winner": "Shokhista NAZAROVA"
+                }
+            ],
+            [
+                {
+                    "country": "KOR",
+                    "name": "Heeju HAN"
+                },
+                {
+                    "winner": "Heeju HAN"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "UZB",
+                    "name": "Shokhista NAZAROVA"
+                },
+                {
+                    "country": "KOR",
+                    "name": "Heeju HAN"
+                }
+            ]
+        ],
+        "final_winner": "Shokhista NAZAROVA"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "UZB",
+                    "name": "Gulnoza MATNIYAZOVA"
+                },
+                {
+                    "winner": "Gulnoza MATNIYAZOVA"
+                }
+            ],
+            [
+                {
+                    "country": "KAZ",
+                    "name": "Anastassiya MAYAKOVA"
+                },
+                {
+                    "country": "IND",
+                    "name": "Inunganbi TAKHELLAMBAM"
+                },
+                {
+                    "winner": "Anastassiya MAYAKOVA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "UZB",
+                    "name": "Gulnoza MATNIYAZOVA"
+                },
+                {
+                    "country": "KAZ",
+                    "name": "Anastassiya MAYAKOVA"
+                }
+            ]
+        ],
+        "final_winner": "Gulnoza MATNIYAZOVA"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "MGL",
+                    "name": "Enkhchimeg TSERENDULAM"
+                },
+                {
+                    "winner": "Enkhchimeg TSERENDULAM"
+                }
+            ],
+            [
+                {
+                    "country": "TPE",
+                    "name": "Ssu-Tzu CHANG"
+                },
+                {
+                    "country": "PHI",
+                    "name": "Kiyomi WATANABE"
+                },
+                {
+                    "winner": "Ssu-Tzu CHANG"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "MGL",
+                    "name": "Enkhchimeg TSERENDULAM"
+                },
+                {
+                    "country": "TPE",
+                    "name": "Ssu-Tzu CHANG"
+                }
+            ]
+        ],
+        "final_winner": "Enkhchimeg TSERENDULAM"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "TPE",
+                    "name": "Yu-Jung LIAO"
+                },
+                {
+                    "country": "KOR",
+                    "name": "Heeju HAN"
+                },
+                {
+                    "winner": "Heeju HAN"
+                }
+            ],
+            [
+                {
+                    "country": "KAZ",
+                    "name": "Anastassiya MAYAKOVA"
+                },
+                {
+                    "country": "TPE",
+                    "name": "Ssu-Tzu CHANG"
+                },
+                {
+                    "winner": "Anastassiya MAYAKOVA"
+                }
+            ],
+            [
+                {
+                    "country": "KOR",
+                    "name": "Heeju HAN"
+                },
+                {
+                    "country": "MGL",
+                    "name": "Enkhchimeg TSERENDULAM"
+                },
+                {
+                    "winner": "Enkhchimeg TSERENDULAM"
+                }
+            ],
+            [
+                {
+                    "country": "KAZ",
+                    "name": "Anastassiya MAYAKOVA"
+                },
+                {
+                    "country": "UZB",
+                    "name": "Shokhista NAZAROVA"
+                },
+                {
+                    "winner": "Shokhista NAZAROVA"
+                }
+            ],
+            [
+                {
+                    "country": "MGL",
+                    "name": "Enkhchimeg TSERENDULAM"
+                }
+            ],
+            [
+                {
+                    "country": "UZB",
+                    "name": "Shokhista NAZAROVA"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Enkhchimeg TSERENDULAM",
+            "Shokhista NAZAROVA"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "JPN",
+                    "name": "Yoko ONO"
+                },
+                {
+                    "country": "UZB",
+                    "name": "Shokhista NAZAROVA"
+                },
+                {
+                    "winner": "Yoko ONO"
+                }
+            ],
+            [
+                {
+                    "country": "UZB",
+                    "name": "Gulnoza MATNIYAZOVA"
+                },
+                {
+                    "country": "MGL",
+                    "name": "Enkhchimeg TSERENDULAM"
+                },
+                {
+                    "winner": "Gulnoza MATNIYAZOVA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "JPN",
+                    "name": "Yoko ONO"
+                },
+                {
+                    "country": "UZB",
+                    "name": "Gulnoza MATNIYAZOVA"
+                }
+            ]
+        ],
+        "final_winner": "Yoko ONO"
+    }
+}

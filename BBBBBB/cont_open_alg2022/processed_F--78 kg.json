@@ -1,0 +1,141 @@
+{
+    "POOL A": {
+        "round 1-1": [],
+        "final_winner": "Fatim FOFANA"
+    },
+    "POOL B": {
+        "round 1-1": [
+            [
+                {
+                    "country": "ALG",
+                    "name": "Yasmina TOUATI"
+                },
+                {
+                    "country": "NZL",
+                    "name": "Hayley MACKEY"
+                }
+            ]
+        ],
+        "final_winner": "Hayley MACKEY"
+    },
+    "POOL C": {
+        "round 1-1": [],
+        "final_winner": "Moira DE VILLIERS"
+    },
+    "POOL D": {
+        "round 1-1": [
+            [
+                {
+                    "country": "ALG",
+                    "name": "Louiza ICHALLAL"
+                },
+                {
+                    "country": "ALG",
+                    "name": "Nesrine BENDERRADJI"
+                }
+            ]
+        ],
+        "final_winner": "Louiza ICHALLAL"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ALG",
+                    "name": "Yasmina TOUATI"
+                }
+            ],
+            [
+                {
+                    "country": "ALG",
+                    "name": "Nesrine BENDERRADJI"
+                }
+            ],
+            [
+                {
+                    "country": "ALG",
+                    "name": "Yasmina TOUATI"
+                },
+                {
+                    "country": "ALG",
+                    "name": "Louiza ICHALLAL"
+                },
+                {
+                    "winner": "Louiza ICHALLAL"
+                }
+            ],
+            [
+                {
+                    "country": "ALG",
+                    "name": "Nesrine BENDERRADJI"
+                },
+                {
+                    "country": "NZL",
+                    "name": "Hayley MACKEY"
+                },
+                {
+                    "winner": "Hayley MACKEY"
+                }
+            ],
+            [
+                {
+                    "country": "ALG",
+                    "name": "Louiza ICHALLAL"
+                }
+            ],
+            [
+                {
+                    "country": "NZL",
+                    "name": "Hayley MACKEY"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Louiza ICHALLAL",
+            "Hayley MACKEY"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CIV",
+                    "name": "Fatim FOFANA"
+                },
+                {
+                    "country": "NZL",
+                    "name": "Hayley MACKEY"
+                },
+                {
+                    "winner": "Fatim FOFANA"
+                }
+            ],
+            [
+                {
+                    "country": "NZL",
+                    "name": "Moira DE VILLIERS"
+                },
+                {
+                    "country": "ALG",
+                    "name": "Louiza ICHALLAL"
+                },
+                {
+                    "winner": "Moira DE VILLIERS"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "CIV",
+                    "name": "Fatim FOFANA"
+                },
+                {
+                    "country": "NZL",
+                    "name": "Moira DE VILLIERS"
+                }
+            ]
+        ],
+        "final_winner": "Moira DE VILLIERS"
+    }
+}

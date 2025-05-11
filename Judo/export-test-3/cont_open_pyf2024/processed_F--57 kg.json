@@ -1,0 +1,68 @@
+{
+    "ROUND 1": {
+        "round 1-2": [
+            [
+                {
+                    "country": "KIR",
+                    "name": "Nera TIEBWA"
+                },
+                {
+                    "country": "FRA",
+                    "name": "Emma RUSSAOUEN"
+                },
+                {
+                    "winner": "Emma RUSSAOUEN"
+                }
+            ],
+            [
+                {
+                    "country": "PYF",
+                    "name": "Laetitia WUILMET"
+                },
+                {
+                    "country": "FRA",
+                    "name": "Salome GUERRE"
+                },
+                {
+                    "winner": "Salome GUERRE"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Emma RUSSAOUEN",
+            "Salome GUERRE"
+        ]
+    },
+    "REPECHAGE": {
+        "round 1-1": [
+            [
+                {
+                    "country": "KIR",
+                    "name": "Nera TIEBWA"
+                },
+                {
+                    "country": "PYF",
+                    "name": "Laetitia WUILMET"
+                },
+                {
+                    "winner": "Laetitia WUILMET"
+                }
+            ],
+            [
+                {
+                    "country": "PYF",
+                    "name": "Laetitia WUILMET"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Laetitia WUILMET"
+        ]
+    },
+    "FINALS": {
+        "round 1-1": [],
+        "final_winners": [
+            "Emma RUSSAOUEN"
+        ]
+    }
+}

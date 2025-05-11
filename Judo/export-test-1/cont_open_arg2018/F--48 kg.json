@@ -1,0 +1,135 @@
+{
+    "POOL A": {
+        "round 1-1": [],
+        "final_winner": "Keisy PERAFAN"
+    },
+    "POOL B": {
+        "round 1-1": [
+            [
+                {
+                    "country": "CHI",
+                    "name": "Mary Dee VARGAS LEY"
+                },
+                {
+                    "country": "POR",
+                    "name": "Lorrayna COSTA"
+                }
+            ]
+        ],
+        "final_winner": "Mary Dee VARGAS LEY"
+    },
+    "POOL C": {
+        "round 1-1": [],
+        "final_winner": "Lesly CANO"
+    },
+    "POOL D": {
+        "round 1-1": [
+            [
+                {
+                    "country": "USA",
+                    "name": "Anne SUZUKI"
+                },
+                {
+                    "country": "ARG",
+                    "name": "Camila MARCELLET"
+                }
+            ]
+        ],
+        "final_winner": "Anne SUZUKI"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "POR",
+                    "name": "Lorrayna COSTA"
+                }
+            ],
+            [
+                {
+                    "country": "ARG",
+                    "name": "Camila MARCELLET"
+                }
+            ],
+            [
+                {
+                    "country": "POR",
+                    "name": "Lorrayna COSTA"
+                },
+                {
+                    "country": "USA",
+                    "name": "Anne SUZUKI"
+                },
+                {
+                    "winner": "Lorrayna COSTA"
+                }
+            ],
+            [
+                {
+                    "country": "ARG",
+                    "name": "Camila MARCELLET"
+                },
+                {
+                    "country": "CHI",
+                    "name": "Mary Dee VARGAS LEY"
+                },
+                {
+                    "winner": "Mary Dee VARGAS LEY"
+                }
+            ],
+            [
+                {
+                    "country": "CHI",
+                    "name": "Mary Dee VARGAS LEY"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Camila MARCELLET",
+            "Lorrayna COSTA"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ARG",
+                    "name": "Keisy PERAFAN"
+                },
+                {
+                    "country": "CHI",
+                    "name": "Mary Dee VARGAS LEY"
+                },
+                {
+                    "winner": "Keisy PERAFAN"
+                }
+            ],
+            [
+                {
+                    "country": "PER",
+                    "name": "Lesly CANO"
+                },
+                {
+                    "country": "USA",
+                    "name": "Anne SUZUKI"
+                },
+                {
+                    "winner": "Lesly CANO"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "ARG",
+                    "name": "Keisy PERAFAN"
+                },
+                {
+                    "country": "PER",
+                    "name": "Lesly CANO"
+                }
+            ]
+        ],
+        "final_winner": "Keisy PERAFAN"
+    }
+}

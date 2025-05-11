@@ -1,0 +1,166 @@
+{
+    "POOL A": {
+        "round 1-1": [
+            [
+                {
+                    "country": "CHI",
+                    "name": "Jorge PEREZ"
+                }
+            ]
+        ]
+    },
+    "POOL B": {
+        "round 1-1": [
+            [
+                {
+                    "country": "COL",
+                    "name": "Juan Pablo RUIZ"
+                },
+                {
+                    "country": "ECU",
+                    "name": "Mathias CORONEL"
+                }
+            ],
+            [
+                {
+                    "country": "ECU",
+                    "name": "Mathias CORONEL"
+                }
+            ]
+        ]
+    },
+    "POOL C": {
+        "round 1-1": [
+            [
+                {
+                    "country": "USA",
+                    "name": "Ramon HERNANDEZ JR"
+                },
+                {
+                    "country": "CHI",
+                    "name": "Juan Pablo VEGA"
+                }
+            ],
+            [
+                {
+                    "country": "USA",
+                    "name": "Ramon HERNANDEZ JR"
+                }
+            ]
+        ]
+    },
+    "POOL D": {
+        "round 1-1": [
+            [
+                {
+                    "country": "COL",
+                    "name": "John PEREZ RUIZ"
+                },
+                {
+                    "country": "DOM",
+                    "name": "Antony RAMIREZ BONE"
+                }
+            ],
+            [
+                {
+                    "country": "COL",
+                    "name": "John PEREZ RUIZ"
+                }
+            ]
+        ]
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "COL",
+                    "name": "Juan Pablo RUIZ"
+                }
+            ],
+            [
+                {
+                    "country": "CHI",
+                    "name": "Juan Pablo VEGA"
+                },
+                {
+                    "country": "DOM",
+                    "name": "Antony RAMIREZ BONE"
+                }
+            ],
+            [
+                {
+                    "country": "COL",
+                    "name": "Juan Pablo RUIZ"
+                },
+                {
+                    "country": "USA",
+                    "name": "Ramon HERNANDEZ JR"
+                }
+            ],
+            [
+                {
+                    "country": "DOM",
+                    "name": "Antony RAMIREZ BONE"
+                },
+                {
+                    "country": "ECU",
+                    "name": "Mathias CORONEL"
+                }
+            ],
+            [
+                {
+                    "country": "DOM",
+                    "name": "Antony RAMIREZ BONE"
+                }
+            ]
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CHI",
+                    "name": "Jorge PEREZ"
+                },
+                {
+                    "country": "ECU",
+                    "name": "Mathias CORONEL"
+                },
+                {
+                    "winner": "Jorge PEREZ"
+                }
+            ],
+            [
+                {
+                    "country": "USA",
+                    "name": "Ramon HERNANDEZ JR"
+                },
+                {
+                    "country": "COL",
+                    "name": "John PEREZ RUIZ"
+                },
+                {
+                    "winner": "John PEREZ RUIZ"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "CHI",
+                    "name": "Jorge PEREZ"
+                },
+                {
+                    "country": "COL",
+                    "name": "John PEREZ RUIZ"
+                }
+            ],
+            [
+                {
+                    "country": "COL",
+                    "name": "John PEREZ RUIZ"
+                }
+            ]
+        ]
+    }
+}

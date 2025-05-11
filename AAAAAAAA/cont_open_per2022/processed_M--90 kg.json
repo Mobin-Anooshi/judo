@@ -1,0 +1,177 @@
+{
+    "POOL A": {
+        "round 1-1": [
+            [
+                {
+                    "country": "PER",
+                    "name": "Yuta GALARRETA"
+                },
+                {
+                    "country": "USA",
+                    "name": "Harutyun MUTAFYAN"
+                }
+            ]
+        ],
+        "final_winner": "Yuta GALARRETA"
+    },
+    "POOL B": {
+        "round 1-1": [
+            [
+                {
+                    "country": "MEX",
+                    "name": "Angel GARCIA"
+                },
+                {
+                    "country": "USA",
+                    "name": "Geronimo SAUCEDO"
+                }
+            ]
+        ],
+        "final_winner": "Angel GARCIA"
+    },
+    "POOL C": {
+        "round 1-1": [
+            [
+                {
+                    "country": "COL",
+                    "name": "Daniel PAZ ALBARRACIN"
+                },
+                {
+                    "country": "MEX",
+                    "name": "Diego DIAZ"
+                }
+            ]
+        ],
+        "final_winner": "Daniel PAZ ALBARRACIN"
+    },
+    "POOL D": {
+        "round 1-1": [
+            [
+                {
+                    "country": "ARG",
+                    "name": "Mariano COTO BERSIER"
+                },
+                {
+                    "country": "CHI",
+                    "name": "Daniel ARANCIBIA"
+                }
+            ]
+        ],
+        "final_winner": "Mariano COTO BERSIER"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "USA",
+                    "name": "Harutyun MUTAFYAN"
+                },
+                {
+                    "country": "USA",
+                    "name": "Geronimo SAUCEDO"
+                },
+                {
+                    "winner": "Geronimo SAUCEDO"
+                }
+            ],
+            [
+                {
+                    "country": "MEX",
+                    "name": "Diego DIAZ"
+                },
+                {
+                    "country": "CHI",
+                    "name": "Daniel ARANCIBIA"
+                },
+                {
+                    "winner": "Daniel ARANCIBIA"
+                }
+            ],
+            [
+                {
+                    "country": "USA",
+                    "name": "Geronimo SAUCEDO"
+                },
+                {
+                    "country": "COL",
+                    "name": "Daniel PAZ ALBARRACIN"
+                },
+                {
+                    "winner": "Daniel PAZ ALBARRACIN"
+                }
+            ],
+            [
+                {
+                    "country": "CHI",
+                    "name": "Daniel ARANCIBIA"
+                },
+                {
+                    "country": "MEX",
+                    "name": "Angel GARCIA"
+                },
+                {
+                    "winner": "Angel GARCIA"
+                }
+            ],
+            [
+                {
+                    "country": "COL",
+                    "name": "Daniel PAZ ALBARRACIN"
+                }
+            ],
+            [
+                {
+                    "country": "MEX",
+                    "name": "Angel GARCIA"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Daniel PAZ ALBARRACIN",
+            "Angel GARCIA"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "PER",
+                    "name": "Yuta GALARRETA"
+                },
+                {
+                    "country": "MEX",
+                    "name": "Angel GARCIA"
+                },
+                {
+                    "winner": "Yuta GALARRETA"
+                }
+            ],
+            [
+                {
+                    "country": "COL",
+                    "name": "Daniel PAZ ALBARRACIN"
+                },
+                {
+                    "country": "ARG",
+                    "name": "Mariano COTO BERSIER"
+                },
+                {
+                    "winner": "Mariano COTO BERSIER"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "PER",
+                    "name": "Yuta GALARRETA"
+                },
+                {
+                    "country": "ARG",
+                    "name": "Mariano COTO BERSIER"
+                }
+            ]
+        ],
+        "final_winner": "Yuta GALARRETA"
+    }
+}

@@ -1,0 +1,141 @@
+{
+    "POOL A": {
+        "round 1-1": [],
+        "final_winner": "Gabriel DOS SANTOS"
+    },
+    "POOL B": {
+        "round 1-1": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Eduardo MARTINS"
+                },
+                {
+                    "country": "MEX",
+                    "name": "Hugo SANCHEZ"
+                }
+            ]
+        ],
+        "final_winner": "Hugo SANCHEZ"
+    },
+    "POOL C": {
+        "round 1-1": [],
+        "final_winner": "Patricio URRA"
+    },
+    "POOL D": {
+        "round 1-1": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Breno DIAS DUARTE"
+                },
+                {
+                    "country": "PER",
+                    "name": "Nicolas CORDOVA"
+                }
+            ]
+        ],
+        "final_winner": "Breno DIAS DUARTE"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Eduardo MARTINS"
+                }
+            ],
+            [
+                {
+                    "country": "PER",
+                    "name": "Nicolas CORDOVA"
+                }
+            ],
+            [
+                {
+                    "country": "BRA",
+                    "name": "Eduardo MARTINS"
+                },
+                {
+                    "country": "CHI",
+                    "name": "Patricio URRA"
+                },
+                {
+                    "winner": "Patricio URRA"
+                }
+            ],
+            [
+                {
+                    "country": "PER",
+                    "name": "Nicolas CORDOVA"
+                },
+                {
+                    "country": "MEX",
+                    "name": "Hugo SANCHEZ"
+                },
+                {
+                    "winner": "Hugo SANCHEZ"
+                }
+            ],
+            [
+                {
+                    "country": "CHI",
+                    "name": "Patricio URRA"
+                }
+            ],
+            [
+                {
+                    "country": "MEX",
+                    "name": "Hugo SANCHEZ"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Patricio URRA",
+            "Hugo SANCHEZ"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Gabriel DOS SANTOS"
+                },
+                {
+                    "country": "MEX",
+                    "name": "Hugo SANCHEZ"
+                },
+                {
+                    "winner": "Gabriel DOS SANTOS"
+                }
+            ],
+            [
+                {
+                    "country": "CHI",
+                    "name": "Patricio URRA"
+                },
+                {
+                    "country": "BRA",
+                    "name": "Breno DIAS DUARTE"
+                },
+                {
+                    "winner": "Breno DIAS DUARTE"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Gabriel DOS SANTOS"
+                },
+                {
+                    "country": "BRA",
+                    "name": "Breno DIAS DUARTE"
+                }
+            ]
+        ],
+        "final_winner": "Gabriel DOS SANTOS"
+    }
+}

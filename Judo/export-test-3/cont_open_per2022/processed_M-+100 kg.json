@@ -1,0 +1,68 @@
+{
+    "ROUND 1": {
+        "round 1-2": [
+            [
+                {
+                    "country": "MEX",
+                    "name": "Sergio DEL SOL"
+                },
+                {
+                    "country": "ARG",
+                    "name": "Alejo BURGOS"
+                },
+                {
+                    "winner": "Sergio DEL SOL"
+                }
+            ],
+            [
+                {
+                    "country": "CHI",
+                    "name": "Francisco SOLIS"
+                },
+                {
+                    "country": "BRA",
+                    "name": "Tiago PALMINI"
+                },
+                {
+                    "winner": "Tiago PALMINI"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Sergio DEL SOL",
+            "Tiago PALMINI"
+        ]
+    },
+    "REPECHAGE": {
+        "round 1-1": [
+            [
+                {
+                    "country": "ARG",
+                    "name": "Alejo BURGOS"
+                },
+                {
+                    "country": "CHI",
+                    "name": "Francisco SOLIS"
+                },
+                {
+                    "winner": "Francisco SOLIS"
+                }
+            ],
+            [
+                {
+                    "country": "CHI",
+                    "name": "Francisco SOLIS"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Francisco SOLIS"
+        ]
+    },
+    "FINALS": {
+        "round 1-1": [],
+        "final_winners": [
+            "Tiago PALMINI"
+        ]
+    }
+}

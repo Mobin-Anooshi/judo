@@ -1,0 +1,238 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "COL",
+                    "name": "Elmer OREJUELA"
+                },
+                {
+                    "winner": "Elmer OREJUELA"
+                }
+            ],
+            []
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "COL",
+                    "name": "Elmer OREJUELA"
+                }
+            ]
+        ]
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CHI",
+                    "name": "Jose Ignacio JARA"
+                },
+                {
+                    "winner": "Jose Ignacio JARA"
+                }
+            ],
+            [
+                {
+                    "country": "CAN",
+                    "name": "John MESSE A BESSONG"
+                },
+                {
+                    "winner": "John MESSE A BESSONG"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "CHI",
+                    "name": "Jose Ignacio JARA"
+                },
+                {
+                    "country": "CAN",
+                    "name": "John MESSE A BESSONG"
+                }
+            ],
+            [
+                {
+                    "country": "CAN",
+                    "name": "John MESSE A BESSONG"
+                }
+            ]
+        ]
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "USA",
+                    "name": "Christian KONOVAL"
+                },
+                {
+                    "winner": "Christian KONOVAL"
+                }
+            ],
+            []
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "USA",
+                    "name": "Christian KONOVAL"
+                }
+            ]
+        ]
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "AUS",
+                    "name": "Sung Min LEE"
+                },
+                {
+                    "winner": "Sung Min LEE"
+                }
+            ],
+            [
+                {
+                    "country": "BRA",
+                    "name": "Vitor FAGUNDES"
+                },
+                {
+                    "winner": "Vitor FAGUNDES"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "AUS",
+                    "name": "Sung Min LEE"
+                },
+                {
+                    "country": "BRA",
+                    "name": "Vitor FAGUNDES"
+                }
+            ],
+            [
+                {
+                    "country": "BRA",
+                    "name": "Vitor FAGUNDES"
+                }
+            ]
+        ]
+    },
+    "REPECHAGE": {
+        "round 1-4": [
+            [],
+            [
+                {
+                    "country": "CHI",
+                    "name": "Jose Ignacio JARA"
+                },
+                {
+                    "winner": "Jose Ignacio JARA"
+                }
+            ],
+            [],
+            [
+                {
+                    "country": "AUS",
+                    "name": "Sung Min LEE"
+                },
+                {
+                    "winner": "Sung Min LEE"
+                }
+            ]
+        ],
+        "round 1-2": [
+            [
+                {
+                    "country": "CHI",
+                    "name": "Jose Ignacio JARA"
+                }
+            ],
+            [
+                {
+                    "country": "AUS",
+                    "name": "Sung Min LEE"
+                }
+            ],
+            [
+                {
+                    "country": "CHI",
+                    "name": "Jose Ignacio JARA"
+                },
+                {
+                    "country": "BRA",
+                    "name": "Vitor FAGUNDES"
+                }
+            ],
+            [
+                {
+                    "country": "AUS",
+                    "name": "Sung Min LEE"
+                },
+                {
+                    "country": "COL",
+                    "name": "Elmer OREJUELA"
+                }
+            ],
+            [
+                {
+                    "country": "BRA",
+                    "name": "Vitor FAGUNDES"
+                }
+            ]
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "COL",
+                    "name": "Elmer OREJUELA"
+                },
+                {
+                    "country": "CAN",
+                    "name": "John MESSE A BESSONG"
+                },
+                {
+                    "winner": "John MESSE A BESSONG"
+                }
+            ],
+            [
+                {
+                    "country": "USA",
+                    "name": "Christian KONOVAL"
+                },
+                {
+                    "country": "BRA",
+                    "name": "Vitor FAGUNDES"
+                },
+                {
+                    "winner": "Christian KONOVAL"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "CAN",
+                    "name": "John MESSE A BESSONG"
+                },
+                {
+                    "country": "USA",
+                    "name": "Christian KONOVAL"
+                }
+            ],
+            [
+                {
+                    "country": "CAN",
+                    "name": "John MESSE A BESSONG"
+                }
+            ]
+        ]
+    }
+}

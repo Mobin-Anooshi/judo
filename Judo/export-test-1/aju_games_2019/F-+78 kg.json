@@ -1,0 +1,261 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "TUN",
+                    "name": "Nihel CHEIKH ROUHOU"
+                },
+                {
+                    "winner": "Nihel CHEIKH ROUHOU"
+                }
+            ],
+            [
+                {
+                    "country": "MAR",
+                    "name": "Ikram BENSALEM"
+                },
+                {
+                    "winner": "Ikram BENSALEM"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "TUN",
+                    "name": "Nihel CHEIKH ROUHOU"
+                },
+                {
+                    "country": "MAR",
+                    "name": "Ikram BENSALEM"
+                }
+            ]
+        ],
+        "final_winner": "Nihel CHEIKH ROUHOU"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "EGY",
+                    "name": "Kariman SHAFIK"
+                },
+                {
+                    "winner": "Kariman SHAFIK"
+                }
+            ],
+            [
+                {
+                    "country": "SEN",
+                    "name": "Monica SAGNA"
+                },
+                {
+                    "winner": "Monica SAGNA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "EGY",
+                    "name": "Kariman SHAFIK"
+                },
+                {
+                    "country": "SEN",
+                    "name": "Monica SAGNA"
+                }
+            ]
+        ],
+        "final_winner": "Monica SAGNA"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CMR",
+                    "name": "Hortence Vanessa MBALLA ATANGANA"
+                },
+                {
+                    "winner": "Hortence Vanessa MBALLA ATANGANA"
+                }
+            ],
+            [
+                {
+                    "country": "SEN",
+                    "name": "Georgette SAGNA"
+                },
+                {
+                    "country": "COD",
+                    "name": "Kimberly IMONGO"
+                },
+                {
+                    "winner": "Georgette SAGNA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "CMR",
+                    "name": "Hortence Vanessa MBALLA ATANGANA"
+                },
+                {
+                    "country": "SEN",
+                    "name": "Georgette SAGNA"
+                }
+            ]
+        ],
+        "final_winner": "Hortence Vanessa MBALLA ATANGANA"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ALG",
+                    "name": "Sonia ASSELAH"
+                },
+                {
+                    "winner": "Sonia ASSELAH"
+                }
+            ],
+            [
+                {
+                    "country": "EGY",
+                    "name": "Salma ELSHAZLY"
+                },
+                {
+                    "winner": "Salma ELSHAZLY"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "ALG",
+                    "name": "Sonia ASSELAH"
+                },
+                {
+                    "country": "EGY",
+                    "name": "Salma ELSHAZLY"
+                }
+            ]
+        ],
+        "final_winner": "Salma ELSHAZLY"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "MAR",
+                    "name": "Ikram BENSALEM"
+                },
+                {
+                    "country": "EGY",
+                    "name": "Kariman SHAFIK"
+                },
+                {
+                    "winner": "Kariman SHAFIK"
+                }
+            ],
+            [
+                {
+                    "country": "SEN",
+                    "name": "Georgette SAGNA"
+                },
+                {
+                    "country": "ALG",
+                    "name": "Sonia ASSELAH"
+                },
+                {
+                    "winner": "Georgette SAGNA"
+                }
+            ],
+            [
+                {
+                    "country": "EGY",
+                    "name": "Kariman SHAFIK"
+                },
+                {
+                    "country": "EGY",
+                    "name": "Salma ELSHAZLY"
+                },
+                {
+                    "winner": "Kariman SHAFIK"
+                }
+            ],
+            [
+                {
+                    "country": "SEN",
+                    "name": "Georgette SAGNA"
+                },
+                {
+                    "country": "SEN",
+                    "name": "Monica SAGNA"
+                },
+                {
+                    "winner": "Monica SAGNA"
+                }
+            ],
+            [
+                {
+                    "country": "EGY",
+                    "name": "Kariman SHAFIK"
+                }
+            ],
+            [
+                {
+                    "country": "SEN",
+                    "name": "Monica SAGNA"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Kariman SHAFIK",
+            "Monica SAGNA"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "TUN",
+                    "name": "Nihel CHEIKH ROUHOU"
+                },
+                {
+                    "country": "SEN",
+                    "name": "Monica SAGNA"
+                },
+                {
+                    "winner": "Nihel CHEIKH ROUHOU"
+                }
+            ],
+            [
+                {
+                    "country": "CMR",
+                    "name": "Hortence Vanessa MBALLA ATANGANA"
+                },
+                {
+                    "country": "EGY",
+                    "name": "Salma ELSHAZLY"
+                },
+                {
+                    "winner": "Hortence Vanessa MBALLA ATANGANA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "TUN",
+                    "name": "Nihel CHEIKH ROUHOU"
+                },
+                {
+                    "country": "CMR",
+                    "name": "Hortence Vanessa MBALLA ATANGANA"
+                }
+            ]
+        ],
+        "final_winner": "Nihel CHEIKH ROUHOU"
+    }
+}

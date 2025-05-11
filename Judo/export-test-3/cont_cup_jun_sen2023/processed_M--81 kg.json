@@ -1,0 +1,68 @@
+{
+    "ROUND 1": {
+        "round 1-2": [
+            [
+                {
+                    "country": "BUR",
+                    "name": "Kissouli KONATE"
+                },
+                {
+                    "country": "MLI",
+                    "name": "Alou KANE"
+                },
+                {
+                    "winner": "Kissouli KONATE"
+                }
+            ],
+            [
+                {
+                    "country": "CMR",
+                    "name": "Yohane Jessie NGAE"
+                },
+                {
+                    "country": "SEN",
+                    "name": "Namory KEITA"
+                },
+                {
+                    "winner": "Namory KEITA"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Kissouli KONATE",
+            "Namory KEITA"
+        ]
+    },
+    "REPECHAGE": {
+        "round 1-1": [
+            [
+                {
+                    "country": "MLI",
+                    "name": "Alou KANE"
+                },
+                {
+                    "country": "CMR",
+                    "name": "Yohane Jessie NGAE"
+                },
+                {
+                    "winner": "Alou KANE"
+                }
+            ],
+            [
+                {
+                    "country": "MLI",
+                    "name": "Alou KANE"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Alou KANE"
+        ]
+    },
+    "FINALS": {
+        "round 1-1": [],
+        "final_winners": [
+            "Namory KEITA"
+        ]
+    }
+}

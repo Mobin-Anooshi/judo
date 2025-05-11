@@ -1,0 +1,141 @@
+{
+    "POOL A": {
+        "round 1-1": [],
+        "final_winner": "Mariano COTO BERSIER"
+    },
+    "POOL B": {
+        "round 1-1": [
+            [
+                {
+                    "country": "CAN",
+                    "name": "Alec GARAND"
+                },
+                {
+                    "country": "CHI",
+                    "name": "Sandro BOTTO"
+                }
+            ]
+        ],
+        "final_winner": "Sandro BOTTO"
+    },
+    "POOL C": {
+        "round 1-1": [],
+        "final_winner": "Yuta GALARRETA"
+    },
+    "POOL D": {
+        "round 1-1": [
+            [
+                {
+                    "country": "CHI",
+                    "name": "Daniel ARANCIBIA"
+                },
+                {
+                    "country": "COL",
+                    "name": "Jhon CAICEDO SINISTERRA"
+                }
+            ]
+        ],
+        "final_winner": "Jhon CAICEDO SINISTERRA"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CAN",
+                    "name": "Alec GARAND"
+                }
+            ],
+            [
+                {
+                    "country": "CHI",
+                    "name": "Daniel ARANCIBIA"
+                }
+            ],
+            [
+                {
+                    "country": "CAN",
+                    "name": "Alec GARAND"
+                },
+                {
+                    "country": "COL",
+                    "name": "Jhon CAICEDO SINISTERRA"
+                },
+                {
+                    "winner": "Jhon CAICEDO SINISTERRA"
+                }
+            ],
+            [
+                {
+                    "country": "CHI",
+                    "name": "Daniel ARANCIBIA"
+                },
+                {
+                    "country": "CHI",
+                    "name": "Sandro BOTTO"
+                },
+                {
+                    "winner": "Sandro BOTTO"
+                }
+            ],
+            [
+                {
+                    "country": "COL",
+                    "name": "Jhon CAICEDO SINISTERRA"
+                }
+            ],
+            [
+                {
+                    "country": "CHI",
+                    "name": "Sandro BOTTO"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Jhon CAICEDO SINISTERRA",
+            "Sandro BOTTO"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ARG",
+                    "name": "Mariano COTO BERSIER"
+                },
+                {
+                    "country": "CHI",
+                    "name": "Sandro BOTTO"
+                },
+                {
+                    "winner": "Mariano COTO BERSIER"
+                }
+            ],
+            [
+                {
+                    "country": "PER",
+                    "name": "Yuta GALARRETA"
+                },
+                {
+                    "country": "COL",
+                    "name": "Jhon CAICEDO SINISTERRA"
+                },
+                {
+                    "winner": "Yuta GALARRETA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "ARG",
+                    "name": "Mariano COTO BERSIER"
+                },
+                {
+                    "country": "PER",
+                    "name": "Yuta GALARRETA"
+                }
+            ]
+        ],
+        "final_winner": "Yuta GALARRETA"
+    }
+}

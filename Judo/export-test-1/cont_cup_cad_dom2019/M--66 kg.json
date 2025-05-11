@@ -1,0 +1,177 @@
+{
+    "POOL A": {
+        "round 1-1": [
+            [
+                {
+                    "country": "CUB",
+                    "name": "Kimy BRAVO BLANCO"
+                },
+                {
+                    "country": "DOM",
+                    "name": "Antony MATOS"
+                }
+            ]
+        ],
+        "final_winner": "Kimy BRAVO BLANCO"
+    },
+    "POOL B": {
+        "round 1-1": [
+            [
+                {
+                    "country": "DOM",
+                    "name": "Markelly SANTANA"
+                },
+                {
+                    "country": "PUR",
+                    "name": "Luis ROSADO SEGARRA"
+                }
+            ]
+        ],
+        "final_winner": "Markelly SANTANA"
+    },
+    "POOL C": {
+        "round 1-1": [
+            [
+                {
+                    "country": "PUR",
+                    "name": "Darrick GARCIA"
+                },
+                {
+                    "country": "DOM",
+                    "name": "Antony RAMIREZ BONE"
+                }
+            ]
+        ],
+        "final_winner": "Darrick GARCIA"
+    },
+    "POOL D": {
+        "round 1-1": [
+            [
+                {
+                    "country": "CAN",
+                    "name": "Mason MACMURRAY-RAMSAY"
+                },
+                {
+                    "country": "DOM",
+                    "name": "Adely Alexander AMADIS"
+                }
+            ]
+        ],
+        "final_winner": "Mason MACMURRAY-RAMSAY"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "DOM",
+                    "name": "Antony MATOS"
+                },
+                {
+                    "country": "PUR",
+                    "name": "Luis ROSADO SEGARRA"
+                },
+                {
+                    "winner": "Antony MATOS"
+                }
+            ],
+            [
+                {
+                    "country": "DOM",
+                    "name": "Antony RAMIREZ BONE"
+                },
+                {
+                    "country": "DOM",
+                    "name": "Adely Alexander AMADIS"
+                },
+                {
+                    "winner": "Antony RAMIREZ BONE"
+                }
+            ],
+            [
+                {
+                    "country": "DOM",
+                    "name": "Antony MATOS"
+                },
+                {
+                    "country": "CAN",
+                    "name": "Mason MACMURRAY-RAMSAY"
+                },
+                {
+                    "winner": "Mason MACMURRAY-RAMSAY"
+                }
+            ],
+            [
+                {
+                    "country": "DOM",
+                    "name": "Antony RAMIREZ BONE"
+                },
+                {
+                    "country": "DOM",
+                    "name": "Markelly SANTANA"
+                },
+                {
+                    "winner": "Antony RAMIREZ BONE"
+                }
+            ],
+            [
+                {
+                    "country": "CAN",
+                    "name": "Mason MACMURRAY-RAMSAY"
+                }
+            ],
+            [
+                {
+                    "country": "DOM",
+                    "name": "Antony RAMIREZ BONE"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Mason MACMURRAY-RAMSAY",
+            "Antony RAMIREZ BONE"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CUB",
+                    "name": "Kimy BRAVO BLANCO"
+                },
+                {
+                    "country": "DOM",
+                    "name": "Markelly SANTANA"
+                },
+                {
+                    "winner": "Kimy BRAVO BLANCO"
+                }
+            ],
+            [
+                {
+                    "country": "PUR",
+                    "name": "Darrick GARCIA"
+                },
+                {
+                    "country": "CAN",
+                    "name": "Mason MACMURRAY-RAMSAY"
+                },
+                {
+                    "winner": "Darrick GARCIA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "CUB",
+                    "name": "Kimy BRAVO BLANCO"
+                },
+                {
+                    "country": "PUR",
+                    "name": "Darrick GARCIA"
+                }
+            ]
+        ],
+        "final_winner": "Kimy BRAVO BLANCO"
+    }
+}

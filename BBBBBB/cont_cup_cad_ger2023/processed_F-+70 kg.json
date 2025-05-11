@@ -1,0 +1,141 @@
+{
+    "POOL A": {
+        "round 1-1": [],
+        "final_winner": "Zuzanna BANASZEWSKA"
+    },
+    "POOL B": {
+        "round 1-1": [
+            [
+                {
+                    "country": "GER",
+                    "name": "Elina PRUESSE"
+                },
+                {
+                    "country": "ITA",
+                    "name": "Maria Pia Fabiana DELLA VALLE"
+                }
+            ]
+        ],
+        "final_winner": "Elina PRUESSE"
+    },
+    "POOL C": {
+        "round 1-1": [],
+        "final_winner": "Akmarzhan TURDAZHIEVA"
+    },
+    "POOL D": {
+        "round 1-1": [
+            [
+                {
+                    "country": "POL",
+                    "name": "Nicole WIDLAK"
+                },
+                {
+                    "country": "NED",
+                    "name": "Lindey HARTMEIJER"
+                }
+            ]
+        ],
+        "final_winner": "Nicole WIDLAK"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ITA",
+                    "name": "Maria Pia Fabiana DELLA VALLE"
+                }
+            ],
+            [
+                {
+                    "country": "NED",
+                    "name": "Lindey HARTMEIJER"
+                }
+            ],
+            [
+                {
+                    "country": "ITA",
+                    "name": "Maria Pia Fabiana DELLA VALLE"
+                },
+                {
+                    "country": "POL",
+                    "name": "Nicole WIDLAK"
+                },
+                {
+                    "winner": "Nicole WIDLAK"
+                }
+            ],
+            [
+                {
+                    "country": "NED",
+                    "name": "Lindey HARTMEIJER"
+                },
+                {
+                    "country": "GER",
+                    "name": "Elina PRUESSE"
+                },
+                {
+                    "winner": "Elina PRUESSE"
+                }
+            ],
+            [
+                {
+                    "country": "POL",
+                    "name": "Nicole WIDLAK"
+                }
+            ],
+            [
+                {
+                    "country": "GER",
+                    "name": "Elina PRUESSE"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Nicole WIDLAK",
+            "Elina PRUESSE"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "POL",
+                    "name": "Zuzanna BANASZEWSKA"
+                },
+                {
+                    "country": "GER",
+                    "name": "Elina PRUESSE"
+                },
+                {
+                    "winner": "Zuzanna BANASZEWSKA"
+                }
+            ],
+            [
+                {
+                    "country": "KGZ",
+                    "name": "Akmarzhan TURDAZHIEVA"
+                },
+                {
+                    "country": "POL",
+                    "name": "Nicole WIDLAK"
+                },
+                {
+                    "winner": "Akmarzhan TURDAZHIEVA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "POL",
+                    "name": "Zuzanna BANASZEWSKA"
+                },
+                {
+                    "country": "KGZ",
+                    "name": "Akmarzhan TURDAZHIEVA"
+                }
+            ]
+        ],
+        "final_winner": "Zuzanna BANASZEWSKA"
+    }
+}

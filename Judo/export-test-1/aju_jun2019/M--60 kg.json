@@ -1,0 +1,289 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "SEN",
+                    "name": "Cheikh Oumar GUEYE"
+                },
+                {
+                    "country": "ALG",
+                    "name": "Mohammed Amine TAHRA"
+                },
+                {
+                    "winner": "Mohammed Amine TAHRA"
+                }
+            ],
+            [
+                {
+                    "country": "MAR",
+                    "name": "Zakariae ELMAALLEM"
+                },
+                {
+                    "country": "EGY",
+                    "name": "Moustafa FEKRY"
+                },
+                {
+                    "winner": "Zakariae ELMAALLEM"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "ALG",
+                    "name": "Mohammed Amine TAHRA"
+                },
+                {
+                    "country": "MAR",
+                    "name": "Zakariae ELMAALLEM"
+                }
+            ]
+        ],
+        "final_winner": "Mohammed Amine TAHRA"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CHA",
+                    "name": "Mahamat SANI IBRAHIM"
+                },
+                {
+                    "country": "MLI",
+                    "name": "Douga THERA"
+                },
+                {
+                    "winner": "Douga THERA"
+                }
+            ],
+            [
+                {
+                    "country": "GAB",
+                    "name": "Inoue CAUVIN DE RANINE"
+                },
+                {
+                    "country": "RSA",
+                    "name": "Mosa THETSANE"
+                },
+                {
+                    "winner": "Inoue CAUVIN DE RANINE"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "MLI",
+                    "name": "Douga THERA"
+                },
+                {
+                    "country": "GAB",
+                    "name": "Inoue CAUVIN DE RANINE"
+                }
+            ]
+        ],
+        "final_winner": "Inoue CAUVIN DE RANINE"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "SEN",
+                    "name": "Harouna KEITA"
+                },
+                {
+                    "country": "CIV",
+                    "name": "Karim Stephane DIARRASSOUBA"
+                },
+                {
+                    "winner": "Harouna KEITA"
+                }
+            ],
+            [
+                {
+                    "country": "CHA",
+                    "name": "Haroun RAMADAN"
+                },
+                {
+                    "country": "RSA",
+                    "name": "Dewald SCHULTZ"
+                },
+                {
+                    "winner": "Dewald SCHULTZ"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "SEN",
+                    "name": "Harouna KEITA"
+                },
+                {
+                    "country": "RSA",
+                    "name": "Dewald SCHULTZ"
+                }
+            ]
+        ],
+        "final_winner": "Dewald SCHULTZ"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "MLI",
+                    "name": "Mady SIDIBE"
+                },
+                {
+                    "country": "TUN",
+                    "name": "Mohamed MTIRI"
+                },
+                {
+                    "winner": "Mohamed MTIRI"
+                }
+            ],
+            [
+                {
+                    "country": "MAR",
+                    "name": "Anass ELALAMI ELIDRISSI"
+                },
+                {
+                    "country": "GAB",
+                    "name": "Fernand NKERO"
+                },
+                {
+                    "winner": "Fernand NKERO"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "TUN",
+                    "name": "Mohamed MTIRI"
+                },
+                {
+                    "country": "GAB",
+                    "name": "Fernand NKERO"
+                }
+            ]
+        ],
+        "final_winner": "Fernand NKERO"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "MAR",
+                    "name": "Zakariae ELMAALLEM"
+                },
+                {
+                    "country": "MLI",
+                    "name": "Douga THERA"
+                },
+                {
+                    "winner": "Zakariae ELMAALLEM"
+                }
+            ],
+            [
+                {
+                    "country": "SEN",
+                    "name": "Harouna KEITA"
+                },
+                {
+                    "country": "TUN",
+                    "name": "Mohamed MTIRI"
+                },
+                {
+                    "winner": "Harouna KEITA"
+                }
+            ],
+            [
+                {
+                    "country": "MAR",
+                    "name": "Zakariae ELMAALLEM"
+                },
+                {
+                    "country": "RSA",
+                    "name": "Dewald SCHULTZ"
+                },
+                {
+                    "winner": "Zakariae ELMAALLEM"
+                }
+            ],
+            [
+                {
+                    "country": "SEN",
+                    "name": "Harouna KEITA"
+                },
+                {
+                    "country": "GAB",
+                    "name": "Inoue CAUVIN DE RANINE"
+                },
+                {
+                    "winner": "Harouna KEITA"
+                }
+            ],
+            [
+                {
+                    "country": "MAR",
+                    "name": "Zakariae ELMAALLEM"
+                }
+            ],
+            [
+                {
+                    "country": "SEN",
+                    "name": "Harouna KEITA"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Zakariae ELMAALLEM",
+            "Harouna KEITA"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ALG",
+                    "name": "Mohammed Amine TAHRA"
+                },
+                {
+                    "country": "GAB",
+                    "name": "Inoue CAUVIN DE RANINE"
+                },
+                {
+                    "winner": "Mohammed Amine TAHRA"
+                }
+            ],
+            [
+                {
+                    "country": "RSA",
+                    "name": "Dewald SCHULTZ"
+                },
+                {
+                    "country": "GAB",
+                    "name": "Fernand NKERO"
+                },
+                {
+                    "winner": "Fernand NKERO"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "ALG",
+                    "name": "Mohammed Amine TAHRA"
+                },
+                {
+                    "country": "GAB",
+                    "name": "Fernand NKERO"
+                }
+            ]
+        ],
+        "final_winner": "Mohammed Amine TAHRA"
+    }
+}

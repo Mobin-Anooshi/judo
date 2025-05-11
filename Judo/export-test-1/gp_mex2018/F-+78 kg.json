@@ -1,0 +1,261 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Maria Suelen ALTHEMAN"
+                },
+                {
+                    "winner": "Maria Suelen ALTHEMAN"
+                }
+            ],
+            [
+                {
+                    "country": "USA",
+                    "name": "Mackenzie WILLIAMS"
+                },
+                {
+                    "winner": "Mackenzie WILLIAMS"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Maria Suelen ALTHEMAN"
+                },
+                {
+                    "country": "USA",
+                    "name": "Mackenzie WILLIAMS"
+                }
+            ]
+        ],
+        "final_winner": "Maria Suelen ALTHEMAN"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "GBR",
+                    "name": "Sarah ADLINGTON"
+                },
+                {
+                    "winner": "Sarah ADLINGTON"
+                }
+            ],
+            [
+                {
+                    "country": "RUS",
+                    "name": "Kseniia CHIBISOVA"
+                },
+                {
+                    "winner": "Kseniia CHIBISOVA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "GBR",
+                    "name": "Sarah ADLINGTON"
+                },
+                {
+                    "country": "RUS",
+                    "name": "Kseniia CHIBISOVA"
+                }
+            ]
+        ],
+        "final_winner": "Kseniia CHIBISOVA"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CUB",
+                    "name": "Idalys ORTIZ"
+                },
+                {
+                    "country": "ITA",
+                    "name": "Eleonora GERI"
+                },
+                {
+                    "winner": "Idalys ORTIZ"
+                }
+            ],
+            [
+                {
+                    "country": "USA",
+                    "name": "Nina CUTRO-KELLY"
+                },
+                {
+                    "winner": "Nina CUTRO-KELLY"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "CUB",
+                    "name": "Idalys ORTIZ"
+                },
+                {
+                    "country": "USA",
+                    "name": "Nina CUTRO-KELLY"
+                }
+            ]
+        ],
+        "final_winner": "Idalys ORTIZ"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Beatriz SOUZA"
+                },
+                {
+                    "winner": "Beatriz SOUZA"
+                }
+            ],
+            [
+                {
+                    "country": "RUS",
+                    "name": "Anzhela GASPARIAN"
+                },
+                {
+                    "winner": "Anzhela GASPARIAN"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Beatriz SOUZA"
+                },
+                {
+                    "country": "RUS",
+                    "name": "Anzhela GASPARIAN"
+                }
+            ]
+        ],
+        "final_winner": "Beatriz SOUZA"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "USA",
+                    "name": "Mackenzie WILLIAMS"
+                },
+                {
+                    "country": "GBR",
+                    "name": "Sarah ADLINGTON"
+                },
+                {
+                    "winner": "Sarah ADLINGTON"
+                }
+            ],
+            [
+                {
+                    "country": "USA",
+                    "name": "Nina CUTRO-KELLY"
+                },
+                {
+                    "country": "RUS",
+                    "name": "Anzhela GASPARIAN"
+                },
+                {
+                    "winner": "Anzhela GASPARIAN"
+                }
+            ],
+            [
+                {
+                    "country": "GBR",
+                    "name": "Sarah ADLINGTON"
+                },
+                {
+                    "country": "BRA",
+                    "name": "Beatriz SOUZA"
+                },
+                {
+                    "winner": "Beatriz SOUZA"
+                }
+            ],
+            [
+                {
+                    "country": "RUS",
+                    "name": "Anzhela GASPARIAN"
+                },
+                {
+                    "country": "RUS",
+                    "name": "Kseniia CHIBISOVA"
+                },
+                {
+                    "winner": "Kseniia CHIBISOVA"
+                }
+            ],
+            [
+                {
+                    "country": "BRA",
+                    "name": "Beatriz SOUZA"
+                }
+            ],
+            [
+                {
+                    "country": "RUS",
+                    "name": "Kseniia CHIBISOVA"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Beatriz SOUZA",
+            "Kseniia CHIBISOVA"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Maria Suelen ALTHEMAN"
+                },
+                {
+                    "country": "RUS",
+                    "name": "Kseniia CHIBISOVA"
+                },
+                {
+                    "winner": "Maria Suelen ALTHEMAN"
+                }
+            ],
+            [
+                {
+                    "country": "CUB",
+                    "name": "Idalys ORTIZ"
+                },
+                {
+                    "country": "BRA",
+                    "name": "Beatriz SOUZA"
+                },
+                {
+                    "winner": "Idalys ORTIZ"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Maria Suelen ALTHEMAN"
+                },
+                {
+                    "country": "CUB",
+                    "name": "Idalys ORTIZ"
+                }
+            ]
+        ],
+        "final_winner": "Idalys ORTIZ"
+    }
+}

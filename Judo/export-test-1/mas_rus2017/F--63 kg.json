@@ -1,0 +1,285 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "FRA",
+                    "name": "Clarisse AGBEGNENOU"
+                },
+                {
+                    "winner": "Clarisse AGBEGNENOU"
+                }
+            ],
+            [
+                {
+                    "country": "SLO",
+                    "name": "Andreja LESKI"
+                },
+                {
+                    "country": "NED",
+                    "name": "Juul FRANSSEN"
+                },
+                {
+                    "winner": "Juul FRANSSEN"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "FRA",
+                    "name": "Clarisse AGBEGNENOU"
+                },
+                {
+                    "country": "NED",
+                    "name": "Juul FRANSSEN"
+                }
+            ]
+        ],
+        "final_winner": "Clarisse AGBEGNENOU"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "GBR",
+                    "name": "Alice SCHLESINGER"
+                },
+                {
+                    "country": "USA",
+                    "name": "Hannah MARTIN"
+                },
+                {
+                    "winner": "Alice SCHLESINGER"
+                }
+            ],
+            [
+                {
+                    "country": "JPN",
+                    "name": "Miku TAKAICHI"
+                },
+                {
+                    "country": "RUS",
+                    "name": "Ekaterina VALKOVA"
+                },
+                {
+                    "winner": "Miku TAKAICHI"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "GBR",
+                    "name": "Alice SCHLESINGER"
+                },
+                {
+                    "country": "JPN",
+                    "name": "Miku TAKAICHI"
+                }
+            ]
+        ],
+        "final_winner": "Miku TAKAICHI"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "GER",
+                    "name": "Martyna TRAJDOS"
+                },
+                {
+                    "country": "RUS",
+                    "name": "Daria DAVYDOVA"
+                },
+                {
+                    "winner": "Daria DAVYDOVA"
+                }
+            ],
+            [
+                {
+                    "country": "GBR",
+                    "name": "Lucy RENSHALL"
+                },
+                {
+                    "country": "AUT",
+                    "name": "Magdalena KRSSAKOVA"
+                },
+                {
+                    "winner": "Magdalena KRSSAKOVA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "RUS",
+                    "name": "Daria DAVYDOVA"
+                },
+                {
+                    "country": "AUT",
+                    "name": "Magdalena KRSSAKOVA"
+                }
+            ]
+        ],
+        "final_winner": "Daria DAVYDOVA"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "JPN",
+                    "name": "Nami NABEKURA"
+                },
+                {
+                    "country": "PHI",
+                    "name": "Kiyomi WATANABE"
+                },
+                {
+                    "winner": "Nami NABEKURA"
+                }
+            ],
+            [
+                {
+                    "country": "MGL",
+                    "name": "Mungunchimeg BALDORJ"
+                },
+                {
+                    "country": "POL",
+                    "name": "Agata OZDOBA-BLACH"
+                },
+                {
+                    "winner": "Mungunchimeg BALDORJ"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "JPN",
+                    "name": "Nami NABEKURA"
+                },
+                {
+                    "country": "MGL",
+                    "name": "Mungunchimeg BALDORJ"
+                }
+            ]
+        ],
+        "final_winner": "Nami NABEKURA"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "NED",
+                    "name": "Juul FRANSSEN"
+                },
+                {
+                    "country": "GBR",
+                    "name": "Alice SCHLESINGER"
+                },
+                {
+                    "winner": "Juul FRANSSEN"
+                }
+            ],
+            [
+                {
+                    "country": "AUT",
+                    "name": "Magdalena KRSSAKOVA"
+                },
+                {
+                    "country": "MGL",
+                    "name": "Mungunchimeg BALDORJ"
+                },
+                {
+                    "winner": "Mungunchimeg BALDORJ"
+                }
+            ],
+            [
+                {
+                    "country": "NED",
+                    "name": "Juul FRANSSEN"
+                },
+                {
+                    "country": "RUS",
+                    "name": "Daria DAVYDOVA"
+                },
+                {
+                    "winner": "Juul FRANSSEN"
+                }
+            ],
+            [
+                {
+                    "country": "MGL",
+                    "name": "Mungunchimeg BALDORJ"
+                },
+                {
+                    "country": "FRA",
+                    "name": "Clarisse AGBEGNENOU"
+                },
+                {
+                    "winner": "Clarisse AGBEGNENOU"
+                }
+            ],
+            [
+                {
+                    "country": "NED",
+                    "name": "Juul FRANSSEN"
+                }
+            ],
+            [
+                {
+                    "country": "FRA",
+                    "name": "Clarisse AGBEGNENOU"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Juul FRANSSEN",
+            "Clarisse AGBEGNENOU"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "FRA",
+                    "name": "Clarisse AGBEGNENOU"
+                },
+                {
+                    "country": "JPN",
+                    "name": "Miku TAKAICHI"
+                },
+                {
+                    "winner": "Miku TAKAICHI"
+                }
+            ],
+            [
+                {
+                    "country": "RUS",
+                    "name": "Daria DAVYDOVA"
+                },
+                {
+                    "country": "JPN",
+                    "name": "Nami NABEKURA"
+                },
+                {
+                    "winner": "Nami NABEKURA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "JPN",
+                    "name": "Miku TAKAICHI"
+                },
+                {
+                    "country": "JPN",
+                    "name": "Nami NABEKURA"
+                }
+            ]
+        ],
+        "final_winner": "Miku TAKAICHI"
+    }
+}

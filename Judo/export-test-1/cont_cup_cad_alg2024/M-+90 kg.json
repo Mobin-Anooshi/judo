@@ -1,0 +1,135 @@
+{
+    "POOL A": {
+        "round 1-1": [],
+        "final_winner": "Salim HANNOUS"
+    },
+    "POOL B": {
+        "round 1-1": [
+            [
+                {
+                    "country": "ALG",
+                    "name": "Lokmane BOUHEDOUF"
+                },
+                {
+                    "country": "ALG",
+                    "name": "Abdelkader MESKARI"
+                }
+            ]
+        ],
+        "final_winner": "Abdelkader MESKARI"
+    },
+    "POOL C": {
+        "round 1-1": [],
+        "final_winner": "Chems Eddine CHERIFI"
+    },
+    "POOL D": {
+        "round 1-1": [
+            [
+                {
+                    "country": "ALG",
+                    "name": "Abdel Wahab Lahouari HEZIL"
+                },
+                {
+                    "country": "KSA",
+                    "name": "Mahdi ALAWWAD"
+                }
+            ]
+        ],
+        "final_winner": "Mahdi ALAWWAD"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ALG",
+                    "name": "Lokmane BOUHEDOUF"
+                }
+            ],
+            [
+                {
+                    "country": "ALG",
+                    "name": "Abdel Wahab Lahouari HEZIL"
+                }
+            ],
+            [
+                {
+                    "country": "ALG",
+                    "name": "Lokmane BOUHEDOUF"
+                },
+                {
+                    "country": "KSA",
+                    "name": "Mahdi ALAWWAD"
+                },
+                {
+                    "winner": "Lokmane BOUHEDOUF"
+                }
+            ],
+            [
+                {
+                    "country": "ALG",
+                    "name": "Abdel Wahab Lahouari HEZIL"
+                },
+                {
+                    "country": "ALG",
+                    "name": "Abdelkader MESKARI"
+                },
+                {
+                    "winner": "Abdelkader MESKARI"
+                }
+            ],
+            [
+                {
+                    "country": "ALG",
+                    "name": "Abdelkader MESKARI"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Abdel Wahab Lahouari HEZIL",
+            "Lokmane BOUHEDOUF"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ALG",
+                    "name": "Salim HANNOUS"
+                },
+                {
+                    "country": "ALG",
+                    "name": "Abdelkader MESKARI"
+                },
+                {
+                    "winner": "Salim HANNOUS"
+                }
+            ],
+            [
+                {
+                    "country": "ALG",
+                    "name": "Chems Eddine CHERIFI"
+                },
+                {
+                    "country": "KSA",
+                    "name": "Mahdi ALAWWAD"
+                },
+                {
+                    "winner": "Chems Eddine CHERIFI"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "ALG",
+                    "name": "Salim HANNOUS"
+                },
+                {
+                    "country": "ALG",
+                    "name": "Chems Eddine CHERIFI"
+                }
+            ]
+        ],
+        "final_winner": "Chems Eddine CHERIFI"
+    }
+}

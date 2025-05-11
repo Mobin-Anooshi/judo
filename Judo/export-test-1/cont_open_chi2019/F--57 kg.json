@@ -1,0 +1,281 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "USA",
+                    "name": "Amelia FULGENTES"
+                },
+                {
+                    "winner": "Amelia FULGENTES"
+                }
+            ],
+            [
+                {
+                    "country": "PER",
+                    "name": "Marian FLORES"
+                },
+                {
+                    "country": "MEX",
+                    "name": "Rita HERBERT"
+                },
+                {
+                    "winner": "Rita HERBERT"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "USA",
+                    "name": "Amelia FULGENTES"
+                },
+                {
+                    "country": "MEX",
+                    "name": "Rita HERBERT"
+                }
+            ]
+        ],
+        "final_winner": "Amelia FULGENTES"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "USA",
+                    "name": "Mariah HOLGUIN"
+                },
+                {
+                    "country": "CHI",
+                    "name": "Jennipher CABRERA"
+                },
+                {
+                    "winner": "Mariah HOLGUIN"
+                }
+            ],
+            [
+                {
+                    "country": "USA",
+                    "name": "Isadora FRIEDLANDER"
+                },
+                {
+                    "country": "FRA",
+                    "name": "Mathilde BRIANT"
+                },
+                {
+                    "winner": "Mathilde BRIANT"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "USA",
+                    "name": "Mariah HOLGUIN"
+                },
+                {
+                    "country": "FRA",
+                    "name": "Mathilde BRIANT"
+                }
+            ]
+        ],
+        "final_winner": "Mariah HOLGUIN"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "SRB",
+                    "name": "Marica PERISIC"
+                },
+                {
+                    "winner": "Marica PERISIC"
+                }
+            ],
+            [
+                {
+                    "country": "MEX",
+                    "name": "Jennifer CRUZ"
+                },
+                {
+                    "country": "BRA",
+                    "name": "Amanda CULATO"
+                },
+                {
+                    "winner": "Amanda CULATO"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "SRB",
+                    "name": "Marica PERISIC"
+                },
+                {
+                    "country": "BRA",
+                    "name": "Amanda CULATO"
+                }
+            ]
+        ],
+        "final_winner": "Marica PERISIC"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "NZL",
+                    "name": "Justine BISHOP"
+                },
+                {
+                    "country": "CHI",
+                    "name": "Elizabeth SEGURA"
+                },
+                {
+                    "winner": "Justine BISHOP"
+                }
+            ],
+            [
+                {
+                    "country": "FRA",
+                    "name": "Margaux SILVESTRI"
+                },
+                {
+                    "country": "PER",
+                    "name": "Kiara ARANGO"
+                },
+                {
+                    "winner": "Margaux SILVESTRI"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "NZL",
+                    "name": "Justine BISHOP"
+                },
+                {
+                    "country": "FRA",
+                    "name": "Margaux SILVESTRI"
+                }
+            ]
+        ],
+        "final_winner": "Justine BISHOP"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "MEX",
+                    "name": "Rita HERBERT"
+                },
+                {
+                    "country": "FRA",
+                    "name": "Mathilde BRIANT"
+                },
+                {
+                    "winner": "Mathilde BRIANT"
+                }
+            ],
+            [
+                {
+                    "country": "BRA",
+                    "name": "Amanda CULATO"
+                },
+                {
+                    "country": "FRA",
+                    "name": "Margaux SILVESTRI"
+                },
+                {
+                    "winner": "Margaux SILVESTRI"
+                }
+            ],
+            [
+                {
+                    "country": "FRA",
+                    "name": "Mathilde BRIANT"
+                },
+                {
+                    "country": "NZL",
+                    "name": "Justine BISHOP"
+                },
+                {
+                    "winner": "Mathilde BRIANT"
+                }
+            ],
+            [
+                {
+                    "country": "FRA",
+                    "name": "Margaux SILVESTRI"
+                },
+                {
+                    "country": "USA",
+                    "name": "Mariah HOLGUIN"
+                },
+                {
+                    "winner": "Mariah HOLGUIN"
+                }
+            ],
+            [
+                {
+                    "country": "FRA",
+                    "name": "Mathilde BRIANT"
+                }
+            ],
+            [
+                {
+                    "country": "USA",
+                    "name": "Mariah HOLGUIN"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Mathilde BRIANT",
+            "Mariah HOLGUIN"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "USA",
+                    "name": "Amelia FULGENTES"
+                },
+                {
+                    "country": "USA",
+                    "name": "Mariah HOLGUIN"
+                },
+                {
+                    "winner": "Amelia FULGENTES"
+                }
+            ],
+            [
+                {
+                    "country": "SRB",
+                    "name": "Marica PERISIC"
+                },
+                {
+                    "country": "NZL",
+                    "name": "Justine BISHOP"
+                },
+                {
+                    "winner": "Marica PERISIC"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "USA",
+                    "name": "Amelia FULGENTES"
+                },
+                {
+                    "country": "SRB",
+                    "name": "Marica PERISIC"
+                }
+            ]
+        ],
+        "final_winner": "Marica PERISIC"
+    }
+}

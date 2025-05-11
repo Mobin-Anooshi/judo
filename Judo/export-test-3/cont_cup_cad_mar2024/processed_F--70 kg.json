@@ -1,0 +1,68 @@
+{
+    "ROUND 1": {
+        "round 1-2": [
+            [
+                {
+                    "country": "MAR",
+                    "name": "Yasmine HARISS"
+                },
+                {
+                    "country": "MAR",
+                    "name": "Yosra EL MAALLEM"
+                },
+                {
+                    "winner": "Yasmine HARISS"
+                }
+            ],
+            [
+                {
+                    "country": "MAR",
+                    "name": "Malak LAKHAL"
+                },
+                {
+                    "country": "MAR",
+                    "name": "Saida EDBALI"
+                },
+                {
+                    "winner": "Malak LAKHAL"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Yasmine HARISS",
+            "Malak LAKHAL"
+        ]
+    },
+    "REPECHAGE": {
+        "round 1-1": [
+            [
+                {
+                    "country": "MAR",
+                    "name": "Yosra EL MAALLEM"
+                },
+                {
+                    "country": "MAR",
+                    "name": "Saida EDBALI"
+                },
+                {
+                    "winner": "Saida EDBALI"
+                }
+            ],
+            [
+                {
+                    "country": "MAR",
+                    "name": "Saida EDBALI"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Saida EDBALI"
+        ]
+    },
+    "FINALS": {
+        "round 1-1": [],
+        "final_winners": [
+            "Yasmine HARISS"
+        ]
+    }
+}

@@ -1,0 +1,134 @@
+{
+    "POOL A": {
+        "round 1-1": [
+            [
+                {
+                    "country": "AUS",
+                    "name": "Bryan JOLLY"
+                },
+                {
+                    "country": "AUS",
+                    "name": "Zachary COLMAN"
+                }
+            ]
+        ],
+        "final_winner": "Bryan JOLLY"
+    },
+    "POOL B": {
+        "round 1-1": [
+            [
+                {
+                    "country": "AUS",
+                    "name": "Caleb BOYD"
+                },
+                {
+                    "country": "AUS",
+                    "name": "David JONES"
+                }
+            ]
+        ],
+        "final_winner": "Caleb BOYD"
+    },
+    "POOL C": {
+        "round 1-1": [
+            [
+                {
+                    "country": "AUS",
+                    "name": "James ZAHRA"
+                },
+                {
+                    "country": "AUS",
+                    "name": "Michael WEBSTER"
+                }
+            ]
+        ],
+        "final_winner": "James ZAHRA"
+    },
+    "POOL D": {
+        "round 1-1": [
+            [
+                {
+                    "country": "AUS",
+                    "name": "Owen ROBERTS MOK"
+                },
+                {
+                    "country": "AUS",
+                    "name": "Elias MURRAY"
+                }
+            ]
+        ],
+        "final_winner": "Owen ROBERTS MOK"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "AUS",
+                    "name": "Zachary COLMAN"
+                },
+                {
+                    "country": "AUS",
+                    "name": "David JONES"
+                },
+                {
+                    "winner": "Zachary COLMAN"
+                }
+            ],
+            [
+                {
+                    "country": "AUS",
+                    "name": "Michael WEBSTER"
+                },
+                {
+                    "country": "AUS",
+                    "name": "Elias MURRAY"
+                },
+                {
+                    "winner": "Michael WEBSTER"
+                }
+            ],
+            [
+                {
+                    "country": "AUS",
+                    "name": "Zachary COLMAN"
+                },
+                {
+                    "country": "AUS",
+                    "name": "Owen ROBERTS MOK"
+                },
+                {
+                    "winner": "Owen ROBERTS MOK"
+                }
+            ],
+            [
+                {
+                    "country": "AUS",
+                    "name": "Michael WEBSTER"
+                },
+                {
+                    "country": "AUS",
+                    "name": "Caleb BOYD"
+                },
+                {
+                    "winner": "Caleb BOYD"
+                }
+            ],
+            [
+                {
+                    "country": "AUS",
+                    "name": "Owen ROBERTS MOK"
+                }
+            ],
+            [
+                {
+                    "country": "AUS",
+                    "name": "Caleb BOYD"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Owen ROBERTS MOK",
+            "Caleb BOYD"
+        ]
+    }
+}

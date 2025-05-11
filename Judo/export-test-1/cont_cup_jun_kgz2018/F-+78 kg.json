@@ -1,0 +1,261 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "KAZ",
+                    "name": "Kamila BERLIKASH"
+                },
+                {
+                    "winner": "Kamila BERLIKASH"
+                }
+            ],
+            []
+        ],
+        "round 1-1": [],
+        "final_winner": "Kamila BERLIKASH"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ZIM",
+                    "name": "Christi-Rose PRETORIUS"
+                },
+                {
+                    "winner": "Christi-Rose PRETORIUS"
+                }
+            ],
+            [
+                {
+                    "country": "KAZ",
+                    "name": "Gulida KOBEY"
+                },
+                {
+                    "winner": "Gulida KOBEY"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "ZIM",
+                    "name": "Christi-Rose PRETORIUS"
+                },
+                {
+                    "country": "KAZ",
+                    "name": "Gulida KOBEY"
+                }
+            ]
+        ],
+        "final_winner": "Christi-Rose PRETORIUS"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "KGZ",
+                    "name": "Kristina NEZHNIKOVA"
+                },
+                {
+                    "winner": "Kristina NEZHNIKOVA"
+                }
+            ],
+            [
+                {
+                    "country": "RUS",
+                    "name": "Svetlana SELEZNEVA"
+                },
+                {
+                    "winner": "Svetlana SELEZNEVA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "KGZ",
+                    "name": "Kristina NEZHNIKOVA"
+                },
+                {
+                    "country": "RUS",
+                    "name": "Svetlana SELEZNEVA"
+                }
+            ]
+        ],
+        "final_winner": "Svetlana SELEZNEVA"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "UZB",
+                    "name": "Rinata ILMATOVA"
+                },
+                {
+                    "winner": "Rinata ILMATOVA"
+                }
+            ],
+            [
+                {
+                    "country": "KGZ",
+                    "name": "Daiana MINALIEVA"
+                },
+                {
+                    "winner": "Daiana MINALIEVA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "UZB",
+                    "name": "Rinata ILMATOVA"
+                },
+                {
+                    "country": "KGZ",
+                    "name": "Daiana MINALIEVA"
+                }
+            ]
+        ],
+        "final_winner": "Rinata ILMATOVA"
+    },
+    "REPECHAGE": {
+        "round 1-4": [
+            [],
+            [
+                {
+                    "country": "KAZ",
+                    "name": "Gulida KOBEY"
+                },
+                {
+                    "winner": "Gulida KOBEY"
+                }
+            ],
+            [
+                {
+                    "country": "KGZ",
+                    "name": "Kristina NEZHNIKOVA"
+                },
+                {
+                    "winner": "Kristina NEZHNIKOVA"
+                }
+            ],
+            [
+                {
+                    "country": "KGZ",
+                    "name": "Daiana MINALIEVA"
+                },
+                {
+                    "winner": "Daiana MINALIEVA"
+                }
+            ]
+        ],
+        "round 1-2": [
+            [
+                {
+                    "country": "KAZ",
+                    "name": "Gulida KOBEY"
+                }
+            ],
+            [
+                {
+                    "country": "KGZ",
+                    "name": "Kristina NEZHNIKOVA"
+                },
+                {
+                    "country": "KGZ",
+                    "name": "Daiana MINALIEVA"
+                },
+                {
+                    "winner": "Daiana MINALIEVA"
+                }
+            ],
+            [
+                {
+                    "country": "KAZ",
+                    "name": "Gulida KOBEY"
+                },
+                {
+                    "country": "UZB",
+                    "name": "Rinata ILMATOVA"
+                },
+                {
+                    "winner": "Rinata ILMATOVA"
+                }
+            ],
+            [
+                {
+                    "country": "KGZ",
+                    "name": "Daiana MINALIEVA"
+                },
+                {
+                    "country": "ZIM",
+                    "name": "Christi-Rose PRETORIUS"
+                },
+                {
+                    "winner": "Christi-Rose PRETORIUS"
+                }
+            ],
+            [
+                {
+                    "country": "UZB",
+                    "name": "Rinata ILMATOVA"
+                }
+            ],
+            [
+                {
+                    "country": "ZIM",
+                    "name": "Christi-Rose PRETORIUS"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Rinata ILMATOVA",
+            "Christi-Rose PRETORIUS"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "KAZ",
+                    "name": "Kamila BERLIKASH"
+                },
+                {
+                    "country": "ZIM",
+                    "name": "Christi-Rose PRETORIUS"
+                },
+                {
+                    "winner": "Kamila BERLIKASH"
+                }
+            ],
+            [
+                {
+                    "country": "RUS",
+                    "name": "Svetlana SELEZNEVA"
+                },
+                {
+                    "country": "UZB",
+                    "name": "Rinata ILMATOVA"
+                },
+                {
+                    "winner": "Svetlana SELEZNEVA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "KAZ",
+                    "name": "Kamila BERLIKASH"
+                },
+                {
+                    "country": "RUS",
+                    "name": "Svetlana SELEZNEVA"
+                }
+            ]
+        ],
+        "final_winner": "Kamila BERLIKASH"
+    }
+}

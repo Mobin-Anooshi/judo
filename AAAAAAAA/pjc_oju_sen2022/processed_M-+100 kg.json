@@ -1,0 +1,269 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Rafael SILVA"
+                },
+                {
+                    "winner": "Rafael SILVA"
+                }
+            ],
+            [
+                {
+                    "country": "AUS",
+                    "name": "Liam PARK"
+                },
+                {
+                    "country": "CHI",
+                    "name": "Francisco SOLIS"
+                },
+                {
+                    "winner": "Francisco SOLIS"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Rafael SILVA"
+                },
+                {
+                    "country": "CHI",
+                    "name": "Francisco SOLIS"
+                }
+            ]
+        ],
+        "final_winner": "Rafael SILVA"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "USA",
+                    "name": "Christian KONOVAL"
+                },
+                {
+                    "winner": "Christian KONOVAL"
+                }
+            ],
+            [
+                {
+                    "country": "ECU",
+                    "name": "Freddy FIGUEROA"
+                },
+                {
+                    "winner": "Freddy FIGUEROA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "USA",
+                    "name": "Christian KONOVAL"
+                },
+                {
+                    "country": "ECU",
+                    "name": "Freddy FIGUEROA"
+                }
+            ]
+        ],
+        "final_winner": "Christian KONOVAL"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CUB",
+                    "name": "Andy GRANDA"
+                },
+                {
+                    "winner": "Andy GRANDA"
+                }
+            ],
+            [
+                {
+                    "country": "NZL",
+                    "name": "Kody ANDREWS"
+                },
+                {
+                    "country": "JAM",
+                    "name": "Steven MOORE"
+                },
+                {
+                    "winner": "Kody ANDREWS"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "CUB",
+                    "name": "Andy GRANDA"
+                },
+                {
+                    "country": "NZL",
+                    "name": "Kody ANDREWS"
+                }
+            ]
+        ],
+        "final_winner": "Andy GRANDA"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CAN",
+                    "name": "Marc DESCHENES"
+                },
+                {
+                    "winner": "Marc DESCHENES"
+                }
+            ],
+            [
+                {
+                    "country": "MEX",
+                    "name": "Sergio DEL SOL"
+                },
+                {
+                    "country": "ARG",
+                    "name": "Alejo BURGOS"
+                },
+                {
+                    "winner": "Sergio DEL SOL"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "CAN",
+                    "name": "Marc DESCHENES"
+                },
+                {
+                    "country": "MEX",
+                    "name": "Sergio DEL SOL"
+                }
+            ]
+        ],
+        "final_winner": "Marc DESCHENES"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CHI",
+                    "name": "Francisco SOLIS"
+                },
+                {
+                    "country": "ECU",
+                    "name": "Freddy FIGUEROA"
+                },
+                {
+                    "winner": "Francisco SOLIS"
+                }
+            ],
+            [
+                {
+                    "country": "NZL",
+                    "name": "Kody ANDREWS"
+                },
+                {
+                    "country": "MEX",
+                    "name": "Sergio DEL SOL"
+                },
+                {
+                    "winner": "Sergio DEL SOL"
+                }
+            ],
+            [
+                {
+                    "country": "CHI",
+                    "name": "Francisco SOLIS"
+                },
+                {
+                    "country": "CAN",
+                    "name": "Marc DESCHENES"
+                },
+                {
+                    "winner": "Francisco SOLIS"
+                }
+            ],
+            [
+                {
+                    "country": "MEX",
+                    "name": "Sergio DEL SOL"
+                },
+                {
+                    "country": "USA",
+                    "name": "Christian KONOVAL"
+                },
+                {
+                    "winner": "Christian KONOVAL"
+                }
+            ],
+            [
+                {
+                    "country": "CHI",
+                    "name": "Francisco SOLIS"
+                }
+            ],
+            [
+                {
+                    "country": "USA",
+                    "name": "Christian KONOVAL"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Francisco SOLIS",
+            "Christian KONOVAL"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Rafael SILVA"
+                },
+                {
+                    "country": "USA",
+                    "name": "Christian KONOVAL"
+                },
+                {
+                    "winner": "Rafael SILVA"
+                }
+            ],
+            [
+                {
+                    "country": "CUB",
+                    "name": "Andy GRANDA"
+                },
+                {
+                    "country": "CAN",
+                    "name": "Marc DESCHENES"
+                },
+                {
+                    "winner": "Andy GRANDA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Rafael SILVA"
+                },
+                {
+                    "country": "CUB",
+                    "name": "Andy GRANDA"
+                }
+            ]
+        ],
+        "final_winner": "Andy GRANDA"
+    }
+}

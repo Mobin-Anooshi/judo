@@ -1,0 +1,295 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "FRA",
+                    "name": "Morgane ANNIS"
+                },
+                {
+                    "winner": "Morgane ANNIS"
+                }
+            ],
+            [
+                {
+                    "country": "GEO",
+                    "name": "Marika POTELIDZE"
+                },
+                {
+                    "winner": "Marika POTELIDZE"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "FRA",
+                    "name": "Morgane ANNIS"
+                },
+                {
+                    "country": "GEO",
+                    "name": "Marika POTELIDZE"
+                }
+            ]
+        ],
+        "final_winner": "Morgane ANNIS"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "HUN",
+                    "name": "Szabina SZELECZKI"
+                },
+                {
+                    "winner": "Szabina SZELECZKI"
+                }
+            ],
+            [
+                {
+                    "country": "FRA",
+                    "name": "Maia PECQUEUX"
+                },
+                {
+                    "winner": "Maia PECQUEUX"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "HUN",
+                    "name": "Szabina SZELECZKI"
+                },
+                {
+                    "country": "FRA",
+                    "name": "Maia PECQUEUX"
+                }
+            ]
+        ],
+        "final_winner": "Szabina SZELECZKI"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CZE",
+                    "name": "Marketa KORCAKOVA"
+                },
+                {
+                    "winner": "Marketa KORCAKOVA"
+                }
+            ],
+            [
+                {
+                    "country": "POL",
+                    "name": "Oliwia KOZUCH"
+                },
+                {
+                    "winner": "Oliwia KOZUCH"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "CZE",
+                    "name": "Marketa KORCAKOVA"
+                },
+                {
+                    "country": "POL",
+                    "name": "Oliwia KOZUCH"
+                }
+            ]
+        ],
+        "final_winner": "Marketa KORCAKOVA"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "UKR",
+                    "name": "Marharyta MIROSHNICHENKO"
+                },
+                {
+                    "winner": "Marharyta MIROSHNICHENKO"
+                }
+            ],
+            [
+                {
+                    "country": "GER",
+                    "name": "Frida REISZ"
+                },
+                {
+                    "winner": "Frida REISZ"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "UKR",
+                    "name": "Marharyta MIROSHNICHENKO"
+                },
+                {
+                    "country": "GER",
+                    "name": "Frida REISZ"
+                }
+            ]
+        ],
+        "final_winner": "Frida REISZ"
+    },
+    "REPECHAGE": {
+        "round 1-4": [
+            [
+                {
+                    "country": "GEO",
+                    "name": "Marika POTELIDZE"
+                },
+                {
+                    "winner": "Marika POTELIDZE"
+                }
+            ],
+            [
+                {
+                    "country": "FRA",
+                    "name": "Maia PECQUEUX"
+                },
+                {
+                    "winner": "Maia PECQUEUX"
+                }
+            ],
+            [
+                {
+                    "country": "POL",
+                    "name": "Oliwia KOZUCH"
+                },
+                {
+                    "winner": "Oliwia KOZUCH"
+                }
+            ],
+            [
+                {
+                    "country": "UKR",
+                    "name": "Marharyta MIROSHNICHENKO"
+                },
+                {
+                    "winner": "Marharyta MIROSHNICHENKO"
+                }
+            ]
+        ],
+        "round 1-2": [
+            [
+                {
+                    "country": "GEO",
+                    "name": "Marika POTELIDZE"
+                },
+                {
+                    "country": "FRA",
+                    "name": "Maia PECQUEUX"
+                },
+                {
+                    "winner": "Maia PECQUEUX"
+                }
+            ],
+            [
+                {
+                    "country": "POL",
+                    "name": "Oliwia KOZUCH"
+                },
+                {
+                    "country": "UKR",
+                    "name": "Marharyta MIROSHNICHENKO"
+                },
+                {
+                    "winner": "Marharyta MIROSHNICHENKO"
+                }
+            ],
+            [
+                {
+                    "country": "FRA",
+                    "name": "Maia PECQUEUX"
+                },
+                {
+                    "country": "GER",
+                    "name": "Frida REISZ"
+                },
+                {
+                    "winner": "Maia PECQUEUX"
+                }
+            ],
+            [
+                {
+                    "country": "UKR",
+                    "name": "Marharyta MIROSHNICHENKO"
+                },
+                {
+                    "country": "HUN",
+                    "name": "Szabina SZELECZKI"
+                },
+                {
+                    "winner": "Marharyta MIROSHNICHENKO"
+                }
+            ],
+            [
+                {
+                    "country": "FRA",
+                    "name": "Maia PECQUEUX"
+                }
+            ],
+            [
+                {
+                    "country": "UKR",
+                    "name": "Marharyta MIROSHNICHENKO"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Maia PECQUEUX",
+            "Marharyta MIROSHNICHENKO"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "FRA",
+                    "name": "Morgane ANNIS"
+                },
+                {
+                    "country": "HUN",
+                    "name": "Szabina SZELECZKI"
+                },
+                {
+                    "winner": "Morgane ANNIS"
+                }
+            ],
+            [
+                {
+                    "country": "CZE",
+                    "name": "Marketa KORCAKOVA"
+                },
+                {
+                    "country": "GER",
+                    "name": "Frida REISZ"
+                },
+                {
+                    "winner": "Marketa KORCAKOVA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "FRA",
+                    "name": "Morgane ANNIS"
+                },
+                {
+                    "country": "CZE",
+                    "name": "Marketa KORCAKOVA"
+                }
+            ]
+        ],
+        "final_winner": "Morgane ANNIS"
+    }
+}

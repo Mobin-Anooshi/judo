@@ -1,0 +1,289 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Rafael MACEDO"
+                },
+                {
+                    "country": "COL",
+                    "name": "Jairo VARGAS"
+                },
+                {
+                    "winner": "Rafael MACEDO"
+                }
+            ],
+            [
+                {
+                    "country": "CHI",
+                    "name": "Sandro BOTTO"
+                },
+                {
+                    "country": "COL",
+                    "name": "Jhon Jairo HENAO"
+                },
+                {
+                    "winner": "Sandro BOTTO"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Rafael MACEDO"
+                },
+                {
+                    "country": "CHI",
+                    "name": "Sandro BOTTO"
+                }
+            ]
+        ],
+        "final_winner": "Rafael MACEDO"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "VEN",
+                    "name": "Carlos PAEZ"
+                },
+                {
+                    "country": "COL",
+                    "name": "Jose WRIGHT"
+                },
+                {
+                    "winner": "Carlos PAEZ"
+                }
+            ],
+            [
+                {
+                    "country": "CHI",
+                    "name": "Daniel ARANCIBIA"
+                },
+                {
+                    "country": "COL",
+                    "name": "Lucas GUERRERO VARGAS"
+                },
+                {
+                    "winner": "Daniel ARANCIBIA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "VEN",
+                    "name": "Carlos PAEZ"
+                },
+                {
+                    "country": "CHI",
+                    "name": "Daniel ARANCIBIA"
+                }
+            ]
+        ],
+        "final_winner": "Carlos PAEZ"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "COL",
+                    "name": "Daniel PAZ ALBARRACIN"
+                },
+                {
+                    "country": "CHI",
+                    "name": "Sebastian ESPARZA"
+                },
+                {
+                    "winner": "Daniel PAZ ALBARRACIN"
+                }
+            ],
+            [
+                {
+                    "country": "COL",
+                    "name": "Eder Antonio QUINONES"
+                },
+                {
+                    "country": "DOM",
+                    "name": "Derick Manuel BURGOS ROSSO"
+                },
+                {
+                    "winner": "Eder Antonio QUINONES"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "COL",
+                    "name": "Daniel PAZ ALBARRACIN"
+                },
+                {
+                    "country": "COL",
+                    "name": "Eder Antonio QUINONES"
+                }
+            ]
+        ],
+        "final_winner": "Daniel PAZ ALBARRACIN"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "MEX",
+                    "name": "Angel GARCIA"
+                },
+                {
+                    "country": "COL",
+                    "name": "Emmanuel QUIROZ GARCIA"
+                },
+                {
+                    "winner": "Angel GARCIA"
+                }
+            ],
+            [
+                {
+                    "country": "PAR",
+                    "name": "Angel Antonio GINI"
+                },
+                {
+                    "country": "COL",
+                    "name": "Carlos BONILLA GONGORA"
+                },
+                {
+                    "winner": "Carlos BONILLA GONGORA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "MEX",
+                    "name": "Angel GARCIA"
+                },
+                {
+                    "country": "COL",
+                    "name": "Carlos BONILLA GONGORA"
+                }
+            ]
+        ],
+        "final_winner": "Angel GARCIA"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CHI",
+                    "name": "Sandro BOTTO"
+                },
+                {
+                    "country": "CHI",
+                    "name": "Daniel ARANCIBIA"
+                },
+                {
+                    "winner": "Daniel ARANCIBIA"
+                }
+            ],
+            [
+                {
+                    "country": "COL",
+                    "name": "Eder Antonio QUINONES"
+                },
+                {
+                    "country": "COL",
+                    "name": "Carlos BONILLA GONGORA"
+                },
+                {
+                    "winner": "Carlos BONILLA GONGORA"
+                }
+            ],
+            [
+                {
+                    "country": "CHI",
+                    "name": "Daniel ARANCIBIA"
+                },
+                {
+                    "country": "MEX",
+                    "name": "Angel GARCIA"
+                },
+                {
+                    "winner": "Angel GARCIA"
+                }
+            ],
+            [
+                {
+                    "country": "COL",
+                    "name": "Carlos BONILLA GONGORA"
+                },
+                {
+                    "country": "VEN",
+                    "name": "Carlos PAEZ"
+                },
+                {
+                    "winner": "Carlos PAEZ"
+                }
+            ],
+            [
+                {
+                    "country": "MEX",
+                    "name": "Angel GARCIA"
+                }
+            ],
+            [
+                {
+                    "country": "VEN",
+                    "name": "Carlos PAEZ"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Angel GARCIA",
+            "Carlos PAEZ"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Rafael MACEDO"
+                },
+                {
+                    "country": "VEN",
+                    "name": "Carlos PAEZ"
+                },
+                {
+                    "winner": "Rafael MACEDO"
+                }
+            ],
+            [
+                {
+                    "country": "COL",
+                    "name": "Daniel PAZ ALBARRACIN"
+                },
+                {
+                    "country": "MEX",
+                    "name": "Angel GARCIA"
+                },
+                {
+                    "winner": "Daniel PAZ ALBARRACIN"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Rafael MACEDO"
+                },
+                {
+                    "country": "COL",
+                    "name": "Daniel PAZ ALBARRACIN"
+                }
+            ]
+        ],
+        "final_winner": "Rafael MACEDO"
+    }
+}

@@ -1,0 +1,159 @@
+{
+    "POOL A": {
+        "round 1-1": [
+            [
+                {
+                    "country": "BDI",
+                    "name": "Franck MUGISHA"
+                },
+                {
+                    "country": "KEN",
+                    "name": "Abdulrahman GOBWE"
+                }
+            ]
+        ],
+        "final_winner": "Franck MUGISHA"
+    },
+    "POOL B": {
+        "round 1-1": [
+            [
+                {
+                    "country": "EGY",
+                    "name": "Marawan SALEM"
+                },
+                {
+                    "country": "COM",
+                    "name": "El-Fayed HASSANI"
+                }
+            ]
+        ],
+        "final_winner": "Marawan SALEM"
+    },
+    "POOL C": {
+        "round 1-1": [],
+        "final_winner": "Francis MASSAQUOI"
+    },
+    "POOL D": {
+        "round 1-1": [
+            [
+                {
+                    "country": "RSA",
+                    "name": "Llewellyn JONES"
+                },
+                {
+                    "country": "EGY",
+                    "name": "Yassin SABRAH"
+                }
+            ]
+        ],
+        "final_winner": "Yassin SABRAH"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "KEN",
+                    "name": "Abdulrahman GOBWE"
+                },
+                {
+                    "country": "COM",
+                    "name": "El-Fayed HASSANI"
+                },
+                {
+                    "winner": "Abdulrahman GOBWE"
+                }
+            ],
+            [
+                {
+                    "country": "RSA",
+                    "name": "Llewellyn JONES"
+                }
+            ],
+            [
+                {
+                    "country": "KEN",
+                    "name": "Abdulrahman GOBWE"
+                },
+                {
+                    "country": "SLE",
+                    "name": "Francis MASSAQUOI"
+                },
+                {
+                    "winner": "Abdulrahman GOBWE"
+                }
+            ],
+            [
+                {
+                    "country": "RSA",
+                    "name": "Llewellyn JONES"
+                },
+                {
+                    "country": "BDI",
+                    "name": "Franck MUGISHA"
+                },
+                {
+                    "winner": "Franck MUGISHA"
+                }
+            ],
+            [
+                {
+                    "country": "KEN",
+                    "name": "Abdulrahman GOBWE"
+                }
+            ],
+            [
+                {
+                    "country": "BDI",
+                    "name": "Franck MUGISHA"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Abdulrahman GOBWE",
+            "Franck MUGISHA"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "BDI",
+                    "name": "Franck MUGISHA"
+                },
+                {
+                    "country": "EGY",
+                    "name": "Marawan SALEM"
+                },
+                {
+                    "winner": "Marawan SALEM"
+                }
+            ],
+            [
+                {
+                    "country": "SLE",
+                    "name": "Francis MASSAQUOI"
+                },
+                {
+                    "country": "EGY",
+                    "name": "Yassin SABRAH"
+                },
+                {
+                    "winner": "Yassin SABRAH"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "EGY",
+                    "name": "Marawan SALEM"
+                },
+                {
+                    "country": "EGY",
+                    "name": "Yassin SABRAH"
+                }
+            ]
+        ],
+        "final_winner": "Yassin SABRAH"
+    }
+}

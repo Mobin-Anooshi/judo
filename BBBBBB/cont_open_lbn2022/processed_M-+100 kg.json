@@ -1,0 +1,159 @@
+{
+    "POOL A": {
+        "round 1-1": [],
+        "final_winner": "Panagiotis PAPANIKOLAOU"
+    },
+    "POOL B": {
+        "round 1-1": [
+            [
+                {
+                    "country": "LBN",
+                    "name": "Hanna TOUMA"
+                },
+                {
+                    "country": "LBN",
+                    "name": "Doumit MATAR"
+                }
+            ]
+        ],
+        "final_winner": "Hanna TOUMA"
+    },
+    "POOL C": {
+        "round 1-1": [
+            [
+                {
+                    "country": "LBN",
+                    "name": "Nacif ELIAS"
+                },
+                {
+                    "country": "KUW",
+                    "name": "Hamad ALRASHED"
+                }
+            ]
+        ],
+        "final_winner": "Nacif ELIAS"
+    },
+    "POOL D": {
+        "round 1-1": [
+            [
+                {
+                    "country": "LBN",
+                    "name": "Chadi GHOLMIAH"
+                },
+                {
+                    "country": "SYR",
+                    "name": "osama HEBA"
+                }
+            ]
+        ],
+        "final_winner": "Chadi GHOLMIAH"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "LBN",
+                    "name": "Doumit MATAR"
+                }
+            ],
+            [
+                {
+                    "country": "KUW",
+                    "name": "Hamad ALRASHED"
+                },
+                {
+                    "country": "SYR",
+                    "name": "osama HEBA"
+                },
+                {
+                    "winner": "Hamad ALRASHED"
+                }
+            ],
+            [
+                {
+                    "country": "LBN",
+                    "name": "Doumit MATAR"
+                },
+                {
+                    "country": "LBN",
+                    "name": "Chadi GHOLMIAH"
+                },
+                {
+                    "winner": "Chadi GHOLMIAH"
+                }
+            ],
+            [
+                {
+                    "country": "KUW",
+                    "name": "Hamad ALRASHED"
+                },
+                {
+                    "country": "LBN",
+                    "name": "Hanna TOUMA"
+                },
+                {
+                    "winner": "Hamad ALRASHED"
+                }
+            ],
+            [
+                {
+                    "country": "LBN",
+                    "name": "Chadi GHOLMIAH"
+                }
+            ],
+            [
+                {
+                    "country": "KUW",
+                    "name": "Hamad ALRASHED"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Chadi GHOLMIAH",
+            "Hamad ALRASHED"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "GRE",
+                    "name": "Panagiotis PAPANIKOLAOU"
+                },
+                {
+                    "country": "LBN",
+                    "name": "Hanna TOUMA"
+                },
+                {
+                    "winner": "Panagiotis PAPANIKOLAOU"
+                }
+            ],
+            [
+                {
+                    "country": "LBN",
+                    "name": "Nacif ELIAS"
+                },
+                {
+                    "country": "LBN",
+                    "name": "Chadi GHOLMIAH"
+                },
+                {
+                    "winner": "Nacif ELIAS"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "GRE",
+                    "name": "Panagiotis PAPANIKOLAOU"
+                },
+                {
+                    "country": "LBN",
+                    "name": "Nacif ELIAS"
+                }
+            ]
+        ],
+        "final_winner": "Nacif ELIAS"
+    }
+}

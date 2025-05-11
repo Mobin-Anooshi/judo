@@ -1,0 +1,238 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ESP",
+                    "name": "Lidia YARZA"
+                },
+                {
+                    "winner": "Lidia YARZA"
+                }
+            ],
+            [
+                {
+                    "country": "BUL",
+                    "name": "Leman GICHMEN"
+                },
+                {
+                    "winner": "Leman GICHMEN"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "ESP",
+                    "name": "Lidia YARZA"
+                },
+                {
+                    "country": "BUL",
+                    "name": "Leman GICHMEN"
+                }
+            ],
+            [
+                {
+                    "country": "ESP",
+                    "name": "Lidia YARZA"
+                }
+            ]
+        ]
+    },
+    "POOL B": {
+        "round 1-2": [
+            [],
+            [
+                {
+                    "country": "ISR",
+                    "name": "Shoshana KAHLON"
+                },
+                {
+                    "winner": "Shoshana KAHLON"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "ISR",
+                    "name": "Shoshana KAHLON"
+                }
+            ]
+        ]
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "TUR",
+                    "name": "Meryem KEKLIK"
+                },
+                {
+                    "winner": "Meryem KEKLIK"
+                }
+            ],
+            []
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "TUR",
+                    "name": "Meryem KEKLIK"
+                }
+            ]
+        ]
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ISR",
+                    "name": "Agustina belen GONZALEZ"
+                },
+                {
+                    "winner": "Agustina belen GONZALEZ"
+                }
+            ],
+            [
+                {
+                    "country": "ITA",
+                    "name": "Maria VITOLO"
+                },
+                {
+                    "winner": "Maria VITOLO"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "ISR",
+                    "name": "Agustina belen GONZALEZ"
+                },
+                {
+                    "country": "ITA",
+                    "name": "Maria VITOLO"
+                }
+            ],
+            [
+                {
+                    "country": "ISR",
+                    "name": "Agustina belen GONZALEZ"
+                }
+            ]
+        ]
+    },
+    "REPECHAGE": {
+        "round 1-4": [
+            [
+                {
+                    "country": "BUL",
+                    "name": "Leman GICHMEN"
+                },
+                {
+                    "winner": "Leman GICHMEN"
+                }
+            ],
+            [],
+            [],
+            [
+                {
+                    "country": "ITA",
+                    "name": "Maria VITOLO"
+                },
+                {
+                    "winner": "Maria VITOLO"
+                }
+            ]
+        ],
+        "round 1-2": [
+            [
+                {
+                    "country": "BUL",
+                    "name": "Leman GICHMEN"
+                }
+            ],
+            [
+                {
+                    "country": "ITA",
+                    "name": "Maria VITOLO"
+                }
+            ],
+            [
+                {
+                    "country": "BUL",
+                    "name": "Leman GICHMEN"
+                },
+                {
+                    "country": "TUR",
+                    "name": "Meryem KEKLIK"
+                }
+            ],
+            [
+                {
+                    "country": "ITA",
+                    "name": "Maria VITOLO"
+                },
+                {
+                    "country": "ISR",
+                    "name": "Shoshana KAHLON"
+                }
+            ],
+            [
+                {
+                    "country": "ISR",
+                    "name": "Shoshana KAHLON"
+                }
+            ]
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ESP",
+                    "name": "Lidia YARZA"
+                },
+                {
+                    "country": "ISR",
+                    "name": "Shoshana KAHLON"
+                },
+                {
+                    "winner": "Lidia YARZA"
+                }
+            ],
+            [
+                {
+                    "country": "TUR",
+                    "name": "Meryem KEKLIK"
+                },
+                {
+                    "country": "ISR",
+                    "name": "Agustina belen GONZALEZ"
+                },
+                {
+                    "winner": "Agustina belen GONZALEZ"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "ESP",
+                    "name": "Lidia YARZA"
+                },
+                {
+                    "country": "ISR",
+                    "name": "Agustina belen GONZALEZ"
+                }
+            ],
+            [
+                {
+                    "country": "ESP",
+                    "name": "Lidia YARZA"
+                }
+            ]
+        ]
+    }
+}

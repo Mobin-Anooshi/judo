@@ -1,0 +1,205 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "HKG",
+                    "name": "Annie LAU"
+                },
+                {
+                    "winner": "Annie LAU"
+                }
+            ],
+            [
+                {
+                    "country": "TPE",
+                    "name": "Hsiu-ju CHUANG"
+                },
+                {
+                    "winner": "Hsiu-ju CHUANG"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "HKG",
+                    "name": "Annie LAU"
+                },
+                {
+                    "country": "TPE",
+                    "name": "Hsiu-ju CHUANG"
+                }
+            ]
+        ],
+        "final_winner": "Annie LAU"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [],
+            [
+                {
+                    "country": "CHN",
+                    "name": "Bingbing HE"
+                },
+                {
+                    "winner": "Bingbing HE"
+                }
+            ]
+        ],
+        "round 1-1": [],
+        "final_winner": "Bingbing HE"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "TPE",
+                    "name": "Guan-Yun LIN"
+                },
+                {
+                    "winner": "Guan-Yun LIN"
+                }
+            ],
+            [
+                {
+                    "country": "HKG",
+                    "name": "Ka Lee WONG"
+                },
+                {
+                    "winner": "Ka Lee WONG"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "TPE",
+                    "name": "Guan-Yun LIN"
+                },
+                {
+                    "country": "HKG",
+                    "name": "Ka Lee WONG"
+                }
+            ]
+        ],
+        "final_winner": "Guan-Yun LIN"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [],
+            [
+                {
+                    "country": "MAC",
+                    "name": "Hang Io AO IEONG"
+                },
+                {
+                    "winner": "Hang Io AO IEONG"
+                }
+            ]
+        ],
+        "round 1-1": [],
+        "final_winner": "Hang Io AO IEONG"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "TPE",
+                    "name": "Hsiu-ju CHUANG"
+                }
+            ],
+            [
+                {
+                    "country": "HKG",
+                    "name": "Ka Lee WONG"
+                }
+            ],
+            [
+                {
+                    "country": "TPE",
+                    "name": "Hsiu-ju CHUANG"
+                },
+                {
+                    "country": "MAC",
+                    "name": "Hang Io AO IEONG"
+                },
+                {
+                    "winner": "Hang Io AO IEONG"
+                }
+            ],
+            [
+                {
+                    "country": "HKG",
+                    "name": "Ka Lee WONG"
+                },
+                {
+                    "country": "HKG",
+                    "name": "Annie LAU"
+                },
+                {
+                    "winner": "Annie LAU"
+                }
+            ],
+            [
+                {
+                    "country": "MAC",
+                    "name": "Hang Io AO IEONG"
+                }
+            ],
+            [
+                {
+                    "country": "HKG",
+                    "name": "Annie LAU"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Hang Io AO IEONG",
+            "Annie LAU"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "HKG",
+                    "name": "Annie LAU"
+                },
+                {
+                    "country": "CHN",
+                    "name": "Bingbing HE"
+                },
+                {
+                    "winner": "Bingbing HE"
+                }
+            ],
+            [
+                {
+                    "country": "TPE",
+                    "name": "Guan-Yun LIN"
+                },
+                {
+                    "country": "MAC",
+                    "name": "Hang Io AO IEONG"
+                },
+                {
+                    "winner": "Guan-Yun LIN"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "CHN",
+                    "name": "Bingbing HE"
+                },
+                {
+                    "country": "TPE",
+                    "name": "Guan-Yun LIN"
+                }
+            ]
+        ],
+        "final_winner": "Bingbing HE"
+    }
+}

@@ -1,0 +1,340 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CZE",
+                    "name": "David DUDY"
+                },
+                {
+                    "winner": "David DUDY"
+                }
+            ],
+            [
+                {
+                    "country": "MNE",
+                    "name": "Petar GORANOVIC"
+                },
+                {
+                    "country": "SVK",
+                    "name": "Timotej STEFANIK"
+                },
+                {
+                    "winner": "Timotej STEFANIK"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "CZE",
+                    "name": "David DUDY"
+                },
+                {
+                    "country": "SVK",
+                    "name": "Timotej STEFANIK"
+                }
+            ],
+            [
+                {
+                    "country": "CZE",
+                    "name": "David DUDY"
+                }
+            ]
+        ]
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "UKR",
+                    "name": "Kariim NURIIEV"
+                },
+                {
+                    "country": "LTU",
+                    "name": "Denis MAKSIMOV"
+                },
+                {
+                    "winner": "Kariim NURIIEV"
+                }
+            ],
+            [
+                {
+                    "country": "SRB",
+                    "name": "Stefan SIMIC"
+                },
+                {
+                    "country": "SLO",
+                    "name": "Vid KAVNIK"
+                },
+                {
+                    "winner": "Vid KAVNIK"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "UKR",
+                    "name": "Kariim NURIIEV"
+                },
+                {
+                    "country": "SLO",
+                    "name": "Vid KAVNIK"
+                }
+            ],
+            [
+                {
+                    "country": "UKR",
+                    "name": "Kariim NURIIEV"
+                }
+            ]
+        ]
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "POL",
+                    "name": "Jakub BOGDANIUK"
+                },
+                {
+                    "winner": "Jakub BOGDANIUK"
+                }
+            ],
+            [
+                {
+                    "country": "MNE",
+                    "name": "Andrija MARTINOVIC"
+                },
+                {
+                    "country": "HUN",
+                    "name": "Peter KENDERESI"
+                },
+                {
+                    "winner": "Peter KENDERESI"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "POL",
+                    "name": "Jakub BOGDANIUK"
+                },
+                {
+                    "country": "HUN",
+                    "name": "Peter KENDERESI"
+                }
+            ],
+            [
+                {
+                    "country": "HUN",
+                    "name": "Peter KENDERESI"
+                }
+            ]
+        ]
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "SLO",
+                    "name": "Gal BERTALANIC ZIZEK"
+                },
+                {
+                    "country": "CAN",
+                    "name": "Norman BRAZHNYK"
+                },
+                {
+                    "winner": "Gal BERTALANIC ZIZEK"
+                }
+            ],
+            [
+                {
+                    "country": "SRB",
+                    "name": "Ognjen DJURISIC"
+                },
+                {
+                    "country": "CRO",
+                    "name": "Goran VISNJIC"
+                },
+                {
+                    "winner": "Ognjen DJURISIC"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "SLO",
+                    "name": "Gal BERTALANIC ZIZEK"
+                },
+                {
+                    "country": "SRB",
+                    "name": "Ognjen DJURISIC"
+                }
+            ],
+            [
+                {
+                    "country": "SLO",
+                    "name": "Gal BERTALANIC ZIZEK"
+                }
+            ]
+        ]
+    },
+    "REPECHAGE": {
+        "round 1-4": [
+            [
+                {
+                    "country": "SVK",
+                    "name": "Timotej STEFANIK"
+                },
+                {
+                    "winner": "Timotej STEFANIK"
+                }
+            ],
+            [
+                {
+                    "country": "LTU",
+                    "name": "Denis MAKSIMOV"
+                },
+                {
+                    "country": "SLO",
+                    "name": "Vid KAVNIK"
+                },
+                {
+                    "winner": "Vid KAVNIK"
+                }
+            ],
+            [
+                {
+                    "country": "MNE",
+                    "name": "Andrija MARTINOVIC"
+                },
+                {
+                    "country": "POL",
+                    "name": "Jakub BOGDANIUK"
+                },
+                {
+                    "winner": "Andrija MARTINOVIC"
+                }
+            ],
+            [
+                {
+                    "country": "CAN",
+                    "name": "Norman BRAZHNYK"
+                },
+                {
+                    "country": "SRB",
+                    "name": "Ognjen DJURISIC"
+                },
+                {
+                    "winner": "Ognjen DJURISIC"
+                }
+            ]
+        ],
+        "round 1-2": [
+            [
+                {
+                    "country": "SVK",
+                    "name": "Timotej STEFANIK"
+                },
+                {
+                    "country": "SLO",
+                    "name": "Vid KAVNIK"
+                }
+            ],
+            [
+                {
+                    "country": "MNE",
+                    "name": "Andrija MARTINOVIC"
+                },
+                {
+                    "country": "SRB",
+                    "name": "Ognjen DJURISIC"
+                }
+            ],
+            [
+                {
+                    "country": "SLO",
+                    "name": "Vid KAVNIK"
+                },
+                {
+                    "country": "HUN",
+                    "name": "Peter KENDERESI"
+                }
+            ],
+            [
+                {
+                    "country": "MNE",
+                    "name": "Andrija MARTINOVIC"
+                },
+                {
+                    "country": "UKR",
+                    "name": "Kariim NURIIEV"
+                }
+            ],
+            [
+                {
+                    "country": "HUN",
+                    "name": "Peter KENDERESI"
+                }
+            ],
+            [
+                {
+                    "country": "UKR",
+                    "name": "Kariim NURIIEV"
+                }
+            ]
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CZE",
+                    "name": "David DUDY"
+                },
+                {
+                    "country": "UKR",
+                    "name": "Kariim NURIIEV"
+                },
+                {
+                    "winner": "David DUDY"
+                }
+            ],
+            [
+                {
+                    "country": "HUN",
+                    "name": "Peter KENDERESI"
+                },
+                {
+                    "country": "SLO",
+                    "name": "Gal BERTALANIC ZIZEK"
+                },
+                {
+                    "winner": "Gal BERTALANIC ZIZEK"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "CZE",
+                    "name": "David DUDY"
+                },
+                {
+                    "country": "SLO",
+                    "name": "Gal BERTALANIC ZIZEK"
+                }
+            ],
+            [
+                {
+                    "country": "CZE",
+                    "name": "David DUDY"
+                }
+            ]
+        ]
+    }
+}

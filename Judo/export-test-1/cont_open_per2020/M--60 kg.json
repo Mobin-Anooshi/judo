@@ -1,0 +1,135 @@
+{
+    "POOL A": {
+        "round 1-1": [],
+        "final_winner": "Adonis DIAZ"
+    },
+    "POOL B": {
+        "round 1-1": [
+            [
+                {
+                    "country": "USA",
+                    "name": "Jacob MORE"
+                },
+                {
+                    "country": "PER",
+                    "name": "Alexander RAMIREZ"
+                }
+            ]
+        ],
+        "final_winner": "Jacob MORE"
+    },
+    "POOL C": {
+        "round 1-1": [],
+        "final_winner": "Dilmer CALLE MOROCHO"
+    },
+    "POOL D": {
+        "round 1-1": [
+            [
+                {
+                    "country": "GUA",
+                    "name": "Jose RAMOS"
+                },
+                {
+                    "country": "PER",
+                    "name": "Arnold PRADO"
+                }
+            ]
+        ],
+        "final_winner": "Jose RAMOS"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "PER",
+                    "name": "Alexander RAMIREZ"
+                }
+            ],
+            [
+                {
+                    "country": "PER",
+                    "name": "Arnold PRADO"
+                }
+            ],
+            [
+                {
+                    "country": "PER",
+                    "name": "Alexander RAMIREZ"
+                },
+                {
+                    "country": "PER",
+                    "name": "Dilmer CALLE MOROCHO"
+                },
+                {
+                    "winner": "Alexander RAMIREZ"
+                }
+            ],
+            [
+                {
+                    "country": "PER",
+                    "name": "Arnold PRADO"
+                },
+                {
+                    "country": "USA",
+                    "name": "Jacob MORE"
+                },
+                {
+                    "winner": "Jacob MORE"
+                }
+            ],
+            [
+                {
+                    "country": "USA",
+                    "name": "Jacob MORE"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Arnold PRADO",
+            "Alexander RAMIREZ"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "USA",
+                    "name": "Adonis DIAZ"
+                },
+                {
+                    "country": "USA",
+                    "name": "Jacob MORE"
+                },
+                {
+                    "winner": "Adonis DIAZ"
+                }
+            ],
+            [
+                {
+                    "country": "PER",
+                    "name": "Dilmer CALLE MOROCHO"
+                },
+                {
+                    "country": "GUA",
+                    "name": "Jose RAMOS"
+                },
+                {
+                    "winner": "Jose RAMOS"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "USA",
+                    "name": "Adonis DIAZ"
+                },
+                {
+                    "country": "GUA",
+                    "name": "Jose RAMOS"
+                }
+            ]
+        ],
+        "final_winner": "Adonis DIAZ"
+    }
+}

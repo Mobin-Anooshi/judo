@@ -1,0 +1,135 @@
+{
+    "POOL A": {
+        "round 1-1": [],
+        "final_winner": "Ryan VARGAS"
+    },
+    "POOL B": {
+        "round 1-1": [
+            [
+                {
+                    "country": "ESP",
+                    "name": "Ricardo CASAS FERNANDEZ"
+                },
+                {
+                    "country": "COL",
+                    "name": "Santiago CASTANO"
+                }
+            ]
+        ],
+        "final_winner": "Ricardo CASAS FERNANDEZ"
+    },
+    "POOL C": {
+        "round 1-1": [],
+        "final_winner": "Sebastian SAMANIEGO"
+    },
+    "POOL D": {
+        "round 1-1": [
+            [
+                {
+                    "country": "COL",
+                    "name": "Juan HERNANDEZ"
+                },
+                {
+                    "country": "USA",
+                    "name": "Liam STEVENS"
+                }
+            ]
+        ],
+        "final_winner": "Juan HERNANDEZ"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "COL",
+                    "name": "Santiago CASTANO"
+                }
+            ],
+            [
+                {
+                    "country": "USA",
+                    "name": "Liam STEVENS"
+                }
+            ],
+            [
+                {
+                    "country": "COL",
+                    "name": "Santiago CASTANO"
+                },
+                {
+                    "country": "USA",
+                    "name": "Sebastian SAMANIEGO"
+                },
+                {
+                    "winner": "Santiago CASTANO"
+                }
+            ],
+            [
+                {
+                    "country": "USA",
+                    "name": "Liam STEVENS"
+                },
+                {
+                    "country": "ESP",
+                    "name": "Ricardo CASAS FERNANDEZ"
+                },
+                {
+                    "winner": "Ricardo CASAS FERNANDEZ"
+                }
+            ],
+            [
+                {
+                    "country": "ESP",
+                    "name": "Ricardo CASAS FERNANDEZ"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Liam STEVENS",
+            "Santiago CASTANO"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "USA",
+                    "name": "Ryan VARGAS"
+                },
+                {
+                    "country": "ESP",
+                    "name": "Ricardo CASAS FERNANDEZ"
+                },
+                {
+                    "winner": "Ryan VARGAS"
+                }
+            ],
+            [
+                {
+                    "country": "USA",
+                    "name": "Sebastian SAMANIEGO"
+                },
+                {
+                    "country": "COL",
+                    "name": "Juan HERNANDEZ"
+                },
+                {
+                    "winner": "Juan HERNANDEZ"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "USA",
+                    "name": "Ryan VARGAS"
+                },
+                {
+                    "country": "COL",
+                    "name": "Juan HERNANDEZ"
+                }
+            ]
+        ],
+        "final_winner": "Ryan VARGAS"
+    }
+}

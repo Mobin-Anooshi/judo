@@ -1,0 +1,177 @@
+{
+    "POOL A": {
+        "round 1-1": [
+            [
+                {
+                    "country": "PER",
+                    "name": "Brillith GAMARRA"
+                },
+                {
+                    "country": "ARG",
+                    "name": "Agustina LAHITON"
+                }
+            ]
+        ],
+        "final_winner": "Brillith GAMARRA"
+    },
+    "POOL B": {
+        "round 1-1": [
+            [
+                {
+                    "country": "CHI",
+                    "name": "Judith GONZALEZ"
+                },
+                {
+                    "country": "PER",
+                    "name": "Marian FLORES"
+                }
+            ]
+        ],
+        "final_winner": "Marian FLORES"
+    },
+    "POOL C": {
+        "round 1-1": [
+            [
+                {
+                    "country": "ARG",
+                    "name": "Ayelen ELIZECHE"
+                },
+                {
+                    "country": "CHI",
+                    "name": "Elizabeth SEGURA"
+                }
+            ]
+        ],
+        "final_winner": "Elizabeth SEGURA"
+    },
+    "POOL D": {
+        "round 1-1": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Maria TABA"
+                },
+                {
+                    "country": "ARG",
+                    "name": "Ludmila PISCIOTTO"
+                }
+            ]
+        ],
+        "final_winner": "Maria TABA"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ARG",
+                    "name": "Agustina LAHITON"
+                },
+                {
+                    "country": "CHI",
+                    "name": "Judith GONZALEZ"
+                },
+                {
+                    "winner": "Judith GONZALEZ"
+                }
+            ],
+            [
+                {
+                    "country": "ARG",
+                    "name": "Ayelen ELIZECHE"
+                },
+                {
+                    "country": "ARG",
+                    "name": "Ludmila PISCIOTTO"
+                },
+                {
+                    "winner": "Ludmila PISCIOTTO"
+                }
+            ],
+            [
+                {
+                    "country": "CHI",
+                    "name": "Judith GONZALEZ"
+                },
+                {
+                    "country": "CHI",
+                    "name": "Elizabeth SEGURA"
+                },
+                {
+                    "winner": "Judith GONZALEZ"
+                }
+            ],
+            [
+                {
+                    "country": "ARG",
+                    "name": "Ludmila PISCIOTTO"
+                },
+                {
+                    "country": "PER",
+                    "name": "Marian FLORES"
+                },
+                {
+                    "winner": "Marian FLORES"
+                }
+            ],
+            [
+                {
+                    "country": "CHI",
+                    "name": "Judith GONZALEZ"
+                }
+            ],
+            [
+                {
+                    "country": "PER",
+                    "name": "Marian FLORES"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Judith GONZALEZ",
+            "Marian FLORES"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "PER",
+                    "name": "Brillith GAMARRA"
+                },
+                {
+                    "country": "PER",
+                    "name": "Marian FLORES"
+                },
+                {
+                    "winner": "Brillith GAMARRA"
+                }
+            ],
+            [
+                {
+                    "country": "CHI",
+                    "name": "Elizabeth SEGURA"
+                },
+                {
+                    "country": "BRA",
+                    "name": "Maria TABA"
+                },
+                {
+                    "winner": "Maria TABA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "PER",
+                    "name": "Brillith GAMARRA"
+                },
+                {
+                    "country": "BRA",
+                    "name": "Maria TABA"
+                }
+            ]
+        ],
+        "final_winner": "Maria TABA"
+    }
+}

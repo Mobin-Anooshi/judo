@@ -1,0 +1,168 @@
+{
+    "POOL A": {
+        "round 1-1": [
+            [
+                {
+                    "country": "PER",
+                    "name": "Yuta GALARRETA"
+                },
+                {
+                    "country": "COL",
+                    "name": "Santiago GARZON DIAZ"
+                }
+            ]
+        ],
+        "final_winner": "Santiago GARZON DIAZ"
+    },
+    "POOL B": {
+        "round 1-1": [
+            [
+                {
+                    "country": "MEX",
+                    "name": "Victor OCHOA"
+                },
+                {
+                    "country": "PAN",
+                    "name": "Jose Luis ORTEGA MENDOZA"
+                }
+            ]
+        ],
+        "final_winner": "Jose Luis ORTEGA MENDOZA"
+    },
+    "POOL C": {
+        "round 1-1": [
+            [
+                {
+                    "country": "COL",
+                    "name": "Francisco BALANTA"
+                },
+                {
+                    "country": "MEX",
+                    "name": "Jeremy OLIVARES"
+                }
+            ]
+        ],
+        "final_winner": "Francisco BALANTA"
+    },
+    "POOL D": {
+        "round 1-1": [
+            [
+                {
+                    "country": "PER",
+                    "name": "Daryl YAMAMOTO"
+                },
+                {
+                    "country": "USA",
+                    "name": "Jesse BUTLER"
+                }
+            ]
+        ],
+        "final_winner": "Daryl YAMAMOTO"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "PER",
+                    "name": "Yuta GALARRETA"
+                },
+                {
+                    "country": "Vote",
+                    "name": "MEX"
+                },
+                {
+                    "country": "Victor OCHOA",
+                    "name": "Vote"
+                },
+                {
+                    "winner": "Yuta GALARRETA"
+                }
+            ],
+            [
+                {
+                    "country": "MEX",
+                    "name": "Jeremy OLIVARES"
+                },
+                {
+                    "country": "USA",
+                    "name": "Jesse BUTLER"
+                },
+                {
+                    "winner": "Jeremy OLIVARES"
+                }
+            ],
+            [
+                {
+                    "country": "PER",
+                    "name": "Daryl YAMAMOTO"
+                }
+            ],
+            [
+                {
+                    "country": "MEX",
+                    "name": "Jeremy OLIVARES"
+                },
+                {
+                    "country": "PAN",
+                    "name": "Jose Luis ORTEGA MENDOZA"
+                },
+                {
+                    "winner": "Jose Luis ORTEGA MENDOZA"
+                }
+            ],
+            [
+                {
+                    "country": "PAN",
+                    "name": "Jose Luis ORTEGA MENDOZA"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Jeremy OLIVARES",
+            "Daryl YAMAMOTO"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "COL",
+                    "name": "Santiago GARZON DIAZ"
+                },
+                {
+                    "country": "PAN",
+                    "name": "Jose Luis ORTEGA MENDOZA"
+                },
+                {
+                    "winner": "Santiago GARZON DIAZ"
+                }
+            ],
+            [
+                {
+                    "country": "COL",
+                    "name": "Francisco BALANTA"
+                },
+                {
+                    "country": "PER",
+                    "name": "Daryl YAMAMOTO"
+                },
+                {
+                    "winner": "Francisco BALANTA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "COL",
+                    "name": "Santiago GARZON DIAZ"
+                },
+                {
+                    "country": "COL",
+                    "name": "Francisco BALANTA"
+                }
+            ]
+        ],
+        "final_winner": "Francisco BALANTA"
+    }
+}

@@ -1,0 +1,255 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "KAZ",
+                    "name": "Karina TAKIYEVA"
+                },
+                {
+                    "winner": "Karina TAKIYEVA"
+                }
+            ],
+            []
+        ],
+        "round 1-1": [],
+        "final_winner": "Karina TAKIYEVA"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "BEL",
+                    "name": "Gabrielle BOUVIER"
+                },
+                {
+                    "winner": "Gabrielle BOUVIER"
+                }
+            ],
+            [
+                {
+                    "country": "AZE",
+                    "name": "Nigar SULEYMANOVA"
+                },
+                {
+                    "winner": "Nigar SULEYMANOVA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "BEL",
+                    "name": "Gabrielle BOUVIER"
+                },
+                {
+                    "country": "AZE",
+                    "name": "Nigar SULEYMANOVA"
+                }
+            ]
+        ],
+        "final_winner": "Nigar SULEYMANOVA"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ISR",
+                    "name": "Yuli Alma MISHINER"
+                },
+                {
+                    "winner": "Yuli Alma MISHINER"
+                }
+            ],
+            [
+                {
+                    "country": "NED",
+                    "name": "Julia DEKKER"
+                },
+                {
+                    "winner": "Julia DEKKER"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "ISR",
+                    "name": "Yuli Alma MISHINER"
+                },
+                {
+                    "country": "NED",
+                    "name": "Julia DEKKER"
+                }
+            ]
+        ],
+        "final_winner": "Yuli Alma MISHINER"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ROU",
+                    "name": "Georgiana MILER"
+                },
+                {
+                    "winner": "Georgiana MILER"
+                }
+            ],
+            [
+                {
+                    "country": "GER",
+                    "name": "Amani KUESTER"
+                },
+                {
+                    "winner": "Amani KUESTER"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "ROU",
+                    "name": "Georgiana MILER"
+                },
+                {
+                    "country": "GER",
+                    "name": "Amani KUESTER"
+                }
+            ]
+        ],
+        "final_winner": "Georgiana MILER"
+    },
+    "REPECHAGE": {
+        "round 1-4": [
+            [],
+            [
+                {
+                    "country": "BEL",
+                    "name": "Gabrielle BOUVIER"
+                },
+                {
+                    "winner": "Gabrielle BOUVIER"
+                }
+            ],
+            [
+                {
+                    "country": "NED",
+                    "name": "Julia DEKKER"
+                },
+                {
+                    "winner": "Julia DEKKER"
+                }
+            ],
+            [
+                {
+                    "country": "GER",
+                    "name": "Amani KUESTER"
+                },
+                {
+                    "winner": "Amani KUESTER"
+                }
+            ]
+        ],
+        "round 1-2": [
+            [
+                {
+                    "country": "BEL",
+                    "name": "Gabrielle BOUVIER"
+                }
+            ],
+            [
+                {
+                    "country": "NED",
+                    "name": "Julia DEKKER"
+                },
+                {
+                    "country": "GER",
+                    "name": "Amani KUESTER"
+                },
+                {
+                    "winner": "Julia DEKKER"
+                }
+            ],
+            [
+                {
+                    "country": "BEL",
+                    "name": "Gabrielle BOUVIER"
+                },
+                {
+                    "country": "ROU",
+                    "name": "Georgiana MILER"
+                },
+                {
+                    "winner": "Gabrielle BOUVIER"
+                }
+            ],
+            [
+                {
+                    "country": "NED",
+                    "name": "Julia DEKKER"
+                },
+                {
+                    "country": "AZE",
+                    "name": "Nigar SULEYMANOVA"
+                },
+                {
+                    "winner": "Julia DEKKER"
+                }
+            ],
+            [
+                {
+                    "country": "NED",
+                    "name": "Julia DEKKER"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Julia DEKKER",
+            "Gabrielle BOUVIER"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "KAZ",
+                    "name": "Karina TAKIYEVA"
+                },
+                {
+                    "country": "AZE",
+                    "name": "Nigar SULEYMANOVA"
+                },
+                {
+                    "winner": "Karina TAKIYEVA"
+                }
+            ],
+            [
+                {
+                    "country": "ISR",
+                    "name": "Yuli Alma MISHINER"
+                },
+                {
+                    "country": "ROU",
+                    "name": "Georgiana MILER"
+                },
+                {
+                    "winner": "Yuli Alma MISHINER"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "KAZ",
+                    "name": "Karina TAKIYEVA"
+                },
+                {
+                    "country": "ISR",
+                    "name": "Yuli Alma MISHINER"
+                }
+            ]
+        ],
+        "final_winner": "Yuli Alma MISHINER"
+    }
+}

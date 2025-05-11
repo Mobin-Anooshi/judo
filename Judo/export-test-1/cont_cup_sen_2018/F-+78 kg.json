@@ -1,0 +1,227 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "RUS",
+                    "name": "Aleksandra KHOMYN"
+                },
+                {
+                    "winner": "Aleksandra KHOMYN"
+                }
+            ],
+            []
+        ],
+        "round 1-1": [],
+        "final_winner": "Aleksandra KHOMYN"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "RUS",
+                    "name": "Regina BASYROVA"
+                },
+                {
+                    "winner": "Regina BASYROVA"
+                }
+            ],
+            [
+                {
+                    "country": "RUS",
+                    "name": "Irina ZHARLIKOVA"
+                },
+                {
+                    "winner": "Irina ZHARLIKOVA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "RUS",
+                    "name": "Regina BASYROVA"
+                },
+                {
+                    "country": "RUS",
+                    "name": "Irina ZHARLIKOVA"
+                }
+            ]
+        ],
+        "final_winner": "Irina ZHARLIKOVA"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "RUS",
+                    "name": "Evgeniia BOGDANOVA"
+                },
+                {
+                    "winner": "Evgeniia BOGDANOVA"
+                }
+            ],
+            []
+        ],
+        "round 1-1": [],
+        "final_winner": "Evgeniia BOGDANOVA"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "RUS",
+                    "name": "Ekaterina KOSHELEVA"
+                },
+                {
+                    "winner": "Ekaterina KOSHELEVA"
+                }
+            ],
+            [
+                {
+                    "country": "RUS",
+                    "name": "Albina CHOLOMBITKO"
+                },
+                {
+                    "winner": "Albina CHOLOMBITKO"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "RUS",
+                    "name": "Ekaterina KOSHELEVA"
+                },
+                {
+                    "country": "RUS",
+                    "name": "Albina CHOLOMBITKO"
+                }
+            ]
+        ],
+        "final_winner": "Albina CHOLOMBITKO"
+    },
+    "REPECHAGE": {
+        "round 1-4": [
+            [],
+            [
+                {
+                    "country": "RUS",
+                    "name": "Regina BASYROVA"
+                },
+                {
+                    "winner": "Regina BASYROVA"
+                }
+            ],
+            [],
+            [
+                {
+                    "country": "RUS",
+                    "name": "Ekaterina KOSHELEVA"
+                },
+                {
+                    "winner": "Ekaterina KOSHELEVA"
+                }
+            ]
+        ],
+        "round 1-2": [
+            [
+                {
+                    "country": "RUS",
+                    "name": "Regina BASYROVA"
+                }
+            ],
+            [
+                {
+                    "country": "RUS",
+                    "name": "Ekaterina KOSHELEVA"
+                }
+            ],
+            [
+                {
+                    "country": "RUS",
+                    "name": "Regina BASYROVA"
+                },
+                {
+                    "country": "RUS",
+                    "name": "Albina CHOLOMBITKO"
+                },
+                {
+                    "winner": "Albina CHOLOMBITKO"
+                }
+            ],
+            [
+                {
+                    "country": "RUS",
+                    "name": "Ekaterina KOSHELEVA"
+                },
+                {
+                    "country": "RUS",
+                    "name": "Irina ZHARLIKOVA"
+                },
+                {
+                    "winner": "Irina ZHARLIKOVA"
+                }
+            ],
+            [
+                {
+                    "country": "RUS",
+                    "name": "Albina CHOLOMBITKO"
+                }
+            ],
+            [
+                {
+                    "country": "RUS",
+                    "name": "Irina ZHARLIKOVA"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Albina CHOLOMBITKO",
+            "Irina ZHARLIKOVA"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "RUS",
+                    "name": "Aleksandra KHOMYN"
+                },
+                {
+                    "country": "RUS",
+                    "name": "Irina ZHARLIKOVA"
+                },
+                {
+                    "winner": "Aleksandra KHOMYN"
+                }
+            ],
+            [
+                {
+                    "country": "RUS",
+                    "name": "Evgeniia BOGDANOVA"
+                },
+                {
+                    "country": "RUS",
+                    "name": "Albina CHOLOMBITKO"
+                },
+                {
+                    "winner": "Evgeniia BOGDANOVA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "RUS",
+                    "name": "Aleksandra KHOMYN"
+                },
+                {
+                    "country": "RUS",
+                    "name": "Evgeniia BOGDANOVA"
+                }
+            ]
+        ],
+        "final_winner": "Evgeniia BOGDANOVA"
+    }
+}

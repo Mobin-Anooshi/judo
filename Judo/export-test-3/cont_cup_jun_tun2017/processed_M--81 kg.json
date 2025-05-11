@@ -1,0 +1,87 @@
+{
+    "POOL A": {
+        "round 1-3": [
+            [
+                {
+                    "country": "TUN",
+                    "name": "Khalil HADDAD"
+                },
+                {
+                    "country": "CRO",
+                    "name": "Marin JERKUNICA"
+                },
+                {
+                    "winner": "Khalil HADDAD"
+                }
+            ],
+            [
+                {
+                    "country": "TUN",
+                    "name": "Khalil HADDAD"
+                },
+                {
+                    "country": "ROU",
+                    "name": "Lehel KONCZ"
+                },
+                {
+                    "winner": "Lehel KONCZ"
+                }
+            ],
+            [
+                {
+                    "country": "CRO",
+                    "name": "Marin JERKUNICA"
+                },
+                {
+                    "country": "ROU",
+                    "name": "Lehel KONCZ"
+                },
+                {
+                    "winner": "Lehel KONCZ"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Khalil HADDAD",
+            "Lehel KONCZ"
+        ]
+    },
+    "POOL B": {
+        "round 1-1": [],
+        "final_winners": [
+            "Mabrouk AZOUG"
+        ]
+    },
+    "REPECHAGE": {
+        "round 1-1": [
+            [
+                {
+                    "country": "TUN",
+                    "name": "Khalil HADDAD"
+                },
+                {
+                    "country": "KSA",
+                    "name": "Saleh ALZUWAYYID"
+                },
+                {
+                    "winner": "Khalil HADDAD"
+                }
+            ],
+            [
+                {
+                    "country": "TUN",
+                    "name": "Khalil HADDAD"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Khalil HADDAD"
+        ]
+    },
+    "FINALS": {
+        "round 1-1": [],
+        "final_winners": [
+            "Lehel KONCZ"
+        ]
+    }
+}

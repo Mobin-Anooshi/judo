@@ -1,0 +1,87 @@
+{
+    "POOL A": {
+        "round 1-3": [
+            [
+                {
+                    "country": "COL",
+                    "name": "Ferney RUIZ MESA"
+                },
+                {
+                    "country": "MEX",
+                    "name": "Rafael RAMIREZ"
+                },
+                {
+                    "winner": "Ferney RUIZ MESA"
+                }
+            ],
+            [
+                {
+                    "country": "COL",
+                    "name": "Ferney RUIZ MESA"
+                },
+                {
+                    "country": "VEN",
+                    "name": "David PERDOMO"
+                },
+                {
+                    "winner": "David PERDOMO"
+                }
+            ],
+            [
+                {
+                    "country": "MEX",
+                    "name": "Rafael RAMIREZ"
+                },
+                {
+                    "country": "VEN",
+                    "name": "David PERDOMO"
+                },
+                {
+                    "winner": "David PERDOMO"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Ferney RUIZ MESA",
+            "David PERDOMO"
+        ]
+    },
+    "POOL B": {
+        "round 1-1": [],
+        "final_winners": [
+            "Juan BUITRAGO MARIN"
+        ]
+    },
+    "REPECHAGE": {
+        "round 1-1": [
+            [
+                {
+                    "country": "COL",
+                    "name": "Ferney RUIZ MESA"
+                },
+                {
+                    "country": "COL",
+                    "name": "Wilson VERA CACERES"
+                },
+                {
+                    "winner": "Ferney RUIZ MESA"
+                }
+            ],
+            [
+                {
+                    "country": "COL",
+                    "name": "Ferney RUIZ MESA"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Ferney RUIZ MESA"
+        ]
+    },
+    "FINALS": {
+        "round 1-1": [],
+        "final_winners": [
+            "David PERDOMO"
+        ]
+    }
+}

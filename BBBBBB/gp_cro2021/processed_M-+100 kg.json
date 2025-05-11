@@ -1,0 +1,269 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "NED",
+                    "name": "Jur SPIJKERS"
+                },
+                {
+                    "winner": "Jur SPIJKERS"
+                }
+            ],
+            [
+                {
+                    "country": "UKR",
+                    "name": "Yevheniy BALYEVSKYY"
+                },
+                {
+                    "country": "ROU",
+                    "name": "Mircea CROITORU"
+                },
+                {
+                    "winner": "Yevheniy BALYEVSKYY"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "NED",
+                    "name": "Jur SPIJKERS"
+                },
+                {
+                    "country": "UKR",
+                    "name": "Yevheniy BALYEVSKYY"
+                }
+            ]
+        ],
+        "final_winner": "Jur SPIJKERS"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "FIN",
+                    "name": "Martti PUUMALAINEN"
+                },
+                {
+                    "winner": "Martti PUUMALAINEN"
+                }
+            ],
+            [
+                {
+                    "country": "SLO",
+                    "name": "Enej MARINIC"
+                },
+                {
+                    "winner": "Enej MARINIC"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "FIN",
+                    "name": "Martti PUUMALAINEN"
+                },
+                {
+                    "country": "SLO",
+                    "name": "Enej MARINIC"
+                }
+            ]
+        ],
+        "final_winner": "Martti PUUMALAINEN"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ROU",
+                    "name": "Vladut SIMIONESCU"
+                },
+                {
+                    "winner": "Vladut SIMIONESCU"
+                }
+            ],
+            [
+                {
+                    "country": "NED",
+                    "name": "Jelle SNIPPE"
+                },
+                {
+                    "country": "SRB",
+                    "name": "Zarko CULUM"
+                },
+                {
+                    "winner": "Zarko CULUM"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "ROU",
+                    "name": "Vladut SIMIONESCU"
+                },
+                {
+                    "country": "SRB",
+                    "name": "Zarko CULUM"
+                }
+            ]
+        ],
+        "final_winner": "Vladut SIMIONESCU"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "SLO",
+                    "name": "Vito DRAGIC"
+                },
+                {
+                    "winner": "Vito DRAGIC"
+                }
+            ],
+            [
+                {
+                    "country": "FRA",
+                    "name": "Joseph TERHEC"
+                },
+                {
+                    "country": "GER",
+                    "name": "Daniel ZORN"
+                },
+                {
+                    "winner": "Daniel ZORN"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "SLO",
+                    "name": "Vito DRAGIC"
+                },
+                {
+                    "country": "GER",
+                    "name": "Daniel ZORN"
+                }
+            ]
+        ],
+        "final_winner": "Vito DRAGIC"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "UKR",
+                    "name": "Yevheniy BALYEVSKYY"
+                },
+                {
+                    "country": "SLO",
+                    "name": "Enej MARINIC"
+                },
+                {
+                    "winner": "Yevheniy BALYEVSKYY"
+                }
+            ],
+            [
+                {
+                    "country": "SRB",
+                    "name": "Zarko CULUM"
+                },
+                {
+                    "country": "GER",
+                    "name": "Daniel ZORN"
+                },
+                {
+                    "winner": "Daniel ZORN"
+                }
+            ],
+            [
+                {
+                    "country": "UKR",
+                    "name": "Yevheniy BALYEVSKYY"
+                },
+                {
+                    "country": "SLO",
+                    "name": "Vito DRAGIC"
+                },
+                {
+                    "winner": "Yevheniy BALYEVSKYY"
+                }
+            ],
+            [
+                {
+                    "country": "GER",
+                    "name": "Daniel ZORN"
+                },
+                {
+                    "country": "FIN",
+                    "name": "Martti PUUMALAINEN"
+                },
+                {
+                    "winner": "Martti PUUMALAINEN"
+                }
+            ],
+            [
+                {
+                    "country": "UKR",
+                    "name": "Yevheniy BALYEVSKYY"
+                }
+            ],
+            [
+                {
+                    "country": "FIN",
+                    "name": "Martti PUUMALAINEN"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Yevheniy BALYEVSKYY",
+            "Martti PUUMALAINEN"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "NED",
+                    "name": "Jur SPIJKERS"
+                },
+                {
+                    "country": "FIN",
+                    "name": "Martti PUUMALAINEN"
+                },
+                {
+                    "winner": "Jur SPIJKERS"
+                }
+            ],
+            [
+                {
+                    "country": "ROU",
+                    "name": "Vladut SIMIONESCU"
+                },
+                {
+                    "country": "SLO",
+                    "name": "Vito DRAGIC"
+                },
+                {
+                    "winner": "Vladut SIMIONESCU"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "NED",
+                    "name": "Jur SPIJKERS"
+                },
+                {
+                    "country": "ROU",
+                    "name": "Vladut SIMIONESCU"
+                }
+            ]
+        ],
+        "final_winner": "Jur SPIJKERS"
+    }
+}

@@ -1,0 +1,159 @@
+{
+    "POOL A": {
+        "round 1-1": [],
+        "final_winner": "Salim HANNOUS"
+    },
+    "POOL B": {
+        "round 1-1": [
+            [
+                {
+                    "country": "TUN",
+                    "name": "Iyed ISSAOUI"
+                },
+                {
+                    "country": "TUN",
+                    "name": "Mohamed Taher BACCAR"
+                }
+            ]
+        ],
+        "final_winner": "Iyed ISSAOUI"
+    },
+    "POOL C": {
+        "round 1-1": [
+            [
+                {
+                    "country": "TUN",
+                    "name": "Houssem BEN ZINA"
+                },
+                {
+                    "country": "KSA",
+                    "name": "Mahdi ALAWWAD"
+                }
+            ]
+        ],
+        "final_winner": "Houssem BEN ZINA"
+    },
+    "POOL D": {
+        "round 1-1": [
+            [
+                {
+                    "country": "TUN",
+                    "name": "Youssef BEN HASSEN"
+                },
+                {
+                    "country": "ALG",
+                    "name": "Chems Eddine CHERIFI"
+                }
+            ]
+        ],
+        "final_winner": "Chems Eddine CHERIFI"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "TUN",
+                    "name": "Mohamed Taher BACCAR"
+                }
+            ],
+            [
+                {
+                    "country": "KSA",
+                    "name": "Mahdi ALAWWAD"
+                },
+                {
+                    "country": "TUN",
+                    "name": "Youssef BEN HASSEN"
+                },
+                {
+                    "winner": "Youssef BEN HASSEN"
+                }
+            ],
+            [
+                {
+                    "country": "TUN",
+                    "name": "Mohamed Taher BACCAR"
+                },
+                {
+                    "country": "ALG",
+                    "name": "Chems Eddine CHERIFI"
+                },
+                {
+                    "winner": "Chems Eddine CHERIFI"
+                }
+            ],
+            [
+                {
+                    "country": "TUN",
+                    "name": "Youssef BEN HASSEN"
+                },
+                {
+                    "country": "TUN",
+                    "name": "Iyed ISSAOUI"
+                },
+                {
+                    "winner": "Youssef BEN HASSEN"
+                }
+            ],
+            [
+                {
+                    "country": "ALG",
+                    "name": "Chems Eddine CHERIFI"
+                }
+            ],
+            [
+                {
+                    "country": "TUN",
+                    "name": "Youssef BEN HASSEN"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Chems Eddine CHERIFI",
+            "Youssef BEN HASSEN"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ALG",
+                    "name": "Salim HANNOUS"
+                },
+                {
+                    "country": "TUN",
+                    "name": "Iyed ISSAOUI"
+                },
+                {
+                    "winner": "Salim HANNOUS"
+                }
+            ],
+            [
+                {
+                    "country": "TUN",
+                    "name": "Houssem BEN ZINA"
+                },
+                {
+                    "country": "ALG",
+                    "name": "Chems Eddine CHERIFI"
+                },
+                {
+                    "winner": "Houssem BEN ZINA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "ALG",
+                    "name": "Salim HANNOUS"
+                },
+                {
+                    "country": "TUN",
+                    "name": "Houssem BEN ZINA"
+                }
+            ]
+        ],
+        "final_winner": "Salim HANNOUS"
+    }
+}

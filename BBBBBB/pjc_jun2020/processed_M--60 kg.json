@@ -1,0 +1,227 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "USA",
+                    "name": "Jacob MORE"
+                },
+                {
+                    "winner": "Jacob MORE"
+                }
+            ],
+            []
+        ],
+        "round 1-1": [],
+        "final_winner": "Jacob MORE"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "MEX",
+                    "name": "Arath JUAREZ"
+                },
+                {
+                    "winner": "Arath JUAREZ"
+                }
+            ],
+            [
+                {
+                    "country": "DOM",
+                    "name": "Emmanuel ABUD HUBIERA"
+                },
+                {
+                    "winner": "Emmanuel ABUD HUBIERA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "MEX",
+                    "name": "Arath JUAREZ"
+                },
+                {
+                    "country": "DOM",
+                    "name": "Emmanuel ABUD HUBIERA"
+                }
+            ]
+        ],
+        "final_winner": "Arath JUAREZ"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ECU",
+                    "name": "Bryan GARBOA"
+                },
+                {
+                    "winner": "Bryan GARBOA"
+                }
+            ],
+            []
+        ],
+        "round 1-1": [],
+        "final_winner": "Bryan GARBOA"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ECU",
+                    "name": "Juan AYALA"
+                },
+                {
+                    "winner": "Juan AYALA"
+                }
+            ],
+            [
+                {
+                    "country": "PAR",
+                    "name": "Marcelo VICENTINI"
+                },
+                {
+                    "winner": "Marcelo VICENTINI"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "ECU",
+                    "name": "Juan AYALA"
+                },
+                {
+                    "country": "PAR",
+                    "name": "Marcelo VICENTINI"
+                }
+            ]
+        ],
+        "final_winner": "Juan AYALA"
+    },
+    "REPECHAGE": {
+        "round 1-4": [
+            [],
+            [
+                {
+                    "country": "DOM",
+                    "name": "Emmanuel ABUD HUBIERA"
+                },
+                {
+                    "winner": "Emmanuel ABUD HUBIERA"
+                }
+            ],
+            [],
+            [
+                {
+                    "country": "PAR",
+                    "name": "Marcelo VICENTINI"
+                },
+                {
+                    "winner": "Marcelo VICENTINI"
+                }
+            ]
+        ],
+        "round 1-2": [
+            [
+                {
+                    "country": "DOM",
+                    "name": "Emmanuel ABUD HUBIERA"
+                }
+            ],
+            [
+                {
+                    "country": "PAR",
+                    "name": "Marcelo VICENTINI"
+                }
+            ],
+            [
+                {
+                    "country": "DOM",
+                    "name": "Emmanuel ABUD HUBIERA"
+                },
+                {
+                    "country": "ECU",
+                    "name": "Juan AYALA"
+                },
+                {
+                    "winner": "Juan AYALA"
+                }
+            ],
+            [
+                {
+                    "country": "PAR",
+                    "name": "Marcelo VICENTINI"
+                },
+                {
+                    "country": "MEX",
+                    "name": "Arath JUAREZ"
+                },
+                {
+                    "winner": "Arath JUAREZ"
+                }
+            ],
+            [
+                {
+                    "country": "ECU",
+                    "name": "Juan AYALA"
+                }
+            ],
+            [
+                {
+                    "country": "MEX",
+                    "name": "Arath JUAREZ"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Juan AYALA",
+            "Arath JUAREZ"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "USA",
+                    "name": "Jacob MORE"
+                },
+                {
+                    "country": "MEX",
+                    "name": "Arath JUAREZ"
+                },
+                {
+                    "winner": "Jacob MORE"
+                }
+            ],
+            [
+                {
+                    "country": "ECU",
+                    "name": "Bryan GARBOA"
+                },
+                {
+                    "country": "ECU",
+                    "name": "Juan AYALA"
+                },
+                {
+                    "winner": "Bryan GARBOA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "USA",
+                    "name": "Jacob MORE"
+                },
+                {
+                    "country": "ECU",
+                    "name": "Bryan GARBOA"
+                }
+            ]
+        ],
+        "final_winner": "Bryan GARBOA"
+    }
+}

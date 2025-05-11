@@ -1,0 +1,261 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CAN",
+                    "name": "Payton HARRIS"
+                },
+                {
+                    "winner": "Payton HARRIS"
+                }
+            ],
+            []
+        ],
+        "round 1-1": [],
+        "final_winner": "Payton HARRIS"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CAN",
+                    "name": "Benjamin BURT"
+                },
+                {
+                    "winner": "Benjamin BURT"
+                }
+            ],
+            [
+                {
+                    "country": "CAN",
+                    "name": "Guillaume GAULIN"
+                },
+                {
+                    "winner": "Guillaume GAULIN"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "CAN",
+                    "name": "Benjamin BURT"
+                },
+                {
+                    "country": "CAN",
+                    "name": "Guillaume GAULIN"
+                }
+            ]
+        ],
+        "final_winner": "Benjamin BURT"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CAN",
+                    "name": "Taylor ALTHOUSE"
+                },
+                {
+                    "winner": "Taylor ALTHOUSE"
+                }
+            ],
+            [
+                {
+                    "country": "CAN",
+                    "name": "Leo ARENCIBIA"
+                },
+                {
+                    "winner": "Leo ARENCIBIA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "CAN",
+                    "name": "Taylor ALTHOUSE"
+                },
+                {
+                    "country": "CAN",
+                    "name": "Leo ARENCIBIA"
+                }
+            ]
+        ],
+        "final_winner": "Taylor ALTHOUSE"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CAN",
+                    "name": "Pierce JING"
+                },
+                {
+                    "winner": "Pierce JING"
+                }
+            ],
+            [
+                {
+                    "country": "USA",
+                    "name": "Alexander KNAUF"
+                },
+                {
+                    "winner": "Alexander KNAUF"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "CAN",
+                    "name": "Pierce JING"
+                },
+                {
+                    "country": "USA",
+                    "name": "Alexander KNAUF"
+                }
+            ]
+        ],
+        "final_winner": "Alexander KNAUF"
+    },
+    "REPECHAGE": {
+        "round 1-4": [
+            [],
+            [
+                {
+                    "country": "CAN",
+                    "name": "Guillaume GAULIN"
+                },
+                {
+                    "winner": "Guillaume GAULIN"
+                }
+            ],
+            [
+                {
+                    "country": "CAN",
+                    "name": "Leo ARENCIBIA"
+                },
+                {
+                    "winner": "Leo ARENCIBIA"
+                }
+            ],
+            [
+                {
+                    "country": "CAN",
+                    "name": "Pierce JING"
+                },
+                {
+                    "winner": "Pierce JING"
+                }
+            ]
+        ],
+        "round 1-2": [
+            [
+                {
+                    "country": "CAN",
+                    "name": "Guillaume GAULIN"
+                }
+            ],
+            [
+                {
+                    "country": "CAN",
+                    "name": "Leo ARENCIBIA"
+                },
+                {
+                    "country": "CAN",
+                    "name": "Pierce JING"
+                },
+                {
+                    "winner": "Leo ARENCIBIA"
+                }
+            ],
+            [
+                {
+                    "country": "CAN",
+                    "name": "Guillaume GAULIN"
+                },
+                {
+                    "country": "USA",
+                    "name": "Alexander KNAUF"
+                },
+                {
+                    "winner": "Alexander KNAUF"
+                }
+            ],
+            [
+                {
+                    "country": "CAN",
+                    "name": "Leo ARENCIBIA"
+                },
+                {
+                    "country": "CAN",
+                    "name": "Benjamin BURT"
+                },
+                {
+                    "winner": "Leo ARENCIBIA"
+                }
+            ],
+            [
+                {
+                    "country": "USA",
+                    "name": "Alexander KNAUF"
+                }
+            ],
+            [
+                {
+                    "country": "CAN",
+                    "name": "Leo ARENCIBIA"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Alexander KNAUF",
+            "Leo ARENCIBIA"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CAN",
+                    "name": "Payton HARRIS"
+                },
+                {
+                    "country": "CAN",
+                    "name": "Benjamin BURT"
+                },
+                {
+                    "winner": "Payton HARRIS"
+                }
+            ],
+            [
+                {
+                    "country": "CAN",
+                    "name": "Taylor ALTHOUSE"
+                },
+                {
+                    "country": "USA",
+                    "name": "Alexander KNAUF"
+                },
+                {
+                    "winner": "Taylor ALTHOUSE"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "CAN",
+                    "name": "Payton HARRIS"
+                },
+                {
+                    "country": "CAN",
+                    "name": "Taylor ALTHOUSE"
+                }
+            ]
+        ],
+        "final_winner": "Payton HARRIS"
+    }
+}

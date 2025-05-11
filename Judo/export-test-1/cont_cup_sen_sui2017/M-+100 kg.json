@@ -1,0 +1,303 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "GER",
+                    "name": "Benjamin BOUIZGARNE"
+                },
+                {
+                    "winner": "Benjamin BOUIZGARNE"
+                }
+            ],
+            [
+                {
+                    "country": "GBR",
+                    "name": "Peter VINCENT"
+                },
+                {
+                    "country": "LAT",
+                    "name": "Raivis CAKSTINS"
+                },
+                {
+                    "winner": "Peter VINCENT"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "GER",
+                    "name": "Benjamin BOUIZGARNE"
+                },
+                {
+                    "country": "GBR",
+                    "name": "Peter VINCENT"
+                }
+            ]
+        ],
+        "final_winner": "Benjamin BOUIZGARNE"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ITA",
+                    "name": "Claudio PEPOLI"
+                },
+                {
+                    "winner": "Claudio PEPOLI"
+                }
+            ],
+            [
+                {
+                    "country": "SUI",
+                    "name": "Luca WYLER"
+                },
+                {
+                    "winner": "Luca WYLER"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "ITA",
+                    "name": "Claudio PEPOLI"
+                },
+                {
+                    "country": "SUI",
+                    "name": "Luca WYLER"
+                }
+            ]
+        ],
+        "final_winner": "Claudio PEPOLI"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ITA",
+                    "name": "Andres Felipe MORENO"
+                },
+                {
+                    "winner": "Andres Felipe MORENO"
+                }
+            ],
+            [
+                {
+                    "country": "FIN",
+                    "name": "Mikko NIEMI"
+                },
+                {
+                    "country": "SLO",
+                    "name": "Enej MARINIC"
+                },
+                {
+                    "winner": "Enej MARINIC"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "ITA",
+                    "name": "Andres Felipe MORENO"
+                },
+                {
+                    "country": "SLO",
+                    "name": "Enej MARINIC"
+                }
+            ]
+        ],
+        "final_winner": "Andres Felipe MORENO"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "MNE",
+                    "name": "Jovan PEKOVIC"
+                },
+                {
+                    "winner": "Jovan PEKOVIC"
+                }
+            ],
+            [
+                {
+                    "country": "RUS",
+                    "name": "Roman BOBIKOV"
+                },
+                {
+                    "winner": "Roman BOBIKOV"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "MNE",
+                    "name": "Jovan PEKOVIC"
+                },
+                {
+                    "country": "RUS",
+                    "name": "Roman BOBIKOV"
+                }
+            ]
+        ],
+        "final_winner": "Roman BOBIKOV"
+    },
+    "REPECHAGE": {
+        "round 1-4": [
+            [
+                {
+                    "country": "GBR",
+                    "name": "Peter VINCENT"
+                },
+                {
+                    "winner": "Peter VINCENT"
+                }
+            ],
+            [
+                {
+                    "country": "SUI",
+                    "name": "Luca WYLER"
+                },
+                {
+                    "winner": "Luca WYLER"
+                }
+            ],
+            [
+                {
+                    "country": "SLO",
+                    "name": "Enej MARINIC"
+                },
+                {
+                    "winner": "Enej MARINIC"
+                }
+            ],
+            [
+                {
+                    "country": "MNE",
+                    "name": "Jovan PEKOVIC"
+                },
+                {
+                    "winner": "Jovan PEKOVIC"
+                }
+            ]
+        ],
+        "round 1-2": [
+            [
+                {
+                    "country": "GBR",
+                    "name": "Peter VINCENT"
+                },
+                {
+                    "country": "SUI",
+                    "name": "Luca WYLER"
+                },
+                {
+                    "winner": "Peter VINCENT"
+                }
+            ],
+            [
+                {
+                    "country": "SLO",
+                    "name": "Enej MARINIC"
+                },
+                {
+                    "country": "MNE",
+                    "name": "Jovan PEKOVIC"
+                },
+                {
+                    "winner": "Enej MARINIC"
+                }
+            ],
+            [
+                {
+                    "country": "GBR",
+                    "name": "Peter VINCENT"
+                },
+                {
+                    "country": "RUS",
+                    "name": "Roman BOBIKOV"
+                },
+                {
+                    "winner": "Roman BOBIKOV"
+                }
+            ],
+            [
+                {
+                    "country": "SLO",
+                    "name": "Enej MARINIC"
+                },
+                {
+                    "country": "GER",
+                    "name": "Benjamin BOUIZGARNE"
+                },
+                {
+                    "winner": "Benjamin BOUIZGARNE"
+                }
+            ],
+            [
+                {
+                    "country": "RUS",
+                    "name": "Roman BOBIKOV"
+                }
+            ],
+            [
+                {
+                    "country": "GER",
+                    "name": "Benjamin BOUIZGARNE"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Roman BOBIKOV",
+            "Benjamin BOUIZGARNE"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "GER",
+                    "name": "Benjamin BOUIZGARNE"
+                },
+                {
+                    "country": "ITA",
+                    "name": "Claudio PEPOLI"
+                },
+                {
+                    "winner": "Claudio PEPOLI"
+                }
+            ],
+            [
+                {
+                    "country": "ITA",
+                    "name": "Andres Felipe MORENO"
+                },
+                {
+                    "country": "RUS",
+                    "name": "Roman BOBIKOV"
+                },
+                {
+                    "winner": "Andres Felipe MORENO"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "ITA",
+                    "name": "Claudio PEPOLI"
+                },
+                {
+                    "country": "ITA",
+                    "name": "Andres Felipe MORENO"
+                }
+            ]
+        ],
+        "final_winner": "Andres Felipe MORENO"
+    }
+}

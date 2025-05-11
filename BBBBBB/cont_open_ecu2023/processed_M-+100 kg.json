@@ -1,0 +1,265 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CUB",
+                    "name": "Andy GRANDA"
+                },
+                {
+                    "winner": "Andy GRANDA"
+                }
+            ],
+            [
+                {
+                    "country": "JAM",
+                    "name": "Steven MOORE"
+                },
+                {
+                    "country": "COL",
+                    "name": "Alejandro ESCOBAR"
+                },
+                {
+                    "winner": "Alejandro ESCOBAR"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "CUB",
+                    "name": "Andy GRANDA"
+                },
+                {
+                    "country": "COL",
+                    "name": "Alejandro ESCOBAR"
+                }
+            ]
+        ],
+        "final_winner": "Andy GRANDA"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ECU",
+                    "name": "Freddy FIGUEROA"
+                },
+                {
+                    "winner": "Freddy FIGUEROA"
+                }
+            ],
+            [
+                {
+                    "country": "BRA",
+                    "name": "Tiago PALMINI"
+                },
+                {
+                    "winner": "Tiago PALMINI"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "ECU",
+                    "name": "Freddy FIGUEROA"
+                },
+                {
+                    "country": "BRA",
+                    "name": "Tiago PALMINI"
+                }
+            ]
+        ],
+        "final_winner": "Tiago PALMINI"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "DOM",
+                    "name": "Jose NOVA ALCANTARA"
+                },
+                {
+                    "winner": "Jose NOVA ALCANTARA"
+                }
+            ],
+            [
+                {
+                    "country": "USA",
+                    "name": "Philip HORIUCHI"
+                },
+                {
+                    "country": "ECU",
+                    "name": "Ruben VILLAVICENCIO"
+                },
+                {
+                    "winner": "Philip HORIUCHI"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "DOM",
+                    "name": "Jose NOVA ALCANTARA"
+                },
+                {
+                    "country": "USA",
+                    "name": "Philip HORIUCHI"
+                }
+            ]
+        ],
+        "final_winner": "Jose NOVA ALCANTARA"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CHI",
+                    "name": "Francisco SOLIS"
+                },
+                {
+                    "winner": "Francisco SOLIS"
+                }
+            ],
+            [
+                {
+                    "country": "VEN",
+                    "name": "Luis AMEZQUITA"
+                },
+                {
+                    "winner": "Luis AMEZQUITA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "CHI",
+                    "name": "Francisco SOLIS"
+                },
+                {
+                    "country": "VEN",
+                    "name": "Luis AMEZQUITA"
+                }
+            ]
+        ],
+        "final_winner": "Francisco SOLIS"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "COL",
+                    "name": "Alejandro ESCOBAR"
+                },
+                {
+                    "country": "ECU",
+                    "name": "Freddy FIGUEROA"
+                },
+                {
+                    "winner": "Alejandro ESCOBAR"
+                }
+            ],
+            [
+                {
+                    "country": "USA",
+                    "name": "Philip HORIUCHI"
+                },
+                {
+                    "country": "VEN",
+                    "name": "Luis AMEZQUITA"
+                },
+                {
+                    "winner": "Philip HORIUCHI"
+                }
+            ],
+            [
+                {
+                    "country": "COL",
+                    "name": "Alejandro ESCOBAR"
+                },
+                {
+                    "country": "CHI",
+                    "name": "Francisco SOLIS"
+                },
+                {
+                    "winner": "Francisco SOLIS"
+                }
+            ],
+            [
+                {
+                    "country": "USA",
+                    "name": "Philip HORIUCHI"
+                },
+                {
+                    "country": "BRA",
+                    "name": "Tiago PALMINI"
+                },
+                {
+                    "winner": "Tiago PALMINI"
+                }
+            ],
+            [
+                {
+                    "country": "CHI",
+                    "name": "Francisco SOLIS"
+                }
+            ],
+            [
+                {
+                    "country": "BRA",
+                    "name": "Tiago PALMINI"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Francisco SOLIS",
+            "Tiago PALMINI"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CUB",
+                    "name": "Andy GRANDA"
+                },
+                {
+                    "country": "BRA",
+                    "name": "Tiago PALMINI"
+                },
+                {
+                    "winner": "Andy GRANDA"
+                }
+            ],
+            [
+                {
+                    "country": "DOM",
+                    "name": "Jose NOVA ALCANTARA"
+                },
+                {
+                    "country": "CHI",
+                    "name": "Francisco SOLIS"
+                },
+                {
+                    "winner": "Jose NOVA ALCANTARA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "CUB",
+                    "name": "Andy GRANDA"
+                },
+                {
+                    "country": "DOM",
+                    "name": "Jose NOVA ALCANTARA"
+                }
+            ]
+        ],
+        "final_winner": "Andy GRANDA"
+    }
+}

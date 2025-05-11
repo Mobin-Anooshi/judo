@@ -1,0 +1,177 @@
+{
+    "POOL A": {
+        "round 1-1": [
+            [
+                {
+                    "country": "KSA",
+                    "name": "Saud ALFAIFI"
+                },
+                {
+                    "country": "TUN",
+                    "name": "Majdi AMRI"
+                }
+            ]
+        ],
+        "final_winner": "Saud ALFAIFI"
+    },
+    "POOL B": {
+        "round 1-1": [
+            [
+                {
+                    "country": "ALG",
+                    "name": "Nabil MEDJTOUH"
+                },
+                {
+                    "country": "TUN",
+                    "name": "Witheb HLEILI"
+                }
+            ]
+        ],
+        "final_winner": "Nabil MEDJTOUH"
+    },
+    "POOL C": {
+        "round 1-1": [
+            [
+                {
+                    "country": "TUN",
+                    "name": "Hedi HADJI"
+                },
+                {
+                    "country": "ALG",
+                    "name": "Mohamed Amine DEGOUAH"
+                }
+            ]
+        ],
+        "final_winner": "Mohamed Amine DEGOUAH"
+    },
+    "POOL D": {
+        "round 1-1": [
+            [
+                {
+                    "country": "TUN",
+                    "name": "Ayoub BOUCHAREB"
+                },
+                {
+                    "country": "ALG",
+                    "name": "Abderahim MEDJAHED"
+                }
+            ]
+        ],
+        "final_winner": "Ayoub BOUCHAREB"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "TUN",
+                    "name": "Majdi AMRI"
+                },
+                {
+                    "country": "TUN",
+                    "name": "Witheb HLEILI"
+                },
+                {
+                    "winner": "Witheb HLEILI"
+                }
+            ],
+            [
+                {
+                    "country": "TUN",
+                    "name": "Hedi HADJI"
+                },
+                {
+                    "country": "ALG",
+                    "name": "Abderahim MEDJAHED"
+                },
+                {
+                    "winner": "Abderahim MEDJAHED"
+                }
+            ],
+            [
+                {
+                    "country": "TUN",
+                    "name": "Witheb HLEILI"
+                },
+                {
+                    "country": "ALG",
+                    "name": "Mohamed Amine DEGOUAH"
+                },
+                {
+                    "winner": "Mohamed Amine DEGOUAH"
+                }
+            ],
+            [
+                {
+                    "country": "ALG",
+                    "name": "Abderahim MEDJAHED"
+                },
+                {
+                    "country": "ALG",
+                    "name": "Nabil MEDJTOUH"
+                },
+                {
+                    "winner": "Abderahim MEDJAHED"
+                }
+            ],
+            [
+                {
+                    "country": "ALG",
+                    "name": "Mohamed Amine DEGOUAH"
+                }
+            ],
+            [
+                {
+                    "country": "ALG",
+                    "name": "Abderahim MEDJAHED"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Mohamed Amine DEGOUAH",
+            "Abderahim MEDJAHED"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "KSA",
+                    "name": "Saud ALFAIFI"
+                },
+                {
+                    "country": "ALG",
+                    "name": "Nabil MEDJTOUH"
+                },
+                {
+                    "winner": "Saud ALFAIFI"
+                }
+            ],
+            [
+                {
+                    "country": "ALG",
+                    "name": "Mohamed Amine DEGOUAH"
+                },
+                {
+                    "country": "TUN",
+                    "name": "Ayoub BOUCHAREB"
+                },
+                {
+                    "winner": "Ayoub BOUCHAREB"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "KSA",
+                    "name": "Saud ALFAIFI"
+                },
+                {
+                    "country": "TUN",
+                    "name": "Ayoub BOUCHAREB"
+                }
+            ]
+        ],
+        "final_winner": "Saud ALFAIFI"
+    }
+}

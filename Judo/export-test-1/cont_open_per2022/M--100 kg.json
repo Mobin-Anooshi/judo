@@ -1,0 +1,153 @@
+{
+    "POOL A": {
+        "round 1-1": [],
+        "final_winner": "Thomas BRICENO"
+    },
+    "POOL B": {
+        "round 1-1": [
+            [
+                {
+                    "country": "COL",
+                    "name": "Alejandro ESCOBAR"
+                },
+                {
+                    "country": "COL",
+                    "name": "Francisco BALANTA"
+                }
+            ]
+        ],
+        "final_winner": "Francisco BALANTA"
+    },
+    "POOL C": {
+        "round 1-1": [
+            [
+                {
+                    "country": "PER",
+                    "name": "Daryl YAMAMOTO"
+                },
+                {
+                    "country": "ARG",
+                    "name": "Ivo DARGOLTZ"
+                }
+            ]
+        ],
+        "final_winner": "Daryl YAMAMOTO"
+    },
+    "POOL D": {
+        "round 1-1": [
+            [
+                {
+                    "country": "MEX",
+                    "name": "Alexis ESQUIVEL"
+                },
+                {
+                    "country": "PER",
+                    "name": "Valentino VALDIVIA"
+                }
+            ]
+        ],
+        "final_winner": "Alexis ESQUIVEL"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "COL",
+                    "name": "Alejandro ESCOBAR"
+                }
+            ],
+            [
+                {
+                    "country": "ARG",
+                    "name": "Ivo DARGOLTZ"
+                },
+                {
+                    "country": "PER",
+                    "name": "Valentino VALDIVIA"
+                },
+                {
+                    "winner": "Ivo DARGOLTZ"
+                }
+            ],
+            [
+                {
+                    "country": "COL",
+                    "name": "Alejandro ESCOBAR"
+                },
+                {
+                    "country": "MEX",
+                    "name": "Alexis ESQUIVEL"
+                },
+                {
+                    "winner": "Alejandro ESCOBAR"
+                }
+            ],
+            [
+                {
+                    "country": "ARG",
+                    "name": "Ivo DARGOLTZ"
+                },
+                {
+                    "country": "COL",
+                    "name": "Francisco BALANTA"
+                },
+                {
+                    "winner": "Francisco BALANTA"
+                }
+            ],
+            [
+                {
+                    "country": "COL",
+                    "name": "Francisco BALANTA"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Ivo DARGOLTZ",
+            "Alejandro ESCOBAR"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CHI",
+                    "name": "Thomas BRICENO"
+                },
+                {
+                    "country": "COL",
+                    "name": "Francisco BALANTA"
+                },
+                {
+                    "winner": "Thomas BRICENO"
+                }
+            ],
+            [
+                {
+                    "country": "PER",
+                    "name": "Daryl YAMAMOTO"
+                },
+                {
+                    "country": "MEX",
+                    "name": "Alexis ESQUIVEL"
+                },
+                {
+                    "winner": "Daryl YAMAMOTO"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "CHI",
+                    "name": "Thomas BRICENO"
+                },
+                {
+                    "country": "PER",
+                    "name": "Daryl YAMAMOTO"
+                }
+            ]
+        ],
+        "final_winner": "Thomas BRICENO"
+    }
+}

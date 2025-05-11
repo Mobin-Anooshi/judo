@@ -1,0 +1,269 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "PER",
+                    "name": "Alonso WONG"
+                },
+                {
+                    "winner": "Alonso WONG"
+                }
+            ],
+            [
+                {
+                    "country": "PER",
+                    "name": "Aldair BARTHE CHIRRINOS"
+                },
+                {
+                    "winner": "Aldair BARTHE CHIRRINOS"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "PER",
+                    "name": "Alonso WONG"
+                },
+                {
+                    "country": "PER",
+                    "name": "Aldair BARTHE CHIRRINOS"
+                }
+            ]
+        ],
+        "final_winner": "Alonso WONG"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "FRA",
+                    "name": "Luca OTMANE"
+                },
+                {
+                    "winner": "Luca OTMANE"
+                }
+            ],
+            [
+                {
+                    "country": "HAI",
+                    "name": "Philippe Abel METELLUS"
+                },
+                {
+                    "country": "PER",
+                    "name": "Alberto RODRIGUEZ EGUSQUIZA"
+                },
+                {
+                    "winner": "Philippe Abel METELLUS"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "FRA",
+                    "name": "Luca OTMANE"
+                },
+                {
+                    "country": "HAI",
+                    "name": "Philippe Abel METELLUS"
+                }
+            ]
+        ],
+        "final_winner": "Luca OTMANE"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "AUS",
+                    "name": "Calvin KNOESTER"
+                },
+                {
+                    "winner": "Calvin KNOESTER"
+                }
+            ],
+            [
+                {
+                    "country": "USA",
+                    "name": "Salama SALEM"
+                },
+                {
+                    "country": "PER",
+                    "name": "Alex PERCA MAMANI"
+                },
+                {
+                    "winner": "Salama SALEM"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "AUS",
+                    "name": "Calvin KNOESTER"
+                },
+                {
+                    "country": "USA",
+                    "name": "Salama SALEM"
+                }
+            ]
+        ],
+        "final_winner": "Calvin KNOESTER"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "COL",
+                    "name": "Leider NAVARRO"
+                },
+                {
+                    "winner": "Leider NAVARRO"
+                }
+            ],
+            [
+                {
+                    "country": "AUS",
+                    "name": "Sam KING"
+                },
+                {
+                    "country": "PER",
+                    "name": "Jose DIAZ"
+                },
+                {
+                    "winner": "Jose DIAZ"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "COL",
+                    "name": "Leider NAVARRO"
+                },
+                {
+                    "country": "PER",
+                    "name": "Jose DIAZ"
+                }
+            ]
+        ],
+        "final_winner": "Leider NAVARRO"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "PER",
+                    "name": "Aldair BARTHE CHIRRINOS"
+                },
+                {
+                    "country": "HAI",
+                    "name": "Philippe Abel METELLUS"
+                },
+                {
+                    "winner": "Philippe Abel METELLUS"
+                }
+            ],
+            [
+                {
+                    "country": "USA",
+                    "name": "Salama SALEM"
+                },
+                {
+                    "country": "PER",
+                    "name": "Jose DIAZ"
+                },
+                {
+                    "winner": "Salama SALEM"
+                }
+            ],
+            [
+                {
+                    "country": "HAI",
+                    "name": "Philippe Abel METELLUS"
+                },
+                {
+                    "country": "COL",
+                    "name": "Leider NAVARRO"
+                },
+                {
+                    "winner": "Leider NAVARRO"
+                }
+            ],
+            [
+                {
+                    "country": "USA",
+                    "name": "Salama SALEM"
+                },
+                {
+                    "country": "PER",
+                    "name": "Alonso WONG"
+                },
+                {
+                    "winner": "Alonso WONG"
+                }
+            ],
+            [
+                {
+                    "country": "COL",
+                    "name": "Leider NAVARRO"
+                }
+            ],
+            [
+                {
+                    "country": "PER",
+                    "name": "Alonso WONG"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Leider NAVARRO",
+            "Alonso WONG"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "PER",
+                    "name": "Alonso WONG"
+                },
+                {
+                    "country": "FRA",
+                    "name": "Luca OTMANE"
+                },
+                {
+                    "winner": "Luca OTMANE"
+                }
+            ],
+            [
+                {
+                    "country": "AUS",
+                    "name": "Calvin KNOESTER"
+                },
+                {
+                    "country": "COL",
+                    "name": "Leider NAVARRO"
+                },
+                {
+                    "winner": "Calvin KNOESTER"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "FRA",
+                    "name": "Luca OTMANE"
+                },
+                {
+                    "country": "AUS",
+                    "name": "Calvin KNOESTER"
+                }
+            ]
+        ],
+        "final_winner": "Luca OTMANE"
+    }
+}

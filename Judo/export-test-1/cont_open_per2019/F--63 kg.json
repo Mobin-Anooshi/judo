@@ -1,0 +1,177 @@
+{
+    "POOL A": {
+        "round 1-1": [
+            [
+                {
+                    "country": "ECU",
+                    "name": "Estefania GARCIA"
+                },
+                {
+                    "country": "PER",
+                    "name": "Francis GODOS AGUIRRE"
+                }
+            ]
+        ],
+        "final_winner": "Estefania GARCIA"
+    },
+    "POOL B": {
+        "round 1-1": [
+            [
+                {
+                    "country": "ARG",
+                    "name": "Agustina DE LUCIA"
+                },
+                {
+                    "country": "BRA",
+                    "name": "Cynthia SILVA"
+                }
+            ]
+        ],
+        "final_winner": "Agustina DE LUCIA"
+    },
+    "POOL C": {
+        "round 1-1": [
+            [
+                {
+                    "country": "USA",
+                    "name": "Alisha GALLES"
+                },
+                {
+                    "country": "PER",
+                    "name": "Ariana CORNEJO"
+                }
+            ]
+        ],
+        "final_winner": "Alisha GALLES"
+    },
+    "POOL D": {
+        "round 1-1": [
+            [
+                {
+                    "country": "COL",
+                    "name": "Cindy MERA"
+                },
+                {
+                    "country": "CHI",
+                    "name": "Marcela ALFARO"
+                }
+            ]
+        ],
+        "final_winner": "Cindy MERA"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "PER",
+                    "name": "Francis GODOS AGUIRRE"
+                },
+                {
+                    "country": "BRA",
+                    "name": "Cynthia SILVA"
+                },
+                {
+                    "winner": "Francis GODOS AGUIRRE"
+                }
+            ],
+            [
+                {
+                    "country": "PER",
+                    "name": "Ariana CORNEJO"
+                },
+                {
+                    "country": "CHI",
+                    "name": "Marcela ALFARO"
+                },
+                {
+                    "winner": "Marcela ALFARO"
+                }
+            ],
+            [
+                {
+                    "country": "PER",
+                    "name": "Francis GODOS AGUIRRE"
+                },
+                {
+                    "country": "COL",
+                    "name": "Cindy MERA"
+                },
+                {
+                    "winner": "Cindy MERA"
+                }
+            ],
+            [
+                {
+                    "country": "CHI",
+                    "name": "Marcela ALFARO"
+                },
+                {
+                    "country": "ARG",
+                    "name": "Agustina DE LUCIA"
+                },
+                {
+                    "winner": "Agustina DE LUCIA"
+                }
+            ],
+            [
+                {
+                    "country": "COL",
+                    "name": "Cindy MERA"
+                }
+            ],
+            [
+                {
+                    "country": "ARG",
+                    "name": "Agustina DE LUCIA"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Cindy MERA",
+            "Agustina DE LUCIA"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ECU",
+                    "name": "Estefania GARCIA"
+                },
+                {
+                    "country": "ARG",
+                    "name": "Agustina DE LUCIA"
+                },
+                {
+                    "winner": "Estefania GARCIA"
+                }
+            ],
+            [
+                {
+                    "country": "USA",
+                    "name": "Alisha GALLES"
+                },
+                {
+                    "country": "COL",
+                    "name": "Cindy MERA"
+                },
+                {
+                    "winner": "Alisha GALLES"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "ECU",
+                    "name": "Estefania GARCIA"
+                },
+                {
+                    "country": "USA",
+                    "name": "Alisha GALLES"
+                }
+            ]
+        ],
+        "final_winner": "Estefania GARCIA"
+    }
+}

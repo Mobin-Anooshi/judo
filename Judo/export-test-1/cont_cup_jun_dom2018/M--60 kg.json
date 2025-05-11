@@ -1,0 +1,257 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ROU",
+                    "name": "Lehel ORBAN"
+                },
+                {
+                    "winner": "Lehel ORBAN"
+                }
+            ],
+            [
+                {
+                    "country": "VEN",
+                    "name": "Willis GARCIA"
+                },
+                {
+                    "winner": "Willis GARCIA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "ROU",
+                    "name": "Lehel ORBAN"
+                },
+                {
+                    "country": "VEN",
+                    "name": "Willis GARCIA"
+                }
+            ]
+        ],
+        "final_winner": "Willis GARCIA"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "HAI",
+                    "name": "Mibel MAKES"
+                },
+                {
+                    "winner": "Mibel MAKES"
+                }
+            ],
+            [
+                {
+                    "country": "DOM",
+                    "name": "Josias VIZCAINO"
+                },
+                {
+                    "winner": "Josias VIZCAINO"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "HAI",
+                    "name": "Mibel MAKES"
+                },
+                {
+                    "country": "DOM",
+                    "name": "Josias VIZCAINO"
+                }
+            ]
+        ],
+        "final_winner": "Mibel MAKES"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "VEN",
+                    "name": "Ivan SALAS"
+                },
+                {
+                    "winner": "Ivan SALAS"
+                }
+            ],
+            [
+                {
+                    "country": "DOM",
+                    "name": "Jorge CABRERA"
+                },
+                {
+                    "winner": "Jorge CABRERA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "VEN",
+                    "name": "Ivan SALAS"
+                },
+                {
+                    "country": "DOM",
+                    "name": "Jorge CABRERA"
+                }
+            ]
+        ],
+        "final_winner": "Ivan SALAS"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "DOM",
+                    "name": "Wilson MEDINA"
+                },
+                {
+                    "winner": "Wilson MEDINA"
+                }
+            ],
+            [
+                {
+                    "country": "CUW",
+                    "name": "Javy-Ray ELLIS"
+                },
+                {
+                    "winner": "Javy-Ray ELLIS"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "DOM",
+                    "name": "Wilson MEDINA"
+                },
+                {
+                    "country": "CUW",
+                    "name": "Javy-Ray ELLIS"
+                }
+            ]
+        ],
+        "final_winner": "Wilson MEDINA"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ROU",
+                    "name": "Lehel ORBAN"
+                },
+                {
+                    "country": "DOM",
+                    "name": "Josias VIZCAINO"
+                },
+                {
+                    "winner": "Lehel ORBAN"
+                }
+            ],
+            [
+                {
+                    "country": "DOM",
+                    "name": "Jorge CABRERA"
+                },
+                {
+                    "country": "CUW",
+                    "name": "Javy-Ray ELLIS"
+                },
+                {
+                    "winner": "Javy-Ray ELLIS"
+                }
+            ],
+            [
+                {
+                    "country": "ROU",
+                    "name": "Lehel ORBAN"
+                },
+                {
+                    "country": "DOM",
+                    "name": "Wilson MEDINA"
+                },
+                {
+                    "winner": "Lehel ORBAN"
+                }
+            ],
+            [
+                {
+                    "country": "CUW",
+                    "name": "Javy-Ray ELLIS"
+                },
+                {
+                    "country": "HAI",
+                    "name": "Mibel MAKES"
+                },
+                {
+                    "winner": "Mibel MAKES"
+                }
+            ],
+            [
+                {
+                    "country": "ROU",
+                    "name": "Lehel ORBAN"
+                }
+            ],
+            [
+                {
+                    "country": "HAI",
+                    "name": "Mibel MAKES"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Lehel ORBAN",
+            "Mibel MAKES"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "VEN",
+                    "name": "Willis GARCIA"
+                },
+                {
+                    "country": "HAI",
+                    "name": "Mibel MAKES"
+                },
+                {
+                    "winner": "Willis GARCIA"
+                }
+            ],
+            [
+                {
+                    "country": "VEN",
+                    "name": "Ivan SALAS"
+                },
+                {
+                    "country": "DOM",
+                    "name": "Wilson MEDINA"
+                },
+                {
+                    "winner": "Ivan SALAS"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "VEN",
+                    "name": "Willis GARCIA"
+                },
+                {
+                    "country": "VEN",
+                    "name": "Ivan SALAS"
+                }
+            ]
+        ],
+        "final_winner": "Willis GARCIA"
+    }
+}

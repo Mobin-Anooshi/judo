@@ -1,0 +1,289 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "HUN",
+                    "name": "Ibolya SIROKI"
+                },
+                {
+                    "country": "SRB",
+                    "name": "Jelena OSTOJIC"
+                },
+                {
+                    "winner": "Ibolya SIROKI"
+                }
+            ],
+            [
+                {
+                    "country": "GER",
+                    "name": "Pauline WULFF"
+                },
+                {
+                    "country": "SLO",
+                    "name": "Teja TROPAN"
+                },
+                {
+                    "winner": "Pauline WULFF"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "HUN",
+                    "name": "Ibolya SIROKI"
+                },
+                {
+                    "country": "GER",
+                    "name": "Pauline WULFF"
+                }
+            ]
+        ],
+        "final_winner": "Pauline WULFF"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ISR",
+                    "name": "Nitzan MEIRON"
+                },
+                {
+                    "country": "SUI",
+                    "name": "Gisela LOEFFEL"
+                },
+                {
+                    "winner": "Gisela LOEFFEL"
+                }
+            ],
+            [
+                {
+                    "country": "FRA",
+                    "name": "Amelie GUIHUR"
+                },
+                {
+                    "country": "ROU",
+                    "name": "Oana NICOLAESCU"
+                },
+                {
+                    "winner": "Amelie GUIHUR"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "SUI",
+                    "name": "Gisela LOEFFEL"
+                },
+                {
+                    "country": "FRA",
+                    "name": "Amelie GUIHUR"
+                }
+            ]
+        ],
+        "final_winner": "Amelie GUIHUR"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "AZE",
+                    "name": "Sakina ZAYIROVA"
+                },
+                {
+                    "country": "GBR",
+                    "name": "Acelya TOPRAK"
+                },
+                {
+                    "winner": "Acelya TOPRAK"
+                }
+            ],
+            [
+                {
+                    "country": "GER",
+                    "name": "Anne KEMPF"
+                },
+                {
+                    "country": "SRB",
+                    "name": "Marica PERISIC"
+                },
+                {
+                    "winner": "Marica PERISIC"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "GBR",
+                    "name": "Acelya TOPRAK"
+                },
+                {
+                    "country": "SRB",
+                    "name": "Marica PERISIC"
+                }
+            ]
+        ],
+        "final_winner": "Acelya TOPRAK"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ISR",
+                    "name": "Maayan GREENBERG"
+                },
+                {
+                    "country": "SLO",
+                    "name": "Tjasa BRUMEN"
+                },
+                {
+                    "winner": "Maayan GREENBERG"
+                }
+            ],
+            [
+                {
+                    "country": "FRA",
+                    "name": "Laury POSVITE"
+                },
+                {
+                    "country": "SRB",
+                    "name": "Marta MIRKOV"
+                },
+                {
+                    "winner": "Laury POSVITE"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "ISR",
+                    "name": "Maayan GREENBERG"
+                },
+                {
+                    "country": "FRA",
+                    "name": "Laury POSVITE"
+                }
+            ]
+        ],
+        "final_winner": "Maayan GREENBERG"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "HUN",
+                    "name": "Ibolya SIROKI"
+                },
+                {
+                    "country": "SUI",
+                    "name": "Gisela LOEFFEL"
+                },
+                {
+                    "winner": "Ibolya SIROKI"
+                }
+            ],
+            [
+                {
+                    "country": "SRB",
+                    "name": "Marica PERISIC"
+                },
+                {
+                    "country": "FRA",
+                    "name": "Laury POSVITE"
+                },
+                {
+                    "winner": "Marica PERISIC"
+                }
+            ],
+            [
+                {
+                    "country": "HUN",
+                    "name": "Ibolya SIROKI"
+                },
+                {
+                    "country": "ISR",
+                    "name": "Maayan GREENBERG"
+                },
+                {
+                    "winner": "Maayan GREENBERG"
+                }
+            ],
+            [
+                {
+                    "country": "SRB",
+                    "name": "Marica PERISIC"
+                },
+                {
+                    "country": "GER",
+                    "name": "Pauline WULFF"
+                },
+                {
+                    "winner": "Pauline WULFF"
+                }
+            ],
+            [
+                {
+                    "country": "ISR",
+                    "name": "Maayan GREENBERG"
+                }
+            ],
+            [
+                {
+                    "country": "GER",
+                    "name": "Pauline WULFF"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Maayan GREENBERG",
+            "Pauline WULFF"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "GER",
+                    "name": "Pauline WULFF"
+                },
+                {
+                    "country": "FRA",
+                    "name": "Amelie GUIHUR"
+                },
+                {
+                    "winner": "Amelie GUIHUR"
+                }
+            ],
+            [
+                {
+                    "country": "GBR",
+                    "name": "Acelya TOPRAK"
+                },
+                {
+                    "country": "ISR",
+                    "name": "Maayan GREENBERG"
+                },
+                {
+                    "winner": "Acelya TOPRAK"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "FRA",
+                    "name": "Amelie GUIHUR"
+                },
+                {
+                    "country": "GBR",
+                    "name": "Acelya TOPRAK"
+                }
+            ]
+        ],
+        "final_winner": "Acelya TOPRAK"
+    }
+}

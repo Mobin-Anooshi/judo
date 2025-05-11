@@ -1,0 +1,141 @@
+{
+    "POOL A": {
+        "round 1-1": [],
+        "final_winner": "Samanta SOARES"
+    },
+    "POOL B": {
+        "round 1-1": [
+            [
+                {
+                    "country": "FRA",
+                    "name": "Vanessa DUREAU"
+                },
+                {
+                    "country": "ECU",
+                    "name": "Vanessa CHALA"
+                }
+            ]
+        ],
+        "final_winner": "Vanessa CHALA"
+    },
+    "POOL C": {
+        "round 1-1": [],
+        "final_winner": "Karen LEON"
+    },
+    "POOL D": {
+        "round 1-1": [
+            [
+                {
+                    "country": "ARG",
+                    "name": "Lucia CANTERO"
+                },
+                {
+                    "country": "CHI",
+                    "name": "Jacqueline USNAYO"
+                }
+            ]
+        ],
+        "final_winner": "Lucia CANTERO"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "FRA",
+                    "name": "Vanessa DUREAU"
+                }
+            ],
+            [
+                {
+                    "country": "CHI",
+                    "name": "Jacqueline USNAYO"
+                }
+            ],
+            [
+                {
+                    "country": "FRA",
+                    "name": "Vanessa DUREAU"
+                },
+                {
+                    "country": "ARG",
+                    "name": "Lucia CANTERO"
+                },
+                {
+                    "winner": "Lucia CANTERO"
+                }
+            ],
+            [
+                {
+                    "country": "CHI",
+                    "name": "Jacqueline USNAYO"
+                },
+                {
+                    "country": "BRA",
+                    "name": "Samanta SOARES"
+                },
+                {
+                    "winner": "Samanta SOARES"
+                }
+            ],
+            [
+                {
+                    "country": "ARG",
+                    "name": "Lucia CANTERO"
+                }
+            ],
+            [
+                {
+                    "country": "BRA",
+                    "name": "Samanta SOARES"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Lucia CANTERO",
+            "Samanta SOARES"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Samanta SOARES"
+                },
+                {
+                    "country": "ECU",
+                    "name": "Vanessa CHALA"
+                },
+                {
+                    "winner": "Vanessa CHALA"
+                }
+            ],
+            [
+                {
+                    "country": "VEN",
+                    "name": "Karen LEON"
+                },
+                {
+                    "country": "ARG",
+                    "name": "Lucia CANTERO"
+                },
+                {
+                    "winner": "Karen LEON"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "ECU",
+                    "name": "Vanessa CHALA"
+                },
+                {
+                    "country": "VEN",
+                    "name": "Karen LEON"
+                }
+            ]
+        ],
+        "final_winner": "Karen LEON"
+    }
+}

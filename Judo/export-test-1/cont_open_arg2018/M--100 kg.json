@@ -1,0 +1,177 @@
+{
+    "POOL A": {
+        "round 1-1": [
+            [
+                {
+                    "country": "URU",
+                    "name": "Pablo APRAHAMIAN"
+                },
+                {
+                    "country": "MEX",
+                    "name": "Isao CARDENAS"
+                }
+            ]
+        ],
+        "final_winner": "Isao CARDENAS"
+    },
+    "POOL B": {
+        "round 1-1": [
+            [
+                {
+                    "country": "USA",
+                    "name": "Nathaniel KEEVE"
+                },
+                {
+                    "country": "ARG",
+                    "name": "Martin OLVEIRA"
+                }
+            ]
+        ],
+        "final_winner": "Nathaniel KEEVE"
+    },
+    "POOL C": {
+        "round 1-1": [
+            [
+                {
+                    "country": "USA",
+                    "name": "L.A. SMITH III"
+                },
+                {
+                    "country": "CHI",
+                    "name": "Oscar ALARCON"
+                }
+            ]
+        ],
+        "final_winner": "L.A. SMITH III"
+    },
+    "POOL D": {
+        "round 1-1": [
+            [
+                {
+                    "country": "ANG",
+                    "name": "Casimiro BENTO"
+                },
+                {
+                    "country": "ARG",
+                    "name": "Juan MACAZAGA"
+                }
+            ]
+        ],
+        "final_winner": "Casimiro BENTO"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "URU",
+                    "name": "Pablo APRAHAMIAN"
+                },
+                {
+                    "country": "ARG",
+                    "name": "Martin OLVEIRA"
+                },
+                {
+                    "winner": "Martin OLVEIRA"
+                }
+            ],
+            [
+                {
+                    "country": "CHI",
+                    "name": "Oscar ALARCON"
+                },
+                {
+                    "country": "ARG",
+                    "name": "Juan MACAZAGA"
+                },
+                {
+                    "winner": "Oscar ALARCON"
+                }
+            ],
+            [
+                {
+                    "country": "ARG",
+                    "name": "Martin OLVEIRA"
+                },
+                {
+                    "country": "ANG",
+                    "name": "Casimiro BENTO"
+                },
+                {
+                    "winner": "Martin OLVEIRA"
+                }
+            ],
+            [
+                {
+                    "country": "CHI",
+                    "name": "Oscar ALARCON"
+                },
+                {
+                    "country": "USA",
+                    "name": "Nathaniel KEEVE"
+                },
+                {
+                    "winner": "Nathaniel KEEVE"
+                }
+            ],
+            [
+                {
+                    "country": "ARG",
+                    "name": "Martin OLVEIRA"
+                }
+            ],
+            [
+                {
+                    "country": "USA",
+                    "name": "Nathaniel KEEVE"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Martin OLVEIRA",
+            "Nathaniel KEEVE"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "MEX",
+                    "name": "Isao CARDENAS"
+                },
+                {
+                    "country": "USA",
+                    "name": "Nathaniel KEEVE"
+                },
+                {
+                    "winner": "Isao CARDENAS"
+                }
+            ],
+            [
+                {
+                    "country": "USA",
+                    "name": "L.A. SMITH III"
+                },
+                {
+                    "country": "ANG",
+                    "name": "Casimiro BENTO"
+                },
+                {
+                    "winner": "L.A. SMITH III"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "MEX",
+                    "name": "Isao CARDENAS"
+                },
+                {
+                    "country": "USA",
+                    "name": "L.A. SMITH III"
+                }
+            ]
+        ],
+        "final_winner": "Isao CARDENAS"
+    }
+}

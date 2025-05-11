@@ -1,0 +1,172 @@
+{
+    "POOL A": {
+        "round 1-1": [
+            [
+                {
+                    "country": "MEX",
+                    "name": "Jose QUINTA"
+                }
+            ]
+        ]
+    },
+    "POOL B": {
+        "round 1-1": [
+            [
+                {
+                    "country": "CHI",
+                    "name": "Jesus LEON"
+                },
+                {
+                    "country": "CHI",
+                    "name": "Agustin OSSES"
+                }
+            ],
+            [
+                {
+                    "country": "CHI",
+                    "name": "Jesus LEON"
+                }
+            ]
+        ]
+    },
+    "POOL C": {
+        "round 1-1": [
+            [
+                {
+                    "country": "PAR",
+                    "name": "Mateo CABRAL"
+                },
+                {
+                    "country": "CHI",
+                    "name": "Francisco CHAVEZ"
+                }
+            ],
+            [
+                {
+                    "country": "PAR",
+                    "name": "Mateo CABRAL"
+                }
+            ]
+        ]
+    },
+    "POOL D": {
+        "round 1-1": [
+            [
+                {
+                    "country": "CHI",
+                    "name": "Jhan CATALAN"
+                },
+                {
+                    "country": "COL",
+                    "name": "Jean Carlos MALDONADO"
+                }
+            ],
+            [
+                {
+                    "country": "CHI",
+                    "name": "Jhan CATALAN"
+                }
+            ]
+        ]
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CHI",
+                    "name": "Agustin OSSES"
+                }
+            ],
+            [
+                {
+                    "country": "CHI",
+                    "name": "Francisco CHAVEZ"
+                },
+                {
+                    "country": "COL",
+                    "name": "Jean Carlos MALDONADO"
+                }
+            ],
+            [
+                {
+                    "country": "CHI",
+                    "name": "Agustin OSSES"
+                },
+                {
+                    "country": "CHI",
+                    "name": "Jhan CATALAN"
+                }
+            ],
+            [
+                {
+                    "country": "COL",
+                    "name": "Jean Carlos MALDONADO"
+                },
+                {
+                    "country": "CHI",
+                    "name": "Jesus LEON"
+                }
+            ],
+            [
+                {
+                    "country": "CHI",
+                    "name": "Jhan CATALAN"
+                }
+            ],
+            [
+                {
+                    "country": "COL",
+                    "name": "Jean Carlos MALDONADO"
+                }
+            ]
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "MEX",
+                    "name": "Jose QUINTA"
+                },
+                {
+                    "country": "CHI",
+                    "name": "Jesus LEON"
+                },
+                {
+                    "winner": "Jose QUINTA"
+                }
+            ],
+            [
+                {
+                    "country": "PAR",
+                    "name": "Mateo CABRAL"
+                },
+                {
+                    "country": "CHI",
+                    "name": "Jhan CATALAN"
+                },
+                {
+                    "winner": "Mateo CABRAL"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "MEX",
+                    "name": "Jose QUINTA"
+                },
+                {
+                    "country": "PAR",
+                    "name": "Mateo CABRAL"
+                }
+            ],
+            [
+                {
+                    "country": "MEX",
+                    "name": "Jose QUINTA"
+                }
+            ]
+        ]
+    }
+}

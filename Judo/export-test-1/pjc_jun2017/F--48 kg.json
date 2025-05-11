@@ -1,0 +1,265 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Larissa PIMENTA"
+                },
+                {
+                    "winner": "Larissa PIMENTA"
+                }
+            ],
+            [
+                {
+                    "country": "ARG",
+                    "name": "Agustina LAHITON"
+                },
+                {
+                    "country": "USA",
+                    "name": "Giovanna PRADO"
+                },
+                {
+                    "winner": "Agustina LAHITON"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Larissa PIMENTA"
+                },
+                {
+                    "country": "ARG",
+                    "name": "Agustina LAHITON"
+                }
+            ]
+        ],
+        "final_winner": "Larissa PIMENTA"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CAN",
+                    "name": "Lea ROY"
+                },
+                {
+                    "winner": "Lea ROY"
+                }
+            ],
+            [
+                {
+                    "country": "PUR",
+                    "name": "Lorena LORENZO"
+                },
+                {
+                    "winner": "Lorena LORENZO"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "CAN",
+                    "name": "Lea ROY"
+                },
+                {
+                    "country": "PUR",
+                    "name": "Lorena LORENZO"
+                }
+            ]
+        ],
+        "final_winner": "Lea ROY"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "DOM",
+                    "name": "Erdalina CABRERA"
+                },
+                {
+                    "winner": "Erdalina CABRERA"
+                }
+            ],
+            [
+                {
+                    "country": "CHI",
+                    "name": "Aranza BURGOS"
+                },
+                {
+                    "country": "MEX",
+                    "name": "Pilar OLVERA"
+                },
+                {
+                    "winner": "Pilar OLVERA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "DOM",
+                    "name": "Erdalina CABRERA"
+                },
+                {
+                    "country": "MEX",
+                    "name": "Pilar OLVERA"
+                }
+            ]
+        ],
+        "final_winner": "Erdalina CABRERA"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ARG",
+                    "name": "Camila MARCELLET"
+                },
+                {
+                    "winner": "Camila MARCELLET"
+                }
+            ],
+            [
+                {
+                    "country": "USA",
+                    "name": "Victoria GONCALVES"
+                },
+                {
+                    "winner": "Victoria GONCALVES"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "ARG",
+                    "name": "Camila MARCELLET"
+                },
+                {
+                    "country": "USA",
+                    "name": "Victoria GONCALVES"
+                }
+            ]
+        ],
+        "final_winner": "Victoria GONCALVES"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ARG",
+                    "name": "Agustina LAHITON"
+                },
+                {
+                    "country": "PUR",
+                    "name": "Lorena LORENZO"
+                },
+                {
+                    "winner": "Agustina LAHITON"
+                }
+            ],
+            [
+                {
+                    "country": "MEX",
+                    "name": "Pilar OLVERA"
+                },
+                {
+                    "country": "ARG",
+                    "name": "Camila MARCELLET"
+                },
+                {
+                    "winner": "Pilar OLVERA"
+                }
+            ],
+            [
+                {
+                    "country": "ARG",
+                    "name": "Agustina LAHITON"
+                },
+                {
+                    "country": "DOM",
+                    "name": "Erdalina CABRERA"
+                },
+                {
+                    "winner": "Agustina LAHITON"
+                }
+            ],
+            [
+                {
+                    "country": "MEX",
+                    "name": "Pilar OLVERA"
+                },
+                {
+                    "country": "CAN",
+                    "name": "Lea ROY"
+                },
+                {
+                    "winner": "Lea ROY"
+                }
+            ],
+            [
+                {
+                    "country": "ARG",
+                    "name": "Agustina LAHITON"
+                }
+            ],
+            [
+                {
+                    "country": "CAN",
+                    "name": "Lea ROY"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Agustina LAHITON",
+            "Lea ROY"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Larissa PIMENTA"
+                },
+                {
+                    "country": "CAN",
+                    "name": "Lea ROY"
+                },
+                {
+                    "winner": "Larissa PIMENTA"
+                }
+            ],
+            [
+                {
+                    "country": "DOM",
+                    "name": "Erdalina CABRERA"
+                },
+                {
+                    "country": "USA",
+                    "name": "Victoria GONCALVES"
+                },
+                {
+                    "winner": "Victoria GONCALVES"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Larissa PIMENTA"
+                },
+                {
+                    "country": "USA",
+                    "name": "Victoria GONCALVES"
+                }
+            ]
+        ],
+        "final_winner": "Larissa PIMENTA"
+    }
+}

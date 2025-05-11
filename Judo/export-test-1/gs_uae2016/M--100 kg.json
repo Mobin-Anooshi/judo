@@ -1,0 +1,233 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "AZE",
+                    "name": "Elkhan MAMMADOV"
+                },
+                {
+                    "winner": "Elkhan MAMMADOV"
+                }
+            ],
+            [
+                {
+                    "country": "KAZ",
+                    "name": "Aibek SERIKBAYEV"
+                },
+                {
+                    "country": "PAK",
+                    "name": "Wajahat SARWAR"
+                },
+                {
+                    "winner": "Aibek SERIKBAYEV"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "AZE",
+                    "name": "Elkhan MAMMADOV"
+                },
+                {
+                    "country": "KAZ",
+                    "name": "Aibek SERIKBAYEV"
+                }
+            ]
+        ],
+        "final_winner": "Elkhan MAMMADOV"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CRO",
+                    "name": "Zlatko KUMRIC"
+                },
+                {
+                    "winner": "Zlatko KUMRIC"
+                }
+            ],
+            [
+                {
+                    "country": "AZE",
+                    "name": "Jalil SHUKUROV"
+                },
+                {
+                    "winner": "Jalil SHUKUROV"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "CRO",
+                    "name": "Zlatko KUMRIC"
+                },
+                {
+                    "country": "AZE",
+                    "name": "Jalil SHUKUROV"
+                }
+            ]
+        ],
+        "final_winner": "Zlatko KUMRIC"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [],
+            [
+                {
+                    "country": "SWE",
+                    "name": "Joakim DVARBY"
+                },
+                {
+                    "country": "KSA",
+                    "name": "Sultan MANIA"
+                },
+                {
+                    "winner": "Joakim DVARBY"
+                }
+            ]
+        ],
+        "round 1-1": [],
+        "final_winner": "Joakim DVARBY"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Luciano CORREA"
+                },
+                {
+                    "winner": "Luciano CORREA"
+                }
+            ],
+            [
+                {
+                    "country": "GBR",
+                    "name": "Philip AWITI-ALCARAZ"
+                },
+                {
+                    "winner": "Philip AWITI-ALCARAZ"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Luciano CORREA"
+                },
+                {
+                    "country": "GBR",
+                    "name": "Philip AWITI-ALCARAZ"
+                }
+            ]
+        ],
+        "final_winner": "Luciano CORREA"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "KAZ",
+                    "name": "Aibek SERIKBAYEV"
+                },
+                {
+                    "country": "AZE",
+                    "name": "Jalil SHUKUROV"
+                },
+                {
+                    "winner": "Aibek SERIKBAYEV"
+                }
+            ],
+            [
+                {
+                    "country": "GBR",
+                    "name": "Philip AWITI-ALCARAZ"
+                }
+            ],
+            [
+                {
+                    "country": "KAZ",
+                    "name": "Aibek SERIKBAYEV"
+                },
+                {
+                    "country": "SWE",
+                    "name": "Joakim DVARBY"
+                },
+                {
+                    "winner": "Joakim DVARBY"
+                }
+            ],
+            [
+                {
+                    "country": "GBR",
+                    "name": "Philip AWITI-ALCARAZ"
+                },
+                {
+                    "country": "CRO",
+                    "name": "Zlatko KUMRIC"
+                },
+                {
+                    "winner": "Philip AWITI-ALCARAZ"
+                }
+            ],
+            [
+                {
+                    "country": "SWE",
+                    "name": "Joakim DVARBY"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Philip AWITI-ALCARAZ",
+            "Joakim DVARBY"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "AZE",
+                    "name": "Elkhan MAMMADOV"
+                },
+                {
+                    "country": "CRO",
+                    "name": "Zlatko KUMRIC"
+                },
+                {
+                    "winner": "Elkhan MAMMADOV"
+                }
+            ],
+            [
+                {
+                    "country": "SWE",
+                    "name": "Joakim DVARBY"
+                },
+                {
+                    "country": "BRA",
+                    "name": "Luciano CORREA"
+                },
+                {
+                    "winner": "Luciano CORREA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "AZE",
+                    "name": "Elkhan MAMMADOV"
+                },
+                {
+                    "country": "BRA",
+                    "name": "Luciano CORREA"
+                }
+            ]
+        ],
+        "final_winner": "Elkhan MAMMADOV"
+    }
+}

@@ -1,0 +1,87 @@
+{
+    "POOL A": {
+        "round 1-3": [
+            [
+                {
+                    "country": "MGL",
+                    "name": "Khangarid GANTULGA"
+                },
+                {
+                    "country": "KSA",
+                    "name": "Mohammed BU KHAMSIN"
+                },
+                {
+                    "winner": "Khangarid GANTULGA"
+                }
+            ],
+            [
+                {
+                    "country": "MGL",
+                    "name": "Khangarid GANTULGA"
+                },
+                {
+                    "country": "KOR",
+                    "name": "Younguk KIM"
+                },
+                {
+                    "winner": "Younguk KIM"
+                }
+            ],
+            [
+                {
+                    "country": "KSA",
+                    "name": "Mohammed BU KHAMSIN"
+                },
+                {
+                    "country": "KOR",
+                    "name": "Younguk KIM"
+                },
+                {
+                    "winner": "Younguk KIM"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Khangarid GANTULGA",
+            "Younguk KIM"
+        ]
+    },
+    "POOL B": {
+        "round 1-1": [],
+        "final_winners": [
+            "Yash GHANGAS"
+        ]
+    },
+    "REPECHAGE": {
+        "round 1-1": [
+            [
+                {
+                    "country": "KOR",
+                    "name": "Younguk KIM"
+                },
+                {
+                    "country": "MGL",
+                    "name": "Temuulen BATTULGA"
+                },
+                {
+                    "winner": "Temuulen BATTULGA"
+                }
+            ],
+            [
+                {
+                    "country": "MGL",
+                    "name": "Temuulen BATTULGA"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Temuulen BATTULGA"
+        ]
+    },
+    "FINALS": {
+        "round 1-1": [],
+        "final_winners": [
+            "Khangarid GANTULGA"
+        ]
+    }
+}

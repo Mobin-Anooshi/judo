@@ -1,0 +1,227 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "PER",
+                    "name": "Noemi HUAYHUAMEZA"
+                },
+                {
+                    "winner": "Noemi HUAYHUAMEZA"
+                }
+            ],
+            []
+        ],
+        "round 1-1": [],
+        "final_winner": "Noemi HUAYHUAMEZA"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "USA",
+                    "name": "Giovanna PRADO"
+                },
+                {
+                    "winner": "Giovanna PRADO"
+                }
+            ],
+            [
+                {
+                    "country": "MEX",
+                    "name": "Fabiola ORTIZ"
+                },
+                {
+                    "winner": "Fabiola ORTIZ"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "USA",
+                    "name": "Giovanna PRADO"
+                },
+                {
+                    "country": "MEX",
+                    "name": "Fabiola ORTIZ"
+                }
+            ]
+        ],
+        "final_winner": "Giovanna PRADO"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ECU",
+                    "name": "Aracelly BARRIONUEVO"
+                },
+                {
+                    "winner": "Aracelly BARRIONUEVO"
+                }
+            ],
+            []
+        ],
+        "round 1-1": [],
+        "final_winner": "Aracelly BARRIONUEVO"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "MEX",
+                    "name": "Kassandra ESPINOZA"
+                },
+                {
+                    "winner": "Kassandra ESPINOZA"
+                }
+            ],
+            [
+                {
+                    "country": "USA",
+                    "name": "Cameron MILLER"
+                },
+                {
+                    "winner": "Cameron MILLER"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "MEX",
+                    "name": "Kassandra ESPINOZA"
+                },
+                {
+                    "country": "USA",
+                    "name": "Cameron MILLER"
+                }
+            ]
+        ],
+        "final_winner": "Kassandra ESPINOZA"
+    },
+    "REPECHAGE": {
+        "round 1-4": [
+            [],
+            [
+                {
+                    "country": "MEX",
+                    "name": "Fabiola ORTIZ"
+                },
+                {
+                    "winner": "Fabiola ORTIZ"
+                }
+            ],
+            [],
+            [
+                {
+                    "country": "USA",
+                    "name": "Cameron MILLER"
+                },
+                {
+                    "winner": "Cameron MILLER"
+                }
+            ]
+        ],
+        "round 1-2": [
+            [
+                {
+                    "country": "MEX",
+                    "name": "Fabiola ORTIZ"
+                }
+            ],
+            [
+                {
+                    "country": "USA",
+                    "name": "Cameron MILLER"
+                }
+            ],
+            [
+                {
+                    "country": "MEX",
+                    "name": "Fabiola ORTIZ"
+                },
+                {
+                    "country": "MEX",
+                    "name": "Kassandra ESPINOZA"
+                },
+                {
+                    "winner": "Kassandra ESPINOZA"
+                }
+            ],
+            [
+                {
+                    "country": "USA",
+                    "name": "Cameron MILLER"
+                },
+                {
+                    "country": "USA",
+                    "name": "Giovanna PRADO"
+                },
+                {
+                    "winner": "Giovanna PRADO"
+                }
+            ],
+            [
+                {
+                    "country": "MEX",
+                    "name": "Kassandra ESPINOZA"
+                }
+            ],
+            [
+                {
+                    "country": "USA",
+                    "name": "Giovanna PRADO"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Kassandra ESPINOZA",
+            "Giovanna PRADO"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "PER",
+                    "name": "Noemi HUAYHUAMEZA"
+                },
+                {
+                    "country": "USA",
+                    "name": "Giovanna PRADO"
+                },
+                {
+                    "winner": "Noemi HUAYHUAMEZA"
+                }
+            ],
+            [
+                {
+                    "country": "ECU",
+                    "name": "Aracelly BARRIONUEVO"
+                },
+                {
+                    "country": "MEX",
+                    "name": "Kassandra ESPINOZA"
+                },
+                {
+                    "winner": "Aracelly BARRIONUEVO"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "PER",
+                    "name": "Noemi HUAYHUAMEZA"
+                },
+                {
+                    "country": "ECU",
+                    "name": "Aracelly BARRIONUEVO"
+                }
+            ]
+        ],
+        "final_winner": "Noemi HUAYHUAMEZA"
+    }
+}

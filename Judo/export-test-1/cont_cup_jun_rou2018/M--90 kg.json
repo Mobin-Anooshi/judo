@@ -1,0 +1,335 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "MNE",
+                    "name": "Lazar CUPIC"
+                },
+                {
+                    "country": "AUT",
+                    "name": "Moritz MOSER"
+                },
+                {
+                    "winner": "Lazar CUPIC"
+                }
+            ],
+            [
+                {
+                    "country": "NOR",
+                    "name": "Kornelius EILERTSEN"
+                },
+                {
+                    "country": "ROU",
+                    "name": "Hunor KOCSIS-FERENCZ"
+                },
+                {
+                    "winner": "Kornelius EILERTSEN"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "MNE",
+                    "name": "Lazar CUPIC"
+                },
+                {
+                    "country": "NOR",
+                    "name": "Kornelius EILERTSEN"
+                }
+            ]
+        ],
+        "final_winner": "Lazar CUPIC"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "MDA",
+                    "name": "Eugen MATVEICIUC"
+                },
+                {
+                    "country": "SWE",
+                    "name": "Vincent KARAGIANNIS"
+                },
+                {
+                    "winner": "Eugen MATVEICIUC"
+                }
+            ],
+            [
+                {
+                    "country": "BIH",
+                    "name": "Karlo SIMICIC"
+                },
+                {
+                    "country": "ROU",
+                    "name": "Vlad TOPALA"
+                },
+                {
+                    "winner": "Karlo SIMICIC"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "MDA",
+                    "name": "Eugen MATVEICIUC"
+                },
+                {
+                    "country": "BIH",
+                    "name": "Karlo SIMICIC"
+                }
+            ]
+        ],
+        "final_winner": "Eugen MATVEICIUC"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "UKR",
+                    "name": "Oleksii BABENKO"
+                },
+                {
+                    "winner": "Oleksii BABENKO"
+                }
+            ],
+            [
+                {
+                    "country": "UKR",
+                    "name": "Vadim VELKOV"
+                },
+                {
+                    "country": "FIN",
+                    "name": "Markus LAMBACKA"
+                },
+                {
+                    "winner": "Vadim VELKOV"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "UKR",
+                    "name": "Oleksii BABENKO"
+                },
+                {
+                    "country": "UKR",
+                    "name": "Vadim VELKOV"
+                }
+            ]
+        ],
+        "final_winner": "Oleksii BABENKO"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "AUT",
+                    "name": "Sebastian SCHNEIDER"
+                },
+                {
+                    "country": "ROU",
+                    "name": "George ROTARU"
+                },
+                {
+                    "winner": "George ROTARU"
+                }
+            ],
+            [
+                {
+                    "country": "ROU",
+                    "name": "Eduard SERBAN"
+                },
+                {
+                    "country": "BUL",
+                    "name": "Kostadin TSVETANOV"
+                },
+                {
+                    "winner": "Eduard SERBAN"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "ROU",
+                    "name": "George ROTARU"
+                },
+                {
+                    "country": "ROU",
+                    "name": "Eduard SERBAN"
+                }
+            ]
+        ],
+        "final_winner": "Eduard SERBAN"
+    },
+    "REPECHAGE": {
+        "round 1-4": [
+            [
+                {
+                    "country": "AUT",
+                    "name": "Moritz MOSER"
+                },
+                {
+                    "country": "NOR",
+                    "name": "Kornelius EILERTSEN"
+                },
+                {
+                    "winner": "Moritz MOSER"
+                }
+            ],
+            [
+                {
+                    "country": "SWE",
+                    "name": "Vincent KARAGIANNIS"
+                },
+                {
+                    "country": "BIH",
+                    "name": "Karlo SIMICIC"
+                },
+                {
+                    "winner": "Karlo SIMICIC"
+                }
+            ],
+            [
+                {
+                    "country": "UKR",
+                    "name": "Vadim VELKOV"
+                },
+                {
+                    "winner": "Vadim VELKOV"
+                }
+            ],
+            [
+                {
+                    "country": "BUL",
+                    "name": "Kostadin TSVETANOV"
+                },
+                {
+                    "country": "ROU",
+                    "name": "George ROTARU"
+                },
+                {
+                    "winner": "Kostadin TSVETANOV"
+                }
+            ]
+        ],
+        "round 1-2": [
+            [
+                {
+                    "country": "AUT",
+                    "name": "Moritz MOSER"
+                },
+                {
+                    "country": "BIH",
+                    "name": "Karlo SIMICIC"
+                },
+                {
+                    "winner": "Moritz MOSER"
+                }
+            ],
+            [
+                {
+                    "country": "UKR",
+                    "name": "Vadim VELKOV"
+                },
+                {
+                    "country": "BUL",
+                    "name": "Kostadin TSVETANOV"
+                },
+                {
+                    "winner": "Vadim VELKOV"
+                }
+            ],
+            [
+                {
+                    "country": "AUT",
+                    "name": "Moritz MOSER"
+                },
+                {
+                    "country": "UKR",
+                    "name": "Oleksii BABENKO"
+                },
+                {
+                    "winner": "Oleksii BABENKO"
+                }
+            ],
+            [
+                {
+                    "country": "UKR",
+                    "name": "Vadim VELKOV"
+                },
+                {
+                    "country": "MNE",
+                    "name": "Lazar CUPIC"
+                },
+                {
+                    "winner": "Vadim VELKOV"
+                }
+            ],
+            [
+                {
+                    "country": "UKR",
+                    "name": "Oleksii BABENKO"
+                }
+            ],
+            [
+                {
+                    "country": "UKR",
+                    "name": "Vadim VELKOV"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Oleksii BABENKO",
+            "Vadim VELKOV"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "MNE",
+                    "name": "Lazar CUPIC"
+                },
+                {
+                    "country": "MDA",
+                    "name": "Eugen MATVEICIUC"
+                },
+                {
+                    "winner": "Eugen MATVEICIUC"
+                }
+            ],
+            [
+                {
+                    "country": "UKR",
+                    "name": "Oleksii BABENKO"
+                },
+                {
+                    "country": "ROU",
+                    "name": "Eduard SERBAN"
+                },
+                {
+                    "winner": "Eduard SERBAN"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "MDA",
+                    "name": "Eugen MATVEICIUC"
+                },
+                {
+                    "country": "ROU",
+                    "name": "Eduard SERBAN"
+                }
+            ]
+        ],
+        "final_winner": "Eduard SERBAN"
+    }
+}

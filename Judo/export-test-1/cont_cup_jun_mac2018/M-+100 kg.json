@@ -1,0 +1,261 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "NZL",
+                    "name": "Keightley WATSON"
+                },
+                {
+                    "winner": "Keightley WATSON"
+                }
+            ],
+            []
+        ],
+        "round 1-1": [],
+        "final_winner": "Keightley WATSON"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "TPE",
+                    "name": "Tzung-Min TSAI"
+                },
+                {
+                    "winner": "Tzung-Min TSAI"
+                }
+            ],
+            [
+                {
+                    "country": "AUS",
+                    "name": "Sung Min LEE"
+                },
+                {
+                    "winner": "Sung Min LEE"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "TPE",
+                    "name": "Tzung-Min TSAI"
+                },
+                {
+                    "country": "AUS",
+                    "name": "Sung Min LEE"
+                }
+            ]
+        ],
+        "final_winner": "Tzung-Min TSAI"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "AUS",
+                    "name": "Timothy HOLLINGBERY"
+                },
+                {
+                    "winner": "Timothy HOLLINGBERY"
+                }
+            ],
+            [
+                {
+                    "country": "KOR",
+                    "name": "Sejin BAE"
+                },
+                {
+                    "winner": "Sejin BAE"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "AUS",
+                    "name": "Timothy HOLLINGBERY"
+                },
+                {
+                    "country": "KOR",
+                    "name": "Sejin BAE"
+                }
+            ]
+        ],
+        "final_winner": "Sejin BAE"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "THA",
+                    "name": "Harit CHANSOM"
+                },
+                {
+                    "winner": "Harit CHANSOM"
+                }
+            ],
+            [
+                {
+                    "country": "IND",
+                    "name": "Sachin MALIK"
+                },
+                {
+                    "winner": "Sachin MALIK"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "THA",
+                    "name": "Harit CHANSOM"
+                },
+                {
+                    "country": "IND",
+                    "name": "Sachin MALIK"
+                }
+            ]
+        ],
+        "final_winner": "Sachin MALIK"
+    },
+    "REPECHAGE": {
+        "round 1-4": [
+            [],
+            [
+                {
+                    "country": "AUS",
+                    "name": "Sung Min LEE"
+                },
+                {
+                    "winner": "Sung Min LEE"
+                }
+            ],
+            [
+                {
+                    "country": "AUS",
+                    "name": "Timothy HOLLINGBERY"
+                },
+                {
+                    "winner": "Timothy HOLLINGBERY"
+                }
+            ],
+            [
+                {
+                    "country": "THA",
+                    "name": "Harit CHANSOM"
+                },
+                {
+                    "winner": "Harit CHANSOM"
+                }
+            ]
+        ],
+        "round 1-2": [
+            [
+                {
+                    "country": "AUS",
+                    "name": "Sung Min LEE"
+                }
+            ],
+            [
+                {
+                    "country": "AUS",
+                    "name": "Timothy HOLLINGBERY"
+                },
+                {
+                    "country": "THA",
+                    "name": "Harit CHANSOM"
+                },
+                {
+                    "winner": "Timothy HOLLINGBERY"
+                }
+            ],
+            [
+                {
+                    "country": "AUS",
+                    "name": "Sung Min LEE"
+                },
+                {
+                    "country": "IND",
+                    "name": "Sachin MALIK"
+                },
+                {
+                    "winner": "Sachin MALIK"
+                }
+            ],
+            [
+                {
+                    "country": "AUS",
+                    "name": "Timothy HOLLINGBERY"
+                },
+                {
+                    "country": "TPE",
+                    "name": "Tzung-Min TSAI"
+                },
+                {
+                    "winner": "Timothy HOLLINGBERY"
+                }
+            ],
+            [
+                {
+                    "country": "IND",
+                    "name": "Sachin MALIK"
+                }
+            ],
+            [
+                {
+                    "country": "AUS",
+                    "name": "Timothy HOLLINGBERY"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Sachin MALIK",
+            "Timothy HOLLINGBERY"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "NZL",
+                    "name": "Keightley WATSON"
+                },
+                {
+                    "country": "TPE",
+                    "name": "Tzung-Min TSAI"
+                },
+                {
+                    "winner": "Keightley WATSON"
+                }
+            ],
+            [
+                {
+                    "country": "KOR",
+                    "name": "Sejin BAE"
+                },
+                {
+                    "country": "IND",
+                    "name": "Sachin MALIK"
+                },
+                {
+                    "winner": "Sejin BAE"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "NZL",
+                    "name": "Keightley WATSON"
+                },
+                {
+                    "country": "KOR",
+                    "name": "Sejin BAE"
+                }
+            ]
+        ],
+        "final_winner": "Sejin BAE"
+    }
+}

@@ -1,0 +1,68 @@
+{
+    "ROUND 1": {
+        "round 1-2": [
+            [
+                {
+                    "country": "SEN",
+                    "name": "Amina MBAYE"
+                },
+                {
+                    "country": "ALG",
+                    "name": "Loubna NEDJAI"
+                },
+                {
+                    "winner": "Loubna NEDJAI"
+                }
+            ],
+            [
+                {
+                    "country": "TUN",
+                    "name": "Imen BEN YOUNES"
+                },
+                {
+                    "country": "EGY",
+                    "name": "Noura SALEM"
+                },
+                {
+                    "winner": "Imen BEN YOUNES"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Loubna NEDJAI",
+            "Imen BEN YOUNES"
+        ]
+    },
+    "REPECHAGE": {
+        "round 1-1": [
+            [
+                {
+                    "country": "SEN",
+                    "name": "Amina MBAYE"
+                },
+                {
+                    "country": "EGY",
+                    "name": "Noura SALEM"
+                },
+                {
+                    "winner": "Noura SALEM"
+                }
+            ],
+            [
+                {
+                    "country": "EGY",
+                    "name": "Noura SALEM"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Noura SALEM"
+        ]
+    },
+    "FINALS": {
+        "round 1-1": [],
+        "final_winners": [
+            "Imen BEN YOUNES"
+        ]
+    }
+}

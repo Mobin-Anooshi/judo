@@ -1,0 +1,159 @@
+{
+    "POOL A": {
+        "round 1-1": [],
+        "final_winner": "Hortence Vanessa MBALLA ATANGANA"
+    },
+    "POOL B": {
+        "round 1-1": [
+            [
+                {
+                    "country": "TOG",
+                    "name": "Essohanam Noeline KORO"
+                },
+                {
+                    "country": "KEN",
+                    "name": "Alice MURAGU"
+                }
+            ]
+        ],
+        "final_winner": "Essohanam Noeline KORO"
+    },
+    "POOL C": {
+        "round 1-1": [
+            [
+                {
+                    "country": "ALG",
+                    "name": "Sonia ASSELAH"
+                },
+                {
+                    "country": "RSA",
+                    "name": "Anelisa TSIPA"
+                }
+            ]
+        ],
+        "final_winner": "Sonia ASSELAH"
+    },
+    "POOL D": {
+        "round 1-1": [
+            [
+                {
+                    "country": "SEN",
+                    "name": "Monica SAGNA"
+                },
+                {
+                    "country": "MAD",
+                    "name": "Haingoniaina Durianah RAMIANDRISOA"
+                }
+            ]
+        ],
+        "final_winner": "Monica SAGNA"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "KEN",
+                    "name": "Alice MURAGU"
+                }
+            ],
+            [
+                {
+                    "country": "RSA",
+                    "name": "Anelisa TSIPA"
+                },
+                {
+                    "country": "MAD",
+                    "name": "Haingoniaina Durianah RAMIANDRISOA"
+                },
+                {
+                    "winner": "Haingoniaina Durianah RAMIANDRISOA"
+                }
+            ],
+            [
+                {
+                    "country": "KEN",
+                    "name": "Alice MURAGU"
+                },
+                {
+                    "country": "SEN",
+                    "name": "Monica SAGNA"
+                },
+                {
+                    "winner": "Monica SAGNA"
+                }
+            ],
+            [
+                {
+                    "country": "MAD",
+                    "name": "Haingoniaina Durianah RAMIANDRISOA"
+                },
+                {
+                    "country": "TOG",
+                    "name": "Essohanam Noeline KORO"
+                },
+                {
+                    "winner": "Haingoniaina Durianah RAMIANDRISOA"
+                }
+            ],
+            [
+                {
+                    "country": "SEN",
+                    "name": "Monica SAGNA"
+                }
+            ],
+            [
+                {
+                    "country": "MAD",
+                    "name": "Haingoniaina Durianah RAMIANDRISOA"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Monica SAGNA",
+            "Haingoniaina Durianah RAMIANDRISOA"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CMR",
+                    "name": "Hortence Vanessa MBALLA ATANGANA"
+                },
+                {
+                    "country": "TOG",
+                    "name": "Essohanam Noeline KORO"
+                },
+                {
+                    "winner": "Hortence Vanessa MBALLA ATANGANA"
+                }
+            ],
+            [
+                {
+                    "country": "ALG",
+                    "name": "Sonia ASSELAH"
+                },
+                {
+                    "country": "SEN",
+                    "name": "Monica SAGNA"
+                },
+                {
+                    "winner": "Sonia ASSELAH"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "CMR",
+                    "name": "Hortence Vanessa MBALLA ATANGANA"
+                },
+                {
+                    "country": "ALG",
+                    "name": "Sonia ASSELAH"
+                }
+            ]
+        ],
+        "final_winner": "Hortence Vanessa MBALLA ATANGANA"
+    }
+}

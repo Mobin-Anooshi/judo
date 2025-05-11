@@ -1,0 +1,315 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "USA",
+                    "name": "Sara GOLDEN"
+                },
+                {
+                    "winner": "Sara GOLDEN"
+                }
+            ],
+            [
+                {
+                    "country": "ECU",
+                    "name": "Edith ORTIZ"
+                },
+                {
+                    "country": "MEX",
+                    "name": "Julieta PEREZ"
+                },
+                {
+                    "winner": "Edith ORTIZ"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "USA",
+                    "name": "Sara GOLDEN"
+                },
+                {
+                    "country": "ECU",
+                    "name": "Edith ORTIZ"
+                }
+            ]
+        ],
+        "final_winner": "Edith ORTIZ"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "PUR",
+                    "name": "Nahiara FELICIANO WILLIAMS"
+                },
+                {
+                    "winner": "Nahiara FELICIANO WILLIAMS"
+                }
+            ],
+            [
+                {
+                    "country": "ARG",
+                    "name": "Belen TITTARELLI"
+                },
+                {
+                    "winner": "Belen TITTARELLI"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "PUR",
+                    "name": "Nahiara FELICIANO WILLIAMS"
+                },
+                {
+                    "country": "ARG",
+                    "name": "Belen TITTARELLI"
+                }
+            ]
+        ],
+        "final_winner": "Belen TITTARELLI"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "PER",
+                    "name": "Ariana CORNEJO"
+                },
+                {
+                    "winner": "Ariana CORNEJO"
+                }
+            ],
+            [
+                {
+                    "country": "COL",
+                    "name": "Esteysy DIAZ"
+                },
+                {
+                    "country": "VEN",
+                    "name": "Francis SOLORZANO"
+                },
+                {
+                    "winner": "Francis SOLORZANO"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "PER",
+                    "name": "Ariana CORNEJO"
+                },
+                {
+                    "country": "VEN",
+                    "name": "Francis SOLORZANO"
+                }
+            ]
+        ],
+        "final_winner": "Francis SOLORZANO"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Ryanne LIMA"
+                },
+                {
+                    "winner": "Ryanne LIMA"
+                }
+            ],
+            [
+                {
+                    "country": "USA",
+                    "name": "Katherine BERNIER"
+                },
+                {
+                    "country": "MEX",
+                    "name": "Katia CASTILLO"
+                },
+                {
+                    "winner": "Katia CASTILLO"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Ryanne LIMA"
+                },
+                {
+                    "country": "MEX",
+                    "name": "Katia CASTILLO"
+                }
+            ]
+        ],
+        "final_winner": "Ryanne LIMA"
+    },
+    "REPECHAGE": {
+        "round 1-4": [
+            [
+                {
+                    "country": "MEX",
+                    "name": "Julieta PEREZ"
+                },
+                {
+                    "country": "USA",
+                    "name": "Sara GOLDEN"
+                },
+                {
+                    "winner": "Sara GOLDEN"
+                }
+            ],
+            [
+                {
+                    "country": "PUR",
+                    "name": "Nahiara FELICIANO WILLIAMS"
+                },
+                {
+                    "winner": "Nahiara FELICIANO WILLIAMS"
+                }
+            ],
+            [
+                {
+                    "country": "COL",
+                    "name": "Esteysy DIAZ"
+                },
+                {
+                    "country": "PER",
+                    "name": "Ariana CORNEJO"
+                },
+                {
+                    "winner": "Esteysy DIAZ"
+                }
+            ],
+            [
+                {
+                    "country": "MEX",
+                    "name": "Katia CASTILLO"
+                },
+                {
+                    "winner": "Katia CASTILLO"
+                }
+            ]
+        ],
+        "round 1-2": [
+            [
+                {
+                    "country": "USA",
+                    "name": "Sara GOLDEN"
+                },
+                {
+                    "country": "PUR",
+                    "name": "Nahiara FELICIANO WILLIAMS"
+                },
+                {
+                    "winner": "Sara GOLDEN"
+                }
+            ],
+            [
+                {
+                    "country": "COL",
+                    "name": "Esteysy DIAZ"
+                },
+                {
+                    "country": "MEX",
+                    "name": "Katia CASTILLO"
+                },
+                {
+                    "winner": "Esteysy DIAZ"
+                }
+            ],
+            [
+                {
+                    "country": "USA",
+                    "name": "Sara GOLDEN"
+                },
+                {
+                    "country": "BRA",
+                    "name": "Ryanne LIMA"
+                },
+                {
+                    "winner": "Ryanne LIMA"
+                }
+            ],
+            [
+                {
+                    "country": "COL",
+                    "name": "Esteysy DIAZ"
+                },
+                {
+                    "country": "ECU",
+                    "name": "Edith ORTIZ"
+                },
+                {
+                    "winner": "Esteysy DIAZ"
+                }
+            ],
+            [
+                {
+                    "country": "BRA",
+                    "name": "Ryanne LIMA"
+                }
+            ],
+            [
+                {
+                    "country": "COL",
+                    "name": "Esteysy DIAZ"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Ryanne LIMA",
+            "Esteysy DIAZ"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ECU",
+                    "name": "Edith ORTIZ"
+                },
+                {
+                    "country": "ARG",
+                    "name": "Belen TITTARELLI"
+                },
+                {
+                    "winner": "Belen TITTARELLI"
+                }
+            ],
+            [
+                {
+                    "country": "VEN",
+                    "name": "Francis SOLORZANO"
+                },
+                {
+                    "country": "BRA",
+                    "name": "Ryanne LIMA"
+                },
+                {
+                    "winner": "Francis SOLORZANO"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "ARG",
+                    "name": "Belen TITTARELLI"
+                },
+                {
+                    "country": "VEN",
+                    "name": "Francis SOLORZANO"
+                }
+            ]
+        ],
+        "final_winner": "Francis SOLORZANO"
+    }
+}

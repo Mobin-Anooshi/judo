@@ -1,0 +1,227 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "DOM",
+                    "name": "Clara BARINAS BENITEZ"
+                },
+                {
+                    "winner": "Clara BARINAS BENITEZ"
+                }
+            ],
+            []
+        ],
+        "round 1-1": [],
+        "final_winner": "Clara BARINAS BENITEZ"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "DOM",
+                    "name": "Olisveidy SOLANO"
+                },
+                {
+                    "winner": "Olisveidy SOLANO"
+                }
+            ],
+            [
+                {
+                    "country": "HAI",
+                    "name": "Love PIERRE"
+                },
+                {
+                    "winner": "Love PIERRE"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "DOM",
+                    "name": "Olisveidy SOLANO"
+                },
+                {
+                    "country": "HAI",
+                    "name": "Love PIERRE"
+                }
+            ]
+        ],
+        "final_winner": "Love PIERRE"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CAN",
+                    "name": "Eibhleann ALEXANDER"
+                },
+                {
+                    "winner": "Eibhleann ALEXANDER"
+                }
+            ],
+            []
+        ],
+        "round 1-1": [],
+        "final_winner": "Eibhleann ALEXANDER"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "DOM",
+                    "name": "Jennifer DESERT"
+                },
+                {
+                    "winner": "Jennifer DESERT"
+                }
+            ],
+            [
+                {
+                    "country": "CRC",
+                    "name": "Jimena ARCE LACAYO"
+                },
+                {
+                    "winner": "Jimena ARCE LACAYO"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "DOM",
+                    "name": "Jennifer DESERT"
+                },
+                {
+                    "country": "CRC",
+                    "name": "Jimena ARCE LACAYO"
+                }
+            ]
+        ],
+        "final_winner": "Jimena ARCE LACAYO"
+    },
+    "REPECHAGE": {
+        "round 1-4": [
+            [],
+            [
+                {
+                    "country": "DOM",
+                    "name": "Olisveidy SOLANO"
+                },
+                {
+                    "winner": "Olisveidy SOLANO"
+                }
+            ],
+            [],
+            [
+                {
+                    "country": "DOM",
+                    "name": "Jennifer DESERT"
+                },
+                {
+                    "winner": "Jennifer DESERT"
+                }
+            ]
+        ],
+        "round 1-2": [
+            [
+                {
+                    "country": "DOM",
+                    "name": "Olisveidy SOLANO"
+                }
+            ],
+            [
+                {
+                    "country": "DOM",
+                    "name": "Jennifer DESERT"
+                }
+            ],
+            [
+                {
+                    "country": "DOM",
+                    "name": "Olisveidy SOLANO"
+                },
+                {
+                    "country": "CRC",
+                    "name": "Jimena ARCE LACAYO"
+                },
+                {
+                    "winner": "Jimena ARCE LACAYO"
+                }
+            ],
+            [
+                {
+                    "country": "DOM",
+                    "name": "Jennifer DESERT"
+                },
+                {
+                    "country": "HAI",
+                    "name": "Love PIERRE"
+                },
+                {
+                    "winner": "Love PIERRE"
+                }
+            ],
+            [
+                {
+                    "country": "CRC",
+                    "name": "Jimena ARCE LACAYO"
+                }
+            ],
+            [
+                {
+                    "country": "HAI",
+                    "name": "Love PIERRE"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Jimena ARCE LACAYO",
+            "Love PIERRE"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "DOM",
+                    "name": "Clara BARINAS BENITEZ"
+                },
+                {
+                    "country": "HAI",
+                    "name": "Love PIERRE"
+                },
+                {
+                    "winner": "Clara BARINAS BENITEZ"
+                }
+            ],
+            [
+                {
+                    "country": "CAN",
+                    "name": "Eibhleann ALEXANDER"
+                },
+                {
+                    "country": "CRC",
+                    "name": "Jimena ARCE LACAYO"
+                },
+                {
+                    "winner": "Eibhleann ALEXANDER"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "DOM",
+                    "name": "Clara BARINAS BENITEZ"
+                },
+                {
+                    "country": "CAN",
+                    "name": "Eibhleann ALEXANDER"
+                }
+            ]
+        ],
+        "final_winner": "Eibhleann ALEXANDER"
+    }
+}

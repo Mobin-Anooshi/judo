@@ -1,0 +1,141 @@
+{
+    "POOL A": {
+        "round 1-1": [],
+        "final_winner": "Kyle MCINDOE"
+    },
+    "POOL B": {
+        "round 1-1": [
+            [
+                {
+                    "country": "NCL",
+                    "name": "David MAI"
+                },
+                {
+                    "country": "NZL",
+                    "name": "Lorcan FIVET"
+                }
+            ]
+        ],
+        "final_winner": "David MAI"
+    },
+    "POOL C": {
+        "round 1-1": [],
+        "final_winner": "Jason APAVOU"
+    },
+    "POOL D": {
+        "round 1-1": [
+            [
+                {
+                    "country": "AUS",
+                    "name": "Patrick HILL"
+                },
+                {
+                    "country": "NZL",
+                    "name": "Sam ENTWISTLE"
+                }
+            ]
+        ],
+        "final_winner": "Patrick HILL"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "NZL",
+                    "name": "Lorcan FIVET"
+                }
+            ],
+            [
+                {
+                    "country": "NZL",
+                    "name": "Sam ENTWISTLE"
+                }
+            ],
+            [
+                {
+                    "country": "NZL",
+                    "name": "Lorcan FIVET"
+                },
+                {
+                    "country": "AUS",
+                    "name": "Patrick HILL"
+                },
+                {
+                    "winner": "Patrick HILL"
+                }
+            ],
+            [
+                {
+                    "country": "NZL",
+                    "name": "Sam ENTWISTLE"
+                },
+                {
+                    "country": "NCL",
+                    "name": "David MAI"
+                },
+                {
+                    "winner": "David MAI"
+                }
+            ],
+            [
+                {
+                    "country": "AUS",
+                    "name": "Patrick HILL"
+                }
+            ],
+            [
+                {
+                    "country": "NCL",
+                    "name": "David MAI"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Patrick HILL",
+            "David MAI"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "AUS",
+                    "name": "Kyle MCINDOE"
+                },
+                {
+                    "country": "NCL",
+                    "name": "David MAI"
+                },
+                {
+                    "winner": "Kyle MCINDOE"
+                }
+            ],
+            [
+                {
+                    "country": "NCL",
+                    "name": "Jason APAVOU"
+                },
+                {
+                    "country": "AUS",
+                    "name": "Patrick HILL"
+                },
+                {
+                    "winner": "Jason APAVOU"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "AUS",
+                    "name": "Kyle MCINDOE"
+                },
+                {
+                    "country": "NCL",
+                    "name": "Jason APAVOU"
+                }
+            ]
+        ],
+        "final_winner": "Kyle MCINDOE"
+    }
+}

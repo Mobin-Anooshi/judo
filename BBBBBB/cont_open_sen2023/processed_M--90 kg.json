@@ -1,0 +1,273 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "SEN",
+                    "name": "Abderahmane DIAO"
+                },
+                {
+                    "winner": "Abderahmane DIAO"
+                }
+            ],
+            [
+                {
+                    "country": "COD",
+                    "name": "Chartony EVOLOKO ILUMBE"
+                },
+                {
+                    "country": "SEN",
+                    "name": "Al Bachir Lakhami KEITA"
+                },
+                {
+                    "winner": "Chartony EVOLOKO ILUMBE"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "SEN",
+                    "name": "Abderahmane DIAO"
+                },
+                {
+                    "country": "COD",
+                    "name": "Chartony EVOLOKO ILUMBE"
+                }
+            ]
+        ],
+        "final_winner": "Abderahmane DIAO"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "BUR",
+                    "name": "Carmel KONE"
+                },
+                {
+                    "winner": "Carmel KONE"
+                }
+            ],
+            [
+                {
+                    "country": "GUI",
+                    "name": "Abdoulaye MILLIMONO"
+                },
+                {
+                    "country": "SEN",
+                    "name": "Adama BADJI"
+                },
+                {
+                    "winner": "Abdoulaye MILLIMONO"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "BUR",
+                    "name": "Carmel KONE"
+                },
+                {
+                    "country": "GUI",
+                    "name": "Abdoulaye MILLIMONO"
+                }
+            ]
+        ],
+        "final_winner": "Carmel KONE"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "MRI",
+                    "name": "Remi FEUILLET"
+                },
+                {
+                    "winner": "Remi FEUILLET"
+                }
+            ],
+            [
+                {
+                    "country": "TAN",
+                    "name": "Adam MWAKISOMA"
+                },
+                {
+                    "country": "SEN",
+                    "name": "Moulaye Idrissa DIOP"
+                },
+                {
+                    "winner": "Moulaye Idrissa DIOP"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "MRI",
+                    "name": "Remi FEUILLET"
+                },
+                {
+                    "country": "SEN",
+                    "name": "Moulaye Idrissa DIOP"
+                }
+            ]
+        ],
+        "final_winner": "Remi FEUILLET"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "SEN",
+                    "name": "Ryan DACOSTA"
+                },
+                {
+                    "winner": "Ryan DACOSTA"
+                }
+            ],
+            [
+                {
+                    "country": "CMR",
+                    "name": "Vladimir Carlos NGUEYA NAHEU"
+                },
+                {
+                    "country": "MLI",
+                    "name": "Koman DOUMBIA"
+                },
+                {
+                    "winner": "Vladimir Carlos NGUEYA NAHEU"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "SEN",
+                    "name": "Ryan DACOSTA"
+                },
+                {
+                    "country": "CMR",
+                    "name": "Vladimir Carlos NGUEYA NAHEU"
+                }
+            ]
+        ],
+        "final_winner": "Ryan DACOSTA"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "COD",
+                    "name": "Chartony EVOLOKO ILUMBE"
+                },
+                {
+                    "country": "GUI",
+                    "name": "Abdoulaye MILLIMONO"
+                },
+                {
+                    "winner": "Chartony EVOLOKO ILUMBE"
+                }
+            ],
+            [
+                {
+                    "country": "SEN",
+                    "name": "Moulaye Idrissa DIOP"
+                },
+                {
+                    "country": "CMR",
+                    "name": "Vladimir Carlos NGUEYA NAHEU"
+                },
+                {
+                    "winner": "Vladimir Carlos NGUEYA NAHEU"
+                }
+            ],
+            [
+                {
+                    "country": "COD",
+                    "name": "Chartony EVOLOKO ILUMBE"
+                },
+                {
+                    "country": "MRI",
+                    "name": "Remi FEUILLET"
+                },
+                {
+                    "winner": "Remi FEUILLET"
+                }
+            ],
+            [
+                {
+                    "country": "CMR",
+                    "name": "Vladimir Carlos NGUEYA NAHEU"
+                },
+                {
+                    "country": "BUR",
+                    "name": "Carmel KONE"
+                },
+                {
+                    "winner": "Vladimir Carlos NGUEYA NAHEU"
+                }
+            ],
+            [
+                {
+                    "country": "MRI",
+                    "name": "Remi FEUILLET"
+                }
+            ],
+            [
+                {
+                    "country": "CMR",
+                    "name": "Vladimir Carlos NGUEYA NAHEU"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Remi FEUILLET",
+            "Vladimir Carlos NGUEYA NAHEU"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "SEN",
+                    "name": "Abderahmane DIAO"
+                },
+                {
+                    "country": "BUR",
+                    "name": "Carmel KONE"
+                },
+                {
+                    "winner": "Abderahmane DIAO"
+                }
+            ],
+            [
+                {
+                    "country": "MRI",
+                    "name": "Remi FEUILLET"
+                },
+                {
+                    "country": "SEN",
+                    "name": "Ryan DACOSTA"
+                },
+                {
+                    "winner": "Ryan DACOSTA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "SEN",
+                    "name": "Abderahmane DIAO"
+                },
+                {
+                    "country": "SEN",
+                    "name": "Ryan DACOSTA"
+                }
+            ]
+        ],
+        "final_winner": "Abderahmane DIAO"
+    }
+}

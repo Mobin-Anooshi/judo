@@ -1,0 +1,87 @@
+{
+    "POOL A": {
+        "round 1-3": [
+            [
+                {
+                    "country": "DOM",
+                    "name": "Carlos ARIAS"
+                },
+                {
+                    "country": "DOM",
+                    "name": "Eduardo Manuel GUZMAN LARA"
+                },
+                {
+                    "winner": "Carlos ARIAS"
+                }
+            ],
+            [
+                {
+                    "country": "DOM",
+                    "name": "Carlos ARIAS"
+                },
+                {
+                    "country": "DOM",
+                    "name": "Marcos MARTE"
+                },
+                {
+                    "winner": "Marcos MARTE"
+                }
+            ],
+            [
+                {
+                    "country": "DOM",
+                    "name": "Eduardo Manuel GUZMAN LARA"
+                },
+                {
+                    "country": "DOM",
+                    "name": "Marcos MARTE"
+                },
+                {
+                    "winner": "Eduardo Manuel GUZMAN LARA"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Eduardo Manuel GUZMAN LARA",
+            "Marcos MARTE"
+        ]
+    },
+    "POOL B": {
+        "round 1-1": [],
+        "final_winners": [
+            "Jose Luis ORTEGA MENDOZA"
+        ]
+    },
+    "REPECHAGE": {
+        "round 1-1": [
+            [
+                {
+                    "country": "DOM",
+                    "name": "Marcos MARTE"
+                },
+                {
+                    "country": "DOM",
+                    "name": "Oscar SANTANA"
+                },
+                {
+                    "winner": "Oscar SANTANA"
+                }
+            ],
+            [
+                {
+                    "country": "DOM",
+                    "name": "Oscar SANTANA"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Oscar SANTANA"
+        ]
+    },
+    "FINALS": {
+        "round 1-1": [],
+        "final_winners": [
+            "Eduardo Manuel GUZMAN LARA"
+        ]
+    }
+}

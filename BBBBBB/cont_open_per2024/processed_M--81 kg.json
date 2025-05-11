@@ -1,0 +1,98 @@
+{
+    "POOL A": {
+        "round 1-3": [
+            [
+                {
+                    "country": "COL",
+                    "name": "John PEREZ RUIZ"
+                },
+                {
+                    "country": "HAI",
+                    "name": "Hensley Wood-Waldy PETIT-FRERE"
+                }
+            ],
+            [
+                {
+                    "country": "COL",
+                    "name": "John PEREZ RUIZ"
+                },
+                {
+                    "country": "USA",
+                    "name": "Davit AGHASARYAN"
+                }
+            ],
+            [
+                {
+                    "country": "HAI",
+                    "name": "Hensley Wood-Waldy PETIT-FRERE"
+                },
+                {
+                    "country": "USA",
+                    "name": "Davit AGHASARYAN"
+                }
+            ],
+            [
+                {
+                    "country": "COL",
+                    "name": "John PEREZ RUIZ"
+                }
+            ],
+            [
+                {
+                    "country": "USA",
+                    "name": "Davit AGHASARYAN"
+                }
+            ]
+        ]
+    },
+    "POOL B": {
+        "round 1-1": [
+            [
+                {
+                    "country": "USA",
+                    "name": "Ramon HERNANDEZ JR"
+                },
+                {
+                    "country": "BAH",
+                    "name": "Daniel STRACHAN"
+                }
+            ]
+        ],
+        "final_winner": "Ramon HERNANDEZ JR"
+    },
+    "REPECHAGE": {
+        "round 1-1": [
+            [
+                {
+                    "country": "COL",
+                    "name": "John PEREZ RUIZ"
+                },
+                {
+                    "country": "BAH",
+                    "name": "Daniel STRACHAN"
+                }
+            ],
+            [
+                {
+                    "country": "COL",
+                    "name": "John PEREZ RUIZ"
+                }
+            ]
+        ]
+    },
+    "FINALS": {
+        "round 1-1": [
+            [
+                {
+                    "country": "USA",
+                    "name": "Davit AGHASARYAN"
+                },
+                {
+                    "country": "USA",
+                    "name": "Ramon HERNANDEZ JR"
+                }
+            ]
+        ],
+        "final_winner": "Davit AGHASARYAN"
+    }
+}

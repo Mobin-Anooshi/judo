@@ -1,0 +1,159 @@
+{
+    "POOL A": {
+        "round 1-1": [],
+        "final_winner": "Leilani AKIYAMA"
+    },
+    "POOL B": {
+        "round 1-1": [
+            [
+                {
+                    "country": "PER",
+                    "name": "Marian FLORES"
+                },
+                {
+                    "country": "USA",
+                    "name": "Tasha CANCELA"
+                }
+            ]
+        ],
+        "final_winner": "Tasha CANCELA"
+    },
+    "POOL C": {
+        "round 1-1": [
+            [
+                {
+                    "country": "USA",
+                    "name": "Mariah HOLGUIN"
+                },
+                {
+                    "country": "PER",
+                    "name": "Romina BALTAZAR"
+                }
+            ]
+        ],
+        "final_winner": "Mariah HOLGUIN"
+    },
+    "POOL D": {
+        "round 1-1": [
+            [
+                {
+                    "country": "PER",
+                    "name": "Kiara ARANGO"
+                },
+                {
+                    "country": "PER",
+                    "name": "Marian UGARTE GARCIA"
+                }
+            ]
+        ],
+        "final_winner": "Kiara ARANGO"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "PER",
+                    "name": "Marian FLORES"
+                }
+            ],
+            [
+                {
+                    "country": "PER",
+                    "name": "Romina BALTAZAR"
+                },
+                {
+                    "country": "PER",
+                    "name": "Marian UGARTE GARCIA"
+                },
+                {
+                    "winner": "Romina BALTAZAR"
+                }
+            ],
+            [
+                {
+                    "country": "PER",
+                    "name": "Marian FLORES"
+                },
+                {
+                    "country": "PER",
+                    "name": "Kiara ARANGO"
+                },
+                {
+                    "winner": "Kiara ARANGO"
+                }
+            ],
+            [
+                {
+                    "country": "PER",
+                    "name": "Romina BALTAZAR"
+                },
+                {
+                    "country": "USA",
+                    "name": "Tasha CANCELA"
+                },
+                {
+                    "winner": "Tasha CANCELA"
+                }
+            ],
+            [
+                {
+                    "country": "PER",
+                    "name": "Kiara ARANGO"
+                }
+            ],
+            [
+                {
+                    "country": "USA",
+                    "name": "Tasha CANCELA"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Kiara ARANGO",
+            "Tasha CANCELA"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "USA",
+                    "name": "Leilani AKIYAMA"
+                },
+                {
+                    "country": "USA",
+                    "name": "Tasha CANCELA"
+                },
+                {
+                    "winner": "Leilani AKIYAMA"
+                }
+            ],
+            [
+                {
+                    "country": "USA",
+                    "name": "Mariah HOLGUIN"
+                },
+                {
+                    "country": "PER",
+                    "name": "Kiara ARANGO"
+                },
+                {
+                    "winner": "Mariah HOLGUIN"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "USA",
+                    "name": "Leilani AKIYAMA"
+                },
+                {
+                    "country": "USA",
+                    "name": "Mariah HOLGUIN"
+                }
+            ]
+        ],
+        "final_winner": "Mariah HOLGUIN"
+    }
+}

@@ -1,0 +1,68 @@
+{
+    "ROUND 1": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ALG",
+                    "name": "Islame BOUYEMOUT"
+                },
+                {
+                    "country": "TUN",
+                    "name": "Yassine BEN SALAH"
+                },
+                {
+                    "winner": "Islame BOUYEMOUT"
+                }
+            ],
+            [
+                {
+                    "country": "TUN",
+                    "name": "Yassine AGUERBI"
+                },
+                {
+                    "country": "ALG",
+                    "name": "Abdelkader LACHANI"
+                },
+                {
+                    "winner": "Abdelkader LACHANI"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Islame BOUYEMOUT",
+            "Abdelkader LACHANI"
+        ]
+    },
+    "REPECHAGE": {
+        "round 1-1": [
+            [
+                {
+                    "country": "TUN",
+                    "name": "Yassine BEN SALAH"
+                },
+                {
+                    "country": "TUN",
+                    "name": "Yassine AGUERBI"
+                },
+                {
+                    "winner": "Yassine BEN SALAH"
+                }
+            ],
+            [
+                {
+                    "country": "TUN",
+                    "name": "Yassine BEN SALAH"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Yassine BEN SALAH"
+        ]
+    },
+    "FINALS": {
+        "round 1-1": [],
+        "final_winners": [
+            "Abdelkader LACHANI"
+        ]
+    }
+}

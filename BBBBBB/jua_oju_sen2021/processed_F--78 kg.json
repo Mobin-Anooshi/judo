@@ -1,0 +1,261 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CHN",
+                    "name": "Zhenzhao MA"
+                },
+                {
+                    "winner": "Zhenzhao MA"
+                }
+            ],
+            [
+                {
+                    "country": "TKM",
+                    "name": "Ogulgerek NURMEDOVA"
+                },
+                {
+                    "winner": "Ogulgerek NURMEDOVA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "CHN",
+                    "name": "Zhenzhao MA"
+                },
+                {
+                    "country": "TKM",
+                    "name": "Ogulgerek NURMEDOVA"
+                }
+            ]
+        ],
+        "final_winner": "Zhenzhao MA"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CHN",
+                    "name": "Fei CHEN"
+                },
+                {
+                    "winner": "Fei CHEN"
+                }
+            ],
+            [
+                {
+                    "country": "TPE",
+                    "name": "Shu Huei HSU WANG"
+                },
+                {
+                    "winner": "Shu Huei HSU WANG"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "CHN",
+                    "name": "Fei CHEN"
+                },
+                {
+                    "country": "TPE",
+                    "name": "Shu Huei HSU WANG"
+                }
+            ]
+        ],
+        "final_winner": "Fei CHEN"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "KOR",
+                    "name": "Jeongyun LEE"
+                },
+                {
+                    "winner": "Jeongyun LEE"
+                }
+            ],
+            [
+                {
+                    "country": "THA",
+                    "name": "Ikumi OEDA"
+                },
+                {
+                    "country": "TPE",
+                    "name": "Liu Li-Ling SHIH"
+                },
+                {
+                    "winner": "Liu Li-Ling SHIH"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "KOR",
+                    "name": "Jeongyun LEE"
+                },
+                {
+                    "country": "TPE",
+                    "name": "Liu Li-Ling SHIH"
+                }
+            ]
+        ],
+        "final_winner": "Jeongyun LEE"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "KOR",
+                    "name": "Hyunji YOON"
+                },
+                {
+                    "winner": "Hyunji YOON"
+                }
+            ],
+            [
+                {
+                    "country": "UZB",
+                    "name": "Iriskhon KURBANBAEVA"
+                },
+                {
+                    "winner": "Iriskhon KURBANBAEVA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "KOR",
+                    "name": "Hyunji YOON"
+                },
+                {
+                    "country": "UZB",
+                    "name": "Iriskhon KURBANBAEVA"
+                }
+            ]
+        ],
+        "final_winner": "Hyunji YOON"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "TKM",
+                    "name": "Ogulgerek NURMEDOVA"
+                },
+                {
+                    "country": "TPE",
+                    "name": "Shu Huei HSU WANG"
+                },
+                {
+                    "winner": "Shu Huei HSU WANG"
+                }
+            ],
+            [
+                {
+                    "country": "TPE",
+                    "name": "Liu Li-Ling SHIH"
+                },
+                {
+                    "country": "UZB",
+                    "name": "Iriskhon KURBANBAEVA"
+                },
+                {
+                    "winner": "Liu Li-Ling SHIH"
+                }
+            ],
+            [
+                {
+                    "country": "TPE",
+                    "name": "Shu Huei HSU WANG"
+                },
+                {
+                    "country": "KOR",
+                    "name": "Jeongyun LEE"
+                },
+                {
+                    "winner": "Jeongyun LEE"
+                }
+            ],
+            [
+                {
+                    "country": "TPE",
+                    "name": "Liu Li-Ling SHIH"
+                },
+                {
+                    "country": "CHN",
+                    "name": "Fei CHEN"
+                },
+                {
+                    "winner": "Fei CHEN"
+                }
+            ],
+            [
+                {
+                    "country": "KOR",
+                    "name": "Jeongyun LEE"
+                }
+            ],
+            [
+                {
+                    "country": "CHN",
+                    "name": "Fei CHEN"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Jeongyun LEE",
+            "Fei CHEN"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CHN",
+                    "name": "Zhenzhao MA"
+                },
+                {
+                    "country": "CHN",
+                    "name": "Fei CHEN"
+                },
+                {
+                    "winner": "Zhenzhao MA"
+                }
+            ],
+            [
+                {
+                    "country": "KOR",
+                    "name": "Jeongyun LEE"
+                },
+                {
+                    "country": "KOR",
+                    "name": "Hyunji YOON"
+                },
+                {
+                    "winner": "Hyunji YOON"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "CHN",
+                    "name": "Zhenzhao MA"
+                },
+                {
+                    "country": "KOR",
+                    "name": "Hyunji YOON"
+                }
+            ]
+        ],
+        "final_winner": "Hyunji YOON"
+    }
+}

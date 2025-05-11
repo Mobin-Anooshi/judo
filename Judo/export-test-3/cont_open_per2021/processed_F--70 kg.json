@@ -1,0 +1,68 @@
+{
+    "ROUND 1": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ECU",
+                    "name": "Celinda COROZO"
+                },
+                {
+                    "country": "MEX",
+                    "name": "Melissa SANTOS"
+                },
+                {
+                    "winner": "Celinda COROZO"
+                }
+            ],
+            [
+                {
+                    "country": "MEX",
+                    "name": "Marcela GARCIA"
+                },
+                {
+                    "country": "COL",
+                    "name": "Luisa BONILLA"
+                },
+                {
+                    "winner": "Luisa BONILLA"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Celinda COROZO",
+            "Luisa BONILLA"
+        ]
+    },
+    "REPECHAGE": {
+        "round 1-1": [
+            [
+                {
+                    "country": "MEX",
+                    "name": "Melissa SANTOS"
+                },
+                {
+                    "country": "MEX",
+                    "name": "Marcela GARCIA"
+                },
+                {
+                    "winner": "Marcela GARCIA"
+                }
+            ],
+            [
+                {
+                    "country": "MEX",
+                    "name": "Marcela GARCIA"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Marcela GARCIA"
+        ]
+    },
+    "FINALS": {
+        "round 1-1": [],
+        "final_winners": [
+            "Celinda COROZO"
+        ]
+    }
+}

@@ -1,0 +1,159 @@
+{
+    "POOL A": {
+        "round 1-1": [],
+        "final_winner": "Estela HOGARTH"
+    },
+    "POOL B": {
+        "round 1-1": [
+            [
+                {
+                    "country": "SAM",
+                    "name": "Regina PITTARD"
+                },
+                {
+                    "country": "AUS",
+                    "name": "Thalia ARMSTRONG"
+                }
+            ]
+        ],
+        "final_winner": "Regina PITTARD"
+    },
+    "POOL C": {
+        "round 1-1": [
+            [
+                {
+                    "country": "AUS",
+                    "name": "Mackenzie COOK"
+                },
+                {
+                    "country": "KOR",
+                    "name": "Dayeong SONG"
+                }
+            ]
+        ],
+        "final_winner": "Dayeong SONG"
+    },
+    "POOL D": {
+        "round 1-1": [
+            [
+                {
+                    "country": "SGP",
+                    "name": "Yuxuan ZHEN"
+                },
+                {
+                    "country": "AUS",
+                    "name": "Lily TAI TIN"
+                }
+            ]
+        ],
+        "final_winner": "Yuxuan ZHEN"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "AUS",
+                    "name": "Thalia ARMSTRONG"
+                }
+            ],
+            [
+                {
+                    "country": "AUS",
+                    "name": "Mackenzie COOK"
+                },
+                {
+                    "country": "AUS",
+                    "name": "Lily TAI TIN"
+                },
+                {
+                    "winner": "Mackenzie COOK"
+                }
+            ],
+            [
+                {
+                    "country": "AUS",
+                    "name": "Thalia ARMSTRONG"
+                },
+                {
+                    "country": "SGP",
+                    "name": "Yuxuan ZHEN"
+                },
+                {
+                    "winner": "Yuxuan ZHEN"
+                }
+            ],
+            [
+                {
+                    "country": "AUS",
+                    "name": "Mackenzie COOK"
+                },
+                {
+                    "country": "SAM",
+                    "name": "Regina PITTARD"
+                },
+                {
+                    "winner": "Mackenzie COOK"
+                }
+            ],
+            [
+                {
+                    "country": "SGP",
+                    "name": "Yuxuan ZHEN"
+                }
+            ],
+            [
+                {
+                    "country": "AUS",
+                    "name": "Mackenzie COOK"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Yuxuan ZHEN",
+            "Mackenzie COOK"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "AUS",
+                    "name": "Estela HOGARTH"
+                },
+                {
+                    "country": "SAM",
+                    "name": "Regina PITTARD"
+                },
+                {
+                    "winner": "Estela HOGARTH"
+                }
+            ],
+            [
+                {
+                    "country": "KOR",
+                    "name": "Dayeong SONG"
+                },
+                {
+                    "country": "SGP",
+                    "name": "Yuxuan ZHEN"
+                },
+                {
+                    "winner": "Dayeong SONG"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "AUS",
+                    "name": "Estela HOGARTH"
+                },
+                {
+                    "country": "KOR",
+                    "name": "Dayeong SONG"
+                }
+            ]
+        ],
+        "final_winner": "Dayeong SONG"
+    }
+}

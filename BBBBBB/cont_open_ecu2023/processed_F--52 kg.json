@@ -1,0 +1,281 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ARG",
+                    "name": "Sofia FIORA"
+                },
+                {
+                    "winner": "Sofia FIORA"
+                }
+            ],
+            [
+                {
+                    "country": "CHI",
+                    "name": "Judith GONZALEZ"
+                },
+                {
+                    "country": "ECU",
+                    "name": "Scheccid RIVERA"
+                },
+                {
+                    "winner": "Scheccid RIVERA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "ARG",
+                    "name": "Sofia FIORA"
+                },
+                {
+                    "country": "ECU",
+                    "name": "Scheccid RIVERA"
+                }
+            ]
+        ],
+        "final_winner": "Sofia FIORA"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ARG",
+                    "name": "Agustina LAHITON"
+                },
+                {
+                    "country": "CUB",
+                    "name": "Yurisleidy HERNANDEZ IGLESIAS"
+                },
+                {
+                    "winner": "Yurisleidy HERNANDEZ IGLESIAS"
+                }
+            ],
+            [
+                {
+                    "country": "BRA",
+                    "name": "Thayna LEMOS"
+                },
+                {
+                    "country": "COL",
+                    "name": "Aixa Celene ROJAS"
+                },
+                {
+                    "winner": "Thayna LEMOS"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "CUB",
+                    "name": "Yurisleidy HERNANDEZ IGLESIAS"
+                },
+                {
+                    "country": "BRA",
+                    "name": "Thayna LEMOS"
+                }
+            ]
+        ],
+        "final_winner": "Yurisleidy HERNANDEZ IGLESIAS"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Yasmim LIMA"
+                },
+                {
+                    "winner": "Yasmim LIMA"
+                }
+            ],
+            [
+                {
+                    "country": "PAN",
+                    "name": "Lilian CORDONES"
+                },
+                {
+                    "country": "ECU",
+                    "name": "Aura FERRIN"
+                },
+                {
+                    "winner": "Lilian CORDONES"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Yasmim LIMA"
+                },
+                {
+                    "country": "PAN",
+                    "name": "Lilian CORDONES"
+                }
+            ]
+        ],
+        "final_winner": "Yasmim LIMA"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "VEN",
+                    "name": "Fabiola DIAZ"
+                },
+                {
+                    "country": "COL",
+                    "name": "Heidy RODRIGUEZ CARDONA"
+                },
+                {
+                    "winner": "Fabiola DIAZ"
+                }
+            ],
+            [
+                {
+                    "country": "PUR",
+                    "name": "Francine ECHEVARRIA"
+                },
+                {
+                    "country": "ECU",
+                    "name": "Aracelly BARRIONUEVO"
+                },
+                {
+                    "winner": "Aracelly BARRIONUEVO"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "VEN",
+                    "name": "Fabiola DIAZ"
+                },
+                {
+                    "country": "ECU",
+                    "name": "Aracelly BARRIONUEVO"
+                }
+            ]
+        ],
+        "final_winner": "Fabiola DIAZ"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ECU",
+                    "name": "Scheccid RIVERA"
+                },
+                {
+                    "country": "BRA",
+                    "name": "Thayna LEMOS"
+                },
+                {
+                    "winner": "Thayna LEMOS"
+                }
+            ],
+            [
+                {
+                    "country": "PAN",
+                    "name": "Lilian CORDONES"
+                },
+                {
+                    "country": "ECU",
+                    "name": "Aracelly BARRIONUEVO"
+                },
+                {
+                    "winner": "Aracelly BARRIONUEVO"
+                }
+            ],
+            [
+                {
+                    "country": "BRA",
+                    "name": "Thayna LEMOS"
+                },
+                {
+                    "country": "VEN",
+                    "name": "Fabiola DIAZ"
+                },
+                {
+                    "winner": "Thayna LEMOS"
+                }
+            ],
+            [
+                {
+                    "country": "ECU",
+                    "name": "Aracelly BARRIONUEVO"
+                },
+                {
+                    "country": "ARG",
+                    "name": "Sofia FIORA"
+                },
+                {
+                    "winner": "Sofia FIORA"
+                }
+            ],
+            [
+                {
+                    "country": "BRA",
+                    "name": "Thayna LEMOS"
+                }
+            ],
+            [
+                {
+                    "country": "ARG",
+                    "name": "Sofia FIORA"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Thayna LEMOS",
+            "Sofia FIORA"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ARG",
+                    "name": "Sofia FIORA"
+                },
+                {
+                    "country": "CUB",
+                    "name": "Yurisleidy HERNANDEZ IGLESIAS"
+                },
+                {
+                    "winner": "Yurisleidy HERNANDEZ IGLESIAS"
+                }
+            ],
+            [
+                {
+                    "country": "BRA",
+                    "name": "Yasmim LIMA"
+                },
+                {
+                    "country": "VEN",
+                    "name": "Fabiola DIAZ"
+                },
+                {
+                    "winner": "Yasmim LIMA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "CUB",
+                    "name": "Yurisleidy HERNANDEZ IGLESIAS"
+                },
+                {
+                    "country": "BRA",
+                    "name": "Yasmim LIMA"
+                }
+            ]
+        ],
+        "final_winner": "Yasmim LIMA"
+    }
+}

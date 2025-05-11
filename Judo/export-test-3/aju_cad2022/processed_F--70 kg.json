@@ -1,0 +1,68 @@
+{
+    "ROUND 1": {
+        "round 1-2": [
+            [
+                {
+                    "country": "EGY",
+                    "name": "Farida MAGDY"
+                },
+                {
+                    "country": "RSA",
+                    "name": "Zanya LANG"
+                },
+                {
+                    "winner": "Farida MAGDY"
+                }
+            ],
+            [
+                {
+                    "country": "BDI",
+                    "name": "Divine IRAKOZE"
+                },
+                {
+                    "country": "KEN",
+                    "name": "Aisha TUMAINI"
+                },
+                {
+                    "winner": "Aisha TUMAINI"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Farida MAGDY",
+            "Aisha TUMAINI"
+        ]
+    },
+    "REPECHAGE": {
+        "round 1-1": [
+            [
+                {
+                    "country": "RSA",
+                    "name": "Zanya LANG"
+                },
+                {
+                    "country": "BDI",
+                    "name": "Divine IRAKOZE"
+                },
+                {
+                    "winner": "Zanya LANG"
+                }
+            ],
+            [
+                {
+                    "country": "RSA",
+                    "name": "Zanya LANG"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Zanya LANG"
+        ]
+    },
+    "FINALS": {
+        "round 1-1": [],
+        "final_winners": [
+            "Farida MAGDY"
+        ]
+    }
+}

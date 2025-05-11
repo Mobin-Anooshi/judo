@@ -1,0 +1,221 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "TUN",
+                    "name": "Mouna MANAI"
+                },
+                {
+                    "winner": "Mouna MANAI"
+                }
+            ],
+            []
+        ],
+        "round 1-1": [],
+        "final_winner": "Mouna MANAI"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ALG",
+                    "name": "Zina BOUAKACHE"
+                },
+                {
+                    "winner": "Zina BOUAKACHE"
+                }
+            ],
+            [
+                {
+                    "country": "TUN",
+                    "name": "Bochra BEN ROMDHANE"
+                },
+                {
+                    "winner": "Bochra BEN ROMDHANE"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "ALG",
+                    "name": "Zina BOUAKACHE"
+                },
+                {
+                    "country": "TUN",
+                    "name": "Bochra BEN ROMDHANE"
+                }
+            ]
+        ],
+        "final_winner": "Zina BOUAKACHE"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ALG",
+                    "name": "Khadidja BEKHEIRA"
+                },
+                {
+                    "winner": "Khadidja BEKHEIRA"
+                }
+            ],
+            []
+        ],
+        "round 1-1": [],
+        "final_winner": "Khadidja BEKHEIRA"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ALG",
+                    "name": "Nesrine BOUDJEMIL"
+                },
+                {
+                    "winner": "Nesrine BOUDJEMIL"
+                }
+            ],
+            [
+                {
+                    "country": "TUN",
+                    "name": "Saida MONSER"
+                },
+                {
+                    "winner": "Saida MONSER"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "ALG",
+                    "name": "Nesrine BOUDJEMIL"
+                },
+                {
+                    "country": "TUN",
+                    "name": "Saida MONSER"
+                }
+            ]
+        ],
+        "final_winner": "Nesrine BOUDJEMIL"
+    },
+    "REPECHAGE": {
+        "round 1-4": [
+            [],
+            [
+                {
+                    "country": "TUN",
+                    "name": "Bochra BEN ROMDHANE"
+                },
+                {
+                    "winner": "Bochra BEN ROMDHANE"
+                }
+            ],
+            [],
+            [
+                {
+                    "country": "TUN",
+                    "name": "Saida MONSER"
+                },
+                {
+                    "winner": "Saida MONSER"
+                }
+            ]
+        ],
+        "round 1-2": [
+            [
+                {
+                    "country": "TUN",
+                    "name": "Bochra BEN ROMDHANE"
+                }
+            ],
+            [
+                {
+                    "country": "TUN",
+                    "name": "Saida MONSER"
+                }
+            ],
+            [
+                {
+                    "country": "TUN",
+                    "name": "Bochra BEN ROMDHANE"
+                },
+                {
+                    "country": "ALG",
+                    "name": "Khadidja BEKHEIRA"
+                },
+                {
+                    "winner": "Khadidja BEKHEIRA"
+                }
+            ],
+            [
+                {
+                    "country": "TUN",
+                    "name": "Saida MONSER"
+                },
+                {
+                    "country": "ALG",
+                    "name": "Zina BOUAKACHE"
+                },
+                {
+                    "winner": "Saida MONSER"
+                }
+            ],
+            [
+                {
+                    "country": "ALG",
+                    "name": "Khadidja BEKHEIRA"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Saida MONSER",
+            "Khadidja BEKHEIRA"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "TUN",
+                    "name": "Mouna MANAI"
+                },
+                {
+                    "country": "ALG",
+                    "name": "Zina BOUAKACHE"
+                },
+                {
+                    "winner": "Mouna MANAI"
+                }
+            ],
+            [
+                {
+                    "country": "ALG",
+                    "name": "Khadidja BEKHEIRA"
+                },
+                {
+                    "country": "ALG",
+                    "name": "Nesrine BOUDJEMIL"
+                },
+                {
+                    "winner": "Nesrine BOUDJEMIL"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "TUN",
+                    "name": "Mouna MANAI"
+                },
+                {
+                    "country": "ALG",
+                    "name": "Nesrine BOUDJEMIL"
+                }
+            ]
+        ],
+        "final_winner": "Nesrine BOUDJEMIL"
+    }
+}

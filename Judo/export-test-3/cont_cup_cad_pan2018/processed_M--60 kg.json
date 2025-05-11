@@ -1,0 +1,68 @@
+{
+    "ROUND 1": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ECU",
+                    "name": "Byron GUILLEN"
+                },
+                {
+                    "country": "COL",
+                    "name": "Juan Pablo RESTREPO"
+                },
+                {
+                    "winner": "Byron GUILLEN"
+                }
+            ],
+            [
+                {
+                    "country": "VEN",
+                    "name": "Willis GARCIA"
+                },
+                {
+                    "country": "CRC",
+                    "name": "Gustavo QUIROS"
+                },
+                {
+                    "winner": "Willis GARCIA"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Byron GUILLEN",
+            "Willis GARCIA"
+        ]
+    },
+    "REPECHAGE": {
+        "round 1-1": [
+            [
+                {
+                    "country": "COL",
+                    "name": "Juan Pablo RESTREPO"
+                },
+                {
+                    "country": "CRC",
+                    "name": "Gustavo QUIROS"
+                },
+                {
+                    "winner": "Juan Pablo RESTREPO"
+                }
+            ],
+            [
+                {
+                    "country": "COL",
+                    "name": "Juan Pablo RESTREPO"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Juan Pablo RESTREPO"
+        ]
+    },
+    "FINALS": {
+        "round 1-1": [],
+        "final_winners": [
+            "Byron GUILLEN"
+        ]
+    }
+}

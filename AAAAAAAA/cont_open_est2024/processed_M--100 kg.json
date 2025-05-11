@@ -1,0 +1,281 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ITA",
+                    "name": "Jean CARLETTI"
+                },
+                {
+                    "winner": "Jean CARLETTI"
+                }
+            ],
+            [
+                {
+                    "country": "NED",
+                    "name": "Silvan BULTHUIS"
+                },
+                {
+                    "country": "LTU",
+                    "name": "Mantas KLIMASAUSKAS"
+                },
+                {
+                    "winner": "Silvan BULTHUIS"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "ITA",
+                    "name": "Jean CARLETTI"
+                },
+                {
+                    "country": "NED",
+                    "name": "Silvan BULTHUIS"
+                }
+            ]
+        ],
+        "final_winner": "Silvan BULTHUIS"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ITA",
+                    "name": "Enrico BERGAMELLI"
+                },
+                {
+                    "country": "AUT",
+                    "name": "Adam BORCHASHVILLI"
+                },
+                {
+                    "winner": "Enrico BERGAMELLI"
+                }
+            ],
+            [
+                {
+                    "country": "UKR",
+                    "name": "Danylo HUTSOL"
+                },
+                {
+                    "country": "EST",
+                    "name": "Janari OLEV"
+                },
+                {
+                    "winner": "Danylo HUTSOL"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "ITA",
+                    "name": "Enrico BERGAMELLI"
+                },
+                {
+                    "country": "UKR",
+                    "name": "Danylo HUTSOL"
+                }
+            ]
+        ],
+        "final_winner": "Enrico BERGAMELLI"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "NED",
+                    "name": "Joes SCHELL"
+                },
+                {
+                    "winner": "Joes SCHELL"
+                }
+            ],
+            [
+                {
+                    "country": "GER",
+                    "name": "Tim SCHMIDT"
+                },
+                {
+                    "country": "AUT",
+                    "name": "Michael NIEDERDORFER"
+                },
+                {
+                    "winner": "Tim SCHMIDT"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "NED",
+                    "name": "Joes SCHELL"
+                },
+                {
+                    "country": "GER",
+                    "name": "Tim SCHMIDT"
+                }
+            ]
+        ],
+        "final_winner": "Tim SCHMIDT"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "GBR",
+                    "name": "Oliver BARRATT"
+                },
+                {
+                    "country": "EST",
+                    "name": "Jakob VARES"
+                },
+                {
+                    "winner": "Oliver BARRATT"
+                }
+            ],
+            [
+                {
+                    "country": "SLO",
+                    "name": "Gal BERTALANIC ZIZEK"
+                },
+                {
+                    "country": "LAT",
+                    "name": "Maksims DUINOVS"
+                },
+                {
+                    "winner": "Maksims DUINOVS"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "GBR",
+                    "name": "Oliver BARRATT"
+                },
+                {
+                    "country": "LAT",
+                    "name": "Maksims DUINOVS"
+                }
+            ]
+        ],
+        "final_winner": "Maksims DUINOVS"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ITA",
+                    "name": "Jean CARLETTI"
+                },
+                {
+                    "country": "UKR",
+                    "name": "Danylo HUTSOL"
+                },
+                {
+                    "winner": "Jean CARLETTI"
+                }
+            ],
+            [
+                {
+                    "country": "NED",
+                    "name": "Joes SCHELL"
+                },
+                {
+                    "country": "GBR",
+                    "name": "Oliver BARRATT"
+                },
+                {
+                    "winner": "Joes SCHELL"
+                }
+            ],
+            [
+                {
+                    "country": "ITA",
+                    "name": "Jean CARLETTI"
+                },
+                {
+                    "country": "LAT",
+                    "name": "Maksims DUINOVS"
+                },
+                {
+                    "winner": "Jean CARLETTI"
+                }
+            ],
+            [
+                {
+                    "country": "NED",
+                    "name": "Joes SCHELL"
+                },
+                {
+                    "country": "ITA",
+                    "name": "Enrico BERGAMELLI"
+                },
+                {
+                    "winner": "Enrico BERGAMELLI"
+                }
+            ],
+            [
+                {
+                    "country": "ITA",
+                    "name": "Jean CARLETTI"
+                }
+            ],
+            [
+                {
+                    "country": "ITA",
+                    "name": "Enrico BERGAMELLI"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Jean CARLETTI",
+            "Enrico BERGAMELLI"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "NED",
+                    "name": "Silvan BULTHUIS"
+                },
+                {
+                    "country": "ITA",
+                    "name": "Enrico BERGAMELLI"
+                },
+                {
+                    "winner": "Silvan BULTHUIS"
+                }
+            ],
+            [
+                {
+                    "country": "GER",
+                    "name": "Tim SCHMIDT"
+                },
+                {
+                    "country": "LAT",
+                    "name": "Maksims DUINOVS"
+                },
+                {
+                    "winner": "Tim SCHMIDT"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "NED",
+                    "name": "Silvan BULTHUIS"
+                },
+                {
+                    "country": "GER",
+                    "name": "Tim SCHMIDT"
+                }
+            ]
+        ],
+        "final_winner": "Tim SCHMIDT"
+    }
+}

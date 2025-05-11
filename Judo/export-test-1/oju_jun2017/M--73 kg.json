@@ -1,0 +1,135 @@
+{
+    "POOL A": {
+        "round 1-1": [],
+        "final_winner": "Vincent BURANI"
+    },
+    "POOL B": {
+        "round 1-1": [
+            [
+                {
+                    "country": "SAM",
+                    "name": "Tristan VAAI"
+                },
+                {
+                    "country": "NZL",
+                    "name": "Kasey WATSON"
+                }
+            ]
+        ],
+        "final_winner": "Kasey WATSON"
+    },
+    "POOL C": {
+        "round 1-1": [],
+        "final_winner": "Uros NIKOLIC"
+    },
+    "POOL D": {
+        "round 1-1": [
+            [
+                {
+                    "country": "NZL",
+                    "name": "Finn BROWN"
+                },
+                {
+                    "country": "NCL",
+                    "name": "Vincent NERIS"
+                }
+            ]
+        ],
+        "final_winner": "Vincent NERIS"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "SAM",
+                    "name": "Tristan VAAI"
+                }
+            ],
+            [
+                {
+                    "country": "NZL",
+                    "name": "Finn BROWN"
+                }
+            ],
+            [
+                {
+                    "country": "SAM",
+                    "name": "Tristan VAAI"
+                },
+                {
+                    "country": "NCL",
+                    "name": "Vincent NERIS"
+                },
+                {
+                    "winner": "Vincent NERIS"
+                }
+            ],
+            [
+                {
+                    "country": "NZL",
+                    "name": "Finn BROWN"
+                },
+                {
+                    "country": "NZL",
+                    "name": "Kasey WATSON"
+                },
+                {
+                    "winner": "Finn BROWN"
+                }
+            ],
+            [
+                {
+                    "country": "NCL",
+                    "name": "Vincent NERIS"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Finn BROWN",
+            "Vincent NERIS"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "NCL",
+                    "name": "Vincent BURANI"
+                },
+                {
+                    "country": "NZL",
+                    "name": "Kasey WATSON"
+                },
+                {
+                    "winner": "Vincent BURANI"
+                }
+            ],
+            [
+                {
+                    "country": "AUS",
+                    "name": "Uros NIKOLIC"
+                },
+                {
+                    "country": "NCL",
+                    "name": "Vincent NERIS"
+                },
+                {
+                    "winner": "Uros NIKOLIC"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "NCL",
+                    "name": "Vincent BURANI"
+                },
+                {
+                    "country": "AUS",
+                    "name": "Uros NIKOLIC"
+                }
+            ]
+        ],
+        "final_winner": "Uros NIKOLIC"
+    }
+}

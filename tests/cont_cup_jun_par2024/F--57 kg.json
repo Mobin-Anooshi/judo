@@ -1,0 +1,186 @@
+{
+    "POOL A": {
+        "round 1-1": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Bianca REIS"
+                },
+                {
+                    "country": "PAR",
+                    "name": "Paloma NARVAEZ"
+                }
+            ],
+            [
+                {
+                    "country": "BRA",
+                    "name": "Bianca REIS"
+                }
+            ]
+        ]
+    },
+    "POOL B": {
+        "round 1-1": [
+            [
+                {
+                    "country": "CHI",
+                    "name": "Martina MORENO"
+                },
+                {
+                    "country": "CHI",
+                    "name": "Isidora PALMA"
+                }
+            ],
+            [
+                {
+                    "country": "CHI",
+                    "name": "Martina MORENO"
+                }
+            ]
+        ]
+    },
+    "POOL C": {
+        "round 1-1": [
+            [
+                {
+                    "country": "CRC",
+                    "name": "Jimena ARCE LACAYO"
+                },
+                {
+                    "country": "ECU",
+                    "name": "Domenica LOZADA"
+                }
+            ],
+            [
+                {
+                    "country": "CRC",
+                    "name": "Jimena ARCE LACAYO"
+                }
+            ]
+        ]
+    },
+    "POOL D": {
+        "round 1-1": [
+            [
+                {
+                    "country": "VEN",
+                    "name": "Audreys PACHECO"
+                },
+                {
+                    "country": "COL",
+                    "name": "Mayra SOLIS"
+                }
+            ],
+            [
+                {
+                    "country": "VEN",
+                    "name": "Audreys PACHECO"
+                }
+            ]
+        ]
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "PAR",
+                    "name": "Paloma NARVAEZ"
+                },
+                {
+                    "country": "CHI",
+                    "name": "Isidora PALMA"
+                }
+            ],
+            [
+                {
+                    "country": "ECU",
+                    "name": "Domenica LOZADA"
+                },
+                {
+                    "country": "COL",
+                    "name": "Mayra SOLIS"
+                }
+            ],
+            [
+                {
+                    "country": "PAR",
+                    "name": "Paloma NARVAEZ"
+                },
+                {
+                    "country": "CRC",
+                    "name": "Jimena ARCE LACAYO"
+                }
+            ],
+            [
+                {
+                    "country": "COL",
+                    "name": "Mayra SOLIS"
+                },
+                {
+                    "country": "CHI",
+                    "name": "Martina MORENO"
+                }
+            ],
+            [
+                {
+                    "country": "PAR",
+                    "name": "Paloma NARVAEZ"
+                }
+            ],
+            [
+                {
+                    "country": "COL",
+                    "name": "Mayra SOLIS"
+                }
+            ]
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Bianca REIS"
+                },
+                {
+                    "country": "CHI",
+                    "name": "Martina MORENO"
+                },
+                {
+                    "winner": "Bianca REIS"
+                }
+            ],
+            [
+                {
+                    "country": "CRC",
+                    "name": "Jimena ARCE LACAYO"
+                },
+                {
+                    "country": "VEN",
+                    "name": "Audreys PACHECO"
+                },
+                {
+                    "winner": "Audreys PACHECO"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Bianca REIS"
+                },
+                {
+                    "country": "VEN",
+                    "name": "Audreys PACHECO"
+                }
+            ],
+            [
+                {
+                    "country": "BRA",
+                    "name": "Bianca REIS"
+                }
+            ]
+        ]
+    }
+}

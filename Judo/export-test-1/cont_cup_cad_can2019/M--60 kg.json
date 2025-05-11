@@ -1,0 +1,259 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "POR",
+                    "name": "Arthur GOTTHEINER"
+                },
+                {
+                    "winner": "Arthur GOTTHEINER"
+                }
+            ],
+            [
+                {
+                    "country": "USA",
+                    "name": "Romin BAKHTIYOR"
+                },
+                {
+                    "country": "CAN",
+                    "name": "Max GARSON"
+                },
+                {
+                    "winner": "Romin BAKHTIYOR"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "POR",
+                    "name": "Arthur GOTTHEINER"
+                },
+                {
+                    "country": "USA",
+                    "name": "Romin BAKHTIYOR"
+                }
+            ]
+        ],
+        "final_winner": "Arthur GOTTHEINER"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CAN",
+                    "name": "Boyd HUM"
+                },
+                {
+                    "winner": "Boyd HUM"
+                }
+            ],
+            [
+                {
+                    "country": "CAN",
+                    "name": "Nathaniel BURTON"
+                },
+                {
+                    "winner": "Nathaniel BURTON"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "CAN",
+                    "name": "Boyd HUM"
+                },
+                {
+                    "country": "CAN",
+                    "name": "Nathaniel BURTON"
+                }
+            ]
+        ],
+        "final_winner": "Nathaniel BURTON"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CAN",
+                    "name": "Braden DIXON"
+                },
+                {
+                    "winner": "Braden DIXON"
+                }
+            ],
+            []
+        ],
+        "round 1-1": [],
+        "final_winner": "Braden DIXON"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CAN",
+                    "name": "Daniel MCCRISTALL"
+                },
+                {
+                    "winner": "Daniel MCCRISTALL"
+                }
+            ],
+            [
+                {
+                    "country": "CAN",
+                    "name": "Victor DESSUREAULT"
+                },
+                {
+                    "winner": "Victor DESSUREAULT"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "CAN",
+                    "name": "Daniel MCCRISTALL"
+                },
+                {
+                    "country": "CAN",
+                    "name": "Victor DESSUREAULT"
+                }
+            ]
+        ],
+        "final_winner": "Victor DESSUREAULT"
+    },
+    "REPECHAGE": {
+        "round 1-4": [
+            [
+                {
+                    "country": "USA",
+                    "name": "Romin BAKHTIYOR"
+                },
+                {
+                    "winner": "Romin BAKHTIYOR"
+                }
+            ],
+            [
+                {
+                    "country": "CAN",
+                    "name": "Boyd HUM"
+                },
+                {
+                    "winner": "Boyd HUM"
+                }
+            ],
+            [],
+            [
+                {
+                    "country": "CAN",
+                    "name": "Daniel MCCRISTALL"
+                },
+                {
+                    "winner": "Daniel MCCRISTALL"
+                }
+            ]
+        ],
+        "round 1-2": [
+            [
+                {
+                    "country": "USA",
+                    "name": "Romin BAKHTIYOR"
+                },
+                {
+                    "country": "CAN",
+                    "name": "Boyd HUM"
+                },
+                {
+                    "winner": "Romin BAKHTIYOR"
+                }
+            ],
+            [
+                {
+                    "country": "CAN",
+                    "name": "Daniel MCCRISTALL"
+                }
+            ],
+            [
+                {
+                    "country": "USA",
+                    "name": "Romin BAKHTIYOR"
+                },
+                {
+                    "country": "CAN",
+                    "name": "Braden DIXON"
+                },
+                {
+                    "winner": "Braden DIXON"
+                }
+            ],
+            [
+                {
+                    "country": "CAN",
+                    "name": "Daniel MCCRISTALL"
+                },
+                {
+                    "country": "CAN",
+                    "name": "Nathaniel BURTON"
+                },
+                {
+                    "winner": "Daniel MCCRISTALL"
+                }
+            ],
+            [
+                {
+                    "country": "CAN",
+                    "name": "Braden DIXON"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Daniel MCCRISTALL",
+            "Braden DIXON"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "POR",
+                    "name": "Arthur GOTTHEINER"
+                },
+                {
+                    "country": "CAN",
+                    "name": "Nathaniel BURTON"
+                },
+                {
+                    "winner": "Arthur GOTTHEINER"
+                }
+            ],
+            [
+                {
+                    "country": "CAN",
+                    "name": "Braden DIXON"
+                },
+                {
+                    "country": "CAN",
+                    "name": "Victor DESSUREAULT"
+                },
+                {
+                    "winner": "Victor DESSUREAULT"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "POR",
+                    "name": "Arthur GOTTHEINER"
+                },
+                {
+                    "country": "CAN",
+                    "name": "Victor DESSUREAULT"
+                }
+            ]
+        ],
+        "final_winner": "Arthur GOTTHEINER"
+    }
+}

@@ -1,0 +1,177 @@
+{
+    "POOL A": {
+        "round 1-1": [
+            [
+                {
+                    "country": "ECU",
+                    "name": "Celinda COROZO"
+                },
+                {
+                    "country": "PER",
+                    "name": "Xsara MORALES FALCONI"
+                }
+            ]
+        ],
+        "final_winner": "Celinda COROZO"
+    },
+    "POOL B": {
+        "round 1-1": [
+            [
+                {
+                    "country": "COL",
+                    "name": "Brenda OLAYA"
+                },
+                {
+                    "country": "USA",
+                    "name": "Melissa MYERS"
+                }
+            ]
+        ],
+        "final_winner": "Brenda OLAYA"
+    },
+    "POOL C": {
+        "round 1-1": [
+            [
+                {
+                    "country": "COL",
+                    "name": "Luisa BONILLA"
+                },
+                {
+                    "country": "CAN",
+                    "name": "Alexandria LEFORT"
+                }
+            ]
+        ],
+        "final_winner": "Luisa BONILLA"
+    },
+    "POOL D": {
+        "round 1-1": [
+            [
+                {
+                    "country": "IRL",
+                    "name": "Rachael HAWKES"
+                },
+                {
+                    "country": "MEX",
+                    "name": "Leslie VILLARREAL"
+                }
+            ]
+        ],
+        "final_winner": "Rachael HAWKES"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "PER",
+                    "name": "Xsara MORALES FALCONI"
+                },
+                {
+                    "country": "USA",
+                    "name": "Melissa MYERS"
+                },
+                {
+                    "winner": "Xsara MORALES FALCONI"
+                }
+            ],
+            [
+                {
+                    "country": "CAN",
+                    "name": "Alexandria LEFORT"
+                },
+                {
+                    "country": "MEX",
+                    "name": "Leslie VILLARREAL"
+                },
+                {
+                    "winner": "Alexandria LEFORT"
+                }
+            ],
+            [
+                {
+                    "country": "PER",
+                    "name": "Xsara MORALES FALCONI"
+                },
+                {
+                    "country": "IRL",
+                    "name": "Rachael HAWKES"
+                },
+                {
+                    "winner": "Xsara MORALES FALCONI"
+                }
+            ],
+            [
+                {
+                    "country": "CAN",
+                    "name": "Alexandria LEFORT"
+                },
+                {
+                    "country": "COL",
+                    "name": "Brenda OLAYA"
+                },
+                {
+                    "winner": "Brenda OLAYA"
+                }
+            ],
+            [
+                {
+                    "country": "PER",
+                    "name": "Xsara MORALES FALCONI"
+                }
+            ],
+            [
+                {
+                    "country": "COL",
+                    "name": "Brenda OLAYA"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Xsara MORALES FALCONI",
+            "Brenda OLAYA"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ECU",
+                    "name": "Celinda COROZO"
+                },
+                {
+                    "country": "COL",
+                    "name": "Brenda OLAYA"
+                },
+                {
+                    "winner": "Celinda COROZO"
+                }
+            ],
+            [
+                {
+                    "country": "COL",
+                    "name": "Luisa BONILLA"
+                },
+                {
+                    "country": "IRL",
+                    "name": "Rachael HAWKES"
+                },
+                {
+                    "winner": "Luisa BONILLA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "ECU",
+                    "name": "Celinda COROZO"
+                },
+                {
+                    "country": "COL",
+                    "name": "Luisa BONILLA"
+                }
+            ]
+        ],
+        "final_winner": "Celinda COROZO"
+    }
+}

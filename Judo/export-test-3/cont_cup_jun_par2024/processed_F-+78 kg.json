@@ -1,0 +1,68 @@
+{
+    "ROUND 1": {
+        "round 1-2": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Olivia OLIVEIRA"
+                },
+                {
+                    "country": "MEX",
+                    "name": "Barbara PADILLA"
+                },
+                {
+                    "winner": "Olivia OLIVEIRA"
+                }
+            ],
+            [
+                {
+                    "country": "CHI",
+                    "name": "Kharla CASAS"
+                },
+                {
+                    "country": "CRC",
+                    "name": "Arianna CHAVES GONZALEZ"
+                },
+                {
+                    "winner": "Kharla CASAS"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Olivia OLIVEIRA",
+            "Kharla CASAS"
+        ]
+    },
+    "REPECHAGE": {
+        "round 1-1": [
+            [
+                {
+                    "country": "MEX",
+                    "name": "Barbara PADILLA"
+                },
+                {
+                    "country": "CRC",
+                    "name": "Arianna CHAVES GONZALEZ"
+                },
+                {
+                    "winner": "Barbara PADILLA"
+                }
+            ],
+            [
+                {
+                    "country": "MEX",
+                    "name": "Barbara PADILLA"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Barbara PADILLA"
+        ]
+    },
+    "FINALS": {
+        "round 1-1": [],
+        "final_winners": [
+            "Olivia OLIVEIRA"
+        ]
+    }
+}

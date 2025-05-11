@@ -1,0 +1,261 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "USA",
+                    "name": "Colton BROWN"
+                },
+                {
+                    "winner": "Colton BROWN"
+                }
+            ],
+            [
+                {
+                    "country": "ARG",
+                    "name": "Alejandro MERLO"
+                },
+                {
+                    "winner": "Alejandro MERLO"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "USA",
+                    "name": "Colton BROWN"
+                },
+                {
+                    "country": "ARG",
+                    "name": "Alejandro MERLO"
+                }
+            ]
+        ],
+        "final_winner": "Colton BROWN"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ARG",
+                    "name": "Jose PERALTA"
+                },
+                {
+                    "winner": "Jose PERALTA"
+                }
+            ],
+            [
+                {
+                    "country": "ARG",
+                    "name": "Francisco ALVARADO"
+                },
+                {
+                    "winner": "Francisco ALVARADO"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "ARG",
+                    "name": "Jose PERALTA"
+                },
+                {
+                    "country": "ARG",
+                    "name": "Francisco ALVARADO"
+                }
+            ]
+        ],
+        "final_winner": "Francisco ALVARADO"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "LBN",
+                    "name": "Nacif ELIAS"
+                },
+                {
+                    "winner": "Nacif ELIAS"
+                }
+            ],
+            [
+                {
+                    "country": "ARG",
+                    "name": "Tomas SPIKERMANN"
+                },
+                {
+                    "country": "URU",
+                    "name": "Leonardo LOMBARDO"
+                },
+                {
+                    "winner": "Tomas SPIKERMANN"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "LBN",
+                    "name": "Nacif ELIAS"
+                },
+                {
+                    "country": "ARG",
+                    "name": "Tomas SPIKERMANN"
+                }
+            ]
+        ],
+        "final_winner": "Nacif ELIAS"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ARG",
+                    "name": "Alexis DUARTE"
+                },
+                {
+                    "winner": "Alexis DUARTE"
+                }
+            ],
+            [
+                {
+                    "country": "ARG",
+                    "name": "Juan MACAZAGA"
+                },
+                {
+                    "winner": "Juan MACAZAGA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "ARG",
+                    "name": "Alexis DUARTE"
+                },
+                {
+                    "country": "ARG",
+                    "name": "Juan MACAZAGA"
+                }
+            ]
+        ],
+        "final_winner": "Alexis DUARTE"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ARG",
+                    "name": "Alejandro MERLO"
+                },
+                {
+                    "country": "ARG",
+                    "name": "Jose PERALTA"
+                },
+                {
+                    "winner": "Jose PERALTA"
+                }
+            ],
+            [
+                {
+                    "country": "ARG",
+                    "name": "Tomas SPIKERMANN"
+                },
+                {
+                    "country": "ARG",
+                    "name": "Juan MACAZAGA"
+                },
+                {
+                    "winner": "Tomas SPIKERMANN"
+                }
+            ],
+            [
+                {
+                    "country": "ARG",
+                    "name": "Jose PERALTA"
+                },
+                {
+                    "country": "ARG",
+                    "name": "Alexis DUARTE"
+                },
+                {
+                    "winner": "Alexis DUARTE"
+                }
+            ],
+            [
+                {
+                    "country": "ARG",
+                    "name": "Tomas SPIKERMANN"
+                },
+                {
+                    "country": "ARG",
+                    "name": "Francisco ALVARADO"
+                },
+                {
+                    "winner": "Tomas SPIKERMANN"
+                }
+            ],
+            [
+                {
+                    "country": "ARG",
+                    "name": "Alexis DUARTE"
+                }
+            ],
+            [
+                {
+                    "country": "ARG",
+                    "name": "Tomas SPIKERMANN"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Alexis DUARTE",
+            "Tomas SPIKERMANN"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "USA",
+                    "name": "Colton BROWN"
+                },
+                {
+                    "country": "ARG",
+                    "name": "Francisco ALVARADO"
+                },
+                {
+                    "winner": "Colton BROWN"
+                }
+            ],
+            [
+                {
+                    "country": "LBN",
+                    "name": "Nacif ELIAS"
+                },
+                {
+                    "country": "ARG",
+                    "name": "Alexis DUARTE"
+                },
+                {
+                    "winner": "Nacif ELIAS"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "USA",
+                    "name": "Colton BROWN"
+                },
+                {
+                    "country": "LBN",
+                    "name": "Nacif ELIAS"
+                }
+            ]
+        ],
+        "final_winner": "Nacif ELIAS"
+    }
+}

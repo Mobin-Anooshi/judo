@@ -1,0 +1,270 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "SWE",
+                    "name": "Martin PACEK"
+                },
+                {
+                    "winner": "Martin PACEK"
+                }
+            ],
+            [
+                {
+                    "country": "SWE",
+                    "name": "Emil MATTSSON"
+                },
+                {
+                    "country": "RUS",
+                    "name": "Oleg ISHIMOV"
+                },
+                {
+                    "winner": "Oleg ISHIMOV"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "SWE",
+                    "name": "Martin PACEK"
+                },
+                {
+                    "country": "RUS",
+                    "name": "Oleg ISHIMOV"
+                }
+            ],
+            [
+                {
+                    "country": "SWE",
+                    "name": "Martin PACEK"
+                }
+            ]
+        ]
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "RUS",
+                    "name": "Niiaz BILALOV"
+                },
+                {
+                    "winner": "Niiaz BILALOV"
+                }
+            ],
+            [
+                {
+                    "country": "AZE",
+                    "name": "Jalil SHUKUROV"
+                },
+                {
+                    "winner": "Jalil SHUKUROV"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "RUS",
+                    "name": "Niiaz BILALOV"
+                },
+                {
+                    "country": "AZE",
+                    "name": "Jalil SHUKUROV"
+                }
+            ],
+            [
+                {
+                    "country": "AZE",
+                    "name": "Jalil SHUKUROV"
+                }
+            ]
+        ]
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "RUS",
+                    "name": "Adlan BISULTANOV"
+                },
+                {
+                    "winner": "Adlan BISULTANOV"
+                }
+            ],
+            [
+                {
+                    "country": "RUS",
+                    "name": "Kazbek ZANKISHIEV"
+                },
+                {
+                    "winner": "Kazbek ZANKISHIEV"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "RUS",
+                    "name": "Adlan BISULTANOV"
+                },
+                {
+                    "country": "RUS",
+                    "name": "Kazbek ZANKISHIEV"
+                }
+            ],
+            [
+                {
+                    "country": "RUS",
+                    "name": "Adlan BISULTANOV"
+                }
+            ]
+        ]
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "GBR",
+                    "name": "Benjamin FLETCHER"
+                },
+                {
+                    "winner": "Benjamin FLETCHER"
+                }
+            ],
+            [
+                {
+                    "country": "MDA",
+                    "name": "Denis TACHII"
+                },
+                {
+                    "winner": "Denis TACHII"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "GBR",
+                    "name": "Benjamin FLETCHER"
+                },
+                {
+                    "country": "MDA",
+                    "name": "Denis TACHII"
+                }
+            ],
+            [
+                {
+                    "country": "GBR",
+                    "name": "Benjamin FLETCHER"
+                }
+            ]
+        ]
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "RUS",
+                    "name": "Oleg ISHIMOV"
+                },
+                {
+                    "country": "RUS",
+                    "name": "Niiaz BILALOV"
+                }
+            ],
+            [
+                {
+                    "country": "RUS",
+                    "name": "Kazbek ZANKISHIEV"
+                },
+                {
+                    "country": "MDA",
+                    "name": "Denis TACHII"
+                }
+            ],
+            [
+                {
+                    "country": "RUS",
+                    "name": "Niiaz BILALOV"
+                },
+                {
+                    "country": "GBR",
+                    "name": "Benjamin FLETCHER"
+                }
+            ],
+            [
+                {
+                    "country": "RUS",
+                    "name": "Kazbek ZANKISHIEV"
+                },
+                {
+                    "country": "AZE",
+                    "name": "Jalil SHUKUROV"
+                }
+            ],
+            [
+                {
+                    "country": "RUS",
+                    "name": "Niiaz BILALOV"
+                }
+            ],
+            [
+                {
+                    "country": "RUS",
+                    "name": "Kazbek ZANKISHIEV"
+                }
+            ]
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "SWE",
+                    "name": "Martin PACEK"
+                },
+                {
+                    "country": "AZE",
+                    "name": "Jalil SHUKUROV"
+                },
+                {
+                    "winner": "Martin PACEK"
+                }
+            ],
+            [
+                {
+                    "country": "RUS",
+                    "name": "Adlan BISULTANOV"
+                },
+                {
+                    "country": "GBR",
+                    "name": "Benjamin FLETCHER"
+                },
+                {
+                    "winner": "Adlan BISULTANOV"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "SWE",
+                    "name": "Martin PACEK"
+                },
+                {
+                    "country": "RUS",
+                    "name": "Adlan BISULTANOV"
+                }
+            ],
+            [
+                {
+                    "country": "SWE",
+                    "name": "Martin PACEK"
+                }
+            ]
+        ]
+    }
+}

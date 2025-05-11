@@ -1,0 +1,265 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "USA",
+                    "name": "Maria Celia LABORDE"
+                },
+                {
+                    "winner": "Maria Celia LABORDE"
+                }
+            ],
+            [
+                {
+                    "country": "ARG",
+                    "name": "Mikaela ROJAS"
+                },
+                {
+                    "country": "AUS",
+                    "name": "Anneliese FIELDER"
+                },
+                {
+                    "winner": "Mikaela ROJAS"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "USA",
+                    "name": "Maria Celia LABORDE"
+                },
+                {
+                    "country": "ARG",
+                    "name": "Mikaela ROJAS"
+                }
+            ]
+        ],
+        "final_winner": "Maria Celia LABORDE"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ARG",
+                    "name": "Keisy PERAFAN"
+                },
+                {
+                    "winner": "Keisy PERAFAN"
+                }
+            ],
+            [
+                {
+                    "country": "MEX",
+                    "name": "Edna CARRILLO"
+                },
+                {
+                    "winner": "Edna CARRILLO"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "ARG",
+                    "name": "Keisy PERAFAN"
+                },
+                {
+                    "country": "MEX",
+                    "name": "Edna CARRILLO"
+                }
+            ]
+        ],
+        "final_winner": "Edna CARRILLO"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CHI",
+                    "name": "Mary Dee VARGAS LEY"
+                },
+                {
+                    "winner": "Mary Dee VARGAS LEY"
+                }
+            ],
+            [
+                {
+                    "country": "CUB",
+                    "name": "Zamarit GREGORIO"
+                },
+                {
+                    "country": "CAN",
+                    "name": "Charlize Isabelle MEDILO"
+                },
+                {
+                    "winner": "Zamarit GREGORIO"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "CHI",
+                    "name": "Mary Dee VARGAS LEY"
+                },
+                {
+                    "country": "CUB",
+                    "name": "Zamarit GREGORIO"
+                }
+            ]
+        ],
+        "final_winner": "Mary Dee VARGAS LEY"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Natasha FERREIRA"
+                },
+                {
+                    "winner": "Natasha FERREIRA"
+                }
+            ],
+            [
+                {
+                    "country": "COL",
+                    "name": "Erika LASSO"
+                },
+                {
+                    "winner": "Erika LASSO"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Natasha FERREIRA"
+                },
+                {
+                    "country": "COL",
+                    "name": "Erika LASSO"
+                }
+            ]
+        ],
+        "final_winner": "Natasha FERREIRA"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ARG",
+                    "name": "Mikaela ROJAS"
+                },
+                {
+                    "country": "ARG",
+                    "name": "Keisy PERAFAN"
+                },
+                {
+                    "winner": "Keisy PERAFAN"
+                }
+            ],
+            [
+                {
+                    "country": "CUB",
+                    "name": "Zamarit GREGORIO"
+                },
+                {
+                    "country": "COL",
+                    "name": "Erika LASSO"
+                },
+                {
+                    "winner": "Erika LASSO"
+                }
+            ],
+            [
+                {
+                    "country": "ARG",
+                    "name": "Keisy PERAFAN"
+                },
+                {
+                    "country": "BRA",
+                    "name": "Natasha FERREIRA"
+                },
+                {
+                    "winner": "Natasha FERREIRA"
+                }
+            ],
+            [
+                {
+                    "country": "COL",
+                    "name": "Erika LASSO"
+                },
+                {
+                    "country": "USA",
+                    "name": "Maria Celia LABORDE"
+                },
+                {
+                    "winner": "Maria Celia LABORDE"
+                }
+            ],
+            [
+                {
+                    "country": "BRA",
+                    "name": "Natasha FERREIRA"
+                }
+            ],
+            [
+                {
+                    "country": "USA",
+                    "name": "Maria Celia LABORDE"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Natasha FERREIRA",
+            "Maria Celia LABORDE"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "USA",
+                    "name": "Maria Celia LABORDE"
+                },
+                {
+                    "country": "MEX",
+                    "name": "Edna CARRILLO"
+                },
+                {
+                    "winner": "Edna CARRILLO"
+                }
+            ],
+            [
+                {
+                    "country": "CHI",
+                    "name": "Mary Dee VARGAS LEY"
+                },
+                {
+                    "country": "BRA",
+                    "name": "Natasha FERREIRA"
+                },
+                {
+                    "winner": "Mary Dee VARGAS LEY"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "MEX",
+                    "name": "Edna CARRILLO"
+                },
+                {
+                    "country": "CHI",
+                    "name": "Mary Dee VARGAS LEY"
+                }
+            ]
+        ],
+        "final_winner": "Mary Dee VARGAS LEY"
+    }
+}

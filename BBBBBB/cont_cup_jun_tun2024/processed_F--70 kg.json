@@ -1,0 +1,153 @@
+{
+    "POOL A": {
+        "round 1-1": [],
+        "final_winner": "Dyhia BENCHALLAL"
+    },
+    "POOL B": {
+        "round 1-1": [
+            [
+                {
+                    "country": "TUN",
+                    "name": "Hayet AYED"
+                },
+                {
+                    "country": "TUN",
+                    "name": "Wided RAJHID"
+                }
+            ]
+        ],
+        "final_winner": "Wided RAJHID"
+    },
+    "POOL C": {
+        "round 1-1": [
+            [
+                {
+                    "country": "MAR",
+                    "name": "Nassma ESSATOURI"
+                },
+                {
+                    "country": "TUN",
+                    "name": "Aya GWIAA"
+                }
+            ]
+        ],
+        "final_winner": "Nassma ESSATOURI"
+    },
+    "POOL D": {
+        "round 1-1": [
+            [
+                {
+                    "country": "TUN",
+                    "name": "Maram JMOUR"
+                },
+                {
+                    "country": "ALG",
+                    "name": "Lydia KECHOUT"
+                }
+            ]
+        ],
+        "final_winner": "Maram JMOUR"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "TUN",
+                    "name": "Hayet AYED"
+                }
+            ],
+            [
+                {
+                    "country": "TUN",
+                    "name": "Aya GWIAA"
+                },
+                {
+                    "country": "ALG",
+                    "name": "Lydia KECHOUT"
+                },
+                {
+                    "winner": "Lydia KECHOUT"
+                }
+            ],
+            [
+                {
+                    "country": "TUN",
+                    "name": "Hayet AYED"
+                },
+                {
+                    "country": "MAR",
+                    "name": "Nassma ESSATOURI"
+                },
+                {
+                    "winner": "Hayet AYED"
+                }
+            ],
+            [
+                {
+                    "country": "ALG",
+                    "name": "Lydia KECHOUT"
+                },
+                {
+                    "country": "TUN",
+                    "name": "Wided RAJHID"
+                },
+                {
+                    "winner": "Lydia KECHOUT"
+                }
+            ],
+            [
+                {
+                    "country": "ALG",
+                    "name": "Lydia KECHOUT"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Lydia KECHOUT",
+            "Hayet AYED"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ALG",
+                    "name": "Dyhia BENCHALLAL"
+                },
+                {
+                    "country": "TUN",
+                    "name": "Wided RAJHID"
+                },
+                {
+                    "winner": "Dyhia BENCHALLAL"
+                }
+            ],
+            [
+                {
+                    "country": "MAR",
+                    "name": "Nassma ESSATOURI"
+                },
+                {
+                    "country": "TUN",
+                    "name": "Maram JMOUR"
+                },
+                {
+                    "winner": "Maram JMOUR"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "ALG",
+                    "name": "Dyhia BENCHALLAL"
+                },
+                {
+                    "country": "TUN",
+                    "name": "Maram JMOUR"
+                }
+            ]
+        ],
+        "final_winner": "Maram JMOUR"
+    }
+}

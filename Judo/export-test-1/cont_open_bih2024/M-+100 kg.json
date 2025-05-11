@@ -1,0 +1,153 @@
+{
+    "POOL A": {
+        "round 1-1": [],
+        "final_winner": "Giannis ANTONIOU"
+    },
+    "POOL B": {
+        "round 1-1": [
+            [
+                {
+                    "country": "ROU",
+                    "name": "Darius DOBRE"
+                },
+                {
+                    "country": "SRB",
+                    "name": "Aleksandar KALABIC"
+                }
+            ]
+        ],
+        "final_winner": "Darius DOBRE"
+    },
+    "POOL C": {
+        "round 1-1": [
+            [
+                {
+                    "country": "SRB",
+                    "name": "Igor VRACAR"
+                },
+                {
+                    "country": "IRL",
+                    "name": "Kevinas RAMOSKA"
+                }
+            ]
+        ],
+        "final_winner": "Igor VRACAR"
+    },
+    "POOL D": {
+        "round 1-1": [
+            [
+                {
+                    "country": "GBR",
+                    "name": "Wesley GREENIDGE"
+                },
+                {
+                    "country": "ROU",
+                    "name": "Eduard SERBAN"
+                }
+            ]
+        ],
+        "final_winner": "Wesley GREENIDGE"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "SRB",
+                    "name": "Aleksandar KALABIC"
+                }
+            ],
+            [
+                {
+                    "country": "IRL",
+                    "name": "Kevinas RAMOSKA"
+                },
+                {
+                    "country": "ROU",
+                    "name": "Eduard SERBAN"
+                },
+                {
+                    "winner": "Eduard SERBAN"
+                }
+            ],
+            [
+                {
+                    "country": "SRB",
+                    "name": "Aleksandar KALABIC"
+                },
+                {
+                    "country": "GBR",
+                    "name": "Wesley GREENIDGE"
+                },
+                {
+                    "winner": "Aleksandar KALABIC"
+                }
+            ],
+            [
+                {
+                    "country": "ROU",
+                    "name": "Eduard SERBAN"
+                },
+                {
+                    "country": "ROU",
+                    "name": "Darius DOBRE"
+                },
+                {
+                    "winner": "Darius DOBRE"
+                }
+            ],
+            [
+                {
+                    "country": "ROU",
+                    "name": "Darius DOBRE"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Eduard SERBAN",
+            "Aleksandar KALABIC"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CYP",
+                    "name": "Giannis ANTONIOU"
+                },
+                {
+                    "country": "ROU",
+                    "name": "Darius DOBRE"
+                },
+                {
+                    "winner": "Giannis ANTONIOU"
+                }
+            ],
+            [
+                {
+                    "country": "SRB",
+                    "name": "Igor VRACAR"
+                },
+                {
+                    "country": "GBR",
+                    "name": "Wesley GREENIDGE"
+                },
+                {
+                    "winner": "Igor VRACAR"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "CYP",
+                    "name": "Giannis ANTONIOU"
+                },
+                {
+                    "country": "SRB",
+                    "name": "Igor VRACAR"
+                }
+            ]
+        ],
+        "final_winner": "Giannis ANTONIOU"
+    }
+}

@@ -1,0 +1,281 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "LUX",
+                    "name": "Claudio NUNES DOS SANTOS"
+                },
+                {
+                    "winner": "Claudio NUNES DOS SANTOS"
+                }
+            ],
+            [
+                {
+                    "country": "FRO",
+                    "name": "Jogvan Pall KRISTIANSEN"
+                },
+                {
+                    "country": "LIE",
+                    "name": "Dario ALFONSO"
+                },
+                {
+                    "winner": "Dario ALFONSO"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "LUX",
+                    "name": "Claudio NUNES DOS SANTOS"
+                },
+                {
+                    "country": "LIE",
+                    "name": "Dario ALFONSO"
+                }
+            ]
+        ],
+        "final_winner": "Claudio NUNES DOS SANTOS"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ISL",
+                    "name": "Adalsteinn BJORNSSON"
+                },
+                {
+                    "country": "AND",
+                    "name": "Marc REIG ARNAU"
+                },
+                {
+                    "winner": "Marc REIG ARNAU"
+                }
+            ],
+            [
+                {
+                    "country": "FRO",
+                    "name": "Bardur Hentze LENVIG"
+                },
+                {
+                    "country": "CYP",
+                    "name": "Panagiotis SHAKOS"
+                },
+                {
+                    "winner": "Panagiotis SHAKOS"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "AND",
+                    "name": "Marc REIG ARNAU"
+                },
+                {
+                    "country": "CYP",
+                    "name": "Panagiotis SHAKOS"
+                }
+            ]
+        ],
+        "final_winner": "Marc REIG ARNAU"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ISL",
+                    "name": "Kjartan HREIDARSSON"
+                },
+                {
+                    "winner": "Kjartan HREIDARSSON"
+                }
+            ],
+            [
+                {
+                    "country": "LIE",
+                    "name": "Fabian TISCHHAUSER"
+                },
+                {
+                    "country": "FRO",
+                    "name": "Petur Sigurd TUGVU"
+                },
+                {
+                    "winner": "Fabian TISCHHAUSER"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "ISL",
+                    "name": "Kjartan HREIDARSSON"
+                },
+                {
+                    "country": "LIE",
+                    "name": "Fabian TISCHHAUSER"
+                }
+            ]
+        ],
+        "final_winner": "Kjartan HREIDARSSON"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CYP",
+                    "name": "Christos SKOUROUMOUNIS"
+                },
+                {
+                    "country": "FRO",
+                    "name": "Gunnar MAGNUSSEN"
+                },
+                {
+                    "winner": "Christos SKOUROUMOUNIS"
+                }
+            ],
+            [
+                {
+                    "country": "AND",
+                    "name": "Theo ROGUE"
+                },
+                {
+                    "country": "MLT",
+                    "name": "Kris Samuel BARTOLO"
+                },
+                {
+                    "winner": "Theo ROGUE"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "CYP",
+                    "name": "Christos SKOUROUMOUNIS"
+                },
+                {
+                    "country": "AND",
+                    "name": "Theo ROGUE"
+                }
+            ]
+        ],
+        "final_winner": "Christos SKOUROUMOUNIS"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "LIE",
+                    "name": "Dario ALFONSO"
+                },
+                {
+                    "country": "CYP",
+                    "name": "Panagiotis SHAKOS"
+                },
+                {
+                    "winner": "Panagiotis SHAKOS"
+                }
+            ],
+            [
+                {
+                    "country": "LIE",
+                    "name": "Fabian TISCHHAUSER"
+                },
+                {
+                    "country": "AND",
+                    "name": "Theo ROGUE"
+                },
+                {
+                    "winner": "Fabian TISCHHAUSER"
+                }
+            ],
+            [
+                {
+                    "country": "CYP",
+                    "name": "Panagiotis SHAKOS"
+                },
+                {
+                    "country": "ISL",
+                    "name": "Kjartan HREIDARSSON"
+                },
+                {
+                    "winner": "Panagiotis SHAKOS"
+                }
+            ],
+            [
+                {
+                    "country": "LIE",
+                    "name": "Fabian TISCHHAUSER"
+                },
+                {
+                    "country": "AND",
+                    "name": "Marc REIG ARNAU"
+                },
+                {
+                    "winner": "Marc REIG ARNAU"
+                }
+            ],
+            [
+                {
+                    "country": "CYP",
+                    "name": "Panagiotis SHAKOS"
+                }
+            ],
+            [
+                {
+                    "country": "AND",
+                    "name": "Marc REIG ARNAU"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Panagiotis SHAKOS",
+            "Marc REIG ARNAU"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "LUX",
+                    "name": "Claudio NUNES DOS SANTOS"
+                },
+                {
+                    "country": "AND",
+                    "name": "Marc REIG ARNAU"
+                },
+                {
+                    "winner": "Claudio NUNES DOS SANTOS"
+                }
+            ],
+            [
+                {
+                    "country": "ISL",
+                    "name": "Kjartan HREIDARSSON"
+                },
+                {
+                    "country": "CYP",
+                    "name": "Christos SKOUROUMOUNIS"
+                },
+                {
+                    "winner": "Christos SKOUROUMOUNIS"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "LUX",
+                    "name": "Claudio NUNES DOS SANTOS"
+                },
+                {
+                    "country": "CYP",
+                    "name": "Christos SKOUROUMOUNIS"
+                }
+            ]
+        ],
+        "final_winner": "Claudio NUNES DOS SANTOS"
+    }
+}

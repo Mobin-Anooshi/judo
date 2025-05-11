@@ -1,0 +1,159 @@
+{
+    "POOL A": {
+        "round 1-1": [],
+        "final_winner": "Nahun OCHOA"
+    },
+    "POOL B": {
+        "round 1-1": [
+            [
+                {
+                    "country": "DOM",
+                    "name": "Jose GARCIA PEREZ"
+                },
+                {
+                    "country": "COL",
+                    "name": "Wilson VERA CACERES"
+                }
+            ]
+        ],
+        "final_winner": "Wilson VERA CACERES"
+    },
+    "POOL C": {
+        "round 1-1": [
+            [
+                {
+                    "country": "DOM",
+                    "name": "Moises OZUNA"
+                },
+                {
+                    "country": "ECU",
+                    "name": "Alfredo VALDIVIESO"
+                }
+            ]
+        ],
+        "final_winner": "Alfredo VALDIVIESO"
+    },
+    "POOL D": {
+        "round 1-1": [
+            [
+                {
+                    "country": "URU",
+                    "name": "Paolo Alberto SILVA MANZI"
+                },
+                {
+                    "country": "DOM",
+                    "name": "Diego VARGAS GUERRERO"
+                }
+            ]
+        ],
+        "final_winner": "Paolo Alberto SILVA MANZI"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "DOM",
+                    "name": "Jose GARCIA PEREZ"
+                }
+            ],
+            [
+                {
+                    "country": "DOM",
+                    "name": "Moises OZUNA"
+                },
+                {
+                    "country": "DOM",
+                    "name": "Diego VARGAS GUERRERO"
+                },
+                {
+                    "winner": "Diego VARGAS GUERRERO"
+                }
+            ],
+            [
+                {
+                    "country": "DOM",
+                    "name": "Jose GARCIA PEREZ"
+                },
+                {
+                    "country": "URU",
+                    "name": "Paolo Alberto SILVA MANZI"
+                },
+                {
+                    "winner": "Paolo Alberto SILVA MANZI"
+                }
+            ],
+            [
+                {
+                    "country": "DOM",
+                    "name": "Diego VARGAS GUERRERO"
+                },
+                {
+                    "country": "COL",
+                    "name": "Wilson VERA CACERES"
+                },
+                {
+                    "winner": "Wilson VERA CACERES"
+                }
+            ],
+            [
+                {
+                    "country": "URU",
+                    "name": "Paolo Alberto SILVA MANZI"
+                }
+            ],
+            [
+                {
+                    "country": "COL",
+                    "name": "Wilson VERA CACERES"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Paolo Alberto SILVA MANZI",
+            "Wilson VERA CACERES"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ECU",
+                    "name": "Nahun OCHOA"
+                },
+                {
+                    "country": "COL",
+                    "name": "Wilson VERA CACERES"
+                },
+                {
+                    "winner": "Nahun OCHOA"
+                }
+            ],
+            [
+                {
+                    "country": "ECU",
+                    "name": "Alfredo VALDIVIESO"
+                },
+                {
+                    "country": "URU",
+                    "name": "Paolo Alberto SILVA MANZI"
+                },
+                {
+                    "winner": "Alfredo VALDIVIESO"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "ECU",
+                    "name": "Nahun OCHOA"
+                },
+                {
+                    "country": "ECU",
+                    "name": "Alfredo VALDIVIESO"
+                }
+            ]
+        ],
+        "final_winner": "Alfredo VALDIVIESO"
+    }
+}

@@ -1,0 +1,68 @@
+{
+    "ROUND 1": {
+        "round 1-2": [
+            [
+                {
+                    "country": "DOM",
+                    "name": "Moises OZUNA"
+                },
+                {
+                    "country": "DOM",
+                    "name": "Jose GARCIA PEREZ"
+                },
+                {
+                    "winner": "Moises OZUNA"
+                }
+            ],
+            [
+                {
+                    "country": "DOM",
+                    "name": "Gilbert WOTAN"
+                },
+                {
+                    "country": "DOM",
+                    "name": "Wilking BOCIO"
+                },
+                {
+                    "winner": "Wilking BOCIO"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Moises OZUNA",
+            "Wilking BOCIO"
+        ]
+    },
+    "REPECHAGE": {
+        "round 1-1": [
+            [
+                {
+                    "country": "DOM",
+                    "name": "Jose GARCIA PEREZ"
+                },
+                {
+                    "country": "DOM",
+                    "name": "Gilbert WOTAN"
+                },
+                {
+                    "winner": "Jose GARCIA PEREZ"
+                }
+            ],
+            [
+                {
+                    "country": "DOM",
+                    "name": "Jose GARCIA PEREZ"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Jose GARCIA PEREZ"
+        ]
+    },
+    "FINALS": {
+        "round 1-1": [],
+        "final_winners": [
+            "Wilking BOCIO"
+        ]
+    }
+}

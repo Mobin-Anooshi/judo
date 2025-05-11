@@ -1,0 +1,87 @@
+{
+    "POOL A": {
+        "round 1-3": [
+            [
+                {
+                    "country": "PER",
+                    "name": "Milena BEJARANO"
+                },
+                {
+                    "country": "PER",
+                    "name": "Shellsy ARIAS"
+                },
+                {
+                    "winner": "Milena BEJARANO"
+                }
+            ],
+            [
+                {
+                    "country": "PER",
+                    "name": "Milena BEJARANO"
+                },
+                {
+                    "country": "ARG",
+                    "name": "Valentina NARVAEZ"
+                },
+                {
+                    "winner": "Valentina NARVAEZ"
+                }
+            ],
+            [
+                {
+                    "country": "PER",
+                    "name": "Shellsy ARIAS"
+                },
+                {
+                    "country": "ARG",
+                    "name": "Valentina NARVAEZ"
+                },
+                {
+                    "winner": "Valentina NARVAEZ"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Milena BEJARANO",
+            "Valentina NARVAEZ"
+        ]
+    },
+    "POOL B": {
+        "round 1-1": [],
+        "final_winners": [
+            "Flor ZAMBRANO"
+        ]
+    },
+    "REPECHAGE": {
+        "round 1-1": [
+            [
+                {
+                    "country": "PER",
+                    "name": "Milena BEJARANO"
+                },
+                {
+                    "country": "CHI",
+                    "name": "Antonia VELASQUEZ"
+                },
+                {
+                    "winner": "Antonia VELASQUEZ"
+                }
+            ],
+            [
+                {
+                    "country": "CHI",
+                    "name": "Antonia VELASQUEZ"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Antonia VELASQUEZ"
+        ]
+    },
+    "FINALS": {
+        "round 1-1": [],
+        "final_winners": [
+            "Flor ZAMBRANO"
+        ]
+    }
+}

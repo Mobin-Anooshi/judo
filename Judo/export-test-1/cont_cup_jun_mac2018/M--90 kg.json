@@ -1,0 +1,261 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "MGL",
+                    "name": "Gonchigsuren BATKHUYAG"
+                },
+                {
+                    "winner": "Gonchigsuren BATKHUYAG"
+                }
+            ],
+            [
+                {
+                    "country": "KOR",
+                    "name": "Taesu KIM"
+                },
+                {
+                    "winner": "Taesu KIM"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "MGL",
+                    "name": "Gonchigsuren BATKHUYAG"
+                },
+                {
+                    "country": "KOR",
+                    "name": "Taesu KIM"
+                }
+            ]
+        ],
+        "final_winner": "Gonchigsuren BATKHUYAG"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [],
+            [
+                {
+                    "country": "IND",
+                    "name": "Jobandeep SINGH"
+                },
+                {
+                    "winner": "Jobandeep SINGH"
+                }
+            ]
+        ],
+        "round 1-1": [],
+        "final_winner": "Jobandeep SINGH"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "TJK",
+                    "name": "Muhammadulloh LOIQOV"
+                },
+                {
+                    "winner": "Muhammadulloh LOIQOV"
+                }
+            ],
+            [
+                {
+                    "country": "PAK",
+                    "name": "Qaisar KHAN"
+                },
+                {
+                    "winner": "Qaisar KHAN"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "TJK",
+                    "name": "Muhammadulloh LOIQOV"
+                },
+                {
+                    "country": "PAK",
+                    "name": "Qaisar KHAN"
+                }
+            ]
+        ],
+        "final_winner": "Muhammadulloh LOIQOV"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "AUS",
+                    "name": "BROCK KIRBY"
+                },
+                {
+                    "winner": "BROCK KIRBY"
+                }
+            ],
+            [
+                {
+                    "country": "KOR",
+                    "name": "Dabhin JEONG"
+                },
+                {
+                    "winner": "Dabhin JEONG"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "AUS",
+                    "name": "BROCK KIRBY"
+                },
+                {
+                    "country": "KOR",
+                    "name": "Dabhin JEONG"
+                }
+            ]
+        ],
+        "final_winner": "Dabhin JEONG"
+    },
+    "REPECHAGE": {
+        "round 1-4": [
+            [
+                {
+                    "country": "KOR",
+                    "name": "Taesu KIM"
+                },
+                {
+                    "winner": "Taesu KIM"
+                }
+            ],
+            [],
+            [
+                {
+                    "country": "PAK",
+                    "name": "Qaisar KHAN"
+                },
+                {
+                    "winner": "Qaisar KHAN"
+                }
+            ],
+            [
+                {
+                    "country": "AUS",
+                    "name": "BROCK KIRBY"
+                },
+                {
+                    "winner": "BROCK KIRBY"
+                }
+            ]
+        ],
+        "round 1-2": [
+            [
+                {
+                    "country": "KOR",
+                    "name": "Taesu KIM"
+                }
+            ],
+            [
+                {
+                    "country": "PAK",
+                    "name": "Qaisar KHAN"
+                },
+                {
+                    "country": "AUS",
+                    "name": "BROCK KIRBY"
+                },
+                {
+                    "winner": "Qaisar KHAN"
+                }
+            ],
+            [
+                {
+                    "country": "KOR",
+                    "name": "Taesu KIM"
+                },
+                {
+                    "country": "TJK",
+                    "name": "Muhammadulloh LOIQOV"
+                },
+                {
+                    "winner": "Muhammadulloh LOIQOV"
+                }
+            ],
+            [
+                {
+                    "country": "PAK",
+                    "name": "Qaisar KHAN"
+                },
+                {
+                    "country": "IND",
+                    "name": "Jobandeep SINGH"
+                },
+                {
+                    "winner": "Jobandeep SINGH"
+                }
+            ],
+            [
+                {
+                    "country": "TJK",
+                    "name": "Muhammadulloh LOIQOV"
+                }
+            ],
+            [
+                {
+                    "country": "IND",
+                    "name": "Jobandeep SINGH"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Muhammadulloh LOIQOV",
+            "Jobandeep SINGH"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "MGL",
+                    "name": "Gonchigsuren BATKHUYAG"
+                },
+                {
+                    "country": "IND",
+                    "name": "Jobandeep SINGH"
+                },
+                {
+                    "winner": "Gonchigsuren BATKHUYAG"
+                }
+            ],
+            [
+                {
+                    "country": "TJK",
+                    "name": "Muhammadulloh LOIQOV"
+                },
+                {
+                    "country": "KOR",
+                    "name": "Dabhin JEONG"
+                },
+                {
+                    "winner": "Dabhin JEONG"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "MGL",
+                    "name": "Gonchigsuren BATKHUYAG"
+                },
+                {
+                    "country": "KOR",
+                    "name": "Dabhin JEONG"
+                }
+            ]
+        ],
+        "final_winner": "Gonchigsuren BATKHUYAG"
+    }
+}

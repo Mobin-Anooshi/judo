@@ -1,0 +1,295 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "TUR",
+                    "name": "Hilal OZTURK"
+                },
+                {
+                    "winner": "Hilal OZTURK"
+                }
+            ],
+            [
+                {
+                    "country": "BRA",
+                    "name": "Ana SOARES"
+                },
+                {
+                    "winner": "Ana SOARES"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "TUR",
+                    "name": "Hilal OZTURK"
+                },
+                {
+                    "country": "BRA",
+                    "name": "Ana SOARES"
+                }
+            ]
+        ],
+        "final_winner": "Hilal OZTURK"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "MDA",
+                    "name": "Oxana DIACENCO"
+                },
+                {
+                    "winner": "Oxana DIACENCO"
+                }
+            ],
+            [
+                {
+                    "country": "CZE",
+                    "name": "Marketa CERCHLOVA"
+                },
+                {
+                    "winner": "Marketa CERCHLOVA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "MDA",
+                    "name": "Oxana DIACENCO"
+                },
+                {
+                    "country": "CZE",
+                    "name": "Marketa CERCHLOVA"
+                }
+            ]
+        ],
+        "final_winner": "Oxana DIACENCO"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ITA",
+                    "name": "Tiziana MARINI"
+                },
+                {
+                    "winner": "Tiziana MARINI"
+                }
+            ],
+            [
+                {
+                    "country": "HUN",
+                    "name": "Veronika ODOR"
+                },
+                {
+                    "winner": "Veronika ODOR"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "ITA",
+                    "name": "Tiziana MARINI"
+                },
+                {
+                    "country": "HUN",
+                    "name": "Veronika ODOR"
+                }
+            ]
+        ],
+        "final_winner": "Tiziana MARINI"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "SLO",
+                    "name": "Nicki NORCIC"
+                },
+                {
+                    "winner": "Nicki NORCIC"
+                }
+            ],
+            [
+                {
+                    "country": "GBR",
+                    "name": "Chloe BAKER"
+                },
+                {
+                    "winner": "Chloe BAKER"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "SLO",
+                    "name": "Nicki NORCIC"
+                },
+                {
+                    "country": "GBR",
+                    "name": "Chloe BAKER"
+                }
+            ]
+        ],
+        "final_winner": "Nicki NORCIC"
+    },
+    "REPECHAGE": {
+        "round 1-4": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Ana SOARES"
+                },
+                {
+                    "winner": "Ana SOARES"
+                }
+            ],
+            [
+                {
+                    "country": "CZE",
+                    "name": "Marketa CERCHLOVA"
+                },
+                {
+                    "winner": "Marketa CERCHLOVA"
+                }
+            ],
+            [
+                {
+                    "country": "HUN",
+                    "name": "Veronika ODOR"
+                },
+                {
+                    "winner": "Veronika ODOR"
+                }
+            ],
+            [
+                {
+                    "country": "GBR",
+                    "name": "Chloe BAKER"
+                },
+                {
+                    "winner": "Chloe BAKER"
+                }
+            ]
+        ],
+        "round 1-2": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Ana SOARES"
+                },
+                {
+                    "country": "CZE",
+                    "name": "Marketa CERCHLOVA"
+                },
+                {
+                    "winner": "Ana SOARES"
+                }
+            ],
+            [
+                {
+                    "country": "HUN",
+                    "name": "Veronika ODOR"
+                },
+                {
+                    "country": "GBR",
+                    "name": "Chloe BAKER"
+                },
+                {
+                    "winner": "Chloe BAKER"
+                }
+            ],
+            [
+                {
+                    "country": "BRA",
+                    "name": "Ana SOARES"
+                },
+                {
+                    "country": "ITA",
+                    "name": "Tiziana MARINI"
+                },
+                {
+                    "winner": "Tiziana MARINI"
+                }
+            ],
+            [
+                {
+                    "country": "GBR",
+                    "name": "Chloe BAKER"
+                },
+                {
+                    "country": "MDA",
+                    "name": "Oxana DIACENCO"
+                },
+                {
+                    "winner": "Oxana DIACENCO"
+                }
+            ],
+            [
+                {
+                    "country": "ITA",
+                    "name": "Tiziana MARINI"
+                }
+            ],
+            [
+                {
+                    "country": "MDA",
+                    "name": "Oxana DIACENCO"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Tiziana MARINI",
+            "Oxana DIACENCO"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "TUR",
+                    "name": "Hilal OZTURK"
+                },
+                {
+                    "country": "MDA",
+                    "name": "Oxana DIACENCO"
+                },
+                {
+                    "winner": "Hilal OZTURK"
+                }
+            ],
+            [
+                {
+                    "country": "ITA",
+                    "name": "Tiziana MARINI"
+                },
+                {
+                    "country": "SLO",
+                    "name": "Nicki NORCIC"
+                },
+                {
+                    "winner": "Nicki NORCIC"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "TUR",
+                    "name": "Hilal OZTURK"
+                },
+                {
+                    "country": "SLO",
+                    "name": "Nicki NORCIC"
+                }
+            ]
+        ],
+        "final_winner": "Hilal OZTURK"
+    }
+}

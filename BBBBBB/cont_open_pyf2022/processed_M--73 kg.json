@@ -1,0 +1,177 @@
+{
+    "POOL A": {
+        "round 1-1": [
+            [
+                {
+                    "country": "PHI",
+                    "name": "Keisei NAKANO"
+                },
+                {
+                    "country": "PYF",
+                    "name": "Noa GUSTIN"
+                }
+            ]
+        ],
+        "final_winner": "Keisei NAKANO"
+    },
+    "POOL B": {
+        "round 1-1": [
+            [
+                {
+                    "country": "PYF",
+                    "name": "Tom GUSTIN"
+                },
+                {
+                    "country": "USA",
+                    "name": "Nicholas DELPOPOLO"
+                }
+            ]
+        ],
+        "final_winner": "Nicholas DELPOPOLO"
+    },
+    "POOL C": {
+        "round 1-1": [
+            [
+                {
+                    "country": "SAM",
+                    "name": "William TAI TIN"
+                },
+                {
+                    "country": "PYF",
+                    "name": "Gaston LAFON"
+                }
+            ]
+        ],
+        "final_winner": "Gaston LAFON"
+    },
+    "POOL D": {
+        "round 1-1": [
+            [
+                {
+                    "country": "PYF",
+                    "name": "Gabriel LAO"
+                },
+                {
+                    "country": "NCL",
+                    "name": "Cedric JASZCZYSZYN"
+                }
+            ]
+        ],
+        "final_winner": "Cedric JASZCZYSZYN"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "PYF",
+                    "name": "Noa GUSTIN"
+                },
+                {
+                    "country": "PYF",
+                    "name": "Tom GUSTIN"
+                },
+                {
+                    "winner": "Noa GUSTIN"
+                }
+            ],
+            [
+                {
+                    "country": "SAM",
+                    "name": "William TAI TIN"
+                },
+                {
+                    "country": "PYF",
+                    "name": "Gabriel LAO"
+                },
+                {
+                    "winner": "William TAI TIN"
+                }
+            ],
+            [
+                {
+                    "country": "PYF",
+                    "name": "Noa GUSTIN"
+                },
+                {
+                    "country": "NCL",
+                    "name": "Cedric JASZCZYSZYN"
+                },
+                {
+                    "winner": "Cedric JASZCZYSZYN"
+                }
+            ],
+            [
+                {
+                    "country": "SAM",
+                    "name": "William TAI TIN"
+                },
+                {
+                    "country": "PHI",
+                    "name": "Keisei NAKANO"
+                },
+                {
+                    "winner": "Keisei NAKANO"
+                }
+            ],
+            [
+                {
+                    "country": "NCL",
+                    "name": "Cedric JASZCZYSZYN"
+                }
+            ],
+            [
+                {
+                    "country": "PHI",
+                    "name": "Keisei NAKANO"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Cedric JASZCZYSZYN",
+            "Keisei NAKANO"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "PHI",
+                    "name": "Keisei NAKANO"
+                },
+                {
+                    "country": "USA",
+                    "name": "Nicholas DELPOPOLO"
+                },
+                {
+                    "winner": "Nicholas DELPOPOLO"
+                }
+            ],
+            [
+                {
+                    "country": "PYF",
+                    "name": "Gaston LAFON"
+                },
+                {
+                    "country": "NCL",
+                    "name": "Cedric JASZCZYSZYN"
+                },
+                {
+                    "winner": "Gaston LAFON"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "USA",
+                    "name": "Nicholas DELPOPOLO"
+                },
+                {
+                    "country": "PYF",
+                    "name": "Gaston LAFON"
+                }
+            ]
+        ],
+        "final_winner": "Nicholas DELPOPOLO"
+    }
+}

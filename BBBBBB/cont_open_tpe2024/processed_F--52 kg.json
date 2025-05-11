@@ -1,0 +1,159 @@
+{
+    "POOL A": {
+        "round 1-1": [],
+        "final_winner": "Yi-Hsi SHEN"
+    },
+    "POOL B": {
+        "round 1-1": [
+            [
+                {
+                    "country": "KOR",
+                    "name": "Rakyeom LEE"
+                },
+                {
+                    "country": "HKG",
+                    "name": "Wai Sum LAU"
+                }
+            ]
+        ],
+        "final_winner": "Rakyeom LEE"
+    },
+    "POOL C": {
+        "round 1-1": [
+            [
+                {
+                    "country": "USA",
+                    "name": "Malia SOBERANO"
+                },
+                {
+                    "country": "TPE",
+                    "name": "Yu-Ching CHAN"
+                }
+            ]
+        ],
+        "final_winner": "Yu-Ching CHAN"
+    },
+    "POOL D": {
+        "round 1-1": [
+            [
+                {
+                    "country": "KOR",
+                    "name": "Suryeon HWANG"
+                },
+                {
+                    "country": "TPE",
+                    "name": "An-Chieh HUANG"
+                }
+            ]
+        ],
+        "final_winner": "Suryeon HWANG"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "HKG",
+                    "name": "Wai Sum LAU"
+                }
+            ],
+            [
+                {
+                    "country": "USA",
+                    "name": "Malia SOBERANO"
+                },
+                {
+                    "country": "TPE",
+                    "name": "An-Chieh HUANG"
+                },
+                {
+                    "winner": "An-Chieh HUANG"
+                }
+            ],
+            [
+                {
+                    "country": "HKG",
+                    "name": "Wai Sum LAU"
+                },
+                {
+                    "country": "TPE",
+                    "name": "Yu-Ching CHAN"
+                },
+                {
+                    "winner": "Yu-Ching CHAN"
+                }
+            ],
+            [
+                {
+                    "country": "TPE",
+                    "name": "An-Chieh HUANG"
+                },
+                {
+                    "country": "KOR",
+                    "name": "Rakyeom LEE"
+                },
+                {
+                    "winner": "An-Chieh HUANG"
+                }
+            ],
+            [
+                {
+                    "country": "TPE",
+                    "name": "Yu-Ching CHAN"
+                }
+            ],
+            [
+                {
+                    "country": "TPE",
+                    "name": "An-Chieh HUANG"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Yu-Ching CHAN",
+            "An-Chieh HUANG"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "TPE",
+                    "name": "Yi-Hsi SHEN"
+                },
+                {
+                    "country": "KOR",
+                    "name": "Rakyeom LEE"
+                },
+                {
+                    "winner": "Yi-Hsi SHEN"
+                }
+            ],
+            [
+                {
+                    "country": "TPE",
+                    "name": "Yu-Ching CHAN"
+                },
+                {
+                    "country": "KOR",
+                    "name": "Suryeon HWANG"
+                },
+                {
+                    "winner": "Suryeon HWANG"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "TPE",
+                    "name": "Yi-Hsi SHEN"
+                },
+                {
+                    "country": "KOR",
+                    "name": "Suryeon HWANG"
+                }
+            ]
+        ],
+        "final_winner": "Yi-Hsi SHEN"
+    }
+}

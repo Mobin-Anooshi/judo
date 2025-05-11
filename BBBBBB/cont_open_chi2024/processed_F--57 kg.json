@@ -1,0 +1,261 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ARG",
+                    "name": "Brisa GOMEZ"
+                },
+                {
+                    "winner": "Brisa GOMEZ"
+                }
+            ],
+            [
+                {
+                    "country": "CHI",
+                    "name": "Martina MORENO"
+                },
+                {
+                    "country": "USA",
+                    "name": "Toni PEPIA"
+                },
+                {
+                    "winner": "Toni PEPIA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "ARG",
+                    "name": "Brisa GOMEZ"
+                },
+                {
+                    "country": "USA",
+                    "name": "Toni PEPIA"
+                }
+            ]
+        ],
+        "final_winner": "Brisa GOMEZ"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "PER",
+                    "name": "Kiara ARANGO"
+                },
+                {
+                    "winner": "Kiara ARANGO"
+                }
+            ],
+            [
+                {
+                    "country": "ECU",
+                    "name": "Astrid GAVIDIA"
+                },
+                {
+                    "winner": "Astrid GAVIDIA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "PER",
+                    "name": "Kiara ARANGO"
+                },
+                {
+                    "country": "ECU",
+                    "name": "Astrid GAVIDIA"
+                }
+            ]
+        ],
+        "final_winner": "Astrid GAVIDIA"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "PAN",
+                    "name": "Kristine JIMENEZ"
+                },
+                {
+                    "winner": "Kristine JIMENEZ"
+                }
+            ],
+            [
+                {
+                    "country": "USA",
+                    "name": "Noran ELMAHROUKEY"
+                },
+                {
+                    "winner": "Noran ELMAHROUKEY"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "PAN",
+                    "name": "Kristine JIMENEZ"
+                },
+                {
+                    "country": "USA",
+                    "name": "Noran ELMAHROUKEY"
+                }
+            ]
+        ],
+        "final_winner": "Kristine JIMENEZ"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "PER",
+                    "name": "Marian FLORES"
+                },
+                {
+                    "winner": "Marian FLORES"
+                }
+            ],
+            [
+                {
+                    "country": "CHI",
+                    "name": "Elizabeth SEGURA"
+                },
+                {
+                    "winner": "Elizabeth SEGURA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "PER",
+                    "name": "Marian FLORES"
+                },
+                {
+                    "country": "CHI",
+                    "name": "Elizabeth SEGURA"
+                }
+            ]
+        ],
+        "final_winner": "Marian FLORES"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "USA",
+                    "name": "Toni PEPIA"
+                },
+                {
+                    "country": "PER",
+                    "name": "Kiara ARANGO"
+                },
+                {
+                    "winner": "Toni PEPIA"
+                }
+            ],
+            [
+                {
+                    "country": "USA",
+                    "name": "Noran ELMAHROUKEY"
+                },
+                {
+                    "country": "CHI",
+                    "name": "Elizabeth SEGURA"
+                },
+                {
+                    "winner": "Noran ELMAHROUKEY"
+                }
+            ],
+            [
+                {
+                    "country": "USA",
+                    "name": "Toni PEPIA"
+                },
+                {
+                    "country": "PER",
+                    "name": "Marian FLORES"
+                },
+                {
+                    "winner": "Marian FLORES"
+                }
+            ],
+            [
+                {
+                    "country": "USA",
+                    "name": "Noran ELMAHROUKEY"
+                },
+                {
+                    "country": "ARG",
+                    "name": "Brisa GOMEZ"
+                },
+                {
+                    "winner": "Brisa GOMEZ"
+                }
+            ],
+            [
+                {
+                    "country": "PER",
+                    "name": "Marian FLORES"
+                }
+            ],
+            [
+                {
+                    "country": "ARG",
+                    "name": "Brisa GOMEZ"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Marian FLORES",
+            "Brisa GOMEZ"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ARG",
+                    "name": "Brisa GOMEZ"
+                },
+                {
+                    "country": "ECU",
+                    "name": "Astrid GAVIDIA"
+                },
+                {
+                    "winner": "Astrid GAVIDIA"
+                }
+            ],
+            [
+                {
+                    "country": "PAN",
+                    "name": "Kristine JIMENEZ"
+                },
+                {
+                    "country": "PER",
+                    "name": "Marian FLORES"
+                },
+                {
+                    "winner": "Kristine JIMENEZ"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "ECU",
+                    "name": "Astrid GAVIDIA"
+                },
+                {
+                    "country": "PAN",
+                    "name": "Kristine JIMENEZ"
+                }
+            ]
+        ],
+        "final_winner": "Kristine JIMENEZ"
+    }
+}

@@ -1,0 +1,285 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "AZE",
+                    "name": "Balabay AGHAYEV"
+                },
+                {
+                    "winner": "Balabay AGHAYEV"
+                }
+            ],
+            [
+                {
+                    "country": "KAZ",
+                    "name": "Kanat SEILKHAN"
+                },
+                {
+                    "country": "MOZ",
+                    "name": "Samuel RIBEIRO"
+                },
+                {
+                    "winner": "Kanat SEILKHAN"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "AZE",
+                    "name": "Balabay AGHAYEV"
+                },
+                {
+                    "country": "KAZ",
+                    "name": "Kanat SEILKHAN"
+                }
+            ]
+        ],
+        "final_winner": "Balabay AGHAYEV"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ALG",
+                    "name": "Billel YAGOUBI"
+                },
+                {
+                    "country": "CHA",
+                    "name": "Ibrahim ISSA SANI"
+                },
+                {
+                    "winner": "Billel YAGOUBI"
+                }
+            ],
+            [
+                {
+                    "country": "TKM",
+                    "name": "Hakberdi JUMAYEV"
+                },
+                {
+                    "country": "KGZ",
+                    "name": "Ravshanbek ASANOV"
+                },
+                {
+                    "winner": "Hakberdi JUMAYEV"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "ALG",
+                    "name": "Billel YAGOUBI"
+                },
+                {
+                    "country": "TKM",
+                    "name": "Hakberdi JUMAYEV"
+                }
+            ]
+        ],
+        "final_winner": "Hakberdi JUMAYEV"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "TUN",
+                    "name": "Fraj DHOUIBI"
+                },
+                {
+                    "country": "KUW",
+                    "name": "Meshal ALALI"
+                },
+                {
+                    "winner": "Fraj DHOUIBI"
+                }
+            ],
+            [
+                {
+                    "country": "SEN",
+                    "name": "Oumar MBALLO"
+                },
+                {
+                    "country": "YEM",
+                    "name": "Ali KHOUSROF"
+                },
+                {
+                    "winner": "Ali KHOUSROF"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "TUN",
+                    "name": "Fraj DHOUIBI"
+                },
+                {
+                    "country": "YEM",
+                    "name": "Ali KHOUSROF"
+                }
+            ]
+        ],
+        "final_winner": "Fraj DHOUIBI"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "UZB",
+                    "name": "Kemran NURILLAEV"
+                },
+                {
+                    "country": "GBS",
+                    "name": "Euclides Joao LOPES"
+                },
+                {
+                    "winner": "Kemran NURILLAEV"
+                }
+            ],
+            [
+                {
+                    "country": "TKM",
+                    "name": "Aybek OMIROV"
+                },
+                {
+                    "country": "COM",
+                    "name": "Hassani IBOUROI"
+                },
+                {
+                    "winner": "Aybek OMIROV"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "UZB",
+                    "name": "Kemran NURILLAEV"
+                },
+                {
+                    "country": "TKM",
+                    "name": "Aybek OMIROV"
+                }
+            ]
+        ],
+        "final_winner": "Kemran NURILLAEV"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "KAZ",
+                    "name": "Kanat SEILKHAN"
+                },
+                {
+                    "country": "ALG",
+                    "name": "Billel YAGOUBI"
+                },
+                {
+                    "winner": "Kanat SEILKHAN"
+                }
+            ],
+            [
+                {
+                    "country": "YEM",
+                    "name": "Ali KHOUSROF"
+                },
+                {
+                    "country": "TKM",
+                    "name": "Aybek OMIROV"
+                },
+                {
+                    "winner": "Aybek OMIROV"
+                }
+            ],
+            [
+                {
+                    "country": "KAZ",
+                    "name": "Kanat SEILKHAN"
+                },
+                {
+                    "country": "TUN",
+                    "name": "Fraj DHOUIBI"
+                },
+                {
+                    "winner": "Kanat SEILKHAN"
+                }
+            ],
+            [
+                {
+                    "country": "TKM",
+                    "name": "Aybek OMIROV"
+                },
+                {
+                    "country": "TKM",
+                    "name": "Hakberdi JUMAYEV"
+                },
+                {
+                    "winner": "Hakberdi JUMAYEV"
+                }
+            ],
+            [
+                {
+                    "country": "KAZ",
+                    "name": "Kanat SEILKHAN"
+                }
+            ],
+            [
+                {
+                    "country": "TKM",
+                    "name": "Hakberdi JUMAYEV"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Kanat SEILKHAN",
+            "Hakberdi JUMAYEV"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "AZE",
+                    "name": "Balabay AGHAYEV"
+                },
+                {
+                    "country": "TKM",
+                    "name": "Hakberdi JUMAYEV"
+                },
+                {
+                    "winner": "Balabay AGHAYEV"
+                }
+            ],
+            [
+                {
+                    "country": "TUN",
+                    "name": "Fraj DHOUIBI"
+                },
+                {
+                    "country": "UZB",
+                    "name": "Kemran NURILLAEV"
+                },
+                {
+                    "winner": "Kemran NURILLAEV"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "AZE",
+                    "name": "Balabay AGHAYEV"
+                },
+                {
+                    "country": "UZB",
+                    "name": "Kemran NURILLAEV"
+                }
+            ]
+        ],
+        "final_winner": "Balabay AGHAYEV"
+    }
+}

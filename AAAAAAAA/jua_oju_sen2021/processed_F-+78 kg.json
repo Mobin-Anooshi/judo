@@ -1,0 +1,261 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "KOR",
+                    "name": "Hayun KIM"
+                },
+                {
+                    "winner": "Hayun KIM"
+                }
+            ],
+            [
+                {
+                    "country": "UZB",
+                    "name": "Rinata ILMATOVA"
+                },
+                {
+                    "country": "TKM",
+                    "name": "Dilfuza YOLLYYEVA"
+                },
+                {
+                    "winner": "Rinata ILMATOVA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "KOR",
+                    "name": "Hayun KIM"
+                },
+                {
+                    "country": "UZB",
+                    "name": "Rinata ILMATOVA"
+                }
+            ]
+        ],
+        "final_winner": "Hayun KIM"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CHN",
+                    "name": "Yan WANG"
+                },
+                {
+                    "winner": "Yan WANG"
+                }
+            ],
+            [
+                {
+                    "country": "TPE",
+                    "name": "Jia Wen TSAI"
+                },
+                {
+                    "winner": "Jia Wen TSAI"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "CHN",
+                    "name": "Yan WANG"
+                },
+                {
+                    "country": "TPE",
+                    "name": "Jia Wen TSAI"
+                }
+            ]
+        ],
+        "final_winner": "Yan WANG"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CHN",
+                    "name": "Shiyan XU"
+                },
+                {
+                    "winner": "Shiyan XU"
+                }
+            ],
+            [
+                {
+                    "country": "KGZ",
+                    "name": "Nagira SARBASHOVA"
+                },
+                {
+                    "winner": "Nagira SARBASHOVA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "CHN",
+                    "name": "Shiyan XU"
+                },
+                {
+                    "country": "KGZ",
+                    "name": "Nagira SARBASHOVA"
+                }
+            ]
+        ],
+        "final_winner": "Shiyan XU"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "KOR",
+                    "name": "Mijin HAN"
+                },
+                {
+                    "winner": "Mijin HAN"
+                }
+            ],
+            [
+                {
+                    "country": "KAZ",
+                    "name": "Kamila BERLIKASH"
+                },
+                {
+                    "winner": "Kamila BERLIKASH"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "KOR",
+                    "name": "Mijin HAN"
+                },
+                {
+                    "country": "KAZ",
+                    "name": "Kamila BERLIKASH"
+                }
+            ]
+        ],
+        "final_winner": "Mijin HAN"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "UZB",
+                    "name": "Rinata ILMATOVA"
+                },
+                {
+                    "country": "TPE",
+                    "name": "Jia Wen TSAI"
+                },
+                {
+                    "winner": "Jia Wen TSAI"
+                }
+            ],
+            [
+                {
+                    "country": "KGZ",
+                    "name": "Nagira SARBASHOVA"
+                },
+                {
+                    "country": "KAZ",
+                    "name": "Kamila BERLIKASH"
+                },
+                {
+                    "winner": "Kamila BERLIKASH"
+                }
+            ],
+            [
+                {
+                    "country": "TPE",
+                    "name": "Jia Wen TSAI"
+                },
+                {
+                    "country": "KOR",
+                    "name": "Mijin HAN"
+                },
+                {
+                    "winner": "Mijin HAN"
+                }
+            ],
+            [
+                {
+                    "country": "KAZ",
+                    "name": "Kamila BERLIKASH"
+                },
+                {
+                    "country": "KOR",
+                    "name": "Hayun KIM"
+                },
+                {
+                    "winner": "Hayun KIM"
+                }
+            ],
+            [
+                {
+                    "country": "KOR",
+                    "name": "Mijin HAN"
+                }
+            ],
+            [
+                {
+                    "country": "KOR",
+                    "name": "Hayun KIM"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Mijin HAN",
+            "Hayun KIM"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "KOR",
+                    "name": "Hayun KIM"
+                },
+                {
+                    "country": "CHN",
+                    "name": "Yan WANG"
+                },
+                {
+                    "winner": "Yan WANG"
+                }
+            ],
+            [
+                {
+                    "country": "CHN",
+                    "name": "Shiyan XU"
+                },
+                {
+                    "country": "KOR",
+                    "name": "Mijin HAN"
+                },
+                {
+                    "winner": "Shiyan XU"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "CHN",
+                    "name": "Yan WANG"
+                },
+                {
+                    "country": "CHN",
+                    "name": "Shiyan XU"
+                }
+            ]
+        ],
+        "final_winner": "Shiyan XU"
+    }
+}

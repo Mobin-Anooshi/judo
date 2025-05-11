@@ -1,0 +1,295 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "FRA",
+                    "name": "Valentine MARCHAND"
+                },
+                {
+                    "winner": "Valentine MARCHAND"
+                }
+            ],
+            [
+                {
+                    "country": "AUT",
+                    "name": "Sarah OETTL"
+                },
+                {
+                    "winner": "Sarah OETTL"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "FRA",
+                    "name": "Valentine MARCHAND"
+                },
+                {
+                    "country": "AUT",
+                    "name": "Sarah OETTL"
+                }
+            ]
+        ],
+        "final_winner": "Valentine MARCHAND"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "GBR",
+                    "name": "Rachel TYTLER"
+                },
+                {
+                    "winner": "Rachel TYTLER"
+                }
+            ],
+            [
+                {
+                    "country": "NED",
+                    "name": "Eva BARKMAN"
+                },
+                {
+                    "winner": "Eva BARKMAN"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "GBR",
+                    "name": "Rachel TYTLER"
+                },
+                {
+                    "country": "NED",
+                    "name": "Eva BARKMAN"
+                }
+            ]
+        ],
+        "final_winner": "Rachel TYTLER"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "NED",
+                    "name": "Jasmijn LESTERHUIS"
+                },
+                {
+                    "winner": "Jasmijn LESTERHUIS"
+                }
+            ],
+            [
+                {
+                    "country": "BEL",
+                    "name": "Sophie BERGER"
+                },
+                {
+                    "winner": "Sophie BERGER"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "NED",
+                    "name": "Jasmijn LESTERHUIS"
+                },
+                {
+                    "country": "BEL",
+                    "name": "Sophie BERGER"
+                }
+            ]
+        ],
+        "final_winner": "Sophie BERGER"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "KOS",
+                    "name": "Loriana KUKA"
+                },
+                {
+                    "winner": "Loriana KUKA"
+                }
+            ],
+            [
+                {
+                    "country": "NED",
+                    "name": "Ilona LUCASSEN"
+                },
+                {
+                    "winner": "Ilona LUCASSEN"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "KOS",
+                    "name": "Loriana KUKA"
+                },
+                {
+                    "country": "NED",
+                    "name": "Ilona LUCASSEN"
+                }
+            ]
+        ],
+        "final_winner": "Loriana KUKA"
+    },
+    "REPECHAGE": {
+        "round 1-4": [
+            [
+                {
+                    "country": "AUT",
+                    "name": "Sarah OETTL"
+                },
+                {
+                    "winner": "Sarah OETTL"
+                }
+            ],
+            [
+                {
+                    "country": "NED",
+                    "name": "Eva BARKMAN"
+                },
+                {
+                    "winner": "Eva BARKMAN"
+                }
+            ],
+            [
+                {
+                    "country": "NED",
+                    "name": "Jasmijn LESTERHUIS"
+                },
+                {
+                    "winner": "Jasmijn LESTERHUIS"
+                }
+            ],
+            [
+                {
+                    "country": "NED",
+                    "name": "Ilona LUCASSEN"
+                },
+                {
+                    "winner": "Ilona LUCASSEN"
+                }
+            ]
+        ],
+        "round 1-2": [
+            [
+                {
+                    "country": "AUT",
+                    "name": "Sarah OETTL"
+                },
+                {
+                    "country": "NED",
+                    "name": "Eva BARKMAN"
+                },
+                {
+                    "winner": "Sarah OETTL"
+                }
+            ],
+            [
+                {
+                    "country": "NED",
+                    "name": "Jasmijn LESTERHUIS"
+                },
+                {
+                    "country": "NED",
+                    "name": "Ilona LUCASSEN"
+                },
+                {
+                    "winner": "Ilona LUCASSEN"
+                }
+            ],
+            [
+                {
+                    "country": "AUT",
+                    "name": "Sarah OETTL"
+                },
+                {
+                    "country": "BEL",
+                    "name": "Sophie BERGER"
+                },
+                {
+                    "winner": "Sophie BERGER"
+                }
+            ],
+            [
+                {
+                    "country": "NED",
+                    "name": "Ilona LUCASSEN"
+                },
+                {
+                    "country": "GBR",
+                    "name": "Rachel TYTLER"
+                },
+                {
+                    "winner": "Ilona LUCASSEN"
+                }
+            ],
+            [
+                {
+                    "country": "BEL",
+                    "name": "Sophie BERGER"
+                }
+            ],
+            [
+                {
+                    "country": "NED",
+                    "name": "Ilona LUCASSEN"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Sophie BERGER",
+            "Ilona LUCASSEN"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "FRA",
+                    "name": "Valentine MARCHAND"
+                },
+                {
+                    "country": "GBR",
+                    "name": "Rachel TYTLER"
+                },
+                {
+                    "winner": "Valentine MARCHAND"
+                }
+            ],
+            [
+                {
+                    "country": "BEL",
+                    "name": "Sophie BERGER"
+                },
+                {
+                    "country": "KOS",
+                    "name": "Loriana KUKA"
+                },
+                {
+                    "winner": "Loriana KUKA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "FRA",
+                    "name": "Valentine MARCHAND"
+                },
+                {
+                    "country": "KOS",
+                    "name": "Loriana KUKA"
+                }
+            ]
+        ],
+        "final_winner": "Loriana KUKA"
+    }
+}

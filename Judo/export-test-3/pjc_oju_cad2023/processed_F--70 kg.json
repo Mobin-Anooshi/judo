@@ -1,0 +1,87 @@
+{
+    "POOL A": {
+        "round 1-3": [
+            [
+                {
+                    "country": "CAN",
+                    "name": "Charline BOURQUE"
+                },
+                {
+                    "country": "AUS",
+                    "name": "Taylah HAYES"
+                },
+                {
+                    "winner": "Charline BOURQUE"
+                }
+            ],
+            [
+                {
+                    "country": "CAN",
+                    "name": "Charline BOURQUE"
+                },
+                {
+                    "country": "USA",
+                    "name": "Chloe WILLIAMS"
+                },
+                {
+                    "winner": "Chloe WILLIAMS"
+                }
+            ],
+            [
+                {
+                    "country": "AUS",
+                    "name": "Taylah HAYES"
+                },
+                {
+                    "country": "USA",
+                    "name": "Chloe WILLIAMS"
+                },
+                {
+                    "winner": "Taylah HAYES"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Charline BOURQUE",
+            "Taylah HAYES"
+        ]
+    },
+    "POOL B": {
+        "round 1-1": [],
+        "final_winners": [
+            "Shavon GONZALEZ"
+        ]
+    },
+    "REPECHAGE": {
+        "round 1-1": [
+            [
+                {
+                    "country": "AUS",
+                    "name": "Taylah HAYES"
+                },
+                {
+                    "country": "CAN",
+                    "name": "Nova ROTBART"
+                },
+                {
+                    "winner": "Nova ROTBART"
+                }
+            ],
+            [
+                {
+                    "country": "CAN",
+                    "name": "Nova ROTBART"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Nova ROTBART"
+        ]
+    },
+    "FINALS": {
+        "round 1-1": [],
+        "final_winners": [
+            "Shavon GONZALEZ"
+        ]
+    }
+}

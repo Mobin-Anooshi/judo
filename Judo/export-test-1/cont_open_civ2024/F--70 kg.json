@@ -1,0 +1,153 @@
+{
+    "POOL A": {
+        "round 1-1": [],
+        "final_winner": "Zita Ornella BIAMI"
+    },
+    "POOL B": {
+        "round 1-1": [
+            [
+                {
+                    "country": "CHA",
+                    "name": "Carine NGARLEMDANA"
+                },
+                {
+                    "country": "CIV",
+                    "name": "Aude-Axelle OKOBE"
+                }
+            ]
+        ],
+        "final_winner": "Carine NGARLEMDANA"
+    },
+    "POOL C": {
+        "round 1-1": [
+            [
+                {
+                    "country": "CRC",
+                    "name": "Diana BRENES"
+                },
+                {
+                    "country": "CIV",
+                    "name": "Aicha CISSE"
+                }
+            ]
+        ],
+        "final_winner": "Diana BRENES"
+    },
+    "POOL D": {
+        "round 1-1": [
+            [
+                {
+                    "country": "CHA",
+                    "name": "Demos MEMNELOUM"
+                },
+                {
+                    "country": "CMR",
+                    "name": "Genevieve Rolande Yaelle ABOMO"
+                }
+            ]
+        ],
+        "final_winner": "Demos MEMNELOUM"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CIV",
+                    "name": "Aude-Axelle OKOBE"
+                }
+            ],
+            [
+                {
+                    "country": "CIV",
+                    "name": "Aicha CISSE"
+                },
+                {
+                    "country": "CMR",
+                    "name": "Genevieve Rolande Yaelle ABOMO"
+                },
+                {
+                    "winner": "Aicha CISSE"
+                }
+            ],
+            [
+                {
+                    "country": "CIV",
+                    "name": "Aude-Axelle OKOBE"
+                },
+                {
+                    "country": "CHA",
+                    "name": "Demos MEMNELOUM"
+                },
+                {
+                    "winner": "Aude-Axelle OKOBE"
+                }
+            ],
+            [
+                {
+                    "country": "CIV",
+                    "name": "Aicha CISSE"
+                },
+                {
+                    "country": "CHA",
+                    "name": "Carine NGARLEMDANA"
+                },
+                {
+                    "winner": "Carine NGARLEMDANA"
+                }
+            ],
+            [
+                {
+                    "country": "CHA",
+                    "name": "Carine NGARLEMDANA"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Aicha CISSE",
+            "Aude-Axelle OKOBE"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CMR",
+                    "name": "Zita Ornella BIAMI"
+                },
+                {
+                    "country": "CHA",
+                    "name": "Carine NGARLEMDANA"
+                },
+                {
+                    "winner": "Zita Ornella BIAMI"
+                }
+            ],
+            [
+                {
+                    "country": "CRC",
+                    "name": "Diana BRENES"
+                },
+                {
+                    "country": "CHA",
+                    "name": "Demos MEMNELOUM"
+                },
+                {
+                    "winner": "Diana BRENES"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "CMR",
+                    "name": "Zita Ornella BIAMI"
+                },
+                {
+                    "country": "CRC",
+                    "name": "Diana BRENES"
+                }
+            ]
+        ],
+        "final_winner": "Diana BRENES"
+    }
+}

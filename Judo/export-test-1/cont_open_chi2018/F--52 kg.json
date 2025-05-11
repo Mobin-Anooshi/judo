@@ -1,0 +1,261 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "PER",
+                    "name": "Brillith GAMARRA"
+                },
+                {
+                    "winner": "Brillith GAMARRA"
+                }
+            ],
+            [
+                {
+                    "country": "CHI",
+                    "name": "Fabiola ROJAS"
+                },
+                {
+                    "country": "CHI",
+                    "name": "Camila CALDERON"
+                },
+                {
+                    "winner": "Fabiola ROJAS"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "PER",
+                    "name": "Brillith GAMARRA"
+                },
+                {
+                    "country": "CHI",
+                    "name": "Fabiola ROJAS"
+                }
+            ]
+        ],
+        "final_winner": "Brillith GAMARRA"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CHI",
+                    "name": "Judith GONZALEZ"
+                },
+                {
+                    "winner": "Judith GONZALEZ"
+                }
+            ],
+            [
+                {
+                    "country": "USA",
+                    "name": "Maria DHAMI"
+                },
+                {
+                    "winner": "Maria DHAMI"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "CHI",
+                    "name": "Judith GONZALEZ"
+                },
+                {
+                    "country": "USA",
+                    "name": "Maria DHAMI"
+                }
+            ]
+        ],
+        "final_winner": "Maria DHAMI"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ARG",
+                    "name": "Oritia GONZALEZ"
+                },
+                {
+                    "winner": "Oritia GONZALEZ"
+                }
+            ],
+            [
+                {
+                    "country": "CHI",
+                    "name": "valentina CORTEZ"
+                },
+                {
+                    "winner": "valentina CORTEZ"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "ARG",
+                    "name": "Oritia GONZALEZ"
+                },
+                {
+                    "country": "CHI",
+                    "name": "valentina CORTEZ"
+                }
+            ]
+        ],
+        "final_winner": "Oritia GONZALEZ"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ARG",
+                    "name": "Ayelen ELIZECHE"
+                },
+                {
+                    "winner": "Ayelen ELIZECHE"
+                }
+            ],
+            [
+                {
+                    "country": "CHI",
+                    "name": "Nicol VERA"
+                },
+                {
+                    "winner": "Nicol VERA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "ARG",
+                    "name": "Ayelen ELIZECHE"
+                },
+                {
+                    "country": "CHI",
+                    "name": "Nicol VERA"
+                }
+            ]
+        ],
+        "final_winner": "Nicol VERA"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CHI",
+                    "name": "Fabiola ROJAS"
+                },
+                {
+                    "country": "CHI",
+                    "name": "Judith GONZALEZ"
+                },
+                {
+                    "winner": "Judith GONZALEZ"
+                }
+            ],
+            [
+                {
+                    "country": "CHI",
+                    "name": "valentina CORTEZ"
+                },
+                {
+                    "country": "ARG",
+                    "name": "Ayelen ELIZECHE"
+                },
+                {
+                    "winner": "Ayelen ELIZECHE"
+                }
+            ],
+            [
+                {
+                    "country": "CHI",
+                    "name": "Judith GONZALEZ"
+                },
+                {
+                    "country": "CHI",
+                    "name": "Nicol VERA"
+                },
+                {
+                    "winner": "Judith GONZALEZ"
+                }
+            ],
+            [
+                {
+                    "country": "ARG",
+                    "name": "Ayelen ELIZECHE"
+                },
+                {
+                    "country": "USA",
+                    "name": "Maria DHAMI"
+                },
+                {
+                    "winner": "Ayelen ELIZECHE"
+                }
+            ],
+            [
+                {
+                    "country": "CHI",
+                    "name": "Judith GONZALEZ"
+                }
+            ],
+            [
+                {
+                    "country": "ARG",
+                    "name": "Ayelen ELIZECHE"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Judith GONZALEZ",
+            "Ayelen ELIZECHE"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "PER",
+                    "name": "Brillith GAMARRA"
+                },
+                {
+                    "country": "USA",
+                    "name": "Maria DHAMI"
+                },
+                {
+                    "winner": "Brillith GAMARRA"
+                }
+            ],
+            [
+                {
+                    "country": "ARG",
+                    "name": "Oritia GONZALEZ"
+                },
+                {
+                    "country": "CHI",
+                    "name": "Nicol VERA"
+                },
+                {
+                    "winner": "Oritia GONZALEZ"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "PER",
+                    "name": "Brillith GAMARRA"
+                },
+                {
+                    "country": "ARG",
+                    "name": "Oritia GONZALEZ"
+                }
+            ]
+        ],
+        "final_winner": "Brillith GAMARRA"
+    }
+}

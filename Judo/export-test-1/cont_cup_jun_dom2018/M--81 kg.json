@@ -1,0 +1,219 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "DOM",
+                    "name": "Wilton SANTIAGO MICHEL"
+                },
+                {
+                    "winner": "Wilton SANTIAGO MICHEL"
+                }
+            ],
+            [
+                {
+                    "country": "DOM",
+                    "name": "Wilton SANTIAGO MICHEL"
+                },
+                {
+                    "winner": "Wilton SANTIAGO MICHEL"
+                }
+            ]
+        ],
+        "round 1-1": [],
+        "final_winner": "Wilton SANTIAGO MICHEL"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "VEN",
+                    "name": "Herick CUAREZ"
+                },
+                {
+                    "winner": "Herick CUAREZ"
+                }
+            ],
+            [
+                {
+                    "country": "DOM",
+                    "name": "Jose DE LOS SANTOS"
+                },
+                {
+                    "winner": "Jose DE LOS SANTOS"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "VEN",
+                    "name": "Herick CUAREZ"
+                },
+                {
+                    "country": "DOM",
+                    "name": "Jose DE LOS SANTOS"
+                }
+            ]
+        ],
+        "final_winner": "Herick CUAREZ"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "DOM",
+                    "name": "Cristopher GEREZ ROSARIO"
+                },
+                {
+                    "winner": "Cristopher GEREZ ROSARIO"
+                }
+            ],
+            [
+                {
+                    "country": "DOM",
+                    "name": "Robert LORENZO GUZMAN"
+                },
+                {
+                    "winner": "Robert LORENZO GUZMAN"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "DOM",
+                    "name": "Cristopher GEREZ ROSARIO"
+                },
+                {
+                    "country": "DOM",
+                    "name": "Robert LORENZO GUZMAN"
+                }
+            ]
+        ],
+        "final_winner": "Cristopher GEREZ ROSARIO"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "DOM",
+                    "name": "Marcos MARTE"
+                },
+                {
+                    "winner": "Marcos MARTE"
+                }
+            ],
+            [
+                {
+                    "country": "DOM",
+                    "name": "Cristopher GEREZ ROSARIO"
+                },
+                {
+                    "country": "DOM",
+                    "name": "Marcos MARTE"
+                },
+                {
+                    "winner": "Marcos MARTE"
+                }
+            ]
+        ],
+        "round 1-1": [],
+        "final_winner": "Marcos MARTE"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "DOM",
+                    "name": "Jose DE LOS SANTOS"
+                }
+            ],
+            [
+                {
+                    "country": "DOM",
+                    "name": "Robert LORENZO GUZMAN"
+                }
+            ],
+            [
+                {
+                    "country": "DOM",
+                    "name": "Jose DE LOS SANTOS"
+                },
+                {
+                    "country": "DOM",
+                    "name": "Cristopher GEREZ ROSARIO"
+                },
+                {
+                    "winner": "Jose DE LOS SANTOS"
+                }
+            ],
+            [
+                {
+                    "country": "DOM",
+                    "name": "Robert LORENZO GUZMAN"
+                },
+                {
+                    "country": "DOM",
+                    "name": "Wilton SANTIAGO MICHEL"
+                },
+                {
+                    "winner": "Wilton SANTIAGO MICHEL"
+                }
+            ],
+            [
+                {
+                    "country": "DOM",
+                    "name": "Wilton SANTIAGO MICHEL"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Robert LORENZO GUZMAN",
+            "Jose DE LOS SANTOS"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "DOM",
+                    "name": "Wilton SANTIAGO MICHEL"
+                },
+                {
+                    "country": "VEN",
+                    "name": "Herick CUAREZ"
+                },
+                {
+                    "winner": "Herick CUAREZ"
+                }
+            ],
+            [
+                {
+                    "country": "DOM",
+                    "name": "Cristopher GEREZ ROSARIO"
+                },
+                {
+                    "country": "DOM",
+                    "name": "Marcos MARTE"
+                },
+                {
+                    "winner": "Marcos MARTE"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "VEN",
+                    "name": "Herick CUAREZ"
+                },
+                {
+                    "country": "DOM",
+                    "name": "Marcos MARTE"
+                }
+            ]
+        ],
+        "final_winner": "Herick CUAREZ"
+    }
+}

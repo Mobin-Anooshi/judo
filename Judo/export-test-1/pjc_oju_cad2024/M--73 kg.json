@@ -1,0 +1,177 @@
+{
+    "POOL A": {
+        "round 1-1": [
+            [
+                {
+                    "country": "USA",
+                    "name": "Anthony FARNOT"
+                },
+                {
+                    "country": "ECU",
+                    "name": "Nahun OCHOA"
+                }
+            ]
+        ],
+        "final_winner": "Anthony FARNOT"
+    },
+    "POOL B": {
+        "round 1-1": [
+            [
+                {
+                    "country": "ARG",
+                    "name": "Jeremias ELIAS"
+                },
+                {
+                    "country": "BRA",
+                    "name": "Silas COSTA"
+                }
+            ]
+        ],
+        "final_winner": "Silas COSTA"
+    },
+    "POOL C": {
+        "round 1-1": [
+            [
+                {
+                    "country": "MEX",
+                    "name": "Rafael RAMIREZ"
+                },
+                {
+                    "country": "URU",
+                    "name": "Paolo Alberto SILVA MANZI"
+                }
+            ]
+        ],
+        "final_winner": "Paolo Alberto SILVA MANZI"
+    },
+    "POOL D": {
+        "round 1-1": [
+            [
+                {
+                    "country": "USA",
+                    "name": "Heinrich HANADA"
+                },
+                {
+                    "country": "CHI",
+                    "name": "Gabriel PEREZ ALTAMIRANO"
+                }
+            ]
+        ],
+        "final_winner": "Heinrich HANADA"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ECU",
+                    "name": "Nahun OCHOA"
+                },
+                {
+                    "country": "ARG",
+                    "name": "Jeremias ELIAS"
+                },
+                {
+                    "winner": "Nahun OCHOA"
+                }
+            ],
+            [
+                {
+                    "country": "MEX",
+                    "name": "Rafael RAMIREZ"
+                },
+                {
+                    "country": "CHI",
+                    "name": "Gabriel PEREZ ALTAMIRANO"
+                },
+                {
+                    "winner": "Rafael RAMIREZ"
+                }
+            ],
+            [
+                {
+                    "country": "ECU",
+                    "name": "Nahun OCHOA"
+                },
+                {
+                    "country": "URU",
+                    "name": "Paolo Alberto SILVA MANZI"
+                },
+                {
+                    "winner": "Nahun OCHOA"
+                }
+            ],
+            [
+                {
+                    "country": "MEX",
+                    "name": "Rafael RAMIREZ"
+                },
+                {
+                    "country": "BRA",
+                    "name": "Silas COSTA"
+                },
+                {
+                    "winner": "Silas COSTA"
+                }
+            ],
+            [
+                {
+                    "country": "ECU",
+                    "name": "Nahun OCHOA"
+                }
+            ],
+            [
+                {
+                    "country": "BRA",
+                    "name": "Silas COSTA"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Nahun OCHOA",
+            "Silas COSTA"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "USA",
+                    "name": "Anthony FARNOT"
+                },
+                {
+                    "country": "BRA",
+                    "name": "Silas COSTA"
+                },
+                {
+                    "winner": "Anthony FARNOT"
+                }
+            ],
+            [
+                {
+                    "country": "URU",
+                    "name": "Paolo Alberto SILVA MANZI"
+                },
+                {
+                    "country": "USA",
+                    "name": "Heinrich HANADA"
+                },
+                {
+                    "winner": "Heinrich HANADA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "USA",
+                    "name": "Anthony FARNOT"
+                },
+                {
+                    "country": "USA",
+                    "name": "Heinrich HANADA"
+                }
+            ]
+        ],
+        "final_winner": "Anthony FARNOT"
+    }
+}

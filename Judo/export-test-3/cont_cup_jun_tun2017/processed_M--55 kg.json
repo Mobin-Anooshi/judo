@@ -1,0 +1,68 @@
+{
+    "ROUND 1": {
+        "round 1-2": [
+            [
+                {
+                    "country": "TUN",
+                    "name": "Mohamed amine AYARI"
+                },
+                {
+                    "country": "ALG",
+                    "name": "Islam BOUTI"
+                },
+                {
+                    "winner": "Mohamed amine AYARI"
+                }
+            ],
+            [
+                {
+                    "country": "ALG",
+                    "name": "Amine CHEMLAL"
+                },
+                {
+                    "country": "ALG",
+                    "name": "Ramzi ALLOUI"
+                },
+                {
+                    "winner": "Ramzi ALLOUI"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Mohamed amine AYARI",
+            "Ramzi ALLOUI"
+        ]
+    },
+    "REPECHAGE": {
+        "round 1-1": [
+            [
+                {
+                    "country": "ALG",
+                    "name": "Islam BOUTI"
+                },
+                {
+                    "country": "ALG",
+                    "name": "Amine CHEMLAL"
+                },
+                {
+                    "winner": "Amine CHEMLAL"
+                }
+            ],
+            [
+                {
+                    "country": "ALG",
+                    "name": "Amine CHEMLAL"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Amine CHEMLAL"
+        ]
+    },
+    "FINALS": {
+        "round 1-1": [],
+        "final_winners": [
+            "Mohamed amine AYARI"
+        ]
+    }
+}

@@ -1,0 +1,269 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "FRA",
+                    "name": "Amadou MEITE"
+                },
+                {
+                    "winner": "Amadou MEITE"
+                }
+            ],
+            [
+                {
+                    "country": "BRA",
+                    "name": "Marcelo ESTEVES"
+                },
+                {
+                    "country": "BRA",
+                    "name": "Gustavo TABET"
+                },
+                {
+                    "winner": "Marcelo ESTEVES"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "FRA",
+                    "name": "Amadou MEITE"
+                },
+                {
+                    "country": "BRA",
+                    "name": "Marcelo ESTEVES"
+                }
+            ]
+        ],
+        "final_winner": "Amadou MEITE"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Juscelino NASCIMENTO"
+                },
+                {
+                    "winner": "Juscelino NASCIMENTO"
+                }
+            ],
+            [
+                {
+                    "country": "BRA",
+                    "name": "Robson OLIVEIRA"
+                },
+                {
+                    "winner": "Robson OLIVEIRA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Juscelino NASCIMENTO"
+                },
+                {
+                    "country": "BRA",
+                    "name": "Robson OLIVEIRA"
+                }
+            ]
+        ],
+        "final_winner": "Juscelino NASCIMENTO"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Lucas LIMA"
+                },
+                {
+                    "winner": "Lucas LIMA"
+                }
+            ],
+            [
+                {
+                    "country": "BRA",
+                    "name": "Rafael BUZACARINI"
+                },
+                {
+                    "country": "BRA",
+                    "name": "Yuri SANTOS"
+                },
+                {
+                    "winner": "Rafael BUZACARINI"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Lucas LIMA"
+                },
+                {
+                    "country": "BRA",
+                    "name": "Rafael BUZACARINI"
+                }
+            ]
+        ],
+        "final_winner": "Rafael BUZACARINI"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Joao CESARINO"
+                },
+                {
+                    "winner": "Joao CESARINO"
+                }
+            ],
+            [
+                {
+                    "country": "BRA",
+                    "name": "Gabriel DOS SANTOS"
+                },
+                {
+                    "country": "USA",
+                    "name": "Alexis WOJSZNAROWICZ"
+                },
+                {
+                    "winner": "Gabriel DOS SANTOS"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Joao CESARINO"
+                },
+                {
+                    "country": "BRA",
+                    "name": "Gabriel DOS SANTOS"
+                }
+            ]
+        ],
+        "final_winner": "Joao CESARINO"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Marcelo ESTEVES"
+                },
+                {
+                    "country": "BRA",
+                    "name": "Robson OLIVEIRA"
+                },
+                {
+                    "winner": "Marcelo ESTEVES"
+                }
+            ],
+            [
+                {
+                    "country": "BRA",
+                    "name": "Lucas LIMA"
+                },
+                {
+                    "country": "BRA",
+                    "name": "Gabriel DOS SANTOS"
+                },
+                {
+                    "winner": "Lucas LIMA"
+                }
+            ],
+            [
+                {
+                    "country": "BRA",
+                    "name": "Marcelo ESTEVES"
+                },
+                {
+                    "country": "BRA",
+                    "name": "Joao CESARINO"
+                },
+                {
+                    "winner": "Joao CESARINO"
+                }
+            ],
+            [
+                {
+                    "country": "BRA",
+                    "name": "Lucas LIMA"
+                },
+                {
+                    "country": "FRA",
+                    "name": "Amadou MEITE"
+                },
+                {
+                    "winner": "Lucas LIMA"
+                }
+            ],
+            [
+                {
+                    "country": "BRA",
+                    "name": "Joao CESARINO"
+                }
+            ],
+            [
+                {
+                    "country": "BRA",
+                    "name": "Lucas LIMA"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Joao CESARINO",
+            "Lucas LIMA"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "FRA",
+                    "name": "Amadou MEITE"
+                },
+                {
+                    "country": "BRA",
+                    "name": "Juscelino NASCIMENTO"
+                },
+                {
+                    "winner": "Juscelino NASCIMENTO"
+                }
+            ],
+            [
+                {
+                    "country": "BRA",
+                    "name": "Rafael BUZACARINI"
+                },
+                {
+                    "country": "BRA",
+                    "name": "Joao CESARINO"
+                },
+                {
+                    "winner": "Rafael BUZACARINI"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Juscelino NASCIMENTO"
+                },
+                {
+                    "country": "BRA",
+                    "name": "Rafael BUZACARINI"
+                }
+            ]
+        ],
+        "final_winner": "Juscelino NASCIMENTO"
+    }
+}

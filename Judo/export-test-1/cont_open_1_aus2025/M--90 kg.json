@@ -1,0 +1,135 @@
+{
+    "POOL A": {
+        "round 1-1": [],
+        "final_winner": "Danny VOJNIKOVICH"
+    },
+    "POOL B": {
+        "round 1-1": [
+            [
+                {
+                    "country": "AUS",
+                    "name": "Shane RIGBY"
+                },
+                {
+                    "country": "AUS",
+                    "name": "Angus BAIRD"
+                }
+            ]
+        ],
+        "final_winner": "Angus BAIRD"
+    },
+    "POOL C": {
+        "round 1-1": [],
+        "final_winner": "Carstens BEYERS"
+    },
+    "POOL D": {
+        "round 1-1": [
+            [
+                {
+                    "country": "AUS",
+                    "name": "Robert VUKOVICH"
+                },
+                {
+                    "country": "AUS",
+                    "name": "Ilan CLOETE"
+                }
+            ]
+        ],
+        "final_winner": "Robert VUKOVICH"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "AUS",
+                    "name": "Shane RIGBY"
+                }
+            ],
+            [
+                {
+                    "country": "AUS",
+                    "name": "Ilan CLOETE"
+                }
+            ],
+            [
+                {
+                    "country": "AUS",
+                    "name": "Shane RIGBY"
+                },
+                {
+                    "country": "AUS",
+                    "name": "Robert VUKOVICH"
+                },
+                {
+                    "winner": "Robert VUKOVICH"
+                }
+            ],
+            [
+                {
+                    "country": "AUS",
+                    "name": "Ilan CLOETE"
+                },
+                {
+                    "country": "AUS",
+                    "name": "Danny VOJNIKOVICH"
+                },
+                {
+                    "winner": "Ilan CLOETE"
+                }
+            ],
+            [
+                {
+                    "country": "AUS",
+                    "name": "Robert VUKOVICH"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Ilan CLOETE",
+            "Robert VUKOVICH"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "AUS",
+                    "name": "Danny VOJNIKOVICH"
+                },
+                {
+                    "country": "AUS",
+                    "name": "Angus BAIRD"
+                },
+                {
+                    "winner": "Angus BAIRD"
+                }
+            ],
+            [
+                {
+                    "country": "AUS",
+                    "name": "Carstens BEYERS"
+                },
+                {
+                    "country": "AUS",
+                    "name": "Robert VUKOVICH"
+                },
+                {
+                    "winner": "Carstens BEYERS"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "AUS",
+                    "name": "Angus BAIRD"
+                },
+                {
+                    "country": "AUS",
+                    "name": "Carstens BEYERS"
+                }
+            ]
+        ],
+        "final_winner": "Carstens BEYERS"
+    }
+}

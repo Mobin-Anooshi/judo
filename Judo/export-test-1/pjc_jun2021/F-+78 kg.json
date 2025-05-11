@@ -1,0 +1,261 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CUB",
+                    "name": "Thalia NARINO CASTELLANO"
+                },
+                {
+                    "winner": "Thalia NARINO CASTELLANO"
+                }
+            ],
+            [
+                {
+                    "country": "VEN",
+                    "name": "Amarantha URDANETA"
+                },
+                {
+                    "winner": "Amarantha URDANETA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "CUB",
+                    "name": "Thalia NARINO CASTELLANO"
+                },
+                {
+                    "country": "VEN",
+                    "name": "Amarantha URDANETA"
+                }
+            ]
+        ],
+        "final_winner": "Amarantha URDANETA"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [],
+            [
+                {
+                    "country": "PUR",
+                    "name": "Ettelimay RAMOS SERRANO"
+                },
+                {
+                    "winner": "Ettelimay RAMOS SERRANO"
+                }
+            ]
+        ],
+        "round 1-1": [],
+        "final_winner": "Ettelimay RAMOS SERRANO"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Luana OLIVEIRA"
+                },
+                {
+                    "winner": "Luana OLIVEIRA"
+                }
+            ],
+            [
+                {
+                    "country": "MEX",
+                    "name": "Priscila MARTINEZ"
+                },
+                {
+                    "winner": "Priscila MARTINEZ"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Luana OLIVEIRA"
+                },
+                {
+                    "country": "MEX",
+                    "name": "Priscila MARTINEZ"
+                }
+            ]
+        ],
+        "final_winner": "Priscila MARTINEZ"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ECU",
+                    "name": "Sandy ANGO"
+                },
+                {
+                    "winner": "Sandy ANGO"
+                }
+            ],
+            [
+                {
+                    "country": "COL",
+                    "name": "Lina Marcela OLAYA"
+                },
+                {
+                    "winner": "Lina Marcela OLAYA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "ECU",
+                    "name": "Sandy ANGO"
+                },
+                {
+                    "country": "COL",
+                    "name": "Lina Marcela OLAYA"
+                }
+            ]
+        ],
+        "final_winner": "Sandy ANGO"
+    },
+    "REPECHAGE": {
+        "round 1-4": [
+            [
+                {
+                    "country": "CUB",
+                    "name": "Thalia NARINO CASTELLANO"
+                },
+                {
+                    "winner": "Thalia NARINO CASTELLANO"
+                }
+            ],
+            [],
+            [
+                {
+                    "country": "BRA",
+                    "name": "Luana OLIVEIRA"
+                },
+                {
+                    "winner": "Luana OLIVEIRA"
+                }
+            ],
+            [
+                {
+                    "country": "COL",
+                    "name": "Lina Marcela OLAYA"
+                },
+                {
+                    "winner": "Lina Marcela OLAYA"
+                }
+            ]
+        ],
+        "round 1-2": [
+            [
+                {
+                    "country": "CUB",
+                    "name": "Thalia NARINO CASTELLANO"
+                }
+            ],
+            [
+                {
+                    "country": "BRA",
+                    "name": "Luana OLIVEIRA"
+                },
+                {
+                    "country": "COL",
+                    "name": "Lina Marcela OLAYA"
+                },
+                {
+                    "winner": "Luana OLIVEIRA"
+                }
+            ],
+            [
+                {
+                    "country": "CUB",
+                    "name": "Thalia NARINO CASTELLANO"
+                },
+                {
+                    "country": "ECU",
+                    "name": "Sandy ANGO"
+                },
+                {
+                    "winner": "Sandy ANGO"
+                }
+            ],
+            [
+                {
+                    "country": "BRA",
+                    "name": "Luana OLIVEIRA"
+                },
+                {
+                    "country": "PUR",
+                    "name": "Ettelimay RAMOS SERRANO"
+                },
+                {
+                    "winner": "Luana OLIVEIRA"
+                }
+            ],
+            [
+                {
+                    "country": "ECU",
+                    "name": "Sandy ANGO"
+                }
+            ],
+            [
+                {
+                    "country": "BRA",
+                    "name": "Luana OLIVEIRA"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Sandy ANGO",
+            "Luana OLIVEIRA"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "VEN",
+                    "name": "Amarantha URDANETA"
+                },
+                {
+                    "country": "PUR",
+                    "name": "Ettelimay RAMOS SERRANO"
+                },
+                {
+                    "winner": "Amarantha URDANETA"
+                }
+            ],
+            [
+                {
+                    "country": "MEX",
+                    "name": "Priscila MARTINEZ"
+                },
+                {
+                    "country": "ECU",
+                    "name": "Sandy ANGO"
+                },
+                {
+                    "winner": "Priscila MARTINEZ"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "VEN",
+                    "name": "Amarantha URDANETA"
+                },
+                {
+                    "country": "MEX",
+                    "name": "Priscila MARTINEZ"
+                }
+            ]
+        ],
+        "final_winner": "Amarantha URDANETA"
+    }
+}

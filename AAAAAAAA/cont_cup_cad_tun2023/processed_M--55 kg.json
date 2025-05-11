@@ -1,0 +1,273 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "NIG",
+                    "name": "Djibo ABDOUL AZIZ"
+                },
+                {
+                    "winner": "Djibo ABDOUL AZIZ"
+                }
+            ],
+            [
+                {
+                    "country": "ALG",
+                    "name": "Moncef BOUZIANE"
+                },
+                {
+                    "country": "TUN",
+                    "name": "Jameleddine GTARI"
+                },
+                {
+                    "winner": "Jameleddine GTARI"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "NIG",
+                    "name": "Djibo ABDOUL AZIZ"
+                },
+                {
+                    "country": "TUN",
+                    "name": "Jameleddine GTARI"
+                }
+            ]
+        ],
+        "final_winner": "Jameleddine GTARI"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "TUN",
+                    "name": "Moomen Bellah ABID"
+                },
+                {
+                    "country": "ALG",
+                    "name": "Aimen Abdelkarim HEZIL"
+                },
+                {
+                    "winner": "Aimen Abdelkarim HEZIL"
+                }
+            ],
+            [
+                {
+                    "country": "BIH",
+                    "name": "Mario NOVAK"
+                },
+                {
+                    "winner": "Mario NOVAK"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "ALG",
+                    "name": "Aimen Abdelkarim HEZIL"
+                },
+                {
+                    "country": "BIH",
+                    "name": "Mario NOVAK"
+                }
+            ]
+        ],
+        "final_winner": "Aimen Abdelkarim HEZIL"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ALG",
+                    "name": "Adel BOUSSAHEL"
+                },
+                {
+                    "country": "TUN",
+                    "name": "Firas JAMMEZI"
+                },
+                {
+                    "winner": "Adel BOUSSAHEL"
+                }
+            ],
+            [
+                {
+                    "country": "KSA",
+                    "name": "Ibrahim ASIRI"
+                },
+                {
+                    "winner": "Ibrahim ASIRI"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "ALG",
+                    "name": "Adel BOUSSAHEL"
+                },
+                {
+                    "country": "KSA",
+                    "name": "Ibrahim ASIRI"
+                }
+            ]
+        ],
+        "final_winner": "Adel BOUSSAHEL"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "TUN",
+                    "name": "Abdallah SAHBENI"
+                },
+                {
+                    "country": "ALG",
+                    "name": "Badreddine LAID"
+                },
+                {
+                    "winner": "Badreddine LAID"
+                }
+            ],
+            [
+                {
+                    "country": "TUN",
+                    "name": "Omar BOUHALI"
+                },
+                {
+                    "winner": "Omar BOUHALI"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "ALG",
+                    "name": "Badreddine LAID"
+                },
+                {
+                    "country": "TUN",
+                    "name": "Omar BOUHALI"
+                }
+            ]
+        ],
+        "final_winner": "Badreddine LAID"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "NIG",
+                    "name": "Djibo ABDOUL AZIZ"
+                },
+                {
+                    "country": "BIH",
+                    "name": "Mario NOVAK"
+                },
+                {
+                    "winner": "Mario NOVAK"
+                }
+            ],
+            [
+                {
+                    "country": "KSA",
+                    "name": "Ibrahim ASIRI"
+                },
+                {
+                    "country": "TUN",
+                    "name": "Omar BOUHALI"
+                },
+                {
+                    "winner": "Ibrahim ASIRI"
+                }
+            ],
+            [
+                {
+                    "country": "BIH",
+                    "name": "Mario NOVAK"
+                },
+                {
+                    "country": "ALG",
+                    "name": "Badreddine LAID"
+                },
+                {
+                    "winner": "Badreddine LAID"
+                }
+            ],
+            [
+                {
+                    "country": "KSA",
+                    "name": "Ibrahim ASIRI"
+                },
+                {
+                    "country": "TUN",
+                    "name": "Jameleddine GTARI"
+                },
+                {
+                    "winner": "Ibrahim ASIRI"
+                }
+            ],
+            [
+                {
+                    "country": "ALG",
+                    "name": "Badreddine LAID"
+                }
+            ],
+            [
+                {
+                    "country": "KSA",
+                    "name": "Ibrahim ASIRI"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Badreddine LAID",
+            "Ibrahim ASIRI"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "TUN",
+                    "name": "Jameleddine GTARI"
+                },
+                {
+                    "country": "ALG",
+                    "name": "Aimen Abdelkarim HEZIL"
+                },
+                {
+                    "winner": "Aimen Abdelkarim HEZIL"
+                }
+            ],
+            [
+                {
+                    "country": "ALG",
+                    "name": "Adel BOUSSAHEL"
+                },
+                {
+                    "country": "ALG",
+                    "name": "Badreddine LAID"
+                },
+                {
+                    "winner": "Adel BOUSSAHEL"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "ALG",
+                    "name": "Aimen Abdelkarim HEZIL"
+                },
+                {
+                    "country": "ALG",
+                    "name": "Adel BOUSSAHEL"
+                }
+            ]
+        ],
+        "final_winner": "Adel BOUSSAHEL"
+    }
+}

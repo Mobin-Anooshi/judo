@@ -1,0 +1,273 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "AUS",
+                    "name": "Crosby PEAKE"
+                },
+                {
+                    "country": "THA",
+                    "name": "Thitisorn TANGKHWANKAEW"
+                },
+                {
+                    "winner": "Crosby PEAKE"
+                }
+            ],
+            [
+                {
+                    "country": "TPE",
+                    "name": "Cheng-Xuan KE"
+                },
+                {
+                    "winner": "Cheng-Xuan KE"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "AUS",
+                    "name": "Crosby PEAKE"
+                },
+                {
+                    "country": "TPE",
+                    "name": "Cheng-Xuan KE"
+                }
+            ]
+        ],
+        "final_winner": "Crosby PEAKE"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "AUS",
+                    "name": "Max POGREB"
+                },
+                {
+                    "country": "MGL",
+                    "name": "Chinkhuslen BATKHUU"
+                },
+                {
+                    "winner": "Chinkhuslen BATKHUU"
+                }
+            ],
+            [
+                {
+                    "country": "THA",
+                    "name": "Techit RAHANNOK"
+                },
+                {
+                    "winner": "Techit RAHANNOK"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "MGL",
+                    "name": "Chinkhuslen BATKHUU"
+                },
+                {
+                    "country": "THA",
+                    "name": "Techit RAHANNOK"
+                }
+            ]
+        ],
+        "final_winner": "Chinkhuslen BATKHUU"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "AUS",
+                    "name": "Noah ASMAN"
+                },
+                {
+                    "country": "MAC",
+                    "name": "Wai Kei CHAN"
+                },
+                {
+                    "winner": "Noah ASMAN"
+                }
+            ],
+            [
+                {
+                    "country": "THA",
+                    "name": "Sitthikorn SINGSAI"
+                },
+                {
+                    "winner": "Sitthikorn SINGSAI"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "AUS",
+                    "name": "Noah ASMAN"
+                },
+                {
+                    "country": "THA",
+                    "name": "Sitthikorn SINGSAI"
+                }
+            ]
+        ],
+        "final_winner": "Noah ASMAN"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "MGL",
+                    "name": "Bat-Enerel BATBILEG"
+                },
+                {
+                    "winner": "Bat-Enerel BATBILEG"
+                }
+            ],
+            [
+                {
+                    "country": "THA",
+                    "name": "Athid LEEPAIBOON"
+                },
+                {
+                    "country": "KSA",
+                    "name": "Saud ALFAIFI"
+                },
+                {
+                    "winner": "Saud ALFAIFI"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "MGL",
+                    "name": "Bat-Enerel BATBILEG"
+                },
+                {
+                    "country": "KSA",
+                    "name": "Saud ALFAIFI"
+                }
+            ]
+        ],
+        "final_winner": "Bat-Enerel BATBILEG"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "TPE",
+                    "name": "Cheng-Xuan KE"
+                },
+                {
+                    "country": "THA",
+                    "name": "Techit RAHANNOK"
+                },
+                {
+                    "winner": "Cheng-Xuan KE"
+                }
+            ],
+            [
+                {
+                    "country": "THA",
+                    "name": "Sitthikorn SINGSAI"
+                },
+                {
+                    "country": "KSA",
+                    "name": "Saud ALFAIFI"
+                },
+                {
+                    "winner": "Saud ALFAIFI"
+                }
+            ],
+            [
+                {
+                    "country": "TPE",
+                    "name": "Cheng-Xuan KE"
+                },
+                {
+                    "country": "AUS",
+                    "name": "Noah ASMAN"
+                },
+                {
+                    "winner": "Noah ASMAN"
+                }
+            ],
+            [
+                {
+                    "country": "KSA",
+                    "name": "Saud ALFAIFI"
+                },
+                {
+                    "country": "AUS",
+                    "name": "Crosby PEAKE"
+                },
+                {
+                    "winner": "Saud ALFAIFI"
+                }
+            ],
+            [
+                {
+                    "country": "AUS",
+                    "name": "Noah ASMAN"
+                }
+            ],
+            [
+                {
+                    "country": "KSA",
+                    "name": "Saud ALFAIFI"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Noah ASMAN",
+            "Saud ALFAIFI"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "AUS",
+                    "name": "Crosby PEAKE"
+                },
+                {
+                    "country": "MGL",
+                    "name": "Chinkhuslen BATKHUU"
+                },
+                {
+                    "winner": "Chinkhuslen BATKHUU"
+                }
+            ],
+            [
+                {
+                    "country": "AUS",
+                    "name": "Noah ASMAN"
+                },
+                {
+                    "country": "MGL",
+                    "name": "Bat-Enerel BATBILEG"
+                },
+                {
+                    "winner": "Bat-Enerel BATBILEG"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "MGL",
+                    "name": "Chinkhuslen BATKHUU"
+                },
+                {
+                    "country": "MGL",
+                    "name": "Bat-Enerel BATBILEG"
+                }
+            ]
+        ],
+        "final_winner": "Bat-Enerel BATBILEG"
+    }
+}

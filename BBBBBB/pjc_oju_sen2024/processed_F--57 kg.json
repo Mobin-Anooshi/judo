@@ -1,0 +1,265 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CAN",
+                    "name": "Christa DEGUCHI"
+                },
+                {
+                    "winner": "Christa DEGUCHI"
+                }
+            ],
+            [
+                {
+                    "country": "ECU",
+                    "name": "Astrid GAVIDIA"
+                },
+                {
+                    "country": "PER",
+                    "name": "Kiara ARANGO"
+                },
+                {
+                    "winner": "Kiara ARANGO"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "CAN",
+                    "name": "Christa DEGUCHI"
+                },
+                {
+                    "country": "PER",
+                    "name": "Kiara ARANGO"
+                }
+            ]
+        ],
+        "final_winner": "Christa DEGUCHI"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ARG",
+                    "name": "Brisa GOMEZ"
+                },
+                {
+                    "winner": "Brisa GOMEZ"
+                }
+            ],
+            [
+                {
+                    "country": "PAN",
+                    "name": "Kristine JIMENEZ"
+                },
+                {
+                    "winner": "Kristine JIMENEZ"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "ARG",
+                    "name": "Brisa GOMEZ"
+                },
+                {
+                    "country": "PAN",
+                    "name": "Kristine JIMENEZ"
+                }
+            ]
+        ],
+        "final_winner": "Kristine JIMENEZ"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Rafaela SILVA"
+                },
+                {
+                    "winner": "Rafaela SILVA"
+                }
+            ],
+            [
+                {
+                    "country": "PER",
+                    "name": "Marian FLORES"
+                },
+                {
+                    "country": "CHI",
+                    "name": "Elizabeth SEGURA"
+                },
+                {
+                    "winner": "Marian FLORES"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Rafaela SILVA"
+                },
+                {
+                    "country": "PER",
+                    "name": "Marian FLORES"
+                }
+            ]
+        ],
+        "final_winner": "Rafaela SILVA"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "USA",
+                    "name": "Mariah HOLGUIN"
+                },
+                {
+                    "winner": "Mariah HOLGUIN"
+                }
+            ],
+            [
+                {
+                    "country": "DOM",
+                    "name": "Ana ROSA"
+                },
+                {
+                    "winner": "Ana ROSA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "USA",
+                    "name": "Mariah HOLGUIN"
+                },
+                {
+                    "country": "DOM",
+                    "name": "Ana ROSA"
+                }
+            ]
+        ],
+        "final_winner": "Mariah HOLGUIN"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "PER",
+                    "name": "Kiara ARANGO"
+                },
+                {
+                    "country": "ARG",
+                    "name": "Brisa GOMEZ"
+                },
+                {
+                    "winner": "Kiara ARANGO"
+                }
+            ],
+            [
+                {
+                    "country": "PER",
+                    "name": "Marian FLORES"
+                },
+                {
+                    "country": "DOM",
+                    "name": "Ana ROSA"
+                },
+                {
+                    "winner": "Ana ROSA"
+                }
+            ],
+            [
+                {
+                    "country": "PER",
+                    "name": "Kiara ARANGO"
+                },
+                {
+                    "country": "USA",
+                    "name": "Mariah HOLGUIN"
+                },
+                {
+                    "winner": "Mariah HOLGUIN"
+                }
+            ],
+            [
+                {
+                    "country": "DOM",
+                    "name": "Ana ROSA"
+                },
+                {
+                    "country": "PAN",
+                    "name": "Kristine JIMENEZ"
+                },
+                {
+                    "winner": "Ana ROSA"
+                }
+            ],
+            [
+                {
+                    "country": "USA",
+                    "name": "Mariah HOLGUIN"
+                }
+            ],
+            [
+                {
+                    "country": "DOM",
+                    "name": "Ana ROSA"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Mariah HOLGUIN",
+            "Ana ROSA"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CAN",
+                    "name": "Christa DEGUCHI"
+                },
+                {
+                    "country": "PAN",
+                    "name": "Kristine JIMENEZ"
+                },
+                {
+                    "winner": "Christa DEGUCHI"
+                }
+            ],
+            [
+                {
+                    "country": "BRA",
+                    "name": "Rafaela SILVA"
+                },
+                {
+                    "country": "USA",
+                    "name": "Mariah HOLGUIN"
+                },
+                {
+                    "winner": "Rafaela SILVA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "CAN",
+                    "name": "Christa DEGUCHI"
+                },
+                {
+                    "country": "BRA",
+                    "name": "Rafaela SILVA"
+                }
+            ]
+        ],
+        "final_winner": "Rafaela SILVA"
+    }
+}

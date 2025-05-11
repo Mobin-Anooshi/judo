@@ -1,0 +1,159 @@
+{
+    "POOL A": {
+        "round 1-1": [],
+        "final_winner": "Abderrahmane BENAMADI"
+    },
+    "POOL B": {
+        "round 1-1": [
+            [
+                {
+                    "country": "FRA",
+                    "name": "Benoit COLLIN"
+                },
+                {
+                    "country": "SEY",
+                    "name": "Nantenaina FINESSE"
+                }
+            ]
+        ],
+        "final_winner": "Benoit COLLIN"
+    },
+    "POOL C": {
+        "round 1-1": [
+            [
+                {
+                    "country": "CMR",
+                    "name": "Dieudonne DOLASSEM"
+                },
+                {
+                    "country": "CMR",
+                    "name": "Emmanuel NGANKOU"
+                }
+            ]
+        ],
+        "final_winner": "Dieudonne DOLASSEM"
+    },
+    "POOL D": {
+        "round 1-1": [
+            [
+                {
+                    "country": "GAB",
+                    "name": "Paul KIBIKAI"
+                },
+                {
+                    "country": "CMR",
+                    "name": "Erick Jean Sebastien OMGBA FOUDA"
+                }
+            ]
+        ],
+        "final_winner": "Paul KIBIKAI"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "SEY",
+                    "name": "Nantenaina FINESSE"
+                }
+            ],
+            [
+                {
+                    "country": "CMR",
+                    "name": "Emmanuel NGANKOU"
+                },
+                {
+                    "country": "CMR",
+                    "name": "Erick Jean Sebastien OMGBA FOUDA"
+                },
+                {
+                    "winner": "Erick Jean Sebastien OMGBA FOUDA"
+                }
+            ],
+            [
+                {
+                    "country": "SEY",
+                    "name": "Nantenaina FINESSE"
+                },
+                {
+                    "country": "GAB",
+                    "name": "Paul KIBIKAI"
+                },
+                {
+                    "winner": "Paul KIBIKAI"
+                }
+            ],
+            [
+                {
+                    "country": "CMR",
+                    "name": "Erick Jean Sebastien OMGBA FOUDA"
+                },
+                {
+                    "country": "FRA",
+                    "name": "Benoit COLLIN"
+                },
+                {
+                    "winner": "Benoit COLLIN"
+                }
+            ],
+            [
+                {
+                    "country": "GAB",
+                    "name": "Paul KIBIKAI"
+                }
+            ],
+            [
+                {
+                    "country": "FRA",
+                    "name": "Benoit COLLIN"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Paul KIBIKAI",
+            "Benoit COLLIN"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ALG",
+                    "name": "Abderrahmane BENAMADI"
+                },
+                {
+                    "country": "FRA",
+                    "name": "Benoit COLLIN"
+                },
+                {
+                    "winner": "Abderrahmane BENAMADI"
+                }
+            ],
+            [
+                {
+                    "country": "CMR",
+                    "name": "Dieudonne DOLASSEM"
+                },
+                {
+                    "country": "GAB",
+                    "name": "Paul KIBIKAI"
+                },
+                {
+                    "winner": "Dieudonne DOLASSEM"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "ALG",
+                    "name": "Abderrahmane BENAMADI"
+                },
+                {
+                    "country": "CMR",
+                    "name": "Dieudonne DOLASSEM"
+                }
+            ]
+        ],
+        "final_winner": "Abderrahmane BENAMADI"
+    }
+}

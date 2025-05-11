@@ -1,0 +1,68 @@
+{
+    "ROUND 1": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CAN",
+                    "name": "Alexandre ARENCIBIA"
+                },
+                {
+                    "country": "DOM",
+                    "name": "Marcos MARTE"
+                },
+                {
+                    "winner": "Alexandre ARENCIBIA"
+                }
+            ],
+            [
+                {
+                    "country": "DOM",
+                    "name": "Axel Alejandro DEL CASTILLO ESPALLAT"
+                },
+                {
+                    "country": "VEN",
+                    "name": "Carlos PAEZ"
+                },
+                {
+                    "winner": "Carlos PAEZ"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Alexandre ARENCIBIA",
+            "Carlos PAEZ"
+        ]
+    },
+    "REPECHAGE": {
+        "round 1-1": [
+            [
+                {
+                    "country": "DOM",
+                    "name": "Marcos MARTE"
+                },
+                {
+                    "country": "DOM",
+                    "name": "Axel Alejandro DEL CASTILLO ESPALLAT"
+                },
+                {
+                    "winner": "Marcos MARTE"
+                }
+            ],
+            [
+                {
+                    "country": "DOM",
+                    "name": "Marcos MARTE"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Marcos MARTE"
+        ]
+    },
+    "FINALS": {
+        "round 1-1": [],
+        "final_winners": [
+            "Alexandre ARENCIBIA"
+        ]
+    }
+}

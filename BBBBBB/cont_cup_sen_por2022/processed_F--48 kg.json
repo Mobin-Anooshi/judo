@@ -1,0 +1,255 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "GER",
+                    "name": "Sarah ISCHT"
+                },
+                {
+                    "winner": "Sarah ISCHT"
+                }
+            ],
+            []
+        ],
+        "round 1-1": [],
+        "final_winner": "Sarah ISCHT"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CHN",
+                    "name": "Ting LIU"
+                },
+                {
+                    "winner": "Ting LIU"
+                }
+            ],
+            [
+                {
+                    "country": "POR",
+                    "name": "Catarina COSTA"
+                },
+                {
+                    "winner": "Catarina COSTA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "CHN",
+                    "name": "Ting LIU"
+                },
+                {
+                    "country": "POR",
+                    "name": "Catarina COSTA"
+                }
+            ]
+        ],
+        "final_winner": "Ting LIU"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CHN",
+                    "name": "Zongying GUO"
+                },
+                {
+                    "winner": "Zongying GUO"
+                }
+            ],
+            [
+                {
+                    "country": "POR",
+                    "name": "Raquel BRITO"
+                },
+                {
+                    "winner": "Raquel BRITO"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "CHN",
+                    "name": "Zongying GUO"
+                },
+                {
+                    "country": "POR",
+                    "name": "Raquel BRITO"
+                }
+            ]
+        ],
+        "final_winner": "Zongying GUO"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ESP",
+                    "name": "Eva PEREZ SOLER"
+                },
+                {
+                    "winner": "Eva PEREZ SOLER"
+                }
+            ],
+            [
+                {
+                    "country": "BEL",
+                    "name": "Ellen SALENS"
+                },
+                {
+                    "winner": "Ellen SALENS"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "ESP",
+                    "name": "Eva PEREZ SOLER"
+                },
+                {
+                    "country": "BEL",
+                    "name": "Ellen SALENS"
+                }
+            ]
+        ],
+        "final_winner": "Ellen SALENS"
+    },
+    "REPECHAGE": {
+        "round 1-4": [
+            [],
+            [
+                {
+                    "country": "POR",
+                    "name": "Catarina COSTA"
+                },
+                {
+                    "winner": "Catarina COSTA"
+                }
+            ],
+            [
+                {
+                    "country": "POR",
+                    "name": "Raquel BRITO"
+                },
+                {
+                    "winner": "Raquel BRITO"
+                }
+            ],
+            [
+                {
+                    "country": "ESP",
+                    "name": "Eva PEREZ SOLER"
+                },
+                {
+                    "winner": "Eva PEREZ SOLER"
+                }
+            ]
+        ],
+        "round 1-2": [
+            [
+                {
+                    "country": "POR",
+                    "name": "Catarina COSTA"
+                }
+            ],
+            [
+                {
+                    "country": "POR",
+                    "name": "Raquel BRITO"
+                },
+                {
+                    "country": "ESP",
+                    "name": "Eva PEREZ SOLER"
+                },
+                {
+                    "winner": "Eva PEREZ SOLER"
+                }
+            ],
+            [
+                {
+                    "country": "POR",
+                    "name": "Catarina COSTA"
+                },
+                {
+                    "country": "BEL",
+                    "name": "Ellen SALENS"
+                },
+                {
+                    "winner": "Catarina COSTA"
+                }
+            ],
+            [
+                {
+                    "country": "ESP",
+                    "name": "Eva PEREZ SOLER"
+                },
+                {
+                    "country": "GER",
+                    "name": "Sarah ISCHT"
+                },
+                {
+                    "winner": "Sarah ISCHT"
+                }
+            ],
+            [
+                {
+                    "country": "GER",
+                    "name": "Sarah ISCHT"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Eva PEREZ SOLER",
+            "Catarina COSTA"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "GER",
+                    "name": "Sarah ISCHT"
+                },
+                {
+                    "country": "CHN",
+                    "name": "Ting LIU"
+                },
+                {
+                    "winner": "Ting LIU"
+                }
+            ],
+            [
+                {
+                    "country": "CHN",
+                    "name": "Zongying GUO"
+                },
+                {
+                    "country": "BEL",
+                    "name": "Ellen SALENS"
+                },
+                {
+                    "winner": "Zongying GUO"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "CHN",
+                    "name": "Ting LIU"
+                },
+                {
+                    "country": "CHN",
+                    "name": "Zongying GUO"
+                }
+            ]
+        ],
+        "final_winner": "Ting LIU"
+    }
+}

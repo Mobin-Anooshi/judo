@@ -1,0 +1,238 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "PER",
+                    "name": "Daniel VIZCARRA"
+                },
+                {
+                    "winner": "Daniel VIZCARRA"
+                }
+            ],
+            [
+                {
+                    "country": "CHI",
+                    "name": "Alan SILVA"
+                },
+                {
+                    "winner": "Alan SILVA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "PER",
+                    "name": "Daniel VIZCARRA"
+                },
+                {
+                    "country": "CHI",
+                    "name": "Alan SILVA"
+                }
+            ],
+            [
+                {
+                    "country": "PER",
+                    "name": "Daniel VIZCARRA"
+                }
+            ]
+        ]
+    },
+    "POOL B": {
+        "round 1-2": [
+            [],
+            [
+                {
+                    "country": "CHI",
+                    "name": "Gerardo RUIZ"
+                },
+                {
+                    "winner": "Gerardo RUIZ"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "CHI",
+                    "name": "Gerardo RUIZ"
+                }
+            ]
+        ]
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ARG",
+                    "name": "Luis VEGA"
+                },
+                {
+                    "winner": "Luis VEGA"
+                }
+            ],
+            [
+                {
+                    "country": "CHI",
+                    "name": "Sandro BOTTO"
+                },
+                {
+                    "winner": "Sandro BOTTO"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "ARG",
+                    "name": "Luis VEGA"
+                },
+                {
+                    "country": "CHI",
+                    "name": "Sandro BOTTO"
+                }
+            ],
+            [
+                {
+                    "country": "ARG",
+                    "name": "Luis VEGA"
+                }
+            ]
+        ]
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "IRL",
+                    "name": "Eoin FLEMING"
+                },
+                {
+                    "winner": "Eoin FLEMING"
+                }
+            ],
+            [
+                {
+                    "country": "CHI",
+                    "name": "Jose SOTO"
+                },
+                {
+                    "winner": "Jose SOTO"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "IRL",
+                    "name": "Eoin FLEMING"
+                },
+                {
+                    "country": "CHI",
+                    "name": "Jose SOTO"
+                }
+            ],
+            [
+                {
+                    "country": "CHI",
+                    "name": "Jose SOTO"
+                }
+            ]
+        ]
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CHI",
+                    "name": "Alan SILVA"
+                }
+            ],
+            [
+                {
+                    "country": "CHI",
+                    "name": "Sandro BOTTO"
+                },
+                {
+                    "country": "IRL",
+                    "name": "Eoin FLEMING"
+                }
+            ],
+            [
+                {
+                    "country": "CHI",
+                    "name": "Alan SILVA"
+                },
+                {
+                    "country": "CHI",
+                    "name": "Jose SOTO"
+                }
+            ],
+            [
+                {
+                    "country": "CHI",
+                    "name": "Sandro BOTTO"
+                },
+                {
+                    "country": "CHI",
+                    "name": "Gerardo RUIZ"
+                }
+            ],
+            [
+                {
+                    "country": "CHI",
+                    "name": "Gerardo RUIZ"
+                }
+            ]
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "PER",
+                    "name": "Daniel VIZCARRA"
+                },
+                {
+                    "country": "CHI",
+                    "name": "Gerardo RUIZ"
+                },
+                {
+                    "winner": "Daniel VIZCARRA"
+                }
+            ],
+            [
+                {
+                    "country": "ARG",
+                    "name": "Luis VEGA"
+                },
+                {
+                    "country": "CHI",
+                    "name": "Jose SOTO"
+                },
+                {
+                    "winner": "Luis VEGA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "PER",
+                    "name": "Daniel VIZCARRA"
+                },
+                {
+                    "country": "ARG",
+                    "name": "Luis VEGA"
+                }
+            ],
+            [
+                {
+                    "country": "ARG",
+                    "name": "Luis VEGA"
+                }
+            ]
+        ]
+    }
+}

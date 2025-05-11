@@ -1,0 +1,227 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "AUS",
+                    "name": "James ZAHRA"
+                },
+                {
+                    "winner": "James ZAHRA"
+                }
+            ],
+            []
+        ],
+        "round 1-1": [],
+        "final_winner": "James ZAHRA"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "MAC",
+                    "name": "Chi in LEI"
+                },
+                {
+                    "winner": "Chi in LEI"
+                }
+            ],
+            [
+                {
+                    "country": "UAE",
+                    "name": "Ahmed AL NAQBI"
+                },
+                {
+                    "winner": "Ahmed AL NAQBI"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "MAC",
+                    "name": "Chi in LEI"
+                },
+                {
+                    "country": "UAE",
+                    "name": "Ahmed AL NAQBI"
+                }
+            ]
+        ],
+        "final_winner": "Chi in LEI"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "IND",
+                    "name": "Shiva KUMAR"
+                },
+                {
+                    "winner": "Shiva KUMAR"
+                }
+            ],
+            []
+        ],
+        "round 1-1": [],
+        "final_winner": "Shiva KUMAR"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "TPE",
+                    "name": "Min-Fan LIAO"
+                },
+                {
+                    "winner": "Min-Fan LIAO"
+                }
+            ],
+            [
+                {
+                    "country": "AUS",
+                    "name": "CLAYTON WALKER"
+                },
+                {
+                    "winner": "CLAYTON WALKER"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "TPE",
+                    "name": "Min-Fan LIAO"
+                },
+                {
+                    "country": "AUS",
+                    "name": "CLAYTON WALKER"
+                }
+            ]
+        ],
+        "final_winner": "Min-Fan LIAO"
+    },
+    "REPECHAGE": {
+        "round 1-4": [
+            [],
+            [
+                {
+                    "country": "UAE",
+                    "name": "Ahmed AL NAQBI"
+                },
+                {
+                    "winner": "Ahmed AL NAQBI"
+                }
+            ],
+            [],
+            [
+                {
+                    "country": "AUS",
+                    "name": "CLAYTON WALKER"
+                },
+                {
+                    "winner": "CLAYTON WALKER"
+                }
+            ]
+        ],
+        "round 1-2": [
+            [
+                {
+                    "country": "UAE",
+                    "name": "Ahmed AL NAQBI"
+                }
+            ],
+            [
+                {
+                    "country": "AUS",
+                    "name": "CLAYTON WALKER"
+                }
+            ],
+            [
+                {
+                    "country": "UAE",
+                    "name": "Ahmed AL NAQBI"
+                },
+                {
+                    "country": "TPE",
+                    "name": "Min-Fan LIAO"
+                },
+                {
+                    "winner": "Min-Fan LIAO"
+                }
+            ],
+            [
+                {
+                    "country": "AUS",
+                    "name": "CLAYTON WALKER"
+                },
+                {
+                    "country": "MAC",
+                    "name": "Chi in LEI"
+                },
+                {
+                    "winner": "Chi in LEI"
+                }
+            ],
+            [
+                {
+                    "country": "TPE",
+                    "name": "Min-Fan LIAO"
+                }
+            ],
+            [
+                {
+                    "country": "MAC",
+                    "name": "Chi in LEI"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Min-Fan LIAO",
+            "Chi in LEI"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "AUS",
+                    "name": "James ZAHRA"
+                },
+                {
+                    "country": "MAC",
+                    "name": "Chi in LEI"
+                },
+                {
+                    "winner": "James ZAHRA"
+                }
+            ],
+            [
+                {
+                    "country": "IND",
+                    "name": "Shiva KUMAR"
+                },
+                {
+                    "country": "TPE",
+                    "name": "Min-Fan LIAO"
+                },
+                {
+                    "winner": "Shiva KUMAR"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "AUS",
+                    "name": "James ZAHRA"
+                },
+                {
+                    "country": "IND",
+                    "name": "Shiva KUMAR"
+                }
+            ]
+        ],
+        "final_winner": "Shiva KUMAR"
+    }
+}

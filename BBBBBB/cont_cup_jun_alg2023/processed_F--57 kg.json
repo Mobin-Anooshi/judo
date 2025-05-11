@@ -1,0 +1,159 @@
+{
+    "POOL A": {
+        "round 1-1": [],
+        "final_winner": "Chaima SIDAOUI"
+    },
+    "POOL B": {
+        "round 1-1": [
+            [
+                {
+                    "country": "TUN",
+                    "name": "Roumaissa TIBI"
+                },
+                {
+                    "country": "ALG",
+                    "name": "Hala ZERROUK"
+                }
+            ]
+        ],
+        "final_winner": "Hala ZERROUK"
+    },
+    "POOL C": {
+        "round 1-1": [
+            [
+                {
+                    "country": "TUN",
+                    "name": "Mariem JMOUR"
+                },
+                {
+                    "country": "ALG",
+                    "name": "Elissa KAMARIZ"
+                }
+            ]
+        ],
+        "final_winner": "Mariem JMOUR"
+    },
+    "POOL D": {
+        "round 1-1": [
+            [
+                {
+                    "country": "ALG",
+                    "name": "Melissa KECHOUT"
+                },
+                {
+                    "country": "ALG",
+                    "name": "Malak MEDDOUR"
+                }
+            ]
+        ],
+        "final_winner": "Melissa KECHOUT"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "TUN",
+                    "name": "Roumaissa TIBI"
+                }
+            ],
+            [
+                {
+                    "country": "ALG",
+                    "name": "Elissa KAMARIZ"
+                },
+                {
+                    "country": "ALG",
+                    "name": "Malak MEDDOUR"
+                },
+                {
+                    "winner": "Malak MEDDOUR"
+                }
+            ],
+            [
+                {
+                    "country": "TUN",
+                    "name": "Roumaissa TIBI"
+                },
+                {
+                    "country": "TUN",
+                    "name": "Mariem JMOUR"
+                },
+                {
+                    "winner": "Mariem JMOUR"
+                }
+            ],
+            [
+                {
+                    "country": "ALG",
+                    "name": "Malak MEDDOUR"
+                },
+                {
+                    "country": "ALG",
+                    "name": "Hala ZERROUK"
+                },
+                {
+                    "winner": "Malak MEDDOUR"
+                }
+            ],
+            [
+                {
+                    "country": "TUN",
+                    "name": "Mariem JMOUR"
+                }
+            ],
+            [
+                {
+                    "country": "ALG",
+                    "name": "Malak MEDDOUR"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Mariem JMOUR",
+            "Malak MEDDOUR"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "TUN",
+                    "name": "Chaima SIDAOUI"
+                },
+                {
+                    "country": "ALG",
+                    "name": "Hala ZERROUK"
+                },
+                {
+                    "winner": "Chaima SIDAOUI"
+                }
+            ],
+            [
+                {
+                    "country": "TUN",
+                    "name": "Mariem JMOUR"
+                },
+                {
+                    "country": "ALG",
+                    "name": "Melissa KECHOUT"
+                },
+                {
+                    "winner": "Melissa KECHOUT"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "TUN",
+                    "name": "Chaima SIDAOUI"
+                },
+                {
+                    "country": "ALG",
+                    "name": "Melissa KECHOUT"
+                }
+            ]
+        ],
+        "final_winner": "Melissa KECHOUT"
+    }
+}

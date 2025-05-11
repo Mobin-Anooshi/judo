@@ -1,0 +1,261 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Guilherme SCHIMIDT"
+                },
+                {
+                    "winner": "Guilherme SCHIMIDT"
+                }
+            ],
+            [
+                {
+                    "country": "ARG",
+                    "name": "Agustin GIL"
+                },
+                {
+                    "country": "ARG",
+                    "name": "Santiago MORALES"
+                },
+                {
+                    "winner": "Agustin GIL"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Guilherme SCHIMIDT"
+                },
+                {
+                    "country": "ARG",
+                    "name": "Agustin GIL"
+                }
+            ]
+        ],
+        "final_winner": "Guilherme SCHIMIDT"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Caio BRIGIDA"
+                },
+                {
+                    "winner": "Caio BRIGIDA"
+                }
+            ],
+            [
+                {
+                    "country": "USA",
+                    "name": "Kell BERLINER"
+                },
+                {
+                    "winner": "Kell BERLINER"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Caio BRIGIDA"
+                },
+                {
+                    "country": "USA",
+                    "name": "Kell BERLINER"
+                }
+            ]
+        ],
+        "final_winner": "Caio BRIGIDA"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "PER",
+                    "name": "Luis Eduardo ANGELES SOTELO"
+                },
+                {
+                    "winner": "Luis Eduardo ANGELES SOTELO"
+                }
+            ],
+            [
+                {
+                    "country": "ARG",
+                    "name": "Santiago GRIVEL"
+                },
+                {
+                    "winner": "Santiago GRIVEL"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "PER",
+                    "name": "Luis Eduardo ANGELES SOTELO"
+                },
+                {
+                    "country": "ARG",
+                    "name": "Santiago GRIVEL"
+                }
+            ]
+        ],
+        "final_winner": "Luis Eduardo ANGELES SOTELO"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "NZL",
+                    "name": "Elliott CONNOLLY"
+                },
+                {
+                    "winner": "Elliott CONNOLLY"
+                }
+            ],
+            [
+                {
+                    "country": "CHI",
+                    "name": "Jorge PEREZ"
+                },
+                {
+                    "winner": "Jorge PEREZ"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "NZL",
+                    "name": "Elliott CONNOLLY"
+                },
+                {
+                    "country": "CHI",
+                    "name": "Jorge PEREZ"
+                }
+            ]
+        ],
+        "final_winner": "Elliott CONNOLLY"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ARG",
+                    "name": "Agustin GIL"
+                },
+                {
+                    "country": "USA",
+                    "name": "Kell BERLINER"
+                },
+                {
+                    "winner": "Kell BERLINER"
+                }
+            ],
+            [
+                {
+                    "country": "ARG",
+                    "name": "Santiago GRIVEL"
+                },
+                {
+                    "country": "CHI",
+                    "name": "Jorge PEREZ"
+                },
+                {
+                    "winner": "Jorge PEREZ"
+                }
+            ],
+            [
+                {
+                    "country": "USA",
+                    "name": "Kell BERLINER"
+                },
+                {
+                    "country": "PER",
+                    "name": "Luis Eduardo ANGELES SOTELO"
+                },
+                {
+                    "winner": "Kell BERLINER"
+                }
+            ],
+            [
+                {
+                    "country": "CHI",
+                    "name": "Jorge PEREZ"
+                },
+                {
+                    "country": "BRA",
+                    "name": "Guilherme SCHIMIDT"
+                },
+                {
+                    "winner": "Guilherme SCHIMIDT"
+                }
+            ],
+            [
+                {
+                    "country": "USA",
+                    "name": "Kell BERLINER"
+                }
+            ],
+            [
+                {
+                    "country": "BRA",
+                    "name": "Guilherme SCHIMIDT"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Kell BERLINER",
+            "Guilherme SCHIMIDT"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Guilherme SCHIMIDT"
+                },
+                {
+                    "country": "BRA",
+                    "name": "Caio BRIGIDA"
+                },
+                {
+                    "winner": "Caio BRIGIDA"
+                }
+            ],
+            [
+                {
+                    "country": "PER",
+                    "name": "Luis Eduardo ANGELES SOTELO"
+                },
+                {
+                    "country": "NZL",
+                    "name": "Elliott CONNOLLY"
+                },
+                {
+                    "winner": "Elliott CONNOLLY"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Caio BRIGIDA"
+                },
+                {
+                    "country": "NZL",
+                    "name": "Elliott CONNOLLY"
+                }
+            ]
+        ],
+        "final_winner": "Caio BRIGIDA"
+    }
+}

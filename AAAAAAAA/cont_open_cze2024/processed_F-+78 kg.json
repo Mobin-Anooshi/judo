@@ -1,0 +1,261 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "NED",
+                    "name": "Carmen DIJKSTRA"
+                },
+                {
+                    "winner": "Carmen DIJKSTRA"
+                }
+            ],
+            [
+                {
+                    "country": "FRA",
+                    "name": "Dounia NACER"
+                },
+                {
+                    "winner": "Dounia NACER"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "NED",
+                    "name": "Carmen DIJKSTRA"
+                },
+                {
+                    "country": "FRA",
+                    "name": "Dounia NACER"
+                }
+            ]
+        ],
+        "final_winner": "Dounia NACER"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "FRA",
+                    "name": "Grace-Esther MIENANDI LAHOU"
+                },
+                {
+                    "winner": "Grace-Esther MIENANDI LAHOU"
+                }
+            ],
+            [
+                {
+                    "country": "POL",
+                    "name": "Wiktoria LIS"
+                },
+                {
+                    "winner": "Wiktoria LIS"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "FRA",
+                    "name": "Grace-Esther MIENANDI LAHOU"
+                },
+                {
+                    "country": "POL",
+                    "name": "Wiktoria LIS"
+                }
+            ]
+        ],
+        "final_winner": "Grace-Esther MIENANDI LAHOU"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "FRA",
+                    "name": "Laura FUSEAU"
+                },
+                {
+                    "winner": "Laura FUSEAU"
+                }
+            ],
+            [
+                {
+                    "country": "ITA",
+                    "name": "Alessia GIORDANO"
+                },
+                {
+                    "country": "POL",
+                    "name": "Emilia GONSIOR"
+                },
+                {
+                    "winner": "Alessia GIORDANO"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "FRA",
+                    "name": "Laura FUSEAU"
+                },
+                {
+                    "country": "ITA",
+                    "name": "Alessia GIORDANO"
+                }
+            ]
+        ],
+        "final_winner": "Alessia GIORDANO"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "FRA",
+                    "name": "Lucie DUPIN"
+                },
+                {
+                    "winner": "Lucie DUPIN"
+                }
+            ],
+            [
+                {
+                    "country": "FRA",
+                    "name": "Oceane DIARRASSOUBA"
+                },
+                {
+                    "winner": "Oceane DIARRASSOUBA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "FRA",
+                    "name": "Lucie DUPIN"
+                },
+                {
+                    "country": "FRA",
+                    "name": "Oceane DIARRASSOUBA"
+                }
+            ]
+        ],
+        "final_winner": "Oceane DIARRASSOUBA"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "NED",
+                    "name": "Carmen DIJKSTRA"
+                },
+                {
+                    "country": "POL",
+                    "name": "Wiktoria LIS"
+                },
+                {
+                    "winner": "Carmen DIJKSTRA"
+                }
+            ],
+            [
+                {
+                    "country": "FRA",
+                    "name": "Laura FUSEAU"
+                },
+                {
+                    "country": "FRA",
+                    "name": "Lucie DUPIN"
+                },
+                {
+                    "winner": "Laura FUSEAU"
+                }
+            ],
+            [
+                {
+                    "country": "NED",
+                    "name": "Carmen DIJKSTRA"
+                },
+                {
+                    "country": "ITA",
+                    "name": "Alessia GIORDANO"
+                },
+                {
+                    "winner": "Carmen DIJKSTRA"
+                }
+            ],
+            [
+                {
+                    "country": "FRA",
+                    "name": "Laura FUSEAU"
+                },
+                {
+                    "country": "FRA",
+                    "name": "Grace-Esther MIENANDI LAHOU"
+                },
+                {
+                    "winner": "Laura FUSEAU"
+                }
+            ],
+            [
+                {
+                    "country": "NED",
+                    "name": "Carmen DIJKSTRA"
+                }
+            ],
+            [
+                {
+                    "country": "FRA",
+                    "name": "Laura FUSEAU"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Carmen DIJKSTRA",
+            "Laura FUSEAU"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "FRA",
+                    "name": "Dounia NACER"
+                },
+                {
+                    "country": "FRA",
+                    "name": "Grace-Esther MIENANDI LAHOU"
+                },
+                {
+                    "winner": "Dounia NACER"
+                }
+            ],
+            [
+                {
+                    "country": "ITA",
+                    "name": "Alessia GIORDANO"
+                },
+                {
+                    "country": "FRA",
+                    "name": "Oceane DIARRASSOUBA"
+                },
+                {
+                    "winner": "Oceane DIARRASSOUBA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "FRA",
+                    "name": "Dounia NACER"
+                },
+                {
+                    "country": "FRA",
+                    "name": "Oceane DIARRASSOUBA"
+                }
+            ]
+        ],
+        "final_winner": "Dounia NACER"
+    }
+}

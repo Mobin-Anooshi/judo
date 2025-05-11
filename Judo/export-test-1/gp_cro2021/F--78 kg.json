@@ -1,0 +1,261 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "NED",
+                    "name": "Karen STEVENSON"
+                },
+                {
+                    "winner": "Karen STEVENSON"
+                }
+            ],
+            [
+                {
+                    "country": "GER",
+                    "name": "Lea SCHMID"
+                },
+                {
+                    "country": "CRO",
+                    "name": "Zrinka MIOCIC"
+                },
+                {
+                    "winner": "Lea SCHMID"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "NED",
+                    "name": "Karen STEVENSON"
+                },
+                {
+                    "country": "GER",
+                    "name": "Lea SCHMID"
+                }
+            ]
+        ],
+        "final_winner": "Karen STEVENSON"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "GBR",
+                    "name": "Emma REID"
+                },
+                {
+                    "winner": "Emma REID"
+                }
+            ],
+            [
+                {
+                    "country": "BEL",
+                    "name": "Sophie BERGER"
+                },
+                {
+                    "winner": "Sophie BERGER"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "GBR",
+                    "name": "Emma REID"
+                },
+                {
+                    "country": "BEL",
+                    "name": "Sophie BERGER"
+                }
+            ]
+        ],
+        "final_winner": "Emma REID"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "SLO",
+                    "name": "Patricija BROLIH"
+                },
+                {
+                    "winner": "Patricija BROLIH"
+                }
+            ],
+            [
+                {
+                    "country": "POL",
+                    "name": "Paulina DZIOPA"
+                },
+                {
+                    "winner": "Paulina DZIOPA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "SLO",
+                    "name": "Patricija BROLIH"
+                },
+                {
+                    "country": "POL",
+                    "name": "Paulina DZIOPA"
+                }
+            ]
+        ],
+        "final_winner": "Patricija BROLIH"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "NED",
+                    "name": "Renee VAN HARSELAAR"
+                },
+                {
+                    "winner": "Renee VAN HARSELAAR"
+                }
+            ],
+            [
+                {
+                    "country": "GER",
+                    "name": "Teresa ZENKER"
+                },
+                {
+                    "winner": "Teresa ZENKER"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "NED",
+                    "name": "Renee VAN HARSELAAR"
+                },
+                {
+                    "country": "GER",
+                    "name": "Teresa ZENKER"
+                }
+            ]
+        ],
+        "final_winner": "Teresa ZENKER"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "GER",
+                    "name": "Lea SCHMID"
+                },
+                {
+                    "country": "BEL",
+                    "name": "Sophie BERGER"
+                },
+                {
+                    "winner": "Sophie BERGER"
+                }
+            ],
+            [
+                {
+                    "country": "POL",
+                    "name": "Paulina DZIOPA"
+                },
+                {
+                    "country": "NED",
+                    "name": "Renee VAN HARSELAAR"
+                },
+                {
+                    "winner": "Renee VAN HARSELAAR"
+                }
+            ],
+            [
+                {
+                    "country": "BEL",
+                    "name": "Sophie BERGER"
+                },
+                {
+                    "country": "GER",
+                    "name": "Teresa ZENKER"
+                },
+                {
+                    "winner": "Teresa ZENKER"
+                }
+            ],
+            [
+                {
+                    "country": "NED",
+                    "name": "Renee VAN HARSELAAR"
+                },
+                {
+                    "country": "GBR",
+                    "name": "Emma REID"
+                },
+                {
+                    "winner": "Emma REID"
+                }
+            ],
+            [
+                {
+                    "country": "GER",
+                    "name": "Teresa ZENKER"
+                }
+            ],
+            [
+                {
+                    "country": "GBR",
+                    "name": "Emma REID"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Teresa ZENKER",
+            "Emma REID"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "NED",
+                    "name": "Karen STEVENSON"
+                },
+                {
+                    "country": "GBR",
+                    "name": "Emma REID"
+                },
+                {
+                    "winner": "Karen STEVENSON"
+                }
+            ],
+            [
+                {
+                    "country": "SLO",
+                    "name": "Patricija BROLIH"
+                },
+                {
+                    "country": "GER",
+                    "name": "Teresa ZENKER"
+                },
+                {
+                    "winner": "Patricija BROLIH"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "NED",
+                    "name": "Karen STEVENSON"
+                },
+                {
+                    "country": "SLO",
+                    "name": "Patricija BROLIH"
+                }
+            ]
+        ],
+        "final_winner": "Karen STEVENSON"
+    }
+}

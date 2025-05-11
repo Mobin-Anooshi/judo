@@ -1,0 +1,177 @@
+{
+    "POOL A": {
+        "round 1-1": [
+            [
+                {
+                    "country": "TUN",
+                    "name": "Alaa FESSI"
+                },
+                {
+                    "country": "ALG",
+                    "name": "Hadia Bouchra BELATBI"
+                }
+            ]
+        ],
+        "final_winner": "Alaa FESSI"
+    },
+    "POOL B": {
+        "round 1-1": [
+            [
+                {
+                    "country": "ALG",
+                    "name": "Hadjer ARRAS"
+                },
+                {
+                    "country": "ALG",
+                    "name": "Hadil OUDINA"
+                }
+            ]
+        ],
+        "final_winner": "Hadjer ARRAS"
+    },
+    "POOL C": {
+        "round 1-1": [
+            [
+                {
+                    "country": "BIH",
+                    "name": "Amina Merjem HEBIB"
+                },
+                {
+                    "country": "ALG",
+                    "name": "Kamilia BENYOUCEF"
+                }
+            ]
+        ],
+        "final_winner": "Amina Merjem HEBIB"
+    },
+    "POOL D": {
+        "round 1-1": [
+            [
+                {
+                    "country": "TUN",
+                    "name": "Ons ROMDHANI"
+                },
+                {
+                    "country": "ALG",
+                    "name": "Lamis Meriem ATBA BENATBA"
+                }
+            ]
+        ],
+        "final_winner": "Ons ROMDHANI"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ALG",
+                    "name": "Hadia Bouchra BELATBI"
+                },
+                {
+                    "country": "ALG",
+                    "name": "Hadil OUDINA"
+                },
+                {
+                    "winner": "Hadia Bouchra BELATBI"
+                }
+            ],
+            [
+                {
+                    "country": "ALG",
+                    "name": "Kamilia BENYOUCEF"
+                },
+                {
+                    "country": "ALG",
+                    "name": "Lamis Meriem ATBA BENATBA"
+                },
+                {
+                    "winner": "Lamis Meriem ATBA BENATBA"
+                }
+            ],
+            [
+                {
+                    "country": "ALG",
+                    "name": "Hadia Bouchra BELATBI"
+                },
+                {
+                    "country": "BIH",
+                    "name": "Amina Merjem HEBIB"
+                },
+                {
+                    "winner": "Amina Merjem HEBIB"
+                }
+            ],
+            [
+                {
+                    "country": "ALG",
+                    "name": "Lamis Meriem ATBA BENATBA"
+                },
+                {
+                    "country": "ALG",
+                    "name": "Hadjer ARRAS"
+                },
+                {
+                    "winner": "Hadjer ARRAS"
+                }
+            ],
+            [
+                {
+                    "country": "BIH",
+                    "name": "Amina Merjem HEBIB"
+                }
+            ],
+            [
+                {
+                    "country": "ALG",
+                    "name": "Hadjer ARRAS"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Amina Merjem HEBIB",
+            "Hadjer ARRAS"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "TUN",
+                    "name": "Alaa FESSI"
+                },
+                {
+                    "country": "ALG",
+                    "name": "Hadjer ARRAS"
+                },
+                {
+                    "winner": "Alaa FESSI"
+                }
+            ],
+            [
+                {
+                    "country": "BIH",
+                    "name": "Amina Merjem HEBIB"
+                },
+                {
+                    "country": "TUN",
+                    "name": "Ons ROMDHANI"
+                },
+                {
+                    "winner": "Ons ROMDHANI"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "TUN",
+                    "name": "Alaa FESSI"
+                },
+                {
+                    "country": "TUN",
+                    "name": "Ons ROMDHANI"
+                }
+            ]
+        ],
+        "final_winner": "Ons ROMDHANI"
+    }
+}

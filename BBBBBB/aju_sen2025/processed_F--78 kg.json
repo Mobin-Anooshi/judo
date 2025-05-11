@@ -1,0 +1,177 @@
+{
+    "POOL A": {
+        "round 1-1": [
+            [
+                {
+                    "country": "GUI",
+                    "name": "Marie BRANSER"
+                },
+                {
+                    "country": "MAD",
+                    "name": "Hajanirina Zo ANDRIAMBOLOLONA"
+                }
+            ]
+        ],
+        "final_winner": "Marie BRANSER"
+    },
+    "POOL B": {
+        "round 1-1": [
+            [
+                {
+                    "country": "KEN",
+                    "name": "Zeddy CHEROTICH"
+                },
+                {
+                    "country": "ALG",
+                    "name": "Dyhia BENCHALLAL"
+                }
+            ]
+        ],
+        "final_winner": "Dyhia BENCHALLAL"
+    },
+    "POOL C": {
+        "round 1-1": [
+            [
+                {
+                    "country": "CMR",
+                    "name": "Georgika Wesly DJENGUE MOUNE"
+                },
+                {
+                    "country": "CIV",
+                    "name": "Fatim FOFANA"
+                }
+            ]
+        ],
+        "final_winner": "Georgika Wesly DJENGUE MOUNE"
+    },
+    "POOL D": {
+        "round 1-1": [
+            [
+                {
+                    "country": "TUN",
+                    "name": "Arij AKKAB"
+                },
+                {
+                    "country": "MAR",
+                    "name": "Jihane EL HOUMATE"
+                }
+            ]
+        ],
+        "final_winner": "Arij AKKAB"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "MAD",
+                    "name": "Hajanirina Zo ANDRIAMBOLOLONA"
+                },
+                {
+                    "country": "KEN",
+                    "name": "Zeddy CHEROTICH"
+                },
+                {
+                    "winner": "Hajanirina Zo ANDRIAMBOLOLONA"
+                }
+            ],
+            [
+                {
+                    "country": "CIV",
+                    "name": "Fatim FOFANA"
+                },
+                {
+                    "country": "MAR",
+                    "name": "Jihane EL HOUMATE"
+                },
+                {
+                    "winner": "Jihane EL HOUMATE"
+                }
+            ],
+            [
+                {
+                    "country": "MAD",
+                    "name": "Hajanirina Zo ANDRIAMBOLOLONA"
+                },
+                {
+                    "country": "CMR",
+                    "name": "Georgika Wesly DJENGUE MOUNE"
+                },
+                {
+                    "winner": "Georgika Wesly DJENGUE MOUNE"
+                }
+            ],
+            [
+                {
+                    "country": "MAR",
+                    "name": "Jihane EL HOUMATE"
+                },
+                {
+                    "country": "ALG",
+                    "name": "Dyhia BENCHALLAL"
+                },
+                {
+                    "winner": "Dyhia BENCHALLAL"
+                }
+            ],
+            [
+                {
+                    "country": "CMR",
+                    "name": "Georgika Wesly DJENGUE MOUNE"
+                }
+            ],
+            [
+                {
+                    "country": "ALG",
+                    "name": "Dyhia BENCHALLAL"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Georgika Wesly DJENGUE MOUNE",
+            "Dyhia BENCHALLAL"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "GUI",
+                    "name": "Marie BRANSER"
+                },
+                {
+                    "country": "ALG",
+                    "name": "Dyhia BENCHALLAL"
+                },
+                {
+                    "winner": "Marie BRANSER"
+                }
+            ],
+            [
+                {
+                    "country": "CMR",
+                    "name": "Georgika Wesly DJENGUE MOUNE"
+                },
+                {
+                    "country": "TUN",
+                    "name": "Arij AKKAB"
+                },
+                {
+                    "winner": "Arij AKKAB"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "GUI",
+                    "name": "Marie BRANSER"
+                },
+                {
+                    "country": "TUN",
+                    "name": "Arij AKKAB"
+                }
+            ]
+        ],
+        "final_winner": "Marie BRANSER"
+    }
+}

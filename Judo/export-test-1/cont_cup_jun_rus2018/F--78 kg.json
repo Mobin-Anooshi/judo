@@ -1,0 +1,221 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "BLR",
+                    "name": "Darya KANTSAVAYA"
+                },
+                {
+                    "winner": "Darya KANTSAVAYA"
+                }
+            ],
+            [
+                {
+                    "country": "RUS",
+                    "name": "Ekaterina SAZONOVA"
+                },
+                {
+                    "winner": "Ekaterina SAZONOVA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "BLR",
+                    "name": "Darya KANTSAVAYA"
+                },
+                {
+                    "country": "RUS",
+                    "name": "Ekaterina SAZONOVA"
+                }
+            ]
+        ],
+        "final_winner": "Darya KANTSAVAYA"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [],
+            [
+                {
+                    "country": "RUS",
+                    "name": "Aleksandra NIKOLAEVA"
+                },
+                {
+                    "winner": "Aleksandra NIKOLAEVA"
+                }
+            ]
+        ],
+        "round 1-1": [],
+        "final_winner": "Aleksandra NIKOLAEVA"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "RUS",
+                    "name": "Irina TKACHENKO"
+                },
+                {
+                    "winner": "Irina TKACHENKO"
+                }
+            ],
+            []
+        ],
+        "round 1-1": [],
+        "final_winner": "Irina TKACHENKO"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "EST",
+                    "name": "Annika KARILAID"
+                },
+                {
+                    "winner": "Annika KARILAID"
+                }
+            ],
+            [
+                {
+                    "country": "RUS",
+                    "name": "Tamara LISHCHENKO"
+                },
+                {
+                    "winner": "Tamara LISHCHENKO"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "EST",
+                    "name": "Annika KARILAID"
+                },
+                {
+                    "country": "RUS",
+                    "name": "Tamara LISHCHENKO"
+                }
+            ]
+        ],
+        "final_winner": "Tamara LISHCHENKO"
+    },
+    "REPECHAGE": {
+        "round 1-4": [
+            [
+                {
+                    "country": "RUS",
+                    "name": "Ekaterina SAZONOVA"
+                },
+                {
+                    "winner": "Ekaterina SAZONOVA"
+                }
+            ],
+            [],
+            [],
+            [
+                {
+                    "country": "EST",
+                    "name": "Annika KARILAID"
+                },
+                {
+                    "winner": "Annika KARILAID"
+                }
+            ]
+        ],
+        "round 1-2": [
+            [
+                {
+                    "country": "RUS",
+                    "name": "Ekaterina SAZONOVA"
+                }
+            ],
+            [
+                {
+                    "country": "EST",
+                    "name": "Annika KARILAID"
+                }
+            ],
+            [
+                {
+                    "country": "RUS",
+                    "name": "Ekaterina SAZONOVA"
+                },
+                {
+                    "country": "RUS",
+                    "name": "Irina TKACHENKO"
+                },
+                {
+                    "winner": "Ekaterina SAZONOVA"
+                }
+            ],
+            [
+                {
+                    "country": "EST",
+                    "name": "Annika KARILAID"
+                },
+                {
+                    "country": "RUS",
+                    "name": "Aleksandra NIKOLAEVA"
+                },
+                {
+                    "winner": "Aleksandra NIKOLAEVA"
+                }
+            ],
+            [
+                {
+                    "country": "RUS",
+                    "name": "Aleksandra NIKOLAEVA"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Annika KARILAID",
+            "Ekaterina SAZONOVA"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "BLR",
+                    "name": "Darya KANTSAVAYA"
+                },
+                {
+                    "country": "RUS",
+                    "name": "Aleksandra NIKOLAEVA"
+                },
+                {
+                    "winner": "Darya KANTSAVAYA"
+                }
+            ],
+            [
+                {
+                    "country": "RUS",
+                    "name": "Irina TKACHENKO"
+                },
+                {
+                    "country": "RUS",
+                    "name": "Tamara LISHCHENKO"
+                },
+                {
+                    "winner": "Tamara LISHCHENKO"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "BLR",
+                    "name": "Darya KANTSAVAYA"
+                },
+                {
+                    "country": "RUS",
+                    "name": "Tamara LISHCHENKO"
+                }
+            ]
+        ],
+        "final_winner": "Tamara LISHCHENKO"
+    }
+}

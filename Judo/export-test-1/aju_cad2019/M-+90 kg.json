@@ -1,0 +1,135 @@
+{
+    "POOL A": {
+        "round 1-1": [],
+        "final_winner": "Wahib HDIOUECH"
+    },
+    "POOL B": {
+        "round 1-1": [
+            [
+                {
+                    "country": "ALG",
+                    "name": "Raouf HALLAF"
+                },
+                {
+                    "country": "EGY",
+                    "name": "Fares ELHADIDY"
+                }
+            ]
+        ],
+        "final_winner": "Fares ELHADIDY"
+    },
+    "POOL C": {
+        "round 1-1": [],
+        "final_winner": "Ahmed ABDELSAMIEA"
+    },
+    "POOL D": {
+        "round 1-1": [
+            [
+                {
+                    "country": "SEN",
+                    "name": "Alioune Badara Thienella FALL"
+                },
+                {
+                    "country": "RSA",
+                    "name": "Jacob VAN STADEN"
+                }
+            ]
+        ],
+        "final_winner": "Jacob VAN STADEN"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ALG",
+                    "name": "Raouf HALLAF"
+                }
+            ],
+            [
+                {
+                    "country": "SEN",
+                    "name": "Alioune Badara Thienella FALL"
+                }
+            ],
+            [
+                {
+                    "country": "ALG",
+                    "name": "Raouf HALLAF"
+                },
+                {
+                    "country": "RSA",
+                    "name": "Jacob VAN STADEN"
+                },
+                {
+                    "winner": "Raouf HALLAF"
+                }
+            ],
+            [
+                {
+                    "country": "SEN",
+                    "name": "Alioune Badara Thienella FALL"
+                },
+                {
+                    "country": "EGY",
+                    "name": "Fares ELHADIDY"
+                },
+                {
+                    "winner": "Fares ELHADIDY"
+                }
+            ],
+            [
+                {
+                    "country": "EGY",
+                    "name": "Fares ELHADIDY"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Alioune Badara Thienella FALL",
+            "Raouf HALLAF"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "TUN",
+                    "name": "Wahib HDIOUECH"
+                },
+                {
+                    "country": "EGY",
+                    "name": "Fares ELHADIDY"
+                },
+                {
+                    "winner": "Wahib HDIOUECH"
+                }
+            ],
+            [
+                {
+                    "country": "EGY",
+                    "name": "Ahmed ABDELSAMIEA"
+                },
+                {
+                    "country": "RSA",
+                    "name": "Jacob VAN STADEN"
+                },
+                {
+                    "winner": "Ahmed ABDELSAMIEA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "TUN",
+                    "name": "Wahib HDIOUECH"
+                },
+                {
+                    "country": "EGY",
+                    "name": "Ahmed ABDELSAMIEA"
+                }
+            ]
+        ],
+        "final_winner": "Ahmed ABDELSAMIEA"
+    }
+}

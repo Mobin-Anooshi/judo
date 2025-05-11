@@ -1,0 +1,68 @@
+{
+    "ROUND 1": {
+        "round 1-2": [
+            [
+                {
+                    "country": "TUN",
+                    "name": "Oumaima BEDIOUI"
+                },
+                {
+                    "country": "SYR",
+                    "name": "Laila KENAN"
+                },
+                {
+                    "winner": "Oumaima BEDIOUI"
+                }
+            ],
+            [
+                {
+                    "country": "ALG",
+                    "name": "Houaria KADDOUR"
+                },
+                {
+                    "country": "KSA",
+                    "name": "Afnan HAKAMI"
+                },
+                {
+                    "winner": "Houaria KADDOUR"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Oumaima BEDIOUI",
+            "Houaria KADDOUR"
+        ]
+    },
+    "REPECHAGE": {
+        "round 1-1": [
+            [
+                {
+                    "country": "SYR",
+                    "name": "Laila KENAN"
+                },
+                {
+                    "country": "KSA",
+                    "name": "Afnan HAKAMI"
+                },
+                {
+                    "winner": "Laila KENAN"
+                }
+            ],
+            [
+                {
+                    "country": "SYR",
+                    "name": "Laila KENAN"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Laila KENAN"
+        ]
+    },
+    "FINALS": {
+        "round 1-1": [],
+        "final_winners": [
+            "Oumaima BEDIOUI"
+        ]
+    }
+}

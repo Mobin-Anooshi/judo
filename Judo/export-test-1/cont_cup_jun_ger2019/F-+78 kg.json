@@ -1,0 +1,307 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Luiza CRUZ"
+                },
+                {
+                    "winner": "Luiza CRUZ"
+                }
+            ],
+            [
+                {
+                    "country": "ITA",
+                    "name": "Valentina MIELE"
+                },
+                {
+                    "country": "FRA",
+                    "name": "Tahina DURAND"
+                },
+                {
+                    "winner": "Tahina DURAND"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Luiza CRUZ"
+                },
+                {
+                    "country": "FRA",
+                    "name": "Tahina DURAND"
+                }
+            ]
+        ],
+        "final_winner": "Tahina DURAND"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "TUR",
+                    "name": "Mine KALENDER"
+                },
+                {
+                    "winner": "Mine KALENDER"
+                }
+            ],
+            [
+                {
+                    "country": "NED",
+                    "name": "Marit KAMPS"
+                },
+                {
+                    "winner": "Marit KAMPS"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "TUR",
+                    "name": "Mine KALENDER"
+                },
+                {
+                    "country": "NED",
+                    "name": "Marit KAMPS"
+                }
+            ]
+        ],
+        "final_winner": "Marit KAMPS"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "GER",
+                    "name": "Samira BOUIZGARNE"
+                },
+                {
+                    "winner": "Samira BOUIZGARNE"
+                }
+            ],
+            [
+                {
+                    "country": "GER",
+                    "name": "Jule ERDORF"
+                },
+                {
+                    "country": "ITA",
+                    "name": "Annalisa CALAGRETI"
+                },
+                {
+                    "winner": "Jule ERDORF"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "GER",
+                    "name": "Samira BOUIZGARNE"
+                },
+                {
+                    "country": "GER",
+                    "name": "Jule ERDORF"
+                }
+            ]
+        ],
+        "final_winner": "Samira BOUIZGARNE"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "TUR",
+                    "name": "Kubranur ESIR"
+                },
+                {
+                    "winner": "Kubranur ESIR"
+                }
+            ],
+            [
+                {
+                    "country": "LTU",
+                    "name": "Justina KMIELIAUSKAITE"
+                },
+                {
+                    "winner": "Justina KMIELIAUSKAITE"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "TUR",
+                    "name": "Kubranur ESIR"
+                },
+                {
+                    "country": "LTU",
+                    "name": "Justina KMIELIAUSKAITE"
+                }
+            ]
+        ],
+        "final_winner": "Kubranur ESIR"
+    },
+    "REPECHAGE": {
+        "round 1-4": [
+            [
+                {
+                    "country": "ITA",
+                    "name": "Valentina MIELE"
+                },
+                {
+                    "country": "BRA",
+                    "name": "Luiza CRUZ"
+                },
+                {
+                    "winner": "Luiza CRUZ"
+                }
+            ],
+            [
+                {
+                    "country": "TUR",
+                    "name": "Mine KALENDER"
+                },
+                {
+                    "winner": "Mine KALENDER"
+                }
+            ],
+            [
+                {
+                    "country": "GER",
+                    "name": "Jule ERDORF"
+                },
+                {
+                    "winner": "Jule ERDORF"
+                }
+            ],
+            [
+                {
+                    "country": "LTU",
+                    "name": "Justina KMIELIAUSKAITE"
+                },
+                {
+                    "winner": "Justina KMIELIAUSKAITE"
+                }
+            ]
+        ],
+        "round 1-2": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Luiza CRUZ"
+                },
+                {
+                    "country": "TUR",
+                    "name": "Mine KALENDER"
+                },
+                {
+                    "winner": "Luiza CRUZ"
+                }
+            ],
+            [
+                {
+                    "country": "GER",
+                    "name": "Jule ERDORF"
+                },
+                {
+                    "country": "LTU",
+                    "name": "Justina KMIELIAUSKAITE"
+                },
+                {
+                    "winner": "Justina KMIELIAUSKAITE"
+                }
+            ],
+            [
+                {
+                    "country": "BRA",
+                    "name": "Luiza CRUZ"
+                },
+                {
+                    "country": "TUR",
+                    "name": "Kubranur ESIR"
+                },
+                {
+                    "winner": "Kubranur ESIR"
+                }
+            ],
+            [
+                {
+                    "country": "LTU",
+                    "name": "Justina KMIELIAUSKAITE"
+                },
+                {
+                    "country": "NED",
+                    "name": "Marit KAMPS"
+                },
+                {
+                    "winner": "Justina KMIELIAUSKAITE"
+                }
+            ],
+            [
+                {
+                    "country": "TUR",
+                    "name": "Kubranur ESIR"
+                }
+            ],
+            [
+                {
+                    "country": "LTU",
+                    "name": "Justina KMIELIAUSKAITE"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Kubranur ESIR",
+            "Justina KMIELIAUSKAITE"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "FRA",
+                    "name": "Tahina DURAND"
+                },
+                {
+                    "country": "NED",
+                    "name": "Marit KAMPS"
+                },
+                {
+                    "winner": "Tahina DURAND"
+                }
+            ],
+            [
+                {
+                    "country": "GER",
+                    "name": "Samira BOUIZGARNE"
+                },
+                {
+                    "country": "TUR",
+                    "name": "Kubranur ESIR"
+                },
+                {
+                    "winner": "Samira BOUIZGARNE"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "FRA",
+                    "name": "Tahina DURAND"
+                },
+                {
+                    "country": "GER",
+                    "name": "Samira BOUIZGARNE"
+                }
+            ]
+        ],
+        "final_winner": "Tahina DURAND"
+    }
+}

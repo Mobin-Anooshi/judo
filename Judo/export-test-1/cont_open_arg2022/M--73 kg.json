@@ -1,0 +1,177 @@
+{
+    "POOL A": {
+        "round 1-1": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Daniel CARGNIN"
+                },
+                {
+                    "country": "CHI",
+                    "name": "Felipe PEREZ"
+                }
+            ]
+        ],
+        "final_winner": "Daniel CARGNIN"
+    },
+    "POOL B": {
+        "round 1-1": [
+            [
+                {
+                    "country": "ARG",
+                    "name": "Tomas SOSA"
+                },
+                {
+                    "country": "CHI",
+                    "name": "Tomas HERNANDEZ"
+                }
+            ]
+        ],
+        "final_winner": "Tomas SOSA"
+    },
+    "POOL C": {
+        "round 1-1": [
+            [
+                {
+                    "country": "CHI",
+                    "name": "Juan Pablo VEGA"
+                },
+                {
+                    "country": "CHI",
+                    "name": "Camilo GUERRERO"
+                }
+            ]
+        ],
+        "final_winner": "Juan Pablo VEGA"
+    },
+    "POOL D": {
+        "round 1-1": [
+            [
+                {
+                    "country": "ARG",
+                    "name": "Matteo ETCHECHURY"
+                },
+                {
+                    "country": "ARG",
+                    "name": "Ian KUKITA"
+                }
+            ]
+        ],
+        "final_winner": "Matteo ETCHECHURY"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CHI",
+                    "name": "Felipe PEREZ"
+                },
+                {
+                    "country": "CHI",
+                    "name": "Tomas HERNANDEZ"
+                },
+                {
+                    "winner": "Tomas HERNANDEZ"
+                }
+            ],
+            [
+                {
+                    "country": "CHI",
+                    "name": "Camilo GUERRERO"
+                },
+                {
+                    "country": "ARG",
+                    "name": "Ian KUKITA"
+                },
+                {
+                    "winner": "Ian KUKITA"
+                }
+            ],
+            [
+                {
+                    "country": "CHI",
+                    "name": "Tomas HERNANDEZ"
+                },
+                {
+                    "country": "CHI",
+                    "name": "Juan Pablo VEGA"
+                },
+                {
+                    "winner": "Juan Pablo VEGA"
+                }
+            ],
+            [
+                {
+                    "country": "ARG",
+                    "name": "Ian KUKITA"
+                },
+                {
+                    "country": "ARG",
+                    "name": "Tomas SOSA"
+                },
+                {
+                    "winner": "Tomas SOSA"
+                }
+            ],
+            [
+                {
+                    "country": "CHI",
+                    "name": "Juan Pablo VEGA"
+                }
+            ],
+            [
+                {
+                    "country": "ARG",
+                    "name": "Tomas SOSA"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Juan Pablo VEGA",
+            "Tomas SOSA"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Daniel CARGNIN"
+                },
+                {
+                    "country": "ARG",
+                    "name": "Tomas SOSA"
+                },
+                {
+                    "winner": "Daniel CARGNIN"
+                }
+            ],
+            [
+                {
+                    "country": "CHI",
+                    "name": "Juan Pablo VEGA"
+                },
+                {
+                    "country": "ARG",
+                    "name": "Matteo ETCHECHURY"
+                },
+                {
+                    "winner": "Matteo ETCHECHURY"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Daniel CARGNIN"
+                },
+                {
+                    "country": "ARG",
+                    "name": "Matteo ETCHECHURY"
+                }
+            ]
+        ],
+        "final_winner": "Daniel CARGNIN"
+    }
+}

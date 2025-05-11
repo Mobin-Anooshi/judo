@@ -1,0 +1,159 @@
+{
+    "POOL A": {
+        "round 1-1": [
+            [
+                {
+                    "country": "PAN",
+                    "name": "Joshua ORTEGA"
+                },
+                {
+                    "country": "DOM",
+                    "name": "Marcos MARTE"
+                }
+            ]
+        ],
+        "final_winner": "Marcos MARTE"
+    },
+    "POOL B": {
+        "round 1-1": [
+            [
+                {
+                    "country": "CRC",
+                    "name": "Julian SANCHO"
+                },
+                {
+                    "country": "COL",
+                    "name": "Arkangel BARBOZA"
+                }
+            ]
+        ],
+        "final_winner": "Arkangel BARBOZA"
+    },
+    "POOL C": {
+        "round 1-1": [],
+        "final_winner": "Alexis HARRISON AYARZA"
+    },
+    "POOL D": {
+        "round 1-1": [
+            [
+                {
+                    "country": "PUR",
+                    "name": "Jorge CAPO"
+                },
+                {
+                    "country": "COL",
+                    "name": "Juan CHAPARRO"
+                }
+            ]
+        ],
+        "final_winner": "Juan CHAPARRO"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "PAN",
+                    "name": "Joshua ORTEGA"
+                },
+                {
+                    "country": "CRC",
+                    "name": "Julian SANCHO"
+                },
+                {
+                    "winner": "Julian SANCHO"
+                }
+            ],
+            [
+                {
+                    "country": "PUR",
+                    "name": "Jorge CAPO"
+                }
+            ],
+            [
+                {
+                    "country": "CRC",
+                    "name": "Julian SANCHO"
+                },
+                {
+                    "country": "COL",
+                    "name": "Juan CHAPARRO"
+                },
+                {
+                    "winner": "Julian SANCHO"
+                }
+            ],
+            [
+                {
+                    "country": "PUR",
+                    "name": "Jorge CAPO"
+                },
+                {
+                    "country": "DOM",
+                    "name": "Marcos MARTE"
+                },
+                {
+                    "winner": "Marcos MARTE"
+                }
+            ],
+            [
+                {
+                    "country": "CRC",
+                    "name": "Julian SANCHO"
+                }
+            ],
+            [
+                {
+                    "country": "DOM",
+                    "name": "Marcos MARTE"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Julian SANCHO",
+            "Marcos MARTE"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "DOM",
+                    "name": "Marcos MARTE"
+                },
+                {
+                    "country": "COL",
+                    "name": "Arkangel BARBOZA"
+                },
+                {
+                    "winner": "Arkangel BARBOZA"
+                }
+            ],
+            [
+                {
+                    "country": "PAN",
+                    "name": "Alexis HARRISON AYARZA"
+                },
+                {
+                    "country": "COL",
+                    "name": "Juan CHAPARRO"
+                },
+                {
+                    "winner": "Alexis HARRISON AYARZA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "COL",
+                    "name": "Arkangel BARBOZA"
+                },
+                {
+                    "country": "PAN",
+                    "name": "Alexis HARRISON AYARZA"
+                }
+            ]
+        ],
+        "final_winner": "Arkangel BARBOZA"
+    }
+}

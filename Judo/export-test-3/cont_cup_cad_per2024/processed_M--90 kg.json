@@ -1,0 +1,68 @@
+{
+    "ROUND 1": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CHI",
+                    "name": "Jorge ROMERO"
+                },
+                {
+                    "country": "PER",
+                    "name": "Marco Antonio TIRADO"
+                },
+                {
+                    "winner": "Jorge ROMERO"
+                }
+            ],
+            [
+                {
+                    "country": "COL",
+                    "name": "Jhon CAICEDO SINISTERRA"
+                },
+                {
+                    "country": "CHI",
+                    "name": "Fuentes ERIC"
+                },
+                {
+                    "winner": "Jhon CAICEDO SINISTERRA"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Jorge ROMERO",
+            "Jhon CAICEDO SINISTERRA"
+        ]
+    },
+    "REPECHAGE": {
+        "round 1-1": [
+            [
+                {
+                    "country": "PER",
+                    "name": "Marco Antonio TIRADO"
+                },
+                {
+                    "country": "CHI",
+                    "name": "Fuentes ERIC"
+                },
+                {
+                    "winner": "Fuentes ERIC"
+                }
+            ],
+            [
+                {
+                    "country": "CHI",
+                    "name": "Fuentes ERIC"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Fuentes ERIC"
+        ]
+    },
+    "FINALS": {
+        "round 1-1": [],
+        "final_winners": [
+            "Jhon CAICEDO SINISTERRA"
+        ]
+    }
+}

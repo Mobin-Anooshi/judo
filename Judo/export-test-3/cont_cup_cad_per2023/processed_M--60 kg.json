@@ -1,0 +1,68 @@
+{
+    "ROUND 1": {
+        "round 1-2": [
+            [
+                {
+                    "country": "USA",
+                    "name": "David LEIVA"
+                },
+                {
+                    "country": "PER",
+                    "name": "Alonso BARDALES"
+                },
+                {
+                    "winner": "David LEIVA"
+                }
+            ],
+            [
+                {
+                    "country": "PER",
+                    "name": "Jonas GUANIPA"
+                },
+                {
+                    "country": "PER",
+                    "name": "Belengher SANDOVAL"
+                },
+                {
+                    "winner": "Jonas GUANIPA"
+                }
+            ]
+        ],
+        "final_winners": [
+            "David LEIVA",
+            "Jonas GUANIPA"
+        ]
+    },
+    "REPECHAGE": {
+        "round 1-1": [
+            [
+                {
+                    "country": "PER",
+                    "name": "Alonso BARDALES"
+                },
+                {
+                    "country": "PER",
+                    "name": "Belengher SANDOVAL"
+                },
+                {
+                    "winner": "Alonso BARDALES"
+                }
+            ],
+            [
+                {
+                    "country": "PER",
+                    "name": "Alonso BARDALES"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Alonso BARDALES"
+        ]
+    },
+    "FINALS": {
+        "round 1-1": [],
+        "final_winners": [
+            "David LEIVA"
+        ]
+    }
+}

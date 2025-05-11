@@ -1,0 +1,87 @@
+{
+    "POOL A": {
+        "round 1-3": [
+            [
+                {
+                    "country": "FRA",
+                    "name": "Lea METROT"
+                },
+                {
+                    "country": "USA",
+                    "name": "Jenna SCHURR"
+                },
+                {
+                    "winner": "Lea METROT"
+                }
+            ],
+            [
+                {
+                    "country": "FRA",
+                    "name": "Lea METROT"
+                },
+                {
+                    "country": "PYF",
+                    "name": "Poeiti GOLHEN"
+                },
+                {
+                    "winner": "Poeiti GOLHEN"
+                }
+            ],
+            [
+                {
+                    "country": "USA",
+                    "name": "Jenna SCHURR"
+                },
+                {
+                    "country": "PYF",
+                    "name": "Poeiti GOLHEN"
+                },
+                {
+                    "winner": "Jenna SCHURR"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Lea METROT",
+            "Jenna SCHURR"
+        ]
+    },
+    "POOL B": {
+        "round 1-1": [],
+        "final_winners": [
+            "Tinka EASTON"
+        ]
+    },
+    "REPECHAGE": {
+        "round 1-1": [
+            [
+                {
+                    "country": "USA",
+                    "name": "Jenna SCHURR"
+                },
+                {
+                    "country": "PYF",
+                    "name": "Ramahere DEFLANDRE"
+                },
+                {
+                    "winner": "Jenna SCHURR"
+                }
+            ],
+            [
+                {
+                    "country": "USA",
+                    "name": "Jenna SCHURR"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Jenna SCHURR"
+        ]
+    },
+    "FINALS": {
+        "round 1-1": [],
+        "final_winners": [
+            "Lea METROT"
+        ]
+    }
+}

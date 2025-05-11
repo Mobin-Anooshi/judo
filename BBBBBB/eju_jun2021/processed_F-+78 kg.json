@@ -1,0 +1,277 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "NED",
+                    "name": "Marit KAMPS"
+                },
+                {
+                    "winner": "Marit KAMPS"
+                }
+            ],
+            [
+                {
+                    "country": "POL",
+                    "name": "Kinga WOLSZCZAK"
+                },
+                {
+                    "country": "MDA",
+                    "name": "Oxana DIACENCO"
+                },
+                {
+                    "winner": "Kinga WOLSZCZAK"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "NED",
+                    "name": "Marit KAMPS"
+                },
+                {
+                    "country": "POL",
+                    "name": "Kinga WOLSZCZAK"
+                }
+            ]
+        ],
+        "final_winner": "Marit KAMPS"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "RUS",
+                    "name": "Alana ALBOROVA"
+                },
+                {
+                    "country": "FRA",
+                    "name": "Lea FONTAINE"
+                },
+                {
+                    "winner": "Lea FONTAINE"
+                }
+            ],
+            [
+                {
+                    "country": "ITA",
+                    "name": "Asya TAVANO"
+                },
+                {
+                    "country": "GEO",
+                    "name": "Salome MAKISHVILI"
+                },
+                {
+                    "winner": "Asya TAVANO"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "FRA",
+                    "name": "Lea FONTAINE"
+                },
+                {
+                    "country": "ITA",
+                    "name": "Asya TAVANO"
+                }
+            ]
+        ],
+        "final_winner": "Lea FONTAINE"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "FRA",
+                    "name": "Coralie HAYME"
+                },
+                {
+                    "winner": "Coralie HAYME"
+                }
+            ],
+            [
+                {
+                    "country": "LTU",
+                    "name": "Justina KMIELIAUSKAITE"
+                },
+                {
+                    "country": "RUS",
+                    "name": "Anastasiia KHOLODILINA"
+                },
+                {
+                    "winner": "Justina KMIELIAUSKAITE"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "FRA",
+                    "name": "Coralie HAYME"
+                },
+                {
+                    "country": "LTU",
+                    "name": "Justina KMIELIAUSKAITE"
+                }
+            ]
+        ],
+        "final_winner": "Coralie HAYME"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "NED",
+                    "name": "Carmen DIJKSTRA"
+                },
+                {
+                    "winner": "Carmen DIJKSTRA"
+                }
+            ],
+            [
+                {
+                    "country": "TUR",
+                    "name": "Hilal OZTURK"
+                },
+                {
+                    "country": "UKR",
+                    "name": "Ruslana BULAVINA"
+                },
+                {
+                    "winner": "Hilal OZTURK"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "NED",
+                    "name": "Carmen DIJKSTRA"
+                },
+                {
+                    "country": "TUR",
+                    "name": "Hilal OZTURK"
+                }
+            ]
+        ],
+        "final_winner": "Hilal OZTURK"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "POL",
+                    "name": "Kinga WOLSZCZAK"
+                },
+                {
+                    "country": "ITA",
+                    "name": "Asya TAVANO"
+                },
+                {
+                    "winner": "Kinga WOLSZCZAK"
+                }
+            ],
+            [
+                {
+                    "country": "LTU",
+                    "name": "Justina KMIELIAUSKAITE"
+                },
+                {
+                    "country": "NED",
+                    "name": "Carmen DIJKSTRA"
+                },
+                {
+                    "winner": "Justina KMIELIAUSKAITE"
+                }
+            ],
+            [
+                {
+                    "country": "POL",
+                    "name": "Kinga WOLSZCZAK"
+                },
+                {
+                    "country": "TUR",
+                    "name": "Hilal OZTURK"
+                },
+                {
+                    "winner": "Hilal OZTURK"
+                }
+            ],
+            [
+                {
+                    "country": "LTU",
+                    "name": "Justina KMIELIAUSKAITE"
+                },
+                {
+                    "country": "NED",
+                    "name": "Marit KAMPS"
+                },
+                {
+                    "winner": "Marit KAMPS"
+                }
+            ],
+            [
+                {
+                    "country": "TUR",
+                    "name": "Hilal OZTURK"
+                }
+            ],
+            [
+                {
+                    "country": "NED",
+                    "name": "Marit KAMPS"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Hilal OZTURK",
+            "Marit KAMPS"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "NED",
+                    "name": "Marit KAMPS"
+                },
+                {
+                    "country": "FRA",
+                    "name": "Lea FONTAINE"
+                },
+                {
+                    "winner": "Lea FONTAINE"
+                }
+            ],
+            [
+                {
+                    "country": "FRA",
+                    "name": "Coralie HAYME"
+                },
+                {
+                    "country": "TUR",
+                    "name": "Hilal OZTURK"
+                },
+                {
+                    "winner": "Coralie HAYME"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "FRA",
+                    "name": "Lea FONTAINE"
+                },
+                {
+                    "country": "FRA",
+                    "name": "Coralie HAYME"
+                }
+            ]
+        ],
+        "final_winner": "Lea FONTAINE"
+    }
+}

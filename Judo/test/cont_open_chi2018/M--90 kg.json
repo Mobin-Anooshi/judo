@@ -1,0 +1,252 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "LBN",
+                    "name": "Nacif ELIAS"
+                },
+                {
+                    "winner": "Nacif ELIAS"
+                }
+            ],
+            [
+                {
+                    "country": "CAN",
+                    "name": "Maxim COTE"
+                },
+                {
+                    "country": "CHI",
+                    "name": "Hernan CHAVARRIA"
+                },
+                {
+                    "winner": "Maxim COTE"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "LBN",
+                    "name": "Nacif ELIAS"
+                },
+                {
+                    "country": "CAN",
+                    "name": "Maxim COTE"
+                }
+            ],
+            [
+                {
+                    "country": "LBN",
+                    "name": "Nacif ELIAS"
+                }
+            ]
+        ]
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CHI",
+                    "name": "Rafael ROMO"
+                },
+                {
+                    "winner": "Rafael ROMO"
+                }
+            ],
+            [
+                {
+                    "country": "USA",
+                    "name": "Christopher MOULTON"
+                },
+                {
+                    "winner": "Christopher MOULTON"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "CHI",
+                    "name": "Rafael ROMO"
+                },
+                {
+                    "country": "USA",
+                    "name": "Christopher MOULTON"
+                }
+            ],
+            [
+                {
+                    "country": "CHI",
+                    "name": "Rafael ROMO"
+                }
+            ]
+        ]
+    },
+    "POOL C": {
+        "round 1-2": [
+            [],
+            [
+                {
+                    "country": "CHI",
+                    "name": "Diego GONZALEZ"
+                },
+                {
+                    "winner": "Diego GONZALEZ"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "CHI",
+                    "name": "Diego GONZALEZ"
+                }
+            ]
+        ]
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ARG",
+                    "name": "Tomas SPIKERMANN"
+                },
+                {
+                    "winner": "Tomas SPIKERMANN"
+                }
+            ],
+            [
+                {
+                    "country": "CHI",
+                    "name": "Gabriel FICA"
+                },
+                {
+                    "country": "URU",
+                    "name": "Leonardo LOMBARDO"
+                },
+                {
+                    "winner": "Leonardo LOMBARDO"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "ARG",
+                    "name": "Tomas SPIKERMANN"
+                },
+                {
+                    "country": "URU",
+                    "name": "Leonardo LOMBARDO"
+                }
+            ],
+            [
+                {
+                    "country": "ARG",
+                    "name": "Tomas SPIKERMANN"
+                }
+            ]
+        ]
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CAN",
+                    "name": "Maxim COTE"
+                },
+                {
+                    "country": "USA",
+                    "name": "Christopher MOULTON"
+                }
+            ],
+            [
+                {
+                    "country": "URU",
+                    "name": "Leonardo LOMBARDO"
+                }
+            ],
+            [
+                {
+                    "country": "CAN",
+                    "name": "Maxim COTE"
+                },
+                {
+                    "country": "CHI",
+                    "name": "Diego GONZALEZ"
+                }
+            ],
+            [
+                {
+                    "country": "URU",
+                    "name": "Leonardo LOMBARDO"
+                },
+                {
+                    "country": "CHI",
+                    "name": "Rafael ROMO"
+                }
+            ],
+            [
+                {
+                    "country": "CAN",
+                    "name": "Maxim COTE"
+                }
+            ],
+            [
+                {
+                    "country": "CHI",
+                    "name": "Rafael ROMO"
+                }
+            ]
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "LBN",
+                    "name": "Nacif ELIAS"
+                },
+                {
+                    "country": "CHI",
+                    "name": "Rafael ROMO"
+                },
+                {
+                    "winner": "Nacif ELIAS"
+                }
+            ],
+            [
+                {
+                    "country": "CHI",
+                    "name": "Diego GONZALEZ"
+                },
+                {
+                    "country": "ARG",
+                    "name": "Tomas SPIKERMANN"
+                },
+                {
+                    "winner": "Tomas SPIKERMANN"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "LBN",
+                    "name": "Nacif ELIAS"
+                },
+                {
+                    "country": "ARG",
+                    "name": "Tomas SPIKERMANN"
+                }
+            ],
+            [
+                {
+                    "country": "LBN",
+                    "name": "Nacif ELIAS"
+                }
+            ]
+        ]
+    }
+}

@@ -1,0 +1,159 @@
+{
+    "POOL A": {
+        "round 1-1": [],
+        "final_winner": "Saud MANAIE"
+    },
+    "POOL B": {
+        "round 1-1": [
+            [
+                {
+                    "country": "THA",
+                    "name": "Wasin BUAKHWAN"
+                },
+                {
+                    "country": "UAE",
+                    "name": "Hareb Juma MURAD ABDULRAHMAN"
+                }
+            ]
+        ],
+        "final_winner": "Hareb Juma MURAD ABDULRAHMAN"
+    },
+    "POOL C": {
+        "round 1-1": [
+            [
+                {
+                    "country": "THA",
+                    "name": "CHAYAPHON WONGRUANG"
+                },
+                {
+                    "country": "KOR",
+                    "name": "Beomjun CHO"
+                }
+            ]
+        ],
+        "final_winner": "Beomjun CHO"
+    },
+    "POOL D": {
+        "round 1-1": [
+            [
+                {
+                    "country": "PHI",
+                    "name": "Joshua QUIZON"
+                },
+                {
+                    "country": "MGL",
+                    "name": "Bazargarid JARGALBAATAR"
+                }
+            ]
+        ],
+        "final_winner": "Bazargarid JARGALBAATAR"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "THA",
+                    "name": "Wasin BUAKHWAN"
+                }
+            ],
+            [
+                {
+                    "country": "THA",
+                    "name": "CHAYAPHON WONGRUANG"
+                },
+                {
+                    "country": "PHI",
+                    "name": "Joshua QUIZON"
+                },
+                {
+                    "winner": "CHAYAPHON WONGRUANG"
+                }
+            ],
+            [
+                {
+                    "country": "THA",
+                    "name": "Wasin BUAKHWAN"
+                },
+                {
+                    "country": "MGL",
+                    "name": "Bazargarid JARGALBAATAR"
+                },
+                {
+                    "winner": "Bazargarid JARGALBAATAR"
+                }
+            ],
+            [
+                {
+                    "country": "THA",
+                    "name": "CHAYAPHON WONGRUANG"
+                },
+                {
+                    "country": "UAE",
+                    "name": "Hareb Juma MURAD ABDULRAHMAN"
+                },
+                {
+                    "winner": "Hareb Juma MURAD ABDULRAHMAN"
+                }
+            ],
+            [
+                {
+                    "country": "MGL",
+                    "name": "Bazargarid JARGALBAATAR"
+                }
+            ],
+            [
+                {
+                    "country": "UAE",
+                    "name": "Hareb Juma MURAD ABDULRAHMAN"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Bazargarid JARGALBAATAR",
+            "Hareb Juma MURAD ABDULRAHMAN"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "KSA",
+                    "name": "Saud MANAIE"
+                },
+                {
+                    "country": "UAE",
+                    "name": "Hareb Juma MURAD ABDULRAHMAN"
+                },
+                {
+                    "winner": "Saud MANAIE"
+                }
+            ],
+            [
+                {
+                    "country": "KOR",
+                    "name": "Beomjun CHO"
+                },
+                {
+                    "country": "MGL",
+                    "name": "Bazargarid JARGALBAATAR"
+                },
+                {
+                    "winner": "Beomjun CHO"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "KSA",
+                    "name": "Saud MANAIE"
+                },
+                {
+                    "country": "KOR",
+                    "name": "Beomjun CHO"
+                }
+            ]
+        ],
+        "final_winner": "Saud MANAIE"
+    }
+}

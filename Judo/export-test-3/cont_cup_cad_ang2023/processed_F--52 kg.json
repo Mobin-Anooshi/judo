@@ -1,0 +1,68 @@
+{
+    "ROUND 1": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ANG",
+                    "name": "Sonia LOURENCO"
+                },
+                {
+                    "country": "ANG",
+                    "name": "Ermelinda BRAZ"
+                },
+                {
+                    "winner": "Sonia LOURENCO"
+                }
+            ],
+            [
+                {
+                    "country": "ANG",
+                    "name": "Francisca MANUEL"
+                },
+                {
+                    "country": "ANG",
+                    "name": "Emilia ALBERTO"
+                },
+                {
+                    "winner": "Emilia ALBERTO"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Sonia LOURENCO",
+            "Emilia ALBERTO"
+        ]
+    },
+    "REPECHAGE": {
+        "round 1-1": [
+            [
+                {
+                    "country": "ANG",
+                    "name": "Ermelinda BRAZ"
+                },
+                {
+                    "country": "ANG",
+                    "name": "Francisca MANUEL"
+                },
+                {
+                    "winner": "Francisca MANUEL"
+                }
+            ],
+            [
+                {
+                    "country": "ANG",
+                    "name": "Francisca MANUEL"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Francisca MANUEL"
+        ]
+    },
+    "FINALS": {
+        "round 1-1": [],
+        "final_winners": [
+            "Sonia LOURENCO"
+        ]
+    }
+}

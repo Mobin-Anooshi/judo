@@ -1,0 +1,141 @@
+{
+    "POOL A": {
+        "round 1-1": [],
+        "final_winner": "Chloe SCHILLINGS"
+    },
+    "POOL B": {
+        "round 1-1": [
+            [
+                {
+                    "country": "FRO",
+                    "name": "Josefina Ingibjorg FJALLSBAK"
+                },
+                {
+                    "country": "CYP",
+                    "name": "Marina AZINOU"
+                }
+            ]
+        ],
+        "final_winner": "Marina AZINOU"
+    },
+    "POOL C": {
+        "round 1-1": [],
+        "final_winner": "Sofia VASILIOU"
+    },
+    "POOL D": {
+        "round 1-1": [
+            [
+                {
+                    "country": "ISL",
+                    "name": "Helena BJARNADOTTIR"
+                },
+                {
+                    "country": "FRO",
+                    "name": "Frida BORGARLID"
+                }
+            ]
+        ],
+        "final_winner": "Helena BJARNADOTTIR"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "FRO",
+                    "name": "Josefina Ingibjorg FJALLSBAK"
+                }
+            ],
+            [
+                {
+                    "country": "FRO",
+                    "name": "Frida BORGARLID"
+                }
+            ],
+            [
+                {
+                    "country": "FRO",
+                    "name": "Josefina Ingibjorg FJALLSBAK"
+                },
+                {
+                    "country": "CYP",
+                    "name": "Sofia VASILIOU"
+                },
+                {
+                    "winner": "Sofia VASILIOU"
+                }
+            ],
+            [
+                {
+                    "country": "FRO",
+                    "name": "Frida BORGARLID"
+                },
+                {
+                    "country": "LUX",
+                    "name": "Chloe SCHILLINGS"
+                },
+                {
+                    "winner": "Chloe SCHILLINGS"
+                }
+            ],
+            [
+                {
+                    "country": "CYP",
+                    "name": "Sofia VASILIOU"
+                }
+            ],
+            [
+                {
+                    "country": "LUX",
+                    "name": "Chloe SCHILLINGS"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Sofia VASILIOU",
+            "Chloe SCHILLINGS"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "LUX",
+                    "name": "Chloe SCHILLINGS"
+                },
+                {
+                    "country": "CYP",
+                    "name": "Marina AZINOU"
+                },
+                {
+                    "winner": "Marina AZINOU"
+                }
+            ],
+            [
+                {
+                    "country": "CYP",
+                    "name": "Sofia VASILIOU"
+                },
+                {
+                    "country": "ISL",
+                    "name": "Helena BJARNADOTTIR"
+                },
+                {
+                    "winner": "Helena BJARNADOTTIR"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "CYP",
+                    "name": "Marina AZINOU"
+                },
+                {
+                    "country": "ISL",
+                    "name": "Helena BJARNADOTTIR"
+                }
+            ]
+        ],
+        "final_winner": "Marina AZINOU"
+    }
+}

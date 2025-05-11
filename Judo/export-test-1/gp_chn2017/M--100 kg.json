@@ -1,0 +1,281 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "SWE",
+                    "name": "Martin PACEK"
+                },
+                {
+                    "winner": "Martin PACEK"
+                }
+            ],
+            [
+                {
+                    "country": "ITA",
+                    "name": "Giuliano LOPORCHIO"
+                },
+                {
+                    "winner": "Giuliano LOPORCHIO"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "SWE",
+                    "name": "Martin PACEK"
+                },
+                {
+                    "country": "ITA",
+                    "name": "Giuliano LOPORCHIO"
+                }
+            ]
+        ],
+        "final_winner": "Martin PACEK"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "JPN",
+                    "name": "Ryunosuke HAGA"
+                },
+                {
+                    "country": "CHN",
+                    "name": "Geruhen HU"
+                },
+                {
+                    "winner": "Ryunosuke HAGA"
+                }
+            ],
+            [
+                {
+                    "country": "CRO",
+                    "name": "Zlatko KUMRIC"
+                },
+                {
+                    "country": "HUN",
+                    "name": "Gergo FOGASY"
+                },
+                {
+                    "winner": "Zlatko KUMRIC"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "JPN",
+                    "name": "Ryunosuke HAGA"
+                },
+                {
+                    "country": "CRO",
+                    "name": "Zlatko KUMRIC"
+                }
+            ]
+        ],
+        "final_winner": "Ryunosuke HAGA"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "RUS",
+                    "name": "Kazbek ZANKISHIEV"
+                },
+                {
+                    "country": "CHN",
+                    "name": "Xiangsheng REN"
+                },
+                {
+                    "winner": "Kazbek ZANKISHIEV"
+                }
+            ],
+            [
+                {
+                    "country": "MGL",
+                    "name": "Janchivdorj BUNDDORJ"
+                },
+                {
+                    "country": "KOR",
+                    "name": "Jonghoon WON"
+                },
+                {
+                    "winner": "Jonghoon WON"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "RUS",
+                    "name": "Kazbek ZANKISHIEV"
+                },
+                {
+                    "country": "KOR",
+                    "name": "Jonghoon WON"
+                }
+            ]
+        ],
+        "final_winner": "Kazbek ZANKISHIEV"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "RUS",
+                    "name": "Kirill DENISOV"
+                },
+                {
+                    "country": "HUN",
+                    "name": "Zalan OHAT"
+                },
+                {
+                    "winner": "Kirill DENISOV"
+                }
+            ],
+            [
+                {
+                    "country": "SWE",
+                    "name": "Joakim DVARBY"
+                },
+                {
+                    "country": "CHN",
+                    "name": "Risu NA"
+                },
+                {
+                    "winner": "Joakim DVARBY"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "RUS",
+                    "name": "Kirill DENISOV"
+                },
+                {
+                    "country": "SWE",
+                    "name": "Joakim DVARBY"
+                }
+            ]
+        ],
+        "final_winner": "Kirill DENISOV"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ITA",
+                    "name": "Giuliano LOPORCHIO"
+                },
+                {
+                    "country": "CRO",
+                    "name": "Zlatko KUMRIC"
+                },
+                {
+                    "winner": "Zlatko KUMRIC"
+                }
+            ],
+            [
+                {
+                    "country": "KOR",
+                    "name": "Jonghoon WON"
+                },
+                {
+                    "country": "SWE",
+                    "name": "Joakim DVARBY"
+                },
+                {
+                    "winner": "Joakim DVARBY"
+                }
+            ],
+            [
+                {
+                    "country": "CRO",
+                    "name": "Zlatko KUMRIC"
+                },
+                {
+                    "country": "RUS",
+                    "name": "Kazbek ZANKISHIEV"
+                },
+                {
+                    "winner": "Kazbek ZANKISHIEV"
+                }
+            ],
+            [
+                {
+                    "country": "SWE",
+                    "name": "Joakim DVARBY"
+                },
+                {
+                    "country": "SWE",
+                    "name": "Martin PACEK"
+                },
+                {
+                    "winner": "Joakim DVARBY"
+                }
+            ],
+            [
+                {
+                    "country": "RUS",
+                    "name": "Kazbek ZANKISHIEV"
+                }
+            ],
+            [
+                {
+                    "country": "SWE",
+                    "name": "Joakim DVARBY"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Kazbek ZANKISHIEV",
+            "Joakim DVARBY"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "SWE",
+                    "name": "Martin PACEK"
+                },
+                {
+                    "country": "JPN",
+                    "name": "Ryunosuke HAGA"
+                },
+                {
+                    "winner": "Ryunosuke HAGA"
+                }
+            ],
+            [
+                {
+                    "country": "RUS",
+                    "name": "Kazbek ZANKISHIEV"
+                },
+                {
+                    "country": "RUS",
+                    "name": "Kirill DENISOV"
+                },
+                {
+                    "winner": "Kirill DENISOV"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "JPN",
+                    "name": "Ryunosuke HAGA"
+                },
+                {
+                    "country": "RUS",
+                    "name": "Kirill DENISOV"
+                }
+            ]
+        ],
+        "final_winner": "Ryunosuke HAGA"
+    }
+}

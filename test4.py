@@ -8,10 +8,19 @@ from selenium.webdriver.chrome.service import Service
 from webdriver_manager.chrome import ChromeDriverManager
 import os
 import copy
+from selenium.webdriver.chrome.options import Options
+from selenium.webdriver.support.ui import WebDriverWait
+from selenium.webdriver.support import expected_conditions as EC
 
 
 
 
+
+# chrome_options = Options()
+# chrome_options.add_argument("--headless")  #  headless
+# chrome_options.add_argument("--disable-gpu")  # GPU
+# chrome_options.add_argument("--window-size=1920,1080")
+# driver = webdriver.Chrome(options=chrome_options)
 
 driver = webdriver.Chrome()
 
@@ -40,27 +49,28 @@ def load_cookies():
         # log_message("Set cookies")
     except FileNotFoundError:
         # log_message("Cookies Not found")
-        pass
-    
-try:
-    
-    driver.get("https://judotv.com/")
+        print('Cookie Not Found')
 
+try:
+
+    driver.get("https://judotv.com/")
+    
     load_cookies()
-    
+
     driver.refresh()
-    
+    input('****')
     try :
-        login_button = driver.find_element(By.XPATH, "/html/body/div[1]/div/div[2]/div/header/div[2]/div[1]/div[2]/button")
+        login_button = driver.find_element(By.XPATH, '//*[@id="judo-tv"]/div/div[2]/div/header/div[2]/div[1]/div[2]/button')
         login_button.click()
-        sleep(2)
+        sleep(5)
+        input('---')
         username = driver.find_element(By.NAME, "Username")
         password = driver.find_element(By.NAME, "Password")
         username.send_keys("yivic44760@cotigz.com")  # username
         password.send_keys("mobin2003")  # password
         password.send_keys(Keys.RETURN)
-        
-        sleep(5)        
+
+        sleep(5)
         driver.switch_to.default_content()
         # log_message("Login")
         sleep(10)
@@ -70,7 +80,17 @@ try:
 except :
     print('cant Login')
     
-    
+input('ok ?')
+try:
+    # ﻢﻨﺘﻇﺭ ﻢﯿﻣﻮﻨﯿﻣ ﺕﺍ ﺪﮑﻤﻫ ﺎﮕﻫ ﺏﺎﺸﻫ ﻝﻭﺩ ﺐﺸﻫ
+    allow_button = WebDriverWait(driver, 5).until(
+        EC.presence_of_element_located((By.ID, "CybotCookiebotDialogBodyLevelButtonLevelOptinAllowAll"))
+    )
+    allow_button.click()
+    print("ﺪﮑﻤﻫ ﭗﯾﺩﺍ ﺵﺩ ﻭ ﮏﻠﯿﮐ ﺵﺩ.")
+except:
+    print("ﺪﮑﻤﻫ ﻦﺑﻭﺩ، ﺍﺩﺎﻤﻫ ﻢﯾﺪﯿﻣ.")
+
 #final
 fin = {}
 
@@ -190,78 +210,88 @@ def restructure_data(data):
 
 
 
-with open('judotv_competitions_2015-2025.json', 'r', encoding='utf-8') as json_file:
+with open('filtered_competitions_2014_2019.json', 'r', encoding='utf-8') as json_file:
     data = json.load(json_file)
 
-
+count = len(data)
 external_ids = [item['externalId'] for item in data if item['externalId'] is not None]
 for url_sit in external_ids :
     driver.get(f'https://judotv.com/competitions/{url_sit}/draw')
+    current_url = driver.current_url
+    count -=1
+    print(count)
+    print(current_url) 
     if "Apologies for the error on our website" in driver.page_source:
-        print('EROORRR')
-        
-    else :         
-        arash1 = driver.find_element(By.XPATH, '/html/body/div[1]/div/div[2]/div/main/div[3]/div[2]/div[1]/div/div')
-        arash2 = arash1.find_elements('xpath','./nav')
-        for amir0 in range(len(arash2)):
-            mobin1 = driver.find_element(By.XPATH ,f'/html/body/div[1]/div/div[2]/div/main/div[3]/div[2]/div[1]/div/div/nav[{amir0+1}]/div')
-            mobin2 = mobin1.find_elements('xpath','./div')
-            if len(arash2) == 2:
-                mehdi=2
-            else:
-                mehdi=1
-            if amir0 +1 == 2:
-                Woman = True
-            else : 
-                Woman = False
-            for amir1 in range(mehdi,len(mobin2)+1):
-                amir2 = driver.find_element(By.XPATH,f'/html/body/div[1]/div/div[2]/div/main/div[3]/div[2]/div[1]/div/div/nav[{amir0+1}]/div/div[{amir1}]')
-                amir2.click()
-                # print(amir2.text)
-                stages = driver.find_element(By.XPATH, '/html/body/div[1]/div/div[2]/div/main/div[3]/div[2]/div[2]')
-                child_divs_stages = stages.find_elements("xpath", "./div")
-                
-                
-                for stage in range(1, len(child_divs_stages)):
-                    z = driver.find_element(By.XPATH, f'/html/body/div[1]/div/div[2]/div/main/div[3]/div[2]/div[2]/div[{stage}]/div/div/div/div/div[1]/h3/div[1]')
-                    # print(z.text)
+        print(f'EROORRR  ---> {current_url}')   
+        with open('Apologies-error.txt', 'a', encoding='utf-8') as log_file:
+                log_file.write(f"{current_url}\n") 
+    else :
+        try :            
+            arash1 = driver.find_element(By.XPATH, '/html/body/div[1]/div/div[2]/div/main/div[3]/div[2]/div[1]/div/div')
+            arash2 = arash1.find_elements('xpath','./nav')
+            for amir0 in range(len(arash2)):
+                mobin1 = driver.find_element(By.XPATH ,f'/html/body/div[1]/div/div[2]/div/main/div[3]/div[2]/div[1]/div/div/nav[{amir0+1}]/div')
+                mobin2 = mobin1.find_elements('xpath','./div')
+                if len(arash2) == 2:
+                    mehdi=2
+                else:
+                    mehdi=1
+                if amir0 +1 == 2:
+                    Woman = True
+                else : 
+                    Woman = False
+                for amir1 in range(mehdi,len(mobin2)+1):
+                    amir2 = driver.find_element(By.XPATH,f'/html/body/div[1]/div/div[2]/div/main/div[3]/div[2]/div[1]/div/div/nav[{amir0+1}]/div/div[{amir1}]')
+                    amir2.click()
+                    # print(amir2.text)
+                    stages = driver.find_element(By.XPATH, '/html/body/div[1]/div/div[2]/div/main/div[3]/div[2]/div[2]')
+                    child_divs_stages = stages.find_elements("xpath", "./div")
                     
-                
-                    if z.text.replace('\n', ' ') not in fin:
-                        fin[z.text.replace('\n', ' ')] = {}
                     
-                    a = driver.find_element(By.XPATH, f'/html/body/div[1]/div/div[2]/div/main/div[3]/div[2]/div[2]/div[{stage}]/div/div/div/div/div[2]')
-                    b = a.find_elements('xpath', './div')
-                    
-                    # پردازش هر راند (round)
-                    for step in b:
-                        steps = step.find_elements('xpath', './div')
-                        rr = len(steps)
-                        # print(f'round 1-{rr}')
-                        rounddd = f'round 1-{rr}'
+                    for stage in range(1, len(child_divs_stages)):
+                        z = driver.find_element(By.XPATH, f'/html/body/div[1]/div/div[2]/div/main/div[3]/div[2]/div[2]/div[{stage}]/div/div/div/div/div[1]/h3/div[1]')
+                        # print(z.text)
                         
-                
-                        if rounddd not in fin[z.text.replace('\n', ' ')]:
-                            fin[z.text.replace('\n', ' ')][rounddd] = []
-                        
-                
-                        for match in steps:
-                            aa = []
-                            aa.append(match.text)
-                            process_data(aa, z, rounddd)
                     
-                    # print('----')
-                folder_path = f"/home/mobin/Desktop/mr.abdollahi/tests/{url_sit}"
-                os.makedirs(folder_path, exist_ok=True) 
-                
-                qq = restructure_data(fin)
-                if Woman :
-                    no = 'F'
-                else :
-                    no = 'M'
-                file_path = os.path.join(folder_path, f"{no}-{amir2.text}.json")  # مسیر درست فایل
-                
-                with open(file_path, 'w') as json_file:
-                    json.dump(qq, json_file, indent=4)
-                    fin = {}
+                        if z.text.replace('\n', ' ') not in fin:
+                            fin[z.text.replace('\n', ' ')] = {}
+                        
+                        a = driver.find_element(By.XPATH, f'/html/body/div[1]/div/div[2]/div/main/div[3]/div[2]/div[2]/div[{stage}]/div/div/div/div/div[2]')
+                        b = a.find_elements('xpath', './div')
+                        
+                        # پردازش هر راند (round)
+                        for step in b:
+                            steps = step.find_elements('xpath', './div')
+                            rr = len(steps)
+                            # print(f'round 1-{rr}')
+                            rounddd = f'round 1-{rr}'
+                            
+                    
+                            if rounddd not in fin[z.text.replace('\n', ' ')]:
+                                fin[z.text.replace('\n', ' ')][rounddd] = []
+                            
+                    
+                            for match in steps:
+                                aa = []
+                                aa.append(match.text)
+                                process_data(aa, z, rounddd)
+                        
+                        # print('----')
+                    folder_path = f"/home/mobin/Desktop/mr.abdollahi/test14-19/{url_sit}"
+                    os.makedirs(folder_path, exist_ok=True) 
+                    
+                    qq = restructure_data(fin)
+                    if Woman :
+                        no = 'F'
+                    else :
+                        no = 'M'
+                    file_path = os.path.join(folder_path, f"{no}-{amir2.text}.json")  # مسیر درست فایل
+                    
+                    with open(file_path, 'w') as json_file:
+                        json.dump(qq, json_file, indent=4)
+                        fin = {}
 
+        except:
+            print(f'cant use this {current_url}')
+            with open('World-log.txt', 'a', encoding='utf-8') as log_file:
+                log_file.write(f"{current_url}\n")

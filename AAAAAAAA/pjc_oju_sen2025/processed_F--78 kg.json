@@ -1,0 +1,261 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "COL",
+                    "name": "Brenda OLAYA"
+                },
+                {
+                    "winner": "Brenda OLAYA"
+                }
+            ],
+            [
+                {
+                    "country": "AUS",
+                    "name": "Alannah JOYCE"
+                },
+                {
+                    "country": "VEN",
+                    "name": "Zunilda CHAVEZ"
+                },
+                {
+                    "winner": "Zunilda CHAVEZ"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "COL",
+                    "name": "Brenda OLAYA"
+                },
+                {
+                    "country": "VEN",
+                    "name": "Zunilda CHAVEZ"
+                }
+            ]
+        ],
+        "final_winner": "Brenda OLAYA"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "AUS",
+                    "name": "Maria SWAN"
+                },
+                {
+                    "winner": "Maria SWAN"
+                }
+            ],
+            [
+                {
+                    "country": "CUB",
+                    "name": "Lianet CARDONA"
+                },
+                {
+                    "winner": "Lianet CARDONA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "AUS",
+                    "name": "Maria SWAN"
+                },
+                {
+                    "country": "CUB",
+                    "name": "Lianet CARDONA"
+                }
+            ]
+        ],
+        "final_winner": "Maria SWAN"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "PER",
+                    "name": "Camila FIGUEROA"
+                },
+                {
+                    "winner": "Camila FIGUEROA"
+                }
+            ],
+            [
+                {
+                    "country": "USA",
+                    "name": "Nicole STOUT"
+                },
+                {
+                    "winner": "Nicole STOUT"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "PER",
+                    "name": "Camila FIGUEROA"
+                },
+                {
+                    "country": "USA",
+                    "name": "Nicole STOUT"
+                }
+            ]
+        ],
+        "final_winner": "Camila FIGUEROA"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CAN",
+                    "name": "Coralie GODBOUT"
+                },
+                {
+                    "winner": "Coralie GODBOUT"
+                }
+            ],
+            [
+                {
+                    "country": "BRA",
+                    "name": "Beatriz FREITAS"
+                },
+                {
+                    "winner": "Beatriz FREITAS"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "CAN",
+                    "name": "Coralie GODBOUT"
+                },
+                {
+                    "country": "BRA",
+                    "name": "Beatriz FREITAS"
+                }
+            ]
+        ],
+        "final_winner": "Coralie GODBOUT"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "VEN",
+                    "name": "Zunilda CHAVEZ"
+                },
+                {
+                    "country": "CUB",
+                    "name": "Lianet CARDONA"
+                },
+                {
+                    "winner": "Lianet CARDONA"
+                }
+            ],
+            [
+                {
+                    "country": "USA",
+                    "name": "Nicole STOUT"
+                },
+                {
+                    "country": "BRA",
+                    "name": "Beatriz FREITAS"
+                },
+                {
+                    "winner": "Beatriz FREITAS"
+                }
+            ],
+            [
+                {
+                    "country": "CUB",
+                    "name": "Lianet CARDONA"
+                },
+                {
+                    "country": "PER",
+                    "name": "Camila FIGUEROA"
+                },
+                {
+                    "winner": "Lianet CARDONA"
+                }
+            ],
+            [
+                {
+                    "country": "BRA",
+                    "name": "Beatriz FREITAS"
+                },
+                {
+                    "country": "AUS",
+                    "name": "Maria SWAN"
+                },
+                {
+                    "winner": "Maria SWAN"
+                }
+            ],
+            [
+                {
+                    "country": "CUB",
+                    "name": "Lianet CARDONA"
+                }
+            ],
+            [
+                {
+                    "country": "AUS",
+                    "name": "Maria SWAN"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Lianet CARDONA",
+            "Maria SWAN"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "COL",
+                    "name": "Brenda OLAYA"
+                },
+                {
+                    "country": "AUS",
+                    "name": "Maria SWAN"
+                },
+                {
+                    "winner": "Brenda OLAYA"
+                }
+            ],
+            [
+                {
+                    "country": "PER",
+                    "name": "Camila FIGUEROA"
+                },
+                {
+                    "country": "CAN",
+                    "name": "Coralie GODBOUT"
+                },
+                {
+                    "winner": "Coralie GODBOUT"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "COL",
+                    "name": "Brenda OLAYA"
+                },
+                {
+                    "country": "CAN",
+                    "name": "Coralie GODBOUT"
+                }
+            ]
+        ],
+        "final_winner": "Brenda OLAYA"
+    }
+}

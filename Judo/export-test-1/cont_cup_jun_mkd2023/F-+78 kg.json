@@ -1,0 +1,141 @@
+{
+    "POOL A": {
+        "round 1-1": [],
+        "final_winner": "Anastasija BOGDANOVIC"
+    },
+    "POOL B": {
+        "round 1-1": [
+            [
+                {
+                    "country": "BUL",
+                    "name": "Polina KOLEVA"
+                },
+                {
+                    "country": "BIH",
+                    "name": "Lana BJELICA"
+                }
+            ]
+        ],
+        "final_winner": "Lana BJELICA"
+    },
+    "POOL C": {
+        "round 1-1": [],
+        "final_winner": "Jovana MRVALJEVIC"
+    },
+    "POOL D": {
+        "round 1-1": [
+            [
+                {
+                    "country": "CRO",
+                    "name": "Marcelina VRANJES"
+                },
+                {
+                    "country": "MKD",
+                    "name": "Katerina ACEVSKA"
+                }
+            ]
+        ],
+        "final_winner": "Marcelina VRANJES"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "BUL",
+                    "name": "Polina KOLEVA"
+                }
+            ],
+            [
+                {
+                    "country": "MKD",
+                    "name": "Katerina ACEVSKA"
+                }
+            ],
+            [
+                {
+                    "country": "BUL",
+                    "name": "Polina KOLEVA"
+                },
+                {
+                    "country": "MNE",
+                    "name": "Jovana MRVALJEVIC"
+                },
+                {
+                    "winner": "Jovana MRVALJEVIC"
+                }
+            ],
+            [
+                {
+                    "country": "MKD",
+                    "name": "Katerina ACEVSKA"
+                },
+                {
+                    "country": "BIH",
+                    "name": "Lana BJELICA"
+                },
+                {
+                    "winner": "Lana BJELICA"
+                }
+            ],
+            [
+                {
+                    "country": "MNE",
+                    "name": "Jovana MRVALJEVIC"
+                }
+            ],
+            [
+                {
+                    "country": "BIH",
+                    "name": "Lana BJELICA"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Jovana MRVALJEVIC",
+            "Lana BJELICA"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "SRB",
+                    "name": "Anastasija BOGDANOVIC"
+                },
+                {
+                    "country": "BIH",
+                    "name": "Lana BJELICA"
+                },
+                {
+                    "winner": "Anastasija BOGDANOVIC"
+                }
+            ],
+            [
+                {
+                    "country": "MNE",
+                    "name": "Jovana MRVALJEVIC"
+                },
+                {
+                    "country": "CRO",
+                    "name": "Marcelina VRANJES"
+                },
+                {
+                    "winner": "Marcelina VRANJES"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "SRB",
+                    "name": "Anastasija BOGDANOVIC"
+                },
+                {
+                    "country": "CRO",
+                    "name": "Marcelina VRANJES"
+                }
+            ]
+        ],
+        "final_winner": "Marcelina VRANJES"
+    }
+}

@@ -1,0 +1,153 @@
+{
+    "POOL A": {
+        "round 1-1": [],
+        "final_winner": "Nihel LANDOLSI"
+    },
+    "POOL B": {
+        "round 1-1": [
+            [
+                {
+                    "country": "MAR",
+                    "name": "Sofia BELATTAR"
+                },
+                {
+                    "country": "ALG",
+                    "name": "Dyhia BENCHALLAL"
+                }
+            ]
+        ],
+        "final_winner": "Sofia BELATTAR"
+    },
+    "POOL C": {
+        "round 1-1": [
+            [
+                {
+                    "country": "USA",
+                    "name": "Nicole STOUT"
+                },
+                {
+                    "country": "TUN",
+                    "name": "Fatma HADDADI"
+                }
+            ]
+        ],
+        "final_winner": "Fatma HADDADI"
+    },
+    "POOL D": {
+        "round 1-1": [
+            [
+                {
+                    "country": "SEN",
+                    "name": "Khadija SONKO"
+                },
+                {
+                    "country": "ALG",
+                    "name": "Douniazed BOUGHANBOUZ"
+                }
+            ]
+        ],
+        "final_winner": "Khadija SONKO"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ALG",
+                    "name": "Dyhia BENCHALLAL"
+                }
+            ],
+            [
+                {
+                    "country": "USA",
+                    "name": "Nicole STOUT"
+                },
+                {
+                    "country": "ALG",
+                    "name": "Douniazed BOUGHANBOUZ"
+                },
+                {
+                    "winner": "Nicole STOUT"
+                }
+            ],
+            [
+                {
+                    "country": "ALG",
+                    "name": "Dyhia BENCHALLAL"
+                },
+                {
+                    "country": "TUN",
+                    "name": "Fatma HADDADI"
+                },
+                {
+                    "winner": "Dyhia BENCHALLAL"
+                }
+            ],
+            [
+                {
+                    "country": "USA",
+                    "name": "Nicole STOUT"
+                },
+                {
+                    "country": "MAR",
+                    "name": "Sofia BELATTAR"
+                },
+                {
+                    "winner": "Nicole STOUT"
+                }
+            ],
+            [
+                {
+                    "country": "USA",
+                    "name": "Nicole STOUT"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Nicole STOUT",
+            "Dyhia BENCHALLAL"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "TUN",
+                    "name": "Nihel LANDOLSI"
+                },
+                {
+                    "country": "MAR",
+                    "name": "Sofia BELATTAR"
+                },
+                {
+                    "winner": "Nihel LANDOLSI"
+                }
+            ],
+            [
+                {
+                    "country": "TUN",
+                    "name": "Fatma HADDADI"
+                },
+                {
+                    "country": "SEN",
+                    "name": "Khadija SONKO"
+                },
+                {
+                    "winner": "Khadija SONKO"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "TUN",
+                    "name": "Nihel LANDOLSI"
+                },
+                {
+                    "country": "SEN",
+                    "name": "Khadija SONKO"
+                }
+            ]
+        ],
+        "final_winner": "Nihel LANDOLSI"
+    }
+}

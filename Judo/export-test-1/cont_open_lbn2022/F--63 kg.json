@@ -1,0 +1,177 @@
+{
+    "POOL A": {
+        "round 1-1": [
+            [
+                {
+                    "country": "TUR",
+                    "name": "Eda KARADEMIR"
+                },
+                {
+                    "country": "LBN",
+                    "name": "marilys RADI"
+                }
+            ]
+        ],
+        "final_winner": "Eda KARADEMIR"
+    },
+    "POOL B": {
+        "round 1-1": [
+            [
+                {
+                    "country": "LBN",
+                    "name": "Serine SHEIKH"
+                },
+                {
+                    "country": "CYP",
+                    "name": "Diana DIMITRIOU"
+                }
+            ]
+        ],
+        "final_winner": "Diana DIMITRIOU"
+    },
+    "POOL C": {
+        "round 1-1": [
+            [
+                {
+                    "country": "SYR",
+                    "name": "Sama KENAN"
+                },
+                {
+                    "country": "TUR",
+                    "name": "Seydanur AYDIN"
+                }
+            ]
+        ],
+        "final_winner": "Seydanur AYDIN"
+    },
+    "POOL D": {
+        "round 1-1": [
+            [
+                {
+                    "country": "TUR",
+                    "name": "Ezgi KARADEMIR"
+                },
+                {
+                    "country": "LBN",
+                    "name": "Judy ABDEL RAHMAN"
+                }
+            ]
+        ],
+        "final_winner": "Ezgi KARADEMIR"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "LBN",
+                    "name": "marilys RADI"
+                },
+                {
+                    "country": "LBN",
+                    "name": "Serine SHEIKH"
+                },
+                {
+                    "winner": "marilys RADI"
+                }
+            ],
+            [
+                {
+                    "country": "SYR",
+                    "name": "Sama KENAN"
+                },
+                {
+                    "country": "LBN",
+                    "name": "Judy ABDEL RAHMAN"
+                },
+                {
+                    "winner": "Sama KENAN"
+                }
+            ],
+            [
+                {
+                    "country": "LBN",
+                    "name": "marilys RADI"
+                },
+                {
+                    "country": "TUR",
+                    "name": "Seydanur AYDIN"
+                },
+                {
+                    "winner": "Seydanur AYDIN"
+                }
+            ],
+            [
+                {
+                    "country": "SYR",
+                    "name": "Sama KENAN"
+                },
+                {
+                    "country": "CYP",
+                    "name": "Diana DIMITRIOU"
+                },
+                {
+                    "winner": "Diana DIMITRIOU"
+                }
+            ],
+            [
+                {
+                    "country": "TUR",
+                    "name": "Seydanur AYDIN"
+                }
+            ],
+            [
+                {
+                    "country": "CYP",
+                    "name": "Diana DIMITRIOU"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Seydanur AYDIN",
+            "Diana DIMITRIOU"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "TUR",
+                    "name": "Eda KARADEMIR"
+                },
+                {
+                    "country": "CYP",
+                    "name": "Diana DIMITRIOU"
+                },
+                {
+                    "winner": "Eda KARADEMIR"
+                }
+            ],
+            [
+                {
+                    "country": "TUR",
+                    "name": "Seydanur AYDIN"
+                },
+                {
+                    "country": "TUR",
+                    "name": "Ezgi KARADEMIR"
+                },
+                {
+                    "winner": "Ezgi KARADEMIR"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "TUR",
+                    "name": "Eda KARADEMIR"
+                },
+                {
+                    "country": "TUR",
+                    "name": "Ezgi KARADEMIR"
+                }
+            ]
+        ],
+        "final_winner": "Ezgi KARADEMIR"
+    }
+}

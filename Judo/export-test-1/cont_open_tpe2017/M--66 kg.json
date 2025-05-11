@@ -1,0 +1,281 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "AUS",
+                    "name": "Nathan KATZ"
+                },
+                {
+                    "winner": "Nathan KATZ"
+                }
+            ],
+            [
+                {
+                    "country": "TPE",
+                    "name": "Wei chieh CHEN"
+                },
+                {
+                    "country": "TPE",
+                    "name": "Chun-Ting YANG"
+                },
+                {
+                    "winner": "Chun-Ting YANG"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "AUS",
+                    "name": "Nathan KATZ"
+                },
+                {
+                    "country": "TPE",
+                    "name": "Chun-Ting YANG"
+                }
+            ]
+        ],
+        "final_winner": "Nathan KATZ"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "HKG",
+                    "name": "Yuk Ting LEE"
+                },
+                {
+                    "country": "TPE",
+                    "name": "Hao Cheng CHAN"
+                },
+                {
+                    "winner": "Hao Cheng CHAN"
+                }
+            ],
+            [
+                {
+                    "country": "PHI",
+                    "name": "Shugen NAKANO"
+                },
+                {
+                    "country": "MAS",
+                    "name": "Yew Ing SOH"
+                },
+                {
+                    "winner": "Shugen NAKANO"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "TPE",
+                    "name": "Hao Cheng CHAN"
+                },
+                {
+                    "country": "PHI",
+                    "name": "Shugen NAKANO"
+                }
+            ]
+        ],
+        "final_winner": "Shugen NAKANO"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "KSA",
+                    "name": "Sulaiman HAMAD"
+                },
+                {
+                    "winner": "Sulaiman HAMAD"
+                }
+            ],
+            [
+                {
+                    "country": "KSA",
+                    "name": "Abdulaziz ALBASHI"
+                },
+                {
+                    "country": "AUS",
+                    "name": "Kai PNG"
+                },
+                {
+                    "winner": "Abdulaziz ALBASHI"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "KSA",
+                    "name": "Sulaiman HAMAD"
+                },
+                {
+                    "country": "KSA",
+                    "name": "Abdulaziz ALBASHI"
+                }
+            ]
+        ],
+        "final_winner": "Sulaiman HAMAD"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "KSA",
+                    "name": "Eisa MAJRASHI"
+                },
+                {
+                    "country": "MAS",
+                    "name": "Chong WEI FU"
+                },
+                {
+                    "winner": "Eisa MAJRASHI"
+                }
+            ],
+            [
+                {
+                    "country": "TPE",
+                    "name": "Sheng-Ting HUANG"
+                },
+                {
+                    "country": "HKG",
+                    "name": "Yue Ting LEE"
+                },
+                {
+                    "winner": "Sheng-Ting HUANG"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "KSA",
+                    "name": "Eisa MAJRASHI"
+                },
+                {
+                    "country": "TPE",
+                    "name": "Sheng-Ting HUANG"
+                }
+            ]
+        ],
+        "final_winner": "Sheng-Ting HUANG"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "TPE",
+                    "name": "Chun-Ting YANG"
+                },
+                {
+                    "country": "TPE",
+                    "name": "Hao Cheng CHAN"
+                },
+                {
+                    "winner": "Hao Cheng CHAN"
+                }
+            ],
+            [
+                {
+                    "country": "KSA",
+                    "name": "Abdulaziz ALBASHI"
+                },
+                {
+                    "country": "KSA",
+                    "name": "Eisa MAJRASHI"
+                },
+                {
+                    "winner": "Abdulaziz ALBASHI"
+                }
+            ],
+            [
+                {
+                    "country": "TPE",
+                    "name": "Hao Cheng CHAN"
+                },
+                {
+                    "country": "KSA",
+                    "name": "Sulaiman HAMAD"
+                },
+                {
+                    "winner": "Hao Cheng CHAN"
+                }
+            ],
+            [
+                {
+                    "country": "KSA",
+                    "name": "Abdulaziz ALBASHI"
+                },
+                {
+                    "country": "PHI",
+                    "name": "Shugen NAKANO"
+                },
+                {
+                    "winner": "Abdulaziz ALBASHI"
+                }
+            ],
+            [
+                {
+                    "country": "TPE",
+                    "name": "Hao Cheng CHAN"
+                }
+            ],
+            [
+                {
+                    "country": "KSA",
+                    "name": "Abdulaziz ALBASHI"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Hao Cheng CHAN",
+            "Abdulaziz ALBASHI"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "AUS",
+                    "name": "Nathan KATZ"
+                },
+                {
+                    "country": "PHI",
+                    "name": "Shugen NAKANO"
+                },
+                {
+                    "winner": "Nathan KATZ"
+                }
+            ],
+            [
+                {
+                    "country": "KSA",
+                    "name": "Sulaiman HAMAD"
+                },
+                {
+                    "country": "TPE",
+                    "name": "Sheng-Ting HUANG"
+                },
+                {
+                    "winner": "Sheng-Ting HUANG"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "AUS",
+                    "name": "Nathan KATZ"
+                },
+                {
+                    "country": "TPE",
+                    "name": "Sheng-Ting HUANG"
+                }
+            ]
+        ],
+        "final_winner": "Sheng-Ting HUANG"
+    }
+}

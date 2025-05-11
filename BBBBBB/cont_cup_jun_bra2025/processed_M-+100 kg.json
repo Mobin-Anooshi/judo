@@ -1,0 +1,153 @@
+{
+    "POOL A": {
+        "round 1-1": [],
+        "final_winner": "Gabriel DOS SANTOS"
+    },
+    "POOL B": {
+        "round 1-1": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Vitor FAGUNDES"
+                },
+                {
+                    "country": "BRA",
+                    "name": "Leonardo DUQUE"
+                }
+            ]
+        ],
+        "final_winner": "Vitor FAGUNDES"
+    },
+    "POOL C": {
+        "round 1-1": [
+            [
+                {
+                    "country": "MEX",
+                    "name": "Hugo SANCHEZ"
+                },
+                {
+                    "country": "BRA",
+                    "name": "Gustavo REIS"
+                }
+            ]
+        ],
+        "final_winner": "Hugo SANCHEZ"
+    },
+    "POOL D": {
+        "round 1-1": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Andrey COELHO"
+                },
+                {
+                    "country": "BRA",
+                    "name": "Gustavo TABET"
+                }
+            ]
+        ],
+        "final_winner": "Andrey COELHO"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Leonardo DUQUE"
+                }
+            ],
+            [
+                {
+                    "country": "BRA",
+                    "name": "Gustavo REIS"
+                },
+                {
+                    "country": "BRA",
+                    "name": "Gustavo TABET"
+                },
+                {
+                    "winner": "Gustavo TABET"
+                }
+            ],
+            [
+                {
+                    "country": "BRA",
+                    "name": "Leonardo DUQUE"
+                },
+                {
+                    "country": "MEX",
+                    "name": "Hugo SANCHEZ"
+                },
+                {
+                    "winner": "Leonardo DUQUE"
+                }
+            ],
+            [
+                {
+                    "country": "BRA",
+                    "name": "Gustavo TABET"
+                },
+                {
+                    "country": "BRA",
+                    "name": "Gabriel DOS SANTOS"
+                },
+                {
+                    "winner": "Gabriel DOS SANTOS"
+                }
+            ],
+            [
+                {
+                    "country": "BRA",
+                    "name": "Gabriel DOS SANTOS"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Gustavo TABET",
+            "Leonardo DUQUE"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Gabriel DOS SANTOS"
+                },
+                {
+                    "country": "BRA",
+                    "name": "Vitor FAGUNDES"
+                },
+                {
+                    "winner": "Vitor FAGUNDES"
+                }
+            ],
+            [
+                {
+                    "country": "MEX",
+                    "name": "Hugo SANCHEZ"
+                },
+                {
+                    "country": "BRA",
+                    "name": "Andrey COELHO"
+                },
+                {
+                    "winner": "Andrey COELHO"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Vitor FAGUNDES"
+                },
+                {
+                    "country": "BRA",
+                    "name": "Andrey COELHO"
+                }
+            ]
+        ],
+        "final_winner": "Andrey COELHO"
+    }
+}

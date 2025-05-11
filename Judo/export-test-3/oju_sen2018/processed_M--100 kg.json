@@ -1,0 +1,87 @@
+{
+    "POOL A": {
+        "round 1-3": [
+            [
+                {
+                    "country": "FIJ",
+                    "name": "Tevita TAKAYAWA"
+                },
+                {
+                    "country": "NZL",
+                    "name": "Jason KOSTER"
+                },
+                {
+                    "winner": "Tevita TAKAYAWA"
+                }
+            ],
+            [
+                {
+                    "country": "FIJ",
+                    "name": "Tevita TAKAYAWA"
+                },
+                {
+                    "country": "KIR",
+                    "name": "Vakalahi IOSUA"
+                },
+                {
+                    "winner": "Vakalahi IOSUA"
+                }
+            ],
+            [
+                {
+                    "country": "NZL",
+                    "name": "Jason KOSTER"
+                },
+                {
+                    "country": "KIR",
+                    "name": "Vakalahi IOSUA"
+                },
+                {
+                    "winner": "Jason KOSTER"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Tevita TAKAYAWA",
+            "Jason KOSTER"
+        ]
+    },
+    "POOL B": {
+        "round 1-1": [],
+        "final_winners": [
+            "David PUT"
+        ]
+    },
+    "REPECHAGE": {
+        "round 1-1": [
+            [
+                {
+                    "country": "NZL",
+                    "name": "Jason KOSTER"
+                },
+                {
+                    "country": "AUS",
+                    "name": "Nicolas BERARD"
+                },
+                {
+                    "winner": "Jason KOSTER"
+                }
+            ],
+            [
+                {
+                    "country": "NZL",
+                    "name": "Jason KOSTER"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Jason KOSTER"
+        ]
+    },
+    "FINALS": {
+        "round 1-1": [],
+        "final_winners": [
+            "Tevita TAKAYAWA"
+        ]
+    }
+}

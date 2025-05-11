@@ -1,0 +1,177 @@
+{
+    "POOL A": {
+        "round 1-1": [
+            [
+                {
+                    "country": "TUN",
+                    "name": "Oumaima BEDIOUI"
+                },
+                {
+                    "country": "ALG",
+                    "name": "Hiba BENTALEB"
+                }
+            ]
+        ],
+        "final_winner": "Oumaima BEDIOUI"
+    },
+    "POOL B": {
+        "round 1-1": [
+            [
+                {
+                    "country": "GBR",
+                    "name": "Sidney TANCOCK"
+                },
+                {
+                    "country": "ALG",
+                    "name": "Ouahiba LARKECHE"
+                }
+            ]
+        ],
+        "final_winner": "Sidney TANCOCK"
+    },
+    "POOL C": {
+        "round 1-1": [
+            [
+                {
+                    "country": "MLT",
+                    "name": "Katryna ESPOSITO"
+                },
+                {
+                    "country": "GBR",
+                    "name": "Ashleigh BARNIKEL"
+                }
+            ]
+        ],
+        "final_winner": "Katryna ESPOSITO"
+    },
+    "POOL D": {
+        "round 1-1": [
+            [
+                {
+                    "country": "ALG",
+                    "name": "Houaria KADDOUR"
+                },
+                {
+                    "country": "ALG",
+                    "name": "Rahma GHALIMA"
+                }
+            ]
+        ],
+        "final_winner": "Houaria KADDOUR"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ALG",
+                    "name": "Hiba BENTALEB"
+                },
+                {
+                    "country": "ALG",
+                    "name": "Ouahiba LARKECHE"
+                },
+                {
+                    "winner": "Ouahiba LARKECHE"
+                }
+            ],
+            [
+                {
+                    "country": "GBR",
+                    "name": "Ashleigh BARNIKEL"
+                },
+                {
+                    "country": "ALG",
+                    "name": "Rahma GHALIMA"
+                },
+                {
+                    "winner": "Ashleigh BARNIKEL"
+                }
+            ],
+            [
+                {
+                    "country": "ALG",
+                    "name": "Ouahiba LARKECHE"
+                },
+                {
+                    "country": "ALG",
+                    "name": "Houaria KADDOUR"
+                },
+                {
+                    "winner": "Houaria KADDOUR"
+                }
+            ],
+            [
+                {
+                    "country": "GBR",
+                    "name": "Ashleigh BARNIKEL"
+                },
+                {
+                    "country": "GBR",
+                    "name": "Sidney TANCOCK"
+                },
+                {
+                    "winner": "Sidney TANCOCK"
+                }
+            ],
+            [
+                {
+                    "country": "ALG",
+                    "name": "Houaria KADDOUR"
+                }
+            ],
+            [
+                {
+                    "country": "GBR",
+                    "name": "Sidney TANCOCK"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Houaria KADDOUR",
+            "Sidney TANCOCK"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "TUN",
+                    "name": "Oumaima BEDIOUI"
+                },
+                {
+                    "country": "GBR",
+                    "name": "Sidney TANCOCK"
+                },
+                {
+                    "winner": "Oumaima BEDIOUI"
+                }
+            ],
+            [
+                {
+                    "country": "MLT",
+                    "name": "Katryna ESPOSITO"
+                },
+                {
+                    "country": "ALG",
+                    "name": "Houaria KADDOUR"
+                },
+                {
+                    "winner": "Katryna ESPOSITO"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "TUN",
+                    "name": "Oumaima BEDIOUI"
+                },
+                {
+                    "country": "MLT",
+                    "name": "Katryna ESPOSITO"
+                }
+            ]
+        ],
+        "final_winner": "Oumaima BEDIOUI"
+    }
+}

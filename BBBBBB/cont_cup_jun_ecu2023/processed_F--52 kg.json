@@ -1,0 +1,135 @@
+{
+    "POOL A": {
+        "round 1-1": [],
+        "final_winner": "Wendy GOLU"
+    },
+    "POOL B": {
+        "round 1-1": [
+            [
+                {
+                    "country": "ECU",
+                    "name": "Nayhdeli ANDRADE"
+                },
+                {
+                    "country": "ECU",
+                    "name": "Sury VACACELA"
+                }
+            ]
+        ],
+        "final_winner": "Sury VACACELA"
+    },
+    "POOL C": {
+        "round 1-1": [],
+        "final_winner": "Scheccid RIVERA"
+    },
+    "POOL D": {
+        "round 1-1": [
+            [
+                {
+                    "country": "DOM",
+                    "name": "Mayelin JOSE PIE"
+                },
+                {
+                    "country": "ECU",
+                    "name": "Aura FERRIN"
+                }
+            ]
+        ],
+        "final_winner": "Aura FERRIN"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ECU",
+                    "name": "Nayhdeli ANDRADE"
+                }
+            ],
+            [
+                {
+                    "country": "DOM",
+                    "name": "Mayelin JOSE PIE"
+                }
+            ],
+            [
+                {
+                    "country": "ECU",
+                    "name": "Nayhdeli ANDRADE"
+                },
+                {
+                    "country": "ECU",
+                    "name": "Scheccid RIVERA"
+                },
+                {
+                    "winner": "Scheccid RIVERA"
+                }
+            ],
+            [
+                {
+                    "country": "DOM",
+                    "name": "Mayelin JOSE PIE"
+                },
+                {
+                    "country": "ECU",
+                    "name": "Sury VACACELA"
+                },
+                {
+                    "winner": "Mayelin JOSE PIE"
+                }
+            ],
+            [
+                {
+                    "country": "ECU",
+                    "name": "Scheccid RIVERA"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Mayelin JOSE PIE",
+            "Scheccid RIVERA"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "COL",
+                    "name": "Wendy GOLU"
+                },
+                {
+                    "country": "ECU",
+                    "name": "Sury VACACELA"
+                },
+                {
+                    "winner": "Wendy GOLU"
+                }
+            ],
+            [
+                {
+                    "country": "ECU",
+                    "name": "Scheccid RIVERA"
+                },
+                {
+                    "country": "ECU",
+                    "name": "Aura FERRIN"
+                },
+                {
+                    "winner": "Aura FERRIN"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "COL",
+                    "name": "Wendy GOLU"
+                },
+                {
+                    "country": "ECU",
+                    "name": "Aura FERRIN"
+                }
+            ]
+        ],
+        "final_winner": "Wendy GOLU"
+    }
+}

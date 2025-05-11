@@ -1,0 +1,159 @@
+{
+    "POOL A": {
+        "round 1-1": [],
+        "final_winner": "Petrunjela PAVIC"
+    },
+    "POOL B": {
+        "round 1-1": [
+            [
+                {
+                    "country": "ROU",
+                    "name": "Alexandra MAZILU"
+                },
+                {
+                    "country": "GBR",
+                    "name": "Emma REID"
+                }
+            ]
+        ],
+        "final_winner": "Emma REID"
+    },
+    "POOL C": {
+        "round 1-1": [
+            [
+                {
+                    "country": "CRO",
+                    "name": "Lea GOBEC"
+                },
+                {
+                    "country": "GBR",
+                    "name": "Rachel TYTLER"
+                }
+            ]
+        ],
+        "final_winner": "Lea GOBEC"
+    },
+    "POOL D": {
+        "round 1-1": [
+            [
+                {
+                    "country": "AUT",
+                    "name": "Maria HOELLWART"
+                },
+                {
+                    "country": "CRO",
+                    "name": "Zrinka MIOCIC"
+                }
+            ]
+        ],
+        "final_winner": "Zrinka MIOCIC"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ROU",
+                    "name": "Alexandra MAZILU"
+                }
+            ],
+            [
+                {
+                    "country": "GBR",
+                    "name": "Rachel TYTLER"
+                },
+                {
+                    "country": "AUT",
+                    "name": "Maria HOELLWART"
+                },
+                {
+                    "winner": "Rachel TYTLER"
+                }
+            ],
+            [
+                {
+                    "country": "ROU",
+                    "name": "Alexandra MAZILU"
+                },
+                {
+                    "country": "CRO",
+                    "name": "Lea GOBEC"
+                },
+                {
+                    "winner": "Lea GOBEC"
+                }
+            ],
+            [
+                {
+                    "country": "GBR",
+                    "name": "Rachel TYTLER"
+                },
+                {
+                    "country": "GBR",
+                    "name": "Emma REID"
+                },
+                {
+                    "winner": "Emma REID"
+                }
+            ],
+            [
+                {
+                    "country": "CRO",
+                    "name": "Lea GOBEC"
+                }
+            ],
+            [
+                {
+                    "country": "GBR",
+                    "name": "Emma REID"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Lea GOBEC",
+            "Emma REID"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CRO",
+                    "name": "Petrunjela PAVIC"
+                },
+                {
+                    "country": "GBR",
+                    "name": "Emma REID"
+                },
+                {
+                    "winner": "Petrunjela PAVIC"
+                }
+            ],
+            [
+                {
+                    "country": "CRO",
+                    "name": "Lea GOBEC"
+                },
+                {
+                    "country": "CRO",
+                    "name": "Zrinka MIOCIC"
+                },
+                {
+                    "winner": "Zrinka MIOCIC"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "CRO",
+                    "name": "Petrunjela PAVIC"
+                },
+                {
+                    "country": "CRO",
+                    "name": "Zrinka MIOCIC"
+                }
+            ]
+        ],
+        "final_winner": "Petrunjela PAVIC"
+    }
+}

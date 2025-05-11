@@ -1,0 +1,181 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "MAC",
+                    "name": "Lai tong LEONG"
+                },
+                {
+                    "winner": "Lai tong LEONG"
+                }
+            ],
+            [
+                {
+                    "country": "HKG",
+                    "name": "Nok Lam YEUNG"
+                },
+                {
+                    "winner": "Nok Lam YEUNG"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "MAC",
+                    "name": "Lai tong LEONG"
+                },
+                {
+                    "country": "HKG",
+                    "name": "Nok Lam YEUNG"
+                }
+            ]
+        ],
+        "final_winner": "Nok Lam YEUNG"
+    },
+    "POOL B": {
+        "round 1-1": [],
+        "final_winner": "Lin Hsuan HSU"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CHN",
+                    "name": "Lixiang NI"
+                },
+                {
+                    "winner": "Lixiang NI"
+                }
+            ],
+            [
+                {
+                    "country": "MAC",
+                    "name": "Xiao yue ZHENG"
+                },
+                {
+                    "winner": "Xiao yue ZHENG"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "CHN",
+                    "name": "Lixiang NI"
+                },
+                {
+                    "country": "MAC",
+                    "name": "Xiao yue ZHENG"
+                }
+            ]
+        ],
+        "final_winner": "Lixiang NI"
+    },
+    "POOL D": {
+        "round 1-1": [],
+        "final_winner": "Hsiao-chun LIN"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "MAC",
+                    "name": "Lai tong LEONG"
+                }
+            ],
+            [
+                {
+                    "country": "MAC",
+                    "name": "Xiao yue ZHENG"
+                }
+            ],
+            [
+                {
+                    "country": "MAC",
+                    "name": "Lai tong LEONG"
+                },
+                {
+                    "country": "TPE",
+                    "name": "Hsiao-chun LIN"
+                },
+                {
+                    "winner": "Hsiao-chun LIN"
+                }
+            ],
+            [
+                {
+                    "country": "MAC",
+                    "name": "Xiao yue ZHENG"
+                },
+                {
+                    "country": "HKG",
+                    "name": "Nok Lam YEUNG"
+                },
+                {
+                    "winner": "Nok Lam YEUNG"
+                }
+            ],
+            [
+                {
+                    "country": "TPE",
+                    "name": "Hsiao-chun LIN"
+                }
+            ],
+            [
+                {
+                    "country": "HKG",
+                    "name": "Nok Lam YEUNG"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Hsiao-chun LIN",
+            "Nok Lam YEUNG"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "HKG",
+                    "name": "Nok Lam YEUNG"
+                },
+                {
+                    "country": "TPE",
+                    "name": "Lin Hsuan HSU"
+                },
+                {
+                    "winner": "Lin Hsuan HSU"
+                }
+            ],
+            [
+                {
+                    "country": "CHN",
+                    "name": "Lixiang NI"
+                },
+                {
+                    "country": "TPE",
+                    "name": "Hsiao-chun LIN"
+                },
+                {
+                    "winner": "Lixiang NI"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "TPE",
+                    "name": "Lin Hsuan HSU"
+                },
+                {
+                    "country": "CHN",
+                    "name": "Lixiang NI"
+                }
+            ]
+        ],
+        "final_winner": "Lin Hsuan HSU"
+    }
+}

@@ -1,0 +1,285 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "GEO",
+                    "name": "Ilia SULAMANIDZE"
+                },
+                {
+                    "winner": "Ilia SULAMANIDZE"
+                }
+            ],
+            [
+                {
+                    "country": "CRO",
+                    "name": "Frane VUKICEVIC"
+                },
+                {
+                    "country": "FRA",
+                    "name": "Kenny LIVEZE"
+                },
+                {
+                    "winner": "Kenny LIVEZE"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "GEO",
+                    "name": "Ilia SULAMANIDZE"
+                },
+                {
+                    "country": "FRA",
+                    "name": "Kenny LIVEZE"
+                }
+            ]
+        ],
+        "final_winner": "Ilia SULAMANIDZE"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "SUI",
+                    "name": "Daniel EICH"
+                },
+                {
+                    "country": "ROU",
+                    "name": "Riccardo STOICA"
+                },
+                {
+                    "winner": "Daniel EICH"
+                }
+            ],
+            [
+                {
+                    "country": "EST",
+                    "name": "Karl PRIILINN TURK"
+                },
+                {
+                    "country": "ESP",
+                    "name": "Antonio SANDINO RAMOS"
+                },
+                {
+                    "winner": "Karl PRIILINN TURK"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "SUI",
+                    "name": "Daniel EICH"
+                },
+                {
+                    "country": "EST",
+                    "name": "Karl PRIILINN TURK"
+                }
+            ]
+        ],
+        "final_winner": "Daniel EICH"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "HUN",
+                    "name": "Zsombor VEG"
+                },
+                {
+                    "country": "MDA",
+                    "name": "Ion BOTNARU"
+                },
+                {
+                    "winner": "Zsombor VEG"
+                }
+            ],
+            [
+                {
+                    "country": "ROU",
+                    "name": "Eduard SERBAN"
+                },
+                {
+                    "country": "UKR",
+                    "name": "Danylo HOLOLOBOV"
+                },
+                {
+                    "winner": "Eduard SERBAN"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "HUN",
+                    "name": "Zsombor VEG"
+                },
+                {
+                    "country": "ROU",
+                    "name": "Eduard SERBAN"
+                }
+            ]
+        ],
+        "final_winner": "Eduard SERBAN"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "TUR",
+                    "name": "Mert SISMANLAR"
+                },
+                {
+                    "country": "GRE",
+                    "name": "Panagiotis PAPANIKOLAOU"
+                },
+                {
+                    "winner": "Mert SISMANLAR"
+                }
+            ],
+            [
+                {
+                    "country": "AZE",
+                    "name": "Adil KARIMLI"
+                },
+                {
+                    "country": "CRO",
+                    "name": "Ivan ROZGA"
+                },
+                {
+                    "winner": "Adil KARIMLI"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "TUR",
+                    "name": "Mert SISMANLAR"
+                },
+                {
+                    "country": "AZE",
+                    "name": "Adil KARIMLI"
+                }
+            ]
+        ],
+        "final_winner": "Mert SISMANLAR"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "FRA",
+                    "name": "Kenny LIVEZE"
+                },
+                {
+                    "country": "EST",
+                    "name": "Karl PRIILINN TURK"
+                },
+                {
+                    "winner": "Kenny LIVEZE"
+                }
+            ],
+            [
+                {
+                    "country": "HUN",
+                    "name": "Zsombor VEG"
+                },
+                {
+                    "country": "AZE",
+                    "name": "Adil KARIMLI"
+                },
+                {
+                    "winner": "Adil KARIMLI"
+                }
+            ],
+            [
+                {
+                    "country": "FRA",
+                    "name": "Kenny LIVEZE"
+                },
+                {
+                    "country": "ROU",
+                    "name": "Eduard SERBAN"
+                },
+                {
+                    "winner": "Eduard SERBAN"
+                }
+            ],
+            [
+                {
+                    "country": "AZE",
+                    "name": "Adil KARIMLI"
+                },
+                {
+                    "country": "SUI",
+                    "name": "Daniel EICH"
+                },
+                {
+                    "winner": "Daniel EICH"
+                }
+            ],
+            [
+                {
+                    "country": "ROU",
+                    "name": "Eduard SERBAN"
+                }
+            ],
+            [
+                {
+                    "country": "SUI",
+                    "name": "Daniel EICH"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Eduard SERBAN",
+            "Daniel EICH"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "GEO",
+                    "name": "Ilia SULAMANIDZE"
+                },
+                {
+                    "country": "SUI",
+                    "name": "Daniel EICH"
+                },
+                {
+                    "winner": "Ilia SULAMANIDZE"
+                }
+            ],
+            [
+                {
+                    "country": "ROU",
+                    "name": "Eduard SERBAN"
+                },
+                {
+                    "country": "TUR",
+                    "name": "Mert SISMANLAR"
+                },
+                {
+                    "winner": "Mert SISMANLAR"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "GEO",
+                    "name": "Ilia SULAMANIDZE"
+                },
+                {
+                    "country": "TUR",
+                    "name": "Mert SISMANLAR"
+                }
+            ]
+        ],
+        "final_winner": "Ilia SULAMANIDZE"
+    }
+}

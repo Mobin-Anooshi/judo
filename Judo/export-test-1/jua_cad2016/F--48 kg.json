@@ -1,0 +1,257 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "KAZ",
+                    "name": "Nursulu YERALIYEVA"
+                },
+                {
+                    "winner": "Nursulu YERALIYEVA"
+                }
+            ],
+            [
+                {
+                    "country": "KOR",
+                    "name": "Juhee YU"
+                },
+                {
+                    "winner": "Juhee YU"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "KAZ",
+                    "name": "Nursulu YERALIYEVA"
+                },
+                {
+                    "country": "KOR",
+                    "name": "Juhee YU"
+                }
+            ]
+        ],
+        "final_winner": "Juhee YU"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "TPE",
+                    "name": "Pei-wen WEI"
+                },
+                {
+                    "winner": "Pei-wen WEI"
+                }
+            ],
+            [
+                {
+                    "country": "MAC",
+                    "name": "Ian ian CHAN"
+                },
+                {
+                    "winner": "Ian ian CHAN"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "TPE",
+                    "name": "Pei-wen WEI"
+                },
+                {
+                    "country": "MAC",
+                    "name": "Ian ian CHAN"
+                }
+            ]
+        ],
+        "final_winner": "Pei-wen WEI"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "NEP",
+                    "name": "Sarada KHATRI"
+                },
+                {
+                    "winner": "Sarada KHATRI"
+                }
+            ],
+            [
+                {
+                    "country": "IND",
+                    "name": "Snehal ramesh KHAVARE"
+                },
+                {
+                    "winner": "Snehal ramesh KHAVARE"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "NEP",
+                    "name": "Sarada KHATRI"
+                },
+                {
+                    "country": "IND",
+                    "name": "Snehal ramesh KHAVARE"
+                }
+            ]
+        ],
+        "final_winner": "Snehal ramesh KHAVARE"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "IRI",
+                    "name": "Leila SIYAHVASHI"
+                },
+                {
+                    "winner": "Leila SIYAHVASHI"
+                }
+            ],
+            [
+                {
+                    "country": "JOR",
+                    "name": "Aiah KITANEH"
+                },
+                {
+                    "winner": "Aiah KITANEH"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "IRI",
+                    "name": "Leila SIYAHVASHI"
+                },
+                {
+                    "country": "JOR",
+                    "name": "Aiah KITANEH"
+                }
+            ]
+        ],
+        "final_winner": "Aiah KITANEH"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "KAZ",
+                    "name": "Nursulu YERALIYEVA"
+                },
+                {
+                    "country": "MAC",
+                    "name": "Ian ian CHAN"
+                },
+                {
+                    "winner": "Nursulu YERALIYEVA"
+                }
+            ],
+            [
+                {
+                    "country": "NEP",
+                    "name": "Sarada KHATRI"
+                },
+                {
+                    "country": "IRI",
+                    "name": "Leila SIYAHVASHI"
+                },
+                {
+                    "winner": "Leila SIYAHVASHI"
+                }
+            ],
+            [
+                {
+                    "country": "KAZ",
+                    "name": "Nursulu YERALIYEVA"
+                },
+                {
+                    "country": "JOR",
+                    "name": "Aiah KITANEH"
+                },
+                {
+                    "winner": "Nursulu YERALIYEVA"
+                }
+            ],
+            [
+                {
+                    "country": "IRI",
+                    "name": "Leila SIYAHVASHI"
+                },
+                {
+                    "country": "TPE",
+                    "name": "Pei-wen WEI"
+                },
+                {
+                    "winner": "Pei-wen WEI"
+                }
+            ],
+            [
+                {
+                    "country": "KAZ",
+                    "name": "Nursulu YERALIYEVA"
+                }
+            ],
+            [
+                {
+                    "country": "TPE",
+                    "name": "Pei-wen WEI"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Nursulu YERALIYEVA",
+            "Pei-wen WEI"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "KOR",
+                    "name": "Juhee YU"
+                },
+                {
+                    "country": "TPE",
+                    "name": "Pei-wen WEI"
+                },
+                {
+                    "winner": "Juhee YU"
+                }
+            ],
+            [
+                {
+                    "country": "IND",
+                    "name": "Snehal ramesh KHAVARE"
+                },
+                {
+                    "country": "JOR",
+                    "name": "Aiah KITANEH"
+                },
+                {
+                    "winner": "Snehal ramesh KHAVARE"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "KOR",
+                    "name": "Juhee YU"
+                },
+                {
+                    "country": "IND",
+                    "name": "Snehal ramesh KHAVARE"
+                }
+            ]
+        ],
+        "final_winner": "Juhee YU"
+    }
+}

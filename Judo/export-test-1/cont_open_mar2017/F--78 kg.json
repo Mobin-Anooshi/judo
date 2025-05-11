@@ -1,0 +1,177 @@
+{
+    "POOL A": {
+        "round 1-1": [
+            [
+                {
+                    "country": "FRA",
+                    "name": "Vanessa DUREAU"
+                },
+                {
+                    "country": "MAR",
+                    "name": "Assmaa NIANG"
+                }
+            ]
+        ],
+        "final_winner": "Assmaa NIANG"
+    },
+    "POOL B": {
+        "round 1-1": [
+            [
+                {
+                    "country": "SLO",
+                    "name": "Urska UREK"
+                },
+                {
+                    "country": "MAR",
+                    "name": "Fatima Zahra CHAKIR"
+                }
+            ]
+        ],
+        "final_winner": "Fatima Zahra CHAKIR"
+    },
+    "POOL C": {
+        "round 1-1": [
+            [
+                {
+                    "country": "MAR",
+                    "name": "Doha MOUIZERH"
+                },
+                {
+                    "country": "ITA",
+                    "name": "Melora ROSETTA"
+                }
+            ]
+        ],
+        "final_winner": "Melora ROSETTA"
+    },
+    "POOL D": {
+        "round 1-1": [
+            [
+                {
+                    "country": "SEN",
+                    "name": "Georgette SAGNA"
+                },
+                {
+                    "country": "FRA",
+                    "name": "Chloe BUTTIGIEG"
+                }
+            ]
+        ],
+        "final_winner": "Chloe BUTTIGIEG"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "FRA",
+                    "name": "Vanessa DUREAU"
+                },
+                {
+                    "country": "SLO",
+                    "name": "Urska UREK"
+                },
+                {
+                    "winner": "Vanessa DUREAU"
+                }
+            ],
+            [
+                {
+                    "country": "MAR",
+                    "name": "Doha MOUIZERH"
+                },
+                {
+                    "country": "SEN",
+                    "name": "Georgette SAGNA"
+                },
+                {
+                    "winner": "Georgette SAGNA"
+                }
+            ],
+            [
+                {
+                    "country": "FRA",
+                    "name": "Vanessa DUREAU"
+                },
+                {
+                    "country": "ITA",
+                    "name": "Melora ROSETTA"
+                },
+                {
+                    "winner": "Melora ROSETTA"
+                }
+            ],
+            [
+                {
+                    "country": "SEN",
+                    "name": "Georgette SAGNA"
+                },
+                {
+                    "country": "MAR",
+                    "name": "Fatima Zahra CHAKIR"
+                },
+                {
+                    "winner": "Georgette SAGNA"
+                }
+            ],
+            [
+                {
+                    "country": "ITA",
+                    "name": "Melora ROSETTA"
+                }
+            ],
+            [
+                {
+                    "country": "SEN",
+                    "name": "Georgette SAGNA"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Melora ROSETTA",
+            "Georgette SAGNA"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "MAR",
+                    "name": "Assmaa NIANG"
+                },
+                {
+                    "country": "MAR",
+                    "name": "Fatima Zahra CHAKIR"
+                },
+                {
+                    "winner": "Assmaa NIANG"
+                }
+            ],
+            [
+                {
+                    "country": "ITA",
+                    "name": "Melora ROSETTA"
+                },
+                {
+                    "country": "FRA",
+                    "name": "Chloe BUTTIGIEG"
+                },
+                {
+                    "winner": "Chloe BUTTIGIEG"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "MAR",
+                    "name": "Assmaa NIANG"
+                },
+                {
+                    "country": "FRA",
+                    "name": "Chloe BUTTIGIEG"
+                }
+            ]
+        ],
+        "final_winner": "Assmaa NIANG"
+    }
+}

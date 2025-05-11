@@ -1,0 +1,265 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ESA",
+                    "name": "Jairo MORENO"
+                },
+                {
+                    "winner": "Jairo MORENO"
+                }
+            ],
+            [
+                {
+                    "country": "CAN",
+                    "name": "Raphael GAANAN"
+                },
+                {
+                    "country": "PER",
+                    "name": "Boris PANTA VALDIVIEZO"
+                },
+                {
+                    "winner": "Boris PANTA VALDIVIEZO"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "ESA",
+                    "name": "Jairo MORENO"
+                },
+                {
+                    "country": "PER",
+                    "name": "Boris PANTA VALDIVIEZO"
+                }
+            ]
+        ],
+        "final_winner": "Jairo MORENO"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "GUA",
+                    "name": "Jose RAMOS"
+                },
+                {
+                    "winner": "Jose RAMOS"
+                }
+            ],
+            [
+                {
+                    "country": "PAR",
+                    "name": "Mateo CABRAL"
+                },
+                {
+                    "winner": "Mateo CABRAL"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "GUA",
+                    "name": "Jose RAMOS"
+                },
+                {
+                    "country": "PAR",
+                    "name": "Mateo CABRAL"
+                }
+            ]
+        ],
+        "final_winner": "Mateo CABRAL"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ARG",
+                    "name": "Ignacio FREGGIARO"
+                },
+                {
+                    "winner": "Ignacio FREGGIARO"
+                }
+            ],
+            [
+                {
+                    "country": "PER",
+                    "name": "Arnold PRADO"
+                },
+                {
+                    "country": "BOL",
+                    "name": "Alejandro ZAMUDIO RAMIREZ"
+                },
+                {
+                    "winner": "Arnold PRADO"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "ARG",
+                    "name": "Ignacio FREGGIARO"
+                },
+                {
+                    "country": "PER",
+                    "name": "Arnold PRADO"
+                }
+            ]
+        ],
+        "final_winner": "Arnold PRADO"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CRC",
+                    "name": "Sebastian SANCHO"
+                },
+                {
+                    "winner": "Sebastian SANCHO"
+                }
+            ],
+            [
+                {
+                    "country": "CAN",
+                    "name": "Matteo FANTOZZI"
+                },
+                {
+                    "winner": "Matteo FANTOZZI"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "CRC",
+                    "name": "Sebastian SANCHO"
+                },
+                {
+                    "country": "CAN",
+                    "name": "Matteo FANTOZZI"
+                }
+            ]
+        ],
+        "final_winner": "Sebastian SANCHO"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "PER",
+                    "name": "Boris PANTA VALDIVIEZO"
+                },
+                {
+                    "country": "GUA",
+                    "name": "Jose RAMOS"
+                },
+                {
+                    "winner": "Jose RAMOS"
+                }
+            ],
+            [
+                {
+                    "country": "ARG",
+                    "name": "Ignacio FREGGIARO"
+                },
+                {
+                    "country": "CAN",
+                    "name": "Matteo FANTOZZI"
+                },
+                {
+                    "winner": "Matteo FANTOZZI"
+                }
+            ],
+            [
+                {
+                    "country": "GUA",
+                    "name": "Jose RAMOS"
+                },
+                {
+                    "country": "PER",
+                    "name": "Arnold PRADO"
+                },
+                {
+                    "winner": "Jose RAMOS"
+                }
+            ],
+            [
+                {
+                    "country": "CAN",
+                    "name": "Matteo FANTOZZI"
+                },
+                {
+                    "country": "PAR",
+                    "name": "Mateo CABRAL"
+                },
+                {
+                    "winner": "Mateo CABRAL"
+                }
+            ],
+            [
+                {
+                    "country": "GUA",
+                    "name": "Jose RAMOS"
+                }
+            ],
+            [
+                {
+                    "country": "PAR",
+                    "name": "Mateo CABRAL"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Jose RAMOS",
+            "Mateo CABRAL"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ESA",
+                    "name": "Jairo MORENO"
+                },
+                {
+                    "country": "PAR",
+                    "name": "Mateo CABRAL"
+                },
+                {
+                    "winner": "Jairo MORENO"
+                }
+            ],
+            [
+                {
+                    "country": "PER",
+                    "name": "Arnold PRADO"
+                },
+                {
+                    "country": "CRC",
+                    "name": "Sebastian SANCHO"
+                },
+                {
+                    "winner": "Sebastian SANCHO"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "ESA",
+                    "name": "Jairo MORENO"
+                },
+                {
+                    "country": "CRC",
+                    "name": "Sebastian SANCHO"
+                }
+            ]
+        ],
+        "final_winner": "Jairo MORENO"
+    }
+}

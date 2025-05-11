@@ -1,0 +1,130 @@
+{
+    "POOL A": {
+        "round 1-1": [],
+        "final_winner": "Kamila BERLIKASH"
+    },
+    "POOL B": {
+        "round 1-1": [],
+        "final_winner": "Serjmyadag SHURENCHIMEG"
+    },
+    "POOL C": {
+        "round 1-1": [
+            [
+                {
+                    "country": "TPE",
+                    "name": "Ling Fang CHANG"
+                },
+                {
+                    "country": "IND",
+                    "name": "Tulika MAAN"
+                }
+            ]
+        ],
+        "final_winner": "Ling Fang CHANG"
+    },
+    "POOL D": {
+        "round 1-1": [
+            [
+                {
+                    "country": "MGL",
+                    "name": "Baljinnyam NOROVSAMBUU"
+                },
+                {
+                    "country": "KGZ",
+                    "name": "Kristina NEZHNIKOVA"
+                }
+            ]
+        ],
+        "final_winner": "Kristina NEZHNIKOVA"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [],
+            [
+                {
+                    "country": "IND",
+                    "name": "Tulika MAAN"
+                },
+                {
+                    "country": "MGL",
+                    "name": "Baljinnyam NOROVSAMBUU"
+                },
+                {
+                    "winner": "Tulika MAAN"
+                }
+            ],
+            [
+                {
+                    "country": "KGZ",
+                    "name": "Kristina NEZHNIKOVA"
+                }
+            ],
+            [
+                {
+                    "country": "IND",
+                    "name": "Tulika MAAN"
+                },
+                {
+                    "country": "MGL",
+                    "name": "Serjmyadag SHURENCHIMEG"
+                },
+                {
+                    "winner": "Tulika MAAN"
+                }
+            ],
+            [
+                {
+                    "country": "IND",
+                    "name": "Tulika MAAN"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Tulika MAAN",
+            "Kristina NEZHNIKOVA"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "KAZ",
+                    "name": "Kamila BERLIKASH"
+                },
+                {
+                    "country": "MGL",
+                    "name": "Serjmyadag SHURENCHIMEG"
+                },
+                {
+                    "winner": "Kamila BERLIKASH"
+                }
+            ],
+            [
+                {
+                    "country": "TPE",
+                    "name": "Ling Fang CHANG"
+                },
+                {
+                    "country": "KGZ",
+                    "name": "Kristina NEZHNIKOVA"
+                },
+                {
+                    "winner": "Ling Fang CHANG"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "KAZ",
+                    "name": "Kamila BERLIKASH"
+                },
+                {
+                    "country": "TPE",
+                    "name": "Ling Fang CHANG"
+                }
+            ]
+        ],
+        "final_winner": "Kamila BERLIKASH"
+    }
+}

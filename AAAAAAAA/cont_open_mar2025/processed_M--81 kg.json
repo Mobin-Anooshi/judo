@@ -1,0 +1,277 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "HKG",
+                    "name": "Kwok Wing LEE"
+                },
+                {
+                    "winner": "Kwok Wing LEE"
+                }
+            ],
+            [
+                {
+                    "country": "MAR",
+                    "name": "Mohamed EL BAHLOUL"
+                },
+                {
+                    "country": "ANG",
+                    "name": "Alberto JONASSE"
+                },
+                {
+                    "winner": "Alberto JONASSE"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "HKG",
+                    "name": "Kwok Wing LEE"
+                },
+                {
+                    "country": "ANG",
+                    "name": "Alberto JONASSE"
+                }
+            ]
+        ],
+        "final_winner": "Kwok Wing LEE"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "MLI",
+                    "name": "Mahamadou DOUCARA"
+                },
+                {
+                    "country": "TUN",
+                    "name": "Amanallah HARROUM"
+                },
+                {
+                    "winner": "Mahamadou DOUCARA"
+                }
+            ],
+            [
+                {
+                    "country": "MAR",
+                    "name": "Adam JABRANE"
+                },
+                {
+                    "country": "NED",
+                    "name": "Inno LOEBER"
+                },
+                {
+                    "winner": "Inno LOEBER"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "MLI",
+                    "name": "Mahamadou DOUCARA"
+                },
+                {
+                    "country": "NED",
+                    "name": "Inno LOEBER"
+                }
+            ]
+        ],
+        "final_winner": "Inno LOEBER"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "IJF",
+                    "name": "Taulan BAISIEV"
+                },
+                {
+                    "winner": "Taulan BAISIEV"
+                }
+            ],
+            [
+                {
+                    "country": "LTU",
+                    "name": "Aidas PILECKAS"
+                },
+                {
+                    "country": "MAR",
+                    "name": "Amine YASSIF"
+                },
+                {
+                    "winner": "Amine YASSIF"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "IJF",
+                    "name": "Taulan BAISIEV"
+                },
+                {
+                    "country": "MAR",
+                    "name": "Amine YASSIF"
+                }
+            ]
+        ],
+        "final_winner": "Taulan BAISIEV"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "SEN",
+                    "name": "Namory KEITA"
+                },
+                {
+                    "winner": "Namory KEITA"
+                }
+            ],
+            [
+                {
+                    "country": "MAR",
+                    "name": "Anwar ZRHARI"
+                },
+                {
+                    "country": "LUX",
+                    "name": "Claudio NUNES DOS SANTOS"
+                },
+                {
+                    "winner": "Claudio NUNES DOS SANTOS"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "SEN",
+                    "name": "Namory KEITA"
+                },
+                {
+                    "country": "LUX",
+                    "name": "Claudio NUNES DOS SANTOS"
+                }
+            ]
+        ],
+        "final_winner": "Claudio NUNES DOS SANTOS"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ANG",
+                    "name": "Alberto JONASSE"
+                },
+                {
+                    "country": "MLI",
+                    "name": "Mahamadou DOUCARA"
+                },
+                {
+                    "winner": "Mahamadou DOUCARA"
+                }
+            ],
+            [
+                {
+                    "country": "MAR",
+                    "name": "Amine YASSIF"
+                },
+                {
+                    "country": "SEN",
+                    "name": "Namory KEITA"
+                },
+                {
+                    "winner": "Amine YASSIF"
+                }
+            ],
+            [
+                {
+                    "country": "MLI",
+                    "name": "Mahamadou DOUCARA"
+                },
+                {
+                    "country": "LUX",
+                    "name": "Claudio NUNES DOS SANTOS"
+                },
+                {
+                    "winner": "Claudio NUNES DOS SANTOS"
+                }
+            ],
+            [
+                {
+                    "country": "MAR",
+                    "name": "Amine YASSIF"
+                },
+                {
+                    "country": "HKG",
+                    "name": "Kwok Wing LEE"
+                },
+                {
+                    "winner": "Amine YASSIF"
+                }
+            ],
+            [
+                {
+                    "country": "LUX",
+                    "name": "Claudio NUNES DOS SANTOS"
+                }
+            ],
+            [
+                {
+                    "country": "MAR",
+                    "name": "Amine YASSIF"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Claudio NUNES DOS SANTOS",
+            "Amine YASSIF"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "HKG",
+                    "name": "Kwok Wing LEE"
+                },
+                {
+                    "country": "NED",
+                    "name": "Inno LOEBER"
+                },
+                {
+                    "winner": "Inno LOEBER"
+                }
+            ],
+            [
+                {
+                    "country": "IJF",
+                    "name": "Taulan BAISIEV"
+                },
+                {
+                    "country": "LUX",
+                    "name": "Claudio NUNES DOS SANTOS"
+                },
+                {
+                    "winner": "Taulan BAISIEV"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "NED",
+                    "name": "Inno LOEBER"
+                },
+                {
+                    "country": "IJF",
+                    "name": "Taulan BAISIEV"
+                }
+            ]
+        ],
+        "final_winner": "Taulan BAISIEV"
+    }
+}

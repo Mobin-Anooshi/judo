@@ -1,0 +1,177 @@
+{
+    "POOL A": {
+        "round 1-1": [
+            [
+                {
+                    "country": "FRA",
+                    "name": "Pauline CUQ"
+                },
+                {
+                    "country": "HUN",
+                    "name": "Viktoria PAAR"
+                }
+            ]
+        ],
+        "final_winner": "Pauline CUQ"
+    },
+    "POOL B": {
+        "round 1-1": [
+            [
+                {
+                    "country": "POL",
+                    "name": "Oliwia ONYSK"
+                },
+                {
+                    "country": "BUL",
+                    "name": "Aleksa GEORGIEVA"
+                }
+            ]
+        ],
+        "final_winner": "Oliwia ONYSK"
+    },
+    "POOL C": {
+        "round 1-1": [
+            [
+                {
+                    "country": "AZE",
+                    "name": "Konul ALIYEVA"
+                },
+                {
+                    "country": "ROU",
+                    "name": "Iulia MOLDOVEANU"
+                }
+            ]
+        ],
+        "final_winner": "Konul ALIYEVA"
+    },
+    "POOL D": {
+        "round 1-1": [
+            [
+                {
+                    "country": "HUN",
+                    "name": "Rebeka Rita KOSZEGI"
+                },
+                {
+                    "country": "POL",
+                    "name": "Natalia STOKLOSA"
+                }
+            ]
+        ],
+        "final_winner": "Natalia STOKLOSA"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "HUN",
+                    "name": "Viktoria PAAR"
+                },
+                {
+                    "country": "BUL",
+                    "name": "Aleksa GEORGIEVA"
+                },
+                {
+                    "winner": "Aleksa GEORGIEVA"
+                }
+            ],
+            [
+                {
+                    "country": "ROU",
+                    "name": "Iulia MOLDOVEANU"
+                },
+                {
+                    "country": "HUN",
+                    "name": "Rebeka Rita KOSZEGI"
+                },
+                {
+                    "winner": "Rebeka Rita KOSZEGI"
+                }
+            ],
+            [
+                {
+                    "country": "BUL",
+                    "name": "Aleksa GEORGIEVA"
+                },
+                {
+                    "country": "POL",
+                    "name": "Natalia STOKLOSA"
+                },
+                {
+                    "winner": "Natalia STOKLOSA"
+                }
+            ],
+            [
+                {
+                    "country": "HUN",
+                    "name": "Rebeka Rita KOSZEGI"
+                },
+                {
+                    "country": "POL",
+                    "name": "Oliwia ONYSK"
+                },
+                {
+                    "winner": "Rebeka Rita KOSZEGI"
+                }
+            ],
+            [
+                {
+                    "country": "POL",
+                    "name": "Natalia STOKLOSA"
+                }
+            ],
+            [
+                {
+                    "country": "HUN",
+                    "name": "Rebeka Rita KOSZEGI"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Natalia STOKLOSA",
+            "Rebeka Rita KOSZEGI"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "FRA",
+                    "name": "Pauline CUQ"
+                },
+                {
+                    "country": "POL",
+                    "name": "Oliwia ONYSK"
+                },
+                {
+                    "winner": "Pauline CUQ"
+                }
+            ],
+            [
+                {
+                    "country": "AZE",
+                    "name": "Konul ALIYEVA"
+                },
+                {
+                    "country": "POL",
+                    "name": "Natalia STOKLOSA"
+                },
+                {
+                    "winner": "Konul ALIYEVA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "FRA",
+                    "name": "Pauline CUQ"
+                },
+                {
+                    "country": "AZE",
+                    "name": "Konul ALIYEVA"
+                }
+            ]
+        ],
+        "final_winner": "Pauline CUQ"
+    }
+}

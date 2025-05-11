@@ -1,0 +1,205 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CAN",
+                    "name": "Marc DESCHENES"
+                },
+                {
+                    "winner": "Marc DESCHENES"
+                }
+            ],
+            []
+        ],
+        "round 1-1": [],
+        "final_winner": "Marc DESCHENES"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "USA",
+                    "name": "Myles PORTER"
+                },
+                {
+                    "winner": "Myles PORTER"
+                }
+            ],
+            [
+                {
+                    "country": "GUA",
+                    "name": "Armando PINEDA"
+                },
+                {
+                    "winner": "Armando PINEDA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "USA",
+                    "name": "Myles PORTER"
+                },
+                {
+                    "country": "GUA",
+                    "name": "Armando PINEDA"
+                }
+            ]
+        ],
+        "final_winner": "Armando PINEDA"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "FRA",
+                    "name": "Clement DELVERT"
+                },
+                {
+                    "winner": "Clement DELVERT"
+                }
+            ],
+            [
+                {
+                    "country": "ECU",
+                    "name": "Jose MERLIN"
+                },
+                {
+                    "winner": "Jose MERLIN"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "FRA",
+                    "name": "Clement DELVERT"
+                },
+                {
+                    "country": "ECU",
+                    "name": "Jose MERLIN"
+                }
+            ]
+        ],
+        "final_winner": "Clement DELVERT"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "USA",
+                    "name": "Andrew JACOBS"
+                },
+                {
+                    "winner": "Andrew JACOBS"
+                }
+            ],
+            []
+        ],
+        "round 1-1": [],
+        "final_winner": "Andrew JACOBS"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "USA",
+                    "name": "Myles PORTER"
+                }
+            ],
+            [
+                {
+                    "country": "ECU",
+                    "name": "Jose MERLIN"
+                }
+            ],
+            [
+                {
+                    "country": "USA",
+                    "name": "Myles PORTER"
+                },
+                {
+                    "country": "USA",
+                    "name": "Andrew JACOBS"
+                },
+                {
+                    "winner": "Andrew JACOBS"
+                }
+            ],
+            [
+                {
+                    "country": "ECU",
+                    "name": "Jose MERLIN"
+                },
+                {
+                    "country": "GUA",
+                    "name": "Armando PINEDA"
+                },
+                {
+                    "winner": "Armando PINEDA"
+                }
+            ],
+            [
+                {
+                    "country": "USA",
+                    "name": "Andrew JACOBS"
+                }
+            ],
+            [
+                {
+                    "country": "GUA",
+                    "name": "Armando PINEDA"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Andrew JACOBS",
+            "Armando PINEDA"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CAN",
+                    "name": "Marc DESCHENES"
+                },
+                {
+                    "country": "GUA",
+                    "name": "Armando PINEDA"
+                },
+                {
+                    "winner": "Marc DESCHENES"
+                }
+            ],
+            [
+                {
+                    "country": "FRA",
+                    "name": "Clement DELVERT"
+                },
+                {
+                    "country": "USA",
+                    "name": "Andrew JACOBS"
+                },
+                {
+                    "winner": "Clement DELVERT"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "CAN",
+                    "name": "Marc DESCHENES"
+                },
+                {
+                    "country": "FRA",
+                    "name": "Clement DELVERT"
+                }
+            ]
+        ],
+        "final_winner": "Clement DELVERT"
+    }
+}

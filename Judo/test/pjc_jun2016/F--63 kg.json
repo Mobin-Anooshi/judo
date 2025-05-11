@@ -1,0 +1,268 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CAN",
+                    "name": "Emily BURT"
+                },
+                {
+                    "winner": "Emily BURT"
+                }
+            ],
+            [
+                {
+                    "country": "URU",
+                    "name": "Victoria OSORES"
+                },
+                {
+                    "winner": "Victoria OSORES"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "CAN",
+                    "name": "Emily BURT"
+                },
+                {
+                    "country": "URU",
+                    "name": "Victoria OSORES"
+                }
+            ],
+            [
+                {
+                    "country": "CAN",
+                    "name": "Emily BURT"
+                }
+            ]
+        ]
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "PER",
+                    "name": "Ariana CORNEJO"
+                },
+                {
+                    "winner": "Ariana CORNEJO"
+                }
+            ],
+            [
+                {
+                    "country": "CHI",
+                    "name": "Constanza CANDIA"
+                },
+                {
+                    "winner": "Constanza CANDIA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "PER",
+                    "name": "Ariana CORNEJO"
+                },
+                {
+                    "country": "CHI",
+                    "name": "Constanza CANDIA"
+                }
+            ],
+            [
+                {
+                    "country": "CHI",
+                    "name": "Constanza CANDIA"
+                }
+            ]
+        ]
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Yanka PASCOALINO"
+                },
+                {
+                    "winner": "Yanka PASCOALINO"
+                }
+            ],
+            [
+                {
+                    "country": "MEX",
+                    "name": "Sofia AREVALO"
+                },
+                {
+                    "winner": "Sofia AREVALO"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Yanka PASCOALINO"
+                },
+                {
+                    "country": "MEX",
+                    "name": "Sofia AREVALO"
+                }
+            ],
+            [
+                {
+                    "country": "BRA",
+                    "name": "Yanka PASCOALINO"
+                }
+            ]
+        ]
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ARG",
+                    "name": "Sol CELLERINO"
+                },
+                {
+                    "winner": "Sol CELLERINO"
+                }
+            ],
+            []
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "ARG",
+                    "name": "Sol CELLERINO"
+                }
+            ]
+        ]
+    },
+    "REPECHAGE": {
+        "round 1-4": [
+            [
+                {
+                    "country": "URU",
+                    "name": "Victoria OSORES"
+                },
+                {
+                    "winner": "Victoria OSORES"
+                }
+            ],
+            [
+                {
+                    "country": "PER",
+                    "name": "Ariana CORNEJO"
+                },
+                {
+                    "winner": "Ariana CORNEJO"
+                }
+            ],
+            [
+                {
+                    "country": "MEX",
+                    "name": "Sofia AREVALO"
+                },
+                {
+                    "winner": "Sofia AREVALO"
+                }
+            ],
+            []
+        ],
+        "round 1-2": [
+            [
+                {
+                    "country": "URU",
+                    "name": "Victoria OSORES"
+                },
+                {
+                    "country": "PER",
+                    "name": "Ariana CORNEJO"
+                }
+            ],
+            [
+                {
+                    "country": "MEX",
+                    "name": "Sofia AREVALO"
+                }
+            ],
+            [
+                {
+                    "country": "URU",
+                    "name": "Victoria OSORES"
+                },
+                {
+                    "country": "ARG",
+                    "name": "Sol CELLERINO"
+                }
+            ],
+            [
+                {
+                    "country": "MEX",
+                    "name": "Sofia AREVALO"
+                },
+                {
+                    "country": "CHI",
+                    "name": "Constanza CANDIA"
+                }
+            ],
+            [
+                {
+                    "country": "ARG",
+                    "name": "Sol CELLERINO"
+                }
+            ]
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CAN",
+                    "name": "Emily BURT"
+                },
+                {
+                    "country": "CHI",
+                    "name": "Constanza CANDIA"
+                },
+                {
+                    "winner": "Emily BURT"
+                }
+            ],
+            [
+                {
+                    "country": "BRA",
+                    "name": "Yanka PASCOALINO"
+                },
+                {
+                    "country": "ARG",
+                    "name": "Sol CELLERINO"
+                },
+                {
+                    "winner": "Yanka PASCOALINO"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "CAN",
+                    "name": "Emily BURT"
+                },
+                {
+                    "country": "BRA",
+                    "name": "Yanka PASCOALINO"
+                }
+            ],
+            [
+                {
+                    "country": "BRA",
+                    "name": "Yanka PASCOALINO"
+                }
+            ]
+        ]
+    }
+}

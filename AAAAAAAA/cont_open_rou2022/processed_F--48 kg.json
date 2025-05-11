@@ -1,0 +1,269 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "MRI",
+                    "name": "Priscilla MORAND"
+                },
+                {
+                    "winner": "Priscilla MORAND"
+                }
+            ],
+            [
+                {
+                    "country": "GER",
+                    "name": "Helena GRAU"
+                },
+                {
+                    "country": "ROU",
+                    "name": "Alexandra POP"
+                },
+                {
+                    "winner": "Alexandra POP"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "MRI",
+                    "name": "Priscilla MORAND"
+                },
+                {
+                    "country": "ROU",
+                    "name": "Alexandra POP"
+                }
+            ]
+        ],
+        "final_winner": "Priscilla MORAND"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "FRA",
+                    "name": "Faustine BERNARD"
+                },
+                {
+                    "winner": "Faustine BERNARD"
+                }
+            ],
+            [
+                {
+                    "country": "KSA",
+                    "name": "Shihanah ALSEHALY"
+                },
+                {
+                    "winner": "Shihanah ALSEHALY"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "FRA",
+                    "name": "Faustine BERNARD"
+                },
+                {
+                    "country": "KSA",
+                    "name": "Shihanah ALSEHALY"
+                }
+            ]
+        ],
+        "final_winner": "Faustine BERNARD"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "GBR",
+                    "name": "Amy PLATTEN"
+                },
+                {
+                    "winner": "Amy PLATTEN"
+                }
+            ],
+            [
+                {
+                    "country": "AZE",
+                    "name": "Ramila ALIYEVA"
+                },
+                {
+                    "country": "ROU",
+                    "name": "Roxana OPREA"
+                },
+                {
+                    "winner": "Ramila ALIYEVA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "GBR",
+                    "name": "Amy PLATTEN"
+                },
+                {
+                    "country": "AZE",
+                    "name": "Ramila ALIYEVA"
+                }
+            ]
+        ],
+        "final_winner": "Ramila ALIYEVA"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ROU",
+                    "name": "Giorgia HAGIANU"
+                },
+                {
+                    "winner": "Giorgia HAGIANU"
+                }
+            ],
+            [
+                {
+                    "country": "KSA",
+                    "name": "Afnan HAKAMI"
+                },
+                {
+                    "country": "TUR",
+                    "name": "Tugce BEDER"
+                },
+                {
+                    "winner": "Tugce BEDER"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "ROU",
+                    "name": "Giorgia HAGIANU"
+                },
+                {
+                    "country": "TUR",
+                    "name": "Tugce BEDER"
+                }
+            ]
+        ],
+        "final_winner": "Tugce BEDER"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ROU",
+                    "name": "Alexandra POP"
+                },
+                {
+                    "country": "KSA",
+                    "name": "Shihanah ALSEHALY"
+                },
+                {
+                    "winner": "Alexandra POP"
+                }
+            ],
+            [
+                {
+                    "country": "GBR",
+                    "name": "Amy PLATTEN"
+                },
+                {
+                    "country": "ROU",
+                    "name": "Giorgia HAGIANU"
+                },
+                {
+                    "winner": "Amy PLATTEN"
+                }
+            ],
+            [
+                {
+                    "country": "ROU",
+                    "name": "Alexandra POP"
+                },
+                {
+                    "country": "AZE",
+                    "name": "Ramila ALIYEVA"
+                },
+                {
+                    "winner": "Alexandra POP"
+                }
+            ],
+            [
+                {
+                    "country": "GBR",
+                    "name": "Amy PLATTEN"
+                },
+                {
+                    "country": "MRI",
+                    "name": "Priscilla MORAND"
+                },
+                {
+                    "winner": "Amy PLATTEN"
+                }
+            ],
+            [
+                {
+                    "country": "ROU",
+                    "name": "Alexandra POP"
+                }
+            ],
+            [
+                {
+                    "country": "GBR",
+                    "name": "Amy PLATTEN"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Alexandra POP",
+            "Amy PLATTEN"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "MRI",
+                    "name": "Priscilla MORAND"
+                },
+                {
+                    "country": "FRA",
+                    "name": "Faustine BERNARD"
+                },
+                {
+                    "winner": "Faustine BERNARD"
+                }
+            ],
+            [
+                {
+                    "country": "AZE",
+                    "name": "Ramila ALIYEVA"
+                },
+                {
+                    "country": "TUR",
+                    "name": "Tugce BEDER"
+                },
+                {
+                    "winner": "Tugce BEDER"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "FRA",
+                    "name": "Faustine BERNARD"
+                },
+                {
+                    "country": "TUR",
+                    "name": "Tugce BEDER"
+                }
+            ]
+        ],
+        "final_winner": "Tugce BEDER"
+    }
+}

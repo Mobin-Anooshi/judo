@@ -1,0 +1,295 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "KAZ",
+                    "name": "Damir AKHET"
+                },
+                {
+                    "winner": "Damir AKHET"
+                }
+            ],
+            [
+                {
+                    "country": "IRQ",
+                    "name": "Abdulrahman AL-AZZAWI"
+                },
+                {
+                    "winner": "Abdulrahman AL-AZZAWI"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "KAZ",
+                    "name": "Damir AKHET"
+                },
+                {
+                    "country": "IRQ",
+                    "name": "Abdulrahman AL-AZZAWI"
+                }
+            ]
+        ],
+        "final_winner": "Damir AKHET"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "KUW",
+                    "name": "Fahad ALTUWAIJRI"
+                },
+                {
+                    "winner": "Fahad ALTUWAIJRI"
+                }
+            ],
+            [
+                {
+                    "country": "TJK",
+                    "name": "Parviz ABDURAKHMONOV"
+                },
+                {
+                    "winner": "Parviz ABDURAKHMONOV"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "KUW",
+                    "name": "Fahad ALTUWAIJRI"
+                },
+                {
+                    "country": "TJK",
+                    "name": "Parviz ABDURAKHMONOV"
+                }
+            ]
+        ],
+        "final_winner": "Parviz ABDURAKHMONOV"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "UZB",
+                    "name": "Abbos ISMOILOV"
+                },
+                {
+                    "winner": "Abbos ISMOILOV"
+                }
+            ],
+            [
+                {
+                    "country": "KOR",
+                    "name": "Seungju HAN"
+                },
+                {
+                    "winner": "Seungju HAN"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "UZB",
+                    "name": "Abbos ISMOILOV"
+                },
+                {
+                    "country": "KOR",
+                    "name": "Seungju HAN"
+                }
+            ]
+        ],
+        "final_winner": "Seungju HAN"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "KGZ",
+                    "name": "Kydyrshaa SATTAROV"
+                },
+                {
+                    "winner": "Kydyrshaa SATTAROV"
+                }
+            ],
+            [
+                {
+                    "country": "IND",
+                    "name": "Maanvender SINGH"
+                },
+                {
+                    "winner": "Maanvender SINGH"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "KGZ",
+                    "name": "Kydyrshaa SATTAROV"
+                },
+                {
+                    "country": "IND",
+                    "name": "Maanvender SINGH"
+                }
+            ]
+        ],
+        "final_winner": "Kydyrshaa SATTAROV"
+    },
+    "REPECHAGE": {
+        "round 1-4": [
+            [
+                {
+                    "country": "IRQ",
+                    "name": "Abdulrahman AL-AZZAWI"
+                },
+                {
+                    "winner": "Abdulrahman AL-AZZAWI"
+                }
+            ],
+            [
+                {
+                    "country": "KUW",
+                    "name": "Fahad ALTUWAIJRI"
+                },
+                {
+                    "winner": "Fahad ALTUWAIJRI"
+                }
+            ],
+            [
+                {
+                    "country": "UZB",
+                    "name": "Abbos ISMOILOV"
+                },
+                {
+                    "winner": "Abbos ISMOILOV"
+                }
+            ],
+            [
+                {
+                    "country": "IND",
+                    "name": "Maanvender SINGH"
+                },
+                {
+                    "winner": "Maanvender SINGH"
+                }
+            ]
+        ],
+        "round 1-2": [
+            [
+                {
+                    "country": "IRQ",
+                    "name": "Abdulrahman AL-AZZAWI"
+                },
+                {
+                    "country": "KUW",
+                    "name": "Fahad ALTUWAIJRI"
+                },
+                {
+                    "winner": "Abdulrahman AL-AZZAWI"
+                }
+            ],
+            [
+                {
+                    "country": "UZB",
+                    "name": "Abbos ISMOILOV"
+                },
+                {
+                    "country": "IND",
+                    "name": "Maanvender SINGH"
+                },
+                {
+                    "winner": "Abbos ISMOILOV"
+                }
+            ],
+            [
+                {
+                    "country": "IRQ",
+                    "name": "Abdulrahman AL-AZZAWI"
+                },
+                {
+                    "country": "KGZ",
+                    "name": "Kydyrshaa SATTAROV"
+                },
+                {
+                    "winner": "Kydyrshaa SATTAROV"
+                }
+            ],
+            [
+                {
+                    "country": "UZB",
+                    "name": "Abbos ISMOILOV"
+                },
+                {
+                    "country": "KAZ",
+                    "name": "Damir AKHET"
+                },
+                {
+                    "winner": "Abbos ISMOILOV"
+                }
+            ],
+            [
+                {
+                    "country": "KGZ",
+                    "name": "Kydyrshaa SATTAROV"
+                }
+            ],
+            [
+                {
+                    "country": "UZB",
+                    "name": "Abbos ISMOILOV"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Kydyrshaa SATTAROV",
+            "Abbos ISMOILOV"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "KAZ",
+                    "name": "Damir AKHET"
+                },
+                {
+                    "country": "TJK",
+                    "name": "Parviz ABDURAKHMONOV"
+                },
+                {
+                    "winner": "Parviz ABDURAKHMONOV"
+                }
+            ],
+            [
+                {
+                    "country": "KOR",
+                    "name": "Seungju HAN"
+                },
+                {
+                    "country": "KGZ",
+                    "name": "Kydyrshaa SATTAROV"
+                },
+                {
+                    "winner": "Seungju HAN"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "TJK",
+                    "name": "Parviz ABDURAKHMONOV"
+                },
+                {
+                    "country": "KOR",
+                    "name": "Seungju HAN"
+                }
+            ]
+        ],
+        "final_winner": "Seungju HAN"
+    }
+}

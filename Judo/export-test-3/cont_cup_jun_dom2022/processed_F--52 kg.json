@@ -1,0 +1,68 @@
+{
+    "ROUND 1": {
+        "round 1-2": [
+            [
+                {
+                    "country": "VEN",
+                    "name": "Fabiola DIAZ"
+                },
+                {
+                    "country": "DOM",
+                    "name": "Francia SALAS PAULINO"
+                },
+                {
+                    "winner": "Fabiola DIAZ"
+                }
+            ],
+            [
+                {
+                    "country": "CUB",
+                    "name": "Blanca CABRERA TORRES"
+                },
+                {
+                    "country": "DOM",
+                    "name": "Ana BONILLA RODRIGUEZ"
+                },
+                {
+                    "winner": "Blanca CABRERA TORRES"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Fabiola DIAZ",
+            "Blanca CABRERA TORRES"
+        ]
+    },
+    "REPECHAGE": {
+        "round 1-1": [
+            [
+                {
+                    "country": "DOM",
+                    "name": "Francia SALAS PAULINO"
+                },
+                {
+                    "country": "DOM",
+                    "name": "Ana BONILLA RODRIGUEZ"
+                },
+                {
+                    "winner": "Francia SALAS PAULINO"
+                }
+            ],
+            [
+                {
+                    "country": "DOM",
+                    "name": "Francia SALAS PAULINO"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Francia SALAS PAULINO"
+        ]
+    },
+    "FINALS": {
+        "round 1-1": [],
+        "final_winners": [
+            "Fabiola DIAZ"
+        ]
+    }
+}

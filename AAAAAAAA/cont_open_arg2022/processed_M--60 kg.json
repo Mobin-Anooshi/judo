@@ -1,0 +1,110 @@
+{
+    "POOL A": {
+        "round 1-1": [],
+        "final_winner": "Michel AUGUSTO"
+    },
+    "POOL B": {
+        "round 1-1": [
+            [
+                {
+                    "country": "CHI",
+                    "name": "Hugo VERA"
+                },
+                {
+                    "country": "ARG",
+                    "name": "Tomas COUZO ASPITIA"
+                }
+            ]
+        ],
+        "final_winner": "Tomas COUZO ASPITIA"
+    },
+    "POOL C": {
+        "round 1-1": [
+            [
+                {
+                    "country": "MEX",
+                    "name": "Arath JUAREZ"
+                },
+                {
+                    "country": "ARG",
+                    "name": "Ignacio FREGGIARO"
+                }
+            ]
+        ],
+        "final_winner": "Arath JUAREZ"
+    },
+    "POOL D": {
+        "round 1-1": [
+            [
+                {
+                    "country": "CHI",
+                    "name": "Lucas FERNANDEZ"
+                },
+                {
+                    "country": "ARG",
+                    "name": "Angelo VILLALOBOS"
+                }
+            ]
+        ],
+        "final_winner": "Lucas FERNANDEZ"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CHI",
+                    "name": "Hugo VERA"
+                }
+            ],
+            [
+                {
+                    "country": "ARG",
+                    "name": "Ignacio FREGGIARO"
+                },
+                {
+                    "country": "ARG",
+                    "name": "Angelo VILLALOBOS"
+                },
+                {
+                    "winner": "Ignacio FREGGIARO"
+                }
+            ],
+            [
+                {
+                    "country": "CHI",
+                    "name": "Hugo VERA"
+                },
+                {
+                    "country": "MEX",
+                    "name": "Arath JUAREZ"
+                },
+                {
+                    "winner": "Hugo VERA"
+                }
+            ],
+            [
+                {
+                    "country": "ARG",
+                    "name": "Ignacio FREGGIARO"
+                },
+                {
+                    "country": "ARG",
+                    "name": "Tomas COUZO ASPITIA"
+                },
+                {
+                    "winner": "Ignacio FREGGIARO"
+                }
+            ],
+            [
+                {
+                    "country": "ARG",
+                    "name": "Ignacio FREGGIARO"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Ignacio FREGGIARO",
+            "Hugo VERA"
+        ]
+    }
+}

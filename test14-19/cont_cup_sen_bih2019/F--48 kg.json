@@ -1,0 +1,244 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "RUS",
+                    "name": "Elizaveta STEPANOVA"
+                },
+                {
+                    "winner": "Elizaveta STEPANOVA"
+                }
+            ],
+            []
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "RUS",
+                    "name": "Elizaveta STEPANOVA"
+                }
+            ]
+        ]
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "BIH",
+                    "name": "Monika ZADRO"
+                },
+                {
+                    "winner": "Monika ZADRO"
+                }
+            ],
+            [
+                {
+                    "country": "MNE",
+                    "name": "Ivana NIKOLIC"
+                },
+                {
+                    "winner": "Ivana NIKOLIC"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "BIH",
+                    "name": "Monika ZADRO"
+                },
+                {
+                    "country": "MNE",
+                    "name": "Ivana NIKOLIC"
+                }
+            ],
+            [
+                {
+                    "country": "MNE",
+                    "name": "Ivana NIKOLIC"
+                }
+            ]
+        ]
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CRO",
+                    "name": "Sara MATIJEVIC"
+                },
+                {
+                    "winner": "Sara MATIJEVIC"
+                }
+            ],
+            []
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "CRO",
+                    "name": "Sara MATIJEVIC"
+                }
+            ]
+        ]
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "MRI",
+                    "name": "Priscilla MORAND"
+                },
+                {
+                    "winner": "Priscilla MORAND"
+                }
+            ],
+            [
+                {
+                    "country": "BIH",
+                    "name": "Ana marija BRKIC"
+                },
+                {
+                    "winner": "Ana marija BRKIC"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "MRI",
+                    "name": "Priscilla MORAND"
+                },
+                {
+                    "country": "BIH",
+                    "name": "Ana marija BRKIC"
+                }
+            ],
+            [
+                {
+                    "country": "MRI",
+                    "name": "Priscilla MORAND"
+                }
+            ]
+        ]
+    },
+    "REPECHAGE": {
+        "round 1-4": [
+            [],
+            [
+                {
+                    "country": "BIH",
+                    "name": "Monika ZADRO"
+                },
+                {
+                    "winner": "Monika ZADRO"
+                }
+            ],
+            [],
+            [
+                {
+                    "country": "BIH",
+                    "name": "Ana marija BRKIC"
+                },
+                {
+                    "winner": "Ana marija BRKIC"
+                }
+            ]
+        ],
+        "round 1-2": [
+            [
+                {
+                    "country": "BIH",
+                    "name": "Monika ZADRO"
+                }
+            ],
+            [
+                {
+                    "country": "BIH",
+                    "name": "Ana marija BRKIC"
+                }
+            ],
+            [
+                {
+                    "country": "BIH",
+                    "name": "Monika ZADRO"
+                },
+                {
+                    "country": "MRI",
+                    "name": "Priscilla MORAND"
+                }
+            ],
+            [
+                {
+                    "country": "BIH",
+                    "name": "Ana marija BRKIC"
+                },
+                {
+                    "country": "MNE",
+                    "name": "Ivana NIKOLIC"
+                }
+            ],
+            [
+                {
+                    "country": "MRI",
+                    "name": "Priscilla MORAND"
+                }
+            ],
+            [
+                {
+                    "country": "MNE",
+                    "name": "Ivana NIKOLIC"
+                }
+            ]
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "RUS",
+                    "name": "Elizaveta STEPANOVA"
+                },
+                {
+                    "country": "MNE",
+                    "name": "Ivana NIKOLIC"
+                },
+                {
+                    "winner": "Elizaveta STEPANOVA"
+                }
+            ],
+            [
+                {
+                    "country": "CRO",
+                    "name": "Sara MATIJEVIC"
+                },
+                {
+                    "country": "MRI",
+                    "name": "Priscilla MORAND"
+                },
+                {
+                    "winner": "Sara MATIJEVIC"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "RUS",
+                    "name": "Elizaveta STEPANOVA"
+                },
+                {
+                    "country": "CRO",
+                    "name": "Sara MATIJEVIC"
+                }
+            ],
+            [
+                {
+                    "country": "RUS",
+                    "name": "Elizaveta STEPANOVA"
+                }
+            ]
+        ]
+    }
+}

@@ -1,0 +1,270 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "PUR",
+                    "name": "Andy LOPEZ"
+                },
+                {
+                    "country": "PAN",
+                    "name": "Fernando MARTINEZ"
+                },
+                {
+                    "winner": "Fernando MARTINEZ"
+                }
+            ],
+            [
+                {
+                    "country": "DOM",
+                    "name": "Horacio MATOS"
+                },
+                {
+                    "winner": "Horacio MATOS"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "PAN",
+                    "name": "Fernando MARTINEZ"
+                },
+                {
+                    "country": "DOM",
+                    "name": "Horacio MATOS"
+                }
+            ],
+            [
+                {
+                    "country": "PAN",
+                    "name": "Fernando MARTINEZ"
+                }
+            ]
+        ]
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "DOM",
+                    "name": "Greilin RAMIREZ"
+                },
+                {
+                    "winner": "Greilin RAMIREZ"
+                }
+            ],
+            [
+                {
+                    "country": "TTO",
+                    "name": "Luke WALKER"
+                },
+                {
+                    "winner": "Luke WALKER"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "DOM",
+                    "name": "Greilin RAMIREZ"
+                },
+                {
+                    "country": "TTO",
+                    "name": "Luke WALKER"
+                }
+            ],
+            [
+                {
+                    "country": "DOM",
+                    "name": "Greilin RAMIREZ"
+                }
+            ]
+        ]
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "BAH",
+                    "name": "Taliano FERGUSON"
+                },
+                {
+                    "winner": "Taliano FERGUSON"
+                }
+            ],
+            [
+                {
+                    "country": "DOM",
+                    "name": "Luis PEREZ"
+                },
+                {
+                    "winner": "Luis PEREZ"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "BAH",
+                    "name": "Taliano FERGUSON"
+                },
+                {
+                    "country": "DOM",
+                    "name": "Luis PEREZ"
+                }
+            ],
+            [
+                {
+                    "country": "DOM",
+                    "name": "Luis PEREZ"
+                }
+            ]
+        ]
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "DOM",
+                    "name": "Omar SANTANA"
+                },
+                {
+                    "winner": "Omar SANTANA"
+                }
+            ],
+            [
+                {
+                    "country": "HUN",
+                    "name": "Botond TOTH"
+                },
+                {
+                    "winner": "Botond TOTH"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "DOM",
+                    "name": "Omar SANTANA"
+                },
+                {
+                    "country": "HUN",
+                    "name": "Botond TOTH"
+                }
+            ],
+            [
+                {
+                    "country": "HUN",
+                    "name": "Botond TOTH"
+                }
+            ]
+        ]
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "DOM",
+                    "name": "Horacio MATOS"
+                },
+                {
+                    "country": "TTO",
+                    "name": "Luke WALKER"
+                }
+            ],
+            [
+                {
+                    "country": "BAH",
+                    "name": "Taliano FERGUSON"
+                },
+                {
+                    "country": "DOM",
+                    "name": "Omar SANTANA"
+                }
+            ],
+            [
+                {
+                    "country": "DOM",
+                    "name": "Horacio MATOS"
+                },
+                {
+                    "country": "DOM",
+                    "name": "Luis PEREZ"
+                }
+            ],
+            [
+                {
+                    "country": "DOM",
+                    "name": "Omar SANTANA"
+                },
+                {
+                    "country": "DOM",
+                    "name": "Greilin RAMIREZ"
+                }
+            ],
+            [
+                {
+                    "country": "DOM",
+                    "name": "Luis PEREZ"
+                }
+            ],
+            [
+                {
+                    "country": "DOM",
+                    "name": "Omar SANTANA"
+                }
+            ]
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "PAN",
+                    "name": "Fernando MARTINEZ"
+                },
+                {
+                    "country": "DOM",
+                    "name": "Greilin RAMIREZ"
+                },
+                {
+                    "winner": "Fernando MARTINEZ"
+                }
+            ],
+            [
+                {
+                    "country": "DOM",
+                    "name": "Luis PEREZ"
+                },
+                {
+                    "country": "HUN",
+                    "name": "Botond TOTH"
+                },
+                {
+                    "winner": "Botond TOTH"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "PAN",
+                    "name": "Fernando MARTINEZ"
+                },
+                {
+                    "country": "HUN",
+                    "name": "Botond TOTH"
+                }
+            ],
+            [
+                {
+                    "country": "HUN",
+                    "name": "Botond TOTH"
+                }
+            ]
+        ]
+    }
+}

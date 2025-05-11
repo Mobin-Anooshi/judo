@@ -1,0 +1,68 @@
+{
+    "ROUND 1": {
+        "round 1-2": [
+            [
+                {
+                    "country": "TUN",
+                    "name": "Mariem KHLIFI"
+                },
+                {
+                    "country": "MAR",
+                    "name": "Imane LHAMOURI"
+                },
+                {
+                    "winner": "Mariem KHLIFI"
+                }
+            ],
+            [
+                {
+                    "country": "AZE",
+                    "name": "Sudaba AGHAYEVA"
+                },
+                {
+                    "country": "MAR",
+                    "name": "Chaimae TAIBI"
+                },
+                {
+                    "winner": "Sudaba AGHAYEVA"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Mariem KHLIFI",
+            "Sudaba AGHAYEVA"
+        ]
+    },
+    "REPECHAGE": {
+        "round 1-1": [
+            [
+                {
+                    "country": "MAR",
+                    "name": "Imane LHAMOURI"
+                },
+                {
+                    "country": "MAR",
+                    "name": "Chaimae TAIBI"
+                },
+                {
+                    "winner": "Chaimae TAIBI"
+                }
+            ],
+            [
+                {
+                    "country": "MAR",
+                    "name": "Chaimae TAIBI"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Chaimae TAIBI"
+        ]
+    },
+    "FINALS": {
+        "round 1-1": [],
+        "final_winners": [
+            "Mariem KHLIFI"
+        ]
+    }
+}

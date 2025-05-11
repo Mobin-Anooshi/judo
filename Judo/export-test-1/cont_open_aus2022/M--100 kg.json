@@ -1,0 +1,261 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "GER",
+                    "name": "George UDSILAURI"
+                },
+                {
+                    "winner": "George UDSILAURI"
+                }
+            ],
+            [
+                {
+                    "country": "INA",
+                    "name": "Pelupessy YOHANES KRISTOPEL"
+                },
+                {
+                    "country": "SGP",
+                    "name": "Ryan GOH"
+                },
+                {
+                    "winner": "Ryan GOH"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "GER",
+                    "name": "George UDSILAURI"
+                },
+                {
+                    "country": "SGP",
+                    "name": "Ryan GOH"
+                }
+            ]
+        ],
+        "final_winner": "George UDSILAURI"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "AUS",
+                    "name": "Jakob EDWARDS"
+                },
+                {
+                    "winner": "Jakob EDWARDS"
+                }
+            ],
+            [
+                {
+                    "country": "KOR",
+                    "name": "Yejun YEO"
+                },
+                {
+                    "winner": "Yejun YEO"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "AUS",
+                    "name": "Jakob EDWARDS"
+                },
+                {
+                    "country": "KOR",
+                    "name": "Yejun YEO"
+                }
+            ]
+        ],
+        "final_winner": "Yejun YEO"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "FIJ",
+                    "name": "Tevita TAKAYAWA"
+                },
+                {
+                    "winner": "Tevita TAKAYAWA"
+                }
+            ],
+            [
+                {
+                    "country": "PAK",
+                    "name": "Qaisar KHAN"
+                },
+                {
+                    "winner": "Qaisar KHAN"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "FIJ",
+                    "name": "Tevita TAKAYAWA"
+                },
+                {
+                    "country": "PAK",
+                    "name": "Qaisar KHAN"
+                }
+            ]
+        ],
+        "final_winner": "Tevita TAKAYAWA"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "GBR",
+                    "name": "Rhys THOMPSON"
+                },
+                {
+                    "winner": "Rhys THOMPSON"
+                }
+            ],
+            [
+                {
+                    "country": "MLT",
+                    "name": "Isaac BEZZINA"
+                },
+                {
+                    "winner": "Isaac BEZZINA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "GBR",
+                    "name": "Rhys THOMPSON"
+                },
+                {
+                    "country": "MLT",
+                    "name": "Isaac BEZZINA"
+                }
+            ]
+        ],
+        "final_winner": "Rhys THOMPSON"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "SGP",
+                    "name": "Ryan GOH"
+                },
+                {
+                    "country": "AUS",
+                    "name": "Jakob EDWARDS"
+                },
+                {
+                    "winner": "Ryan GOH"
+                }
+            ],
+            [
+                {
+                    "country": "PAK",
+                    "name": "Qaisar KHAN"
+                },
+                {
+                    "country": "MLT",
+                    "name": "Isaac BEZZINA"
+                },
+                {
+                    "winner": "Isaac BEZZINA"
+                }
+            ],
+            [
+                {
+                    "country": "SGP",
+                    "name": "Ryan GOH"
+                },
+                {
+                    "country": "FIJ",
+                    "name": "Tevita TAKAYAWA"
+                },
+                {
+                    "winner": "Tevita TAKAYAWA"
+                }
+            ],
+            [
+                {
+                    "country": "MLT",
+                    "name": "Isaac BEZZINA"
+                },
+                {
+                    "country": "KOR",
+                    "name": "Yejun YEO"
+                },
+                {
+                    "winner": "Isaac BEZZINA"
+                }
+            ],
+            [
+                {
+                    "country": "FIJ",
+                    "name": "Tevita TAKAYAWA"
+                }
+            ],
+            [
+                {
+                    "country": "MLT",
+                    "name": "Isaac BEZZINA"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Tevita TAKAYAWA",
+            "Isaac BEZZINA"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "GER",
+                    "name": "George UDSILAURI"
+                },
+                {
+                    "country": "KOR",
+                    "name": "Yejun YEO"
+                },
+                {
+                    "winner": "George UDSILAURI"
+                }
+            ],
+            [
+                {
+                    "country": "FIJ",
+                    "name": "Tevita TAKAYAWA"
+                },
+                {
+                    "country": "GBR",
+                    "name": "Rhys THOMPSON"
+                },
+                {
+                    "winner": "Rhys THOMPSON"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "GER",
+                    "name": "George UDSILAURI"
+                },
+                {
+                    "country": "GBR",
+                    "name": "Rhys THOMPSON"
+                }
+            ]
+        ],
+        "final_winner": "Rhys THOMPSON"
+    }
+}

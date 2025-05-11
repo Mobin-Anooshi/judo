@@ -1,0 +1,274 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "AUS",
+                    "name": "Katharina HAECKER"
+                },
+                {
+                    "winner": "Katharina HAECKER"
+                }
+            ],
+            [
+                {
+                    "country": "USA",
+                    "name": "Misato SANDOVAL"
+                },
+                {
+                    "winner": "Misato SANDOVAL"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "AUS",
+                    "name": "Katharina HAECKER"
+                },
+                {
+                    "country": "USA",
+                    "name": "Misato SANDOVAL"
+                }
+            ],
+            [
+                {
+                    "country": "AUS",
+                    "name": "Katharina HAECKER"
+                }
+            ]
+        ]
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "AZE",
+                    "name": "Khanim HUSEYNOVA"
+                },
+                {
+                    "winner": "Khanim HUSEYNOVA"
+                }
+            ],
+            [
+                {
+                    "country": "BEL",
+                    "name": "Sandrine BILLIET"
+                },
+                {
+                    "country": "AUS",
+                    "name": "Heidi WRIGHT"
+                },
+                {
+                    "winner": "Heidi WRIGHT"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "AZE",
+                    "name": "Khanim HUSEYNOVA"
+                },
+                {
+                    "country": "AUS",
+                    "name": "Heidi WRIGHT"
+                }
+            ],
+            [
+                {
+                    "country": "AZE",
+                    "name": "Khanim HUSEYNOVA"
+                }
+            ]
+        ]
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "USA",
+                    "name": "Leilani AKIYAMA"
+                },
+                {
+                    "winner": "Leilani AKIYAMA"
+                }
+            ],
+            [
+                {
+                    "country": "AUS",
+                    "name": "Tabitha CROTON"
+                },
+                {
+                    "winner": "Tabitha CROTON"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "USA",
+                    "name": "Leilani AKIYAMA"
+                },
+                {
+                    "country": "AUS",
+                    "name": "Tabitha CROTON"
+                }
+            ],
+            [
+                {
+                    "country": "USA",
+                    "name": "Leilani AKIYAMA"
+                }
+            ]
+        ]
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CAN",
+                    "name": "Stefanie TREMBLAY"
+                },
+                {
+                    "winner": "Stefanie TREMBLAY"
+                }
+            ],
+            [
+                {
+                    "country": "LUX",
+                    "name": "Taylor KING"
+                },
+                {
+                    "country": "AUS",
+                    "name": "Amber MCINDOE"
+                },
+                {
+                    "winner": "Taylor KING"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "CAN",
+                    "name": "Stefanie TREMBLAY"
+                },
+                {
+                    "country": "LUX",
+                    "name": "Taylor KING"
+                }
+            ],
+            [
+                {
+                    "country": "CAN",
+                    "name": "Stefanie TREMBLAY"
+                }
+            ]
+        ]
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "USA",
+                    "name": "Misato SANDOVAL"
+                },
+                {
+                    "country": "AUS",
+                    "name": "Heidi WRIGHT"
+                }
+            ],
+            [
+                {
+                    "country": "AUS",
+                    "name": "Tabitha CROTON"
+                },
+                {
+                    "country": "LUX",
+                    "name": "Taylor KING"
+                }
+            ],
+            [
+                {
+                    "country": "AUS",
+                    "name": "Heidi WRIGHT"
+                },
+                {
+                    "country": "USA",
+                    "name": "Leilani AKIYAMA"
+                }
+            ],
+            [
+                {
+                    "country": "LUX",
+                    "name": "Taylor KING"
+                },
+                {
+                    "country": "AZE",
+                    "name": "Khanim HUSEYNOVA"
+                }
+            ],
+            [
+                {
+                    "country": "USA",
+                    "name": "Leilani AKIYAMA"
+                }
+            ],
+            [
+                {
+                    "country": "LUX",
+                    "name": "Taylor KING"
+                }
+            ]
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "AUS",
+                    "name": "Katharina HAECKER"
+                },
+                {
+                    "country": "AZE",
+                    "name": "Khanim HUSEYNOVA"
+                },
+                {
+                    "winner": "Katharina HAECKER"
+                }
+            ],
+            [
+                {
+                    "country": "USA",
+                    "name": "Leilani AKIYAMA"
+                },
+                {
+                    "country": "CAN",
+                    "name": "Stefanie TREMBLAY"
+                },
+                {
+                    "winner": "Stefanie TREMBLAY"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "AUS",
+                    "name": "Katharina HAECKER"
+                },
+                {
+                    "country": "CAN",
+                    "name": "Stefanie TREMBLAY"
+                }
+            ],
+            [
+                {
+                    "country": "CAN",
+                    "name": "Stefanie TREMBLAY"
+                }
+            ]
+        ]
+    }
+}

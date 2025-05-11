@@ -1,0 +1,274 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "AUS",
+                    "name": "Saskia BROTHERS"
+                },
+                {
+                    "winner": "Saskia BROTHERS"
+                }
+            ],
+            []
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "AUS",
+                    "name": "Saskia BROTHERS"
+                }
+            ]
+        ]
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "AUS",
+                    "name": "Maria SWAN"
+                },
+                {
+                    "winner": "Maria SWAN"
+                }
+            ],
+            [
+                {
+                    "country": "TPE",
+                    "name": "Ke-Sin YAN"
+                },
+                {
+                    "winner": "Ke-Sin YAN"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "AUS",
+                    "name": "Maria SWAN"
+                },
+                {
+                    "country": "TPE",
+                    "name": "Ke-Sin YAN"
+                }
+            ],
+            [
+                {
+                    "country": "AUS",
+                    "name": "Maria SWAN"
+                }
+            ]
+        ]
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "MGL",
+                    "name": "Sunjidmaa TSOG-OCHIR"
+                },
+                {
+                    "winner": "Sunjidmaa TSOG-OCHIR"
+                }
+            ],
+            [
+                {
+                    "country": "IND",
+                    "name": "Unnati SHARMA"
+                },
+                {
+                    "winner": "Unnati SHARMA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "MGL",
+                    "name": "Sunjidmaa TSOG-OCHIR"
+                },
+                {
+                    "country": "IND",
+                    "name": "Unnati SHARMA"
+                }
+            ],
+            [
+                {
+                    "country": "MGL",
+                    "name": "Sunjidmaa TSOG-OCHIR"
+                }
+            ]
+        ]
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "HKG",
+                    "name": "Wing Laam CHEUNG"
+                },
+                {
+                    "winner": "Wing Laam CHEUNG"
+                }
+            ],
+            [
+                {
+                    "country": "KOR",
+                    "name": "Chaewon SHIN"
+                },
+                {
+                    "winner": "Chaewon SHIN"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "HKG",
+                    "name": "Wing Laam CHEUNG"
+                },
+                {
+                    "country": "KOR",
+                    "name": "Chaewon SHIN"
+                }
+            ],
+            [
+                {
+                    "country": "KOR",
+                    "name": "Chaewon SHIN"
+                }
+            ]
+        ]
+    },
+    "REPECHAGE": {
+        "round 1-4": [
+            [],
+            [
+                {
+                    "country": "TPE",
+                    "name": "Ke-Sin YAN"
+                },
+                {
+                    "winner": "Ke-Sin YAN"
+                }
+            ],
+            [
+                {
+                    "country": "IND",
+                    "name": "Unnati SHARMA"
+                },
+                {
+                    "winner": "Unnati SHARMA"
+                }
+            ],
+            [
+                {
+                    "country": "HKG",
+                    "name": "Wing Laam CHEUNG"
+                },
+                {
+                    "winner": "Wing Laam CHEUNG"
+                }
+            ]
+        ],
+        "round 1-2": [
+            [
+                {
+                    "country": "TPE",
+                    "name": "Ke-Sin YAN"
+                }
+            ],
+            [
+                {
+                    "country": "IND",
+                    "name": "Unnati SHARMA"
+                },
+                {
+                    "country": "HKG",
+                    "name": "Wing Laam CHEUNG"
+                }
+            ],
+            [
+                {
+                    "country": "TPE",
+                    "name": "Ke-Sin YAN"
+                },
+                {
+                    "country": "MGL",
+                    "name": "Sunjidmaa TSOG-OCHIR"
+                }
+            ],
+            [
+                {
+                    "country": "IND",
+                    "name": "Unnati SHARMA"
+                },
+                {
+                    "country": "AUS",
+                    "name": "Maria SWAN"
+                }
+            ],
+            [
+                {
+                    "country": "MGL",
+                    "name": "Sunjidmaa TSOG-OCHIR"
+                }
+            ],
+            [
+                {
+                    "country": "AUS",
+                    "name": "Maria SWAN"
+                }
+            ]
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "AUS",
+                    "name": "Saskia BROTHERS"
+                },
+                {
+                    "country": "AUS",
+                    "name": "Maria SWAN"
+                },
+                {
+                    "winner": "Saskia BROTHERS"
+                }
+            ],
+            [
+                {
+                    "country": "MGL",
+                    "name": "Sunjidmaa TSOG-OCHIR"
+                },
+                {
+                    "country": "KOR",
+                    "name": "Chaewon SHIN"
+                },
+                {
+                    "winner": "Chaewon SHIN"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "AUS",
+                    "name": "Saskia BROTHERS"
+                },
+                {
+                    "country": "KOR",
+                    "name": "Chaewon SHIN"
+                }
+            ],
+            [
+                {
+                    "country": "KOR",
+                    "name": "Chaewon SHIN"
+                }
+            ]
+        ]
+    }
+}

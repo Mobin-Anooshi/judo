@@ -1,0 +1,281 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "GEO",
+                    "name": "Eteri LIPARTELIANI"
+                },
+                {
+                    "winner": "Eteri LIPARTELIANI"
+                }
+            ],
+            [
+                {
+                    "country": "BRA",
+                    "name": "Bianca REIS"
+                },
+                {
+                    "country": "JPN",
+                    "name": "Ayami TAKANO"
+                },
+                {
+                    "winner": "Ayami TAKANO"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "GEO",
+                    "name": "Eteri LIPARTELIANI"
+                },
+                {
+                    "country": "JPN",
+                    "name": "Ayami TAKANO"
+                }
+            ]
+        ],
+        "final_winner": "Ayami TAKANO"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Jessica LIMA"
+                },
+                {
+                    "country": "ROU",
+                    "name": "Vanessa TOLEA"
+                },
+                {
+                    "winner": "Jessica LIMA"
+                }
+            ],
+            [
+                {
+                    "country": "ITA",
+                    "name": "Veronica TONIOLO"
+                },
+                {
+                    "country": "AZE",
+                    "name": "Fidan GASIMOVA"
+                },
+                {
+                    "winner": "Veronica TONIOLO"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Jessica LIMA"
+                },
+                {
+                    "country": "ITA",
+                    "name": "Veronica TONIOLO"
+                }
+            ]
+        ],
+        "final_winner": "Jessica LIMA"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "SRB",
+                    "name": "Marica PERISIC"
+                },
+                {
+                    "winner": "Marica PERISIC"
+                }
+            ],
+            [
+                {
+                    "country": "AZE",
+                    "name": "Fidan ALIZADA"
+                },
+                {
+                    "country": "SLO",
+                    "name": "Jevgenija GAJIC"
+                },
+                {
+                    "winner": "Fidan ALIZADA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "SRB",
+                    "name": "Marica PERISIC"
+                },
+                {
+                    "country": "AZE",
+                    "name": "Fidan ALIZADA"
+                }
+            ]
+        ],
+        "final_winner": "Marica PERISIC"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "GER",
+                    "name": "Seija BALLHAUS"
+                },
+                {
+                    "country": "ESP",
+                    "name": "Malin WILSON CLARET"
+                },
+                {
+                    "winner": "Seija BALLHAUS"
+                }
+            ],
+            [
+                {
+                    "country": "JPN",
+                    "name": "Momo TAMAOKI"
+                },
+                {
+                    "country": "AUS",
+                    "name": "Tinka EASTON"
+                },
+                {
+                    "winner": "Momo TAMAOKI"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "GER",
+                    "name": "Seija BALLHAUS"
+                },
+                {
+                    "country": "JPN",
+                    "name": "Momo TAMAOKI"
+                }
+            ]
+        ],
+        "final_winner": "Momo TAMAOKI"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "GEO",
+                    "name": "Eteri LIPARTELIANI"
+                },
+                {
+                    "country": "ITA",
+                    "name": "Veronica TONIOLO"
+                },
+                {
+                    "winner": "Veronica TONIOLO"
+                }
+            ],
+            [
+                {
+                    "country": "AZE",
+                    "name": "Fidan ALIZADA"
+                },
+                {
+                    "country": "GER",
+                    "name": "Seija BALLHAUS"
+                },
+                {
+                    "winner": "Seija BALLHAUS"
+                }
+            ],
+            [
+                {
+                    "country": "ITA",
+                    "name": "Veronica TONIOLO"
+                },
+                {
+                    "country": "SRB",
+                    "name": "Marica PERISIC"
+                },
+                {
+                    "winner": "Marica PERISIC"
+                }
+            ],
+            [
+                {
+                    "country": "GER",
+                    "name": "Seija BALLHAUS"
+                },
+                {
+                    "country": "BRA",
+                    "name": "Jessica LIMA"
+                },
+                {
+                    "winner": "Seija BALLHAUS"
+                }
+            ],
+            [
+                {
+                    "country": "SRB",
+                    "name": "Marica PERISIC"
+                }
+            ],
+            [
+                {
+                    "country": "GER",
+                    "name": "Seija BALLHAUS"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Marica PERISIC",
+            "Seija BALLHAUS"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "JPN",
+                    "name": "Ayami TAKANO"
+                },
+                {
+                    "country": "BRA",
+                    "name": "Jessica LIMA"
+                },
+                {
+                    "winner": "Ayami TAKANO"
+                }
+            ],
+            [
+                {
+                    "country": "SRB",
+                    "name": "Marica PERISIC"
+                },
+                {
+                    "country": "JPN",
+                    "name": "Momo TAMAOKI"
+                },
+                {
+                    "winner": "Momo TAMAOKI"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "JPN",
+                    "name": "Ayami TAKANO"
+                },
+                {
+                    "country": "JPN",
+                    "name": "Momo TAMAOKI"
+                }
+            ]
+        ],
+        "final_winner": "Momo TAMAOKI"
+    }
+}

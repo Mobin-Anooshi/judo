@@ -1,0 +1,285 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "KOR",
+                    "name": "Da-Sol PARK"
+                },
+                {
+                    "country": "HKG",
+                    "name": "Shuk Ki TSUI"
+                },
+                {
+                    "winner": "Da-Sol PARK"
+                }
+            ],
+            [
+                {
+                    "country": "UZB",
+                    "name": "Diyora KELDIYOROVA"
+                },
+                {
+                    "country": "AUS",
+                    "name": "Kimberley CHALMERS"
+                },
+                {
+                    "winner": "Diyora KELDIYOROVA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "KOR",
+                    "name": "Da-Sol PARK"
+                },
+                {
+                    "country": "UZB",
+                    "name": "Diyora KELDIYOROVA"
+                }
+            ]
+        ],
+        "final_winner": "Diyora KELDIYOROVA"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "TKM",
+                    "name": "Gulbadam BABAMURATOVA"
+                },
+                {
+                    "country": "KAZ",
+                    "name": "Anna KAZYULINA"
+                },
+                {
+                    "winner": "Gulbadam BABAMURATOVA"
+                }
+            ],
+            [
+                {
+                    "country": "PRK",
+                    "name": "Song Sim RIM"
+                },
+                {
+                    "country": "VIE",
+                    "name": "Thuy NGUYEN"
+                },
+                {
+                    "winner": "Song Sim RIM"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "TKM",
+                    "name": "Gulbadam BABAMURATOVA"
+                },
+                {
+                    "country": "PRK",
+                    "name": "Song Sim RIM"
+                }
+            ]
+        ],
+        "final_winner": "Song Sim RIM"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "AUS",
+                    "name": "Tinka EASTON"
+                },
+                {
+                    "country": "CHN",
+                    "name": "Kexin ZHANG"
+                },
+                {
+                    "winner": "Tinka EASTON"
+                }
+            ],
+            [
+                {
+                    "country": "JPN",
+                    "name": "Rina TATSUKAWA"
+                },
+                {
+                    "country": "BAN",
+                    "name": "Singma Pru MARMA"
+                },
+                {
+                    "winner": "Rina TATSUKAWA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "AUS",
+                    "name": "Tinka EASTON"
+                },
+                {
+                    "country": "JPN",
+                    "name": "Rina TATSUKAWA"
+                }
+            ]
+        ],
+        "final_winner": "Rina TATSUKAWA"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "MGL",
+                    "name": "Sosorbaram LKHAGVASUREN"
+                },
+                {
+                    "country": "TPE",
+                    "name": "Hsu-Wan-Chu LIN"
+                },
+                {
+                    "winner": "Sosorbaram LKHAGVASUREN"
+                }
+            ],
+            [
+                {
+                    "country": "THA",
+                    "name": "Kachakorn WARASIHA"
+                },
+                {
+                    "winner": "Kachakorn WARASIHA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "MGL",
+                    "name": "Sosorbaram LKHAGVASUREN"
+                },
+                {
+                    "country": "THA",
+                    "name": "Kachakorn WARASIHA"
+                }
+            ]
+        ],
+        "final_winner": "Sosorbaram LKHAGVASUREN"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "KOR",
+                    "name": "Da-Sol PARK"
+                },
+                {
+                    "country": "TKM",
+                    "name": "Gulbadam BABAMURATOVA"
+                },
+                {
+                    "winner": "Da-Sol PARK"
+                }
+            ],
+            [
+                {
+                    "country": "AUS",
+                    "name": "Tinka EASTON"
+                },
+                {
+                    "country": "THA",
+                    "name": "Kachakorn WARASIHA"
+                },
+                {
+                    "winner": "Kachakorn WARASIHA"
+                }
+            ],
+            [
+                {
+                    "country": "KOR",
+                    "name": "Da-Sol PARK"
+                },
+                {
+                    "country": "JPN",
+                    "name": "Rina TATSUKAWA"
+                },
+                {
+                    "winner": "Rina TATSUKAWA"
+                }
+            ],
+            [
+                {
+                    "country": "THA",
+                    "name": "Kachakorn WARASIHA"
+                },
+                {
+                    "country": "PRK",
+                    "name": "Song Sim RIM"
+                },
+                {
+                    "winner": "Song Sim RIM"
+                }
+            ],
+            [
+                {
+                    "country": "JPN",
+                    "name": "Rina TATSUKAWA"
+                }
+            ],
+            [
+                {
+                    "country": "PRK",
+                    "name": "Song Sim RIM"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Rina TATSUKAWA",
+            "Song Sim RIM"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "UZB",
+                    "name": "Diyora KELDIYOROVA"
+                },
+                {
+                    "country": "PRK",
+                    "name": "Song Sim RIM"
+                },
+                {
+                    "winner": "Diyora KELDIYOROVA"
+                }
+            ],
+            [
+                {
+                    "country": "JPN",
+                    "name": "Rina TATSUKAWA"
+                },
+                {
+                    "country": "MGL",
+                    "name": "Sosorbaram LKHAGVASUREN"
+                },
+                {
+                    "winner": "Sosorbaram LKHAGVASUREN"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "UZB",
+                    "name": "Diyora KELDIYOROVA"
+                },
+                {
+                    "country": "MGL",
+                    "name": "Sosorbaram LKHAGVASUREN"
+                }
+            ]
+        ],
+        "final_winner": "Diyora KELDIYOROVA"
+    }
+}

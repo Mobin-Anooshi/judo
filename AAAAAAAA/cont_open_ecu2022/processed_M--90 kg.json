@@ -1,0 +1,141 @@
+{
+    "POOL A": {
+        "round 1-1": [],
+        "final_winner": "Alexander KNAUF"
+    },
+    "POOL B": {
+        "round 1-1": [
+            [
+                {
+                    "country": "USA",
+                    "name": "Geronimo SAUCEDO"
+                },
+                {
+                    "country": "ECU",
+                    "name": "Edison MOGOLLON"
+                }
+            ]
+        ],
+        "final_winner": "Geronimo SAUCEDO"
+    },
+    "POOL C": {
+        "round 1-1": [],
+        "final_winner": "Mariano COTO BERSIER"
+    },
+    "POOL D": {
+        "round 1-1": [
+            [
+                {
+                    "country": "COL",
+                    "name": "Daniel PAZ ALBARRACIN"
+                },
+                {
+                    "country": "ECU",
+                    "name": "Cesar NARANJO"
+                }
+            ]
+        ],
+        "final_winner": "Daniel PAZ ALBARRACIN"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ECU",
+                    "name": "Edison MOGOLLON"
+                }
+            ],
+            [
+                {
+                    "country": "ECU",
+                    "name": "Cesar NARANJO"
+                }
+            ],
+            [
+                {
+                    "country": "ECU",
+                    "name": "Edison MOGOLLON"
+                },
+                {
+                    "country": "COL",
+                    "name": "Daniel PAZ ALBARRACIN"
+                },
+                {
+                    "winner": "Daniel PAZ ALBARRACIN"
+                }
+            ],
+            [
+                {
+                    "country": "ECU",
+                    "name": "Cesar NARANJO"
+                },
+                {
+                    "country": "USA",
+                    "name": "Geronimo SAUCEDO"
+                },
+                {
+                    "winner": "Geronimo SAUCEDO"
+                }
+            ],
+            [
+                {
+                    "country": "COL",
+                    "name": "Daniel PAZ ALBARRACIN"
+                }
+            ],
+            [
+                {
+                    "country": "USA",
+                    "name": "Geronimo SAUCEDO"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Daniel PAZ ALBARRACIN",
+            "Geronimo SAUCEDO"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "USA",
+                    "name": "Alexander KNAUF"
+                },
+                {
+                    "country": "USA",
+                    "name": "Geronimo SAUCEDO"
+                },
+                {
+                    "winner": "Alexander KNAUF"
+                }
+            ],
+            [
+                {
+                    "country": "ARG",
+                    "name": "Mariano COTO BERSIER"
+                },
+                {
+                    "country": "COL",
+                    "name": "Daniel PAZ ALBARRACIN"
+                },
+                {
+                    "winner": "Mariano COTO BERSIER"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "USA",
+                    "name": "Alexander KNAUF"
+                },
+                {
+                    "country": "ARG",
+                    "name": "Mariano COTO BERSIER"
+                }
+            ]
+        ],
+        "final_winner": "Alexander KNAUF"
+    }
+}

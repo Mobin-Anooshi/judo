@@ -1,0 +1,285 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "NED",
+                    "name": "Hilde JAGER"
+                },
+                {
+                    "winner": "Hilde JAGER"
+                }
+            ],
+            [
+                {
+                    "country": "NED",
+                    "name": "Margit DE VOOGD"
+                },
+                {
+                    "country": "BLR",
+                    "name": "Viktoryia NOVIKAVA"
+                },
+                {
+                    "winner": "Margit DE VOOGD"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "NED",
+                    "name": "Hilde JAGER"
+                },
+                {
+                    "country": "NED",
+                    "name": "Margit DE VOOGD"
+                }
+            ]
+        ],
+        "final_winner": "Hilde JAGER"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "GER",
+                    "name": "Sarah MAEKELBURG"
+                },
+                {
+                    "country": "RUS",
+                    "name": "Elvira DONTSOVA"
+                },
+                {
+                    "winner": "Elvira DONTSOVA"
+                }
+            ],
+            [
+                {
+                    "country": "GER",
+                    "name": "Alina BOEHM"
+                },
+                {
+                    "country": "CRO",
+                    "name": "Lucija BABIC"
+                },
+                {
+                    "winner": "Alina BOEHM"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "RUS",
+                    "name": "Elvira DONTSOVA"
+                },
+                {
+                    "country": "GER",
+                    "name": "Alina BOEHM"
+                }
+            ]
+        ],
+        "final_winner": "Alina BOEHM"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "BIH",
+                    "name": "Aleksandra SAMARDZIC"
+                },
+                {
+                    "country": "ITA",
+                    "name": "Ilaria QUALIZZA"
+                },
+                {
+                    "winner": "Aleksandra SAMARDZIC"
+                }
+            ],
+            [
+                {
+                    "country": "CRO",
+                    "name": "Andela VIOLIC"
+                },
+                {
+                    "country": "SUI",
+                    "name": "Gioia VETTERLI"
+                },
+                {
+                    "winner": "Andela VIOLIC"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "BIH",
+                    "name": "Aleksandra SAMARDZIC"
+                },
+                {
+                    "country": "CRO",
+                    "name": "Andela VIOLIC"
+                }
+            ]
+        ],
+        "final_winner": "Andela VIOLIC"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "GEO",
+                    "name": "Mariam TCHANTURIA"
+                },
+                {
+                    "country": "ISR",
+                    "name": "Maya GOSHEN"
+                },
+                {
+                    "winner": "Mariam TCHANTURIA"
+                }
+            ],
+            [
+                {
+                    "country": "BLR",
+                    "name": "Zhanna ASIPOVICH"
+                },
+                {
+                    "country": "TUR",
+                    "name": "Semanur ERDOGAN"
+                },
+                {
+                    "winner": "Zhanna ASIPOVICH"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "GEO",
+                    "name": "Mariam TCHANTURIA"
+                },
+                {
+                    "country": "BLR",
+                    "name": "Zhanna ASIPOVICH"
+                }
+            ]
+        ],
+        "final_winner": "Mariam TCHANTURIA"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "NED",
+                    "name": "Margit DE VOOGD"
+                },
+                {
+                    "country": "RUS",
+                    "name": "Elvira DONTSOVA"
+                },
+                {
+                    "winner": "Margit DE VOOGD"
+                }
+            ],
+            [
+                {
+                    "country": "BIH",
+                    "name": "Aleksandra SAMARDZIC"
+                },
+                {
+                    "country": "BLR",
+                    "name": "Zhanna ASIPOVICH"
+                },
+                {
+                    "winner": "Aleksandra SAMARDZIC"
+                }
+            ],
+            [
+                {
+                    "country": "NED",
+                    "name": "Margit DE VOOGD"
+                },
+                {
+                    "country": "CRO",
+                    "name": "Andela VIOLIC"
+                },
+                {
+                    "winner": "Margit DE VOOGD"
+                }
+            ],
+            [
+                {
+                    "country": "BIH",
+                    "name": "Aleksandra SAMARDZIC"
+                },
+                {
+                    "country": "GER",
+                    "name": "Alina BOEHM"
+                },
+                {
+                    "winner": "Alina BOEHM"
+                }
+            ],
+            [
+                {
+                    "country": "NED",
+                    "name": "Margit DE VOOGD"
+                }
+            ],
+            [
+                {
+                    "country": "GER",
+                    "name": "Alina BOEHM"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Margit DE VOOGD",
+            "Alina BOEHM"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "NED",
+                    "name": "Hilde JAGER"
+                },
+                {
+                    "country": "GER",
+                    "name": "Alina BOEHM"
+                },
+                {
+                    "winner": "Hilde JAGER"
+                }
+            ],
+            [
+                {
+                    "country": "CRO",
+                    "name": "Andela VIOLIC"
+                },
+                {
+                    "country": "GEO",
+                    "name": "Mariam TCHANTURIA"
+                },
+                {
+                    "winner": "Mariam TCHANTURIA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "NED",
+                    "name": "Hilde JAGER"
+                },
+                {
+                    "country": "GEO",
+                    "name": "Mariam TCHANTURIA"
+                }
+            ]
+        ],
+        "final_winner": "Mariam TCHANTURIA"
+    }
+}

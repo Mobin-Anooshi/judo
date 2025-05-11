@@ -1,0 +1,158 @@
+{
+    "POOL A": {
+        "round 1-1": [
+            [
+                {
+                    "country": "MEX",
+                    "name": "Sergio DEL SOL"
+                }
+            ]
+        ]
+    },
+    "POOL B": {
+        "round 1-1": [
+            [
+                {
+                    "country": "ARG",
+                    "name": "Alejo BURGOS"
+                },
+                {
+                    "country": "VEN",
+                    "name": "Luis AMEZQUITA"
+                }
+            ],
+            [
+                {
+                    "country": "VEN",
+                    "name": "Luis AMEZQUITA"
+                }
+            ]
+        ]
+    },
+    "POOL C": {
+        "round 1-1": [
+            [
+                {
+                    "country": "ECU",
+                    "name": "Freddy FIGUEROA"
+                }
+            ]
+        ]
+    },
+    "POOL D": {
+        "round 1-1": [
+            [
+                {
+                    "country": "COL",
+                    "name": "Juan Camilo LANDAZURI"
+                },
+                {
+                    "country": "BRA",
+                    "name": "Gabriel DOS SANTOS"
+                }
+            ],
+            [
+                {
+                    "country": "BRA",
+                    "name": "Gabriel DOS SANTOS"
+                }
+            ]
+        ]
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ARG",
+                    "name": "Alejo BURGOS"
+                }
+            ],
+            [
+                {
+                    "country": "COL",
+                    "name": "Juan Camilo LANDAZURI"
+                }
+            ],
+            [
+                {
+                    "country": "ARG",
+                    "name": "Alejo BURGOS"
+                },
+                {
+                    "country": "BRA",
+                    "name": "Gabriel DOS SANTOS"
+                }
+            ],
+            [
+                {
+                    "country": "COL",
+                    "name": "Juan Camilo LANDAZURI"
+                },
+                {
+                    "country": "VEN",
+                    "name": "Luis AMEZQUITA"
+                }
+            ],
+            [
+                {
+                    "country": "BRA",
+                    "name": "Gabriel DOS SANTOS"
+                }
+            ],
+            [
+                {
+                    "country": "VEN",
+                    "name": "Luis AMEZQUITA"
+                }
+            ]
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "MEX",
+                    "name": "Sergio DEL SOL"
+                },
+                {
+                    "country": "VEN",
+                    "name": "Luis AMEZQUITA"
+                },
+                {
+                    "winner": "Sergio DEL SOL"
+                }
+            ],
+            [
+                {
+                    "country": "ECU",
+                    "name": "Freddy FIGUEROA"
+                },
+                {
+                    "country": "BRA",
+                    "name": "Gabriel DOS SANTOS"
+                },
+                {
+                    "winner": "Freddy FIGUEROA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "MEX",
+                    "name": "Sergio DEL SOL"
+                },
+                {
+                    "country": "ECU",
+                    "name": "Freddy FIGUEROA"
+                }
+            ],
+            [
+                {
+                    "country": "ECU",
+                    "name": "Freddy FIGUEROA"
+                }
+            ]
+        ]
+    }
+}

@@ -1,0 +1,277 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "PER",
+                    "name": "Juan POSTIGOS"
+                },
+                {
+                    "winner": "Juan POSTIGOS"
+                }
+            ],
+            [
+                {
+                    "country": "PER",
+                    "name": "Victor CHIRA ROMERO"
+                },
+                {
+                    "country": "ECU",
+                    "name": "Maykel GUERRERO"
+                },
+                {
+                    "winner": "Maykel GUERRERO"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "PER",
+                    "name": "Juan POSTIGOS"
+                },
+                {
+                    "country": "ECU",
+                    "name": "Maykel GUERRERO"
+                }
+            ]
+        ],
+        "final_winner": "Juan POSTIGOS"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "PER",
+                    "name": "Roberto SUAREZ JARA"
+                },
+                {
+                    "country": "BRA",
+                    "name": "Lucas GODOY"
+                },
+                {
+                    "winner": "Lucas GODOY"
+                }
+            ],
+            [
+                {
+                    "country": "COL",
+                    "name": "Juan HERNANDEZ"
+                },
+                {
+                    "country": "DOM",
+                    "name": "Victor PENA"
+                },
+                {
+                    "winner": "Juan HERNANDEZ"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Lucas GODOY"
+                },
+                {
+                    "country": "COL",
+                    "name": "Juan HERNANDEZ"
+                }
+            ]
+        ],
+        "final_winner": "Lucas GODOY"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CUB",
+                    "name": "Oniel SOLIS"
+                },
+                {
+                    "winner": "Oniel SOLIS"
+                }
+            ],
+            [
+                {
+                    "country": "PER",
+                    "name": "Michael PATINO"
+                },
+                {
+                    "country": "ECU",
+                    "name": "Ariel LUNA"
+                },
+                {
+                    "winner": "Ariel LUNA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "CUB",
+                    "name": "Oniel SOLIS"
+                },
+                {
+                    "country": "ECU",
+                    "name": "Ariel LUNA"
+                }
+            ]
+        ],
+        "final_winner": "Oniel SOLIS"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "COL",
+                    "name": "Jorge GONZALEZ"
+                },
+                {
+                    "winner": "Jorge GONZALEZ"
+                }
+            ],
+            [
+                {
+                    "country": "HAI",
+                    "name": "Gerard CADET"
+                },
+                {
+                    "country": "ECU",
+                    "name": "Byron GUILLEN"
+                },
+                {
+                    "winner": "Byron GUILLEN"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "COL",
+                    "name": "Jorge GONZALEZ"
+                },
+                {
+                    "country": "ECU",
+                    "name": "Byron GUILLEN"
+                }
+            ]
+        ],
+        "final_winner": "Jorge GONZALEZ"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ECU",
+                    "name": "Maykel GUERRERO"
+                },
+                {
+                    "country": "COL",
+                    "name": "Juan HERNANDEZ"
+                },
+                {
+                    "winner": "Juan HERNANDEZ"
+                }
+            ],
+            [
+                {
+                    "country": "ECU",
+                    "name": "Ariel LUNA"
+                },
+                {
+                    "country": "ECU",
+                    "name": "Byron GUILLEN"
+                },
+                {
+                    "winner": "Ariel LUNA"
+                }
+            ],
+            [
+                {
+                    "country": "COL",
+                    "name": "Juan HERNANDEZ"
+                },
+                {
+                    "country": "COL",
+                    "name": "Jorge GONZALEZ"
+                },
+                {
+                    "winner": "Jorge GONZALEZ"
+                }
+            ],
+            [
+                {
+                    "country": "ECU",
+                    "name": "Ariel LUNA"
+                },
+                {
+                    "country": "PER",
+                    "name": "Juan POSTIGOS"
+                },
+                {
+                    "winner": "Juan POSTIGOS"
+                }
+            ],
+            [
+                {
+                    "country": "COL",
+                    "name": "Jorge GONZALEZ"
+                }
+            ],
+            [
+                {
+                    "country": "PER",
+                    "name": "Juan POSTIGOS"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Jorge GONZALEZ",
+            "Juan POSTIGOS"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "PER",
+                    "name": "Juan POSTIGOS"
+                },
+                {
+                    "country": "BRA",
+                    "name": "Lucas GODOY"
+                },
+                {
+                    "winner": "Lucas GODOY"
+                }
+            ],
+            [
+                {
+                    "country": "CUB",
+                    "name": "Oniel SOLIS"
+                },
+                {
+                    "country": "COL",
+                    "name": "Jorge GONZALEZ"
+                },
+                {
+                    "winner": "Oniel SOLIS"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Lucas GODOY"
+                },
+                {
+                    "country": "CUB",
+                    "name": "Oniel SOLIS"
+                }
+            ]
+        ],
+        "final_winner": "Oniel SOLIS"
+    }
+}

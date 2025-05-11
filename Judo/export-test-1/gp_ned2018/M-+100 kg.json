@@ -1,0 +1,281 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "POL",
+                    "name": "Maciej SARNACKI"
+                },
+                {
+                    "winner": "Maciej SARNACKI"
+                }
+            ],
+            [
+                {
+                    "country": "USA",
+                    "name": "Ajax TADEHARA"
+                },
+                {
+                    "country": "ITA",
+                    "name": "Vincenzo D ARCO"
+                },
+                {
+                    "winner": "Vincenzo D ARCO"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "POL",
+                    "name": "Maciej SARNACKI"
+                },
+                {
+                    "country": "ITA",
+                    "name": "Vincenzo D ARCO"
+                }
+            ]
+        ],
+        "final_winner": "Vincenzo D ARCO"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "TUN",
+                    "name": "Faicel JABALLAH"
+                },
+                {
+                    "country": "UKR",
+                    "name": "Andrii KOLESNYK"
+                },
+                {
+                    "winner": "Andrii KOLESNYK"
+                }
+            ],
+            [
+                {
+                    "country": "ROU",
+                    "name": "Vladut SIMIONESCU"
+                },
+                {
+                    "country": "ESP",
+                    "name": "Angel PARRA"
+                },
+                {
+                    "winner": "Vladut SIMIONESCU"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "UKR",
+                    "name": "Andrii KOLESNYK"
+                },
+                {
+                    "country": "ROU",
+                    "name": "Vladut SIMIONESCU"
+                }
+            ]
+        ],
+        "final_winner": "Vladut SIMIONESCU"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "NED",
+                    "name": "Roy MEYER"
+                },
+                {
+                    "winner": "Roy MEYER"
+                }
+            ],
+            [
+                {
+                    "country": "UKR",
+                    "name": "Yakiv KHAMMO"
+                },
+                {
+                    "country": "GER",
+                    "name": "Sven HEINLE"
+                },
+                {
+                    "winner": "Yakiv KHAMMO"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "NED",
+                    "name": "Roy MEYER"
+                },
+                {
+                    "country": "UKR",
+                    "name": "Yakiv KHAMMO"
+                }
+            ]
+        ],
+        "final_winner": "Yakiv KHAMMO"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "NED",
+                    "name": "Henk GROL"
+                },
+                {
+                    "country": "RUS",
+                    "name": "Alexander MIKHAYLIN"
+                },
+                {
+                    "winner": "Alexander MIKHAYLIN"
+                }
+            ],
+            [
+                {
+                    "country": "NED",
+                    "name": "Jur SPIJKERS"
+                },
+                {
+                    "country": "CHN",
+                    "name": "Yongjie YIN"
+                },
+                {
+                    "winner": "Jur SPIJKERS"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "RUS",
+                    "name": "Alexander MIKHAYLIN"
+                },
+                {
+                    "country": "NED",
+                    "name": "Jur SPIJKERS"
+                }
+            ]
+        ],
+        "final_winner": "Jur SPIJKERS"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "POL",
+                    "name": "Maciej SARNACKI"
+                },
+                {
+                    "country": "UKR",
+                    "name": "Andrii KOLESNYK"
+                },
+                {
+                    "winner": "Maciej SARNACKI"
+                }
+            ],
+            [
+                {
+                    "country": "NED",
+                    "name": "Roy MEYER"
+                },
+                {
+                    "country": "RUS",
+                    "name": "Alexander MIKHAYLIN"
+                },
+                {
+                    "winner": "Roy MEYER"
+                }
+            ],
+            [
+                {
+                    "country": "POL",
+                    "name": "Maciej SARNACKI"
+                },
+                {
+                    "country": "NED",
+                    "name": "Jur SPIJKERS"
+                },
+                {
+                    "winner": "Maciej SARNACKI"
+                }
+            ],
+            [
+                {
+                    "country": "NED",
+                    "name": "Roy MEYER"
+                },
+                {
+                    "country": "ITA",
+                    "name": "Vincenzo D ARCO"
+                },
+                {
+                    "winner": "Roy MEYER"
+                }
+            ],
+            [
+                {
+                    "country": "POL",
+                    "name": "Maciej SARNACKI"
+                }
+            ],
+            [
+                {
+                    "country": "NED",
+                    "name": "Roy MEYER"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Maciej SARNACKI",
+            "Roy MEYER"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ITA",
+                    "name": "Vincenzo D ARCO"
+                },
+                {
+                    "country": "ROU",
+                    "name": "Vladut SIMIONESCU"
+                },
+                {
+                    "winner": "Vladut SIMIONESCU"
+                }
+            ],
+            [
+                {
+                    "country": "UKR",
+                    "name": "Yakiv KHAMMO"
+                },
+                {
+                    "country": "NED",
+                    "name": "Jur SPIJKERS"
+                },
+                {
+                    "winner": "Yakiv KHAMMO"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "ROU",
+                    "name": "Vladut SIMIONESCU"
+                },
+                {
+                    "country": "UKR",
+                    "name": "Yakiv KHAMMO"
+                }
+            ]
+        ],
+        "final_winner": "Yakiv KHAMMO"
+    }
+}

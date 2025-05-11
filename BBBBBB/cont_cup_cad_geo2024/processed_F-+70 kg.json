@@ -1,0 +1,177 @@
+{
+    "POOL A": {
+        "round 1-1": [
+            [
+                {
+                    "country": "GEO",
+                    "name": "Barbare GELASHVILI"
+                },
+                {
+                    "country": "GEO",
+                    "name": "Tamari GETSADZE"
+                }
+            ]
+        ],
+        "final_winner": "Barbare GELASHVILI"
+    },
+    "POOL B": {
+        "round 1-1": [
+            [
+                {
+                    "country": "ISR",
+                    "name": "Tali HORES"
+                },
+                {
+                    "country": "GEO",
+                    "name": "Ana GAGOSHIDZE"
+                }
+            ]
+        ],
+        "final_winner": "Tali HORES"
+    },
+    "POOL C": {
+        "round 1-1": [
+            [
+                {
+                    "country": "EST",
+                    "name": "Gayane POGOSYAN"
+                },
+                {
+                    "country": "GEO",
+                    "name": "Nia KAPIANIDZE"
+                }
+            ]
+        ],
+        "final_winner": "Gayane POGOSYAN"
+    },
+    "POOL D": {
+        "round 1-1": [
+            [
+                {
+                    "country": "GEO",
+                    "name": "Nona KVARATSKHELIA"
+                },
+                {
+                    "country": "ITA",
+                    "name": "Eva COSTNER"
+                }
+            ]
+        ],
+        "final_winner": "Nona KVARATSKHELIA"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "GEO",
+                    "name": "Tamari GETSADZE"
+                },
+                {
+                    "country": "GEO",
+                    "name": "Ana GAGOSHIDZE"
+                },
+                {
+                    "winner": "Tamari GETSADZE"
+                }
+            ],
+            [
+                {
+                    "country": "GEO",
+                    "name": "Nia KAPIANIDZE"
+                },
+                {
+                    "country": "ITA",
+                    "name": "Eva COSTNER"
+                },
+                {
+                    "winner": "Eva COSTNER"
+                }
+            ],
+            [
+                {
+                    "country": "GEO",
+                    "name": "Tamari GETSADZE"
+                },
+                {
+                    "country": "GEO",
+                    "name": "Nona KVARATSKHELIA"
+                },
+                {
+                    "winner": "Nona KVARATSKHELIA"
+                }
+            ],
+            [
+                {
+                    "country": "ITA",
+                    "name": "Eva COSTNER"
+                },
+                {
+                    "country": "ISR",
+                    "name": "Tali HORES"
+                },
+                {
+                    "winner": "Eva COSTNER"
+                }
+            ],
+            [
+                {
+                    "country": "GEO",
+                    "name": "Nona KVARATSKHELIA"
+                }
+            ],
+            [
+                {
+                    "country": "ITA",
+                    "name": "Eva COSTNER"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Nona KVARATSKHELIA",
+            "Eva COSTNER"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "GEO",
+                    "name": "Barbare GELASHVILI"
+                },
+                {
+                    "country": "ISR",
+                    "name": "Tali HORES"
+                },
+                {
+                    "winner": "Barbare GELASHVILI"
+                }
+            ],
+            [
+                {
+                    "country": "EST",
+                    "name": "Gayane POGOSYAN"
+                },
+                {
+                    "country": "GEO",
+                    "name": "Nona KVARATSKHELIA"
+                },
+                {
+                    "winner": "Gayane POGOSYAN"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "GEO",
+                    "name": "Barbare GELASHVILI"
+                },
+                {
+                    "country": "EST",
+                    "name": "Gayane POGOSYAN"
+                }
+            ]
+        ],
+        "final_winner": "Barbare GELASHVILI"
+    }
+}

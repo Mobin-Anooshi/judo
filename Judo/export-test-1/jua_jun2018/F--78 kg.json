@@ -1,0 +1,217 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "UZB",
+                    "name": "Nodira YULDASHEVA"
+                },
+                {
+                    "winner": "Nodira YULDASHEVA"
+                }
+            ],
+            [
+                {
+                    "country": "IND",
+                    "name": "Nutan SHARMA"
+                },
+                {
+                    "country": "NEP",
+                    "name": "Punam SHRESTHA"
+                }
+            ]
+        ],
+        "round 1-1": [],
+        "final_winner": "Nodira YULDASHEVA"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "IND",
+                    "name": "Nutan SHARMA"
+                },
+                {
+                    "winner": "Nutan SHARMA"
+                }
+            ],
+            [
+                {
+                    "country": "NEP",
+                    "name": "Punam SHRESTHA"
+                },
+                {
+                    "winner": "Punam SHRESTHA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "IND",
+                    "name": "Nutan SHARMA"
+                },
+                {
+                    "country": "NEP",
+                    "name": "Punam SHRESTHA"
+                }
+            ]
+        ],
+        "final_winner": "Nutan SHARMA"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "KAZ",
+                    "name": "Nazerke TILEUKHANOVA"
+                },
+                {
+                    "winner": "Nazerke TILEUKHANOVA"
+                }
+            ],
+            [
+                {
+                    "country": "TPE",
+                    "name": "Yi-Jun CHEN"
+                },
+                {
+                    "winner": "Yi-Jun CHEN"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "KAZ",
+                    "name": "Nazerke TILEUKHANOVA"
+                },
+                {
+                    "country": "TPE",
+                    "name": "Yi-Jun CHEN"
+                }
+            ]
+        ],
+        "final_winner": "Nazerke TILEUKHANOVA"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "UZB",
+                    "name": "Nodira YULDASHEVA"
+                },
+                {
+                    "country": "IND",
+                    "name": "Nutan SHARMA"
+                }
+            ],
+            [
+                {
+                    "country": "KOR",
+                    "name": "Soyeon PARK"
+                },
+                {
+                    "winner": "Soyeon PARK"
+                }
+            ]
+        ],
+        "round 1-1": [],
+        "final_winner": "Soyeon PARK"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "NEP",
+                    "name": "Punam SHRESTHA"
+                }
+            ],
+            [
+                {
+                    "country": "TPE",
+                    "name": "Yi-Jun CHEN"
+                }
+            ],
+            [
+                {
+                    "country": "NEP",
+                    "name": "Punam SHRESTHA"
+                },
+                {
+                    "country": "KAZ",
+                    "name": "Nazerke TILEUKHANOVA"
+                },
+                {
+                    "winner": "Nazerke TILEUKHANOVA"
+                }
+            ],
+            [
+                {
+                    "country": "TPE",
+                    "name": "Yi-Jun CHEN"
+                },
+                {
+                    "country": "IND",
+                    "name": "Nutan SHARMA"
+                },
+                {
+                    "winner": "Yi-Jun CHEN"
+                }
+            ],
+            [
+                {
+                    "country": "KAZ",
+                    "name": "Nazerke TILEUKHANOVA"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Yi-Jun CHEN",
+            "Nazerke TILEUKHANOVA"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "UZB",
+                    "name": "Nodira YULDASHEVA"
+                },
+                {
+                    "country": "IND",
+                    "name": "Nutan SHARMA"
+                },
+                {
+                    "winner": "Nodira YULDASHEVA"
+                }
+            ],
+            [
+                {
+                    "country": "KAZ",
+                    "name": "Nazerke TILEUKHANOVA"
+                },
+                {
+                    "country": "KOR",
+                    "name": "Soyeon PARK"
+                },
+                {
+                    "winner": "Soyeon PARK"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "UZB",
+                    "name": "Nodira YULDASHEVA"
+                },
+                {
+                    "country": "KOR",
+                    "name": "Soyeon PARK"
+                }
+            ]
+        ],
+        "final_winner": "Nodira YULDASHEVA"
+    }
+}

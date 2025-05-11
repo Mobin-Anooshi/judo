@@ -1,0 +1,153 @@
+{
+    "POOL A": {
+        "round 1-1": [],
+        "final_winner": "Marcelina VRANJES"
+    },
+    "POOL B": {
+        "round 1-1": [
+            [
+                {
+                    "country": "GEO",
+                    "name": "Nino PAPIDZE"
+                },
+                {
+                    "country": "MKD",
+                    "name": "Borjana POP ATANASOVA"
+                }
+            ]
+        ],
+        "final_winner": "Nino PAPIDZE"
+    },
+    "POOL C": {
+        "round 1-1": [
+            [
+                {
+                    "country": "MNE",
+                    "name": "Jovana MRVALJEVIC"
+                },
+                {
+                    "country": "MKD",
+                    "name": "Katerina ACEVSKA"
+                }
+            ]
+        ],
+        "final_winner": "Jovana MRVALJEVIC"
+    },
+    "POOL D": {
+        "round 1-1": [
+            [
+                {
+                    "country": "SLO",
+                    "name": "Tara JANJIC"
+                },
+                {
+                    "country": "BUL",
+                    "name": "Polina KOLEVA"
+                }
+            ]
+        ],
+        "final_winner": "Tara JANJIC"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "MKD",
+                    "name": "Borjana POP ATANASOVA"
+                }
+            ],
+            [
+                {
+                    "country": "MKD",
+                    "name": "Katerina ACEVSKA"
+                },
+                {
+                    "country": "BUL",
+                    "name": "Polina KOLEVA"
+                },
+                {
+                    "winner": "Polina KOLEVA"
+                }
+            ],
+            [
+                {
+                    "country": "MKD",
+                    "name": "Borjana POP ATANASOVA"
+                },
+                {
+                    "country": "SLO",
+                    "name": "Tara JANJIC"
+                },
+                {
+                    "winner": "Borjana POP ATANASOVA"
+                }
+            ],
+            [
+                {
+                    "country": "BUL",
+                    "name": "Polina KOLEVA"
+                },
+                {
+                    "country": "GEO",
+                    "name": "Nino PAPIDZE"
+                },
+                {
+                    "winner": "Polina KOLEVA"
+                }
+            ],
+            [
+                {
+                    "country": "BUL",
+                    "name": "Polina KOLEVA"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Polina KOLEVA",
+            "Borjana POP ATANASOVA"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CRO",
+                    "name": "Marcelina VRANJES"
+                },
+                {
+                    "country": "GEO",
+                    "name": "Nino PAPIDZE"
+                },
+                {
+                    "winner": "Marcelina VRANJES"
+                }
+            ],
+            [
+                {
+                    "country": "MNE",
+                    "name": "Jovana MRVALJEVIC"
+                },
+                {
+                    "country": "SLO",
+                    "name": "Tara JANJIC"
+                },
+                {
+                    "winner": "Jovana MRVALJEVIC"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "CRO",
+                    "name": "Marcelina VRANJES"
+                },
+                {
+                    "country": "MNE",
+                    "name": "Jovana MRVALJEVIC"
+                }
+            ]
+        ],
+        "final_winner": "Marcelina VRANJES"
+    }
+}

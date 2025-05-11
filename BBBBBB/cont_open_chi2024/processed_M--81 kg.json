@@ -1,0 +1,177 @@
+{
+    "POOL A": {
+        "round 1-1": [
+            [
+                {
+                    "country": "CHI",
+                    "name": "Jorge PEREZ"
+                },
+                {
+                    "country": "USA",
+                    "name": "Ramon HERNANDEZ JR"
+                }
+            ]
+        ],
+        "final_winner": "Jorge PEREZ"
+    },
+    "POOL B": {
+        "round 1-1": [
+            [
+                {
+                    "country": "CHI",
+                    "name": "Franco TOSCANINI"
+                },
+                {
+                    "country": "CHI",
+                    "name": "Agustin VENEGAS"
+                }
+            ]
+        ],
+        "final_winner": "Franco TOSCANINI"
+    },
+    "POOL C": {
+        "round 1-1": [
+            [
+                {
+                    "country": "URU",
+                    "name": "Rodrigo GAMOU"
+                },
+                {
+                    "country": "CHI",
+                    "name": "Demis GOMEZ"
+                }
+            ]
+        ],
+        "final_winner": "Demis GOMEZ"
+    },
+    "POOL D": {
+        "round 1-1": [
+            [
+                {
+                    "country": "VAN",
+                    "name": "Hugo CUMBO"
+                },
+                {
+                    "country": "CHI",
+                    "name": "Nicolas LEYTON"
+                }
+            ]
+        ],
+        "final_winner": "Hugo CUMBO"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "USA",
+                    "name": "Ramon HERNANDEZ JR"
+                },
+                {
+                    "country": "CHI",
+                    "name": "Agustin VENEGAS"
+                },
+                {
+                    "winner": "Ramon HERNANDEZ JR"
+                }
+            ],
+            [
+                {
+                    "country": "URU",
+                    "name": "Rodrigo GAMOU"
+                },
+                {
+                    "country": "CHI",
+                    "name": "Nicolas LEYTON"
+                },
+                {
+                    "winner": "Nicolas LEYTON"
+                }
+            ],
+            [
+                {
+                    "country": "USA",
+                    "name": "Ramon HERNANDEZ JR"
+                },
+                {
+                    "country": "VAN",
+                    "name": "Hugo CUMBO"
+                },
+                {
+                    "winner": "Ramon HERNANDEZ JR"
+                }
+            ],
+            [
+                {
+                    "country": "CHI",
+                    "name": "Nicolas LEYTON"
+                },
+                {
+                    "country": "CHI",
+                    "name": "Franco TOSCANINI"
+                },
+                {
+                    "winner": "Franco TOSCANINI"
+                }
+            ],
+            [
+                {
+                    "country": "USA",
+                    "name": "Ramon HERNANDEZ JR"
+                }
+            ],
+            [
+                {
+                    "country": "CHI",
+                    "name": "Franco TOSCANINI"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Ramon HERNANDEZ JR",
+            "Franco TOSCANINI"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CHI",
+                    "name": "Jorge PEREZ"
+                },
+                {
+                    "country": "CHI",
+                    "name": "Franco TOSCANINI"
+                },
+                {
+                    "winner": "Jorge PEREZ"
+                }
+            ],
+            [
+                {
+                    "country": "CHI",
+                    "name": "Demis GOMEZ"
+                },
+                {
+                    "country": "VAN",
+                    "name": "Hugo CUMBO"
+                },
+                {
+                    "winner": "Demis GOMEZ"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "CHI",
+                    "name": "Jorge PEREZ"
+                },
+                {
+                    "country": "CHI",
+                    "name": "Demis GOMEZ"
+                }
+            ]
+        ],
+        "final_winner": "Jorge PEREZ"
+    }
+}

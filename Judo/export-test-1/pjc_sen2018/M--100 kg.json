@@ -1,0 +1,273 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CUB",
+                    "name": "Jose ARMENTEROS"
+                },
+                {
+                    "winner": "Jose ARMENTEROS"
+                }
+            ],
+            [
+                {
+                    "country": "DOM",
+                    "name": "Lewis MEDINA"
+                },
+                {
+                    "country": "MEX",
+                    "name": "Isao CARDENAS"
+                },
+                {
+                    "winner": "Lewis MEDINA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "CUB",
+                    "name": "Jose ARMENTEROS"
+                },
+                {
+                    "country": "DOM",
+                    "name": "Lewis MEDINA"
+                }
+            ]
+        ],
+        "final_winner": "Lewis MEDINA"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "URU",
+                    "name": "Pablo APRAHAMIAN"
+                },
+                {
+                    "winner": "Pablo APRAHAMIAN"
+                }
+            ],
+            [
+                {
+                    "country": "USA",
+                    "name": "L.A. SMITH III"
+                },
+                {
+                    "country": "GUA",
+                    "name": "Armando PINEDA"
+                },
+                {
+                    "winner": "L.A. SMITH III"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "URU",
+                    "name": "Pablo APRAHAMIAN"
+                },
+                {
+                    "country": "USA",
+                    "name": "L.A. SMITH III"
+                }
+            ]
+        ],
+        "final_winner": "L.A. SMITH III"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Leonardo GONCALVES"
+                },
+                {
+                    "winner": "Leonardo GONCALVES"
+                }
+            ],
+            [
+                {
+                    "country": "COL",
+                    "name": "Carlos GARZON"
+                },
+                {
+                    "country": "PER",
+                    "name": "Frank ALVARADO"
+                },
+                {
+                    "winner": "Carlos GARZON"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Leonardo GONCALVES"
+                },
+                {
+                    "country": "COL",
+                    "name": "Carlos GARZON"
+                }
+            ]
+        ],
+        "final_winner": "Leonardo GONCALVES"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "DOM",
+                    "name": "Jose NOVA ALCANTARA"
+                },
+                {
+                    "winner": "Jose NOVA ALCANTARA"
+                }
+            ],
+            [
+                {
+                    "country": "MEX",
+                    "name": "Alexis ESQUIVEL"
+                },
+                {
+                    "country": "VEN",
+                    "name": "Luis AMEZQUITA"
+                },
+                {
+                    "winner": "Alexis ESQUIVEL"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "DOM",
+                    "name": "Jose NOVA ALCANTARA"
+                },
+                {
+                    "country": "MEX",
+                    "name": "Alexis ESQUIVEL"
+                }
+            ]
+        ],
+        "final_winner": "Jose NOVA ALCANTARA"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CUB",
+                    "name": "Jose ARMENTEROS"
+                },
+                {
+                    "country": "URU",
+                    "name": "Pablo APRAHAMIAN"
+                },
+                {
+                    "winner": "Jose ARMENTEROS"
+                }
+            ],
+            [
+                {
+                    "country": "COL",
+                    "name": "Carlos GARZON"
+                },
+                {
+                    "country": "MEX",
+                    "name": "Alexis ESQUIVEL"
+                },
+                {
+                    "winner": "Alexis ESQUIVEL"
+                }
+            ],
+            [
+                {
+                    "country": "CUB",
+                    "name": "Jose ARMENTEROS"
+                },
+                {
+                    "country": "DOM",
+                    "name": "Jose NOVA ALCANTARA"
+                },
+                {
+                    "winner": "Jose ARMENTEROS"
+                }
+            ],
+            [
+                {
+                    "country": "MEX",
+                    "name": "Alexis ESQUIVEL"
+                },
+                {
+                    "country": "USA",
+                    "name": "L.A. SMITH III"
+                },
+                {
+                    "winner": "L.A. SMITH III"
+                }
+            ],
+            [
+                {
+                    "country": "CUB",
+                    "name": "Jose ARMENTEROS"
+                }
+            ],
+            [
+                {
+                    "country": "USA",
+                    "name": "L.A. SMITH III"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Jose ARMENTEROS",
+            "L.A. SMITH III"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "DOM",
+                    "name": "Lewis MEDINA"
+                },
+                {
+                    "country": "USA",
+                    "name": "L.A. SMITH III"
+                },
+                {
+                    "winner": "Lewis MEDINA"
+                }
+            ],
+            [
+                {
+                    "country": "BRA",
+                    "name": "Leonardo GONCALVES"
+                },
+                {
+                    "country": "DOM",
+                    "name": "Jose NOVA ALCANTARA"
+                },
+                {
+                    "winner": "Leonardo GONCALVES"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "DOM",
+                    "name": "Lewis MEDINA"
+                },
+                {
+                    "country": "BRA",
+                    "name": "Leonardo GONCALVES"
+                }
+            ]
+        ],
+        "final_winner": "Leonardo GONCALVES"
+    }
+}

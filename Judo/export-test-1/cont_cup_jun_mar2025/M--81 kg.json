@@ -1,0 +1,153 @@
+{
+    "POOL A": {
+        "round 1-1": [],
+        "final_winner": "Namory KEITA"
+    },
+    "POOL B": {
+        "round 1-1": [
+            [
+                {
+                    "country": "MAR",
+                    "name": "Ali EL KHEMMAL"
+                },
+                {
+                    "country": "LTU",
+                    "name": "Aidas PILECKAS"
+                }
+            ]
+        ],
+        "final_winner": "Aidas PILECKAS"
+    },
+    "POOL C": {
+        "round 1-1": [
+            [
+                {
+                    "country": "MAR",
+                    "name": "Moncif BELLA"
+                },
+                {
+                    "country": "TUN",
+                    "name": "Amanallah HARROUM"
+                }
+            ]
+        ],
+        "final_winner": "Moncif BELLA"
+    },
+    "POOL D": {
+        "round 1-1": [
+            [
+                {
+                    "country": "MLI",
+                    "name": "Mahamadou DOUCARA"
+                },
+                {
+                    "country": "MAR",
+                    "name": "Mohamed Ilias HARRIZ"
+                }
+            ]
+        ],
+        "final_winner": "Mahamadou DOUCARA"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "MAR",
+                    "name": "Ali EL KHEMMAL"
+                }
+            ],
+            [
+                {
+                    "country": "TUN",
+                    "name": "Amanallah HARROUM"
+                },
+                {
+                    "country": "MAR",
+                    "name": "Mohamed Ilias HARRIZ"
+                },
+                {
+                    "winner": "Amanallah HARROUM"
+                }
+            ],
+            [
+                {
+                    "country": "MAR",
+                    "name": "Ali EL KHEMMAL"
+                },
+                {
+                    "country": "MAR",
+                    "name": "Moncif BELLA"
+                },
+                {
+                    "winner": "Ali EL KHEMMAL"
+                }
+            ],
+            [
+                {
+                    "country": "TUN",
+                    "name": "Amanallah HARROUM"
+                },
+                {
+                    "country": "LTU",
+                    "name": "Aidas PILECKAS"
+                },
+                {
+                    "winner": "Amanallah HARROUM"
+                }
+            ],
+            [
+                {
+                    "country": "TUN",
+                    "name": "Amanallah HARROUM"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Amanallah HARROUM",
+            "Ali EL KHEMMAL"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "SEN",
+                    "name": "Namory KEITA"
+                },
+                {
+                    "country": "LTU",
+                    "name": "Aidas PILECKAS"
+                },
+                {
+                    "winner": "Namory KEITA"
+                }
+            ],
+            [
+                {
+                    "country": "MAR",
+                    "name": "Moncif BELLA"
+                },
+                {
+                    "country": "MLI",
+                    "name": "Mahamadou DOUCARA"
+                },
+                {
+                    "winner": "Mahamadou DOUCARA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "SEN",
+                    "name": "Namory KEITA"
+                },
+                {
+                    "country": "MLI",
+                    "name": "Mahamadou DOUCARA"
+                }
+            ]
+        ],
+        "final_winner": "Namory KEITA"
+    }
+}

@@ -1,0 +1,159 @@
+{
+    "POOL A": {
+        "round 1-1": [],
+        "final_winner": "Ryley RAMETTA"
+    },
+    "POOL B": {
+        "round 1-1": [
+            [
+                {
+                    "country": "AUS",
+                    "name": "Gabrielle WOODWARD"
+                },
+                {
+                    "country": "NZL",
+                    "name": "Roberta GRIFFITHS"
+                }
+            ]
+        ],
+        "final_winner": "Roberta GRIFFITHS"
+    },
+    "POOL C": {
+        "round 1-1": [
+            [
+                {
+                    "country": "IND",
+                    "name": "Unnati SHARMA"
+                },
+                {
+                    "country": "MAC",
+                    "name": "Ian I LEI"
+                }
+            ]
+        ],
+        "final_winner": "Unnati SHARMA"
+    },
+    "POOL D": {
+        "round 1-1": [
+            [
+                {
+                    "country": "MGL",
+                    "name": "Maralmaa KHURELCHULUUN"
+                },
+                {
+                    "country": "SGP",
+                    "name": "Yuxuan ZHEN"
+                }
+            ]
+        ],
+        "final_winner": "Maralmaa KHURELCHULUUN"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "AUS",
+                    "name": "Gabrielle WOODWARD"
+                }
+            ],
+            [
+                {
+                    "country": "MAC",
+                    "name": "Ian I LEI"
+                },
+                {
+                    "country": "SGP",
+                    "name": "Yuxuan ZHEN"
+                },
+                {
+                    "winner": "Yuxuan ZHEN"
+                }
+            ],
+            [
+                {
+                    "country": "AUS",
+                    "name": "Gabrielle WOODWARD"
+                },
+                {
+                    "country": "MGL",
+                    "name": "Maralmaa KHURELCHULUUN"
+                },
+                {
+                    "winner": "Maralmaa KHURELCHULUUN"
+                }
+            ],
+            [
+                {
+                    "country": "SGP",
+                    "name": "Yuxuan ZHEN"
+                },
+                {
+                    "country": "NZL",
+                    "name": "Roberta GRIFFITHS"
+                },
+                {
+                    "winner": "Yuxuan ZHEN"
+                }
+            ],
+            [
+                {
+                    "country": "MGL",
+                    "name": "Maralmaa KHURELCHULUUN"
+                }
+            ],
+            [
+                {
+                    "country": "SGP",
+                    "name": "Yuxuan ZHEN"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Maralmaa KHURELCHULUUN",
+            "Yuxuan ZHEN"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "AUS",
+                    "name": "Ryley RAMETTA"
+                },
+                {
+                    "country": "NZL",
+                    "name": "Roberta GRIFFITHS"
+                },
+                {
+                    "winner": "Ryley RAMETTA"
+                }
+            ],
+            [
+                {
+                    "country": "IND",
+                    "name": "Unnati SHARMA"
+                },
+                {
+                    "country": "MGL",
+                    "name": "Maralmaa KHURELCHULUUN"
+                },
+                {
+                    "winner": "Unnati SHARMA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "AUS",
+                    "name": "Ryley RAMETTA"
+                },
+                {
+                    "country": "IND",
+                    "name": "Unnati SHARMA"
+                }
+            ]
+        ],
+        "final_winner": "Unnati SHARMA"
+    }
+}

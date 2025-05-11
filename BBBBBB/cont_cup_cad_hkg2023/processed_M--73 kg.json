@@ -1,0 +1,261 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "HKG",
+                    "name": "Pak Hin NG"
+                },
+                {
+                    "winner": "Pak Hin NG"
+                }
+            ],
+            [
+                {
+                    "country": "AUS",
+                    "name": "Nicholas MCCLIFTY"
+                },
+                {
+                    "winner": "Nicholas MCCLIFTY"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "HKG",
+                    "name": "Pak Hin NG"
+                },
+                {
+                    "country": "AUS",
+                    "name": "Nicholas MCCLIFTY"
+                }
+            ]
+        ],
+        "final_winner": "Nicholas MCCLIFTY"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "KSA",
+                    "name": "Saud ALZAHRANI"
+                },
+                {
+                    "winner": "Saud ALZAHRANI"
+                }
+            ],
+            [
+                {
+                    "country": "MGL",
+                    "name": "Shinetulga BADRAKH"
+                },
+                {
+                    "winner": "Shinetulga BADRAKH"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "KSA",
+                    "name": "Saud ALZAHRANI"
+                },
+                {
+                    "country": "MGL",
+                    "name": "Shinetulga BADRAKH"
+                }
+            ]
+        ],
+        "final_winner": "Shinetulga BADRAKH"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "HKG",
+                    "name": "Ngai Tik Eddy NG"
+                },
+                {
+                    "country": "UKR",
+                    "name": "Yevhen DEMENT"
+                },
+                {
+                    "winner": "Yevhen DEMENT"
+                }
+            ],
+            [
+                {
+                    "country": "MGL",
+                    "name": "Zaya SOYOL-ERDENE"
+                },
+                {
+                    "winner": "Zaya SOYOL-ERDENE"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "UKR",
+                    "name": "Yevhen DEMENT"
+                },
+                {
+                    "country": "MGL",
+                    "name": "Zaya SOYOL-ERDENE"
+                }
+            ]
+        ],
+        "final_winner": "Zaya SOYOL-ERDENE"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "USA",
+                    "name": "Heinrich HANADA"
+                },
+                {
+                    "winner": "Heinrich HANADA"
+                }
+            ],
+            [
+                {
+                    "country": "MAC",
+                    "name": "Hong Wai LEI"
+                },
+                {
+                    "winner": "Hong Wai LEI"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "USA",
+                    "name": "Heinrich HANADA"
+                },
+                {
+                    "country": "MAC",
+                    "name": "Hong Wai LEI"
+                }
+            ]
+        ],
+        "final_winner": "Heinrich HANADA"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "HKG",
+                    "name": "Pak Hin NG"
+                },
+                {
+                    "country": "KSA",
+                    "name": "Saud ALZAHRANI"
+                },
+                {
+                    "winner": "Pak Hin NG"
+                }
+            ],
+            [
+                {
+                    "country": "UKR",
+                    "name": "Yevhen DEMENT"
+                },
+                {
+                    "country": "MAC",
+                    "name": "Hong Wai LEI"
+                },
+                {
+                    "winner": "Yevhen DEMENT"
+                }
+            ],
+            [
+                {
+                    "country": "HKG",
+                    "name": "Pak Hin NG"
+                },
+                {
+                    "country": "USA",
+                    "name": "Heinrich HANADA"
+                },
+                {
+                    "winner": "Pak Hin NG"
+                }
+            ],
+            [
+                {
+                    "country": "UKR",
+                    "name": "Yevhen DEMENT"
+                },
+                {
+                    "country": "AUS",
+                    "name": "Nicholas MCCLIFTY"
+                },
+                {
+                    "winner": "Yevhen DEMENT"
+                }
+            ],
+            [
+                {
+                    "country": "HKG",
+                    "name": "Pak Hin NG"
+                }
+            ],
+            [
+                {
+                    "country": "UKR",
+                    "name": "Yevhen DEMENT"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Pak Hin NG",
+            "Yevhen DEMENT"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "AUS",
+                    "name": "Nicholas MCCLIFTY"
+                },
+                {
+                    "country": "MGL",
+                    "name": "Shinetulga BADRAKH"
+                },
+                {
+                    "winner": "Shinetulga BADRAKH"
+                }
+            ],
+            [
+                {
+                    "country": "MGL",
+                    "name": "Zaya SOYOL-ERDENE"
+                },
+                {
+                    "country": "USA",
+                    "name": "Heinrich HANADA"
+                },
+                {
+                    "winner": "Zaya SOYOL-ERDENE"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "MGL",
+                    "name": "Shinetulga BADRAKH"
+                },
+                {
+                    "country": "MGL",
+                    "name": "Zaya SOYOL-ERDENE"
+                }
+            ]
+        ],
+        "final_winner": "Shinetulga BADRAKH"
+    }
+}

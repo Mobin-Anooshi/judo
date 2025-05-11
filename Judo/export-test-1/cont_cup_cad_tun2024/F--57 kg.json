@@ -1,0 +1,135 @@
+{
+    "POOL A": {
+        "round 1-1": [],
+        "final_winner": "Israa BEN SALEM"
+    },
+    "POOL B": {
+        "round 1-1": [
+            [
+                {
+                    "country": "TUN",
+                    "name": "Asma FARHAT"
+                },
+                {
+                    "country": "LTU",
+                    "name": "Deimante CESLAUSKAITE"
+                }
+            ]
+        ],
+        "final_winner": "Asma FARHAT"
+    },
+    "POOL C": {
+        "round 1-1": [
+            [
+                {
+                    "country": "ALG",
+                    "name": "Hanane BRAHIMI"
+                },
+                {
+                    "country": "TUN",
+                    "name": "Yosr BE NASR"
+                }
+            ]
+        ],
+        "final_winner": "Hanane BRAHIMI"
+    },
+    "POOL D": {
+        "round 1-1": [],
+        "final_winner": "Ranim BEN SLIMAN"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "LTU",
+                    "name": "Deimante CESLAUSKAITE"
+                }
+            ],
+            [
+                {
+                    "country": "TUN",
+                    "name": "Yosr BE NASR"
+                }
+            ],
+            [
+                {
+                    "country": "LTU",
+                    "name": "Deimante CESLAUSKAITE"
+                },
+                {
+                    "country": "TUN",
+                    "name": "Ranim BEN SLIMAN"
+                },
+                {
+                    "winner": "Ranim BEN SLIMAN"
+                }
+            ],
+            [
+                {
+                    "country": "TUN",
+                    "name": "Yosr BE NASR"
+                },
+                {
+                    "country": "TUN",
+                    "name": "Israa BEN SALEM"
+                },
+                {
+                    "winner": "Yosr BE NASR"
+                }
+            ],
+            [
+                {
+                    "country": "TUN",
+                    "name": "Ranim BEN SLIMAN"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Yosr BE NASR",
+            "Ranim BEN SLIMAN"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "TUN",
+                    "name": "Israa BEN SALEM"
+                },
+                {
+                    "country": "TUN",
+                    "name": "Asma FARHAT"
+                },
+                {
+                    "winner": "Asma FARHAT"
+                }
+            ],
+            [
+                {
+                    "country": "ALG",
+                    "name": "Hanane BRAHIMI"
+                },
+                {
+                    "country": "TUN",
+                    "name": "Ranim BEN SLIMAN"
+                },
+                {
+                    "winner": "Hanane BRAHIMI"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "TUN",
+                    "name": "Asma FARHAT"
+                },
+                {
+                    "country": "ALG",
+                    "name": "Hanane BRAHIMI"
+                }
+            ]
+        ],
+        "final_winner": "Asma FARHAT"
+    }
+}

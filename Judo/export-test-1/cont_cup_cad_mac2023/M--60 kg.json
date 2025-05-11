@@ -1,0 +1,159 @@
+{
+    "POOL A": {
+        "round 1-1": [],
+        "final_winner": "Vas MIDDLETON"
+    },
+    "POOL B": {
+        "round 1-1": [
+            [
+                {
+                    "country": "KOR",
+                    "name": "Jimin YOON"
+                },
+                {
+                    "country": "MAC",
+                    "name": "Weng Pong IAO"
+                }
+            ]
+        ],
+        "final_winner": "Jimin YOON"
+    },
+    "POOL C": {
+        "round 1-1": [
+            [
+                {
+                    "country": "MGL",
+                    "name": "Khatanbaatar SUKHBAATAR"
+                },
+                {
+                    "country": "KSA",
+                    "name": "Fares ALJOHAR"
+                }
+            ]
+        ],
+        "final_winner": "Khatanbaatar SUKHBAATAR"
+    },
+    "POOL D": {
+        "round 1-1": [
+            [
+                {
+                    "country": "AUS",
+                    "name": "Jack BANNISTER"
+                },
+                {
+                    "country": "KOR",
+                    "name": "Hyunjin YANG"
+                }
+            ]
+        ],
+        "final_winner": "Hyunjin YANG"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "MAC",
+                    "name": "Weng Pong IAO"
+                }
+            ],
+            [
+                {
+                    "country": "KSA",
+                    "name": "Fares ALJOHAR"
+                },
+                {
+                    "country": "AUS",
+                    "name": "Jack BANNISTER"
+                },
+                {
+                    "winner": "Jack BANNISTER"
+                }
+            ],
+            [
+                {
+                    "country": "MAC",
+                    "name": "Weng Pong IAO"
+                },
+                {
+                    "country": "KOR",
+                    "name": "Hyunjin YANG"
+                },
+                {
+                    "winner": "Hyunjin YANG"
+                }
+            ],
+            [
+                {
+                    "country": "AUS",
+                    "name": "Jack BANNISTER"
+                },
+                {
+                    "country": "KOR",
+                    "name": "Jimin YOON"
+                },
+                {
+                    "winner": "Jack BANNISTER"
+                }
+            ],
+            [
+                {
+                    "country": "KOR",
+                    "name": "Hyunjin YANG"
+                }
+            ],
+            [
+                {
+                    "country": "AUS",
+                    "name": "Jack BANNISTER"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Hyunjin YANG",
+            "Jack BANNISTER"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "AUS",
+                    "name": "Vas MIDDLETON"
+                },
+                {
+                    "country": "KOR",
+                    "name": "Jimin YOON"
+                },
+                {
+                    "winner": "Vas MIDDLETON"
+                }
+            ],
+            [
+                {
+                    "country": "MGL",
+                    "name": "Khatanbaatar SUKHBAATAR"
+                },
+                {
+                    "country": "KOR",
+                    "name": "Hyunjin YANG"
+                },
+                {
+                    "winner": "Khatanbaatar SUKHBAATAR"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "AUS",
+                    "name": "Vas MIDDLETON"
+                },
+                {
+                    "country": "MGL",
+                    "name": "Khatanbaatar SUKHBAATAR"
+                }
+            ]
+        ],
+        "final_winner": "Khatanbaatar SUKHBAATAR"
+    }
+}

@@ -1,0 +1,289 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "EGY",
+                    "name": "Aly ABDELAAL"
+                },
+                {
+                    "country": "ALG",
+                    "name": "Ahmed BENMECHETA"
+                },
+                {
+                    "winner": "Aly ABDELAAL"
+                }
+            ],
+            [
+                {
+                    "country": "IRQ",
+                    "name": "Abbas AL-FURAIJI"
+                },
+                {
+                    "country": "CYP",
+                    "name": "Petros KESOV"
+                },
+                {
+                    "winner": "Petros KESOV"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "EGY",
+                    "name": "Aly ABDELAAL"
+                },
+                {
+                    "country": "CYP",
+                    "name": "Petros KESOV"
+                }
+            ]
+        ],
+        "final_winner": "Petros KESOV"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ALG",
+                    "name": "Abdelmalek MATALI"
+                },
+                {
+                    "country": "ANG",
+                    "name": "Santos SEBASTIAO"
+                },
+                {
+                    "winner": "Abdelmalek MATALI"
+                }
+            ],
+            [
+                {
+                    "country": "FRA",
+                    "name": "Rassoul KHAITAEV"
+                },
+                {
+                    "country": "TUN",
+                    "name": "Rayen MEJRI"
+                },
+                {
+                    "winner": "Rassoul KHAITAEV"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "ALG",
+                    "name": "Abdelmalek MATALI"
+                },
+                {
+                    "country": "FRA",
+                    "name": "Rassoul KHAITAEV"
+                }
+            ]
+        ],
+        "final_winner": "Rassoul KHAITAEV"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "KSA",
+                    "name": "Mohammed ALHAJRI"
+                },
+                {
+                    "country": "BIH",
+                    "name": "Domagoj PUSIC"
+                },
+                {
+                    "winner": "Domagoj PUSIC"
+                }
+            ],
+            [
+                {
+                    "country": "TUN",
+                    "name": "Houssine BEN MEHREZ"
+                },
+                {
+                    "country": "FRA",
+                    "name": "Bastien PONS"
+                },
+                {
+                    "winner": "Bastien PONS"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "BIH",
+                    "name": "Domagoj PUSIC"
+                },
+                {
+                    "country": "FRA",
+                    "name": "Bastien PONS"
+                }
+            ]
+        ],
+        "final_winner": "Bastien PONS"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "EGY",
+                    "name": "Ziad ELDALY"
+                },
+                {
+                    "country": "ALG",
+                    "name": "Youcef DJAOUADI"
+                },
+                {
+                    "winner": "Ziad ELDALY"
+                }
+            ],
+            [
+                {
+                    "country": "KEN",
+                    "name": "Daniel Ndung U KARANJA"
+                },
+                {
+                    "country": "TUN",
+                    "name": "Mohamed Amin HANAFI"
+                },
+                {
+                    "winner": "Mohamed Amin HANAFI"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "EGY",
+                    "name": "Ziad ELDALY"
+                },
+                {
+                    "country": "TUN",
+                    "name": "Mohamed Amin HANAFI"
+                }
+            ]
+        ],
+        "final_winner": "Ziad ELDALY"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "EGY",
+                    "name": "Aly ABDELAAL"
+                },
+                {
+                    "country": "ALG",
+                    "name": "Abdelmalek MATALI"
+                },
+                {
+                    "winner": "Aly ABDELAAL"
+                }
+            ],
+            [
+                {
+                    "country": "BIH",
+                    "name": "Domagoj PUSIC"
+                },
+                {
+                    "country": "TUN",
+                    "name": "Mohamed Amin HANAFI"
+                },
+                {
+                    "winner": "Mohamed Amin HANAFI"
+                }
+            ],
+            [
+                {
+                    "country": "EGY",
+                    "name": "Aly ABDELAAL"
+                },
+                {
+                    "country": "EGY",
+                    "name": "Ziad ELDALY"
+                },
+                {
+                    "winner": "Aly ABDELAAL"
+                }
+            ],
+            [
+                {
+                    "country": "TUN",
+                    "name": "Mohamed Amin HANAFI"
+                },
+                {
+                    "country": "CYP",
+                    "name": "Petros KESOV"
+                },
+                {
+                    "winner": "Petros KESOV"
+                }
+            ],
+            [
+                {
+                    "country": "EGY",
+                    "name": "Aly ABDELAAL"
+                }
+            ],
+            [
+                {
+                    "country": "CYP",
+                    "name": "Petros KESOV"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Aly ABDELAAL",
+            "Petros KESOV"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CYP",
+                    "name": "Petros KESOV"
+                },
+                {
+                    "country": "FRA",
+                    "name": "Rassoul KHAITAEV"
+                },
+                {
+                    "winner": "Rassoul KHAITAEV"
+                }
+            ],
+            [
+                {
+                    "country": "FRA",
+                    "name": "Bastien PONS"
+                },
+                {
+                    "country": "EGY",
+                    "name": "Ziad ELDALY"
+                },
+                {
+                    "winner": "Bastien PONS"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "FRA",
+                    "name": "Rassoul KHAITAEV"
+                },
+                {
+                    "country": "FRA",
+                    "name": "Bastien PONS"
+                }
+            ]
+        ],
+        "final_winner": "Rassoul KHAITAEV"
+    }
+}

@@ -1,0 +1,159 @@
+{
+    "POOL A": {
+        "round 1-1": [],
+        "final_winner": "Oren KELLY"
+    },
+    "POOL B": {
+        "round 1-1": [
+            [
+                {
+                    "country": "MAS",
+                    "name": "Kah Yan DELWINA CHEAH"
+                },
+                {
+                    "country": "AUS",
+                    "name": "Ebony BELLEW"
+                }
+            ]
+        ],
+        "final_winner": "Kah Yan DELWINA CHEAH"
+    },
+    "POOL C": {
+        "round 1-1": [
+            [
+                {
+                    "country": "AUS",
+                    "name": "Tea HICKMAN"
+                },
+                {
+                    "country": "MGL",
+                    "name": "Tsendbazar MASHBAT"
+                }
+            ]
+        ],
+        "final_winner": "Tsendbazar MASHBAT"
+    },
+    "POOL D": {
+        "round 1-1": [
+            [
+                {
+                    "country": "THA",
+                    "name": "Supakjira SONGSAWANG"
+                },
+                {
+                    "country": "KOR",
+                    "name": "Yuri NAM"
+                }
+            ]
+        ],
+        "final_winner": "Yuri NAM"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "AUS",
+                    "name": "Ebony BELLEW"
+                }
+            ],
+            [
+                {
+                    "country": "AUS",
+                    "name": "Tea HICKMAN"
+                },
+                {
+                    "country": "THA",
+                    "name": "Supakjira SONGSAWANG"
+                },
+                {
+                    "winner": "Tea HICKMAN"
+                }
+            ],
+            [
+                {
+                    "country": "AUS",
+                    "name": "Ebony BELLEW"
+                },
+                {
+                    "country": "KOR",
+                    "name": "Yuri NAM"
+                },
+                {
+                    "winner": "Yuri NAM"
+                }
+            ],
+            [
+                {
+                    "country": "AUS",
+                    "name": "Tea HICKMAN"
+                },
+                {
+                    "country": "MAS",
+                    "name": "Kah Yan DELWINA CHEAH"
+                },
+                {
+                    "winner": "Tea HICKMAN"
+                }
+            ],
+            [
+                {
+                    "country": "KOR",
+                    "name": "Yuri NAM"
+                }
+            ],
+            [
+                {
+                    "country": "AUS",
+                    "name": "Tea HICKMAN"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Yuri NAM",
+            "Tea HICKMAN"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "AUS",
+                    "name": "Oren KELLY"
+                },
+                {
+                    "country": "MAS",
+                    "name": "Kah Yan DELWINA CHEAH"
+                },
+                {
+                    "winner": "Oren KELLY"
+                }
+            ],
+            [
+                {
+                    "country": "MGL",
+                    "name": "Tsendbazar MASHBAT"
+                },
+                {
+                    "country": "KOR",
+                    "name": "Yuri NAM"
+                },
+                {
+                    "winner": "Tsendbazar MASHBAT"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "AUS",
+                    "name": "Oren KELLY"
+                },
+                {
+                    "country": "MGL",
+                    "name": "Tsendbazar MASHBAT"
+                }
+            ]
+        ],
+        "final_winner": "Tsendbazar MASHBAT"
+    }
+}

@@ -1,0 +1,135 @@
+{
+    "POOL A": {
+        "round 1-1": [],
+        "final_winner": "Ranim BEN SLIMAN"
+    },
+    "POOL B": {
+        "round 1-1": [
+            [
+                {
+                    "country": "FRA",
+                    "name": "Prisca HUBERT"
+                },
+                {
+                    "country": "TUN",
+                    "name": "Yosser SAFI"
+                }
+            ]
+        ],
+        "final_winner": "Prisca HUBERT"
+    },
+    "POOL C": {
+        "round 1-1": [],
+        "final_winner": "Amina ABBOUCHA"
+    },
+    "POOL D": {
+        "round 1-1": [
+            [
+                {
+                    "country": "TUN",
+                    "name": "Islam GHADHAB"
+                },
+                {
+                    "country": "TUN",
+                    "name": "Ichrak AMIRI"
+                }
+            ]
+        ],
+        "final_winner": "Ichrak AMIRI"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "TUN",
+                    "name": "Yosser SAFI"
+                }
+            ],
+            [
+                {
+                    "country": "TUN",
+                    "name": "Islam GHADHAB"
+                }
+            ],
+            [
+                {
+                    "country": "TUN",
+                    "name": "Yosser SAFI"
+                },
+                {
+                    "country": "TUN",
+                    "name": "Ichrak AMIRI"
+                },
+                {
+                    "winner": "Yosser SAFI"
+                }
+            ],
+            [
+                {
+                    "country": "TUN",
+                    "name": "Islam GHADHAB"
+                },
+                {
+                    "country": "TUN",
+                    "name": "Ranim BEN SLIMAN"
+                },
+                {
+                    "winner": "Ranim BEN SLIMAN"
+                }
+            ],
+            [
+                {
+                    "country": "TUN",
+                    "name": "Ranim BEN SLIMAN"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Islam GHADHAB",
+            "Yosser SAFI"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "TUN",
+                    "name": "Ranim BEN SLIMAN"
+                },
+                {
+                    "country": "FRA",
+                    "name": "Prisca HUBERT"
+                },
+                {
+                    "winner": "Prisca HUBERT"
+                }
+            ],
+            [
+                {
+                    "country": "MAR",
+                    "name": "Amina ABBOUCHA"
+                },
+                {
+                    "country": "TUN",
+                    "name": "Ichrak AMIRI"
+                },
+                {
+                    "winner": "Amina ABBOUCHA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "FRA",
+                    "name": "Prisca HUBERT"
+                },
+                {
+                    "country": "MAR",
+                    "name": "Amina ABBOUCHA"
+                }
+            ]
+        ],
+        "final_winner": "Prisca HUBERT"
+    }
+}

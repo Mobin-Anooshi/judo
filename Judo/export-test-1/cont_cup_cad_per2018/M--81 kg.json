@@ -1,0 +1,255 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "VEN",
+                    "name": "Carlos PAEZ"
+                },
+                {
+                    "winner": "Carlos PAEZ"
+                }
+            ],
+            []
+        ],
+        "round 1-1": [],
+        "final_winner": "Carlos PAEZ"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "COL",
+                    "name": "Daniel PAZ ALBARRACIN"
+                },
+                {
+                    "winner": "Daniel PAZ ALBARRACIN"
+                }
+            ],
+            [
+                {
+                    "country": "PER",
+                    "name": "FITGERALD FERRADAS"
+                },
+                {
+                    "winner": "FITGERALD FERRADAS"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "COL",
+                    "name": "Daniel PAZ ALBARRACIN"
+                },
+                {
+                    "country": "PER",
+                    "name": "FITGERALD FERRADAS"
+                }
+            ]
+        ],
+        "final_winner": "Daniel PAZ ALBARRACIN"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CRC",
+                    "name": "Jean Carlo GARITA"
+                },
+                {
+                    "winner": "Jean Carlo GARITA"
+                }
+            ],
+            [
+                {
+                    "country": "PER",
+                    "name": "Mauricio RIVERA RAMOS"
+                },
+                {
+                    "winner": "Mauricio RIVERA RAMOS"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "CRC",
+                    "name": "Jean Carlo GARITA"
+                },
+                {
+                    "country": "PER",
+                    "name": "Mauricio RIVERA RAMOS"
+                }
+            ]
+        ],
+        "final_winner": "Mauricio RIVERA RAMOS"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "PER",
+                    "name": "Javier SAAVEDRA"
+                },
+                {
+                    "winner": "Javier SAAVEDRA"
+                }
+            ],
+            [
+                {
+                    "country": "DOM",
+                    "name": "Axel Alejandro DEL CASTILLO ESPALLAT"
+                },
+                {
+                    "winner": "Axel Alejandro DEL CASTILLO ESPALLAT"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "PER",
+                    "name": "Javier SAAVEDRA"
+                },
+                {
+                    "country": "DOM",
+                    "name": "Axel Alejandro DEL CASTILLO ESPALLAT"
+                }
+            ]
+        ],
+        "final_winner": "Axel Alejandro DEL CASTILLO ESPALLAT"
+    },
+    "REPECHAGE": {
+        "round 1-4": [
+            [],
+            [
+                {
+                    "country": "PER",
+                    "name": "FITGERALD FERRADAS"
+                },
+                {
+                    "winner": "FITGERALD FERRADAS"
+                }
+            ],
+            [
+                {
+                    "country": "CRC",
+                    "name": "Jean Carlo GARITA"
+                },
+                {
+                    "winner": "Jean Carlo GARITA"
+                }
+            ],
+            [
+                {
+                    "country": "PER",
+                    "name": "Javier SAAVEDRA"
+                },
+                {
+                    "winner": "Javier SAAVEDRA"
+                }
+            ]
+        ],
+        "round 1-2": [
+            [
+                {
+                    "country": "PER",
+                    "name": "FITGERALD FERRADAS"
+                }
+            ],
+            [
+                {
+                    "country": "CRC",
+                    "name": "Jean Carlo GARITA"
+                },
+                {
+                    "country": "PER",
+                    "name": "Javier SAAVEDRA"
+                },
+                {
+                    "winner": "Javier SAAVEDRA"
+                }
+            ],
+            [
+                {
+                    "country": "PER",
+                    "name": "FITGERALD FERRADAS"
+                },
+                {
+                    "country": "PER",
+                    "name": "Mauricio RIVERA RAMOS"
+                },
+                {
+                    "winner": "FITGERALD FERRADAS"
+                }
+            ],
+            [
+                {
+                    "country": "PER",
+                    "name": "Javier SAAVEDRA"
+                },
+                {
+                    "country": "COL",
+                    "name": "Daniel PAZ ALBARRACIN"
+                },
+                {
+                    "winner": "Daniel PAZ ALBARRACIN"
+                }
+            ],
+            [
+                {
+                    "country": "COL",
+                    "name": "Daniel PAZ ALBARRACIN"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Javier SAAVEDRA",
+            "FITGERALD FERRADAS"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "VEN",
+                    "name": "Carlos PAEZ"
+                },
+                {
+                    "country": "COL",
+                    "name": "Daniel PAZ ALBARRACIN"
+                },
+                {
+                    "winner": "Carlos PAEZ"
+                }
+            ],
+            [
+                {
+                    "country": "PER",
+                    "name": "Mauricio RIVERA RAMOS"
+                },
+                {
+                    "country": "DOM",
+                    "name": "Axel Alejandro DEL CASTILLO ESPALLAT"
+                },
+                {
+                    "winner": "Axel Alejandro DEL CASTILLO ESPALLAT"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "VEN",
+                    "name": "Carlos PAEZ"
+                },
+                {
+                    "country": "DOM",
+                    "name": "Axel Alejandro DEL CASTILLO ESPALLAT"
+                }
+            ]
+        ],
+        "final_winner": "Carlos PAEZ"
+    }
+}

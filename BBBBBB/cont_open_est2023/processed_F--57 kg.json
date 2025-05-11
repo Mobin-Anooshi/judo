@@ -1,0 +1,177 @@
+{
+    "POOL A": {
+        "round 1-1": [
+            [
+                {
+                    "country": "FIN",
+                    "name": "Pihla SALONEN"
+                },
+                {
+                    "country": "ITA",
+                    "name": "Nicolle D ISANTO"
+                }
+            ]
+        ],
+        "final_winner": "Pihla SALONEN"
+    },
+    "POOL B": {
+        "round 1-1": [
+            [
+                {
+                    "country": "NED",
+                    "name": "Danique JANSSEN"
+                },
+                {
+                    "country": "FIN",
+                    "name": "Pihla MATIKAINEN"
+                }
+            ]
+        ],
+        "final_winner": "Danique JANSSEN"
+    },
+    "POOL C": {
+        "round 1-1": [
+            [
+                {
+                    "country": "UKR",
+                    "name": "Anastasiia CHYZHEVSKA"
+                },
+                {
+                    "country": "FIN",
+                    "name": "Venla LAIHO"
+                }
+            ]
+        ],
+        "final_winner": "Anastasiia CHYZHEVSKA"
+    },
+    "POOL D": {
+        "round 1-1": [
+            [
+                {
+                    "country": "BEL",
+                    "name": "Eveline DELBAEN"
+                },
+                {
+                    "country": "EST",
+                    "name": "Merit TARKUS"
+                }
+            ]
+        ],
+        "final_winner": "Merit TARKUS"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ITA",
+                    "name": "Nicolle D ISANTO"
+                },
+                {
+                    "country": "FIN",
+                    "name": "Pihla MATIKAINEN"
+                },
+                {
+                    "winner": "Nicolle D ISANTO"
+                }
+            ],
+            [
+                {
+                    "country": "FIN",
+                    "name": "Venla LAIHO"
+                },
+                {
+                    "country": "BEL",
+                    "name": "Eveline DELBAEN"
+                },
+                {
+                    "winner": "Eveline DELBAEN"
+                }
+            ],
+            [
+                {
+                    "country": "ITA",
+                    "name": "Nicolle D ISANTO"
+                },
+                {
+                    "country": "EST",
+                    "name": "Merit TARKUS"
+                },
+                {
+                    "winner": "Nicolle D ISANTO"
+                }
+            ],
+            [
+                {
+                    "country": "BEL",
+                    "name": "Eveline DELBAEN"
+                },
+                {
+                    "country": "FIN",
+                    "name": "Pihla SALONEN"
+                },
+                {
+                    "winner": "Pihla SALONEN"
+                }
+            ],
+            [
+                {
+                    "country": "ITA",
+                    "name": "Nicolle D ISANTO"
+                }
+            ],
+            [
+                {
+                    "country": "FIN",
+                    "name": "Pihla SALONEN"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Nicolle D ISANTO",
+            "Pihla SALONEN"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "FIN",
+                    "name": "Pihla SALONEN"
+                },
+                {
+                    "country": "NED",
+                    "name": "Danique JANSSEN"
+                },
+                {
+                    "winner": "Danique JANSSEN"
+                }
+            ],
+            [
+                {
+                    "country": "UKR",
+                    "name": "Anastasiia CHYZHEVSKA"
+                },
+                {
+                    "country": "EST",
+                    "name": "Merit TARKUS"
+                },
+                {
+                    "winner": "Anastasiia CHYZHEVSKA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "NED",
+                    "name": "Danique JANSSEN"
+                },
+                {
+                    "country": "UKR",
+                    "name": "Anastasiia CHYZHEVSKA"
+                }
+            ]
+        ],
+        "final_winner": "Anastasiia CHYZHEVSKA"
+    }
+}

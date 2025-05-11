@@ -1,0 +1,281 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "FRA",
+                    "name": "Teddy RINER"
+                },
+                {
+                    "winner": "Teddy RINER"
+                }
+            ],
+            [
+                {
+                    "country": "FRA",
+                    "name": "Tieman DIABY"
+                },
+                {
+                    "country": "GER",
+                    "name": "Daniel UDSILAURI"
+                },
+                {
+                    "winner": "Tieman DIABY"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "FRA",
+                    "name": "Teddy RINER"
+                },
+                {
+                    "country": "FRA",
+                    "name": "Tieman DIABY"
+                }
+            ]
+        ],
+        "final_winner": "Teddy RINER"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "AUT",
+                    "name": "Movli BORCHASHVILLI"
+                },
+                {
+                    "country": "BEL",
+                    "name": "Yves NDAO"
+                },
+                {
+                    "winner": "Movli BORCHASHVILLI"
+                }
+            ],
+            [
+                {
+                    "country": "NED",
+                    "name": "Jules BLOM"
+                },
+                {
+                    "country": "GER",
+                    "name": "Paavo PLOEHNERT"
+                },
+                {
+                    "winner": "Paavo PLOEHNERT"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "AUT",
+                    "name": "Movli BORCHASHVILLI"
+                },
+                {
+                    "country": "GER",
+                    "name": "Paavo PLOEHNERT"
+                }
+            ]
+        ],
+        "final_winner": "Movli BORCHASHVILLI"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "GER",
+                    "name": "Jonas SCHREIBER"
+                },
+                {
+                    "winner": "Jonas SCHREIBER"
+                }
+            ],
+            [
+                {
+                    "country": "GER",
+                    "name": "Marvin BELZ"
+                },
+                {
+                    "country": "BEL",
+                    "name": "Edouard CAPELLE"
+                },
+                {
+                    "winner": "Marvin BELZ"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "GER",
+                    "name": "Jonas SCHREIBER"
+                },
+                {
+                    "country": "GER",
+                    "name": "Marvin BELZ"
+                }
+            ]
+        ],
+        "final_winner": "Jonas SCHREIBER"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ESP",
+                    "name": "Davit KEVLISHVILI"
+                },
+                {
+                    "country": "SWE",
+                    "name": "Emil MATTSSON"
+                },
+                {
+                    "winner": "Davit KEVLISHVILI"
+                }
+            ],
+            [
+                {
+                    "country": "POL",
+                    "name": "Grzegorz TERESINSKI"
+                },
+                {
+                    "country": "FRA",
+                    "name": "Yann RIGAUD"
+                },
+                {
+                    "winner": "Grzegorz TERESINSKI"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "ESP",
+                    "name": "Davit KEVLISHVILI"
+                },
+                {
+                    "country": "POL",
+                    "name": "Grzegorz TERESINSKI"
+                }
+            ]
+        ],
+        "final_winner": "Grzegorz TERESINSKI"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "FRA",
+                    "name": "Tieman DIABY"
+                },
+                {
+                    "country": "GER",
+                    "name": "Paavo PLOEHNERT"
+                },
+                {
+                    "winner": "Paavo PLOEHNERT"
+                }
+            ],
+            [
+                {
+                    "country": "GER",
+                    "name": "Marvin BELZ"
+                },
+                {
+                    "country": "ESP",
+                    "name": "Davit KEVLISHVILI"
+                },
+                {
+                    "winner": "Marvin BELZ"
+                }
+            ],
+            [
+                {
+                    "country": "GER",
+                    "name": "Paavo PLOEHNERT"
+                },
+                {
+                    "country": "GER",
+                    "name": "Jonas SCHREIBER"
+                },
+                {
+                    "winner": "Jonas SCHREIBER"
+                }
+            ],
+            [
+                {
+                    "country": "GER",
+                    "name": "Marvin BELZ"
+                },
+                {
+                    "country": "AUT",
+                    "name": "Movli BORCHASHVILLI"
+                },
+                {
+                    "winner": "Marvin BELZ"
+                }
+            ],
+            [
+                {
+                    "country": "GER",
+                    "name": "Jonas SCHREIBER"
+                }
+            ],
+            [
+                {
+                    "country": "GER",
+                    "name": "Marvin BELZ"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Jonas SCHREIBER",
+            "Marvin BELZ"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "FRA",
+                    "name": "Teddy RINER"
+                },
+                {
+                    "country": "AUT",
+                    "name": "Movli BORCHASHVILLI"
+                },
+                {
+                    "winner": "Teddy RINER"
+                }
+            ],
+            [
+                {
+                    "country": "GER",
+                    "name": "Jonas SCHREIBER"
+                },
+                {
+                    "country": "POL",
+                    "name": "Grzegorz TERESINSKI"
+                },
+                {
+                    "winner": "Grzegorz TERESINSKI"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "FRA",
+                    "name": "Teddy RINER"
+                },
+                {
+                    "country": "POL",
+                    "name": "Grzegorz TERESINSKI"
+                }
+            ]
+        ],
+        "final_winner": "Teddy RINER"
+    }
+}

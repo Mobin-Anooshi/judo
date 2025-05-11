@@ -1,0 +1,303 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "AZE",
+                    "name": "Nariman MIRZAYEV"
+                },
+                {
+                    "winner": "Nariman MIRZAYEV"
+                }
+            ],
+            [
+                {
+                    "country": "CYP",
+                    "name": "Louka LOUKAS"
+                },
+                {
+                    "country": "ZAM",
+                    "name": "Simon ZULU"
+                },
+                {
+                    "winner": "Simon ZULU"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "AZE",
+                    "name": "Nariman MIRZAYEV"
+                },
+                {
+                    "country": "ZAM",
+                    "name": "Simon ZULU"
+                }
+            ]
+        ],
+        "final_winner": "Nariman MIRZAYEV"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "AZE",
+                    "name": "Zamaddin POLADOV"
+                },
+                {
+                    "winner": "Zamaddin POLADOV"
+                }
+            ],
+            [
+                {
+                    "country": "AZE",
+                    "name": "Matin RZAZADE"
+                },
+                {
+                    "winner": "Matin RZAZADE"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "AZE",
+                    "name": "Zamaddin POLADOV"
+                },
+                {
+                    "country": "AZE",
+                    "name": "Matin RZAZADE"
+                }
+            ]
+        ],
+        "final_winner": "Matin RZAZADE"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CYP",
+                    "name": "Georgios BALARJISHVILI"
+                },
+                {
+                    "winner": "Georgios BALARJISHVILI"
+                }
+            ],
+            [
+                {
+                    "country": "CYP",
+                    "name": "Kyprianos ANDREOU"
+                },
+                {
+                    "country": "MAR",
+                    "name": "adam MOUHIB"
+                },
+                {
+                    "winner": "Kyprianos ANDREOU"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "CYP",
+                    "name": "Georgios BALARJISHVILI"
+                },
+                {
+                    "country": "CYP",
+                    "name": "Kyprianos ANDREOU"
+                }
+            ]
+        ],
+        "final_winner": "Georgios BALARJISHVILI"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "UKR",
+                    "name": "Ivan PRUDIUS"
+                },
+                {
+                    "winner": "Ivan PRUDIUS"
+                }
+            ],
+            [
+                {
+                    "country": "LBN",
+                    "name": "Joe HADDAD"
+                },
+                {
+                    "winner": "Joe HADDAD"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "UKR",
+                    "name": "Ivan PRUDIUS"
+                },
+                {
+                    "country": "LBN",
+                    "name": "Joe HADDAD"
+                }
+            ]
+        ],
+        "final_winner": "Ivan PRUDIUS"
+    },
+    "REPECHAGE": {
+        "round 1-4": [
+            [
+                {
+                    "country": "ZAM",
+                    "name": "Simon ZULU"
+                },
+                {
+                    "winner": "Simon ZULU"
+                }
+            ],
+            [
+                {
+                    "country": "AZE",
+                    "name": "Zamaddin POLADOV"
+                },
+                {
+                    "winner": "Zamaddin POLADOV"
+                }
+            ],
+            [
+                {
+                    "country": "CYP",
+                    "name": "Kyprianos ANDREOU"
+                },
+                {
+                    "winner": "Kyprianos ANDREOU"
+                }
+            ],
+            [
+                {
+                    "country": "LBN",
+                    "name": "Joe HADDAD"
+                },
+                {
+                    "winner": "Joe HADDAD"
+                }
+            ]
+        ],
+        "round 1-2": [
+            [
+                {
+                    "country": "ZAM",
+                    "name": "Simon ZULU"
+                },
+                {
+                    "country": "AZE",
+                    "name": "Zamaddin POLADOV"
+                },
+                {
+                    "winner": "Zamaddin POLADOV"
+                }
+            ],
+            [
+                {
+                    "country": "CYP",
+                    "name": "Kyprianos ANDREOU"
+                },
+                {
+                    "country": "LBN",
+                    "name": "Joe HADDAD"
+                },
+                {
+                    "winner": "Joe HADDAD"
+                }
+            ],
+            [
+                {
+                    "country": "AZE",
+                    "name": "Zamaddin POLADOV"
+                },
+                {
+                    "country": "CYP",
+                    "name": "Georgios BALARJISHVILI"
+                },
+                {
+                    "winner": "Zamaddin POLADOV"
+                }
+            ],
+            [
+                {
+                    "country": "LBN",
+                    "name": "Joe HADDAD"
+                },
+                {
+                    "country": "AZE",
+                    "name": "Nariman MIRZAYEV"
+                },
+                {
+                    "winner": "Nariman MIRZAYEV"
+                }
+            ],
+            [
+                {
+                    "country": "AZE",
+                    "name": "Zamaddin POLADOV"
+                }
+            ],
+            [
+                {
+                    "country": "AZE",
+                    "name": "Nariman MIRZAYEV"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Zamaddin POLADOV",
+            "Nariman MIRZAYEV"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "AZE",
+                    "name": "Nariman MIRZAYEV"
+                },
+                {
+                    "country": "AZE",
+                    "name": "Matin RZAZADE"
+                },
+                {
+                    "winner": "Matin RZAZADE"
+                }
+            ],
+            [
+                {
+                    "country": "CYP",
+                    "name": "Georgios BALARJISHVILI"
+                },
+                {
+                    "country": "UKR",
+                    "name": "Ivan PRUDIUS"
+                },
+                {
+                    "winner": "Ivan PRUDIUS"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "AZE",
+                    "name": "Matin RZAZADE"
+                },
+                {
+                    "country": "UKR",
+                    "name": "Ivan PRUDIUS"
+                }
+            ]
+        ],
+        "final_winner": "Matin RZAZADE"
+    }
+}

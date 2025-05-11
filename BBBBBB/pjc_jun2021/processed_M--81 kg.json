@@ -1,0 +1,319 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ARG",
+                    "name": "Agustin GIL"
+                },
+                {
+                    "winner": "Agustin GIL"
+                }
+            ],
+            [
+                {
+                    "country": "MEX",
+                    "name": "Diego DIAZ"
+                },
+                {
+                    "country": "BRA",
+                    "name": "Marcos SANTOS"
+                },
+                {
+                    "winner": "Marcos SANTOS"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "ARG",
+                    "name": "Agustin GIL"
+                },
+                {
+                    "country": "BRA",
+                    "name": "Marcos SANTOS"
+                }
+            ]
+        ],
+        "final_winner": "Marcos SANTOS"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ECU",
+                    "name": "Harold SUAREZ"
+                },
+                {
+                    "winner": "Harold SUAREZ"
+                }
+            ],
+            [
+                {
+                    "country": "USA",
+                    "name": "Dominic RODRIGUEZ"
+                },
+                {
+                    "country": "VEN",
+                    "name": "Jonhelius PATETE"
+                },
+                {
+                    "winner": "Dominic RODRIGUEZ"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "ECU",
+                    "name": "Harold SUAREZ"
+                },
+                {
+                    "country": "USA",
+                    "name": "Dominic RODRIGUEZ"
+                }
+            ]
+        ],
+        "final_winner": "Dominic RODRIGUEZ"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "PER",
+                    "name": "Javier SAAVEDRA"
+                },
+                {
+                    "winner": "Javier SAAVEDRA"
+                }
+            ],
+            [
+                {
+                    "country": "MEX",
+                    "name": "Javier ROSAS"
+                },
+                {
+                    "country": "COL",
+                    "name": "Juan Pablo RUIZ"
+                },
+                {
+                    "winner": "Javier ROSAS"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "PER",
+                    "name": "Javier SAAVEDRA"
+                },
+                {
+                    "country": "MEX",
+                    "name": "Javier ROSAS"
+                }
+            ]
+        ],
+        "final_winner": "Javier SAAVEDRA"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "PAR",
+                    "name": "Diego NOGUERA"
+                },
+                {
+                    "country": "CHI",
+                    "name": "Daniel ARANCIBIA"
+                },
+                {
+                    "winner": "Diego NOGUERA"
+                }
+            ],
+            [
+                {
+                    "country": "DOM",
+                    "name": "Albis Jose CASTRO MATOS"
+                },
+                {
+                    "winner": "Albis Jose CASTRO MATOS"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "PAR",
+                    "name": "Diego NOGUERA"
+                },
+                {
+                    "country": "DOM",
+                    "name": "Albis Jose CASTRO MATOS"
+                }
+            ]
+        ],
+        "final_winner": "Albis Jose CASTRO MATOS"
+    },
+    "REPECHAGE": {
+        "round 1-4": [
+            [
+                {
+                    "country": "MEX",
+                    "name": "Diego DIAZ"
+                },
+                {
+                    "country": "ARG",
+                    "name": "Agustin GIL"
+                },
+                {
+                    "winner": "Diego DIAZ"
+                }
+            ],
+            [
+                {
+                    "country": "VEN",
+                    "name": "Jonhelius PATETE"
+                },
+                {
+                    "country": "ECU",
+                    "name": "Harold SUAREZ"
+                },
+                {
+                    "winner": "Jonhelius PATETE"
+                }
+            ],
+            [
+                {
+                    "country": "MEX",
+                    "name": "Javier ROSAS"
+                },
+                {
+                    "winner": "Javier ROSAS"
+                }
+            ],
+            [
+                {
+                    "country": "PAR",
+                    "name": "Diego NOGUERA"
+                },
+                {
+                    "winner": "Diego NOGUERA"
+                }
+            ]
+        ],
+        "round 1-2": [
+            [
+                {
+                    "country": "MEX",
+                    "name": "Diego DIAZ"
+                },
+                {
+                    "country": "VEN",
+                    "name": "Jonhelius PATETE"
+                },
+                {
+                    "winner": "Jonhelius PATETE"
+                }
+            ],
+            [
+                {
+                    "country": "MEX",
+                    "name": "Javier ROSAS"
+                },
+                {
+                    "country": "PAR",
+                    "name": "Diego NOGUERA"
+                },
+                {
+                    "winner": "Javier ROSAS"
+                }
+            ],
+            [
+                {
+                    "country": "VEN",
+                    "name": "Jonhelius PATETE"
+                },
+                {
+                    "country": "DOM",
+                    "name": "Albis Jose CASTRO MATOS"
+                },
+                {
+                    "winner": "Albis Jose CASTRO MATOS"
+                }
+            ],
+            [
+                {
+                    "country": "MEX",
+                    "name": "Javier ROSAS"
+                },
+                {
+                    "country": "USA",
+                    "name": "Dominic RODRIGUEZ"
+                },
+                {
+                    "winner": "Dominic RODRIGUEZ"
+                }
+            ],
+            [
+                {
+                    "country": "DOM",
+                    "name": "Albis Jose CASTRO MATOS"
+                }
+            ],
+            [
+                {
+                    "country": "USA",
+                    "name": "Dominic RODRIGUEZ"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Albis Jose CASTRO MATOS",
+            "Dominic RODRIGUEZ"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Marcos SANTOS"
+                },
+                {
+                    "country": "USA",
+                    "name": "Dominic RODRIGUEZ"
+                },
+                {
+                    "winner": "Marcos SANTOS"
+                }
+            ],
+            [
+                {
+                    "country": "PER",
+                    "name": "Javier SAAVEDRA"
+                },
+                {
+                    "country": "DOM",
+                    "name": "Albis Jose CASTRO MATOS"
+                },
+                {
+                    "winner": "Javier SAAVEDRA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Marcos SANTOS"
+                },
+                {
+                    "country": "PER",
+                    "name": "Javier SAAVEDRA"
+                }
+            ]
+        ],
+        "final_winner": "Marcos SANTOS"
+    }
+}

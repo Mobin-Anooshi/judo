@@ -1,0 +1,159 @@
+{
+    "POOL A": {
+        "round 1-1": [],
+        "final_winner": "Hachem SELLAMI"
+    },
+    "POOL B": {
+        "round 1-1": [
+            [
+                {
+                    "country": "EGY",
+                    "name": "Yousef HASSANIEN"
+                },
+                {
+                    "country": "RSA",
+                    "name": "Thomas-Laszlo BREYTENBACH"
+                }
+            ]
+        ],
+        "final_winner": "Yousef HASSANIEN"
+    },
+    "POOL C": {
+        "round 1-1": [
+            [
+                {
+                    "country": "RSA",
+                    "name": "Gerrit KRUGER"
+                },
+                {
+                    "country": "TUN",
+                    "name": "Aghleb BOUFATH"
+                }
+            ]
+        ],
+        "final_winner": "Aghleb BOUFATH"
+    },
+    "POOL D": {
+        "round 1-1": [
+            [
+                {
+                    "country": "ALG",
+                    "name": "Ahmed MEHIBEL"
+                },
+                {
+                    "country": "MOZ",
+                    "name": "Daniel BERNARDO"
+                }
+            ]
+        ],
+        "final_winner": "Ahmed MEHIBEL"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "RSA",
+                    "name": "Thomas-Laszlo BREYTENBACH"
+                }
+            ],
+            [
+                {
+                    "country": "RSA",
+                    "name": "Gerrit KRUGER"
+                },
+                {
+                    "country": "MOZ",
+                    "name": "Daniel BERNARDO"
+                },
+                {
+                    "winner": "Gerrit KRUGER"
+                }
+            ],
+            [
+                {
+                    "country": "RSA",
+                    "name": "Thomas-Laszlo BREYTENBACH"
+                },
+                {
+                    "country": "TUN",
+                    "name": "Aghleb BOUFATH"
+                },
+                {
+                    "winner": "Aghleb BOUFATH"
+                }
+            ],
+            [
+                {
+                    "country": "RSA",
+                    "name": "Gerrit KRUGER"
+                },
+                {
+                    "country": "TUN",
+                    "name": "Hachem SELLAMI"
+                },
+                {
+                    "winner": "Hachem SELLAMI"
+                }
+            ],
+            [
+                {
+                    "country": "TUN",
+                    "name": "Aghleb BOUFATH"
+                }
+            ],
+            [
+                {
+                    "country": "TUN",
+                    "name": "Hachem SELLAMI"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Aghleb BOUFATH",
+            "Hachem SELLAMI"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "TUN",
+                    "name": "Hachem SELLAMI"
+                },
+                {
+                    "country": "EGY",
+                    "name": "Yousef HASSANIEN"
+                },
+                {
+                    "winner": "Yousef HASSANIEN"
+                }
+            ],
+            [
+                {
+                    "country": "TUN",
+                    "name": "Aghleb BOUFATH"
+                },
+                {
+                    "country": "ALG",
+                    "name": "Ahmed MEHIBEL"
+                },
+                {
+                    "winner": "Ahmed MEHIBEL"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "EGY",
+                    "name": "Yousef HASSANIEN"
+                },
+                {
+                    "country": "ALG",
+                    "name": "Ahmed MEHIBEL"
+                }
+            ]
+        ],
+        "final_winner": "Yousef HASSANIEN"
+    }
+}

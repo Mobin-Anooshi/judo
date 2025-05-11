@@ -1,0 +1,177 @@
+{
+    "POOL A": {
+        "round 1-1": [
+            [
+                {
+                    "country": "AUS",
+                    "name": "Aaron XU"
+                },
+                {
+                    "country": "PHI",
+                    "name": "Miguel JALIT"
+                }
+            ]
+        ],
+        "final_winner": "Aaron XU"
+    },
+    "POOL B": {
+        "round 1-1": [
+            [
+                {
+                    "country": "KSA",
+                    "name": "Ahmed ALMEHMADI"
+                },
+                {
+                    "country": "THA",
+                    "name": "Thanaphon INTHONG"
+                }
+            ]
+        ],
+        "final_winner": "Ahmed ALMEHMADI"
+    },
+    "POOL C": {
+        "round 1-1": [
+            [
+                {
+                    "country": "AUS",
+                    "name": "Max POGREB"
+                },
+                {
+                    "country": "THA",
+                    "name": "Thanachot KAEWSAMUTH"
+                }
+            ]
+        ],
+        "final_winner": "Max POGREB"
+    },
+    "POOL D": {
+        "round 1-1": [
+            [
+                {
+                    "country": "AUS",
+                    "name": "Crosby PEAKE"
+                },
+                {
+                    "country": "MGL",
+                    "name": "Bat-Erdene MUNKHBAATAR"
+                }
+            ]
+        ],
+        "final_winner": "Bat-Erdene MUNKHBAATAR"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "PHI",
+                    "name": "Miguel JALIT"
+                },
+                {
+                    "country": "THA",
+                    "name": "Thanaphon INTHONG"
+                },
+                {
+                    "winner": "Miguel JALIT"
+                }
+            ],
+            [
+                {
+                    "country": "THA",
+                    "name": "Thanachot KAEWSAMUTH"
+                },
+                {
+                    "country": "AUS",
+                    "name": "Crosby PEAKE"
+                },
+                {
+                    "winner": "Thanachot KAEWSAMUTH"
+                }
+            ],
+            [
+                {
+                    "country": "PHI",
+                    "name": "Miguel JALIT"
+                },
+                {
+                    "country": "MGL",
+                    "name": "Bat-Erdene MUNKHBAATAR"
+                },
+                {
+                    "winner": "Bat-Erdene MUNKHBAATAR"
+                }
+            ],
+            [
+                {
+                    "country": "THA",
+                    "name": "Thanachot KAEWSAMUTH"
+                },
+                {
+                    "country": "AUS",
+                    "name": "Aaron XU"
+                },
+                {
+                    "winner": "Aaron XU"
+                }
+            ],
+            [
+                {
+                    "country": "MGL",
+                    "name": "Bat-Erdene MUNKHBAATAR"
+                }
+            ],
+            [
+                {
+                    "country": "AUS",
+                    "name": "Aaron XU"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Bat-Erdene MUNKHBAATAR",
+            "Aaron XU"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "AUS",
+                    "name": "Aaron XU"
+                },
+                {
+                    "country": "KSA",
+                    "name": "Ahmed ALMEHMADI"
+                },
+                {
+                    "winner": "Ahmed ALMEHMADI"
+                }
+            ],
+            [
+                {
+                    "country": "AUS",
+                    "name": "Max POGREB"
+                },
+                {
+                    "country": "MGL",
+                    "name": "Bat-Erdene MUNKHBAATAR"
+                },
+                {
+                    "winner": "Max POGREB"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "KSA",
+                    "name": "Ahmed ALMEHMADI"
+                },
+                {
+                    "country": "AUS",
+                    "name": "Max POGREB"
+                }
+            ]
+        ],
+        "final_winner": "Max POGREB"
+    }
+}

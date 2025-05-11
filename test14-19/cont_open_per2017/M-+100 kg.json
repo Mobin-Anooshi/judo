@@ -1,0 +1,166 @@
+{
+    "POOL A": {
+        "round 1-1": [
+            [
+                {
+                    "country": "ARG",
+                    "name": "Hector CAMPOS"
+                }
+            ]
+        ]
+    },
+    "POOL B": {
+        "round 1-1": [
+            [
+                {
+                    "country": "CHI",
+                    "name": "Francisco SOLIS"
+                },
+                {
+                    "country": "CAN",
+                    "name": "Jean Francois OUELLET"
+                }
+            ],
+            [
+                {
+                    "country": "CAN",
+                    "name": "Jean Francois OUELLET"
+                }
+            ]
+        ]
+    },
+    "POOL C": {
+        "round 1-1": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Ruan ISQUIERDO"
+                },
+                {
+                    "country": "PUR",
+                    "name": "Rafael FERRER"
+                }
+            ],
+            [
+                {
+                    "country": "BRA",
+                    "name": "Ruan ISQUIERDO"
+                }
+            ]
+        ]
+    },
+    "POOL D": {
+        "round 1-1": [
+            [
+                {
+                    "country": "USA",
+                    "name": "Ajax TADEHARA"
+                },
+                {
+                    "country": "USA",
+                    "name": "Arash SOOFIANI"
+                }
+            ],
+            [
+                {
+                    "country": "USA",
+                    "name": "Arash SOOFIANI"
+                }
+            ]
+        ]
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CHI",
+                    "name": "Francisco SOLIS"
+                }
+            ],
+            [
+                {
+                    "country": "PUR",
+                    "name": "Rafael FERRER"
+                },
+                {
+                    "country": "USA",
+                    "name": "Ajax TADEHARA"
+                }
+            ],
+            [
+                {
+                    "country": "CHI",
+                    "name": "Francisco SOLIS"
+                },
+                {
+                    "country": "USA",
+                    "name": "Arash SOOFIANI"
+                }
+            ],
+            [
+                {
+                    "country": "USA",
+                    "name": "Ajax TADEHARA"
+                },
+                {
+                    "country": "CAN",
+                    "name": "Jean Francois OUELLET"
+                }
+            ],
+            [
+                {
+                    "country": "CAN",
+                    "name": "Jean Francois OUELLET"
+                }
+            ]
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ARG",
+                    "name": "Hector CAMPOS"
+                },
+                {
+                    "country": "CAN",
+                    "name": "Jean Francois OUELLET"
+                },
+                {
+                    "winner": "Hector CAMPOS"
+                }
+            ],
+            [
+                {
+                    "country": "BRA",
+                    "name": "Ruan ISQUIERDO"
+                },
+                {
+                    "country": "USA",
+                    "name": "Arash SOOFIANI"
+                },
+                {
+                    "winner": "Ruan ISQUIERDO"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "ARG",
+                    "name": "Hector CAMPOS"
+                },
+                {
+                    "country": "BRA",
+                    "name": "Ruan ISQUIERDO"
+                }
+            ],
+            [
+                {
+                    "country": "BRA",
+                    "name": "Ruan ISQUIERDO"
+                }
+            ]
+        ]
+    }
+}

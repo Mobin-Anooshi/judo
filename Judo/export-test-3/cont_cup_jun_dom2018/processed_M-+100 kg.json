@@ -1,0 +1,68 @@
+{
+    "ROUND 1": {
+        "round 1-2": [
+            [
+                {
+                    "country": "DOM",
+                    "name": "Luis SANTANA"
+                },
+                {
+                    "country": "DOM",
+                    "name": "Maikel CAPELLAN"
+                },
+                {
+                    "winner": "Luis SANTANA"
+                }
+            ],
+            [
+                {
+                    "country": "PUR",
+                    "name": "GREG MUNIZ VAZQUEZ"
+                },
+                {
+                    "country": "DOM",
+                    "name": "Gabriel MARTE FURMET"
+                },
+                {
+                    "winner": "Gabriel MARTE FURMET"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Luis SANTANA",
+            "Gabriel MARTE FURMET"
+        ]
+    },
+    "REPECHAGE": {
+        "round 1-1": [
+            [
+                {
+                    "country": "DOM",
+                    "name": "Maikel CAPELLAN"
+                },
+                {
+                    "country": "PUR",
+                    "name": "GREG MUNIZ VAZQUEZ"
+                },
+                {
+                    "winner": "GREG MUNIZ VAZQUEZ"
+                }
+            ],
+            [
+                {
+                    "country": "PUR",
+                    "name": "GREG MUNIZ VAZQUEZ"
+                }
+            ]
+        ],
+        "final_winners": [
+            "GREG MUNIZ VAZQUEZ"
+        ]
+    },
+    "FINALS": {
+        "round 1-1": [],
+        "final_winners": [
+            "Luis SANTANA"
+        ]
+    }
+}

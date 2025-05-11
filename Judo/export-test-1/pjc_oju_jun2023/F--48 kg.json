@@ -1,0 +1,221 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "AUS",
+                    "name": "Anneliese FIELDER"
+                },
+                {
+                    "winner": "Anneliese FIELDER"
+                }
+            ],
+            []
+        ],
+        "round 1-1": [],
+        "final_winner": "Anneliese FIELDER"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CAN",
+                    "name": "Charlize Isabelle MEDILO"
+                },
+                {
+                    "winner": "Charlize Isabelle MEDILO"
+                }
+            ],
+            [
+                {
+                    "country": "CAN",
+                    "name": "Heidi QUACH"
+                },
+                {
+                    "winner": "Heidi QUACH"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "CAN",
+                    "name": "Charlize Isabelle MEDILO"
+                },
+                {
+                    "country": "CAN",
+                    "name": "Heidi QUACH"
+                }
+            ]
+        ],
+        "final_winner": "Charlize Isabelle MEDILO"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "USA",
+                    "name": "Harlee HILLER"
+                },
+                {
+                    "winner": "Harlee HILLER"
+                }
+            ],
+            []
+        ],
+        "round 1-1": [],
+        "final_winner": "Harlee HILLER"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "USA",
+                    "name": "Jayne LOO"
+                },
+                {
+                    "winner": "Jayne LOO"
+                }
+            ],
+            [
+                {
+                    "country": "ARG",
+                    "name": "Nayla BURZIO"
+                },
+                {
+                    "winner": "Nayla BURZIO"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "USA",
+                    "name": "Jayne LOO"
+                },
+                {
+                    "country": "ARG",
+                    "name": "Nayla BURZIO"
+                }
+            ]
+        ],
+        "final_winner": "Jayne LOO"
+    },
+    "REPECHAGE": {
+        "round 1-4": [
+            [],
+            [
+                {
+                    "country": "CAN",
+                    "name": "Heidi QUACH"
+                },
+                {
+                    "winner": "Heidi QUACH"
+                }
+            ],
+            [],
+            [
+                {
+                    "country": "ARG",
+                    "name": "Nayla BURZIO"
+                },
+                {
+                    "winner": "Nayla BURZIO"
+                }
+            ]
+        ],
+        "round 1-2": [
+            [
+                {
+                    "country": "CAN",
+                    "name": "Heidi QUACH"
+                }
+            ],
+            [
+                {
+                    "country": "ARG",
+                    "name": "Nayla BURZIO"
+                }
+            ],
+            [
+                {
+                    "country": "CAN",
+                    "name": "Heidi QUACH"
+                },
+                {
+                    "country": "USA",
+                    "name": "Jayne LOO"
+                },
+                {
+                    "winner": "Jayne LOO"
+                }
+            ],
+            [
+                {
+                    "country": "ARG",
+                    "name": "Nayla BURZIO"
+                },
+                {
+                    "country": "AUS",
+                    "name": "Anneliese FIELDER"
+                },
+                {
+                    "winner": "Nayla BURZIO"
+                }
+            ],
+            [
+                {
+                    "country": "USA",
+                    "name": "Jayne LOO"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Nayla BURZIO",
+            "Jayne LOO"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "AUS",
+                    "name": "Anneliese FIELDER"
+                },
+                {
+                    "country": "CAN",
+                    "name": "Charlize Isabelle MEDILO"
+                },
+                {
+                    "winner": "Charlize Isabelle MEDILO"
+                }
+            ],
+            [
+                {
+                    "country": "USA",
+                    "name": "Harlee HILLER"
+                },
+                {
+                    "country": "USA",
+                    "name": "Jayne LOO"
+                },
+                {
+                    "winner": "Harlee HILLER"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "CAN",
+                    "name": "Charlize Isabelle MEDILO"
+                },
+                {
+                    "country": "USA",
+                    "name": "Harlee HILLER"
+                }
+            ]
+        ],
+        "final_winner": "Charlize Isabelle MEDILO"
+    }
+}

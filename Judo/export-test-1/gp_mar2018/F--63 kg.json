@@ -1,0 +1,237 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "SLO",
+                    "name": "Andreja LESKI"
+                },
+                {
+                    "winner": "Andreja LESKI"
+                }
+            ],
+            [
+                {
+                    "country": "FRA",
+                    "name": "Yasmine HORLAVILLE"
+                },
+                {
+                    "country": "MAR",
+                    "name": "Khadija MANCOURI AZZOUZI"
+                },
+                {
+                    "winner": "Yasmine HORLAVILLE"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "SLO",
+                    "name": "Andreja LESKI"
+                },
+                {
+                    "country": "FRA",
+                    "name": "Yasmine HORLAVILLE"
+                }
+            ]
+        ],
+        "final_winner": "Andreja LESKI"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ISR",
+                    "name": "Inbal SHEMESH"
+                },
+                {
+                    "winner": "Inbal SHEMESH"
+                }
+            ],
+            []
+        ],
+        "round 1-1": [],
+        "final_winner": "Inbal SHEMESH"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "AUS",
+                    "name": "Katharina HAECKER"
+                },
+                {
+                    "winner": "Katharina HAECKER"
+                }
+            ],
+            [
+                {
+                    "country": "GER",
+                    "name": "Nadja BAZYNSKI"
+                },
+                {
+                    "country": "FRA",
+                    "name": "Ines PREVOT"
+                },
+                {
+                    "winner": "Nadja BAZYNSKI"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "AUS",
+                    "name": "Katharina HAECKER"
+                },
+                {
+                    "country": "GER",
+                    "name": "Nadja BAZYNSKI"
+                }
+            ]
+        ],
+        "final_winner": "Katharina HAECKER"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "MAR",
+                    "name": "Sofia BELATTAR"
+                },
+                {
+                    "winner": "Sofia BELATTAR"
+                }
+            ],
+            [
+                {
+                    "country": "GER",
+                    "name": "Vivian HERRMANN"
+                },
+                {
+                    "country": "ISR",
+                    "name": "Gili SHARIR"
+                },
+                {
+                    "winner": "Vivian HERRMANN"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "MAR",
+                    "name": "Sofia BELATTAR"
+                },
+                {
+                    "country": "GER",
+                    "name": "Vivian HERRMANN"
+                }
+            ]
+        ],
+        "final_winner": "Vivian HERRMANN"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "FRA",
+                    "name": "Yasmine HORLAVILLE"
+                }
+            ],
+            [
+                {
+                    "country": "GER",
+                    "name": "Nadja BAZYNSKI"
+                },
+                {
+                    "country": "MAR",
+                    "name": "Sofia BELATTAR"
+                },
+                {
+                    "winner": "Sofia BELATTAR"
+                }
+            ],
+            [
+                {
+                    "country": "FRA",
+                    "name": "Yasmine HORLAVILLE"
+                },
+                {
+                    "country": "GER",
+                    "name": "Vivian HERRMANN"
+                },
+                {
+                    "winner": "Yasmine HORLAVILLE"
+                }
+            ],
+            [
+                {
+                    "country": "MAR",
+                    "name": "Sofia BELATTAR"
+                },
+                {
+                    "country": "ISR",
+                    "name": "Inbal SHEMESH"
+                },
+                {
+                    "winner": "Inbal SHEMESH"
+                }
+            ],
+            [
+                {
+                    "country": "ISR",
+                    "name": "Inbal SHEMESH"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Sofia BELATTAR",
+            "Yasmine HORLAVILLE"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "SLO",
+                    "name": "Andreja LESKI"
+                },
+                {
+                    "country": "ISR",
+                    "name": "Inbal SHEMESH"
+                },
+                {
+                    "winner": "Andreja LESKI"
+                }
+            ],
+            [
+                {
+                    "country": "AUS",
+                    "name": "Katharina HAECKER"
+                },
+                {
+                    "country": "GER",
+                    "name": "Vivian HERRMANN"
+                },
+                {
+                    "winner": "Katharina HAECKER"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "SLO",
+                    "name": "Andreja LESKI"
+                },
+                {
+                    "country": "AUS",
+                    "name": "Katharina HAECKER"
+                }
+            ]
+        ],
+        "final_winner": "Andreja LESKI"
+    }
+}

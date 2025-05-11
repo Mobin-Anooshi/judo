@@ -1,0 +1,116 @@
+{
+    "POOL A": {
+        "round 1-1": [],
+        "final_winner": "James ZAHRA"
+    },
+    "POOL B": {
+        "round 1-1": [
+            [
+                {
+                    "country": "CYP",
+                    "name": "Loukas KONSTANTINOU"
+                },
+                {
+                    "country": "CYP",
+                    "name": "Alexandros KAMITSIS"
+                }
+            ]
+        ],
+        "final_winner": "Loukas KONSTANTINOU"
+    },
+    "POOL C": {
+        "round 1-1": [
+            [
+                {
+                    "country": "CYP",
+                    "name": "Christos STAVROU"
+                },
+                {
+                    "country": "AND",
+                    "name": "PERE ARMENTA PALOMARES"
+                }
+            ]
+        ],
+        "final_winner": "Christos STAVROU"
+    },
+    "POOL D": {
+        "round 1-1": [
+            [
+                {
+                    "country": "MLT",
+                    "name": "Aleksa STOJANOVIC"
+                },
+                {
+                    "country": "CYP",
+                    "name": "Stratos CHARALAMPOUS"
+                }
+            ]
+        ],
+        "final_winner": "Aleksa STOJANOVIC"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CYP",
+                    "name": "Alexandros KAMITSIS"
+                }
+            ],
+            [
+                {
+                    "country": "AND",
+                    "name": "PERE ARMENTA PALOMARES"
+                },
+                {
+                    "country": "CYP",
+                    "name": "Stratos CHARALAMPOUS"
+                },
+                {
+                    "winner": "Stratos CHARALAMPOUS"
+                }
+            ],
+            [
+                {
+                    "country": "CYP",
+                    "name": "Alexandros KAMITSIS"
+                },
+                {
+                    "country": "MLT",
+                    "name": "Aleksa STOJANOVIC"
+                },
+                {
+                    "winner": "Aleksa STOJANOVIC"
+                }
+            ],
+            [
+                {
+                    "country": "CYP",
+                    "name": "Stratos CHARALAMPOUS"
+                },
+                {
+                    "country": "CYP",
+                    "name": "Loukas KONSTANTINOU"
+                },
+                {
+                    "winner": "Loukas KONSTANTINOU"
+                }
+            ],
+            [
+                {
+                    "country": "MLT",
+                    "name": "Aleksa STOJANOVIC"
+                }
+            ],
+            [
+                {
+                    "country": "CYP",
+                    "name": "Loukas KONSTANTINOU"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Aleksa STOJANOVIC",
+            "Loukas KONSTANTINOU"
+        ]
+    }
+}

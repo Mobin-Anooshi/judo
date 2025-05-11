@@ -1,0 +1,177 @@
+{
+    "POOL A": {
+        "round 1-1": [
+            [
+                {
+                    "country": "NZL",
+                    "name": "Tara BEALE"
+                },
+                {
+                    "country": "KOR",
+                    "name": "Gyeonghyo WOO"
+                }
+            ]
+        ],
+        "final_winner": "Gyeonghyo WOO"
+    },
+    "POOL B": {
+        "round 1-1": [
+            [
+                {
+                    "country": "MGL",
+                    "name": "Nyamgerel ENKHBOLD"
+                },
+                {
+                    "country": "MAC",
+                    "name": "Ian I LEI"
+                }
+            ]
+        ],
+        "final_winner": "Nyamgerel ENKHBOLD"
+    },
+    "POOL C": {
+        "round 1-1": [
+            [
+                {
+                    "country": "NZL",
+                    "name": "Ella KELSO"
+                },
+                {
+                    "country": "KOR",
+                    "name": "Jiyoung KIM"
+                }
+            ]
+        ],
+        "final_winner": "Jiyoung KIM"
+    },
+    "POOL D": {
+        "round 1-1": [
+            [
+                {
+                    "country": "THA",
+                    "name": "Navarat KHONGTHONTHAE"
+                },
+                {
+                    "country": "HKG",
+                    "name": "Sze Wing LO"
+                }
+            ]
+        ],
+        "final_winner": "Sze Wing LO"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "NZL",
+                    "name": "Tara BEALE"
+                },
+                {
+                    "country": "MAC",
+                    "name": "Ian I LEI"
+                },
+                {
+                    "winner": "Tara BEALE"
+                }
+            ],
+            [
+                {
+                    "country": "NZL",
+                    "name": "Ella KELSO"
+                },
+                {
+                    "country": "THA",
+                    "name": "Navarat KHONGTHONTHAE"
+                },
+                {
+                    "winner": "Ella KELSO"
+                }
+            ],
+            [
+                {
+                    "country": "NZL",
+                    "name": "Tara BEALE"
+                },
+                {
+                    "country": "HKG",
+                    "name": "Sze Wing LO"
+                },
+                {
+                    "winner": "Tara BEALE"
+                }
+            ],
+            [
+                {
+                    "country": "NZL",
+                    "name": "Ella KELSO"
+                },
+                {
+                    "country": "MGL",
+                    "name": "Nyamgerel ENKHBOLD"
+                },
+                {
+                    "winner": "Nyamgerel ENKHBOLD"
+                }
+            ],
+            [
+                {
+                    "country": "NZL",
+                    "name": "Tara BEALE"
+                }
+            ],
+            [
+                {
+                    "country": "MGL",
+                    "name": "Nyamgerel ENKHBOLD"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Tara BEALE",
+            "Nyamgerel ENKHBOLD"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "KOR",
+                    "name": "Gyeonghyo WOO"
+                },
+                {
+                    "country": "MGL",
+                    "name": "Nyamgerel ENKHBOLD"
+                },
+                {
+                    "winner": "Gyeonghyo WOO"
+                }
+            ],
+            [
+                {
+                    "country": "KOR",
+                    "name": "Jiyoung KIM"
+                },
+                {
+                    "country": "HKG",
+                    "name": "Sze Wing LO"
+                },
+                {
+                    "winner": "Jiyoung KIM"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "KOR",
+                    "name": "Gyeonghyo WOO"
+                },
+                {
+                    "country": "KOR",
+                    "name": "Jiyoung KIM"
+                }
+            ]
+        ],
+        "final_winner": "Jiyoung KIM"
+    }
+}

@@ -1,0 +1,244 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "POL",
+                    "name": "Katarzyna KLYS"
+                },
+                {
+                    "winner": "Katarzyna KLYS"
+                }
+            ],
+            []
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "POL",
+                    "name": "Katarzyna KLYS"
+                }
+            ]
+        ]
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "NED",
+                    "name": "Yvonne ODINK"
+                },
+                {
+                    "winner": "Yvonne ODINK"
+                }
+            ],
+            [
+                {
+                    "country": "SUI",
+                    "name": "Sara WILLI"
+                },
+                {
+                    "winner": "Sara WILLI"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "NED",
+                    "name": "Yvonne ODINK"
+                },
+                {
+                    "country": "SUI",
+                    "name": "Sara WILLI"
+                }
+            ],
+            [
+                {
+                    "country": "NED",
+                    "name": "Yvonne ODINK"
+                }
+            ]
+        ]
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "SUI",
+                    "name": "Alina LENGWEILER"
+                },
+                {
+                    "winner": "Alina LENGWEILER"
+                }
+            ],
+            []
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "SUI",
+                    "name": "Alina LENGWEILER"
+                }
+            ]
+        ]
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ITA",
+                    "name": "Chiara CARMINUCCI"
+                },
+                {
+                    "winner": "Chiara CARMINUCCI"
+                }
+            ],
+            [
+                {
+                    "country": "HUN",
+                    "name": "Szabina GERCSAK"
+                },
+                {
+                    "winner": "Szabina GERCSAK"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "ITA",
+                    "name": "Chiara CARMINUCCI"
+                },
+                {
+                    "country": "HUN",
+                    "name": "Szabina GERCSAK"
+                }
+            ],
+            [
+                {
+                    "country": "HUN",
+                    "name": "Szabina GERCSAK"
+                }
+            ]
+        ]
+    },
+    "REPECHAGE": {
+        "round 1-4": [
+            [],
+            [
+                {
+                    "country": "SUI",
+                    "name": "Sara WILLI"
+                },
+                {
+                    "winner": "Sara WILLI"
+                }
+            ],
+            [],
+            [
+                {
+                    "country": "ITA",
+                    "name": "Chiara CARMINUCCI"
+                },
+                {
+                    "winner": "Chiara CARMINUCCI"
+                }
+            ]
+        ],
+        "round 1-2": [
+            [
+                {
+                    "country": "SUI",
+                    "name": "Sara WILLI"
+                }
+            ],
+            [
+                {
+                    "country": "ITA",
+                    "name": "Chiara CARMINUCCI"
+                }
+            ],
+            [
+                {
+                    "country": "SUI",
+                    "name": "Sara WILLI"
+                },
+                {
+                    "country": "HUN",
+                    "name": "Szabina GERCSAK"
+                }
+            ],
+            [
+                {
+                    "country": "ITA",
+                    "name": "Chiara CARMINUCCI"
+                },
+                {
+                    "country": "NED",
+                    "name": "Yvonne ODINK"
+                }
+            ],
+            [
+                {
+                    "country": "HUN",
+                    "name": "Szabina GERCSAK"
+                }
+            ],
+            [
+                {
+                    "country": "NED",
+                    "name": "Yvonne ODINK"
+                }
+            ]
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "POL",
+                    "name": "Katarzyna KLYS"
+                },
+                {
+                    "country": "NED",
+                    "name": "Yvonne ODINK"
+                },
+                {
+                    "winner": "Katarzyna KLYS"
+                }
+            ],
+            [
+                {
+                    "country": "SUI",
+                    "name": "Alina LENGWEILER"
+                },
+                {
+                    "country": "HUN",
+                    "name": "Szabina GERCSAK"
+                },
+                {
+                    "winner": "Alina LENGWEILER"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "POL",
+                    "name": "Katarzyna KLYS"
+                },
+                {
+                    "country": "SUI",
+                    "name": "Alina LENGWEILER"
+                }
+            ],
+            [
+                {
+                    "country": "POL",
+                    "name": "Katarzyna KLYS"
+                }
+            ]
+        ]
+    }
+}

@@ -1,0 +1,261 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ISR",
+                    "name": "Noa MINSKER"
+                },
+                {
+                    "winner": "Noa MINSKER"
+                }
+            ],
+            [
+                {
+                    "country": "POL",
+                    "name": "Joanna STANKIEWICZ"
+                },
+                {
+                    "winner": "Joanna STANKIEWICZ"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "ISR",
+                    "name": "Noa MINSKER"
+                },
+                {
+                    "country": "POL",
+                    "name": "Joanna STANKIEWICZ"
+                }
+            ]
+        ],
+        "final_winner": "Noa MINSKER"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "BLR",
+                    "name": "Anfisa KAPAYEVA"
+                },
+                {
+                    "winner": "Anfisa KAPAYEVA"
+                }
+            ],
+            [
+                {
+                    "country": "FIN",
+                    "name": "Marianne KOSONEN"
+                },
+                {
+                    "winner": "Marianne KOSONEN"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "BLR",
+                    "name": "Anfisa KAPAYEVA"
+                },
+                {
+                    "country": "FIN",
+                    "name": "Marianne KOSONEN"
+                }
+            ]
+        ],
+        "final_winner": "Anfisa KAPAYEVA"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "MRI",
+                    "name": "Priscilla MORAND"
+                },
+                {
+                    "winner": "Priscilla MORAND"
+                }
+            ],
+            [
+                {
+                    "country": "GER",
+                    "name": "Mira ULRICH"
+                },
+                {
+                    "country": "FIN",
+                    "name": "Taina KAIPONEN"
+                },
+                {
+                    "winner": "Mira ULRICH"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "MRI",
+                    "name": "Priscilla MORAND"
+                },
+                {
+                    "country": "GER",
+                    "name": "Mira ULRICH"
+                }
+            ]
+        ],
+        "final_winner": "Mira ULRICH"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "POL",
+                    "name": "Ewa KONIECZNY"
+                },
+                {
+                    "winner": "Ewa KONIECZNY"
+                }
+            ],
+            [
+                {
+                    "country": "ITA",
+                    "name": "Francesca MILANI"
+                },
+                {
+                    "winner": "Francesca MILANI"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "POL",
+                    "name": "Ewa KONIECZNY"
+                },
+                {
+                    "country": "ITA",
+                    "name": "Francesca MILANI"
+                }
+            ]
+        ],
+        "final_winner": "Ewa KONIECZNY"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "POL",
+                    "name": "Joanna STANKIEWICZ"
+                },
+                {
+                    "country": "FIN",
+                    "name": "Marianne KOSONEN"
+                },
+                {
+                    "winner": "Joanna STANKIEWICZ"
+                }
+            ],
+            [
+                {
+                    "country": "MRI",
+                    "name": "Priscilla MORAND"
+                },
+                {
+                    "country": "ITA",
+                    "name": "Francesca MILANI"
+                },
+                {
+                    "winner": "Francesca MILANI"
+                }
+            ],
+            [
+                {
+                    "country": "POL",
+                    "name": "Joanna STANKIEWICZ"
+                },
+                {
+                    "country": "GER",
+                    "name": "Mira ULRICH"
+                },
+                {
+                    "winner": "Mira ULRICH"
+                }
+            ],
+            [
+                {
+                    "country": "ITA",
+                    "name": "Francesca MILANI"
+                },
+                {
+                    "country": "BLR",
+                    "name": "Anfisa KAPAYEVA"
+                },
+                {
+                    "winner": "Francesca MILANI"
+                }
+            ],
+            [
+                {
+                    "country": "GER",
+                    "name": "Mira ULRICH"
+                }
+            ],
+            [
+                {
+                    "country": "ITA",
+                    "name": "Francesca MILANI"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Mira ULRICH",
+            "Francesca MILANI"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ISR",
+                    "name": "Noa MINSKER"
+                },
+                {
+                    "country": "BLR",
+                    "name": "Anfisa KAPAYEVA"
+                },
+                {
+                    "winner": "Noa MINSKER"
+                }
+            ],
+            [
+                {
+                    "country": "GER",
+                    "name": "Mira ULRICH"
+                },
+                {
+                    "country": "POL",
+                    "name": "Ewa KONIECZNY"
+                },
+                {
+                    "winner": "Ewa KONIECZNY"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "ISR",
+                    "name": "Noa MINSKER"
+                },
+                {
+                    "country": "POL",
+                    "name": "Ewa KONIECZNY"
+                }
+            ]
+        ],
+        "final_winner": "Noa MINSKER"
+    }
+}

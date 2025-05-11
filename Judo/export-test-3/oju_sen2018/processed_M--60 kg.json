@@ -1,0 +1,68 @@
+{
+    "ROUND 1": {
+        "round 1-2": [
+            [
+                {
+                    "country": "AUS",
+                    "name": "Joshua KATZ"
+                },
+                {
+                    "country": "NZL",
+                    "name": "Tatalong HANNARONG"
+                },
+                {
+                    "winner": "Joshua KATZ"
+                }
+            ],
+            [
+                {
+                    "country": "NZL",
+                    "name": "Sam ENTWISTLE"
+                },
+                {
+                    "country": "NCL",
+                    "name": "Gensric SAKIMAN"
+                },
+                {
+                    "winner": "Gensric SAKIMAN"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Joshua KATZ",
+            "Gensric SAKIMAN"
+        ]
+    },
+    "REPECHAGE": {
+        "round 1-1": [
+            [
+                {
+                    "country": "NZL",
+                    "name": "Tatalong HANNARONG"
+                },
+                {
+                    "country": "NZL",
+                    "name": "Sam ENTWISTLE"
+                },
+                {
+                    "winner": "Sam ENTWISTLE"
+                }
+            ],
+            [
+                {
+                    "country": "NZL",
+                    "name": "Sam ENTWISTLE"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Sam ENTWISTLE"
+        ]
+    },
+    "FINALS": {
+        "round 1-1": [],
+        "final_winners": [
+            "Joshua KATZ"
+        ]
+    }
+}

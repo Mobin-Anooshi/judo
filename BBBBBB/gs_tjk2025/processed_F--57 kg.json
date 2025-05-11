@@ -1,0 +1,287 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "FRA",
+                    "name": "Sarah Leonie CYSIQUE"
+                },
+                {
+                    "country": "TKM",
+                    "name": "Medine ORAZNYYAZOVA"
+                },
+                {
+                    "winner": "Sarah Leonie CYSIQUE"
+                }
+            ],
+            [
+                {
+                    "country": "TJK",
+                    "name": "Aleksandra KAN"
+                },
+                {
+                    "country": "CHN",
+                    "name": "Yaqi GONG"
+                },
+                {
+                    "winner": "Aleksandra KAN"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "FRA",
+                    "name": "Sarah Leonie CYSIQUE"
+                },
+                {
+                    "country": "TJK",
+                    "name": "Aleksandra KAN"
+                }
+            ]
+        ],
+        "final_winner": "Sarah Leonie CYSIQUE"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CRO",
+                    "name": "Ana Viktorija PULJIZ"
+                },
+                {
+                    "country": "IJF",
+                    "name": "Liubov TIMOFEICHEVA"
+                },
+                {
+                    "winner": "Ana Viktorija PULJIZ"
+                }
+            ],
+            [
+                {
+                    "country": "FIN",
+                    "name": "Pihla SALONEN"
+                },
+                {
+                    "country": "UZB",
+                    "name": "Despina BOCHKOVA"
+                },
+                {
+                    "winner": "Pihla SALONEN"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "CRO",
+                    "name": "Ana Viktorija PULJIZ"
+                },
+                {
+                    "country": "FIN",
+                    "name": "Pihla SALONEN"
+                }
+            ]
+        ],
+        "final_winner": "Pihla SALONEN"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "UZB",
+                    "name": "Shukurjon AMINOVA"
+                },
+                {
+                    "country": "TJK",
+                    "name": "Rahmiya KHANJARBEKOVA"
+                },
+                {
+                    "winner": "Shukurjon AMINOVA"
+                }
+            ],
+            [
+                {
+                    "country": "MGL",
+                    "name": "Oyunchimeg OYUNGEREL"
+                },
+                {
+                    "country": "IJF",
+                    "name": "Natalia ELKINA"
+                },
+                {
+                    "winner": "Natalia ELKINA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "UZB",
+                    "name": "Shukurjon AMINOVA"
+                },
+                {
+                    "country": "IJF",
+                    "name": "Natalia ELKINA"
+                }
+            ]
+        ],
+        "final_winner": "Natalia ELKINA"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "TKM",
+                    "name": "Maysa PARDAYEVA"
+                },
+                {
+                    "country": "KGZ",
+                    "name": "Zhanar ZHOLDOSHEVA"
+                },
+                {
+                    "winner": "Maysa PARDAYEVA"
+                }
+            ],
+            [
+                {
+                    "country": "CHN",
+                    "name": "Yuying TAO"
+                },
+                {
+                    "country": "FIN",
+                    "name": "Pihla MATIKAINEN"
+                },
+                {
+                    "winner": "Yuying TAO"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "TKM",
+                    "name": "Maysa PARDAYEVA"
+                },
+                {
+                    "country": "CHN",
+                    "name": "Yuying TAO"
+                }
+            ]
+        ],
+        "final_winner": "Maysa PARDAYEVA"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "TJK",
+                    "name": "Aleksandra KAN"
+                },
+                {
+                    "country": "CRO",
+                    "name": "Ana Viktorija PULJIZ"
+                },
+                {
+                    "winner": "Ana Viktorija PULJIZ"
+                }
+            ],
+            [
+                {
+                    "country": "UZB",
+                    "name": "Shukurjon AMINOVA"
+                },
+                {
+                    "country": "CHN",
+                    "name": "Yuying TAO"
+                },
+                {
+                    "winner": "Yuying TAO"
+                }
+            ],
+            [
+                {
+                    "country": "CRO",
+                    "name": "Ana Viktorija PULJIZ"
+                },
+                {
+                    "country": "Vote",
+                    "name": "TKM"
+                },
+                {
+                    "country": "Maysa PARDAYEVA",
+                    "name": "Vote"
+                },
+                {
+                    "winner": "Vote"
+                }
+            ],
+            [
+                {
+                    "country": "CHN",
+                    "name": "Yuying TAO"
+                },
+                {
+                    "country": "Vote",
+                    "name": "FIN"
+                },
+                {
+                    "country": "Pihla SALONEN",
+                    "name": "Vote"
+                },
+                {
+                    "winner": "Yuying TAO"
+                }
+            ],
+            []
+        ],
+        "final_winners": [
+            "Yuying TAO",
+            "Vote"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "FRA",
+                    "name": "Sarah Leonie CYSIQUE"
+                },
+                {
+                    "country": "FIN",
+                    "name": "Pihla SALONEN"
+                },
+                {
+                    "winner": "Sarah Leonie CYSIQUE"
+                }
+            ],
+            [
+                {
+                    "country": "IJF",
+                    "name": "Natalia ELKINA"
+                },
+                {
+                    "country": "TKM",
+                    "name": "Maysa PARDAYEVA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "FRA",
+                    "name": "Sarah Leonie CYSIQUE"
+                },
+                {
+                    "country": "Vote",
+                    "name": "IJF"
+                },
+                {
+                    "country": "Natalia ELKINA",
+                    "name": "Vote"
+                }
+            ],
+            []
+        ]
+    }
+}

@@ -1,0 +1,87 @@
+{
+    "POOL A": {
+        "round 1-3": [
+            [
+                {
+                    "country": "GBR",
+                    "name": "Peter DAVIES"
+                },
+                {
+                    "country": "PER",
+                    "name": "Adriel MACHAZEK"
+                },
+                {
+                    "winner": "Peter DAVIES"
+                }
+            ],
+            [
+                {
+                    "country": "GBR",
+                    "name": "Peter DAVIES"
+                },
+                {
+                    "country": "USA",
+                    "name": "Kasym KHUSAINOV"
+                },
+                {
+                    "winner": "Kasym KHUSAINOV"
+                }
+            ],
+            [
+                {
+                    "country": "PER",
+                    "name": "Adriel MACHAZEK"
+                },
+                {
+                    "country": "USA",
+                    "name": "Kasym KHUSAINOV"
+                },
+                {
+                    "winner": "Adriel MACHAZEK"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Peter DAVIES",
+            "Adriel MACHAZEK"
+        ]
+    },
+    "POOL B": {
+        "round 1-1": [],
+        "final_winners": [
+            "Jesus MONTANEZ DOMINGUEZ"
+        ]
+    },
+    "REPECHAGE": {
+        "round 1-1": [
+            [
+                {
+                    "country": "PER",
+                    "name": "Adriel MACHAZEK"
+                },
+                {
+                    "country": "PER",
+                    "name": "Iker CELIS"
+                },
+                {
+                    "winner": "Adriel MACHAZEK"
+                }
+            ],
+            [
+                {
+                    "country": "PER",
+                    "name": "Adriel MACHAZEK"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Adriel MACHAZEK"
+        ]
+    },
+    "FINALS": {
+        "round 1-1": [],
+        "final_winners": [
+            "Jesus MONTANEZ DOMINGUEZ"
+        ]
+    }
+}

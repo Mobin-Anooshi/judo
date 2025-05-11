@@ -1,0 +1,98 @@
+{
+    "POOL A": {
+        "round 1-3": [
+            [
+                {
+                    "country": "PAR",
+                    "name": "Mateo CABRAL"
+                },
+                {
+                    "country": "CRC",
+                    "name": "Gabriel AGUERO VASQUEZ"
+                }
+            ],
+            [
+                {
+                    "country": "PAR",
+                    "name": "Mateo CABRAL"
+                },
+                {
+                    "country": "PER",
+                    "name": "Mateo CONDOR"
+                }
+            ],
+            [
+                {
+                    "country": "CRC",
+                    "name": "Gabriel AGUERO VASQUEZ"
+                },
+                {
+                    "country": "PER",
+                    "name": "Mateo CONDOR"
+                }
+            ],
+            [
+                {
+                    "country": "PAR",
+                    "name": "Mateo CABRAL"
+                }
+            ],
+            [
+                {
+                    "country": "PER",
+                    "name": "Mateo CONDOR"
+                }
+            ]
+        ]
+    },
+    "POOL B": {
+        "round 1-1": [
+            [
+                {
+                    "country": "MEX",
+                    "name": "Jose QUINTA"
+                },
+                {
+                    "country": "PER",
+                    "name": "Alonso BARDALES"
+                }
+            ]
+        ],
+        "final_winner": "Jose QUINTA"
+    },
+    "REPECHAGE": {
+        "round 1-1": [
+            [
+                {
+                    "country": "PAR",
+                    "name": "Mateo CABRAL"
+                },
+                {
+                    "country": "PER",
+                    "name": "Alonso BARDALES"
+                }
+            ],
+            [
+                {
+                    "country": "PAR",
+                    "name": "Mateo CABRAL"
+                }
+            ]
+        ]
+    },
+    "FINALS": {
+        "round 1-1": [
+            [
+                {
+                    "country": "PER",
+                    "name": "Mateo CONDOR"
+                },
+                {
+                    "country": "MEX",
+                    "name": "Jose QUINTA"
+                }
+            ]
+        ],
+        "final_winner": "Mateo CONDOR"
+    }
+}

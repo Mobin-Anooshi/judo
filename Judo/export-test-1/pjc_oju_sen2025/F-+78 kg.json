@@ -1,0 +1,177 @@
+{
+    "POOL A": {
+        "round 1-1": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Beatriz SOUZA"
+                },
+                {
+                    "country": "BAH",
+                    "name": "Karra HANNA"
+                }
+            ]
+        ],
+        "final_winner": "Beatriz SOUZA"
+    },
+    "POOL B": {
+        "round 1-1": [
+            [
+                {
+                    "country": "COL",
+                    "name": "Brigitte CARABALI"
+                },
+                {
+                    "country": "USA",
+                    "name": "Jessica ALAYNICK"
+                }
+            ]
+        ],
+        "final_winner": "Brigitte CARABALI"
+    },
+    "POOL C": {
+        "round 1-1": [
+            [
+                {
+                    "country": "NZL",
+                    "name": "Sydnee ANDREWS"
+                },
+                {
+                    "country": "CAN",
+                    "name": "Marianna KARAS"
+                }
+            ]
+        ],
+        "final_winner": "Sydnee ANDREWS"
+    },
+    "POOL D": {
+        "round 1-1": [
+            [
+                {
+                    "country": "NCA",
+                    "name": "Izayana MARENCO"
+                },
+                {
+                    "country": "CUB",
+                    "name": "Naomis ELIZARDE SUAREZ"
+                }
+            ]
+        ],
+        "final_winner": "Naomis ELIZARDE SUAREZ"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "BAH",
+                    "name": "Karra HANNA"
+                },
+                {
+                    "country": "USA",
+                    "name": "Jessica ALAYNICK"
+                },
+                {
+                    "winner": "Karra HANNA"
+                }
+            ],
+            [
+                {
+                    "country": "CAN",
+                    "name": "Marianna KARAS"
+                },
+                {
+                    "country": "NCA",
+                    "name": "Izayana MARENCO"
+                },
+                {
+                    "winner": "Izayana MARENCO"
+                }
+            ],
+            [
+                {
+                    "country": "BAH",
+                    "name": "Karra HANNA"
+                },
+                {
+                    "country": "CUB",
+                    "name": "Naomis ELIZARDE SUAREZ"
+                },
+                {
+                    "winner": "Naomis ELIZARDE SUAREZ"
+                }
+            ],
+            [
+                {
+                    "country": "NCA",
+                    "name": "Izayana MARENCO"
+                },
+                {
+                    "country": "COL",
+                    "name": "Brigitte CARABALI"
+                },
+                {
+                    "winner": "Brigitte CARABALI"
+                }
+            ],
+            [
+                {
+                    "country": "CUB",
+                    "name": "Naomis ELIZARDE SUAREZ"
+                }
+            ],
+            [
+                {
+                    "country": "COL",
+                    "name": "Brigitte CARABALI"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Naomis ELIZARDE SUAREZ",
+            "Brigitte CARABALI"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Beatriz SOUZA"
+                },
+                {
+                    "country": "COL",
+                    "name": "Brigitte CARABALI"
+                },
+                {
+                    "winner": "Beatriz SOUZA"
+                }
+            ],
+            [
+                {
+                    "country": "NZL",
+                    "name": "Sydnee ANDREWS"
+                },
+                {
+                    "country": "CUB",
+                    "name": "Naomis ELIZARDE SUAREZ"
+                },
+                {
+                    "winner": "Sydnee ANDREWS"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Beatriz SOUZA"
+                },
+                {
+                    "country": "NZL",
+                    "name": "Sydnee ANDREWS"
+                }
+            ]
+        ],
+        "final_winner": "Beatriz SOUZA"
+    }
+}

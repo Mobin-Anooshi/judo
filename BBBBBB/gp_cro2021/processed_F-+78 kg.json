@@ -1,0 +1,135 @@
+{
+    "POOL A": {
+        "round 1-1": [],
+        "final_winner": "Julia TOLOFUA"
+    },
+    "POOL B": {
+        "round 1-1": [
+            [
+                {
+                    "country": "CRO",
+                    "name": "Helena VUKOVIC"
+                },
+                {
+                    "country": "CRO",
+                    "name": "Tina RADIC"
+                }
+            ]
+        ],
+        "final_winner": "Helena VUKOVIC"
+    },
+    "POOL C": {
+        "round 1-1": [],
+        "final_winner": "Mercedesz SZIGETVARI"
+    },
+    "POOL D": {
+        "round 1-1": [
+            [
+                {
+                    "country": "GER",
+                    "name": "Renee LUCHT"
+                },
+                {
+                    "country": "FRA",
+                    "name": "Laura FUSEAU"
+                }
+            ]
+        ],
+        "final_winner": "Renee LUCHT"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CRO",
+                    "name": "Tina RADIC"
+                }
+            ],
+            [
+                {
+                    "country": "FRA",
+                    "name": "Laura FUSEAU"
+                }
+            ],
+            [
+                {
+                    "country": "CRO",
+                    "name": "Tina RADIC"
+                },
+                {
+                    "country": "GER",
+                    "name": "Renee LUCHT"
+                },
+                {
+                    "winner": "Renee LUCHT"
+                }
+            ],
+            [
+                {
+                    "country": "FRA",
+                    "name": "Laura FUSEAU"
+                },
+                {
+                    "country": "CRO",
+                    "name": "Helena VUKOVIC"
+                },
+                {
+                    "winner": "Laura FUSEAU"
+                }
+            ],
+            [
+                {
+                    "country": "GER",
+                    "name": "Renee LUCHT"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Laura FUSEAU",
+            "Renee LUCHT"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "FRA",
+                    "name": "Julia TOLOFUA"
+                },
+                {
+                    "country": "CRO",
+                    "name": "Helena VUKOVIC"
+                },
+                {
+                    "winner": "Julia TOLOFUA"
+                }
+            ],
+            [
+                {
+                    "country": "HUN",
+                    "name": "Mercedesz SZIGETVARI"
+                },
+                {
+                    "country": "GER",
+                    "name": "Renee LUCHT"
+                },
+                {
+                    "winner": "Mercedesz SZIGETVARI"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "FRA",
+                    "name": "Julia TOLOFUA"
+                },
+                {
+                    "country": "HUN",
+                    "name": "Mercedesz SZIGETVARI"
+                }
+            ]
+        ],
+        "final_winner": "Julia TOLOFUA"
+    }
+}

@@ -1,0 +1,129 @@
+{
+    "POOL A": {
+        "round 1-1": [
+            [
+                {
+                    "country": "TUN",
+                    "name": "Mouna MANAI"
+                },
+                {
+                    "country": "MAR",
+                    "name": "fadwa IBN OUE ELFAKIR"
+                }
+            ]
+        ],
+        "final_winner": "Mouna MANAI"
+    },
+    "POOL B": {
+        "round 1-1": [],
+        "final_winner": "Wiam FASLA"
+    },
+    "POOL C": {
+        "round 1-1": [],
+        "final_winner": "Chancella MIANBIGUE"
+    },
+    "POOL D": {
+        "round 1-1": [
+            [
+                {
+                    "country": "TUN",
+                    "name": "Saida MONSER"
+                },
+                {
+                    "country": "MAR",
+                    "name": "Oumaima BEDDAH"
+                }
+            ]
+        ],
+        "final_winner": "Saida MONSER"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "MAR",
+                    "name": "fadwa IBN OUE ELFAKIR"
+                }
+            ],
+            [
+                {
+                    "country": "MAR",
+                    "name": "Oumaima BEDDAH"
+                }
+            ],
+            [
+                {
+                    "country": "MAR",
+                    "name": "fadwa IBN OUE ELFAKIR"
+                },
+                {
+                    "country": "CHA",
+                    "name": "Chancella MIANBIGUE"
+                },
+                {
+                    "winner": "fadwa IBN OUE ELFAKIR"
+                }
+            ],
+            [
+                {
+                    "country": "MAR",
+                    "name": "Oumaima BEDDAH"
+                },
+                {
+                    "country": "MAR",
+                    "name": "Wiam FASLA"
+                },
+                {
+                    "winner": "Oumaima BEDDAH"
+                }
+            ]
+        ],
+        "final_winners": [
+            "fadwa IBN OUE ELFAKIR",
+            "Oumaima BEDDAH"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "TUN",
+                    "name": "Mouna MANAI"
+                },
+                {
+                    "country": "MAR",
+                    "name": "Wiam FASLA"
+                },
+                {
+                    "winner": "Mouna MANAI"
+                }
+            ],
+            [
+                {
+                    "country": "CHA",
+                    "name": "Chancella MIANBIGUE"
+                },
+                {
+                    "country": "TUN",
+                    "name": "Saida MONSER"
+                },
+                {
+                    "winner": "Saida MONSER"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "TUN",
+                    "name": "Mouna MANAI"
+                },
+                {
+                    "country": "TUN",
+                    "name": "Saida MONSER"
+                }
+            ]
+        ],
+        "final_winner": "Saida MONSER"
+    }
+}

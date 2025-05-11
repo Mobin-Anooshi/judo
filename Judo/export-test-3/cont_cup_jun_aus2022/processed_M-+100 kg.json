@@ -1,0 +1,87 @@
+{
+    "POOL A": {
+        "round 1-3": [
+            [
+                {
+                    "country": "KOR",
+                    "name": "Gyuseon MUN"
+                },
+                {
+                    "country": "NZL",
+                    "name": "Paula MONTA"
+                },
+                {
+                    "winner": "Gyuseon MUN"
+                }
+            ],
+            [
+                {
+                    "country": "KOR",
+                    "name": "Gyuseon MUN"
+                },
+                {
+                    "country": "KSA",
+                    "name": "Mohammed BU KHAMSIN"
+                },
+                {
+                    "winner": "Mohammed BU KHAMSIN"
+                }
+            ],
+            [
+                {
+                    "country": "NZL",
+                    "name": "Paula MONTA"
+                },
+                {
+                    "country": "KSA",
+                    "name": "Mohammed BU KHAMSIN"
+                },
+                {
+                    "winner": "Paula MONTA"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Gyuseon MUN",
+            "Paula MONTA"
+        ]
+    },
+    "POOL B": {
+        "round 1-1": [],
+        "final_winners": [
+            "Yumin JANG"
+        ]
+    },
+    "REPECHAGE": {
+        "round 1-1": [
+            [
+                {
+                    "country": "NZL",
+                    "name": "Paula MONTA"
+                },
+                {
+                    "country": "KSA",
+                    "name": "Saud MANAIE"
+                },
+                {
+                    "winner": "Saud MANAIE"
+                }
+            ],
+            [
+                {
+                    "country": "KSA",
+                    "name": "Saud MANAIE"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Saud MANAIE"
+        ]
+    },
+    "FINALS": {
+        "round 1-1": [],
+        "final_winners": [
+            "Gyuseon MUN"
+        ]
+    }
+}

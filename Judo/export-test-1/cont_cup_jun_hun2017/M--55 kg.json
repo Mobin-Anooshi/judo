@@ -1,0 +1,299 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "AUS",
+                    "name": "Bryan JOLLY"
+                },
+                {
+                    "winner": "Bryan JOLLY"
+                }
+            ],
+            [
+                {
+                    "country": "ROU",
+                    "name": "Bogdan DRIMBA"
+                },
+                {
+                    "country": "GER",
+                    "name": "Lukas valerie NENNINGER"
+                },
+                {
+                    "winner": "Bogdan DRIMBA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "AUS",
+                    "name": "Bryan JOLLY"
+                },
+                {
+                    "country": "ROU",
+                    "name": "Bogdan DRIMBA"
+                }
+            ]
+        ],
+        "final_winner": "Bryan JOLLY"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ARM",
+                    "name": "Gaspar HAYRAPETYAN"
+                },
+                {
+                    "winner": "Gaspar HAYRAPETYAN"
+                }
+            ],
+            [
+                {
+                    "country": "ARM",
+                    "name": "Erik HARUTYUNYAN"
+                },
+                {
+                    "winner": "Erik HARUTYUNYAN"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "ARM",
+                    "name": "Gaspar HAYRAPETYAN"
+                },
+                {
+                    "country": "ARM",
+                    "name": "Erik HARUTYUNYAN"
+                }
+            ]
+        ],
+        "final_winner": "Gaspar HAYRAPETYAN"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ROU",
+                    "name": "Vlad LUNCAN"
+                },
+                {
+                    "winner": "Vlad LUNCAN"
+                }
+            ],
+            [
+                {
+                    "country": "HUN",
+                    "name": "Daniel SZEGEDI"
+                },
+                {
+                    "winner": "Daniel SZEGEDI"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "ROU",
+                    "name": "Vlad LUNCAN"
+                },
+                {
+                    "country": "HUN",
+                    "name": "Daniel SZEGEDI"
+                }
+            ]
+        ],
+        "final_winner": "Vlad LUNCAN"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ROU",
+                    "name": "Laszlo BALAZS"
+                },
+                {
+                    "winner": "Laszlo BALAZS"
+                }
+            ],
+            [
+                {
+                    "country": "GER",
+                    "name": "Dominik ROEDER"
+                },
+                {
+                    "winner": "Dominik ROEDER"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "ROU",
+                    "name": "Laszlo BALAZS"
+                },
+                {
+                    "country": "GER",
+                    "name": "Dominik ROEDER"
+                }
+            ]
+        ],
+        "final_winner": "Dominik ROEDER"
+    },
+    "REPECHAGE": {
+        "round 1-4": [
+            [
+                {
+                    "country": "ROU",
+                    "name": "Bogdan DRIMBA"
+                },
+                {
+                    "winner": "Bogdan DRIMBA"
+                }
+            ],
+            [
+                {
+                    "country": "ARM",
+                    "name": "Erik HARUTYUNYAN"
+                },
+                {
+                    "winner": "Erik HARUTYUNYAN"
+                }
+            ],
+            [
+                {
+                    "country": "HUN",
+                    "name": "Daniel SZEGEDI"
+                },
+                {
+                    "winner": "Daniel SZEGEDI"
+                }
+            ],
+            [
+                {
+                    "country": "ROU",
+                    "name": "Laszlo BALAZS"
+                },
+                {
+                    "winner": "Laszlo BALAZS"
+                }
+            ]
+        ],
+        "round 1-2": [
+            [
+                {
+                    "country": "ROU",
+                    "name": "Bogdan DRIMBA"
+                },
+                {
+                    "country": "ARM",
+                    "name": "Erik HARUTYUNYAN"
+                },
+                {
+                    "winner": "Erik HARUTYUNYAN"
+                }
+            ],
+            [
+                {
+                    "country": "HUN",
+                    "name": "Daniel SZEGEDI"
+                },
+                {
+                    "country": "ROU",
+                    "name": "Laszlo BALAZS"
+                },
+                {
+                    "winner": "Daniel SZEGEDI"
+                }
+            ],
+            [
+                {
+                    "country": "ARM",
+                    "name": "Erik HARUTYUNYAN"
+                },
+                {
+                    "country": "GER",
+                    "name": "Dominik ROEDER"
+                },
+                {
+                    "winner": "Dominik ROEDER"
+                }
+            ],
+            [
+                {
+                    "country": "HUN",
+                    "name": "Daniel SZEGEDI"
+                },
+                {
+                    "country": "ARM",
+                    "name": "Gaspar HAYRAPETYAN"
+                },
+                {
+                    "winner": "Gaspar HAYRAPETYAN"
+                }
+            ],
+            [
+                {
+                    "country": "GER",
+                    "name": "Dominik ROEDER"
+                }
+            ],
+            [
+                {
+                    "country": "ARM",
+                    "name": "Gaspar HAYRAPETYAN"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Dominik ROEDER",
+            "Gaspar HAYRAPETYAN"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "AUS",
+                    "name": "Bryan JOLLY"
+                },
+                {
+                    "country": "ARM",
+                    "name": "Gaspar HAYRAPETYAN"
+                },
+                {
+                    "winner": "Bryan JOLLY"
+                }
+            ],
+            [
+                {
+                    "country": "ROU",
+                    "name": "Vlad LUNCAN"
+                },
+                {
+                    "country": "GER",
+                    "name": "Dominik ROEDER"
+                },
+                {
+                    "winner": "Vlad LUNCAN"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "AUS",
+                    "name": "Bryan JOLLY"
+                },
+                {
+                    "country": "ROU",
+                    "name": "Vlad LUNCAN"
+                }
+            ]
+        ],
+        "final_winner": "Vlad LUNCAN"
+    }
+}

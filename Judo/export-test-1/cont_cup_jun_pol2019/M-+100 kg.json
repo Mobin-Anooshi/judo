@@ -1,0 +1,295 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "HUN",
+                    "name": "Richard SIPOCZ"
+                },
+                {
+                    "winner": "Richard SIPOCZ"
+                }
+            ],
+            [
+                {
+                    "country": "POL",
+                    "name": "Michal JEDRZEJCZYK"
+                },
+                {
+                    "winner": "Michal JEDRZEJCZYK"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "HUN",
+                    "name": "Richard SIPOCZ"
+                },
+                {
+                    "country": "POL",
+                    "name": "Michal JEDRZEJCZYK"
+                }
+            ]
+        ],
+        "final_winner": "Richard SIPOCZ"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "POL",
+                    "name": "Wojciech KORDYALIK"
+                },
+                {
+                    "winner": "Wojciech KORDYALIK"
+                }
+            ],
+            [
+                {
+                    "country": "HUN",
+                    "name": "Donat VARGA"
+                },
+                {
+                    "winner": "Donat VARGA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "POL",
+                    "name": "Wojciech KORDYALIK"
+                },
+                {
+                    "country": "HUN",
+                    "name": "Donat VARGA"
+                }
+            ]
+        ],
+        "final_winner": "Wojciech KORDYALIK"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "FRA",
+                    "name": "Luka LOMIDZE"
+                },
+                {
+                    "winner": "Luka LOMIDZE"
+                }
+            ],
+            [
+                {
+                    "country": "CZE",
+                    "name": "Jan MASEK"
+                },
+                {
+                    "winner": "Jan MASEK"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "FRA",
+                    "name": "Luka LOMIDZE"
+                },
+                {
+                    "country": "CZE",
+                    "name": "Jan MASEK"
+                }
+            ]
+        ],
+        "final_winner": "Luka LOMIDZE"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "FRA",
+                    "name": "Tieman DIABY"
+                },
+                {
+                    "winner": "Tieman DIABY"
+                }
+            ],
+            [
+                {
+                    "country": "POL",
+                    "name": "Fabian KOWALSKI"
+                },
+                {
+                    "winner": "Fabian KOWALSKI"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "FRA",
+                    "name": "Tieman DIABY"
+                },
+                {
+                    "country": "POL",
+                    "name": "Fabian KOWALSKI"
+                }
+            ]
+        ],
+        "final_winner": "Tieman DIABY"
+    },
+    "REPECHAGE": {
+        "round 1-4": [
+            [
+                {
+                    "country": "POL",
+                    "name": "Michal JEDRZEJCZYK"
+                },
+                {
+                    "winner": "Michal JEDRZEJCZYK"
+                }
+            ],
+            [
+                {
+                    "country": "HUN",
+                    "name": "Donat VARGA"
+                },
+                {
+                    "winner": "Donat VARGA"
+                }
+            ],
+            [
+                {
+                    "country": "CZE",
+                    "name": "Jan MASEK"
+                },
+                {
+                    "winner": "Jan MASEK"
+                }
+            ],
+            [
+                {
+                    "country": "POL",
+                    "name": "Fabian KOWALSKI"
+                },
+                {
+                    "winner": "Fabian KOWALSKI"
+                }
+            ]
+        ],
+        "round 1-2": [
+            [
+                {
+                    "country": "POL",
+                    "name": "Michal JEDRZEJCZYK"
+                },
+                {
+                    "country": "HUN",
+                    "name": "Donat VARGA"
+                },
+                {
+                    "winner": "Donat VARGA"
+                }
+            ],
+            [
+                {
+                    "country": "CZE",
+                    "name": "Jan MASEK"
+                },
+                {
+                    "country": "POL",
+                    "name": "Fabian KOWALSKI"
+                },
+                {
+                    "winner": "Jan MASEK"
+                }
+            ],
+            [
+                {
+                    "country": "HUN",
+                    "name": "Donat VARGA"
+                },
+                {
+                    "country": "FRA",
+                    "name": "Tieman DIABY"
+                },
+                {
+                    "winner": "Tieman DIABY"
+                }
+            ],
+            [
+                {
+                    "country": "CZE",
+                    "name": "Jan MASEK"
+                },
+                {
+                    "country": "POL",
+                    "name": "Wojciech KORDYALIK"
+                },
+                {
+                    "winner": "Wojciech KORDYALIK"
+                }
+            ],
+            [
+                {
+                    "country": "FRA",
+                    "name": "Tieman DIABY"
+                }
+            ],
+            [
+                {
+                    "country": "POL",
+                    "name": "Wojciech KORDYALIK"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Tieman DIABY",
+            "Wojciech KORDYALIK"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "HUN",
+                    "name": "Richard SIPOCZ"
+                },
+                {
+                    "country": "POL",
+                    "name": "Wojciech KORDYALIK"
+                },
+                {
+                    "winner": "Richard SIPOCZ"
+                }
+            ],
+            [
+                {
+                    "country": "FRA",
+                    "name": "Luka LOMIDZE"
+                },
+                {
+                    "country": "FRA",
+                    "name": "Tieman DIABY"
+                },
+                {
+                    "winner": "Luka LOMIDZE"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "HUN",
+                    "name": "Richard SIPOCZ"
+                },
+                {
+                    "country": "FRA",
+                    "name": "Luka LOMIDZE"
+                }
+            ]
+        ],
+        "final_winner": "Richard SIPOCZ"
+    }
+}

@@ -1,0 +1,135 @@
+{
+    "POOL A": {
+        "round 1-1": [],
+        "final_winner": "Piter DA SILVA"
+    },
+    "POOL B": {
+        "round 1-1": [
+            [
+                {
+                    "country": "ANG",
+                    "name": "Elton JOAO"
+                },
+                {
+                    "country": "COD",
+                    "name": "Enock KASHAMA"
+                }
+            ]
+        ],
+        "final_winner": "Elton JOAO"
+    },
+    "POOL C": {
+        "round 1-1": [],
+        "final_winner": "Daniel JAIME"
+    },
+    "POOL D": {
+        "round 1-1": [
+            [
+                {
+                    "country": "BIH",
+                    "name": "Harun SADIKOVIC"
+                },
+                {
+                    "country": "ANG",
+                    "name": "Frederico QUINTO"
+                }
+            ]
+        ],
+        "final_winner": "Harun SADIKOVIC"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "COD",
+                    "name": "Enock KASHAMA"
+                }
+            ],
+            [
+                {
+                    "country": "ANG",
+                    "name": "Frederico QUINTO"
+                }
+            ],
+            [
+                {
+                    "country": "COD",
+                    "name": "Enock KASHAMA"
+                },
+                {
+                    "country": "ANG",
+                    "name": "Daniel JAIME"
+                },
+                {
+                    "winner": "Enock KASHAMA"
+                }
+            ],
+            [
+                {
+                    "country": "ANG",
+                    "name": "Frederico QUINTO"
+                },
+                {
+                    "country": "ANG",
+                    "name": "Elton JOAO"
+                },
+                {
+                    "winner": "Elton JOAO"
+                }
+            ],
+            [
+                {
+                    "country": "ANG",
+                    "name": "Elton JOAO"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Frederico QUINTO",
+            "Enock KASHAMA"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ANG",
+                    "name": "Piter DA SILVA"
+                },
+                {
+                    "country": "ANG",
+                    "name": "Elton JOAO"
+                },
+                {
+                    "winner": "Piter DA SILVA"
+                }
+            ],
+            [
+                {
+                    "country": "ANG",
+                    "name": "Daniel JAIME"
+                },
+                {
+                    "country": "BIH",
+                    "name": "Harun SADIKOVIC"
+                },
+                {
+                    "winner": "Harun SADIKOVIC"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "ANG",
+                    "name": "Piter DA SILVA"
+                },
+                {
+                    "country": "BIH",
+                    "name": "Harun SADIKOVIC"
+                }
+            ]
+        ],
+        "final_winner": "Harun SADIKOVIC"
+    }
+}

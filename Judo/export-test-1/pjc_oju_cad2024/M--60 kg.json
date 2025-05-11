@@ -1,0 +1,177 @@
+{
+    "POOL A": {
+        "round 1-1": [
+            [
+                {
+                    "country": "CHI",
+                    "name": "Rodrigo QUISPE"
+                },
+                {
+                    "country": "CRC",
+                    "name": "Alejandro CANO S"
+                }
+            ]
+        ],
+        "final_winner": "Alejandro CANO S"
+    },
+    "POOL B": {
+        "round 1-1": [
+            [
+                {
+                    "country": "MEX",
+                    "name": "Rafael PARTIDA FLORES"
+                },
+                {
+                    "country": "PAR",
+                    "name": "Iker ARANDA RODRIGUEZ"
+                }
+            ]
+        ],
+        "final_winner": "Iker ARANDA RODRIGUEZ"
+    },
+    "POOL C": {
+        "round 1-1": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Fernando MITSUDA"
+                },
+                {
+                    "country": "MEX",
+                    "name": "Jose Sebastian PEREZ SALDIVAR"
+                }
+            ]
+        ],
+        "final_winner": "Fernando MITSUDA"
+    },
+    "POOL D": {
+        "round 1-1": [
+            [
+                {
+                    "country": "CHI",
+                    "name": "Boris CARCAMO"
+                },
+                {
+                    "country": "USA",
+                    "name": "Jonathan YANG"
+                }
+            ]
+        ],
+        "final_winner": "Jonathan YANG"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CHI",
+                    "name": "Rodrigo QUISPE"
+                },
+                {
+                    "country": "MEX",
+                    "name": "Rafael PARTIDA FLORES"
+                },
+                {
+                    "winner": "Rodrigo QUISPE"
+                }
+            ],
+            [
+                {
+                    "country": "MEX",
+                    "name": "Jose Sebastian PEREZ SALDIVAR"
+                },
+                {
+                    "country": "CHI",
+                    "name": "Boris CARCAMO"
+                },
+                {
+                    "winner": "Jose Sebastian PEREZ SALDIVAR"
+                }
+            ],
+            [
+                {
+                    "country": "CHI",
+                    "name": "Rodrigo QUISPE"
+                },
+                {
+                    "country": "BRA",
+                    "name": "Fernando MITSUDA"
+                },
+                {
+                    "winner": "Fernando MITSUDA"
+                }
+            ],
+            [
+                {
+                    "country": "MEX",
+                    "name": "Jose Sebastian PEREZ SALDIVAR"
+                },
+                {
+                    "country": "PAR",
+                    "name": "Iker ARANDA RODRIGUEZ"
+                },
+                {
+                    "winner": "Jose Sebastian PEREZ SALDIVAR"
+                }
+            ],
+            [
+                {
+                    "country": "BRA",
+                    "name": "Fernando MITSUDA"
+                }
+            ],
+            [
+                {
+                    "country": "MEX",
+                    "name": "Jose Sebastian PEREZ SALDIVAR"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Fernando MITSUDA",
+            "Jose Sebastian PEREZ SALDIVAR"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CRC",
+                    "name": "Alejandro CANO S"
+                },
+                {
+                    "country": "PAR",
+                    "name": "Iker ARANDA RODRIGUEZ"
+                },
+                {
+                    "winner": "Alejandro CANO S"
+                }
+            ],
+            [
+                {
+                    "country": "BRA",
+                    "name": "Fernando MITSUDA"
+                },
+                {
+                    "country": "USA",
+                    "name": "Jonathan YANG"
+                },
+                {
+                    "winner": "Jonathan YANG"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "CRC",
+                    "name": "Alejandro CANO S"
+                },
+                {
+                    "country": "USA",
+                    "name": "Jonathan YANG"
+                }
+            ]
+        ],
+        "final_winner": "Jonathan YANG"
+    }
+}

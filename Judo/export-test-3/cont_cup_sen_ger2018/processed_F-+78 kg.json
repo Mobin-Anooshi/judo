@@ -1,0 +1,93 @@
+{
+    "POOL A": {
+        "round 1-3": [
+            [
+                {
+                    "country": "GER",
+                    "name": "Samira BOUIZGARNE"
+                },
+                {
+                    "country": "FRA",
+                    "name": "Marie DEL PUPPO"
+                },
+                {
+                    "winner": "Samira BOUIZGARNE"
+                }
+            ],
+            [
+                {
+                    "country": "GER",
+                    "name": "Samira BOUIZGARNE"
+                },
+                {
+                    "country": "FRA",
+                    "name": "Valentine MARCHAND"
+                },
+                {
+                    "winner": "Samira BOUIZGARNE"
+                }
+            ],
+            [
+                {
+                    "country": "FRA",
+                    "name": "Marie DEL PUPPO"
+                },
+                {
+                    "country": "RUS",
+                    "name": "Evgeniia BOGDANOVA"
+                },
+                {
+                    "winner": "Marie DEL PUPPO"
+                }
+            ],
+            [
+                {
+                    "country": "GER",
+                    "name": "Samira BOUIZGARNE"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Valentine MARCHAND",
+            "Marie DEL PUPPO"
+        ]
+    },
+    "POOL B": {
+        "round 1-1": [],
+        "final_winners": [
+            "Rahel KRAUSE"
+        ]
+    },
+    "REPECHAGE": {
+        "round 1-1": [
+            [
+                {
+                    "country": "GER",
+                    "name": "Rahel KRAUSE"
+                },
+                {
+                    "country": "FRA",
+                    "name": "Valentine MARCHAND"
+                },
+                {
+                    "winner": "Valentine MARCHAND"
+                }
+            ],
+            [
+                {
+                    "country": "FRA",
+                    "name": "Valentine MARCHAND"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Valentine MARCHAND"
+        ]
+    },
+    "FINALS": {
+        "round 1-1": [],
+        "final_winners": [
+            "Evgeniia BOGDANOVA"
+        ]
+    }
+}

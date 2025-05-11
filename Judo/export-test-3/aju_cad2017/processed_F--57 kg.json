@@ -1,0 +1,66 @@
+{
+    "POOL A": {
+        "round 1-3": [
+            [
+                {
+                    "country": "RSA",
+                    "name": "Charne GRIESEL"
+                }
+            ],
+            [
+                {
+                    "country": "RSA",
+                    "name": "Charne GRIESEL"
+                },
+                {
+                    "country": "ALG",
+                    "name": "AMAL GUERRAB"
+                },
+                {
+                    "winner": "AMAL GUERRAB"
+                }
+            ]
+        ],
+        "final_winners": [
+            "AMAL GUERRAB"
+        ]
+    },
+    "POOL B": {
+        "round 1-1": [],
+        "final_winners": [
+            "Marli MEIRING"
+        ]
+    },
+    "REPECHAGE": {
+        "round 1-1": [
+            [
+                {
+                    "country": "RSA",
+                    "name": "Charne GRIESEL"
+                },
+                {
+                    "country": "ALG",
+                    "name": "Zina BOUAKACHE"
+                },
+                {
+                    "winner": "Zina BOUAKACHE"
+                }
+            ],
+            [
+                {
+                    "country": "ALG",
+                    "name": "Zina BOUAKACHE"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Zina BOUAKACHE"
+        ]
+    },
+    "FINALS": {
+        "round 1-1": [],
+        "final_winners": [
+            "Helal MARIAM"
+        ]
+    }
+}

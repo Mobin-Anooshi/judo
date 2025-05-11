@@ -1,0 +1,177 @@
+{
+    "POOL A": {
+        "round 1-1": [
+            [
+                {
+                    "country": "AND",
+                    "name": "Lia POVEDANO RUIZ"
+                },
+                {
+                    "country": "MON",
+                    "name": "Rania DRID"
+                }
+            ]
+        ],
+        "final_winner": "Rania DRID"
+    },
+    "POOL B": {
+        "round 1-1": [
+            [
+                {
+                    "country": "ISL",
+                    "name": "Helena BJARNADOTTIR"
+                },
+                {
+                    "country": "CYP",
+                    "name": "Charis IORDANOU"
+                }
+            ]
+        ],
+        "final_winner": "Helena BJARNADOTTIR"
+    },
+    "POOL C": {
+        "round 1-1": [
+            [
+                {
+                    "country": "CYP",
+                    "name": "Diana DIMITRIOU"
+                },
+                {
+                    "country": "LUX",
+                    "name": "Anetta MOSR"
+                }
+            ]
+        ],
+        "final_winner": "Anetta MOSR"
+    },
+    "POOL D": {
+        "round 1-1": [
+            [
+                {
+                    "country": "MNE",
+                    "name": "Tamara GARDASEVIC"
+                },
+                {
+                    "country": "MON",
+                    "name": "Margaux GONELLA"
+                }
+            ]
+        ],
+        "final_winner": "Tamara GARDASEVIC"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "AND",
+                    "name": "Lia POVEDANO RUIZ"
+                },
+                {
+                    "country": "CYP",
+                    "name": "Charis IORDANOU"
+                },
+                {
+                    "winner": "Lia POVEDANO RUIZ"
+                }
+            ],
+            [
+                {
+                    "country": "CYP",
+                    "name": "Diana DIMITRIOU"
+                },
+                {
+                    "country": "MON",
+                    "name": "Margaux GONELLA"
+                },
+                {
+                    "winner": "Diana DIMITRIOU"
+                }
+            ],
+            [
+                {
+                    "country": "AND",
+                    "name": "Lia POVEDANO RUIZ"
+                },
+                {
+                    "country": "MNE",
+                    "name": "Tamara GARDASEVIC"
+                },
+                {
+                    "winner": "Tamara GARDASEVIC"
+                }
+            ],
+            [
+                {
+                    "country": "CYP",
+                    "name": "Diana DIMITRIOU"
+                },
+                {
+                    "country": "ISL",
+                    "name": "Helena BJARNADOTTIR"
+                },
+                {
+                    "winner": "Diana DIMITRIOU"
+                }
+            ],
+            [
+                {
+                    "country": "MNE",
+                    "name": "Tamara GARDASEVIC"
+                }
+            ],
+            [
+                {
+                    "country": "CYP",
+                    "name": "Diana DIMITRIOU"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Tamara GARDASEVIC",
+            "Diana DIMITRIOU"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "MON",
+                    "name": "Rania DRID"
+                },
+                {
+                    "country": "ISL",
+                    "name": "Helena BJARNADOTTIR"
+                },
+                {
+                    "winner": "Rania DRID"
+                }
+            ],
+            [
+                {
+                    "country": "LUX",
+                    "name": "Anetta MOSR"
+                },
+                {
+                    "country": "MNE",
+                    "name": "Tamara GARDASEVIC"
+                },
+                {
+                    "winner": "Anetta MOSR"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "MON",
+                    "name": "Rania DRID"
+                },
+                {
+                    "country": "LUX",
+                    "name": "Anetta MOSR"
+                }
+            ]
+        ],
+        "final_winner": "Rania DRID"
+    }
+}

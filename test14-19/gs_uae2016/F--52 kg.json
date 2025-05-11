@@ -1,0 +1,274 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "USA",
+                    "name": "Angelica DELGADO"
+                },
+                {
+                    "winner": "Angelica DELGADO"
+                }
+            ],
+            [
+                {
+                    "country": "GBR",
+                    "name": "Chelsie GILES"
+                },
+                {
+                    "country": "UAE",
+                    "name": "Sara ABDALLA"
+                },
+                {
+                    "winner": "Chelsie GILES"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "USA",
+                    "name": "Angelica DELGADO"
+                },
+                {
+                    "country": "GBR",
+                    "name": "Chelsie GILES"
+                }
+            ],
+            [
+                {
+                    "country": "USA",
+                    "name": "Angelica DELGADO"
+                }
+            ]
+        ]
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "GBR",
+                    "name": "Kelly EDWARDS"
+                },
+                {
+                    "winner": "Kelly EDWARDS"
+                }
+            ],
+            [
+                {
+                    "country": "BRA",
+                    "name": "Jessica PEREIRA"
+                },
+                {
+                    "winner": "Jessica PEREIRA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "GBR",
+                    "name": "Kelly EDWARDS"
+                },
+                {
+                    "country": "BRA",
+                    "name": "Jessica PEREIRA"
+                }
+            ],
+            [
+                {
+                    "country": "GBR",
+                    "name": "Kelly EDWARDS"
+                }
+            ]
+        ]
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "POL",
+                    "name": "Karolina PIENKOWSKA"
+                },
+                {
+                    "winner": "Karolina PIENKOWSKA"
+                }
+            ],
+            [
+                {
+                    "country": "CRO",
+                    "name": "Tihea TOPOLOVEC"
+                },
+                {
+                    "country": "BRA",
+                    "name": "Layana COLMAN"
+                },
+                {
+                    "winner": "Tihea TOPOLOVEC"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "POL",
+                    "name": "Karolina PIENKOWSKA"
+                },
+                {
+                    "country": "CRO",
+                    "name": "Tihea TOPOLOVEC"
+                }
+            ],
+            [
+                {
+                    "country": "POL",
+                    "name": "Karolina PIENKOWSKA"
+                }
+            ]
+        ]
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CRO",
+                    "name": "Tena SIKIC"
+                },
+                {
+                    "winner": "Tena SIKIC"
+                }
+            ],
+            [
+                {
+                    "country": "FRA",
+                    "name": "Astride GNETO"
+                },
+                {
+                    "winner": "Astride GNETO"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "CRO",
+                    "name": "Tena SIKIC"
+                },
+                {
+                    "country": "FRA",
+                    "name": "Astride GNETO"
+                }
+            ],
+            [
+                {
+                    "country": "FRA",
+                    "name": "Astride GNETO"
+                }
+            ]
+        ]
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "GBR",
+                    "name": "Chelsie GILES"
+                },
+                {
+                    "country": "BRA",
+                    "name": "Jessica PEREIRA"
+                }
+            ],
+            [
+                {
+                    "country": "CRO",
+                    "name": "Tihea TOPOLOVEC"
+                },
+                {
+                    "country": "CRO",
+                    "name": "Tena SIKIC"
+                }
+            ],
+            [
+                {
+                    "country": "BRA",
+                    "name": "Jessica PEREIRA"
+                },
+                {
+                    "country": "POL",
+                    "name": "Karolina PIENKOWSKA"
+                }
+            ],
+            [
+                {
+                    "country": "CRO",
+                    "name": "Tihea TOPOLOVEC"
+                },
+                {
+                    "country": "GBR",
+                    "name": "Kelly EDWARDS"
+                }
+            ],
+            [
+                {
+                    "country": "BRA",
+                    "name": "Jessica PEREIRA"
+                }
+            ],
+            [
+                {
+                    "country": "GBR",
+                    "name": "Kelly EDWARDS"
+                }
+            ]
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "USA",
+                    "name": "Angelica DELGADO"
+                },
+                {
+                    "country": "GBR",
+                    "name": "Kelly EDWARDS"
+                },
+                {
+                    "winner": "Angelica DELGADO"
+                }
+            ],
+            [
+                {
+                    "country": "POL",
+                    "name": "Karolina PIENKOWSKA"
+                },
+                {
+                    "country": "FRA",
+                    "name": "Astride GNETO"
+                },
+                {
+                    "winner": "Astride GNETO"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "USA",
+                    "name": "Angelica DELGADO"
+                },
+                {
+                    "country": "FRA",
+                    "name": "Astride GNETO"
+                }
+            ],
+            [
+                {
+                    "country": "FRA",
+                    "name": "Astride GNETO"
+                }
+            ]
+        ]
+    }
+}

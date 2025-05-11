@@ -1,0 +1,311 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "USA",
+                    "name": "Emily Daniela JASPE"
+                },
+                {
+                    "winner": "Emily Daniela JASPE"
+                }
+            ],
+            [
+                {
+                    "country": "CAN",
+                    "name": "Loika ROBERTSON"
+                },
+                {
+                    "country": "MEX",
+                    "name": "Maria CRUZ"
+                },
+                {
+                    "winner": "Maria CRUZ"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "USA",
+                    "name": "Emily Daniela JASPE"
+                },
+                {
+                    "country": "MEX",
+                    "name": "Maria CRUZ"
+                }
+            ]
+        ],
+        "final_winner": "Emily Daniela JASPE"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CRC",
+                    "name": "Noilyn AGUILAR BRAVO"
+                },
+                {
+                    "winner": "Noilyn AGUILAR BRAVO"
+                }
+            ],
+            [
+                {
+                    "country": "USA",
+                    "name": "Mackenzee BUNTON"
+                },
+                {
+                    "country": "ECU",
+                    "name": "Domenica DANIN"
+                },
+                {
+                    "winner": "Mackenzee BUNTON"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "CRC",
+                    "name": "Noilyn AGUILAR BRAVO"
+                },
+                {
+                    "country": "USA",
+                    "name": "Mackenzee BUNTON"
+                }
+            ]
+        ],
+        "final_winner": "Noilyn AGUILAR BRAVO"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CHI",
+                    "name": "Constanza PEREZ"
+                },
+                {
+                    "winner": "Constanza PEREZ"
+                }
+            ],
+            [
+                {
+                    "country": "CAN",
+                    "name": "Margot CHEVALIER"
+                },
+                {
+                    "country": "PER",
+                    "name": "Hilary LAM"
+                },
+                {
+                    "winner": "Margot CHEVALIER"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "CHI",
+                    "name": "Constanza PEREZ"
+                },
+                {
+                    "country": "CAN",
+                    "name": "Margot CHEVALIER"
+                }
+            ]
+        ],
+        "final_winner": "Constanza PEREZ"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "COL",
+                    "name": "Ingrid CHOCO"
+                },
+                {
+                    "winner": "Ingrid CHOCO"
+                }
+            ],
+            [
+                {
+                    "country": "CHI",
+                    "name": "Javiera SOTO"
+                },
+                {
+                    "country": "BRA",
+                    "name": "Ana Beatriz FEITOSA"
+                },
+                {
+                    "winner": "Ana Beatriz FEITOSA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "COL",
+                    "name": "Ingrid CHOCO"
+                },
+                {
+                    "country": "BRA",
+                    "name": "Ana Beatriz FEITOSA"
+                }
+            ]
+        ],
+        "final_winner": "Ingrid CHOCO"
+    },
+    "REPECHAGE": {
+        "round 1-4": [
+            [
+                {
+                    "country": "MEX",
+                    "name": "Maria CRUZ"
+                },
+                {
+                    "winner": "Maria CRUZ"
+                }
+            ],
+            [
+                {
+                    "country": "USA",
+                    "name": "Mackenzee BUNTON"
+                },
+                {
+                    "winner": "Mackenzee BUNTON"
+                }
+            ],
+            [
+                {
+                    "country": "CAN",
+                    "name": "Margot CHEVALIER"
+                },
+                {
+                    "winner": "Margot CHEVALIER"
+                }
+            ],
+            [
+                {
+                    "country": "BRA",
+                    "name": "Ana Beatriz FEITOSA"
+                },
+                {
+                    "winner": "Ana Beatriz FEITOSA"
+                }
+            ]
+        ],
+        "round 1-2": [
+            [
+                {
+                    "country": "MEX",
+                    "name": "Maria CRUZ"
+                },
+                {
+                    "country": "USA",
+                    "name": "Mackenzee BUNTON"
+                },
+                {
+                    "winner": "Maria CRUZ"
+                }
+            ],
+            [
+                {
+                    "country": "CAN",
+                    "name": "Margot CHEVALIER"
+                },
+                {
+                    "country": "BRA",
+                    "name": "Ana Beatriz FEITOSA"
+                },
+                {
+                    "winner": "Ana Beatriz FEITOSA"
+                }
+            ],
+            [
+                {
+                    "country": "MEX",
+                    "name": "Maria CRUZ"
+                },
+                {
+                    "country": "CHI",
+                    "name": "Constanza PEREZ"
+                },
+                {
+                    "winner": "Maria CRUZ"
+                }
+            ],
+            [
+                {
+                    "country": "BRA",
+                    "name": "Ana Beatriz FEITOSA"
+                },
+                {
+                    "country": "CRC",
+                    "name": "Noilyn AGUILAR BRAVO"
+                },
+                {
+                    "winner": "Ana Beatriz FEITOSA"
+                }
+            ],
+            [
+                {
+                    "country": "MEX",
+                    "name": "Maria CRUZ"
+                }
+            ],
+            [
+                {
+                    "country": "BRA",
+                    "name": "Ana Beatriz FEITOSA"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Maria CRUZ",
+            "Ana Beatriz FEITOSA"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "USA",
+                    "name": "Emily Daniela JASPE"
+                },
+                {
+                    "country": "CRC",
+                    "name": "Noilyn AGUILAR BRAVO"
+                },
+                {
+                    "winner": "Emily Daniela JASPE"
+                }
+            ],
+            [
+                {
+                    "country": "CHI",
+                    "name": "Constanza PEREZ"
+                },
+                {
+                    "country": "COL",
+                    "name": "Ingrid CHOCO"
+                },
+                {
+                    "winner": "Ingrid CHOCO"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "USA",
+                    "name": "Emily Daniela JASPE"
+                },
+                {
+                    "country": "COL",
+                    "name": "Ingrid CHOCO"
+                }
+            ]
+        ],
+        "final_winner": "Emily Daniela JASPE"
+    }
+}

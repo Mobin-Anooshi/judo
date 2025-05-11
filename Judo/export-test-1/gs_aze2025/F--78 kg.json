@@ -1,0 +1,177 @@
+{
+    "POOL A": {
+        "round 1-1": [
+            [
+                {
+                    "country": "GER",
+                    "name": "Alina BOEHM"
+                },
+                {
+                    "country": "GRE",
+                    "name": "Elisavet TELTSIDOU"
+                }
+            ]
+        ],
+        "final_winner": "Alina BOEHM"
+    },
+    "POOL B": {
+        "round 1-1": [
+            [
+                {
+                    "country": "NED",
+                    "name": "Lieke DERKS"
+                },
+                {
+                    "country": "CYP",
+                    "name": "Zanet MICHAELIDOU"
+                }
+            ]
+        ],
+        "final_winner": "Lieke DERKS"
+    },
+    "POOL C": {
+        "round 1-1": [
+            [
+                {
+                    "country": "GER",
+                    "name": "Anna Monta OLEK"
+                },
+                {
+                    "country": "AUS",
+                    "name": "Maria SWAN"
+                }
+            ]
+        ],
+        "final_winner": "Anna Monta OLEK"
+    },
+    "POOL D": {
+        "round 1-1": [
+            [
+                {
+                    "country": "UKR",
+                    "name": "Yuliia KURCHENKO"
+                },
+                {
+                    "country": "JPN",
+                    "name": "Mami UMEKI"
+                }
+            ]
+        ],
+        "final_winner": "Yuliia KURCHENKO"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "GRE",
+                    "name": "Elisavet TELTSIDOU"
+                },
+                {
+                    "country": "CYP",
+                    "name": "Zanet MICHAELIDOU"
+                },
+                {
+                    "winner": "Elisavet TELTSIDOU"
+                }
+            ],
+            [
+                {
+                    "country": "AUS",
+                    "name": "Maria SWAN"
+                },
+                {
+                    "country": "JPN",
+                    "name": "Mami UMEKI"
+                },
+                {
+                    "winner": "Mami UMEKI"
+                }
+            ],
+            [
+                {
+                    "country": "GRE",
+                    "name": "Elisavet TELTSIDOU"
+                },
+                {
+                    "country": "UKR",
+                    "name": "Yuliia KURCHENKO"
+                },
+                {
+                    "winner": "Elisavet TELTSIDOU"
+                }
+            ],
+            [
+                {
+                    "country": "JPN",
+                    "name": "Mami UMEKI"
+                },
+                {
+                    "country": "NED",
+                    "name": "Lieke DERKS"
+                },
+                {
+                    "winner": "Mami UMEKI"
+                }
+            ],
+            [
+                {
+                    "country": "GRE",
+                    "name": "Elisavet TELTSIDOU"
+                }
+            ],
+            [
+                {
+                    "country": "JPN",
+                    "name": "Mami UMEKI"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Elisavet TELTSIDOU",
+            "Mami UMEKI"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "GER",
+                    "name": "Alina BOEHM"
+                },
+                {
+                    "country": "NED",
+                    "name": "Lieke DERKS"
+                },
+                {
+                    "winner": "Alina BOEHM"
+                }
+            ],
+            [
+                {
+                    "country": "GER",
+                    "name": "Anna Monta OLEK"
+                },
+                {
+                    "country": "UKR",
+                    "name": "Yuliia KURCHENKO"
+                },
+                {
+                    "winner": "Anna Monta OLEK"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "GER",
+                    "name": "Alina BOEHM"
+                },
+                {
+                    "country": "GER",
+                    "name": "Anna Monta OLEK"
+                }
+            ]
+        ],
+        "final_winner": "Anna Monta OLEK"
+    }
+}

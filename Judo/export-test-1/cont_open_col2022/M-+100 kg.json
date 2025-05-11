@@ -1,0 +1,141 @@
+{
+    "POOL A": {
+        "round 1-1": [],
+        "final_winner": "Sergio DEL SOL"
+    },
+    "POOL B": {
+        "round 1-1": [
+            [
+                {
+                    "country": "ARG",
+                    "name": "Alejo BURGOS"
+                },
+                {
+                    "country": "VEN",
+                    "name": "Luis AMEZQUITA"
+                }
+            ]
+        ],
+        "final_winner": "Luis AMEZQUITA"
+    },
+    "POOL C": {
+        "round 1-1": [],
+        "final_winner": "Freddy FIGUEROA"
+    },
+    "POOL D": {
+        "round 1-1": [
+            [
+                {
+                    "country": "COL",
+                    "name": "Juan Camilo LANDAZURI"
+                },
+                {
+                    "country": "BRA",
+                    "name": "Gabriel DOS SANTOS"
+                }
+            ]
+        ],
+        "final_winner": "Gabriel DOS SANTOS"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ARG",
+                    "name": "Alejo BURGOS"
+                }
+            ],
+            [
+                {
+                    "country": "COL",
+                    "name": "Juan Camilo LANDAZURI"
+                }
+            ],
+            [
+                {
+                    "country": "ARG",
+                    "name": "Alejo BURGOS"
+                },
+                {
+                    "country": "BRA",
+                    "name": "Gabriel DOS SANTOS"
+                },
+                {
+                    "winner": "Gabriel DOS SANTOS"
+                }
+            ],
+            [
+                {
+                    "country": "COL",
+                    "name": "Juan Camilo LANDAZURI"
+                },
+                {
+                    "country": "VEN",
+                    "name": "Luis AMEZQUITA"
+                },
+                {
+                    "winner": "Luis AMEZQUITA"
+                }
+            ],
+            [
+                {
+                    "country": "BRA",
+                    "name": "Gabriel DOS SANTOS"
+                }
+            ],
+            [
+                {
+                    "country": "VEN",
+                    "name": "Luis AMEZQUITA"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Gabriel DOS SANTOS",
+            "Luis AMEZQUITA"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "MEX",
+                    "name": "Sergio DEL SOL"
+                },
+                {
+                    "country": "VEN",
+                    "name": "Luis AMEZQUITA"
+                },
+                {
+                    "winner": "Sergio DEL SOL"
+                }
+            ],
+            [
+                {
+                    "country": "ECU",
+                    "name": "Freddy FIGUEROA"
+                },
+                {
+                    "country": "BRA",
+                    "name": "Gabriel DOS SANTOS"
+                },
+                {
+                    "winner": "Freddy FIGUEROA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "MEX",
+                    "name": "Sergio DEL SOL"
+                },
+                {
+                    "country": "ECU",
+                    "name": "Freddy FIGUEROA"
+                }
+            ]
+        ],
+        "final_winner": "Freddy FIGUEROA"
+    }
+}

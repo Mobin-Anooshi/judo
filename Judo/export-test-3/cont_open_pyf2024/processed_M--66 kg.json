@@ -1,0 +1,87 @@
+{
+    "POOL A": {
+        "round 1-3": [
+            [
+                {
+                    "country": "USA",
+                    "name": "Jay SHIMIZU"
+                },
+                {
+                    "country": "PYF",
+                    "name": "Tinhau GRESSET"
+                },
+                {
+                    "winner": "Jay SHIMIZU"
+                }
+            ],
+            [
+                {
+                    "country": "USA",
+                    "name": "Jay SHIMIZU"
+                },
+                {
+                    "country": "PYF",
+                    "name": "Tamaterai HERVE"
+                },
+                {
+                    "winner": "Tamaterai HERVE"
+                }
+            ],
+            [
+                {
+                    "country": "PYF",
+                    "name": "Tinhau GRESSET"
+                },
+                {
+                    "country": "PYF",
+                    "name": "Tamaterai HERVE"
+                },
+                {
+                    "winner": "Tamaterai HERVE"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Jay SHIMIZU",
+            "Tamaterai HERVE"
+        ]
+    },
+    "POOL B": {
+        "round 1-1": [],
+        "final_winners": [
+            "Shugen NAKANO"
+        ]
+    },
+    "REPECHAGE": {
+        "round 1-1": [
+            [
+                {
+                    "country": "USA",
+                    "name": "Jay SHIMIZU"
+                },
+                {
+                    "country": "FRA",
+                    "name": "Vincent SORGIATI"
+                },
+                {
+                    "winner": "Vincent SORGIATI"
+                }
+            ],
+            [
+                {
+                    "country": "FRA",
+                    "name": "Vincent SORGIATI"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Vincent SORGIATI"
+        ]
+    },
+    "FINALS": {
+        "round 1-1": [],
+        "final_winners": [
+            "Shugen NAKANO"
+        ]
+    }
+}

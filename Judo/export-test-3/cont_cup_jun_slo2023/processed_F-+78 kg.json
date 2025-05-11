@@ -1,0 +1,87 @@
+{
+    "POOL A": {
+        "round 1-3": [
+            [
+                {
+                    "country": "SRB",
+                    "name": "Anastasija BOGDANOVIC"
+                },
+                {
+                    "country": "MNE",
+                    "name": "Jovana MRVALJEVIC"
+                },
+                {
+                    "winner": "Anastasija BOGDANOVIC"
+                }
+            ],
+            [
+                {
+                    "country": "SRB",
+                    "name": "Anastasija BOGDANOVIC"
+                },
+                {
+                    "country": "UKR",
+                    "name": "Marharyta BIELKOVA"
+                },
+                {
+                    "winner": "Marharyta BIELKOVA"
+                }
+            ],
+            [
+                {
+                    "country": "MNE",
+                    "name": "Jovana MRVALJEVIC"
+                },
+                {
+                    "country": "UKR",
+                    "name": "Marharyta BIELKOVA"
+                },
+                {
+                    "winner": "Jovana MRVALJEVIC"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Anastasija BOGDANOVIC",
+            "Jovana MRVALJEVIC"
+        ]
+    },
+    "POOL B": {
+        "round 1-1": [],
+        "final_winners": [
+            "Tiziana MARINI"
+        ]
+    },
+    "REPECHAGE": {
+        "round 1-1": [
+            [
+                {
+                    "country": "MNE",
+                    "name": "Jovana MRVALJEVIC"
+                },
+                {
+                    "country": "AZE",
+                    "name": "Goncha JAFARLI"
+                },
+                {
+                    "winner": "Goncha JAFARLI"
+                }
+            ],
+            [
+                {
+                    "country": "AZE",
+                    "name": "Goncha JAFARLI"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Goncha JAFARLI"
+        ]
+    },
+    "FINALS": {
+        "round 1-1": [],
+        "final_winners": [
+            "Tiziana MARINI"
+        ]
+    }
+}

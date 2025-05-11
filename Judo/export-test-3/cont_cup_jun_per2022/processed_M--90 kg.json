@@ -1,0 +1,68 @@
+{
+    "ROUND 1": {
+        "round 1-2": [
+            [
+                {
+                    "country": "MEX",
+                    "name": "Jeremy OLIVARES"
+                },
+                {
+                    "country": "USA",
+                    "name": "Harutyun MUTAFYAN"
+                },
+                {
+                    "winner": "Jeremy OLIVARES"
+                }
+            ],
+            [
+                {
+                    "country": "PER",
+                    "name": "Sebastian BENITES"
+                },
+                {
+                    "country": "MEX",
+                    "name": "Cuauhtemoc LUGO"
+                },
+                {
+                    "winner": "Cuauhtemoc LUGO"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Jeremy OLIVARES",
+            "Cuauhtemoc LUGO"
+        ]
+    },
+    "REPECHAGE": {
+        "round 1-1": [
+            [
+                {
+                    "country": "USA",
+                    "name": "Harutyun MUTAFYAN"
+                },
+                {
+                    "country": "PER",
+                    "name": "Sebastian BENITES"
+                },
+                {
+                    "winner": "Harutyun MUTAFYAN"
+                }
+            ],
+            [
+                {
+                    "country": "USA",
+                    "name": "Harutyun MUTAFYAN"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Harutyun MUTAFYAN"
+        ]
+    },
+    "FINALS": {
+        "round 1-1": [],
+        "final_winners": [
+            "Cuauhtemoc LUGO"
+        ]
+    }
+}

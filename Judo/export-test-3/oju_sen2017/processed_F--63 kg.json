@@ -1,0 +1,87 @@
+{
+    "POOL A": {
+        "round 1-3": [
+            [
+                {
+                    "country": "AUS",
+                    "name": "Katharina HAECKER"
+                },
+                {
+                    "country": "PLW",
+                    "name": "Keiza TULOP"
+                },
+                {
+                    "winner": "Katharina HAECKER"
+                }
+            ],
+            [
+                {
+                    "country": "AUS",
+                    "name": "Katharina HAECKER"
+                },
+                {
+                    "country": "NZL",
+                    "name": "Shawnee FELTON"
+                },
+                {
+                    "winner": "Shawnee FELTON"
+                }
+            ],
+            [
+                {
+                    "country": "PLW",
+                    "name": "Keiza TULOP"
+                },
+                {
+                    "country": "NZL",
+                    "name": "Shawnee FELTON"
+                },
+                {
+                    "winner": "Shawnee FELTON"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Katharina HAECKER",
+            "Shawnee FELTON"
+        ]
+    },
+    "POOL B": {
+        "round 1-1": [],
+        "final_winners": [
+            "Maeve COUGHLAN"
+        ]
+    },
+    "REPECHAGE": {
+        "round 1-1": [
+            [
+                {
+                    "country": "NZL",
+                    "name": "Shawnee FELTON"
+                },
+                {
+                    "country": "NZL",
+                    "name": "Ella SPINKS"
+                },
+                {
+                    "winner": "Shawnee FELTON"
+                }
+            ],
+            [
+                {
+                    "country": "NZL",
+                    "name": "Shawnee FELTON"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Shawnee FELTON"
+        ]
+    },
+    "FINALS": {
+        "round 1-1": [],
+        "final_winners": [
+            "Katharina HAECKER"
+        ]
+    }
+}

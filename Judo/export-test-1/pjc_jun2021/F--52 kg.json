@@ -1,0 +1,295 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Jaqueline NASCIMENTO"
+                },
+                {
+                    "winner": "Jaqueline NASCIMENTO"
+                }
+            ],
+            [
+                {
+                    "country": "ECU",
+                    "name": "Scheccid RIVERA"
+                },
+                {
+                    "winner": "Scheccid RIVERA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Jaqueline NASCIMENTO"
+                },
+                {
+                    "country": "ECU",
+                    "name": "Scheccid RIVERA"
+                }
+            ]
+        ],
+        "final_winner": "Scheccid RIVERA"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "USA",
+                    "name": "Nicole CANCELA"
+                },
+                {
+                    "winner": "Nicole CANCELA"
+                }
+            ],
+            [
+                {
+                    "country": "MEX",
+                    "name": "Renata ORTIZ"
+                },
+                {
+                    "winner": "Renata ORTIZ"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "USA",
+                    "name": "Nicole CANCELA"
+                },
+                {
+                    "country": "MEX",
+                    "name": "Renata ORTIZ"
+                }
+            ]
+        ],
+        "final_winner": "Nicole CANCELA"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "GUA",
+                    "name": "Sheily LOPEZ"
+                },
+                {
+                    "winner": "Sheily LOPEZ"
+                }
+            ],
+            [
+                {
+                    "country": "VEN",
+                    "name": "Fabiola DIAZ"
+                },
+                {
+                    "winner": "Fabiola DIAZ"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "GUA",
+                    "name": "Sheily LOPEZ"
+                },
+                {
+                    "country": "VEN",
+                    "name": "Fabiola DIAZ"
+                }
+            ]
+        ],
+        "final_winner": "Fabiola DIAZ"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "COL",
+                    "name": "Estefania GARCIA ARENAS"
+                },
+                {
+                    "winner": "Estefania GARCIA ARENAS"
+                }
+            ],
+            [
+                {
+                    "country": "PER",
+                    "name": "Noemi HUAYHUAMEZA"
+                },
+                {
+                    "winner": "Noemi HUAYHUAMEZA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "COL",
+                    "name": "Estefania GARCIA ARENAS"
+                },
+                {
+                    "country": "PER",
+                    "name": "Noemi HUAYHUAMEZA"
+                }
+            ]
+        ],
+        "final_winner": "Noemi HUAYHUAMEZA"
+    },
+    "REPECHAGE": {
+        "round 1-4": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Jaqueline NASCIMENTO"
+                },
+                {
+                    "winner": "Jaqueline NASCIMENTO"
+                }
+            ],
+            [
+                {
+                    "country": "MEX",
+                    "name": "Renata ORTIZ"
+                },
+                {
+                    "winner": "Renata ORTIZ"
+                }
+            ],
+            [
+                {
+                    "country": "GUA",
+                    "name": "Sheily LOPEZ"
+                },
+                {
+                    "winner": "Sheily LOPEZ"
+                }
+            ],
+            [
+                {
+                    "country": "COL",
+                    "name": "Estefania GARCIA ARENAS"
+                },
+                {
+                    "winner": "Estefania GARCIA ARENAS"
+                }
+            ]
+        ],
+        "round 1-2": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Jaqueline NASCIMENTO"
+                },
+                {
+                    "country": "MEX",
+                    "name": "Renata ORTIZ"
+                },
+                {
+                    "winner": "Jaqueline NASCIMENTO"
+                }
+            ],
+            [
+                {
+                    "country": "GUA",
+                    "name": "Sheily LOPEZ"
+                },
+                {
+                    "country": "COL",
+                    "name": "Estefania GARCIA ARENAS"
+                },
+                {
+                    "winner": "Sheily LOPEZ"
+                }
+            ],
+            [
+                {
+                    "country": "BRA",
+                    "name": "Jaqueline NASCIMENTO"
+                },
+                {
+                    "country": "PER",
+                    "name": "Noemi HUAYHUAMEZA"
+                },
+                {
+                    "winner": "Noemi HUAYHUAMEZA"
+                }
+            ],
+            [
+                {
+                    "country": "GUA",
+                    "name": "Sheily LOPEZ"
+                },
+                {
+                    "country": "ECU",
+                    "name": "Scheccid RIVERA"
+                },
+                {
+                    "winner": "Sheily LOPEZ"
+                }
+            ],
+            [
+                {
+                    "country": "PER",
+                    "name": "Noemi HUAYHUAMEZA"
+                }
+            ],
+            [
+                {
+                    "country": "GUA",
+                    "name": "Sheily LOPEZ"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Noemi HUAYHUAMEZA",
+            "Sheily LOPEZ"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ECU",
+                    "name": "Scheccid RIVERA"
+                },
+                {
+                    "country": "USA",
+                    "name": "Nicole CANCELA"
+                },
+                {
+                    "winner": "Nicole CANCELA"
+                }
+            ],
+            [
+                {
+                    "country": "VEN",
+                    "name": "Fabiola DIAZ"
+                },
+                {
+                    "country": "PER",
+                    "name": "Noemi HUAYHUAMEZA"
+                },
+                {
+                    "winner": "Fabiola DIAZ"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "USA",
+                    "name": "Nicole CANCELA"
+                },
+                {
+                    "country": "VEN",
+                    "name": "Fabiola DIAZ"
+                }
+            ]
+        ],
+        "final_winner": "Nicole CANCELA"
+    }
+}

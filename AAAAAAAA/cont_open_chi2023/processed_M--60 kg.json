@@ -1,0 +1,281 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ECU",
+                    "name": "Bryan GARBOA"
+                },
+                {
+                    "winner": "Bryan GARBOA"
+                }
+            ],
+            [
+                {
+                    "country": "ARG",
+                    "name": "Ignacio FREGGIARO"
+                },
+                {
+                    "country": "CHI",
+                    "name": "Jhan CATALAN"
+                },
+                {
+                    "winner": "Ignacio FREGGIARO"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "ECU",
+                    "name": "Bryan GARBOA"
+                },
+                {
+                    "country": "ARG",
+                    "name": "Ignacio FREGGIARO"
+                }
+            ]
+        ],
+        "final_winner": "Bryan GARBOA"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ECU",
+                    "name": "Juan AYALA"
+                },
+                {
+                    "country": "BRA",
+                    "name": "Henrique SILVA"
+                },
+                {
+                    "winner": "Juan AYALA"
+                }
+            ],
+            [
+                {
+                    "country": "USA",
+                    "name": "David TERAO"
+                },
+                {
+                    "country": "CHI",
+                    "name": "Francisco IBACACHE"
+                },
+                {
+                    "winner": "David TERAO"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "ECU",
+                    "name": "Juan AYALA"
+                },
+                {
+                    "country": "USA",
+                    "name": "David TERAO"
+                }
+            ]
+        ],
+        "final_winner": "Juan AYALA"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Ryan CONCEICAO"
+                },
+                {
+                    "winner": "Ryan CONCEICAO"
+                }
+            ],
+            [
+                {
+                    "country": "CHI",
+                    "name": "Hugo VERA"
+                },
+                {
+                    "country": "ESA",
+                    "name": "Jairo MORENO"
+                },
+                {
+                    "winner": "Jairo MORENO"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Ryan CONCEICAO"
+                },
+                {
+                    "country": "ESA",
+                    "name": "Jairo MORENO"
+                }
+            ]
+        ],
+        "final_winner": "Ryan CONCEICAO"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "MEX",
+                    "name": "Arath JUAREZ"
+                },
+                {
+                    "country": "CHI",
+                    "name": "Bryan QUEZADA"
+                },
+                {
+                    "winner": "Arath JUAREZ"
+                }
+            ],
+            [
+                {
+                    "country": "MEX",
+                    "name": "Moises ROSADO"
+                },
+                {
+                    "country": "BRA",
+                    "name": "Chrystian SILVA"
+                },
+                {
+                    "winner": "Chrystian SILVA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "MEX",
+                    "name": "Arath JUAREZ"
+                },
+                {
+                    "country": "BRA",
+                    "name": "Chrystian SILVA"
+                }
+            ]
+        ],
+        "final_winner": "Chrystian SILVA"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ARG",
+                    "name": "Ignacio FREGGIARO"
+                },
+                {
+                    "country": "USA",
+                    "name": "David TERAO"
+                },
+                {
+                    "winner": "David TERAO"
+                }
+            ],
+            [
+                {
+                    "country": "ESA",
+                    "name": "Jairo MORENO"
+                },
+                {
+                    "country": "MEX",
+                    "name": "Arath JUAREZ"
+                },
+                {
+                    "winner": "Arath JUAREZ"
+                }
+            ],
+            [
+                {
+                    "country": "USA",
+                    "name": "David TERAO"
+                },
+                {
+                    "country": "BRA",
+                    "name": "Ryan CONCEICAO"
+                },
+                {
+                    "winner": "David TERAO"
+                }
+            ],
+            [
+                {
+                    "country": "MEX",
+                    "name": "Arath JUAREZ"
+                },
+                {
+                    "country": "ECU",
+                    "name": "Bryan GARBOA"
+                },
+                {
+                    "winner": "Arath JUAREZ"
+                }
+            ],
+            [
+                {
+                    "country": "USA",
+                    "name": "David TERAO"
+                }
+            ],
+            [
+                {
+                    "country": "MEX",
+                    "name": "Arath JUAREZ"
+                }
+            ]
+        ],
+        "final_winners": [
+            "David TERAO",
+            "Arath JUAREZ"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ECU",
+                    "name": "Bryan GARBOA"
+                },
+                {
+                    "country": "ECU",
+                    "name": "Juan AYALA"
+                },
+                {
+                    "winner": "Juan AYALA"
+                }
+            ],
+            [
+                {
+                    "country": "BRA",
+                    "name": "Ryan CONCEICAO"
+                },
+                {
+                    "country": "BRA",
+                    "name": "Chrystian SILVA"
+                },
+                {
+                    "winner": "Chrystian SILVA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "ECU",
+                    "name": "Juan AYALA"
+                },
+                {
+                    "country": "BRA",
+                    "name": "Chrystian SILVA"
+                }
+            ]
+        ],
+        "final_winner": "Juan AYALA"
+    }
+}

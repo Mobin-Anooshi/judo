@@ -1,0 +1,159 @@
+{
+    "POOL A": {
+        "round 1-1": [],
+        "final_winner": "Joana CRISOSTOMO"
+    },
+    "POOL B": {
+        "round 1-1": [
+            [
+                {
+                    "country": "FRA",
+                    "name": "Heloise DUJARDIN"
+                },
+                {
+                    "country": "DEN",
+                    "name": "Karoline HANSEN"
+                }
+            ]
+        ],
+        "final_winner": "Karoline HANSEN"
+    },
+    "POOL C": {
+        "round 1-1": [
+            [
+                {
+                    "country": "DEN",
+                    "name": "Ida JAKOBSEN"
+                },
+                {
+                    "country": "POR",
+                    "name": "Maria VIDINHA"
+                }
+            ]
+        ],
+        "final_winner": "Ida JAKOBSEN"
+    },
+    "POOL D": {
+        "round 1-1": [
+            [
+                {
+                    "country": "POR",
+                    "name": "Luisa SANTOS"
+                },
+                {
+                    "country": "USA",
+                    "name": "Isabella GARRIGA"
+                }
+            ]
+        ],
+        "final_winner": "Isabella GARRIGA"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "FRA",
+                    "name": "Heloise DUJARDIN"
+                }
+            ],
+            [
+                {
+                    "country": "POR",
+                    "name": "Maria VIDINHA"
+                },
+                {
+                    "country": "POR",
+                    "name": "Luisa SANTOS"
+                },
+                {
+                    "winner": "Luisa SANTOS"
+                }
+            ],
+            [
+                {
+                    "country": "FRA",
+                    "name": "Heloise DUJARDIN"
+                },
+                {
+                    "country": "USA",
+                    "name": "Isabella GARRIGA"
+                },
+                {
+                    "winner": "Isabella GARRIGA"
+                }
+            ],
+            [
+                {
+                    "country": "POR",
+                    "name": "Luisa SANTOS"
+                },
+                {
+                    "country": "DEN",
+                    "name": "Karoline HANSEN"
+                },
+                {
+                    "winner": "Karoline HANSEN"
+                }
+            ],
+            [
+                {
+                    "country": "USA",
+                    "name": "Isabella GARRIGA"
+                }
+            ],
+            [
+                {
+                    "country": "DEN",
+                    "name": "Karoline HANSEN"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Isabella GARRIGA",
+            "Karoline HANSEN"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "POR",
+                    "name": "Joana CRISOSTOMO"
+                },
+                {
+                    "country": "DEN",
+                    "name": "Karoline HANSEN"
+                },
+                {
+                    "winner": "Joana CRISOSTOMO"
+                }
+            ],
+            [
+                {
+                    "country": "DEN",
+                    "name": "Ida JAKOBSEN"
+                },
+                {
+                    "country": "USA",
+                    "name": "Isabella GARRIGA"
+                },
+                {
+                    "winner": "Ida JAKOBSEN"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "POR",
+                    "name": "Joana CRISOSTOMO"
+                },
+                {
+                    "country": "DEN",
+                    "name": "Ida JAKOBSEN"
+                }
+            ]
+        ],
+        "final_winner": "Joana CRISOSTOMO"
+    }
+}

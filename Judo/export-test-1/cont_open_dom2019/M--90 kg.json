@@ -1,0 +1,130 @@
+{
+    "POOL A": {
+        "round 1-1": [],
+        "final_winner": "Robert FLORENTINO"
+    },
+    "POOL B": {
+        "round 1-1": [],
+        "final_winner": "Luis ROSARIO"
+    },
+    "POOL C": {
+        "round 1-1": [
+            [
+                {
+                    "country": "CAN",
+                    "name": "Benjamin KENDRICK"
+                },
+                {
+                    "country": "DOM",
+                    "name": "Marcos MARTE"
+                }
+            ]
+        ],
+        "final_winner": "Benjamin KENDRICK"
+    },
+    "POOL D": {
+        "round 1-1": [
+            [
+                {
+                    "country": "CAN",
+                    "name": "Danil NEYOLOV"
+                },
+                {
+                    "country": "DOM",
+                    "name": "Franklin GUZMAN"
+                }
+            ]
+        ],
+        "final_winner": "Danil NEYOLOV"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [],
+            [
+                {
+                    "country": "DOM",
+                    "name": "Marcos MARTE"
+                },
+                {
+                    "country": "DOM",
+                    "name": "Franklin GUZMAN"
+                },
+                {
+                    "winner": "Marcos MARTE"
+                }
+            ],
+            [
+                {
+                    "country": "CAN",
+                    "name": "Danil NEYOLOV"
+                }
+            ],
+            [
+                {
+                    "country": "DOM",
+                    "name": "Marcos MARTE"
+                },
+                {
+                    "country": "DOM",
+                    "name": "Luis ROSARIO"
+                },
+                {
+                    "winner": "Marcos MARTE"
+                }
+            ],
+            [
+                {
+                    "country": "DOM",
+                    "name": "Marcos MARTE"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Marcos MARTE",
+            "Danil NEYOLOV"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "DOM",
+                    "name": "Robert FLORENTINO"
+                },
+                {
+                    "country": "DOM",
+                    "name": "Luis ROSARIO"
+                },
+                {
+                    "winner": "Robert FLORENTINO"
+                }
+            ],
+            [
+                {
+                    "country": "CAN",
+                    "name": "Benjamin KENDRICK"
+                },
+                {
+                    "country": "CAN",
+                    "name": "Danil NEYOLOV"
+                },
+                {
+                    "winner": "Benjamin KENDRICK"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "DOM",
+                    "name": "Robert FLORENTINO"
+                },
+                {
+                    "country": "CAN",
+                    "name": "Benjamin KENDRICK"
+                }
+            ]
+        ],
+        "final_winner": "Robert FLORENTINO"
+    }
+}

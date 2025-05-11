@@ -1,0 +1,265 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "AUS",
+                    "name": "Sebastian TEMESI"
+                },
+                {
+                    "winner": "Sebastian TEMESI"
+                }
+            ],
+            [
+                {
+                    "country": "LIE",
+                    "name": "Raphael SCHWENDINGER"
+                },
+                {
+                    "country": "FRA",
+                    "name": "Nicolas HOMO"
+                },
+                {
+                    "winner": "Raphael SCHWENDINGER"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "AUS",
+                    "name": "Sebastian TEMESI"
+                },
+                {
+                    "country": "LIE",
+                    "name": "Raphael SCHWENDINGER"
+                }
+            ]
+        ],
+        "final_winner": "Sebastian TEMESI"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CAN",
+                    "name": "Mohab ELNAHAS"
+                },
+                {
+                    "winner": "Mohab ELNAHAS"
+                }
+            ],
+            [
+                {
+                    "country": "ARG",
+                    "name": "Tomas SPIKERMANN"
+                },
+                {
+                    "winner": "Tomas SPIKERMANN"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "CAN",
+                    "name": "Mohab ELNAHAS"
+                },
+                {
+                    "country": "ARG",
+                    "name": "Tomas SPIKERMANN"
+                }
+            ]
+        ],
+        "final_winner": "Tomas SPIKERMANN"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "PER",
+                    "name": "Yuta GALARRETA"
+                },
+                {
+                    "winner": "Yuta GALARRETA"
+                }
+            ],
+            [
+                {
+                    "country": "PER",
+                    "name": "Daryl YAMAMOTO"
+                },
+                {
+                    "country": "FRA",
+                    "name": "Antony JOUBERT"
+                },
+                {
+                    "winner": "Antony JOUBERT"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "PER",
+                    "name": "Yuta GALARRETA"
+                },
+                {
+                    "country": "FRA",
+                    "name": "Antony JOUBERT"
+                }
+            ]
+        ],
+        "final_winner": "Antony JOUBERT"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "COL",
+                    "name": "Francisco BALANTA"
+                },
+                {
+                    "winner": "Francisco BALANTA"
+                }
+            ],
+            [
+                {
+                    "country": "USA",
+                    "name": "Matthew KOCH"
+                },
+                {
+                    "winner": "Matthew KOCH"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "COL",
+                    "name": "Francisco BALANTA"
+                },
+                {
+                    "country": "USA",
+                    "name": "Matthew KOCH"
+                }
+            ]
+        ],
+        "final_winner": "Francisco BALANTA"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "LIE",
+                    "name": "Raphael SCHWENDINGER"
+                },
+                {
+                    "country": "CAN",
+                    "name": "Mohab ELNAHAS"
+                },
+                {
+                    "winner": "Raphael SCHWENDINGER"
+                }
+            ],
+            [
+                {
+                    "country": "PER",
+                    "name": "Yuta GALARRETA"
+                },
+                {
+                    "country": "USA",
+                    "name": "Matthew KOCH"
+                },
+                {
+                    "winner": "Yuta GALARRETA"
+                }
+            ],
+            [
+                {
+                    "country": "LIE",
+                    "name": "Raphael SCHWENDINGER"
+                },
+                {
+                    "country": "FRA",
+                    "name": "Antony JOUBERT"
+                },
+                {
+                    "winner": "Antony JOUBERT"
+                }
+            ],
+            [
+                {
+                    "country": "PER",
+                    "name": "Yuta GALARRETA"
+                },
+                {
+                    "country": "AUS",
+                    "name": "Sebastian TEMESI"
+                },
+                {
+                    "winner": "Yuta GALARRETA"
+                }
+            ],
+            [
+                {
+                    "country": "FRA",
+                    "name": "Antony JOUBERT"
+                }
+            ],
+            [
+                {
+                    "country": "PER",
+                    "name": "Yuta GALARRETA"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Antony JOUBERT",
+            "Yuta GALARRETA"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "AUS",
+                    "name": "Sebastian TEMESI"
+                },
+                {
+                    "country": "ARG",
+                    "name": "Tomas SPIKERMANN"
+                },
+                {
+                    "winner": "Tomas SPIKERMANN"
+                }
+            ],
+            [
+                {
+                    "country": "FRA",
+                    "name": "Antony JOUBERT"
+                },
+                {
+                    "country": "COL",
+                    "name": "Francisco BALANTA"
+                },
+                {
+                    "winner": "Francisco BALANTA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "ARG",
+                    "name": "Tomas SPIKERMANN"
+                },
+                {
+                    "country": "COL",
+                    "name": "Francisco BALANTA"
+                }
+            ]
+        ],
+        "final_winner": "Francisco BALANTA"
+    }
+}

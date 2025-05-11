@@ -1,0 +1,269 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CHI",
+                    "name": "Thomas BRICENO"
+                },
+                {
+                    "winner": "Thomas BRICENO"
+                }
+            ],
+            [
+                {
+                    "country": "DOM",
+                    "name": "Ariel LORENZO PINA"
+                },
+                {
+                    "country": "PAN",
+                    "name": "Manuel VELASQUEZ"
+                },
+                {
+                    "winner": "Ariel LORENZO PINA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "CHI",
+                    "name": "Thomas BRICENO"
+                },
+                {
+                    "country": "DOM",
+                    "name": "Ariel LORENZO PINA"
+                }
+            ]
+        ],
+        "final_winner": "Ariel LORENZO PINA"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "COL",
+                    "name": "Alejandro ESCOBAR"
+                },
+                {
+                    "winner": "Alejandro ESCOBAR"
+                }
+            ],
+            [
+                {
+                    "country": "DOM",
+                    "name": "Luis ROSARIO"
+                },
+                {
+                    "winner": "Luis ROSARIO"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "COL",
+                    "name": "Alejandro ESCOBAR"
+                },
+                {
+                    "country": "DOM",
+                    "name": "Luis ROSARIO"
+                }
+            ]
+        ],
+        "final_winner": "Alejandro ESCOBAR"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CAN",
+                    "name": "Ian RYDER"
+                },
+                {
+                    "winner": "Ian RYDER"
+                }
+            ],
+            [
+                {
+                    "country": "HAI",
+                    "name": "Billy MONDESTIN"
+                },
+                {
+                    "country": "PUR",
+                    "name": "GREG MUNIZ VAZQUEZ"
+                },
+                {
+                    "winner": "Billy MONDESTIN"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "CAN",
+                    "name": "Ian RYDER"
+                },
+                {
+                    "country": "HAI",
+                    "name": "Billy MONDESTIN"
+                }
+            ]
+        ],
+        "final_winner": "Ian RYDER"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "MEX",
+                    "name": "Alexis ESQUIVEL"
+                },
+                {
+                    "winner": "Alexis ESQUIVEL"
+                }
+            ],
+            [
+                {
+                    "country": "COL",
+                    "name": "Francisco BALANTA"
+                },
+                {
+                    "country": "DOM",
+                    "name": "Franklin GUZMAN"
+                },
+                {
+                    "winner": "Francisco BALANTA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "MEX",
+                    "name": "Alexis ESQUIVEL"
+                },
+                {
+                    "country": "COL",
+                    "name": "Francisco BALANTA"
+                }
+            ]
+        ],
+        "final_winner": "Francisco BALANTA"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CHI",
+                    "name": "Thomas BRICENO"
+                },
+                {
+                    "country": "DOM",
+                    "name": "Luis ROSARIO"
+                },
+                {
+                    "winner": "Thomas BRICENO"
+                }
+            ],
+            [
+                {
+                    "country": "HAI",
+                    "name": "Billy MONDESTIN"
+                },
+                {
+                    "country": "MEX",
+                    "name": "Alexis ESQUIVEL"
+                },
+                {
+                    "winner": "Alexis ESQUIVEL"
+                }
+            ],
+            [
+                {
+                    "country": "CHI",
+                    "name": "Thomas BRICENO"
+                },
+                {
+                    "country": "CAN",
+                    "name": "Ian RYDER"
+                },
+                {
+                    "winner": "Thomas BRICENO"
+                }
+            ],
+            [
+                {
+                    "country": "MEX",
+                    "name": "Alexis ESQUIVEL"
+                },
+                {
+                    "country": "DOM",
+                    "name": "Ariel LORENZO PINA"
+                },
+                {
+                    "winner": "Ariel LORENZO PINA"
+                }
+            ],
+            [
+                {
+                    "country": "CHI",
+                    "name": "Thomas BRICENO"
+                }
+            ],
+            [
+                {
+                    "country": "DOM",
+                    "name": "Ariel LORENZO PINA"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Thomas BRICENO",
+            "Ariel LORENZO PINA"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "DOM",
+                    "name": "Ariel LORENZO PINA"
+                },
+                {
+                    "country": "COL",
+                    "name": "Alejandro ESCOBAR"
+                },
+                {
+                    "winner": "Alejandro ESCOBAR"
+                }
+            ],
+            [
+                {
+                    "country": "CAN",
+                    "name": "Ian RYDER"
+                },
+                {
+                    "country": "COL",
+                    "name": "Francisco BALANTA"
+                },
+                {
+                    "winner": "Francisco BALANTA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "COL",
+                    "name": "Alejandro ESCOBAR"
+                },
+                {
+                    "country": "COL",
+                    "name": "Francisco BALANTA"
+                }
+            ]
+        ],
+        "final_winner": "Francisco BALANTA"
+    }
+}

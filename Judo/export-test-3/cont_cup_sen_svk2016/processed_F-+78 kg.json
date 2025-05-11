@@ -1,0 +1,87 @@
+{
+    "POOL A": {
+        "round 1-3": [
+            [
+                {
+                    "country": "POL",
+                    "name": "Anna ZALECZNA"
+                },
+                {
+                    "country": "RUS",
+                    "name": "Kseniia CHIBISOVA"
+                },
+                {
+                    "winner": "Anna ZALECZNA"
+                }
+            ],
+            [
+                {
+                    "country": "POL",
+                    "name": "Anna ZALECZNA"
+                },
+                {
+                    "country": "UKR",
+                    "name": "Galyna TARASOVA"
+                },
+                {
+                    "winner": "Galyna TARASOVA"
+                }
+            ],
+            [
+                {
+                    "country": "RUS",
+                    "name": "Kseniia CHIBISOVA"
+                },
+                {
+                    "country": "ITA",
+                    "name": "Elisa MARCHIO"
+                },
+                {
+                    "winner": "Kseniia CHIBISOVA"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Kseniia CHIBISOVA",
+            "Galyna TARASOVA"
+        ]
+    },
+    "POOL B": {
+        "round 1-1": [],
+        "final_winners": [
+            "Elisa MARCHIO"
+        ]
+    },
+    "REPECHAGE": {
+        "round 1-1": [
+            [
+                {
+                    "country": "UKR",
+                    "name": "Yelyzaveta KALANINA"
+                },
+                {
+                    "country": "UKR",
+                    "name": "Galyna TARASOVA"
+                },
+                {
+                    "winner": "Yelyzaveta KALANINA"
+                }
+            ],
+            [
+                {
+                    "country": "UKR",
+                    "name": "Yelyzaveta KALANINA"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Yelyzaveta KALANINA"
+        ]
+    },
+    "FINALS": {
+        "round 1-1": [],
+        "final_winners": [
+            "Elisa MARCHIO"
+        ]
+    }
+}

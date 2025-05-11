@@ -1,0 +1,141 @@
+{
+    "POOL A": {
+        "round 1-1": [],
+        "final_winner": "Khalimajon KURBONOVA"
+    },
+    "POOL B": {
+        "round 1-1": [
+            [
+                {
+                    "country": "KGZ",
+                    "name": "Saule ALMAZOVA"
+                },
+                {
+                    "country": "IND",
+                    "name": "SIMRAN"
+                }
+            ]
+        ],
+        "final_winner": "SIMRAN"
+    },
+    "POOL C": {
+        "round 1-1": [],
+        "final_winner": "Sara KULYM"
+    },
+    "POOL D": {
+        "round 1-1": [
+            [
+                {
+                    "country": "KAZ",
+                    "name": "Aiym ZHUMAGALIYEVA"
+                },
+                {
+                    "country": "UZB",
+                    "name": "Yulyana MAKSETBAEVA"
+                }
+            ]
+        ],
+        "final_winner": "Yulyana MAKSETBAEVA"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "KGZ",
+                    "name": "Saule ALMAZOVA"
+                }
+            ],
+            [
+                {
+                    "country": "KAZ",
+                    "name": "Aiym ZHUMAGALIYEVA"
+                }
+            ],
+            [
+                {
+                    "country": "KGZ",
+                    "name": "Saule ALMAZOVA"
+                },
+                {
+                    "country": "KAZ",
+                    "name": "Sara KULYM"
+                },
+                {
+                    "winner": "Sara KULYM"
+                }
+            ],
+            [
+                {
+                    "country": "KAZ",
+                    "name": "Aiym ZHUMAGALIYEVA"
+                },
+                {
+                    "country": "IND",
+                    "name": "SIMRAN"
+                },
+                {
+                    "winner": "SIMRAN"
+                }
+            ],
+            [
+                {
+                    "country": "KAZ",
+                    "name": "Sara KULYM"
+                }
+            ],
+            [
+                {
+                    "country": "IND",
+                    "name": "SIMRAN"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Sara KULYM",
+            "SIMRAN"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "UZB",
+                    "name": "Khalimajon KURBONOVA"
+                },
+                {
+                    "country": "IND",
+                    "name": "SIMRAN"
+                },
+                {
+                    "winner": "Khalimajon KURBONOVA"
+                }
+            ],
+            [
+                {
+                    "country": "KAZ",
+                    "name": "Sara KULYM"
+                },
+                {
+                    "country": "UZB",
+                    "name": "Yulyana MAKSETBAEVA"
+                },
+                {
+                    "winner": "Yulyana MAKSETBAEVA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "UZB",
+                    "name": "Khalimajon KURBONOVA"
+                },
+                {
+                    "country": "UZB",
+                    "name": "Yulyana MAKSETBAEVA"
+                }
+            ]
+        ],
+        "final_winner": "Khalimajon KURBONOVA"
+    }
+}

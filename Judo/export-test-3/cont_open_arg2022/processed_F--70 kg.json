@@ -1,0 +1,68 @@
+{
+    "ROUND 1": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ARG",
+                    "name": "Victoria DELVECCHIO"
+                },
+                {
+                    "country": "CHI",
+                    "name": "Camila LAGOS"
+                },
+                {
+                    "winner": "Victoria DELVECCHIO"
+                }
+            ],
+            [
+                {
+                    "country": "BRA",
+                    "name": "Eduarda ROSA"
+                },
+                {
+                    "country": "ARG",
+                    "name": "Joaquina NIETO"
+                },
+                {
+                    "winner": "Eduarda ROSA"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Victoria DELVECCHIO",
+            "Eduarda ROSA"
+        ]
+    },
+    "REPECHAGE": {
+        "round 1-1": [
+            [
+                {
+                    "country": "CHI",
+                    "name": "Camila LAGOS"
+                },
+                {
+                    "country": "ARG",
+                    "name": "Joaquina NIETO"
+                },
+                {
+                    "winner": "Joaquina NIETO"
+                }
+            ],
+            [
+                {
+                    "country": "ARG",
+                    "name": "Joaquina NIETO"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Joaquina NIETO"
+        ]
+    },
+    "FINALS": {
+        "round 1-1": [],
+        "final_winners": [
+            "Eduarda ROSA"
+        ]
+    }
+}

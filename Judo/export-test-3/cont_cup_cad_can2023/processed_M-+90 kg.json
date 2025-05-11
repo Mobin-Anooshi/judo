@@ -1,0 +1,68 @@
+{
+    "ROUND 1": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CAN",
+                    "name": "Patrick MERTACHYAN"
+                },
+                {
+                    "country": "CAN",
+                    "name": "Mohamed Amine SILEM"
+                },
+                {
+                    "winner": "Mohamed Amine SILEM"
+                }
+            ],
+            [
+                {
+                    "country": "CAN",
+                    "name": "Cai JAMES"
+                },
+                {
+                    "country": "CHI",
+                    "name": "Marko FIGUEROA"
+                },
+                {
+                    "winner": "Marko FIGUEROA"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Mohamed Amine SILEM",
+            "Marko FIGUEROA"
+        ]
+    },
+    "REPECHAGE": {
+        "round 1-1": [
+            [
+                {
+                    "country": "CAN",
+                    "name": "Patrick MERTACHYAN"
+                },
+                {
+                    "country": "CAN",
+                    "name": "Cai JAMES"
+                },
+                {
+                    "winner": "Cai JAMES"
+                }
+            ],
+            [
+                {
+                    "country": "CAN",
+                    "name": "Cai JAMES"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Cai JAMES"
+        ]
+    },
+    "FINALS": {
+        "round 1-1": [],
+        "final_winners": [
+            "Mohamed Amine SILEM"
+        ]
+    }
+}

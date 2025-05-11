@@ -1,0 +1,265 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CUB",
+                    "name": "Andy GRANDA"
+                },
+                {
+                    "winner": "Andy GRANDA"
+                }
+            ],
+            [
+                {
+                    "country": "USA",
+                    "name": "Philip HORIUCHI"
+                },
+                {
+                    "country": "CUB",
+                    "name": "Juan GOMEZ CERRERA"
+                },
+                {
+                    "winner": "Juan GOMEZ CERRERA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "CUB",
+                    "name": "Andy GRANDA"
+                },
+                {
+                    "country": "CUB",
+                    "name": "Juan GOMEZ CERRERA"
+                }
+            ]
+        ],
+        "final_winner": "Andy GRANDA"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CUB",
+                    "name": "Jonathan LOYNAZ"
+                },
+                {
+                    "winner": "Jonathan LOYNAZ"
+                }
+            ],
+            [
+                {
+                    "country": "CUB",
+                    "name": "Jorge PINEDA PEDROSO"
+                },
+                {
+                    "winner": "Jorge PINEDA PEDROSO"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "CUB",
+                    "name": "Jonathan LOYNAZ"
+                },
+                {
+                    "country": "CUB",
+                    "name": "Jorge PINEDA PEDROSO"
+                }
+            ]
+        ],
+        "final_winner": "Jorge PINEDA PEDROSO"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "USA",
+                    "name": "Christian KONOVAL"
+                },
+                {
+                    "winner": "Christian KONOVAL"
+                }
+            ],
+            [
+                {
+                    "country": "CUB",
+                    "name": "Ivan ALFONSO"
+                },
+                {
+                    "country": "CUB",
+                    "name": "Leonis ALVAREZ SOSA"
+                },
+                {
+                    "winner": "Leonis ALVAREZ SOSA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "USA",
+                    "name": "Christian KONOVAL"
+                },
+                {
+                    "country": "CUB",
+                    "name": "Leonis ALVAREZ SOSA"
+                }
+            ]
+        ],
+        "final_winner": "Leonis ALVAREZ SOSA"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CUB",
+                    "name": "Omar CRUZ LEON"
+                },
+                {
+                    "winner": "Omar CRUZ LEON"
+                }
+            ],
+            [
+                {
+                    "country": "CUB",
+                    "name": "Jonathan DELGADO"
+                },
+                {
+                    "winner": "Jonathan DELGADO"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "CUB",
+                    "name": "Omar CRUZ LEON"
+                },
+                {
+                    "country": "CUB",
+                    "name": "Jonathan DELGADO"
+                }
+            ]
+        ],
+        "final_winner": "Omar CRUZ LEON"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CUB",
+                    "name": "Juan GOMEZ CERRERA"
+                },
+                {
+                    "country": "CUB",
+                    "name": "Jonathan LOYNAZ"
+                },
+                {
+                    "winner": "Juan GOMEZ CERRERA"
+                }
+            ],
+            [
+                {
+                    "country": "USA",
+                    "name": "Christian KONOVAL"
+                },
+                {
+                    "country": "CUB",
+                    "name": "Jonathan DELGADO"
+                },
+                {
+                    "winner": "Christian KONOVAL"
+                }
+            ],
+            [
+                {
+                    "country": "CUB",
+                    "name": "Juan GOMEZ CERRERA"
+                },
+                {
+                    "country": "CUB",
+                    "name": "Leonis ALVAREZ SOSA"
+                },
+                {
+                    "winner": "Juan GOMEZ CERRERA"
+                }
+            ],
+            [
+                {
+                    "country": "USA",
+                    "name": "Christian KONOVAL"
+                },
+                {
+                    "country": "CUB",
+                    "name": "Jorge PINEDA PEDROSO"
+                },
+                {
+                    "winner": "Jorge PINEDA PEDROSO"
+                }
+            ],
+            [
+                {
+                    "country": "CUB",
+                    "name": "Juan GOMEZ CERRERA"
+                }
+            ],
+            [
+                {
+                    "country": "CUB",
+                    "name": "Jorge PINEDA PEDROSO"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Juan GOMEZ CERRERA",
+            "Jorge PINEDA PEDROSO"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CUB",
+                    "name": "Andy GRANDA"
+                },
+                {
+                    "country": "CUB",
+                    "name": "Jorge PINEDA PEDROSO"
+                },
+                {
+                    "winner": "Andy GRANDA"
+                }
+            ],
+            [
+                {
+                    "country": "CUB",
+                    "name": "Leonis ALVAREZ SOSA"
+                },
+                {
+                    "country": "CUB",
+                    "name": "Omar CRUZ LEON"
+                },
+                {
+                    "winner": "Omar CRUZ LEON"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "CUB",
+                    "name": "Andy GRANDA"
+                },
+                {
+                    "country": "CUB",
+                    "name": "Omar CRUZ LEON"
+                }
+            ]
+        ],
+        "final_winner": "Andy GRANDA"
+    }
+}

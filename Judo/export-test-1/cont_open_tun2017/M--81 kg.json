@@ -1,0 +1,277 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "TUN",
+                    "name": "Abdelaziz BEN AMMAR"
+                },
+                {
+                    "winner": "Abdelaziz BEN AMMAR"
+                }
+            ],
+            [
+                {
+                    "country": "ARG",
+                    "name": "Tomas MORALES"
+                },
+                {
+                    "country": "COD",
+                    "name": "Cedrick KALONGA"
+                },
+                {
+                    "winner": "Tomas MORALES"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "TUN",
+                    "name": "Abdelaziz BEN AMMAR"
+                },
+                {
+                    "country": "ARG",
+                    "name": "Tomas MORALES"
+                }
+            ]
+        ],
+        "final_winner": "Abdelaziz BEN AMMAR"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "MAR",
+                    "name": "Achraf MOUTII"
+                },
+                {
+                    "country": "ESP",
+                    "name": "Alfonso URQUIZA SOLANA"
+                },
+                {
+                    "winner": "Alfonso URQUIZA SOLANA"
+                }
+            ],
+            [
+                {
+                    "country": "GAB",
+                    "name": "Terence KOUAMBA"
+                },
+                {
+                    "country": "SEN",
+                    "name": "Saliou NDIAYE"
+                },
+                {
+                    "winner": "Saliou NDIAYE"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "ESP",
+                    "name": "Alfonso URQUIZA SOLANA"
+                },
+                {
+                    "country": "SEN",
+                    "name": "Saliou NDIAYE"
+                }
+            ]
+        ],
+        "final_winner": "Saliou NDIAYE"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "FRA",
+                    "name": "Julian KERMARREC"
+                },
+                {
+                    "winner": "Julian KERMARREC"
+                }
+            ],
+            [
+                {
+                    "country": "ESP",
+                    "name": "Igor HERRERO ZAPIRAIN"
+                },
+                {
+                    "country": "CIV",
+                    "name": "Cheick Abrahams Faouzi DABONNE"
+                },
+                {
+                    "winner": "Cheick Abrahams Faouzi DABONNE"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "FRA",
+                    "name": "Julian KERMARREC"
+                },
+                {
+                    "country": "CIV",
+                    "name": "Cheick Abrahams Faouzi DABONNE"
+                }
+            ]
+        ],
+        "final_winner": "Julian KERMARREC"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ROU",
+                    "name": "Elemer SZOCS"
+                },
+                {
+                    "winner": "Elemer SZOCS"
+                }
+            ],
+            [
+                {
+                    "country": "FRA",
+                    "name": "Quentin JOUBERT"
+                },
+                {
+                    "country": "TUN",
+                    "name": "Khalil HADDAD"
+                },
+                {
+                    "winner": "Quentin JOUBERT"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "ROU",
+                    "name": "Elemer SZOCS"
+                },
+                {
+                    "country": "FRA",
+                    "name": "Quentin JOUBERT"
+                }
+            ]
+        ],
+        "final_winner": "Elemer SZOCS"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ARG",
+                    "name": "Tomas MORALES"
+                },
+                {
+                    "country": "ESP",
+                    "name": "Alfonso URQUIZA SOLANA"
+                },
+                {
+                    "winner": "Tomas MORALES"
+                }
+            ],
+            [
+                {
+                    "country": "CIV",
+                    "name": "Cheick Abrahams Faouzi DABONNE"
+                },
+                {
+                    "country": "FRA",
+                    "name": "Quentin JOUBERT"
+                },
+                {
+                    "winner": "Quentin JOUBERT"
+                }
+            ],
+            [
+                {
+                    "country": "ARG",
+                    "name": "Tomas MORALES"
+                },
+                {
+                    "country": "ROU",
+                    "name": "Elemer SZOCS"
+                },
+                {
+                    "winner": "Elemer SZOCS"
+                }
+            ],
+            [
+                {
+                    "country": "FRA",
+                    "name": "Quentin JOUBERT"
+                },
+                {
+                    "country": "SEN",
+                    "name": "Saliou NDIAYE"
+                },
+                {
+                    "winner": "Quentin JOUBERT"
+                }
+            ],
+            [
+                {
+                    "country": "ROU",
+                    "name": "Elemer SZOCS"
+                }
+            ],
+            [
+                {
+                    "country": "FRA",
+                    "name": "Quentin JOUBERT"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Elemer SZOCS",
+            "Quentin JOUBERT"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "TUN",
+                    "name": "Abdelaziz BEN AMMAR"
+                },
+                {
+                    "country": "SEN",
+                    "name": "Saliou NDIAYE"
+                },
+                {
+                    "winner": "Abdelaziz BEN AMMAR"
+                }
+            ],
+            [
+                {
+                    "country": "FRA",
+                    "name": "Julian KERMARREC"
+                },
+                {
+                    "country": "ROU",
+                    "name": "Elemer SZOCS"
+                },
+                {
+                    "winner": "Julian KERMARREC"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "TUN",
+                    "name": "Abdelaziz BEN AMMAR"
+                },
+                {
+                    "country": "FRA",
+                    "name": "Julian KERMARREC"
+                }
+            ]
+        ],
+        "final_winner": "Julian KERMARREC"
+    }
+}

@@ -1,0 +1,87 @@
+{
+    "POOL A": {
+        "round 1-3": [
+            [
+                {
+                    "country": "SLO",
+                    "name": "Masa ZAVRSNIK"
+                },
+                {
+                    "country": "IJF",
+                    "name": "Slaviana RYLKEVICH"
+                },
+                {
+                    "winner": "Masa ZAVRSNIK"
+                }
+            ],
+            [
+                {
+                    "country": "SLO",
+                    "name": "Masa ZAVRSNIK"
+                },
+                {
+                    "country": "TUN",
+                    "name": "Aya SARRAJ"
+                },
+                {
+                    "winner": "Aya SARRAJ"
+                }
+            ],
+            [
+                {
+                    "country": "IJF",
+                    "name": "Slaviana RYLKEVICH"
+                },
+                {
+                    "country": "TUN",
+                    "name": "Aya SARRAJ"
+                },
+                {
+                    "winner": "Slaviana RYLKEVICH"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Masa ZAVRSNIK",
+            "Slaviana RYLKEVICH"
+        ]
+    },
+    "POOL B": {
+        "round 1-1": [],
+        "final_winners": [
+            "Radhia MEJBRI"
+        ]
+    },
+    "REPECHAGE": {
+        "round 1-1": [
+            [
+                {
+                    "country": "IJF",
+                    "name": "Slaviana RYLKEVICH"
+                },
+                {
+                    "country": "MAR",
+                    "name": "Malak LAKHAL"
+                },
+                {
+                    "winner": "Slaviana RYLKEVICH"
+                }
+            ],
+            [
+                {
+                    "country": "IJF",
+                    "name": "Slaviana RYLKEVICH"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Slaviana RYLKEVICH"
+        ]
+    },
+    "FINALS": {
+        "round 1-1": [],
+        "final_winners": [
+            "Masa ZAVRSNIK"
+        ]
+    }
+}

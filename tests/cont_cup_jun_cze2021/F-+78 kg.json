@@ -1,0 +1,268 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "NED",
+                    "name": "Carmen DIJKSTRA"
+                },
+                {
+                    "winner": "Carmen DIJKSTRA"
+                }
+            ],
+            []
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "NED",
+                    "name": "Carmen DIJKSTRA"
+                }
+            ]
+        ]
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "AZE",
+                    "name": "Narmin AMIRLI"
+                },
+                {
+                    "winner": "Narmin AMIRLI"
+                }
+            ],
+            [
+                {
+                    "country": "ROU",
+                    "name": "Georgiana MILER"
+                },
+                {
+                    "winner": "Georgiana MILER"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "AZE",
+                    "name": "Narmin AMIRLI"
+                },
+                {
+                    "country": "ROU",
+                    "name": "Georgiana MILER"
+                }
+            ],
+            [
+                {
+                    "country": "ROU",
+                    "name": "Georgiana MILER"
+                }
+            ]
+        ]
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "NED",
+                    "name": "Marit KAMPS"
+                },
+                {
+                    "winner": "Marit KAMPS"
+                }
+            ],
+            [
+                {
+                    "country": "ROU",
+                    "name": "Paula PASTIU"
+                },
+                {
+                    "winner": "Paula PASTIU"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "NED",
+                    "name": "Marit KAMPS"
+                },
+                {
+                    "country": "ROU",
+                    "name": "Paula PASTIU"
+                }
+            ],
+            [
+                {
+                    "country": "NED",
+                    "name": "Marit KAMPS"
+                }
+            ]
+        ]
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "LTU",
+                    "name": "Justina KMIELIAUSKAITE"
+                },
+                {
+                    "winner": "Justina KMIELIAUSKAITE"
+                }
+            ],
+            [
+                {
+                    "country": "CZE",
+                    "name": "Marketa CERCHLOVA"
+                },
+                {
+                    "winner": "Marketa CERCHLOVA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "LTU",
+                    "name": "Justina KMIELIAUSKAITE"
+                },
+                {
+                    "country": "CZE",
+                    "name": "Marketa CERCHLOVA"
+                }
+            ],
+            [
+                {
+                    "country": "CZE",
+                    "name": "Marketa CERCHLOVA"
+                }
+            ]
+        ]
+    },
+    "REPECHAGE": {
+        "round 1-4": [
+            [],
+            [
+                {
+                    "country": "AZE",
+                    "name": "Narmin AMIRLI"
+                },
+                {
+                    "winner": "Narmin AMIRLI"
+                }
+            ],
+            [
+                {
+                    "country": "ROU",
+                    "name": "Paula PASTIU"
+                },
+                {
+                    "winner": "Paula PASTIU"
+                }
+            ],
+            [
+                {
+                    "country": "LTU",
+                    "name": "Justina KMIELIAUSKAITE"
+                },
+                {
+                    "winner": "Justina KMIELIAUSKAITE"
+                }
+            ]
+        ],
+        "round 1-2": [
+            [
+                {
+                    "country": "AZE",
+                    "name": "Narmin AMIRLI"
+                }
+            ],
+            [
+                {
+                    "country": "ROU",
+                    "name": "Paula PASTIU"
+                },
+                {
+                    "country": "LTU",
+                    "name": "Justina KMIELIAUSKAITE"
+                }
+            ],
+            [
+                {
+                    "country": "AZE",
+                    "name": "Narmin AMIRLI"
+                },
+                {
+                    "country": "CZE",
+                    "name": "Marketa CERCHLOVA"
+                }
+            ],
+            [
+                {
+                    "country": "LTU",
+                    "name": "Justina KMIELIAUSKAITE"
+                },
+                {
+                    "country": "ROU",
+                    "name": "Georgiana MILER"
+                }
+            ],
+            [
+                {
+                    "country": "ROU",
+                    "name": "Georgiana MILER"
+                }
+            ]
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "NED",
+                    "name": "Carmen DIJKSTRA"
+                },
+                {
+                    "country": "ROU",
+                    "name": "Georgiana MILER"
+                },
+                {
+                    "winner": "Carmen DIJKSTRA"
+                }
+            ],
+            [
+                {
+                    "country": "NED",
+                    "name": "Marit KAMPS"
+                },
+                {
+                    "country": "CZE",
+                    "name": "Marketa CERCHLOVA"
+                },
+                {
+                    "winner": "Marit KAMPS"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "NED",
+                    "name": "Carmen DIJKSTRA"
+                },
+                {
+                    "country": "NED",
+                    "name": "Marit KAMPS"
+                }
+            ],
+            [
+                {
+                    "country": "NED",
+                    "name": "Marit KAMPS"
+                }
+            ]
+        ]
+    }
+}

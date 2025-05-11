@@ -1,0 +1,265 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Rafael BUZACARINI"
+                },
+                {
+                    "winner": "Rafael BUZACARINI"
+                }
+            ],
+            [
+                {
+                    "country": "BRA",
+                    "name": "Lucas LIMA"
+                },
+                {
+                    "country": "CHI",
+                    "name": "Yeison DONOSO"
+                },
+                {
+                    "winner": "Lucas LIMA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Rafael BUZACARINI"
+                },
+                {
+                    "country": "BRA",
+                    "name": "Lucas LIMA"
+                }
+            ]
+        ],
+        "final_winner": "Rafael BUZACARINI"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "MEX",
+                    "name": "Alexis ESQUIVEL"
+                },
+                {
+                    "winner": "Alexis ESQUIVEL"
+                }
+            ],
+            [
+                {
+                    "country": "ARG",
+                    "name": "Ivo DARGOLTZ"
+                },
+                {
+                    "winner": "Ivo DARGOLTZ"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "MEX",
+                    "name": "Alexis ESQUIVEL"
+                },
+                {
+                    "country": "ARG",
+                    "name": "Ivo DARGOLTZ"
+                }
+            ]
+        ],
+        "final_winner": "Ivo DARGOLTZ"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CHI",
+                    "name": "Thomas BRICENO"
+                },
+                {
+                    "winner": "Thomas BRICENO"
+                }
+            ],
+            [
+                {
+                    "country": "USA",
+                    "name": "Nathaniel KEEVE"
+                },
+                {
+                    "country": "CHI",
+                    "name": "Luis RETAMAL"
+                },
+                {
+                    "winner": "Nathaniel KEEVE"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "CHI",
+                    "name": "Thomas BRICENO"
+                },
+                {
+                    "country": "USA",
+                    "name": "Nathaniel KEEVE"
+                }
+            ]
+        ],
+        "final_winner": "Thomas BRICENO"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Andre HUMBERTO"
+                },
+                {
+                    "winner": "Andre HUMBERTO"
+                }
+            ],
+            [
+                {
+                    "country": "CHI",
+                    "name": "Rafael ROMO"
+                },
+                {
+                    "winner": "Rafael ROMO"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Andre HUMBERTO"
+                },
+                {
+                    "country": "CHI",
+                    "name": "Rafael ROMO"
+                }
+            ]
+        ],
+        "final_winner": "Andre HUMBERTO"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Lucas LIMA"
+                },
+                {
+                    "country": "MEX",
+                    "name": "Alexis ESQUIVEL"
+                },
+                {
+                    "winner": "Lucas LIMA"
+                }
+            ],
+            [
+                {
+                    "country": "USA",
+                    "name": "Nathaniel KEEVE"
+                },
+                {
+                    "country": "CHI",
+                    "name": "Rafael ROMO"
+                },
+                {
+                    "winner": "Nathaniel KEEVE"
+                }
+            ],
+            [
+                {
+                    "country": "BRA",
+                    "name": "Lucas LIMA"
+                },
+                {
+                    "country": "BRA",
+                    "name": "Andre HUMBERTO"
+                },
+                {
+                    "winner": "Lucas LIMA"
+                }
+            ],
+            [
+                {
+                    "country": "USA",
+                    "name": "Nathaniel KEEVE"
+                },
+                {
+                    "country": "ARG",
+                    "name": "Ivo DARGOLTZ"
+                },
+                {
+                    "winner": "Nathaniel KEEVE"
+                }
+            ],
+            [
+                {
+                    "country": "BRA",
+                    "name": "Lucas LIMA"
+                }
+            ],
+            [
+                {
+                    "country": "USA",
+                    "name": "Nathaniel KEEVE"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Lucas LIMA",
+            "Nathaniel KEEVE"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Rafael BUZACARINI"
+                },
+                {
+                    "country": "ARG",
+                    "name": "Ivo DARGOLTZ"
+                },
+                {
+                    "winner": "Rafael BUZACARINI"
+                }
+            ],
+            [
+                {
+                    "country": "CHI",
+                    "name": "Thomas BRICENO"
+                },
+                {
+                    "country": "BRA",
+                    "name": "Andre HUMBERTO"
+                },
+                {
+                    "winner": "Thomas BRICENO"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Rafael BUZACARINI"
+                },
+                {
+                    "country": "CHI",
+                    "name": "Thomas BRICENO"
+                }
+            ]
+        ],
+        "final_winner": "Rafael BUZACARINI"
+    }
+}

@@ -1,0 +1,159 @@
+{
+    "POOL A": {
+        "round 1-1": [],
+        "final_winner": "Nathan KATZ"
+    },
+    "POOL B": {
+        "round 1-1": [
+            [
+                {
+                    "country": "VAN",
+                    "name": "Rexly THEUIL"
+                },
+                {
+                    "country": "VAN",
+                    "name": "Joe MAHIT"
+                }
+            ]
+        ],
+        "final_winner": "Joe MAHIT"
+    },
+    "POOL C": {
+        "round 1-1": [
+            [
+                {
+                    "country": "NCL",
+                    "name": "David MAI"
+                },
+                {
+                    "country": "AUS",
+                    "name": "Vincent COSTANZO"
+                }
+            ]
+        ],
+        "final_winner": "David MAI"
+    },
+    "POOL D": {
+        "round 1-1": [
+            [
+                {
+                    "country": "NCL",
+                    "name": "Jason APAVOU"
+                },
+                {
+                    "country": "PNG",
+                    "name": "Ashaan NELSON"
+                }
+            ]
+        ],
+        "final_winner": "Jason APAVOU"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "VAN",
+                    "name": "Rexly THEUIL"
+                }
+            ],
+            [
+                {
+                    "country": "AUS",
+                    "name": "Vincent COSTANZO"
+                },
+                {
+                    "country": "PNG",
+                    "name": "Ashaan NELSON"
+                },
+                {
+                    "winner": "Vincent COSTANZO"
+                }
+            ],
+            [
+                {
+                    "country": "VAN",
+                    "name": "Rexly THEUIL"
+                },
+                {
+                    "country": "NCL",
+                    "name": "David MAI"
+                },
+                {
+                    "winner": "David MAI"
+                }
+            ],
+            [
+                {
+                    "country": "AUS",
+                    "name": "Vincent COSTANZO"
+                },
+                {
+                    "country": "VAN",
+                    "name": "Joe MAHIT"
+                },
+                {
+                    "winner": "Vincent COSTANZO"
+                }
+            ],
+            [
+                {
+                    "country": "NCL",
+                    "name": "David MAI"
+                }
+            ],
+            [
+                {
+                    "country": "AUS",
+                    "name": "Vincent COSTANZO"
+                }
+            ]
+        ],
+        "final_winners": [
+            "David MAI",
+            "Vincent COSTANZO"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "AUS",
+                    "name": "Nathan KATZ"
+                },
+                {
+                    "country": "VAN",
+                    "name": "Joe MAHIT"
+                },
+                {
+                    "winner": "Nathan KATZ"
+                }
+            ],
+            [
+                {
+                    "country": "NCL",
+                    "name": "David MAI"
+                },
+                {
+                    "country": "NCL",
+                    "name": "Jason APAVOU"
+                },
+                {
+                    "winner": "Jason APAVOU"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "AUS",
+                    "name": "Nathan KATZ"
+                },
+                {
+                    "country": "NCL",
+                    "name": "Jason APAVOU"
+                }
+            ]
+        ],
+        "final_winner": "Nathan KATZ"
+    }
+}

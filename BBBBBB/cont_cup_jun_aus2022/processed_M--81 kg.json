@@ -1,0 +1,261 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "KOR",
+                    "name": "Jun Hyun PARK"
+                },
+                {
+                    "winner": "Jun Hyun PARK"
+                }
+            ],
+            []
+        ],
+        "round 1-1": [],
+        "final_winner": "Jun Hyun PARK"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "AUS",
+                    "name": "Lucas VLADICH-MCKENZIE"
+                },
+                {
+                    "winner": "Lucas VLADICH-MCKENZIE"
+                }
+            ],
+            [
+                {
+                    "country": "KSA",
+                    "name": "Saud ALHAJRI"
+                },
+                {
+                    "winner": "Saud ALHAJRI"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "AUS",
+                    "name": "Lucas VLADICH-MCKENZIE"
+                },
+                {
+                    "country": "KSA",
+                    "name": "Saud ALHAJRI"
+                }
+            ]
+        ],
+        "final_winner": "Saud ALHAJRI"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "KSA",
+                    "name": "Mohammed ALHAJRI"
+                },
+                {
+                    "winner": "Mohammed ALHAJRI"
+                }
+            ],
+            [
+                {
+                    "country": "AUS",
+                    "name": "Carstens BEYERS"
+                },
+                {
+                    "winner": "Carstens BEYERS"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "KSA",
+                    "name": "Mohammed ALHAJRI"
+                },
+                {
+                    "country": "AUS",
+                    "name": "Carstens BEYERS"
+                }
+            ]
+        ],
+        "final_winner": "Mohammed ALHAJRI"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "AUS",
+                    "name": "Samuel APPLEBY-WINDSOR"
+                },
+                {
+                    "winner": "Samuel APPLEBY-WINDSOR"
+                }
+            ],
+            [
+                {
+                    "country": "AUS",
+                    "name": "Joshua KOENIG"
+                },
+                {
+                    "winner": "Joshua KOENIG"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "AUS",
+                    "name": "Samuel APPLEBY-WINDSOR"
+                },
+                {
+                    "country": "AUS",
+                    "name": "Joshua KOENIG"
+                }
+            ]
+        ],
+        "final_winner": "Joshua KOENIG"
+    },
+    "REPECHAGE": {
+        "round 1-4": [
+            [],
+            [
+                {
+                    "country": "AUS",
+                    "name": "Lucas VLADICH-MCKENZIE"
+                },
+                {
+                    "winner": "Lucas VLADICH-MCKENZIE"
+                }
+            ],
+            [
+                {
+                    "country": "AUS",
+                    "name": "Carstens BEYERS"
+                },
+                {
+                    "winner": "Carstens BEYERS"
+                }
+            ],
+            [
+                {
+                    "country": "AUS",
+                    "name": "Samuel APPLEBY-WINDSOR"
+                },
+                {
+                    "winner": "Samuel APPLEBY-WINDSOR"
+                }
+            ]
+        ],
+        "round 1-2": [
+            [
+                {
+                    "country": "AUS",
+                    "name": "Lucas VLADICH-MCKENZIE"
+                }
+            ],
+            [
+                {
+                    "country": "AUS",
+                    "name": "Carstens BEYERS"
+                },
+                {
+                    "country": "AUS",
+                    "name": "Samuel APPLEBY-WINDSOR"
+                },
+                {
+                    "winner": "Carstens BEYERS"
+                }
+            ],
+            [
+                {
+                    "country": "AUS",
+                    "name": "Lucas VLADICH-MCKENZIE"
+                },
+                {
+                    "country": "AUS",
+                    "name": "Joshua KOENIG"
+                },
+                {
+                    "winner": "Joshua KOENIG"
+                }
+            ],
+            [
+                {
+                    "country": "AUS",
+                    "name": "Carstens BEYERS"
+                },
+                {
+                    "country": "KSA",
+                    "name": "Saud ALHAJRI"
+                },
+                {
+                    "winner": "Carstens BEYERS"
+                }
+            ],
+            [
+                {
+                    "country": "AUS",
+                    "name": "Joshua KOENIG"
+                }
+            ],
+            [
+                {
+                    "country": "AUS",
+                    "name": "Carstens BEYERS"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Joshua KOENIG",
+            "Carstens BEYERS"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "KOR",
+                    "name": "Jun Hyun PARK"
+                },
+                {
+                    "country": "KSA",
+                    "name": "Saud ALHAJRI"
+                },
+                {
+                    "winner": "Jun Hyun PARK"
+                }
+            ],
+            [
+                {
+                    "country": "KSA",
+                    "name": "Mohammed ALHAJRI"
+                },
+                {
+                    "country": "AUS",
+                    "name": "Joshua KOENIG"
+                },
+                {
+                    "winner": "Mohammed ALHAJRI"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "KOR",
+                    "name": "Jun Hyun PARK"
+                },
+                {
+                    "country": "KSA",
+                    "name": "Mohammed ALHAJRI"
+                }
+            ]
+        ],
+        "final_winner": "Jun Hyun PARK"
+    }
+}

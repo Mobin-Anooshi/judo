@@ -1,0 +1,153 @@
+{
+    "POOL A": {
+        "round 1-1": [],
+        "final_winner": "Charline BOURQUE"
+    },
+    "POOL B": {
+        "round 1-1": [
+            [
+                {
+                    "country": "CAN",
+                    "name": "Annika MICHALUK"
+                },
+                {
+                    "country": "CAN",
+                    "name": "Abigail SMITH"
+                }
+            ]
+        ],
+        "final_winner": "Abigail SMITH"
+    },
+    "POOL C": {
+        "round 1-1": [
+            [
+                {
+                    "country": "CAN",
+                    "name": "Hannah YIN"
+                },
+                {
+                    "country": "CAN",
+                    "name": "Aryanna GODIN"
+                }
+            ]
+        ],
+        "final_winner": "Hannah YIN"
+    },
+    "POOL D": {
+        "round 1-1": [
+            [
+                {
+                    "country": "CAN",
+                    "name": "Missy Jen DORVAL MBELE"
+                },
+                {
+                    "country": "CAN",
+                    "name": "Cassandra PERREAULT"
+                }
+            ]
+        ],
+        "final_winner": "Missy Jen DORVAL MBELE"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CAN",
+                    "name": "Annika MICHALUK"
+                }
+            ],
+            [
+                {
+                    "country": "CAN",
+                    "name": "Aryanna GODIN"
+                },
+                {
+                    "country": "CAN",
+                    "name": "Cassandra PERREAULT"
+                },
+                {
+                    "winner": "Cassandra PERREAULT"
+                }
+            ],
+            [
+                {
+                    "country": "CAN",
+                    "name": "Annika MICHALUK"
+                },
+                {
+                    "country": "CAN",
+                    "name": "Hannah YIN"
+                },
+                {
+                    "winner": "Annika MICHALUK"
+                }
+            ],
+            [
+                {
+                    "country": "CAN",
+                    "name": "Cassandra PERREAULT"
+                },
+                {
+                    "country": "CAN",
+                    "name": "Abigail SMITH"
+                },
+                {
+                    "winner": "Abigail SMITH"
+                }
+            ],
+            [
+                {
+                    "country": "CAN",
+                    "name": "Abigail SMITH"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Cassandra PERREAULT",
+            "Annika MICHALUK"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CAN",
+                    "name": "Charline BOURQUE"
+                },
+                {
+                    "country": "CAN",
+                    "name": "Abigail SMITH"
+                },
+                {
+                    "winner": "Charline BOURQUE"
+                }
+            ],
+            [
+                {
+                    "country": "CAN",
+                    "name": "Hannah YIN"
+                },
+                {
+                    "country": "CAN",
+                    "name": "Missy Jen DORVAL MBELE"
+                },
+                {
+                    "winner": "Missy Jen DORVAL MBELE"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "CAN",
+                    "name": "Charline BOURQUE"
+                },
+                {
+                    "country": "CAN",
+                    "name": "Missy Jen DORVAL MBELE"
+                }
+            ]
+        ],
+        "final_winner": "Charline BOURQUE"
+    }
+}

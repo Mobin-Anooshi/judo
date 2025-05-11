@@ -1,0 +1,270 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Rafael SILVA"
+                },
+                {
+                    "winner": "Rafael SILVA"
+                }
+            ],
+            [
+                {
+                    "country": "MEX",
+                    "name": "Jose CUEVAS"
+                },
+                {
+                    "country": "MEX",
+                    "name": "Sergio DEL SOL"
+                },
+                {
+                    "winner": "Jose CUEVAS"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Rafael SILVA"
+                },
+                {
+                    "country": "MEX",
+                    "name": "Jose CUEVAS"
+                }
+            ],
+            [
+                {
+                    "country": "BRA",
+                    "name": "Rafael SILVA"
+                }
+            ]
+        ]
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "VEN",
+                    "name": "Pedro PINEDA"
+                },
+                {
+                    "winner": "Pedro PINEDA"
+                }
+            ],
+            [
+                {
+                    "country": "ECU",
+                    "name": "Freddy FIGUEROA"
+                },
+                {
+                    "winner": "Freddy FIGUEROA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "VEN",
+                    "name": "Pedro PINEDA"
+                },
+                {
+                    "country": "ECU",
+                    "name": "Freddy FIGUEROA"
+                }
+            ],
+            [
+                {
+                    "country": "ECU",
+                    "name": "Freddy FIGUEROA"
+                }
+            ]
+        ]
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "David MOURA"
+                },
+                {
+                    "winner": "David MOURA"
+                }
+            ],
+            [
+                {
+                    "country": "DOM",
+                    "name": "Jose NOVA ALCANTARA"
+                },
+                {
+                    "winner": "Jose NOVA ALCANTARA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "David MOURA"
+                },
+                {
+                    "country": "DOM",
+                    "name": "Jose NOVA ALCANTARA"
+                }
+            ],
+            [
+                {
+                    "country": "BRA",
+                    "name": "David MOURA"
+                }
+            ]
+        ]
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CUB",
+                    "name": "Andy GRANDA"
+                },
+                {
+                    "winner": "Andy GRANDA"
+                }
+            ],
+            [
+                {
+                    "country": "CAN",
+                    "name": "Marc DESCHENES"
+                },
+                {
+                    "winner": "Marc DESCHENES"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "CUB",
+                    "name": "Andy GRANDA"
+                },
+                {
+                    "country": "CAN",
+                    "name": "Marc DESCHENES"
+                }
+            ],
+            [
+                {
+                    "country": "CUB",
+                    "name": "Andy GRANDA"
+                }
+            ]
+        ]
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "MEX",
+                    "name": "Jose CUEVAS"
+                },
+                {
+                    "country": "VEN",
+                    "name": "Pedro PINEDA"
+                }
+            ],
+            [
+                {
+                    "country": "DOM",
+                    "name": "Jose NOVA ALCANTARA"
+                },
+                {
+                    "country": "CAN",
+                    "name": "Marc DESCHENES"
+                }
+            ],
+            [
+                {
+                    "country": "VEN",
+                    "name": "Pedro PINEDA"
+                },
+                {
+                    "country": "BRA",
+                    "name": "David MOURA"
+                }
+            ],
+            [
+                {
+                    "country": "CAN",
+                    "name": "Marc DESCHENES"
+                },
+                {
+                    "country": "ECU",
+                    "name": "Freddy FIGUEROA"
+                }
+            ],
+            [
+                {
+                    "country": "BRA",
+                    "name": "David MOURA"
+                }
+            ],
+            [
+                {
+                    "country": "CAN",
+                    "name": "Marc DESCHENES"
+                }
+            ]
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Rafael SILVA"
+                },
+                {
+                    "country": "ECU",
+                    "name": "Freddy FIGUEROA"
+                },
+                {
+                    "winner": "Rafael SILVA"
+                }
+            ],
+            [
+                {
+                    "country": "BRA",
+                    "name": "David MOURA"
+                },
+                {
+                    "country": "CUB",
+                    "name": "Andy GRANDA"
+                },
+                {
+                    "winner": "Andy GRANDA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Rafael SILVA"
+                },
+                {
+                    "country": "CUB",
+                    "name": "Andy GRANDA"
+                }
+            ],
+            [
+                {
+                    "country": "CUB",
+                    "name": "Andy GRANDA"
+                }
+            ]
+        ]
+    }
+}

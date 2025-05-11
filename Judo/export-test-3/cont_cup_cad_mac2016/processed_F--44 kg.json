@@ -1,0 +1,68 @@
+{
+    "ROUND 1": {
+        "round 1-2": [
+            [
+                {
+                    "country": "MAC",
+                    "name": "Ka cheng LAO"
+                },
+                {
+                    "country": "TPE",
+                    "name": "Hsiao Chu KAO"
+                },
+                {
+                    "winner": "Hsiao Chu KAO"
+                }
+            ],
+            [
+                {
+                    "country": "TPE",
+                    "name": "Tsai-chi CHO"
+                },
+                {
+                    "country": "MAC",
+                    "name": "Ka i CHAN"
+                },
+                {
+                    "winner": "Tsai-chi CHO"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Hsiao Chu KAO",
+            "Tsai-chi CHO"
+        ]
+    },
+    "REPECHAGE": {
+        "round 1-1": [
+            [
+                {
+                    "country": "MAC",
+                    "name": "Ka cheng LAO"
+                },
+                {
+                    "country": "TPE",
+                    "name": "Tsai-chi CHO"
+                },
+                {
+                    "winner": "Tsai-chi CHO"
+                }
+            ],
+            [
+                {
+                    "country": "TPE",
+                    "name": "Tsai-chi CHO"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Tsai-chi CHO"
+        ]
+    },
+    "FINALS": {
+        "round 1-1": [],
+        "final_winners": [
+            "Hsiao Chu KAO"
+        ]
+    }
+}

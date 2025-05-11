@@ -1,0 +1,261 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "FRA",
+                    "name": "Samah Hawa CAMARA"
+                },
+                {
+                    "winner": "Samah Hawa CAMARA"
+                }
+            ],
+            [
+                {
+                    "country": "GBR",
+                    "name": "Rachel TYTLER"
+                },
+                {
+                    "country": "GBR",
+                    "name": "Emma REID"
+                },
+                {
+                    "winner": "Emma REID"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "FRA",
+                    "name": "Samah Hawa CAMARA"
+                },
+                {
+                    "country": "GBR",
+                    "name": "Emma REID"
+                }
+            ]
+        ],
+        "final_winner": "Samah Hawa CAMARA"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "FRA",
+                    "name": "Vanessa DUREAU"
+                },
+                {
+                    "winner": "Vanessa DUREAU"
+                }
+            ],
+            [
+                {
+                    "country": "GER",
+                    "name": "Marie BRANSER"
+                },
+                {
+                    "winner": "Marie BRANSER"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "FRA",
+                    "name": "Vanessa DUREAU"
+                },
+                {
+                    "country": "GER",
+                    "name": "Marie BRANSER"
+                }
+            ]
+        ],
+        "final_winner": "Vanessa DUREAU"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "NED",
+                    "name": "Larissa GROENWOLD"
+                },
+                {
+                    "winner": "Larissa GROENWOLD"
+                }
+            ],
+            [
+                {
+                    "country": "GBR",
+                    "name": "Rachel MOON"
+                },
+                {
+                    "winner": "Rachel MOON"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "NED",
+                    "name": "Larissa GROENWOLD"
+                },
+                {
+                    "country": "GBR",
+                    "name": "Rachel MOON"
+                }
+            ]
+        ],
+        "final_winner": "Larissa GROENWOLD"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ISR",
+                    "name": "Yarden MAYERSOHN"
+                },
+                {
+                    "winner": "Yarden MAYERSOHN"
+                }
+            ],
+            [
+                {
+                    "country": "FRA",
+                    "name": "Julie PIERRET"
+                },
+                {
+                    "winner": "Julie PIERRET"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "ISR",
+                    "name": "Yarden MAYERSOHN"
+                },
+                {
+                    "country": "FRA",
+                    "name": "Julie PIERRET"
+                }
+            ]
+        ],
+        "final_winner": "Yarden MAYERSOHN"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "GBR",
+                    "name": "Emma REID"
+                },
+                {
+                    "country": "GER",
+                    "name": "Marie BRANSER"
+                },
+                {
+                    "winner": "Marie BRANSER"
+                }
+            ],
+            [
+                {
+                    "country": "GBR",
+                    "name": "Rachel MOON"
+                },
+                {
+                    "country": "FRA",
+                    "name": "Julie PIERRET"
+                },
+                {
+                    "winner": "Julie PIERRET"
+                }
+            ],
+            [
+                {
+                    "country": "GER",
+                    "name": "Marie BRANSER"
+                },
+                {
+                    "country": "ISR",
+                    "name": "Yarden MAYERSOHN"
+                },
+                {
+                    "winner": "Yarden MAYERSOHN"
+                }
+            ],
+            [
+                {
+                    "country": "FRA",
+                    "name": "Julie PIERRET"
+                },
+                {
+                    "country": "FRA",
+                    "name": "Samah Hawa CAMARA"
+                },
+                {
+                    "winner": "Samah Hawa CAMARA"
+                }
+            ],
+            [
+                {
+                    "country": "ISR",
+                    "name": "Yarden MAYERSOHN"
+                }
+            ],
+            [
+                {
+                    "country": "FRA",
+                    "name": "Samah Hawa CAMARA"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Yarden MAYERSOHN",
+            "Samah Hawa CAMARA"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "FRA",
+                    "name": "Samah Hawa CAMARA"
+                },
+                {
+                    "country": "FRA",
+                    "name": "Vanessa DUREAU"
+                },
+                {
+                    "winner": "Vanessa DUREAU"
+                }
+            ],
+            [
+                {
+                    "country": "NED",
+                    "name": "Larissa GROENWOLD"
+                },
+                {
+                    "country": "ISR",
+                    "name": "Yarden MAYERSOHN"
+                },
+                {
+                    "winner": "Larissa GROENWOLD"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "FRA",
+                    "name": "Vanessa DUREAU"
+                },
+                {
+                    "country": "NED",
+                    "name": "Larissa GROENWOLD"
+                }
+            ]
+        ],
+        "final_winner": "Larissa GROENWOLD"
+    }
+}

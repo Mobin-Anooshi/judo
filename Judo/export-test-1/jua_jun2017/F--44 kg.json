@@ -1,0 +1,159 @@
+{
+    "POOL A": {
+        "round 1-1": [],
+        "final_winner": "Gulnur MURATBAEVA"
+    },
+    "POOL B": {
+        "round 1-1": [
+            [
+                {
+                    "country": "TPE",
+                    "name": "Tsai-chi CHO"
+                },
+                {
+                    "country": "IND",
+                    "name": "Preety PREETY"
+                }
+            ]
+        ],
+        "final_winner": "Preety PREETY"
+    },
+    "POOL C": {
+        "round 1-1": [
+            [
+                {
+                    "country": "KAZ",
+                    "name": "Adiya SAIYN"
+                },
+                {
+                    "country": "KGZ",
+                    "name": "Kyzzhibek RUSTAMOVA"
+                }
+            ]
+        ],
+        "final_winner": "Adiya SAIYN"
+    },
+    "POOL D": {
+        "round 1-1": [
+            [
+                {
+                    "country": "MAC",
+                    "name": "Cheng I LEI"
+                },
+                {
+                    "country": "JPN",
+                    "name": "Nina KUBOI"
+                }
+            ]
+        ],
+        "final_winner": "Nina KUBOI"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "TPE",
+                    "name": "Tsai-chi CHO"
+                }
+            ],
+            [
+                {
+                    "country": "KGZ",
+                    "name": "Kyzzhibek RUSTAMOVA"
+                },
+                {
+                    "country": "MAC",
+                    "name": "Cheng I LEI"
+                },
+                {
+                    "winner": "Cheng I LEI"
+                }
+            ],
+            [
+                {
+                    "country": "TPE",
+                    "name": "Tsai-chi CHO"
+                },
+                {
+                    "country": "KAZ",
+                    "name": "Adiya SAIYN"
+                },
+                {
+                    "winner": "Adiya SAIYN"
+                }
+            ],
+            [
+                {
+                    "country": "MAC",
+                    "name": "Cheng I LEI"
+                },
+                {
+                    "country": "IND",
+                    "name": "Preety PREETY"
+                },
+                {
+                    "winner": "Preety PREETY"
+                }
+            ],
+            [
+                {
+                    "country": "KAZ",
+                    "name": "Adiya SAIYN"
+                }
+            ],
+            [
+                {
+                    "country": "IND",
+                    "name": "Preety PREETY"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Adiya SAIYN",
+            "Preety PREETY"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "UZB",
+                    "name": "Gulnur MURATBAEVA"
+                },
+                {
+                    "country": "IND",
+                    "name": "Preety PREETY"
+                },
+                {
+                    "winner": "Gulnur MURATBAEVA"
+                }
+            ],
+            [
+                {
+                    "country": "KAZ",
+                    "name": "Adiya SAIYN"
+                },
+                {
+                    "country": "JPN",
+                    "name": "Nina KUBOI"
+                },
+                {
+                    "winner": "Nina KUBOI"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "UZB",
+                    "name": "Gulnur MURATBAEVA"
+                },
+                {
+                    "country": "JPN",
+                    "name": "Nina KUBOI"
+                }
+            ]
+        ],
+        "final_winner": "Nina KUBOI"
+    }
+}

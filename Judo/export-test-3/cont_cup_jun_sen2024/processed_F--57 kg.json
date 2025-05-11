@@ -1,0 +1,87 @@
+{
+    "POOL A": {
+        "round 1-3": [
+            [
+                {
+                    "country": "SEN",
+                    "name": "Soukaina COLY"
+                },
+                {
+                    "country": "SEN",
+                    "name": "Ndeye Mareme Seyni SALL"
+                },
+                {
+                    "winner": "Soukaina COLY"
+                }
+            ],
+            [
+                {
+                    "country": "SEN",
+                    "name": "Soukaina COLY"
+                },
+                {
+                    "country": "KEN",
+                    "name": "Grace NONE"
+                },
+                {
+                    "winner": "Grace NONE"
+                }
+            ],
+            [
+                {
+                    "country": "SEN",
+                    "name": "Ndeye Mareme Seyni SALL"
+                },
+                {
+                    "country": "KEN",
+                    "name": "Grace NONE"
+                },
+                {
+                    "winner": "Grace NONE"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Soukaina COLY",
+            "Grace NONE"
+        ]
+    },
+    "POOL B": {
+        "round 1-1": [],
+        "final_winners": [
+            "Roumaica BENANDRO"
+        ]
+    },
+    "REPECHAGE": {
+        "round 1-1": [
+            [
+                {
+                    "country": "KEN",
+                    "name": "Grace NONE"
+                },
+                {
+                    "country": "CIV",
+                    "name": "Aminata BAMBA"
+                },
+                {
+                    "winner": "Grace NONE"
+                }
+            ],
+            [
+                {
+                    "country": "KEN",
+                    "name": "Grace NONE"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Grace NONE"
+        ]
+    },
+    "FINALS": {
+        "round 1-1": [],
+        "final_winners": [
+            "Roumaica BENANDRO"
+        ]
+    }
+}

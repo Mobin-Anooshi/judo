@@ -1,0 +1,177 @@
+{
+    "POOL A": {
+        "round 1-1": [
+            [
+                {
+                    "country": "PUR",
+                    "name": "Derik RODRIGUEZ"
+                },
+                {
+                    "country": "BRA",
+                    "name": "Luiz MOREIRA"
+                }
+            ]
+        ],
+        "final_winner": "Derik RODRIGUEZ"
+    },
+    "POOL B": {
+        "round 1-1": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Joao SEGATELLE"
+                },
+                {
+                    "country": "BRA",
+                    "name": "Lucas RIBEIRO"
+                }
+            ]
+        ],
+        "final_winner": "Joao SEGATELLE"
+    },
+    "POOL C": {
+        "round 1-1": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Jesse BARBOSA"
+                },
+                {
+                    "country": "BRA",
+                    "name": "Gilberto NETO"
+                }
+            ]
+        ],
+        "final_winner": "Jesse BARBOSA"
+    },
+    "POOL D": {
+        "round 1-1": [
+            [
+                {
+                    "country": "VEN",
+                    "name": "Samuel CORZO"
+                },
+                {
+                    "country": "PER",
+                    "name": "Emilio LOO"
+                }
+            ]
+        ],
+        "final_winner": "Samuel CORZO"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Luiz MOREIRA"
+                },
+                {
+                    "country": "BRA",
+                    "name": "Lucas RIBEIRO"
+                },
+                {
+                    "winner": "Lucas RIBEIRO"
+                }
+            ],
+            [
+                {
+                    "country": "BRA",
+                    "name": "Gilberto NETO"
+                },
+                {
+                    "country": "PER",
+                    "name": "Emilio LOO"
+                },
+                {
+                    "winner": "Gilberto NETO"
+                }
+            ],
+            [
+                {
+                    "country": "BRA",
+                    "name": "Lucas RIBEIRO"
+                },
+                {
+                    "country": "VEN",
+                    "name": "Samuel CORZO"
+                },
+                {
+                    "winner": "Lucas RIBEIRO"
+                }
+            ],
+            [
+                {
+                    "country": "BRA",
+                    "name": "Gilberto NETO"
+                },
+                {
+                    "country": "PUR",
+                    "name": "Derik RODRIGUEZ"
+                },
+                {
+                    "winner": "Gilberto NETO"
+                }
+            ],
+            [
+                {
+                    "country": "BRA",
+                    "name": "Lucas RIBEIRO"
+                }
+            ],
+            [
+                {
+                    "country": "BRA",
+                    "name": "Gilberto NETO"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Lucas RIBEIRO",
+            "Gilberto NETO"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "PUR",
+                    "name": "Derik RODRIGUEZ"
+                },
+                {
+                    "country": "BRA",
+                    "name": "Joao SEGATELLE"
+                },
+                {
+                    "winner": "Joao SEGATELLE"
+                }
+            ],
+            [
+                {
+                    "country": "BRA",
+                    "name": "Jesse BARBOSA"
+                },
+                {
+                    "country": "VEN",
+                    "name": "Samuel CORZO"
+                },
+                {
+                    "winner": "Jesse BARBOSA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Joao SEGATELLE"
+                },
+                {
+                    "country": "BRA",
+                    "name": "Jesse BARBOSA"
+                }
+            ]
+        ],
+        "final_winner": "Joao SEGATELLE"
+    }
+}

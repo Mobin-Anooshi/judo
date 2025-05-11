@@ -1,0 +1,219 @@
+{
+    "POOL A": {
+        "round 1-1": [],
+        "final_winner": "Sebastian TEMESI"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "VAN",
+                    "name": "Nicolas MONVOISIN"
+                },
+                {
+                    "winner": "Nicolas MONVOISIN"
+                }
+            ],
+            [
+                {
+                    "country": "NRU",
+                    "name": "Iniki UERA"
+                },
+                {
+                    "winner": "Iniki UERA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "VAN",
+                    "name": "Nicolas MONVOISIN"
+                },
+                {
+                    "country": "NRU",
+                    "name": "Iniki UERA"
+                }
+            ]
+        ],
+        "final_winner": "Iniki UERA"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "NCL",
+                    "name": "Teva GOURIOU"
+                },
+                {
+                    "winner": "Teva GOURIOU"
+                }
+            ],
+            [
+                {
+                    "country": "NCL",
+                    "name": "Tanguy LAPOINTE"
+                },
+                {
+                    "winner": "Tanguy LAPOINTE"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "NCL",
+                    "name": "Teva GOURIOU"
+                },
+                {
+                    "country": "NCL",
+                    "name": "Tanguy LAPOINTE"
+                }
+            ]
+        ],
+        "final_winner": "Teva GOURIOU"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "NRU",
+                    "name": "Ovini UERA"
+                },
+                {
+                    "winner": "Ovini UERA"
+                }
+            ],
+            [
+                {
+                    "country": "NZL",
+                    "name": "Ockert STEYN"
+                },
+                {
+                    "winner": "Ockert STEYN"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "NRU",
+                    "name": "Ovini UERA"
+                },
+                {
+                    "country": "NZL",
+                    "name": "Ockert STEYN"
+                }
+            ]
+        ],
+        "final_winner": "Ockert STEYN"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "VAN",
+                    "name": "Nicolas MONVOISIN"
+                }
+            ],
+            [
+                {
+                    "country": "NCL",
+                    "name": "Tanguy LAPOINTE"
+                },
+                {
+                    "country": "NRU",
+                    "name": "Ovini UERA"
+                },
+                {
+                    "winner": "Tanguy LAPOINTE"
+                }
+            ],
+            [
+                {
+                    "country": "VAN",
+                    "name": "Nicolas MONVOISIN"
+                },
+                {
+                    "country": "NZL",
+                    "name": "Ockert STEYN"
+                },
+                {
+                    "winner": "Ockert STEYN"
+                }
+            ],
+            [
+                {
+                    "country": "NCL",
+                    "name": "Tanguy LAPOINTE"
+                },
+                {
+                    "country": "NRU",
+                    "name": "Iniki UERA"
+                },
+                {
+                    "winner": "Tanguy LAPOINTE"
+                }
+            ],
+            [
+                {
+                    "country": "NZL",
+                    "name": "Ockert STEYN"
+                }
+            ],
+            [
+                {
+                    "country": "NCL",
+                    "name": "Tanguy LAPOINTE"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Ockert STEYN",
+            "Tanguy LAPOINTE"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "AUS",
+                    "name": "Sebastian TEMESI"
+                },
+                {
+                    "country": "NRU",
+                    "name": "Iniki UERA"
+                },
+                {
+                    "winner": "Sebastian TEMESI"
+                }
+            ],
+            [
+                {
+                    "country": "NCL",
+                    "name": "Teva GOURIOU"
+                },
+                {
+                    "country": "NZL",
+                    "name": "Ockert STEYN"
+                },
+                {
+                    "winner": "Teva GOURIOU"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "AUS",
+                    "name": "Sebastian TEMESI"
+                },
+                {
+                    "country": "NCL",
+                    "name": "Teva GOURIOU"
+                }
+            ]
+        ],
+        "final_winner": "Sebastian TEMESI"
+    }
+}

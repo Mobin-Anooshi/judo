@@ -1,0 +1,261 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Ketleyn QUADROS"
+                },
+                {
+                    "winner": "Ketleyn QUADROS"
+                }
+            ],
+            [
+                {
+                    "country": "ECU",
+                    "name": "Karla VALENCIA"
+                },
+                {
+                    "country": "CHI",
+                    "name": "Javiera SOTO"
+                },
+                {
+                    "winner": "Karla VALENCIA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Ketleyn QUADROS"
+                },
+                {
+                    "country": "ECU",
+                    "name": "Karla VALENCIA"
+                }
+            ]
+        ],
+        "final_winner": "Ketleyn QUADROS"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CHI",
+                    "name": "Constanza PEREZ"
+                },
+                {
+                    "winner": "Constanza PEREZ"
+                }
+            ],
+            [
+                {
+                    "country": "USA",
+                    "name": "Emily Daniela JASPE"
+                },
+                {
+                    "winner": "Emily Daniela JASPE"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "CHI",
+                    "name": "Constanza PEREZ"
+                },
+                {
+                    "country": "USA",
+                    "name": "Emily Daniela JASPE"
+                }
+            ]
+        ],
+        "final_winner": "Constanza PEREZ"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "USA",
+                    "name": "Sara GOLDEN"
+                },
+                {
+                    "winner": "Sara GOLDEN"
+                }
+            ],
+            [
+                {
+                    "country": "CHI",
+                    "name": "Marcela ALFARO"
+                },
+                {
+                    "winner": "Marcela ALFARO"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "USA",
+                    "name": "Sara GOLDEN"
+                },
+                {
+                    "country": "CHI",
+                    "name": "Marcela ALFARO"
+                }
+            ]
+        ],
+        "final_winner": "Sara GOLDEN"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "COL",
+                    "name": "Cindy MERA"
+                },
+                {
+                    "winner": "Cindy MERA"
+                }
+            ],
+            [
+                {
+                    "country": "ARG",
+                    "name": "Belen TITTARELLI"
+                },
+                {
+                    "winner": "Belen TITTARELLI"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "COL",
+                    "name": "Cindy MERA"
+                },
+                {
+                    "country": "ARG",
+                    "name": "Belen TITTARELLI"
+                }
+            ]
+        ],
+        "final_winner": "Belen TITTARELLI"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ECU",
+                    "name": "Karla VALENCIA"
+                },
+                {
+                    "country": "USA",
+                    "name": "Emily Daniela JASPE"
+                },
+                {
+                    "winner": "Karla VALENCIA"
+                }
+            ],
+            [
+                {
+                    "country": "CHI",
+                    "name": "Marcela ALFARO"
+                },
+                {
+                    "country": "COL",
+                    "name": "Cindy MERA"
+                },
+                {
+                    "winner": "Marcela ALFARO"
+                }
+            ],
+            [
+                {
+                    "country": "ECU",
+                    "name": "Karla VALENCIA"
+                },
+                {
+                    "country": "USA",
+                    "name": "Sara GOLDEN"
+                },
+                {
+                    "winner": "Sara GOLDEN"
+                }
+            ],
+            [
+                {
+                    "country": "CHI",
+                    "name": "Marcela ALFARO"
+                },
+                {
+                    "country": "CHI",
+                    "name": "Constanza PEREZ"
+                },
+                {
+                    "winner": "Marcela ALFARO"
+                }
+            ],
+            [
+                {
+                    "country": "USA",
+                    "name": "Sara GOLDEN"
+                }
+            ],
+            [
+                {
+                    "country": "CHI",
+                    "name": "Marcela ALFARO"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Sara GOLDEN",
+            "Marcela ALFARO"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Ketleyn QUADROS"
+                },
+                {
+                    "country": "CHI",
+                    "name": "Constanza PEREZ"
+                },
+                {
+                    "winner": "Ketleyn QUADROS"
+                }
+            ],
+            [
+                {
+                    "country": "USA",
+                    "name": "Sara GOLDEN"
+                },
+                {
+                    "country": "ARG",
+                    "name": "Belen TITTARELLI"
+                },
+                {
+                    "winner": "Belen TITTARELLI"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Ketleyn QUADROS"
+                },
+                {
+                    "country": "ARG",
+                    "name": "Belen TITTARELLI"
+                }
+            ]
+        ],
+        "final_winner": "Ketleyn QUADROS"
+    }
+}

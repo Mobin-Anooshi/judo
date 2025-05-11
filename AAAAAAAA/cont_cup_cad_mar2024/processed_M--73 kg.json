@@ -1,0 +1,135 @@
+{
+    "POOL A": {
+        "round 1-1": [],
+        "final_winner": "Oriol RUBIO RUIZ"
+    },
+    "POOL B": {
+        "round 1-1": [
+            [
+                {
+                    "country": "MAR",
+                    "name": "Aymane BERKA"
+                },
+                {
+                    "country": "MAR",
+                    "name": "Reda OUATIKI"
+                }
+            ]
+        ],
+        "final_winner": "Reda OUATIKI"
+    },
+    "POOL C": {
+        "round 1-1": [
+            [
+                {
+                    "country": "MAR",
+                    "name": "Hamza OUSGHINE"
+                },
+                {
+                    "country": "CYP",
+                    "name": "Paris POLYKARPOU"
+                }
+            ]
+        ],
+        "final_winner": "Paris POLYKARPOU"
+    },
+    "POOL D": {
+        "round 1-1": [],
+        "final_winner": "Yassine LAMKADDEM"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "MAR",
+                    "name": "Aymane BERKA"
+                }
+            ],
+            [
+                {
+                    "country": "MAR",
+                    "name": "Hamza OUSGHINE"
+                }
+            ],
+            [
+                {
+                    "country": "MAR",
+                    "name": "Aymane BERKA"
+                },
+                {
+                    "country": "MAR",
+                    "name": "Yassine LAMKADDEM"
+                },
+                {
+                    "winner": "Aymane BERKA"
+                }
+            ],
+            [
+                {
+                    "country": "MAR",
+                    "name": "Hamza OUSGHINE"
+                },
+                {
+                    "country": "MAR",
+                    "name": "Reda OUATIKI"
+                },
+                {
+                    "winner": "Reda OUATIKI"
+                }
+            ],
+            [
+                {
+                    "country": "MAR",
+                    "name": "Reda OUATIKI"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Hamza OUSGHINE",
+            "Aymane BERKA"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "GBR",
+                    "name": "Oriol RUBIO RUIZ"
+                },
+                {
+                    "country": "MAR",
+                    "name": "Reda OUATIKI"
+                },
+                {
+                    "winner": "Oriol RUBIO RUIZ"
+                }
+            ],
+            [
+                {
+                    "country": "CYP",
+                    "name": "Paris POLYKARPOU"
+                },
+                {
+                    "country": "MAR",
+                    "name": "Yassine LAMKADDEM"
+                },
+                {
+                    "winner": "Paris POLYKARPOU"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "GBR",
+                    "name": "Oriol RUBIO RUIZ"
+                },
+                {
+                    "country": "CYP",
+                    "name": "Paris POLYKARPOU"
+                }
+            ]
+        ],
+        "final_winner": "Oriol RUBIO RUIZ"
+    }
+}

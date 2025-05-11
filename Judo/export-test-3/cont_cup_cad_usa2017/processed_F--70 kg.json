@@ -1,0 +1,68 @@
+{
+    "ROUND 1": {
+        "round 1-2": [
+            [
+                {
+                    "country": "RSA",
+                    "name": "Galaxy ACTON"
+                },
+                {
+                    "country": "USA",
+                    "name": "Ambar GRACIANI"
+                },
+                {
+                    "winner": "Galaxy ACTON"
+                }
+            ],
+            [
+                {
+                    "country": "USA",
+                    "name": "Mia LIU"
+                },
+                {
+                    "country": "BAH",
+                    "name": "Rachel ROLLE"
+                },
+                {
+                    "winner": "Mia LIU"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Galaxy ACTON",
+            "Mia LIU"
+        ]
+    },
+    "REPECHAGE": {
+        "round 1-1": [
+            [
+                {
+                    "country": "USA",
+                    "name": "Ambar GRACIANI"
+                },
+                {
+                    "country": "BAH",
+                    "name": "Rachel ROLLE"
+                },
+                {
+                    "winner": "Ambar GRACIANI"
+                }
+            ],
+            [
+                {
+                    "country": "USA",
+                    "name": "Ambar GRACIANI"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Ambar GRACIANI"
+        ]
+    },
+    "FINALS": {
+        "round 1-1": [],
+        "final_winners": [
+            "Galaxy ACTON"
+        ]
+    }
+}

@@ -1,0 +1,273 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "HKG",
+                    "name": "Annie LAU"
+                },
+                {
+                    "winner": "Annie LAU"
+                }
+            ],
+            [
+                {
+                    "country": "UZB",
+                    "name": "Aziza KHONTEMIROVA"
+                },
+                {
+                    "country": "JPN",
+                    "name": "Fuka KODAMA"
+                },
+                {
+                    "winner": "Fuka KODAMA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "HKG",
+                    "name": "Annie LAU"
+                },
+                {
+                    "country": "JPN",
+                    "name": "Fuka KODAMA"
+                }
+            ]
+        ],
+        "final_winner": "Fuka KODAMA"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "KAZ",
+                    "name": "Nurzhamal ZHARMANOVA"
+                },
+                {
+                    "winner": "Nurzhamal ZHARMANOVA"
+                }
+            ],
+            [
+                {
+                    "country": "KGZ",
+                    "name": "Begai BEISHENAALY KYZY"
+                },
+                {
+                    "country": "KOR",
+                    "name": "Nayeong SONG"
+                },
+                {
+                    "winner": "Nayeong SONG"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "KAZ",
+                    "name": "Nurzhamal ZHARMANOVA"
+                },
+                {
+                    "country": "KOR",
+                    "name": "Nayeong SONG"
+                }
+            ]
+        ],
+        "final_winner": "Nurzhamal ZHARMANOVA"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "UZB",
+                    "name": "Muhlisa GANJAEVA"
+                },
+                {
+                    "winner": "Muhlisa GANJAEVA"
+                }
+            ],
+            [
+                {
+                    "country": "IND",
+                    "name": "Pincky BALHARA"
+                },
+                {
+                    "country": "KAZ",
+                    "name": "Nursulu YERALIYEVA"
+                },
+                {
+                    "winner": "Pincky BALHARA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "UZB",
+                    "name": "Muhlisa GANJAEVA"
+                },
+                {
+                    "country": "IND",
+                    "name": "Pincky BALHARA"
+                }
+            ]
+        ],
+        "final_winner": "Pincky BALHARA"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "KGZ",
+                    "name": "Tansuluu MURATBEKOVA"
+                },
+                {
+                    "winner": "Tansuluu MURATBEKOVA"
+                }
+            ],
+            [
+                {
+                    "country": "TJK",
+                    "name": "Oishabonu QURBONALIEVA"
+                },
+                {
+                    "country": "TPE",
+                    "name": "Lin Hsuan HSU"
+                },
+                {
+                    "winner": "Lin Hsuan HSU"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "KGZ",
+                    "name": "Tansuluu MURATBEKOVA"
+                },
+                {
+                    "country": "TPE",
+                    "name": "Lin Hsuan HSU"
+                }
+            ]
+        ],
+        "final_winner": "Lin Hsuan HSU"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "HKG",
+                    "name": "Annie LAU"
+                },
+                {
+                    "country": "KOR",
+                    "name": "Nayeong SONG"
+                },
+                {
+                    "winner": "Nayeong SONG"
+                }
+            ],
+            [
+                {
+                    "country": "UZB",
+                    "name": "Muhlisa GANJAEVA"
+                },
+                {
+                    "country": "KGZ",
+                    "name": "Tansuluu MURATBEKOVA"
+                },
+                {
+                    "winner": "Muhlisa GANJAEVA"
+                }
+            ],
+            [
+                {
+                    "country": "KOR",
+                    "name": "Nayeong SONG"
+                },
+                {
+                    "country": "IND",
+                    "name": "Pincky BALHARA"
+                },
+                {
+                    "winner": "Pincky BALHARA"
+                }
+            ],
+            [
+                {
+                    "country": "UZB",
+                    "name": "Muhlisa GANJAEVA"
+                },
+                {
+                    "country": "KAZ",
+                    "name": "Nurzhamal ZHARMANOVA"
+                },
+                {
+                    "winner": "Nurzhamal ZHARMANOVA"
+                }
+            ],
+            [
+                {
+                    "country": "IND",
+                    "name": "Pincky BALHARA"
+                }
+            ],
+            [
+                {
+                    "country": "KAZ",
+                    "name": "Nurzhamal ZHARMANOVA"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Pincky BALHARA",
+            "Nurzhamal ZHARMANOVA"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "JPN",
+                    "name": "Fuka KODAMA"
+                },
+                {
+                    "country": "KAZ",
+                    "name": "Nurzhamal ZHARMANOVA"
+                },
+                {
+                    "winner": "Fuka KODAMA"
+                }
+            ],
+            [
+                {
+                    "country": "IND",
+                    "name": "Pincky BALHARA"
+                },
+                {
+                    "country": "TPE",
+                    "name": "Lin Hsuan HSU"
+                },
+                {
+                    "winner": "Lin Hsuan HSU"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "JPN",
+                    "name": "Fuka KODAMA"
+                },
+                {
+                    "country": "TPE",
+                    "name": "Lin Hsuan HSU"
+                }
+            ]
+        ],
+        "final_winner": "Fuka KODAMA"
+    }
+}

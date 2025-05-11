@@ -1,0 +1,221 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "USA",
+                    "name": "Shavon GONZALEZ"
+                },
+                {
+                    "winner": "Shavon GONZALEZ"
+                }
+            ],
+            []
+        ],
+        "round 1-1": [],
+        "final_winner": "Shavon GONZALEZ"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CUB",
+                    "name": "Daymarelis CABALLERO"
+                },
+                {
+                    "winner": "Daymarelis CABALLERO"
+                }
+            ],
+            [
+                {
+                    "country": "CUB",
+                    "name": "Gretter RUIZ"
+                },
+                {
+                    "winner": "Gretter RUIZ"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "CUB",
+                    "name": "Daymarelis CABALLERO"
+                },
+                {
+                    "country": "CUB",
+                    "name": "Gretter RUIZ"
+                }
+            ]
+        ],
+        "final_winner": "Daymarelis CABALLERO"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [],
+            [
+                {
+                    "country": "CUB",
+                    "name": "Sheila PEREZ AVILA"
+                },
+                {
+                    "winner": "Sheila PEREZ AVILA"
+                }
+            ]
+        ],
+        "round 1-1": [],
+        "final_winner": "Sheila PEREZ AVILA"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "DOM",
+                    "name": "Esmeralda DAMIANO GUERRERO"
+                },
+                {
+                    "winner": "Esmeralda DAMIANO GUERRERO"
+                }
+            ],
+            [
+                {
+                    "country": "CUB",
+                    "name": "Lauren SANTANA"
+                },
+                {
+                    "winner": "Lauren SANTANA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "DOM",
+                    "name": "Esmeralda DAMIANO GUERRERO"
+                },
+                {
+                    "country": "CUB",
+                    "name": "Lauren SANTANA"
+                }
+            ]
+        ],
+        "final_winner": "Esmeralda DAMIANO GUERRERO"
+    },
+    "REPECHAGE": {
+        "round 1-4": [
+            [],
+            [
+                {
+                    "country": "CUB",
+                    "name": "Gretter RUIZ"
+                },
+                {
+                    "winner": "Gretter RUIZ"
+                }
+            ],
+            [],
+            [
+                {
+                    "country": "CUB",
+                    "name": "Lauren SANTANA"
+                },
+                {
+                    "winner": "Lauren SANTANA"
+                }
+            ]
+        ],
+        "round 1-2": [
+            [
+                {
+                    "country": "CUB",
+                    "name": "Gretter RUIZ"
+                }
+            ],
+            [
+                {
+                    "country": "CUB",
+                    "name": "Lauren SANTANA"
+                }
+            ],
+            [
+                {
+                    "country": "CUB",
+                    "name": "Gretter RUIZ"
+                },
+                {
+                    "country": "CUB",
+                    "name": "Sheila PEREZ AVILA"
+                },
+                {
+                    "winner": "Gretter RUIZ"
+                }
+            ],
+            [
+                {
+                    "country": "CUB",
+                    "name": "Lauren SANTANA"
+                },
+                {
+                    "country": "USA",
+                    "name": "Shavon GONZALEZ"
+                },
+                {
+                    "winner": "Shavon GONZALEZ"
+                }
+            ],
+            [
+                {
+                    "country": "USA",
+                    "name": "Shavon GONZALEZ"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Lauren SANTANA",
+            "Gretter RUIZ"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "USA",
+                    "name": "Shavon GONZALEZ"
+                },
+                {
+                    "country": "CUB",
+                    "name": "Daymarelis CABALLERO"
+                },
+                {
+                    "winner": "Daymarelis CABALLERO"
+                }
+            ],
+            [
+                {
+                    "country": "CUB",
+                    "name": "Sheila PEREZ AVILA"
+                },
+                {
+                    "country": "DOM",
+                    "name": "Esmeralda DAMIANO GUERRERO"
+                },
+                {
+                    "winner": "Esmeralda DAMIANO GUERRERO"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "CUB",
+                    "name": "Daymarelis CABALLERO"
+                },
+                {
+                    "country": "DOM",
+                    "name": "Esmeralda DAMIANO GUERRERO"
+                }
+            ]
+        ],
+        "final_winner": "Esmeralda DAMIANO GUERRERO"
+    }
+}

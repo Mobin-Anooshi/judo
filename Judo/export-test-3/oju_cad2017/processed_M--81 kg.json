@@ -1,0 +1,68 @@
+{
+    "ROUND 1": {
+        "round 1-2": [
+            [
+                {
+                    "country": "NCL",
+                    "name": "William FAYARD"
+                },
+                {
+                    "country": "AUS",
+                    "name": "Frank CONSTANTINIDIS"
+                },
+                {
+                    "winner": "William FAYARD"
+                }
+            ],
+            [
+                {
+                    "country": "AUS",
+                    "name": "Antonio ROZIC"
+                },
+                {
+                    "country": "NZL",
+                    "name": "Thomas MACKENZIE"
+                },
+                {
+                    "winner": "Antonio ROZIC"
+                }
+            ]
+        ],
+        "final_winners": [
+            "William FAYARD",
+            "Antonio ROZIC"
+        ]
+    },
+    "REPECHAGE": {
+        "round 1-1": [
+            [
+                {
+                    "country": "AUS",
+                    "name": "Frank CONSTANTINIDIS"
+                },
+                {
+                    "country": "NZL",
+                    "name": "Thomas MACKENZIE"
+                },
+                {
+                    "winner": "Frank CONSTANTINIDIS"
+                }
+            ],
+            [
+                {
+                    "country": "AUS",
+                    "name": "Frank CONSTANTINIDIS"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Frank CONSTANTINIDIS"
+        ]
+    },
+    "FINALS": {
+        "round 1-1": [],
+        "final_winners": [
+            "William FAYARD"
+        ]
+    }
+}

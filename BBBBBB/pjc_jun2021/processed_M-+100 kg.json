@@ -1,0 +1,261 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "COL",
+                    "name": "Elmer OREJUELA"
+                },
+                {
+                    "winner": "Elmer OREJUELA"
+                }
+            ],
+            [
+                {
+                    "country": "BRA",
+                    "name": "Daniel LEMES DA SILVA"
+                },
+                {
+                    "winner": "Daniel LEMES DA SILVA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "COL",
+                    "name": "Elmer OREJUELA"
+                },
+                {
+                    "country": "BRA",
+                    "name": "Daniel LEMES DA SILVA"
+                }
+            ]
+        ],
+        "final_winner": "Daniel LEMES DA SILVA"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CHI",
+                    "name": "Jose MERA"
+                },
+                {
+                    "winner": "Jose MERA"
+                }
+            ],
+            [
+                {
+                    "country": "CUB",
+                    "name": "Omar CRUZ LEON"
+                },
+                {
+                    "winner": "Omar CRUZ LEON"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "CHI",
+                    "name": "Jose MERA"
+                },
+                {
+                    "country": "CUB",
+                    "name": "Omar CRUZ LEON"
+                }
+            ]
+        ],
+        "final_winner": "Jose MERA"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "MEX",
+                    "name": "Omar SILVA"
+                },
+                {
+                    "winner": "Omar SILVA"
+                }
+            ],
+            [
+                {
+                    "country": "ECU",
+                    "name": "Cesar AGUIRRE"
+                },
+                {
+                    "winner": "Cesar AGUIRRE"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "MEX",
+                    "name": "Omar SILVA"
+                },
+                {
+                    "country": "ECU",
+                    "name": "Cesar AGUIRRE"
+                }
+            ]
+        ],
+        "final_winner": "Omar SILVA"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ARG",
+                    "name": "Alejo BURGOS"
+                },
+                {
+                    "winner": "Alejo BURGOS"
+                }
+            ],
+            []
+        ],
+        "round 1-1": [],
+        "final_winner": "Alejo BURGOS"
+    },
+    "REPECHAGE": {
+        "round 1-4": [
+            [
+                {
+                    "country": "COL",
+                    "name": "Elmer OREJUELA"
+                },
+                {
+                    "winner": "Elmer OREJUELA"
+                }
+            ],
+            [
+                {
+                    "country": "CUB",
+                    "name": "Omar CRUZ LEON"
+                },
+                {
+                    "winner": "Omar CRUZ LEON"
+                }
+            ],
+            [
+                {
+                    "country": "ECU",
+                    "name": "Cesar AGUIRRE"
+                },
+                {
+                    "winner": "Cesar AGUIRRE"
+                }
+            ],
+            []
+        ],
+        "round 1-2": [
+            [
+                {
+                    "country": "COL",
+                    "name": "Elmer OREJUELA"
+                },
+                {
+                    "country": "CUB",
+                    "name": "Omar CRUZ LEON"
+                },
+                {
+                    "winner": "Elmer OREJUELA"
+                }
+            ],
+            [
+                {
+                    "country": "ECU",
+                    "name": "Cesar AGUIRRE"
+                }
+            ],
+            [
+                {
+                    "country": "COL",
+                    "name": "Elmer OREJUELA"
+                },
+                {
+                    "country": "MEX",
+                    "name": "Omar SILVA"
+                },
+                {
+                    "winner": "Elmer OREJUELA"
+                }
+            ],
+            [
+                {
+                    "country": "ECU",
+                    "name": "Cesar AGUIRRE"
+                },
+                {
+                    "country": "CHI",
+                    "name": "Jose MERA"
+                },
+                {
+                    "winner": "Jose MERA"
+                }
+            ],
+            [
+                {
+                    "country": "COL",
+                    "name": "Elmer OREJUELA"
+                }
+            ],
+            [
+                {
+                    "country": "CHI",
+                    "name": "Jose MERA"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Elmer OREJUELA",
+            "Jose MERA"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Daniel LEMES DA SILVA"
+                },
+                {
+                    "country": "CHI",
+                    "name": "Jose MERA"
+                },
+                {
+                    "winner": "Daniel LEMES DA SILVA"
+                }
+            ],
+            [
+                {
+                    "country": "MEX",
+                    "name": "Omar SILVA"
+                },
+                {
+                    "country": "ARG",
+                    "name": "Alejo BURGOS"
+                },
+                {
+                    "winner": "Alejo BURGOS"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Daniel LEMES DA SILVA"
+                },
+                {
+                    "country": "ARG",
+                    "name": "Alejo BURGOS"
+                }
+            ]
+        ],
+        "final_winner": "Daniel LEMES DA SILVA"
+    }
+}

@@ -1,0 +1,159 @@
+{
+    "POOL A": {
+        "round 1-1": [],
+        "final_winner": "Jules BLOM"
+    },
+    "POOL B": {
+        "round 1-1": [
+            [
+                {
+                    "country": "HUN",
+                    "name": "Mate SCHONBERGER"
+                },
+                {
+                    "country": "ITA",
+                    "name": "Raffaele VERDIRAME"
+                }
+            ]
+        ],
+        "final_winner": "Mate SCHONBERGER"
+    },
+    "POOL C": {
+        "round 1-1": [
+            [
+                {
+                    "country": "ITA",
+                    "name": "Lorenzo ROSSI"
+                },
+                {
+                    "country": "SLO",
+                    "name": "Niko KUZMA"
+                }
+            ]
+        ],
+        "final_winner": "Lorenzo ROSSI"
+    },
+    "POOL D": {
+        "round 1-1": [
+            [
+                {
+                    "country": "FRA",
+                    "name": "Mathys GOMES DA SILVA"
+                },
+                {
+                    "country": "ITA",
+                    "name": "Andrea PALUMBO"
+                }
+            ]
+        ],
+        "final_winner": "Mathys GOMES DA SILVA"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ITA",
+                    "name": "Raffaele VERDIRAME"
+                }
+            ],
+            [
+                {
+                    "country": "SLO",
+                    "name": "Niko KUZMA"
+                },
+                {
+                    "country": "ITA",
+                    "name": "Andrea PALUMBO"
+                },
+                {
+                    "winner": "Andrea PALUMBO"
+                }
+            ],
+            [
+                {
+                    "country": "ITA",
+                    "name": "Raffaele VERDIRAME"
+                },
+                {
+                    "country": "ITA",
+                    "name": "Lorenzo ROSSI"
+                },
+                {
+                    "winner": "Lorenzo ROSSI"
+                }
+            ],
+            [
+                {
+                    "country": "ITA",
+                    "name": "Andrea PALUMBO"
+                },
+                {
+                    "country": "HUN",
+                    "name": "Mate SCHONBERGER"
+                },
+                {
+                    "winner": "Andrea PALUMBO"
+                }
+            ],
+            [
+                {
+                    "country": "ITA",
+                    "name": "Lorenzo ROSSI"
+                }
+            ],
+            [
+                {
+                    "country": "ITA",
+                    "name": "Andrea PALUMBO"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Lorenzo ROSSI",
+            "Andrea PALUMBO"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "NED",
+                    "name": "Jules BLOM"
+                },
+                {
+                    "country": "HUN",
+                    "name": "Mate SCHONBERGER"
+                },
+                {
+                    "winner": "Jules BLOM"
+                }
+            ],
+            [
+                {
+                    "country": "ITA",
+                    "name": "Lorenzo ROSSI"
+                },
+                {
+                    "country": "FRA",
+                    "name": "Mathys GOMES DA SILVA"
+                },
+                {
+                    "winner": "Mathys GOMES DA SILVA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "NED",
+                    "name": "Jules BLOM"
+                },
+                {
+                    "country": "FRA",
+                    "name": "Mathys GOMES DA SILVA"
+                }
+            ]
+        ],
+        "final_winner": "Jules BLOM"
+    }
+}

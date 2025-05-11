@@ -1,0 +1,68 @@
+{
+    "ROUND 1": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CYP",
+                    "name": "Sofia ASVESTA"
+                },
+                {
+                    "country": "LUX",
+                    "name": "Carla TAVARES FERNANDES"
+                },
+                {
+                    "winner": "Sofia ASVESTA"
+                }
+            ],
+            [
+                {
+                    "country": "CYP",
+                    "name": "Adamantia CHRISTODOULIDOU"
+                },
+                {
+                    "country": "AND",
+                    "name": "Alda BABI"
+                },
+                {
+                    "winner": "Adamantia CHRISTODOULIDOU"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Sofia ASVESTA",
+            "Adamantia CHRISTODOULIDOU"
+        ]
+    },
+    "REPECHAGE": {
+        "round 1-1": [
+            [
+                {
+                    "country": "LUX",
+                    "name": "Carla TAVARES FERNANDES"
+                },
+                {
+                    "country": "AND",
+                    "name": "Alda BABI"
+                },
+                {
+                    "winner": "Carla TAVARES FERNANDES"
+                }
+            ],
+            [
+                {
+                    "country": "LUX",
+                    "name": "Carla TAVARES FERNANDES"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Carla TAVARES FERNANDES"
+        ]
+    },
+    "FINALS": {
+        "round 1-1": [],
+        "final_winners": [
+            "Sofia ASVESTA"
+        ]
+    }
+}

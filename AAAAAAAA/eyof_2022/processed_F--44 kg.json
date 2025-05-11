@@ -1,0 +1,295 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "NED",
+                    "name": "Vera WANDEL"
+                },
+                {
+                    "winner": "Vera WANDEL"
+                }
+            ],
+            [
+                {
+                    "country": "POL",
+                    "name": "Oliwia KOZUCH"
+                },
+                {
+                    "winner": "Oliwia KOZUCH"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "NED",
+                    "name": "Vera WANDEL"
+                },
+                {
+                    "country": "POL",
+                    "name": "Oliwia KOZUCH"
+                }
+            ]
+        ],
+        "final_winner": "Vera WANDEL"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "FRA",
+                    "name": "Clara MERMET"
+                },
+                {
+                    "winner": "Clara MERMET"
+                }
+            ],
+            [
+                {
+                    "country": "POR",
+                    "name": "Matilde GONCALVES"
+                },
+                {
+                    "winner": "Matilde GONCALVES"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "FRA",
+                    "name": "Clara MERMET"
+                },
+                {
+                    "country": "POR",
+                    "name": "Matilde GONCALVES"
+                }
+            ]
+        ],
+        "final_winner": "Clara MERMET"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "HUN",
+                    "name": "Szabina SZELECZKI"
+                },
+                {
+                    "winner": "Szabina SZELECZKI"
+                }
+            ],
+            [
+                {
+                    "country": "TUR",
+                    "name": "Zilan ERTEM"
+                },
+                {
+                    "winner": "Zilan ERTEM"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "HUN",
+                    "name": "Szabina SZELECZKI"
+                },
+                {
+                    "country": "TUR",
+                    "name": "Zilan ERTEM"
+                }
+            ]
+        ],
+        "final_winner": "Szabina SZELECZKI"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "AZE",
+                    "name": "Khumar GASIMZADE"
+                },
+                {
+                    "winner": "Khumar GASIMZADE"
+                }
+            ],
+            [
+                {
+                    "country": "AUT",
+                    "name": "Tanzila MUNTSUROVA"
+                },
+                {
+                    "winner": "Tanzila MUNTSUROVA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "AZE",
+                    "name": "Khumar GASIMZADE"
+                },
+                {
+                    "country": "AUT",
+                    "name": "Tanzila MUNTSUROVA"
+                }
+            ]
+        ],
+        "final_winner": "Tanzila MUNTSUROVA"
+    },
+    "REPECHAGE": {
+        "round 1-4": [
+            [
+                {
+                    "country": "POL",
+                    "name": "Oliwia KOZUCH"
+                },
+                {
+                    "winner": "Oliwia KOZUCH"
+                }
+            ],
+            [
+                {
+                    "country": "POR",
+                    "name": "Matilde GONCALVES"
+                },
+                {
+                    "winner": "Matilde GONCALVES"
+                }
+            ],
+            [
+                {
+                    "country": "TUR",
+                    "name": "Zilan ERTEM"
+                },
+                {
+                    "winner": "Zilan ERTEM"
+                }
+            ],
+            [
+                {
+                    "country": "AZE",
+                    "name": "Khumar GASIMZADE"
+                },
+                {
+                    "winner": "Khumar GASIMZADE"
+                }
+            ]
+        ],
+        "round 1-2": [
+            [
+                {
+                    "country": "POL",
+                    "name": "Oliwia KOZUCH"
+                },
+                {
+                    "country": "POR",
+                    "name": "Matilde GONCALVES"
+                },
+                {
+                    "winner": "Oliwia KOZUCH"
+                }
+            ],
+            [
+                {
+                    "country": "TUR",
+                    "name": "Zilan ERTEM"
+                },
+                {
+                    "country": "AZE",
+                    "name": "Khumar GASIMZADE"
+                },
+                {
+                    "winner": "Khumar GASIMZADE"
+                }
+            ],
+            [
+                {
+                    "country": "POL",
+                    "name": "Oliwia KOZUCH"
+                },
+                {
+                    "country": "AUT",
+                    "name": "Tanzila MUNTSUROVA"
+                },
+                {
+                    "winner": "Tanzila MUNTSUROVA"
+                }
+            ],
+            [
+                {
+                    "country": "AZE",
+                    "name": "Khumar GASIMZADE"
+                },
+                {
+                    "country": "FRA",
+                    "name": "Clara MERMET"
+                },
+                {
+                    "winner": "Clara MERMET"
+                }
+            ],
+            [
+                {
+                    "country": "AUT",
+                    "name": "Tanzila MUNTSUROVA"
+                }
+            ],
+            [
+                {
+                    "country": "FRA",
+                    "name": "Clara MERMET"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Tanzila MUNTSUROVA",
+            "Clara MERMET"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "NED",
+                    "name": "Vera WANDEL"
+                },
+                {
+                    "country": "FRA",
+                    "name": "Clara MERMET"
+                },
+                {
+                    "winner": "Vera WANDEL"
+                }
+            ],
+            [
+                {
+                    "country": "HUN",
+                    "name": "Szabina SZELECZKI"
+                },
+                {
+                    "country": "AUT",
+                    "name": "Tanzila MUNTSUROVA"
+                },
+                {
+                    "winner": "Szabina SZELECZKI"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "NED",
+                    "name": "Vera WANDEL"
+                },
+                {
+                    "country": "HUN",
+                    "name": "Szabina SZELECZKI"
+                }
+            ]
+        ],
+        "final_winner": "Vera WANDEL"
+    }
+}

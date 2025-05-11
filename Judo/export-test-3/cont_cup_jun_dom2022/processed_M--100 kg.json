@@ -1,0 +1,68 @@
+{
+    "ROUND 1": {
+        "round 1-2": [
+            [
+                {
+                    "country": "DOM",
+                    "name": "Omny Emmanuel PERALTA DE LA CRUZ"
+                },
+                {
+                    "country": "GUA",
+                    "name": "William PEREZ"
+                },
+                {
+                    "winner": "William PEREZ"
+                }
+            ],
+            [
+                {
+                    "country": "PAN",
+                    "name": "Manuel VELASQUEZ"
+                },
+                {
+                    "country": "DOM",
+                    "name": "Franklin GUZMAN"
+                },
+                {
+                    "winner": "Franklin GUZMAN"
+                }
+            ]
+        ],
+        "final_winners": [
+            "William PEREZ",
+            "Franklin GUZMAN"
+        ]
+    },
+    "REPECHAGE": {
+        "round 1-1": [
+            [
+                {
+                    "country": "DOM",
+                    "name": "Omny Emmanuel PERALTA DE LA CRUZ"
+                },
+                {
+                    "country": "PAN",
+                    "name": "Manuel VELASQUEZ"
+                },
+                {
+                    "winner": "Manuel VELASQUEZ"
+                }
+            ],
+            [
+                {
+                    "country": "PAN",
+                    "name": "Manuel VELASQUEZ"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Manuel VELASQUEZ"
+        ]
+    },
+    "FINALS": {
+        "round 1-1": [],
+        "final_winners": [
+            "Franklin GUZMAN"
+        ]
+    }
+}

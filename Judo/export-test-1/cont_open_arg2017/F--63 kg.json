@@ -1,0 +1,261 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "USA",
+                    "name": "Hannah MARTIN"
+                },
+                {
+                    "winner": "Hannah MARTIN"
+                }
+            ],
+            [
+                {
+                    "country": "ARG",
+                    "name": "Fiamma BOMBARDA"
+                },
+                {
+                    "winner": "Fiamma BOMBARDA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "USA",
+                    "name": "Hannah MARTIN"
+                },
+                {
+                    "country": "ARG",
+                    "name": "Fiamma BOMBARDA"
+                }
+            ]
+        ],
+        "final_winner": "Hannah MARTIN"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ARG",
+                    "name": "Noelia PONCE"
+                },
+                {
+                    "winner": "Noelia PONCE"
+                }
+            ],
+            [
+                {
+                    "country": "ARG",
+                    "name": "Sol CELLERINO"
+                },
+                {
+                    "winner": "Sol CELLERINO"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "ARG",
+                    "name": "Noelia PONCE"
+                },
+                {
+                    "country": "ARG",
+                    "name": "Sol CELLERINO"
+                }
+            ]
+        ],
+        "final_winner": "Noelia PONCE"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CHI",
+                    "name": "Karina ORELLANA"
+                },
+                {
+                    "winner": "Karina ORELLANA"
+                }
+            ],
+            [
+                {
+                    "country": "ARG",
+                    "name": "Melissa RODRIGUEZ"
+                },
+                {
+                    "country": "ARG",
+                    "name": "Jazmin RODRIGUEZ"
+                },
+                {
+                    "winner": "Melissa RODRIGUEZ"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "CHI",
+                    "name": "Karina ORELLANA"
+                },
+                {
+                    "country": "ARG",
+                    "name": "Melissa RODRIGUEZ"
+                }
+            ]
+        ],
+        "final_winner": "Karina ORELLANA"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ARG",
+                    "name": "Mariana ZAMORA"
+                },
+                {
+                    "winner": "Mariana ZAMORA"
+                }
+            ],
+            [
+                {
+                    "country": "ARG",
+                    "name": "Belen TITTARELLI"
+                },
+                {
+                    "winner": "Belen TITTARELLI"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "ARG",
+                    "name": "Mariana ZAMORA"
+                },
+                {
+                    "country": "ARG",
+                    "name": "Belen TITTARELLI"
+                }
+            ]
+        ],
+        "final_winner": "Mariana ZAMORA"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ARG",
+                    "name": "Fiamma BOMBARDA"
+                },
+                {
+                    "country": "ARG",
+                    "name": "Sol CELLERINO"
+                },
+                {
+                    "winner": "Fiamma BOMBARDA"
+                }
+            ],
+            [
+                {
+                    "country": "ARG",
+                    "name": "Melissa RODRIGUEZ"
+                },
+                {
+                    "country": "ARG",
+                    "name": "Belen TITTARELLI"
+                },
+                {
+                    "winner": "Belen TITTARELLI"
+                }
+            ],
+            [
+                {
+                    "country": "ARG",
+                    "name": "Fiamma BOMBARDA"
+                },
+                {
+                    "country": "ARG",
+                    "name": "Mariana ZAMORA"
+                },
+                {
+                    "winner": "Fiamma BOMBARDA"
+                }
+            ],
+            [
+                {
+                    "country": "ARG",
+                    "name": "Belen TITTARELLI"
+                },
+                {
+                    "country": "ARG",
+                    "name": "Noelia PONCE"
+                },
+                {
+                    "winner": "Noelia PONCE"
+                }
+            ],
+            [
+                {
+                    "country": "ARG",
+                    "name": "Fiamma BOMBARDA"
+                }
+            ],
+            [
+                {
+                    "country": "ARG",
+                    "name": "Noelia PONCE"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Fiamma BOMBARDA",
+            "Noelia PONCE"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "USA",
+                    "name": "Hannah MARTIN"
+                },
+                {
+                    "country": "ARG",
+                    "name": "Noelia PONCE"
+                },
+                {
+                    "winner": "Hannah MARTIN"
+                }
+            ],
+            [
+                {
+                    "country": "CHI",
+                    "name": "Karina ORELLANA"
+                },
+                {
+                    "country": "ARG",
+                    "name": "Mariana ZAMORA"
+                },
+                {
+                    "winner": "Karina ORELLANA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "USA",
+                    "name": "Hannah MARTIN"
+                },
+                {
+                    "country": "CHI",
+                    "name": "Karina ORELLANA"
+                }
+            ]
+        ],
+        "final_winner": "Hannah MARTIN"
+    }
+}

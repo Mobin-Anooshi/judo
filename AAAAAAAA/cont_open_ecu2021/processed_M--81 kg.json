@@ -1,0 +1,177 @@
+{
+    "POOL A": {
+        "round 1-1": [
+            [
+                {
+                    "country": "URU",
+                    "name": "Alain APRAHAMIAN"
+                },
+                {
+                    "country": "MEX",
+                    "name": "Javier ROSAS"
+                }
+            ]
+        ],
+        "final_winner": "Alain APRAHAMIAN"
+    },
+    "POOL B": {
+        "round 1-1": [
+            [
+                {
+                    "country": "USA",
+                    "name": "Nicolas YONEZUKA"
+                },
+                {
+                    "country": "ARG",
+                    "name": "Agustin GIL"
+                }
+            ]
+        ],
+        "final_winner": "Nicolas YONEZUKA"
+    },
+    "POOL C": {
+        "round 1-1": [
+            [
+                {
+                    "country": "USA",
+                    "name": "Kell BERLINER"
+                },
+                {
+                    "country": "MEX",
+                    "name": "Diego DIAZ"
+                }
+            ]
+        ],
+        "final_winner": "Kell BERLINER"
+    },
+    "POOL D": {
+        "round 1-1": [
+            [
+                {
+                    "country": "CRC",
+                    "name": "David GUILLEN VARGAS"
+                },
+                {
+                    "country": "USA",
+                    "name": "Ramon HERNANDEZ JR"
+                }
+            ]
+        ],
+        "final_winner": "David GUILLEN VARGAS"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "MEX",
+                    "name": "Javier ROSAS"
+                },
+                {
+                    "country": "ARG",
+                    "name": "Agustin GIL"
+                },
+                {
+                    "winner": "Javier ROSAS"
+                }
+            ],
+            [
+                {
+                    "country": "MEX",
+                    "name": "Diego DIAZ"
+                },
+                {
+                    "country": "USA",
+                    "name": "Ramon HERNANDEZ JR"
+                },
+                {
+                    "winner": "Diego DIAZ"
+                }
+            ],
+            [
+                {
+                    "country": "MEX",
+                    "name": "Javier ROSAS"
+                },
+                {
+                    "country": "CRC",
+                    "name": "David GUILLEN VARGAS"
+                },
+                {
+                    "winner": "David GUILLEN VARGAS"
+                }
+            ],
+            [
+                {
+                    "country": "MEX",
+                    "name": "Diego DIAZ"
+                },
+                {
+                    "country": "URU",
+                    "name": "Alain APRAHAMIAN"
+                },
+                {
+                    "winner": "Alain APRAHAMIAN"
+                }
+            ],
+            [
+                {
+                    "country": "CRC",
+                    "name": "David GUILLEN VARGAS"
+                }
+            ],
+            [
+                {
+                    "country": "URU",
+                    "name": "Alain APRAHAMIAN"
+                }
+            ]
+        ],
+        "final_winners": [
+            "David GUILLEN VARGAS",
+            "Alain APRAHAMIAN"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "URU",
+                    "name": "Alain APRAHAMIAN"
+                },
+                {
+                    "country": "USA",
+                    "name": "Nicolas YONEZUKA"
+                },
+                {
+                    "winner": "Nicolas YONEZUKA"
+                }
+            ],
+            [
+                {
+                    "country": "USA",
+                    "name": "Kell BERLINER"
+                },
+                {
+                    "country": "CRC",
+                    "name": "David GUILLEN VARGAS"
+                },
+                {
+                    "winner": "Kell BERLINER"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "USA",
+                    "name": "Nicolas YONEZUKA"
+                },
+                {
+                    "country": "USA",
+                    "name": "Kell BERLINER"
+                }
+            ]
+        ],
+        "final_winner": "Nicolas YONEZUKA"
+    }
+}

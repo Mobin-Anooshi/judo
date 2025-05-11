@@ -1,0 +1,68 @@
+{
+    "ROUND 1": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ANG",
+                    "name": "Jose EDUARDO"
+                },
+                {
+                    "country": "ANG",
+                    "name": "Agostinho MUKUDILA"
+                },
+                {
+                    "winner": "Jose EDUARDO"
+                }
+            ],
+            [
+                {
+                    "country": "ANG",
+                    "name": "David CATERCA"
+                },
+                {
+                    "country": "ANG",
+                    "name": "Santos SEBASTIAO"
+                },
+                {
+                    "winner": "Santos SEBASTIAO"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Jose EDUARDO",
+            "Santos SEBASTIAO"
+        ]
+    },
+    "REPECHAGE": {
+        "round 1-1": [
+            [
+                {
+                    "country": "ANG",
+                    "name": "Agostinho MUKUDILA"
+                },
+                {
+                    "country": "ANG",
+                    "name": "David CATERCA"
+                },
+                {
+                    "winner": "David CATERCA"
+                }
+            ],
+            [
+                {
+                    "country": "ANG",
+                    "name": "David CATERCA"
+                }
+            ]
+        ],
+        "final_winners": [
+            "David CATERCA"
+        ]
+    },
+    "FINALS": {
+        "round 1-1": [],
+        "final_winners": [
+            "Santos SEBASTIAO"
+        ]
+    }
+}

@@ -1,0 +1,159 @@
+{
+    "POOL A": {
+        "round 1-1": [],
+        "final_winner": "Laura VOLO MACHIN"
+    },
+    "POOL B": {
+        "round 1-1": [
+            [
+                {
+                    "country": "NED",
+                    "name": "Esther KLEINLUGTENBELT"
+                },
+                {
+                    "country": "POR",
+                    "name": "Fabia CONCEICAO"
+                }
+            ]
+        ],
+        "final_winner": "Fabia CONCEICAO"
+    },
+    "POOL C": {
+        "round 1-1": [
+            [
+                {
+                    "country": "NED",
+                    "name": "Irene HESLING"
+                },
+                {
+                    "country": "ESP",
+                    "name": "Aitana SALA CANO"
+                }
+            ]
+        ],
+        "final_winner": "Irene HESLING"
+    },
+    "POOL D": {
+        "round 1-1": [
+            [
+                {
+                    "country": "ESP",
+                    "name": "June MORENO CAMPO"
+                },
+                {
+                    "country": "ESP",
+                    "name": "Ana VIZOSO HERNANDEZ"
+                }
+            ]
+        ],
+        "final_winner": "Ana VIZOSO HERNANDEZ"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "NED",
+                    "name": "Esther KLEINLUGTENBELT"
+                }
+            ],
+            [
+                {
+                    "country": "ESP",
+                    "name": "Aitana SALA CANO"
+                },
+                {
+                    "country": "ESP",
+                    "name": "June MORENO CAMPO"
+                },
+                {
+                    "winner": "June MORENO CAMPO"
+                }
+            ],
+            [
+                {
+                    "country": "NED",
+                    "name": "Esther KLEINLUGTENBELT"
+                },
+                {
+                    "country": "ESP",
+                    "name": "Ana VIZOSO HERNANDEZ"
+                },
+                {
+                    "winner": "Ana VIZOSO HERNANDEZ"
+                }
+            ],
+            [
+                {
+                    "country": "ESP",
+                    "name": "June MORENO CAMPO"
+                },
+                {
+                    "country": "ESP",
+                    "name": "Laura VOLO MACHIN"
+                },
+                {
+                    "winner": "June MORENO CAMPO"
+                }
+            ],
+            [
+                {
+                    "country": "ESP",
+                    "name": "Ana VIZOSO HERNANDEZ"
+                }
+            ],
+            [
+                {
+                    "country": "ESP",
+                    "name": "June MORENO CAMPO"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Ana VIZOSO HERNANDEZ",
+            "June MORENO CAMPO"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ESP",
+                    "name": "Laura VOLO MACHIN"
+                },
+                {
+                    "country": "POR",
+                    "name": "Fabia CONCEICAO"
+                },
+                {
+                    "winner": "Fabia CONCEICAO"
+                }
+            ],
+            [
+                {
+                    "country": "NED",
+                    "name": "Irene HESLING"
+                },
+                {
+                    "country": "ESP",
+                    "name": "Ana VIZOSO HERNANDEZ"
+                },
+                {
+                    "winner": "Irene HESLING"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "POR",
+                    "name": "Fabia CONCEICAO"
+                },
+                {
+                    "country": "NED",
+                    "name": "Irene HESLING"
+                }
+            ]
+        ],
+        "final_winner": "Fabia CONCEICAO"
+    }
+}

@@ -1,0 +1,285 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "SLO",
+                    "name": "Vito DRAGIC"
+                },
+                {
+                    "winner": "Vito DRAGIC"
+                }
+            ],
+            [
+                {
+                    "country": "GER",
+                    "name": "Marvin BELZ"
+                },
+                {
+                    "country": "MNE",
+                    "name": "Jovan PEROVIC"
+                },
+                {
+                    "winner": "Marvin BELZ"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "SLO",
+                    "name": "Vito DRAGIC"
+                },
+                {
+                    "country": "GER",
+                    "name": "Marvin BELZ"
+                }
+            ]
+        ],
+        "final_winner": "Marvin BELZ"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "GER",
+                    "name": "Yvo WITASSEK"
+                },
+                {
+                    "country": "ROU",
+                    "name": "Vlad TOPALA"
+                },
+                {
+                    "winner": "Yvo WITASSEK"
+                }
+            ],
+            [
+                {
+                    "country": "HUN",
+                    "name": "Mihaly CSERKASZOV"
+                },
+                {
+                    "country": "SRB",
+                    "name": "Aleksandar KALABIC"
+                },
+                {
+                    "winner": "Mihaly CSERKASZOV"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "GER",
+                    "name": "Yvo WITASSEK"
+                },
+                {
+                    "country": "HUN",
+                    "name": "Mihaly CSERKASZOV"
+                }
+            ]
+        ],
+        "final_winner": "Yvo WITASSEK"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ROU",
+                    "name": "Mircea CROITORU"
+                },
+                {
+                    "country": "AZE",
+                    "name": "Toghrul SALMANOV"
+                },
+                {
+                    "winner": "Mircea CROITORU"
+                }
+            ],
+            [
+                {
+                    "country": "GBR",
+                    "name": "Wesley GREENIDGE"
+                },
+                {
+                    "country": "SRB",
+                    "name": "Andrija STOSIC"
+                },
+                {
+                    "winner": "Wesley GREENIDGE"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "ROU",
+                    "name": "Mircea CROITORU"
+                },
+                {
+                    "country": "GBR",
+                    "name": "Wesley GREENIDGE"
+                }
+            ]
+        ],
+        "final_winner": "Mircea CROITORU"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "SRB",
+                    "name": "Igor VRACAR"
+                },
+                {
+                    "country": "FRA",
+                    "name": "Cedric CAILLON"
+                },
+                {
+                    "winner": "Igor VRACAR"
+                }
+            ],
+            [
+                {
+                    "country": "BEL",
+                    "name": "Yves NDAO"
+                },
+                {
+                    "country": "AUT",
+                    "name": "Movli BORCHASHVILLI"
+                },
+                {
+                    "winner": "Movli BORCHASHVILLI"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "SRB",
+                    "name": "Igor VRACAR"
+                },
+                {
+                    "country": "AUT",
+                    "name": "Movli BORCHASHVILLI"
+                }
+            ]
+        ],
+        "final_winner": "Igor VRACAR"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "SLO",
+                    "name": "Vito DRAGIC"
+                },
+                {
+                    "country": "HUN",
+                    "name": "Mihaly CSERKASZOV"
+                },
+                {
+                    "winner": "Vito DRAGIC"
+                }
+            ],
+            [
+                {
+                    "country": "GBR",
+                    "name": "Wesley GREENIDGE"
+                },
+                {
+                    "country": "AUT",
+                    "name": "Movli BORCHASHVILLI"
+                },
+                {
+                    "winner": "Wesley GREENIDGE"
+                }
+            ],
+            [
+                {
+                    "country": "SLO",
+                    "name": "Vito DRAGIC"
+                },
+                {
+                    "country": "SRB",
+                    "name": "Igor VRACAR"
+                },
+                {
+                    "winner": "Vito DRAGIC"
+                }
+            ],
+            [
+                {
+                    "country": "GBR",
+                    "name": "Wesley GREENIDGE"
+                },
+                {
+                    "country": "GER",
+                    "name": "Yvo WITASSEK"
+                },
+                {
+                    "winner": "Wesley GREENIDGE"
+                }
+            ],
+            [
+                {
+                    "country": "SLO",
+                    "name": "Vito DRAGIC"
+                }
+            ],
+            [
+                {
+                    "country": "GBR",
+                    "name": "Wesley GREENIDGE"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Vito DRAGIC",
+            "Wesley GREENIDGE"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "GER",
+                    "name": "Marvin BELZ"
+                },
+                {
+                    "country": "GER",
+                    "name": "Yvo WITASSEK"
+                },
+                {
+                    "winner": "Marvin BELZ"
+                }
+            ],
+            [
+                {
+                    "country": "ROU",
+                    "name": "Mircea CROITORU"
+                },
+                {
+                    "country": "SRB",
+                    "name": "Igor VRACAR"
+                },
+                {
+                    "winner": "Mircea CROITORU"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "GER",
+                    "name": "Marvin BELZ"
+                },
+                {
+                    "country": "ROU",
+                    "name": "Mircea CROITORU"
+                }
+            ]
+        ],
+        "final_winner": "Marvin BELZ"
+    }
+}

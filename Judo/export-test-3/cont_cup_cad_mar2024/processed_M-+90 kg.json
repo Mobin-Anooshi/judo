@@ -1,0 +1,68 @@
+{
+    "ROUND 1": {
+        "round 1-2": [
+            [
+                {
+                    "country": "SRB",
+                    "name": "Petar NOVAKOVIC"
+                },
+                {
+                    "country": "MAR",
+                    "name": "Adam BENKIRANE"
+                },
+                {
+                    "winner": "Petar NOVAKOVIC"
+                }
+            ],
+            [
+                {
+                    "country": "MAR",
+                    "name": "Hicham RAIS"
+                },
+                {
+                    "country": "MAR",
+                    "name": "Ali ATTILLAH"
+                },
+                {
+                    "winner": "Ali ATTILLAH"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Petar NOVAKOVIC",
+            "Ali ATTILLAH"
+        ]
+    },
+    "REPECHAGE": {
+        "round 1-1": [
+            [
+                {
+                    "country": "MAR",
+                    "name": "Adam BENKIRANE"
+                },
+                {
+                    "country": "MAR",
+                    "name": "Hicham RAIS"
+                },
+                {
+                    "winner": "Hicham RAIS"
+                }
+            ],
+            [
+                {
+                    "country": "MAR",
+                    "name": "Hicham RAIS"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Hicham RAIS"
+        ]
+    },
+    "FINALS": {
+        "round 1-1": [],
+        "final_winners": [
+            "Petar NOVAKOVIC"
+        ]
+    }
+}

@@ -1,0 +1,255 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "HUN",
+                    "name": "Szabina SZELECZKI"
+                },
+                {
+                    "winner": "Szabina SZELECZKI"
+                }
+            ],
+            []
+        ],
+        "round 1-1": [],
+        "final_winner": "Szabina SZELECZKI"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "TUR",
+                    "name": "Zilan ERTEM"
+                },
+                {
+                    "winner": "Zilan ERTEM"
+                }
+            ],
+            [
+                {
+                    "country": "UKR",
+                    "name": "Marharyta MIROSHNICHENKO"
+                },
+                {
+                    "winner": "Marharyta MIROSHNICHENKO"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "TUR",
+                    "name": "Zilan ERTEM"
+                },
+                {
+                    "country": "UKR",
+                    "name": "Marharyta MIROSHNICHENKO"
+                }
+            ]
+        ],
+        "final_winner": "Zilan ERTEM"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "RUS",
+                    "name": "Polina IAKOVENKO"
+                },
+                {
+                    "winner": "Polina IAKOVENKO"
+                }
+            ],
+            [
+                {
+                    "country": "FRA",
+                    "name": "Imane LIMA"
+                },
+                {
+                    "winner": "Imane LIMA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "RUS",
+                    "name": "Polina IAKOVENKO"
+                },
+                {
+                    "country": "FRA",
+                    "name": "Imane LIMA"
+                }
+            ]
+        ],
+        "final_winner": "Polina IAKOVENKO"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "UKR",
+                    "name": "Anastasiia SUPERSON"
+                },
+                {
+                    "winner": "Anastasiia SUPERSON"
+                }
+            ],
+            [
+                {
+                    "country": "RUS",
+                    "name": "Sofiia BELASH"
+                },
+                {
+                    "winner": "Sofiia BELASH"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "UKR",
+                    "name": "Anastasiia SUPERSON"
+                },
+                {
+                    "country": "RUS",
+                    "name": "Sofiia BELASH"
+                }
+            ]
+        ],
+        "final_winner": "Anastasiia SUPERSON"
+    },
+    "REPECHAGE": {
+        "round 1-4": [
+            [],
+            [
+                {
+                    "country": "UKR",
+                    "name": "Marharyta MIROSHNICHENKO"
+                },
+                {
+                    "winner": "Marharyta MIROSHNICHENKO"
+                }
+            ],
+            [
+                {
+                    "country": "FRA",
+                    "name": "Imane LIMA"
+                },
+                {
+                    "winner": "Imane LIMA"
+                }
+            ],
+            [
+                {
+                    "country": "RUS",
+                    "name": "Sofiia BELASH"
+                },
+                {
+                    "winner": "Sofiia BELASH"
+                }
+            ]
+        ],
+        "round 1-2": [
+            [
+                {
+                    "country": "UKR",
+                    "name": "Marharyta MIROSHNICHENKO"
+                }
+            ],
+            [
+                {
+                    "country": "FRA",
+                    "name": "Imane LIMA"
+                },
+                {
+                    "country": "RUS",
+                    "name": "Sofiia BELASH"
+                },
+                {
+                    "winner": "Imane LIMA"
+                }
+            ],
+            [
+                {
+                    "country": "UKR",
+                    "name": "Marharyta MIROSHNICHENKO"
+                },
+                {
+                    "country": "UKR",
+                    "name": "Anastasiia SUPERSON"
+                },
+                {
+                    "winner": "Marharyta MIROSHNICHENKO"
+                }
+            ],
+            [
+                {
+                    "country": "FRA",
+                    "name": "Imane LIMA"
+                },
+                {
+                    "country": "HUN",
+                    "name": "Szabina SZELECZKI"
+                },
+                {
+                    "winner": "Szabina SZELECZKI"
+                }
+            ],
+            [
+                {
+                    "country": "HUN",
+                    "name": "Szabina SZELECZKI"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Imane LIMA",
+            "Marharyta MIROSHNICHENKO"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "HUN",
+                    "name": "Szabina SZELECZKI"
+                },
+                {
+                    "country": "TUR",
+                    "name": "Zilan ERTEM"
+                },
+                {
+                    "winner": "Zilan ERTEM"
+                }
+            ],
+            [
+                {
+                    "country": "RUS",
+                    "name": "Polina IAKOVENKO"
+                },
+                {
+                    "country": "UKR",
+                    "name": "Anastasiia SUPERSON"
+                },
+                {
+                    "winner": "Polina IAKOVENKO"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "TUR",
+                    "name": "Zilan ERTEM"
+                },
+                {
+                    "country": "RUS",
+                    "name": "Polina IAKOVENKO"
+                }
+            ]
+        ],
+        "final_winner": "Polina IAKOVENKO"
+    }
+}

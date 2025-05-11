@@ -1,0 +1,177 @@
+{
+    "POOL A": {
+        "round 1-1": [
+            [
+                {
+                    "country": "MEX",
+                    "name": "Renata SANDOVAL"
+                },
+                {
+                    "country": "DOM",
+                    "name": "Jennifer DESERT"
+                }
+            ]
+        ],
+        "final_winner": "Renata SANDOVAL"
+    },
+    "POOL B": {
+        "round 1-1": [
+            [
+                {
+                    "country": "COL",
+                    "name": "Heydi SANTILLANA"
+                },
+                {
+                    "country": "VEN",
+                    "name": "Hannelys ESPINA"
+                }
+            ]
+        ],
+        "final_winner": "Heydi SANTILLANA"
+    },
+    "POOL C": {
+        "round 1-1": [
+            [
+                {
+                    "country": "DOM",
+                    "name": "Victoria RAMIREZ PEGUERO"
+                },
+                {
+                    "country": "ECU",
+                    "name": "Odeth CASIERRA"
+                }
+            ]
+        ],
+        "final_winner": "Odeth CASIERRA"
+    },
+    "POOL D": {
+        "round 1-1": [
+            [
+                {
+                    "country": "DOM",
+                    "name": "Patricia CANARIO"
+                },
+                {
+                    "country": "MEX",
+                    "name": "Yamileth JUAREZ LOYA"
+                }
+            ]
+        ],
+        "final_winner": "Yamileth JUAREZ LOYA"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "DOM",
+                    "name": "Jennifer DESERT"
+                },
+                {
+                    "country": "VEN",
+                    "name": "Hannelys ESPINA"
+                },
+                {
+                    "winner": "Hannelys ESPINA"
+                }
+            ],
+            [
+                {
+                    "country": "DOM",
+                    "name": "Victoria RAMIREZ PEGUERO"
+                },
+                {
+                    "country": "DOM",
+                    "name": "Patricia CANARIO"
+                },
+                {
+                    "winner": "Victoria RAMIREZ PEGUERO"
+                }
+            ],
+            [
+                {
+                    "country": "VEN",
+                    "name": "Hannelys ESPINA"
+                },
+                {
+                    "country": "ECU",
+                    "name": "Odeth CASIERRA"
+                },
+                {
+                    "winner": "Hannelys ESPINA"
+                }
+            ],
+            [
+                {
+                    "country": "DOM",
+                    "name": "Victoria RAMIREZ PEGUERO"
+                },
+                {
+                    "country": "MEX",
+                    "name": "Renata SANDOVAL"
+                },
+                {
+                    "winner": "Renata SANDOVAL"
+                }
+            ],
+            [
+                {
+                    "country": "VEN",
+                    "name": "Hannelys ESPINA"
+                }
+            ],
+            [
+                {
+                    "country": "MEX",
+                    "name": "Renata SANDOVAL"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Hannelys ESPINA",
+            "Renata SANDOVAL"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "MEX",
+                    "name": "Renata SANDOVAL"
+                },
+                {
+                    "country": "COL",
+                    "name": "Heydi SANTILLANA"
+                },
+                {
+                    "winner": "Heydi SANTILLANA"
+                }
+            ],
+            [
+                {
+                    "country": "ECU",
+                    "name": "Odeth CASIERRA"
+                },
+                {
+                    "country": "MEX",
+                    "name": "Yamileth JUAREZ LOYA"
+                },
+                {
+                    "winner": "Yamileth JUAREZ LOYA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "COL",
+                    "name": "Heydi SANTILLANA"
+                },
+                {
+                    "country": "MEX",
+                    "name": "Yamileth JUAREZ LOYA"
+                }
+            ]
+        ],
+        "final_winner": "Heydi SANTILLANA"
+    }
+}

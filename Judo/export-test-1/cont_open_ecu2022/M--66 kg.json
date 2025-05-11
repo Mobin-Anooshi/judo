@@ -1,0 +1,269 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "COL",
+                    "name": "Juan HERNANDEZ"
+                },
+                {
+                    "winner": "Juan HERNANDEZ"
+                }
+            ],
+            [
+                {
+                    "country": "ARG",
+                    "name": "Rodrigo JARA"
+                },
+                {
+                    "country": "ECU",
+                    "name": "Ismael ORTEGA"
+                },
+                {
+                    "winner": "Rodrigo JARA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "COL",
+                    "name": "Juan HERNANDEZ"
+                },
+                {
+                    "country": "ARG",
+                    "name": "Rodrigo JARA"
+                }
+            ]
+        ],
+        "final_winner": "Juan HERNANDEZ"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "USA",
+                    "name": "Adonis DIAZ"
+                },
+                {
+                    "winner": "Adonis DIAZ"
+                }
+            ],
+            [
+                {
+                    "country": "ECU",
+                    "name": "Byron GUILLEN"
+                },
+                {
+                    "winner": "Byron GUILLEN"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "USA",
+                    "name": "Adonis DIAZ"
+                },
+                {
+                    "country": "ECU",
+                    "name": "Byron GUILLEN"
+                }
+            ]
+        ],
+        "final_winner": "Adonis DIAZ"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ECU",
+                    "name": "Juan AYALA"
+                },
+                {
+                    "winner": "Juan AYALA"
+                }
+            ],
+            [
+                {
+                    "country": "ARG",
+                    "name": "Matias PILO LACUADRA"
+                },
+                {
+                    "country": "ESA",
+                    "name": "Diego CALIX"
+                },
+                {
+                    "winner": "Matias PILO LACUADRA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "ECU",
+                    "name": "Juan AYALA"
+                },
+                {
+                    "country": "ARG",
+                    "name": "Matias PILO LACUADRA"
+                }
+            ]
+        ],
+        "final_winner": "Juan AYALA"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "HAI",
+                    "name": "Gerard CADET"
+                },
+                {
+                    "winner": "Gerard CADET"
+                }
+            ],
+            [
+                {
+                    "country": "ECU",
+                    "name": "Lenin PRECIADO"
+                },
+                {
+                    "country": "ECU",
+                    "name": "Kevin AYALA"
+                },
+                {
+                    "winner": "Lenin PRECIADO"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "HAI",
+                    "name": "Gerard CADET"
+                },
+                {
+                    "country": "ECU",
+                    "name": "Lenin PRECIADO"
+                }
+            ]
+        ],
+        "final_winner": "Lenin PRECIADO"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ARG",
+                    "name": "Rodrigo JARA"
+                },
+                {
+                    "country": "ECU",
+                    "name": "Byron GUILLEN"
+                },
+                {
+                    "winner": "Rodrigo JARA"
+                }
+            ],
+            [
+                {
+                    "country": "ARG",
+                    "name": "Matias PILO LACUADRA"
+                },
+                {
+                    "country": "HAI",
+                    "name": "Gerard CADET"
+                },
+                {
+                    "winner": "Matias PILO LACUADRA"
+                }
+            ],
+            [
+                {
+                    "country": "ARG",
+                    "name": "Rodrigo JARA"
+                },
+                {
+                    "country": "ECU",
+                    "name": "Juan AYALA"
+                },
+                {
+                    "winner": "Juan AYALA"
+                }
+            ],
+            [
+                {
+                    "country": "ARG",
+                    "name": "Matias PILO LACUADRA"
+                },
+                {
+                    "country": "USA",
+                    "name": "Adonis DIAZ"
+                },
+                {
+                    "winner": "Matias PILO LACUADRA"
+                }
+            ],
+            [
+                {
+                    "country": "ECU",
+                    "name": "Juan AYALA"
+                }
+            ],
+            [
+                {
+                    "country": "ARG",
+                    "name": "Matias PILO LACUADRA"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Juan AYALA",
+            "Matias PILO LACUADRA"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "COL",
+                    "name": "Juan HERNANDEZ"
+                },
+                {
+                    "country": "USA",
+                    "name": "Adonis DIAZ"
+                },
+                {
+                    "winner": "Juan HERNANDEZ"
+                }
+            ],
+            [
+                {
+                    "country": "ECU",
+                    "name": "Juan AYALA"
+                },
+                {
+                    "country": "ECU",
+                    "name": "Lenin PRECIADO"
+                },
+                {
+                    "winner": "Lenin PRECIADO"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "COL",
+                    "name": "Juan HERNANDEZ"
+                },
+                {
+                    "country": "ECU",
+                    "name": "Lenin PRECIADO"
+                }
+            ]
+        ],
+        "final_winner": "Juan HERNANDEZ"
+    }
+}

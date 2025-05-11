@@ -1,0 +1,87 @@
+{
+    "POOL A": {
+        "round 1-3": [
+            [
+                {
+                    "country": "ANG",
+                    "name": "Maribela CARLOS"
+                },
+                {
+                    "country": "ANG",
+                    "name": "Paula GASPAR"
+                },
+                {
+                    "winner": "Maribela CARLOS"
+                }
+            ],
+            [
+                {
+                    "country": "ANG",
+                    "name": "Maribela CARLOS"
+                },
+                {
+                    "country": "ANG",
+                    "name": "Dulce MANUEL"
+                },
+                {
+                    "winner": "Dulce MANUEL"
+                }
+            ],
+            [
+                {
+                    "country": "ANG",
+                    "name": "Paula GASPAR"
+                },
+                {
+                    "country": "ANG",
+                    "name": "Dulce MANUEL"
+                },
+                {
+                    "winner": "Paula GASPAR"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Paula GASPAR",
+            "Maribela CARLOS"
+        ]
+    },
+    "POOL B": {
+        "round 1-1": [],
+        "final_winners": [
+            "Rosa LUAMBA"
+        ]
+    },
+    "REPECHAGE": {
+        "round 1-1": [
+            [
+                {
+                    "country": "ANG",
+                    "name": "Maribela CARLOS"
+                },
+                {
+                    "country": "ANG",
+                    "name": "Catarina PEDRO"
+                },
+                {
+                    "winner": "Catarina PEDRO"
+                }
+            ],
+            [
+                {
+                    "country": "ANG",
+                    "name": "Catarina PEDRO"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Catarina PEDRO"
+        ]
+    },
+    "FINALS": {
+        "round 1-1": [],
+        "final_winners": [
+            "Rosa LUAMBA"
+        ]
+    }
+}

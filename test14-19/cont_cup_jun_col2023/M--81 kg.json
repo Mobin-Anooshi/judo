@@ -1,0 +1,244 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "PAR",
+                    "name": "Diego NOGUERA"
+                },
+                {
+                    "winner": "Diego NOGUERA"
+                }
+            ],
+            []
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "PAR",
+                    "name": "Diego NOGUERA"
+                }
+            ]
+        ]
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "COL",
+                    "name": "Lucas GUERRERO VARGAS"
+                },
+                {
+                    "winner": "Lucas GUERRERO VARGAS"
+                }
+            ],
+            [
+                {
+                    "country": "COL",
+                    "name": "John PEREZ RUIZ"
+                },
+                {
+                    "winner": "John PEREZ RUIZ"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "COL",
+                    "name": "Lucas GUERRERO VARGAS"
+                },
+                {
+                    "country": "COL",
+                    "name": "John PEREZ RUIZ"
+                }
+            ],
+            [
+                {
+                    "country": "COL",
+                    "name": "John PEREZ RUIZ"
+                }
+            ]
+        ]
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "MEX",
+                    "name": "Jose RAMIREZ"
+                },
+                {
+                    "winner": "Jose RAMIREZ"
+                }
+            ],
+            []
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "MEX",
+                    "name": "Jose RAMIREZ"
+                }
+            ]
+        ]
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "VEN",
+                    "name": "Luis PARICHE"
+                },
+                {
+                    "winner": "Luis PARICHE"
+                }
+            ],
+            [
+                {
+                    "country": "COL",
+                    "name": "Jhon FONSECA MUNOZ"
+                },
+                {
+                    "winner": "Jhon FONSECA MUNOZ"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "VEN",
+                    "name": "Luis PARICHE"
+                },
+                {
+                    "country": "COL",
+                    "name": "Jhon FONSECA MUNOZ"
+                }
+            ],
+            [
+                {
+                    "country": "VEN",
+                    "name": "Luis PARICHE"
+                }
+            ]
+        ]
+    },
+    "REPECHAGE": {
+        "round 1-4": [
+            [],
+            [
+                {
+                    "country": "COL",
+                    "name": "Lucas GUERRERO VARGAS"
+                },
+                {
+                    "winner": "Lucas GUERRERO VARGAS"
+                }
+            ],
+            [],
+            [
+                {
+                    "country": "COL",
+                    "name": "Jhon FONSECA MUNOZ"
+                },
+                {
+                    "winner": "Jhon FONSECA MUNOZ"
+                }
+            ]
+        ],
+        "round 1-2": [
+            [
+                {
+                    "country": "COL",
+                    "name": "Lucas GUERRERO VARGAS"
+                }
+            ],
+            [
+                {
+                    "country": "COL",
+                    "name": "Jhon FONSECA MUNOZ"
+                }
+            ],
+            [
+                {
+                    "country": "COL",
+                    "name": "Lucas GUERRERO VARGAS"
+                },
+                {
+                    "country": "MEX",
+                    "name": "Jose RAMIREZ"
+                }
+            ],
+            [
+                {
+                    "country": "COL",
+                    "name": "Jhon FONSECA MUNOZ"
+                },
+                {
+                    "country": "PAR",
+                    "name": "Diego NOGUERA"
+                }
+            ],
+            [
+                {
+                    "country": "MEX",
+                    "name": "Jose RAMIREZ"
+                }
+            ],
+            [
+                {
+                    "country": "PAR",
+                    "name": "Diego NOGUERA"
+                }
+            ]
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "PAR",
+                    "name": "Diego NOGUERA"
+                },
+                {
+                    "country": "COL",
+                    "name": "John PEREZ RUIZ"
+                },
+                {
+                    "winner": "John PEREZ RUIZ"
+                }
+            ],
+            [
+                {
+                    "country": "MEX",
+                    "name": "Jose RAMIREZ"
+                },
+                {
+                    "country": "VEN",
+                    "name": "Luis PARICHE"
+                },
+                {
+                    "winner": "Luis PARICHE"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "COL",
+                    "name": "John PEREZ RUIZ"
+                },
+                {
+                    "country": "VEN",
+                    "name": "Luis PARICHE"
+                }
+            ],
+            [
+                {
+                    "country": "COL",
+                    "name": "John PEREZ RUIZ"
+                }
+            ]
+        ]
+    }
+}

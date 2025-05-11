@@ -1,0 +1,221 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "HUN",
+                    "name": "Szabina SZELECZKI"
+                },
+                {
+                    "winner": "Szabina SZELECZKI"
+                }
+            ],
+            []
+        ],
+        "round 1-1": [],
+        "final_winner": "Szabina SZELECZKI"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "UKR",
+                    "name": "Sofiia SPYTSYNA"
+                },
+                {
+                    "winner": "Sofiia SPYTSYNA"
+                }
+            ],
+            [
+                {
+                    "country": "FRA",
+                    "name": "Imane LIMA"
+                },
+                {
+                    "winner": "Imane LIMA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "UKR",
+                    "name": "Sofiia SPYTSYNA"
+                },
+                {
+                    "country": "FRA",
+                    "name": "Imane LIMA"
+                }
+            ]
+        ],
+        "final_winner": "Imane LIMA"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "UKR",
+                    "name": "Marharyta MIROSHNICHENKO"
+                },
+                {
+                    "winner": "Marharyta MIROSHNICHENKO"
+                }
+            ],
+            []
+        ],
+        "round 1-1": [],
+        "final_winner": "Marharyta MIROSHNICHENKO"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "UKR",
+                    "name": "Anastasiia SUPERSON"
+                },
+                {
+                    "winner": "Anastasiia SUPERSON"
+                }
+            ],
+            [
+                {
+                    "country": "FRA",
+                    "name": "Loryn BELLANCE"
+                },
+                {
+                    "winner": "Loryn BELLANCE"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "UKR",
+                    "name": "Anastasiia SUPERSON"
+                },
+                {
+                    "country": "FRA",
+                    "name": "Loryn BELLANCE"
+                }
+            ]
+        ],
+        "final_winner": "Anastasiia SUPERSON"
+    },
+    "REPECHAGE": {
+        "round 1-4": [
+            [],
+            [
+                {
+                    "country": "UKR",
+                    "name": "Sofiia SPYTSYNA"
+                },
+                {
+                    "winner": "Sofiia SPYTSYNA"
+                }
+            ],
+            [],
+            [
+                {
+                    "country": "FRA",
+                    "name": "Loryn BELLANCE"
+                },
+                {
+                    "winner": "Loryn BELLANCE"
+                }
+            ]
+        ],
+        "round 1-2": [
+            [
+                {
+                    "country": "UKR",
+                    "name": "Sofiia SPYTSYNA"
+                }
+            ],
+            [
+                {
+                    "country": "FRA",
+                    "name": "Loryn BELLANCE"
+                }
+            ],
+            [
+                {
+                    "country": "UKR",
+                    "name": "Sofiia SPYTSYNA"
+                },
+                {
+                    "country": "UKR",
+                    "name": "Marharyta MIROSHNICHENKO"
+                },
+                {
+                    "winner": "Sofiia SPYTSYNA"
+                }
+            ],
+            [
+                {
+                    "country": "FRA",
+                    "name": "Loryn BELLANCE"
+                },
+                {
+                    "country": "FRA",
+                    "name": "Imane LIMA"
+                },
+                {
+                    "winner": "Imane LIMA"
+                }
+            ],
+            [
+                {
+                    "country": "FRA",
+                    "name": "Imane LIMA"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Loryn BELLANCE",
+            "Sofiia SPYTSYNA"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "HUN",
+                    "name": "Szabina SZELECZKI"
+                },
+                {
+                    "country": "FRA",
+                    "name": "Imane LIMA"
+                },
+                {
+                    "winner": "Szabina SZELECZKI"
+                }
+            ],
+            [
+                {
+                    "country": "UKR",
+                    "name": "Marharyta MIROSHNICHENKO"
+                },
+                {
+                    "country": "UKR",
+                    "name": "Anastasiia SUPERSON"
+                },
+                {
+                    "winner": "Anastasiia SUPERSON"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "HUN",
+                    "name": "Szabina SZELECZKI"
+                },
+                {
+                    "country": "UKR",
+                    "name": "Anastasiia SUPERSON"
+                }
+            ]
+        ],
+        "final_winner": "Szabina SZELECZKI"
+    }
+}

@@ -1,0 +1,141 @@
+{
+    "POOL A": {
+        "round 1-1": [],
+        "final_winner": "Djamila SILVA"
+    },
+    "POOL B": {
+        "round 1-1": [
+            [
+                {
+                    "country": "MOZ",
+                    "name": "Jacira FERREIRA"
+                },
+                {
+                    "country": "SEN",
+                    "name": "Diodio SONKO"
+                }
+            ]
+        ],
+        "final_winner": "Diodio SONKO"
+    },
+    "POOL C": {
+        "round 1-1": [],
+        "final_winner": "Marie Celine BABA MATIA"
+    },
+    "POOL D": {
+        "round 1-1": [
+            [
+                {
+                    "country": "CIV",
+                    "name": "Salimata FOFANA"
+                },
+                {
+                    "country": "SEN",
+                    "name": "Soukaina COLY"
+                }
+            ]
+        ],
+        "final_winner": "Salimata FOFANA"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "MOZ",
+                    "name": "Jacira FERREIRA"
+                }
+            ],
+            [
+                {
+                    "country": "SEN",
+                    "name": "Soukaina COLY"
+                }
+            ],
+            [
+                {
+                    "country": "MOZ",
+                    "name": "Jacira FERREIRA"
+                },
+                {
+                    "country": "CIV",
+                    "name": "Salimata FOFANA"
+                },
+                {
+                    "winner": "Salimata FOFANA"
+                }
+            ],
+            [
+                {
+                    "country": "SEN",
+                    "name": "Soukaina COLY"
+                },
+                {
+                    "country": "SEN",
+                    "name": "Diodio SONKO"
+                },
+                {
+                    "winner": "Diodio SONKO"
+                }
+            ],
+            [
+                {
+                    "country": "CIV",
+                    "name": "Salimata FOFANA"
+                }
+            ],
+            [
+                {
+                    "country": "SEN",
+                    "name": "Diodio SONKO"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Salimata FOFANA",
+            "Diodio SONKO"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CPV",
+                    "name": "Djamila SILVA"
+                },
+                {
+                    "country": "SEN",
+                    "name": "Diodio SONKO"
+                },
+                {
+                    "winner": "Djamila SILVA"
+                }
+            ],
+            [
+                {
+                    "country": "CMR",
+                    "name": "Marie Celine BABA MATIA"
+                },
+                {
+                    "country": "CIV",
+                    "name": "Salimata FOFANA"
+                },
+                {
+                    "winner": "Marie Celine BABA MATIA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "CPV",
+                    "name": "Djamila SILVA"
+                },
+                {
+                    "country": "CMR",
+                    "name": "Marie Celine BABA MATIA"
+                }
+            ]
+        ],
+        "final_winner": "Marie Celine BABA MATIA"
+    }
+}

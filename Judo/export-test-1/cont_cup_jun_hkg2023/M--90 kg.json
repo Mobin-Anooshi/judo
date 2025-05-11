@@ -1,0 +1,153 @@
+{
+    "POOL A": {
+        "round 1-1": [],
+        "final_winner": "Battulga ALTANGEREL"
+    },
+    "POOL B": {
+        "round 1-1": [
+            [
+                {
+                    "country": "KOR",
+                    "name": "Jaemin CHOI"
+                },
+                {
+                    "country": "AUS",
+                    "name": "Byron MCINTOSH"
+                }
+            ]
+        ],
+        "final_winner": "Jaemin CHOI"
+    },
+    "POOL C": {
+        "round 1-1": [
+            [
+                {
+                    "country": "MAS",
+                    "name": "Muhamad Farihin Nazren AZMAN"
+                },
+                {
+                    "country": "HKG",
+                    "name": "Ka Chun Cris TSOI"
+                }
+            ]
+        ],
+        "final_winner": "Muhamad Farihin Nazren AZMAN"
+    },
+    "POOL D": {
+        "round 1-1": [
+            [
+                {
+                    "country": "AUS",
+                    "name": "Ilan CLOETE"
+                },
+                {
+                    "country": "KSA",
+                    "name": "Saud ALHAJRI"
+                }
+            ]
+        ],
+        "final_winner": "Ilan CLOETE"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "AUS",
+                    "name": "Byron MCINTOSH"
+                }
+            ],
+            [
+                {
+                    "country": "HKG",
+                    "name": "Ka Chun Cris TSOI"
+                },
+                {
+                    "country": "KSA",
+                    "name": "Saud ALHAJRI"
+                },
+                {
+                    "winner": "Saud ALHAJRI"
+                }
+            ],
+            [
+                {
+                    "country": "AUS",
+                    "name": "Byron MCINTOSH"
+                },
+                {
+                    "country": "MAS",
+                    "name": "Muhamad Farihin Nazren AZMAN"
+                },
+                {
+                    "winner": "Byron MCINTOSH"
+                }
+            ],
+            [
+                {
+                    "country": "KSA",
+                    "name": "Saud ALHAJRI"
+                },
+                {
+                    "country": "MGL",
+                    "name": "Battulga ALTANGEREL"
+                },
+                {
+                    "winner": "Battulga ALTANGEREL"
+                }
+            ],
+            [
+                {
+                    "country": "MGL",
+                    "name": "Battulga ALTANGEREL"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Saud ALHAJRI",
+            "Byron MCINTOSH"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "MGL",
+                    "name": "Battulga ALTANGEREL"
+                },
+                {
+                    "country": "KOR",
+                    "name": "Jaemin CHOI"
+                },
+                {
+                    "winner": "Jaemin CHOI"
+                }
+            ],
+            [
+                {
+                    "country": "MAS",
+                    "name": "Muhamad Farihin Nazren AZMAN"
+                },
+                {
+                    "country": "AUS",
+                    "name": "Ilan CLOETE"
+                },
+                {
+                    "winner": "Ilan CLOETE"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "KOR",
+                    "name": "Jaemin CHOI"
+                },
+                {
+                    "country": "AUS",
+                    "name": "Ilan CLOETE"
+                }
+            ]
+        ],
+        "final_winner": "Jaemin CHOI"
+    }
+}

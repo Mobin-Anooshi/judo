@@ -1,0 +1,285 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CHI",
+                    "name": "Mary Dee VARGAS LEY"
+                },
+                {
+                    "winner": "Mary Dee VARGAS LEY"
+                }
+            ],
+            [
+                {
+                    "country": "ECU",
+                    "name": "Erika JARA"
+                },
+                {
+                    "country": "COL",
+                    "name": "Daniela RESTREPO"
+                },
+                {
+                    "winner": "Daniela RESTREPO"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "CHI",
+                    "name": "Mary Dee VARGAS LEY"
+                },
+                {
+                    "country": "COL",
+                    "name": "Daniela RESTREPO"
+                }
+            ]
+        ],
+        "final_winner": "Mary Dee VARGAS LEY"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ARG",
+                    "name": "Keisy PERAFAN"
+                },
+                {
+                    "country": "USA",
+                    "name": "Anne SUZUKI"
+                },
+                {
+                    "winner": "Keisy PERAFAN"
+                }
+            ],
+            [
+                {
+                    "country": "COL",
+                    "name": "Erika LASSO"
+                },
+                {
+                    "country": "GUA",
+                    "name": "Jacqueline SOLIS"
+                },
+                {
+                    "winner": "Jacqueline SOLIS"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "ARG",
+                    "name": "Keisy PERAFAN"
+                },
+                {
+                    "country": "GUA",
+                    "name": "Jacqueline SOLIS"
+                }
+            ]
+        ],
+        "final_winner": "Keisy PERAFAN"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Amanda LIMA"
+                },
+                {
+                    "country": "COL",
+                    "name": "Maria Camila BERMUDEZ"
+                },
+                {
+                    "winner": "Amanda LIMA"
+                }
+            ],
+            [
+                {
+                    "country": "DOM",
+                    "name": "Estefania SORIANO"
+                },
+                {
+                    "country": "CUB",
+                    "name": "Zamarit GREGORIO"
+                },
+                {
+                    "winner": "Zamarit GREGORIO"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Amanda LIMA"
+                },
+                {
+                    "country": "CUB",
+                    "name": "Zamarit GREGORIO"
+                }
+            ]
+        ],
+        "final_winner": "Amanda LIMA"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Natasha FERREIRA"
+                },
+                {
+                    "country": "ECU",
+                    "name": "Luz PENA"
+                },
+                {
+                    "winner": "Luz PENA"
+                }
+            ],
+            [
+                {
+                    "country": "VEN",
+                    "name": "Maria GIMENEZ"
+                },
+                {
+                    "country": "PER",
+                    "name": "Brillith GAMARRA"
+                },
+                {
+                    "winner": "Brillith GAMARRA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "ECU",
+                    "name": "Luz PENA"
+                },
+                {
+                    "country": "PER",
+                    "name": "Brillith GAMARRA"
+                }
+            ]
+        ],
+        "final_winner": "Brillith GAMARRA"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "COL",
+                    "name": "Daniela RESTREPO"
+                },
+                {
+                    "country": "GUA",
+                    "name": "Jacqueline SOLIS"
+                },
+                {
+                    "winner": "Jacqueline SOLIS"
+                }
+            ],
+            [
+                {
+                    "country": "CUB",
+                    "name": "Zamarit GREGORIO"
+                },
+                {
+                    "country": "ECU",
+                    "name": "Luz PENA"
+                },
+                {
+                    "winner": "Zamarit GREGORIO"
+                }
+            ],
+            [
+                {
+                    "country": "GUA",
+                    "name": "Jacqueline SOLIS"
+                },
+                {
+                    "country": "PER",
+                    "name": "Brillith GAMARRA"
+                },
+                {
+                    "winner": "Brillith GAMARRA"
+                }
+            ],
+            [
+                {
+                    "country": "CUB",
+                    "name": "Zamarit GREGORIO"
+                },
+                {
+                    "country": "ARG",
+                    "name": "Keisy PERAFAN"
+                },
+                {
+                    "winner": "Zamarit GREGORIO"
+                }
+            ],
+            [
+                {
+                    "country": "PER",
+                    "name": "Brillith GAMARRA"
+                }
+            ],
+            [
+                {
+                    "country": "CUB",
+                    "name": "Zamarit GREGORIO"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Brillith GAMARRA",
+            "Zamarit GREGORIO"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CHI",
+                    "name": "Mary Dee VARGAS LEY"
+                },
+                {
+                    "country": "ARG",
+                    "name": "Keisy PERAFAN"
+                },
+                {
+                    "winner": "Mary Dee VARGAS LEY"
+                }
+            ],
+            [
+                {
+                    "country": "BRA",
+                    "name": "Amanda LIMA"
+                },
+                {
+                    "country": "PER",
+                    "name": "Brillith GAMARRA"
+                },
+                {
+                    "winner": "Amanda LIMA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "CHI",
+                    "name": "Mary Dee VARGAS LEY"
+                },
+                {
+                    "country": "BRA",
+                    "name": "Amanda LIMA"
+                }
+            ]
+        ],
+        "final_winner": "Amanda LIMA"
+    }
+}

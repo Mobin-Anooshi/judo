@@ -1,0 +1,285 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "KAZ",
+                    "name": "Yermukhan YESTAY"
+                },
+                {
+                    "country": "UZB",
+                    "name": "Shokhrukh MAMARASULOV"
+                },
+                {
+                    "winner": "Yermukhan YESTAY"
+                }
+            ],
+            [
+                {
+                    "country": "TJK",
+                    "name": "Davlatdzhon NAZRIEV"
+                },
+                {
+                    "country": "UZB",
+                    "name": "Temurbek KHAJIEV"
+                },
+                {
+                    "winner": "Temurbek KHAJIEV"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "KAZ",
+                    "name": "Yermukhan YESTAY"
+                },
+                {
+                    "country": "UZB",
+                    "name": "Temurbek KHAJIEV"
+                }
+            ]
+        ],
+        "final_winner": "Temurbek KHAJIEV"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "KGZ",
+                    "name": "Syimyk ZHAPAROV"
+                },
+                {
+                    "country": "UZB",
+                    "name": "Ozod ORINBAYEV"
+                },
+                {
+                    "winner": "Ozod ORINBAYEV"
+                }
+            ],
+            [
+                {
+                    "country": "KAZ",
+                    "name": "Zhanybek ZHAXYZHOL"
+                },
+                {
+                    "country": "IRI",
+                    "name": "REZA AZIZI"
+                },
+                {
+                    "winner": "REZA AZIZI"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "UZB",
+                    "name": "Ozod ORINBAYEV"
+                },
+                {
+                    "country": "IRI",
+                    "name": "REZA AZIZI"
+                }
+            ]
+        ],
+        "final_winner": "Ozod ORINBAYEV"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "IRI",
+                    "name": "Mohammadmahdi RASTGAR"
+                },
+                {
+                    "country": "UZB",
+                    "name": "Islombek RAVSHANKULOV"
+                },
+                {
+                    "winner": "Mohammadmahdi RASTGAR"
+                }
+            ],
+            [
+                {
+                    "country": "KAZ",
+                    "name": "Zhurkamyrza SHUKURBEKOV"
+                },
+                {
+                    "winner": "Zhurkamyrza SHUKURBEKOV"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "IRI",
+                    "name": "Mohammadmahdi RASTGAR"
+                },
+                {
+                    "country": "KAZ",
+                    "name": "Zhurkamyrza SHUKURBEKOV"
+                }
+            ]
+        ],
+        "final_winner": "Zhurkamyrza SHUKURBEKOV"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "KAZ",
+                    "name": "Mukhambet ZULKHARNAYEV"
+                },
+                {
+                    "country": "UZB",
+                    "name": "Mukhiddin KOZOKBOEV"
+                },
+                {
+                    "winner": "Mukhambet ZULKHARNAYEV"
+                }
+            ],
+            [
+                {
+                    "country": "TJK",
+                    "name": "Davlatkhudo ISMOILOV"
+                },
+                {
+                    "country": "UZB",
+                    "name": "Temirlan IBRAEV"
+                },
+                {
+                    "winner": "Temirlan IBRAEV"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "KAZ",
+                    "name": "Mukhambet ZULKHARNAYEV"
+                },
+                {
+                    "country": "UZB",
+                    "name": "Temirlan IBRAEV"
+                }
+            ]
+        ],
+        "final_winner": "Mukhambet ZULKHARNAYEV"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "KAZ",
+                    "name": "Yermukhan YESTAY"
+                },
+                {
+                    "country": "IRI",
+                    "name": "REZA AZIZI"
+                },
+                {
+                    "winner": "REZA AZIZI"
+                }
+            ],
+            [
+                {
+                    "country": "IRI",
+                    "name": "Mohammadmahdi RASTGAR"
+                },
+                {
+                    "country": "UZB",
+                    "name": "Temirlan IBRAEV"
+                },
+                {
+                    "winner": "Mohammadmahdi RASTGAR"
+                }
+            ],
+            [
+                {
+                    "country": "IRI",
+                    "name": "REZA AZIZI"
+                },
+                {
+                    "country": "KAZ",
+                    "name": "Zhurkamyrza SHUKURBEKOV"
+                },
+                {
+                    "winner": "REZA AZIZI"
+                }
+            ],
+            [
+                {
+                    "country": "IRI",
+                    "name": "Mohammadmahdi RASTGAR"
+                },
+                {
+                    "country": "UZB",
+                    "name": "Temurbek KHAJIEV"
+                },
+                {
+                    "winner": "Temurbek KHAJIEV"
+                }
+            ],
+            [
+                {
+                    "country": "IRI",
+                    "name": "REZA AZIZI"
+                }
+            ],
+            [
+                {
+                    "country": "UZB",
+                    "name": "Temurbek KHAJIEV"
+                }
+            ]
+        ],
+        "final_winners": [
+            "REZA AZIZI",
+            "Temurbek KHAJIEV"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "UZB",
+                    "name": "Temurbek KHAJIEV"
+                },
+                {
+                    "country": "UZB",
+                    "name": "Ozod ORINBAYEV"
+                },
+                {
+                    "winner": "Ozod ORINBAYEV"
+                }
+            ],
+            [
+                {
+                    "country": "KAZ",
+                    "name": "Zhurkamyrza SHUKURBEKOV"
+                },
+                {
+                    "country": "KAZ",
+                    "name": "Mukhambet ZULKHARNAYEV"
+                },
+                {
+                    "winner": "Mukhambet ZULKHARNAYEV"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "UZB",
+                    "name": "Ozod ORINBAYEV"
+                },
+                {
+                    "country": "KAZ",
+                    "name": "Mukhambet ZULKHARNAYEV"
+                }
+            ]
+        ],
+        "final_winner": "Ozod ORINBAYEV"
+    }
+}

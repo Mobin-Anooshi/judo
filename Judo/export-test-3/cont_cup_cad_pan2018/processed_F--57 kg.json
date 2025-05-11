@@ -1,0 +1,87 @@
+{
+    "POOL A": {
+        "round 1-3": [
+            [
+                {
+                    "country": "PUR",
+                    "name": "Keliz Lee RIVERA"
+                },
+                {
+                    "country": "ECU",
+                    "name": "Karla VALENCIA"
+                },
+                {
+                    "winner": "Keliz Lee RIVERA"
+                }
+            ],
+            [
+                {
+                    "country": "PUR",
+                    "name": "Keliz Lee RIVERA"
+                },
+                {
+                    "country": "PAN",
+                    "name": "Eneida RODRIGUEZ"
+                },
+                {
+                    "winner": "Eneida RODRIGUEZ"
+                }
+            ],
+            [
+                {
+                    "country": "ECU",
+                    "name": "Karla VALENCIA"
+                },
+                {
+                    "country": "PAN",
+                    "name": "Eneida RODRIGUEZ"
+                },
+                {
+                    "winner": "Karla VALENCIA"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Karla VALENCIA",
+            "Keliz Lee RIVERA"
+        ]
+    },
+    "POOL B": {
+        "round 1-1": [],
+        "final_winners": [
+            "Nikol PENCUE"
+        ]
+    },
+    "REPECHAGE": {
+        "round 1-1": [
+            [
+                {
+                    "country": "PUR",
+                    "name": "Keliz Lee RIVERA"
+                },
+                {
+                    "country": "GUA",
+                    "name": "Gelga CHOC MENDEZ"
+                },
+                {
+                    "winner": "Keliz Lee RIVERA"
+                }
+            ],
+            [
+                {
+                    "country": "PUR",
+                    "name": "Keliz Lee RIVERA"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Keliz Lee RIVERA"
+        ]
+    },
+    "FINALS": {
+        "round 1-1": [],
+        "final_winners": [
+            "Karla VALENCIA"
+        ]
+    }
+}

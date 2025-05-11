@@ -1,0 +1,159 @@
+{
+    "POOL A": {
+        "round 1-1": [],
+        "final_winner": "Gulnoza MATNIYAZOVA"
+    },
+    "POOL B": {
+        "round 1-1": [
+            [
+                {
+                    "country": "UZB",
+                    "name": "Vasila ALIBOEVA"
+                },
+                {
+                    "country": "KAZ",
+                    "name": "Aelita CHSHERBAKOVA"
+                }
+            ]
+        ],
+        "final_winner": "Aelita CHSHERBAKOVA"
+    },
+    "POOL C": {
+        "round 1-1": [
+            [
+                {
+                    "country": "SLO",
+                    "name": "Anka POGACNIK"
+                },
+                {
+                    "country": "UZB",
+                    "name": "Sangina ISMATULLAEVA"
+                }
+            ]
+        ],
+        "final_winner": "Anka POGACNIK"
+    },
+    "POOL D": {
+        "round 1-1": [
+            [
+                {
+                    "country": "RUS",
+                    "name": "Iana DIBRINA"
+                },
+                {
+                    "country": "UZB",
+                    "name": "Umida SAIDOVA"
+                }
+            ]
+        ],
+        "final_winner": "Iana DIBRINA"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "UZB",
+                    "name": "Vasila ALIBOEVA"
+                }
+            ],
+            [
+                {
+                    "country": "UZB",
+                    "name": "Sangina ISMATULLAEVA"
+                },
+                {
+                    "country": "UZB",
+                    "name": "Umida SAIDOVA"
+                },
+                {
+                    "winner": "Umida SAIDOVA"
+                }
+            ],
+            [
+                {
+                    "country": "UZB",
+                    "name": "Vasila ALIBOEVA"
+                },
+                {
+                    "country": "RUS",
+                    "name": "Iana DIBRINA"
+                },
+                {
+                    "winner": "Iana DIBRINA"
+                }
+            ],
+            [
+                {
+                    "country": "UZB",
+                    "name": "Umida SAIDOVA"
+                },
+                {
+                    "country": "KAZ",
+                    "name": "Aelita CHSHERBAKOVA"
+                },
+                {
+                    "winner": "Aelita CHSHERBAKOVA"
+                }
+            ],
+            [
+                {
+                    "country": "RUS",
+                    "name": "Iana DIBRINA"
+                }
+            ],
+            [
+                {
+                    "country": "KAZ",
+                    "name": "Aelita CHSHERBAKOVA"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Iana DIBRINA",
+            "Aelita CHSHERBAKOVA"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "UZB",
+                    "name": "Gulnoza MATNIYAZOVA"
+                },
+                {
+                    "country": "KAZ",
+                    "name": "Aelita CHSHERBAKOVA"
+                },
+                {
+                    "winner": "Gulnoza MATNIYAZOVA"
+                }
+            ],
+            [
+                {
+                    "country": "SLO",
+                    "name": "Anka POGACNIK"
+                },
+                {
+                    "country": "RUS",
+                    "name": "Iana DIBRINA"
+                },
+                {
+                    "winner": "Anka POGACNIK"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "UZB",
+                    "name": "Gulnoza MATNIYAZOVA"
+                },
+                {
+                    "country": "SLO",
+                    "name": "Anka POGACNIK"
+                }
+            ]
+        ],
+        "final_winner": "Gulnoza MATNIYAZOVA"
+    }
+}

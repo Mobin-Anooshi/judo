@@ -1,0 +1,68 @@
+{
+    "ROUND 1": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ARG",
+                    "name": "Mariano COTO BERSIER"
+                },
+                {
+                    "country": "PAR",
+                    "name": "Angel Antonio GINI"
+                },
+                {
+                    "winner": "Mariano COTO BERSIER"
+                }
+            ],
+            [
+                {
+                    "country": "CHI",
+                    "name": "Daniel ARANCIBIA"
+                },
+                {
+                    "country": "ARG",
+                    "name": "Jeremias FERNANDEZ"
+                },
+                {
+                    "winner": "Jeremias FERNANDEZ"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Mariano COTO BERSIER",
+            "Jeremias FERNANDEZ"
+        ]
+    },
+    "REPECHAGE": {
+        "round 1-1": [
+            [
+                {
+                    "country": "PAR",
+                    "name": "Angel Antonio GINI"
+                },
+                {
+                    "country": "CHI",
+                    "name": "Daniel ARANCIBIA"
+                },
+                {
+                    "winner": "Daniel ARANCIBIA"
+                }
+            ],
+            [
+                {
+                    "country": "CHI",
+                    "name": "Daniel ARANCIBIA"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Daniel ARANCIBIA"
+        ]
+    },
+    "FINALS": {
+        "round 1-1": [],
+        "final_winners": [
+            "Mariano COTO BERSIER"
+        ]
+    }
+}

@@ -1,0 +1,265 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CAN",
+                    "name": "Antoine BOUCHARD"
+                },
+                {
+                    "winner": "Antoine BOUCHARD"
+                }
+            ],
+            [
+                {
+                    "country": "USA",
+                    "name": "Liam WRIGHT"
+                },
+                {
+                    "country": "CRC",
+                    "name": "Julian SANCHO"
+                },
+                {
+                    "winner": "Julian SANCHO"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "CAN",
+                    "name": "Antoine BOUCHARD"
+                },
+                {
+                    "country": "CRC",
+                    "name": "Julian SANCHO"
+                }
+            ]
+        ],
+        "final_winner": "Antoine BOUCHARD"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "MEX",
+                    "name": "Gilberto CARDOSO"
+                },
+                {
+                    "winner": "Gilberto CARDOSO"
+                }
+            ],
+            [
+                {
+                    "country": "CAN",
+                    "name": "Constantin GABUN"
+                },
+                {
+                    "winner": "Constantin GABUN"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "MEX",
+                    "name": "Gilberto CARDOSO"
+                },
+                {
+                    "country": "CAN",
+                    "name": "Constantin GABUN"
+                }
+            ]
+        ],
+        "final_winner": "Gilberto CARDOSO"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Eduardo BARBOSA"
+                },
+                {
+                    "winner": "Eduardo BARBOSA"
+                }
+            ],
+            [
+                {
+                    "country": "USA",
+                    "name": "Alexander TURNER"
+                },
+                {
+                    "country": "ARG",
+                    "name": "Ian KUKITA"
+                },
+                {
+                    "winner": "Alexander TURNER"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Eduardo BARBOSA"
+                },
+                {
+                    "country": "USA",
+                    "name": "Alexander TURNER"
+                }
+            ]
+        ],
+        "final_winner": "Eduardo BARBOSA"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "PER",
+                    "name": "Alonso WONG"
+                },
+                {
+                    "winner": "Alonso WONG"
+                }
+            ],
+            [
+                {
+                    "country": "MEX",
+                    "name": "Eduardo ARAUJO"
+                },
+                {
+                    "winner": "Eduardo ARAUJO"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "PER",
+                    "name": "Alonso WONG"
+                },
+                {
+                    "country": "MEX",
+                    "name": "Eduardo ARAUJO"
+                }
+            ]
+        ],
+        "final_winner": "Alonso WONG"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CRC",
+                    "name": "Julian SANCHO"
+                },
+                {
+                    "country": "CAN",
+                    "name": "Constantin GABUN"
+                },
+                {
+                    "winner": "Constantin GABUN"
+                }
+            ],
+            [
+                {
+                    "country": "USA",
+                    "name": "Alexander TURNER"
+                },
+                {
+                    "country": "MEX",
+                    "name": "Eduardo ARAUJO"
+                },
+                {
+                    "winner": "Alexander TURNER"
+                }
+            ],
+            [
+                {
+                    "country": "CAN",
+                    "name": "Constantin GABUN"
+                },
+                {
+                    "country": "PER",
+                    "name": "Alonso WONG"
+                },
+                {
+                    "winner": "Alonso WONG"
+                }
+            ],
+            [
+                {
+                    "country": "USA",
+                    "name": "Alexander TURNER"
+                },
+                {
+                    "country": "MEX",
+                    "name": "Gilberto CARDOSO"
+                },
+                {
+                    "winner": "Gilberto CARDOSO"
+                }
+            ],
+            [
+                {
+                    "country": "PER",
+                    "name": "Alonso WONG"
+                }
+            ],
+            [
+                {
+                    "country": "MEX",
+                    "name": "Gilberto CARDOSO"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Alonso WONG",
+            "Gilberto CARDOSO"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CAN",
+                    "name": "Antoine BOUCHARD"
+                },
+                {
+                    "country": "MEX",
+                    "name": "Gilberto CARDOSO"
+                },
+                {
+                    "winner": "Antoine BOUCHARD"
+                }
+            ],
+            [
+                {
+                    "country": "BRA",
+                    "name": "Eduardo BARBOSA"
+                },
+                {
+                    "country": "PER",
+                    "name": "Alonso WONG"
+                },
+                {
+                    "winner": "Eduardo BARBOSA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "CAN",
+                    "name": "Antoine BOUCHARD"
+                },
+                {
+                    "country": "BRA",
+                    "name": "Eduardo BARBOSA"
+                }
+            ]
+        ],
+        "final_winner": "Antoine BOUCHARD"
+    }
+}

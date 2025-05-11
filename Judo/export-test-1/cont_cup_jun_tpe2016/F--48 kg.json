@@ -1,0 +1,199 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CHN",
+                    "name": "Zhao YAO"
+                },
+                {
+                    "winner": "Zhao YAO"
+                }
+            ],
+            []
+        ],
+        "round 1-1": [],
+        "final_winner": "Zhao YAO"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "MAC",
+                    "name": "Ian ian CHAN"
+                },
+                {
+                    "winner": "Ian ian CHAN"
+                }
+            ],
+            [
+                {
+                    "country": "TPE",
+                    "name": "Shin-yi CHEN"
+                },
+                {
+                    "winner": "Shin-yi CHEN"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "MAC",
+                    "name": "Ian ian CHAN"
+                },
+                {
+                    "country": "TPE",
+                    "name": "Shin-yi CHEN"
+                }
+            ]
+        ],
+        "final_winner": "Shin-yi CHEN"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [],
+            [
+                {
+                    "country": "CHN",
+                    "name": "Jin Cai LIAO"
+                },
+                {
+                    "winner": "Jin Cai LIAO"
+                }
+            ]
+        ],
+        "round 1-1": [],
+        "final_winner": "Jin Cai LIAO"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "MAC",
+                    "name": "Ka cheng WONG"
+                },
+                {
+                    "winner": "Ka cheng WONG"
+                }
+            ],
+            [
+                {
+                    "country": "JPN",
+                    "name": "Aika MIZOGUCHI"
+                },
+                {
+                    "winner": "Aika MIZOGUCHI"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "MAC",
+                    "name": "Ka cheng WONG"
+                },
+                {
+                    "country": "JPN",
+                    "name": "Aika MIZOGUCHI"
+                }
+            ]
+        ],
+        "final_winner": "Aika MIZOGUCHI"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "MAC",
+                    "name": "Ian ian CHAN"
+                }
+            ],
+            [
+                {
+                    "country": "MAC",
+                    "name": "Ka cheng WONG"
+                }
+            ],
+            [
+                {
+                    "country": "MAC",
+                    "name": "Ian ian CHAN"
+                },
+                {
+                    "country": "CHN",
+                    "name": "Jin Cai LIAO"
+                },
+                {
+                    "winner": "Jin Cai LIAO"
+                }
+            ],
+            [
+                {
+                    "country": "MAC",
+                    "name": "Ka cheng WONG"
+                },
+                {
+                    "country": "CHN",
+                    "name": "Zhao YAO"
+                },
+                {
+                    "winner": "Ka cheng WONG"
+                }
+            ],
+            [
+                {
+                    "country": "CHN",
+                    "name": "Jin Cai LIAO"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Ka cheng WONG",
+            "Jin Cai LIAO"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CHN",
+                    "name": "Zhao YAO"
+                },
+                {
+                    "country": "TPE",
+                    "name": "Shin-yi CHEN"
+                },
+                {
+                    "winner": "Shin-yi CHEN"
+                }
+            ],
+            [
+                {
+                    "country": "CHN",
+                    "name": "Jin Cai LIAO"
+                },
+                {
+                    "country": "JPN",
+                    "name": "Aika MIZOGUCHI"
+                },
+                {
+                    "winner": "Aika MIZOGUCHI"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "TPE",
+                    "name": "Shin-yi CHEN"
+                },
+                {
+                    "country": "JPN",
+                    "name": "Aika MIZOGUCHI"
+                }
+            ]
+        ],
+        "final_winner": "Aika MIZOGUCHI"
+    }
+}

@@ -1,0 +1,135 @@
+{
+    "POOL A": {
+        "round 1-1": [],
+        "final_winner": "Mariano COTO BERSIER"
+    },
+    "POOL B": {
+        "round 1-1": [
+            [
+                {
+                    "country": "GAM",
+                    "name": "Abdourahman CEESAY"
+                },
+                {
+                    "country": "HON",
+                    "name": "Axel GARCIA"
+                }
+            ]
+        ],
+        "final_winner": "Axel GARCIA"
+    },
+    "POOL C": {
+        "round 1-1": [],
+        "final_winner": "Remi FEUILLET"
+    },
+    "POOL D": {
+        "round 1-1": [
+            [
+                {
+                    "country": "COL",
+                    "name": "Daniel PAZ ALBARRACIN"
+                },
+                {
+                    "country": "BAH",
+                    "name": "Alexander STRACHAN"
+                }
+            ]
+        ],
+        "final_winner": "Daniel PAZ ALBARRACIN"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "GAM",
+                    "name": "Abdourahman CEESAY"
+                }
+            ],
+            [
+                {
+                    "country": "BAH",
+                    "name": "Alexander STRACHAN"
+                }
+            ],
+            [
+                {
+                    "country": "GAM",
+                    "name": "Abdourahman CEESAY"
+                },
+                {
+                    "country": "COL",
+                    "name": "Daniel PAZ ALBARRACIN"
+                },
+                {
+                    "winner": "Daniel PAZ ALBARRACIN"
+                }
+            ],
+            [
+                {
+                    "country": "BAH",
+                    "name": "Alexander STRACHAN"
+                },
+                {
+                    "country": "HON",
+                    "name": "Axel GARCIA"
+                },
+                {
+                    "winner": "Alexander STRACHAN"
+                }
+            ],
+            [
+                {
+                    "country": "COL",
+                    "name": "Daniel PAZ ALBARRACIN"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Alexander STRACHAN",
+            "Daniel PAZ ALBARRACIN"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ARG",
+                    "name": "Mariano COTO BERSIER"
+                },
+                {
+                    "country": "HON",
+                    "name": "Axel GARCIA"
+                },
+                {
+                    "winner": "Mariano COTO BERSIER"
+                }
+            ],
+            [
+                {
+                    "country": "MRI",
+                    "name": "Remi FEUILLET"
+                },
+                {
+                    "country": "COL",
+                    "name": "Daniel PAZ ALBARRACIN"
+                },
+                {
+                    "winner": "Remi FEUILLET"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "ARG",
+                    "name": "Mariano COTO BERSIER"
+                },
+                {
+                    "country": "MRI",
+                    "name": "Remi FEUILLET"
+                }
+            ]
+        ],
+        "final_winner": "Mariano COTO BERSIER"
+    }
+}

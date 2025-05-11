@@ -1,0 +1,159 @@
+{
+    "POOL A": {
+        "round 1-1": [],
+        "final_winner": "Coralie GODBOUT"
+    },
+    "POOL B": {
+        "round 1-1": [
+            [
+                {
+                    "country": "COL",
+                    "name": "Esteysy DIAZ"
+                },
+                {
+                    "country": "DOM",
+                    "name": "Laura Elisa DIAZ ALBURQUERQUE"
+                }
+            ]
+        ],
+        "final_winner": "Esteysy DIAZ"
+    },
+    "POOL C": {
+        "round 1-1": [
+            [
+                {
+                    "country": "USA",
+                    "name": "Nicole STOUT"
+                },
+                {
+                    "country": "COL",
+                    "name": "Brenda OLAYA"
+                }
+            ]
+        ],
+        "final_winner": "Brenda OLAYA"
+    },
+    "POOL D": {
+        "round 1-1": [
+            [
+                {
+                    "country": "PUR",
+                    "name": "Sairy COLON"
+                },
+                {
+                    "country": "CAN",
+                    "name": "Mina COULOMBE"
+                }
+            ]
+        ],
+        "final_winner": "Sairy COLON"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "DOM",
+                    "name": "Laura Elisa DIAZ ALBURQUERQUE"
+                }
+            ],
+            [
+                {
+                    "country": "USA",
+                    "name": "Nicole STOUT"
+                },
+                {
+                    "country": "CAN",
+                    "name": "Mina COULOMBE"
+                },
+                {
+                    "winner": "Mina COULOMBE"
+                }
+            ],
+            [
+                {
+                    "country": "DOM",
+                    "name": "Laura Elisa DIAZ ALBURQUERQUE"
+                },
+                {
+                    "country": "COL",
+                    "name": "Brenda OLAYA"
+                },
+                {
+                    "winner": "Brenda OLAYA"
+                }
+            ],
+            [
+                {
+                    "country": "CAN",
+                    "name": "Mina COULOMBE"
+                },
+                {
+                    "country": "CAN",
+                    "name": "Coralie GODBOUT"
+                },
+                {
+                    "winner": "Coralie GODBOUT"
+                }
+            ],
+            [
+                {
+                    "country": "COL",
+                    "name": "Brenda OLAYA"
+                }
+            ],
+            [
+                {
+                    "country": "CAN",
+                    "name": "Coralie GODBOUT"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Brenda OLAYA",
+            "Coralie GODBOUT"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CAN",
+                    "name": "Coralie GODBOUT"
+                },
+                {
+                    "country": "COL",
+                    "name": "Esteysy DIAZ"
+                },
+                {
+                    "winner": "Esteysy DIAZ"
+                }
+            ],
+            [
+                {
+                    "country": "COL",
+                    "name": "Brenda OLAYA"
+                },
+                {
+                    "country": "PUR",
+                    "name": "Sairy COLON"
+                },
+                {
+                    "winner": "Sairy COLON"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "COL",
+                    "name": "Esteysy DIAZ"
+                },
+                {
+                    "country": "PUR",
+                    "name": "Sairy COLON"
+                }
+            ]
+        ],
+        "final_winner": "Esteysy DIAZ"
+    }
+}

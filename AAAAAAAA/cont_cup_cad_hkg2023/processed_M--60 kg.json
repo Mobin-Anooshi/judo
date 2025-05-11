@@ -1,0 +1,159 @@
+{
+    "POOL A": {
+        "round 1-1": [
+            [
+                {
+                    "country": "AUS",
+                    "name": "Vas MIDDLETON"
+                },
+                {
+                    "country": "HKG",
+                    "name": "Chin Tsun Simpson LAM"
+                }
+            ]
+        ],
+        "final_winner": "Vas MIDDLETON"
+    },
+    "POOL B": {
+        "round 1-1": [
+            [
+                {
+                    "country": "THA",
+                    "name": "Natthaphong SEEFAN"
+                },
+                {
+                    "country": "AUS",
+                    "name": "Jack BANNISTER"
+                }
+            ]
+        ],
+        "final_winner": "Natthaphong SEEFAN"
+    },
+    "POOL C": {
+        "round 1-1": [],
+        "final_winner": "Khatanbaatar SUKHBAATAR"
+    },
+    "POOL D": {
+        "round 1-1": [
+            [
+                {
+                    "country": "AUS",
+                    "name": "Maxwell ZOLLINGER"
+                },
+                {
+                    "country": "KSA",
+                    "name": "Fares ALJOHAR"
+                }
+            ]
+        ],
+        "final_winner": "Maxwell ZOLLINGER"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "HKG",
+                    "name": "Chin Tsun Simpson LAM"
+                },
+                {
+                    "country": "AUS",
+                    "name": "Jack BANNISTER"
+                },
+                {
+                    "winner": "Jack BANNISTER"
+                }
+            ],
+            [
+                {
+                    "country": "KSA",
+                    "name": "Fares ALJOHAR"
+                }
+            ],
+            [
+                {
+                    "country": "AUS",
+                    "name": "Jack BANNISTER"
+                },
+                {
+                    "country": "AUS",
+                    "name": "Maxwell ZOLLINGER"
+                },
+                {
+                    "winner": "Jack BANNISTER"
+                }
+            ],
+            [
+                {
+                    "country": "KSA",
+                    "name": "Fares ALJOHAR"
+                },
+                {
+                    "country": "THA",
+                    "name": "Natthaphong SEEFAN"
+                },
+                {
+                    "winner": "Natthaphong SEEFAN"
+                }
+            ],
+            [
+                {
+                    "country": "AUS",
+                    "name": "Jack BANNISTER"
+                }
+            ],
+            [
+                {
+                    "country": "THA",
+                    "name": "Natthaphong SEEFAN"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Jack BANNISTER",
+            "Natthaphong SEEFAN"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "AUS",
+                    "name": "Vas MIDDLETON"
+                },
+                {
+                    "country": "THA",
+                    "name": "Natthaphong SEEFAN"
+                },
+                {
+                    "winner": "Vas MIDDLETON"
+                }
+            ],
+            [
+                {
+                    "country": "MGL",
+                    "name": "Khatanbaatar SUKHBAATAR"
+                },
+                {
+                    "country": "AUS",
+                    "name": "Maxwell ZOLLINGER"
+                },
+                {
+                    "winner": "Khatanbaatar SUKHBAATAR"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "AUS",
+                    "name": "Vas MIDDLETON"
+                },
+                {
+                    "country": "MGL",
+                    "name": "Khatanbaatar SUKHBAATAR"
+                }
+            ]
+        ],
+        "final_winner": "Vas MIDDLETON"
+    }
+}

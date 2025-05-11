@@ -1,0 +1,289 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "FRA",
+                    "name": "Coralie HAYME"
+                },
+                {
+                    "country": "UKR",
+                    "name": "Ruslana BULAVINA"
+                },
+                {
+                    "winner": "Coralie HAYME"
+                }
+            ],
+            [
+                {
+                    "country": "KAZ",
+                    "name": "Akerke RAMAZANOVA"
+                },
+                {
+                    "country": "CRO",
+                    "name": "Marcelina VRANJES"
+                },
+                {
+                    "winner": "Akerke RAMAZANOVA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "FRA",
+                    "name": "Coralie HAYME"
+                },
+                {
+                    "country": "KAZ",
+                    "name": "Akerke RAMAZANOVA"
+                }
+            ]
+        ],
+        "final_winner": "Coralie HAYME"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ITA",
+                    "name": "Erica SIMONETTI"
+                },
+                {
+                    "country": "BRA",
+                    "name": "Katia ALVES"
+                },
+                {
+                    "winner": "Erica SIMONETTI"
+                }
+            ],
+            [
+                {
+                    "country": "CRO",
+                    "name": "Ivana SUTALO"
+                },
+                {
+                    "country": "AUT",
+                    "name": "Maria HOELLWART"
+                },
+                {
+                    "winner": "Maria HOELLWART"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "ITA",
+                    "name": "Erica SIMONETTI"
+                },
+                {
+                    "country": "AUT",
+                    "name": "Maria HOELLWART"
+                }
+            ]
+        ],
+        "final_winner": "Erica SIMONETTI"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Giovanna SANTOS"
+                },
+                {
+                    "country": "FRA",
+                    "name": "Anne Fatoumata M BAIRO"
+                },
+                {
+                    "winner": "Giovanna SANTOS"
+                }
+            ],
+            [
+                {
+                    "country": "CRO",
+                    "name": "Tina RADIC"
+                },
+                {
+                    "country": "NED",
+                    "name": "Paulien SWEERS"
+                },
+                {
+                    "winner": "Tina RADIC"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Giovanna SANTOS"
+                },
+                {
+                    "country": "CRO",
+                    "name": "Tina RADIC"
+                }
+            ]
+        ],
+        "final_winner": "Giovanna SANTOS"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CRO",
+                    "name": "Helena VUKOVIC"
+                },
+                {
+                    "country": "POL",
+                    "name": "Wiktoria LIS"
+                },
+                {
+                    "winner": "Helena VUKOVIC"
+                }
+            ],
+            [
+                {
+                    "country": "MDA",
+                    "name": "Oxana DIACENCO"
+                },
+                {
+                    "country": "ISR",
+                    "name": "Yuli Alma MISHINER"
+                },
+                {
+                    "winner": "Yuli Alma MISHINER"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "CRO",
+                    "name": "Helena VUKOVIC"
+                },
+                {
+                    "country": "ISR",
+                    "name": "Yuli Alma MISHINER"
+                }
+            ]
+        ],
+        "final_winner": "Yuli Alma MISHINER"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "KAZ",
+                    "name": "Akerke RAMAZANOVA"
+                },
+                {
+                    "country": "AUT",
+                    "name": "Maria HOELLWART"
+                },
+                {
+                    "winner": "Maria HOELLWART"
+                }
+            ],
+            [
+                {
+                    "country": "CRO",
+                    "name": "Tina RADIC"
+                },
+                {
+                    "country": "CRO",
+                    "name": "Helena VUKOVIC"
+                },
+                {
+                    "winner": "Helena VUKOVIC"
+                }
+            ],
+            [
+                {
+                    "country": "AUT",
+                    "name": "Maria HOELLWART"
+                },
+                {
+                    "country": "BRA",
+                    "name": "Giovanna SANTOS"
+                },
+                {
+                    "winner": "Giovanna SANTOS"
+                }
+            ],
+            [
+                {
+                    "country": "CRO",
+                    "name": "Helena VUKOVIC"
+                },
+                {
+                    "country": "ITA",
+                    "name": "Erica SIMONETTI"
+                },
+                {
+                    "winner": "Erica SIMONETTI"
+                }
+            ],
+            [
+                {
+                    "country": "BRA",
+                    "name": "Giovanna SANTOS"
+                }
+            ],
+            [
+                {
+                    "country": "ITA",
+                    "name": "Erica SIMONETTI"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Giovanna SANTOS",
+            "Erica SIMONETTI"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "FRA",
+                    "name": "Coralie HAYME"
+                },
+                {
+                    "country": "ITA",
+                    "name": "Erica SIMONETTI"
+                },
+                {
+                    "winner": "Coralie HAYME"
+                }
+            ],
+            [
+                {
+                    "country": "BRA",
+                    "name": "Giovanna SANTOS"
+                },
+                {
+                    "country": "ISR",
+                    "name": "Yuli Alma MISHINER"
+                },
+                {
+                    "winner": "Yuli Alma MISHINER"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "FRA",
+                    "name": "Coralie HAYME"
+                },
+                {
+                    "country": "ISR",
+                    "name": "Yuli Alma MISHINER"
+                }
+            ]
+        ],
+        "final_winner": "Coralie HAYME"
+    }
+}

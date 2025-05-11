@@ -1,0 +1,177 @@
+{
+    "POOL A": {
+        "round 1-1": [
+            [
+                {
+                    "country": "HUN",
+                    "name": "Bence GALO"
+                },
+                {
+                    "country": "ROU",
+                    "name": "Alexandru PANAIT"
+                }
+            ]
+        ],
+        "final_winner": "Bence GALO"
+    },
+    "POOL B": {
+        "round 1-1": [
+            [
+                {
+                    "country": "CRO",
+                    "name": "Leon SUTEJ"
+                },
+                {
+                    "country": "ITA",
+                    "name": "Gabriele SECHI"
+                }
+            ]
+        ],
+        "final_winner": "Gabriele SECHI"
+    },
+    "POOL C": {
+        "round 1-1": [
+            [
+                {
+                    "country": "BIH",
+                    "name": "Mario NOVAK"
+                },
+                {
+                    "country": "SWE",
+                    "name": "Samir POBLOCKI"
+                }
+            ]
+        ],
+        "final_winner": "Samir POBLOCKI"
+    },
+    "POOL D": {
+        "round 1-1": [
+            [
+                {
+                    "country": "GEO",
+                    "name": "Shota BACHOSHVILI"
+                },
+                {
+                    "country": "ITA",
+                    "name": "Thomas SASSI"
+                }
+            ]
+        ],
+        "final_winner": "Shota BACHOSHVILI"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ROU",
+                    "name": "Alexandru PANAIT"
+                },
+                {
+                    "country": "CRO",
+                    "name": "Leon SUTEJ"
+                },
+                {
+                    "winner": "Alexandru PANAIT"
+                }
+            ],
+            [
+                {
+                    "country": "BIH",
+                    "name": "Mario NOVAK"
+                },
+                {
+                    "country": "ITA",
+                    "name": "Thomas SASSI"
+                },
+                {
+                    "winner": "Thomas SASSI"
+                }
+            ],
+            [
+                {
+                    "country": "ROU",
+                    "name": "Alexandru PANAIT"
+                },
+                {
+                    "country": "SWE",
+                    "name": "Samir POBLOCKI"
+                },
+                {
+                    "winner": "Samir POBLOCKI"
+                }
+            ],
+            [
+                {
+                    "country": "ITA",
+                    "name": "Thomas SASSI"
+                },
+                {
+                    "country": "ITA",
+                    "name": "Gabriele SECHI"
+                },
+                {
+                    "winner": "Gabriele SECHI"
+                }
+            ],
+            [
+                {
+                    "country": "SWE",
+                    "name": "Samir POBLOCKI"
+                }
+            ],
+            [
+                {
+                    "country": "ITA",
+                    "name": "Gabriele SECHI"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Samir POBLOCKI",
+            "Gabriele SECHI"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "HUN",
+                    "name": "Bence GALO"
+                },
+                {
+                    "country": "ITA",
+                    "name": "Gabriele SECHI"
+                },
+                {
+                    "winner": "Bence GALO"
+                }
+            ],
+            [
+                {
+                    "country": "SWE",
+                    "name": "Samir POBLOCKI"
+                },
+                {
+                    "country": "GEO",
+                    "name": "Shota BACHOSHVILI"
+                },
+                {
+                    "winner": "Shota BACHOSHVILI"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "HUN",
+                    "name": "Bence GALO"
+                },
+                {
+                    "country": "GEO",
+                    "name": "Shota BACHOSHVILI"
+                }
+            ]
+        ],
+        "final_winner": "Bence GALO"
+    }
+}

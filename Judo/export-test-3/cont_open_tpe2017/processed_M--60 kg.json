@@ -1,0 +1,87 @@
+{
+    "POOL A": {
+        "round 1-3": [
+            [
+                {
+                    "country": "KOR",
+                    "name": "Junhee CHAE"
+                },
+                {
+                    "country": "TPE",
+                    "name": "Kuo-hong FAN"
+                },
+                {
+                    "winner": "Junhee CHAE"
+                }
+            ],
+            [
+                {
+                    "country": "KOR",
+                    "name": "Junhee CHAE"
+                },
+                {
+                    "country": "HKG",
+                    "name": "Kwun Nin MAK"
+                },
+                {
+                    "winner": "Kwun Nin MAK"
+                }
+            ],
+            [
+                {
+                    "country": "TPE",
+                    "name": "Kuo-hong FAN"
+                },
+                {
+                    "country": "HKG",
+                    "name": "Kwun Nin MAK"
+                },
+                {
+                    "winner": "Kuo-hong FAN"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Junhee CHAE",
+            "Kuo-hong FAN"
+        ]
+    },
+    "POOL B": {
+        "round 1-1": [],
+        "final_winners": [
+            "Te-yu CHEN"
+        ]
+    },
+    "REPECHAGE": {
+        "round 1-1": [
+            [
+                {
+                    "country": "TPE",
+                    "name": "Kuo-hong FAN"
+                },
+                {
+                    "country": "HKG",
+                    "name": "Hon Man LEUNG"
+                },
+                {
+                    "winner": "Kuo-hong FAN"
+                }
+            ],
+            [
+                {
+                    "country": "TPE",
+                    "name": "Kuo-hong FAN"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Kuo-hong FAN"
+        ]
+    },
+    "FINALS": {
+        "round 1-1": [],
+        "final_winners": [
+            "Junhee CHAE"
+        ]
+    }
+}

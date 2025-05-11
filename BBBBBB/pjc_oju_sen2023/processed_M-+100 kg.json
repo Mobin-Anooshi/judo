@@ -1,0 +1,177 @@
+{
+    "POOL A": {
+        "round 1-1": [
+            [
+                {
+                    "country": "CUB",
+                    "name": "Andy GRANDA"
+                },
+                {
+                    "country": "COL",
+                    "name": "Alejandro ESCOBAR"
+                }
+            ]
+        ],
+        "final_winner": "Andy GRANDA"
+    },
+    "POOL B": {
+        "round 1-1": [
+            [
+                {
+                    "country": "CHI",
+                    "name": "Francisco SOLIS"
+                },
+                {
+                    "country": "CUB",
+                    "name": "Omar CRUZ LEON"
+                }
+            ]
+        ],
+        "final_winner": "Francisco SOLIS"
+    },
+    "POOL C": {
+        "round 1-1": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Rafael SILVA"
+                },
+                {
+                    "country": "MEX",
+                    "name": "Sergio DEL SOL"
+                }
+            ]
+        ],
+        "final_winner": "Rafael SILVA"
+    },
+    "POOL D": {
+        "round 1-1": [
+            [
+                {
+                    "country": "CAN",
+                    "name": "Marc DESCHENES"
+                },
+                {
+                    "country": "ECU",
+                    "name": "Freddy FIGUEROA"
+                }
+            ]
+        ],
+        "final_winner": "Marc DESCHENES"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "COL",
+                    "name": "Alejandro ESCOBAR"
+                },
+                {
+                    "country": "CUB",
+                    "name": "Omar CRUZ LEON"
+                },
+                {
+                    "winner": "Omar CRUZ LEON"
+                }
+            ],
+            [
+                {
+                    "country": "MEX",
+                    "name": "Sergio DEL SOL"
+                },
+                {
+                    "country": "ECU",
+                    "name": "Freddy FIGUEROA"
+                },
+                {
+                    "winner": "Freddy FIGUEROA"
+                }
+            ],
+            [
+                {
+                    "country": "CUB",
+                    "name": "Omar CRUZ LEON"
+                },
+                {
+                    "country": "CAN",
+                    "name": "Marc DESCHENES"
+                },
+                {
+                    "winner": "Marc DESCHENES"
+                }
+            ],
+            [
+                {
+                    "country": "ECU",
+                    "name": "Freddy FIGUEROA"
+                },
+                {
+                    "country": "CHI",
+                    "name": "Francisco SOLIS"
+                },
+                {
+                    "winner": "Freddy FIGUEROA"
+                }
+            ],
+            [
+                {
+                    "country": "CAN",
+                    "name": "Marc DESCHENES"
+                }
+            ],
+            [
+                {
+                    "country": "ECU",
+                    "name": "Freddy FIGUEROA"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Marc DESCHENES",
+            "Freddy FIGUEROA"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CUB",
+                    "name": "Andy GRANDA"
+                },
+                {
+                    "country": "CHI",
+                    "name": "Francisco SOLIS"
+                },
+                {
+                    "winner": "Andy GRANDA"
+                }
+            ],
+            [
+                {
+                    "country": "BRA",
+                    "name": "Rafael SILVA"
+                },
+                {
+                    "country": "CAN",
+                    "name": "Marc DESCHENES"
+                },
+                {
+                    "winner": "Rafael SILVA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "CUB",
+                    "name": "Andy GRANDA"
+                },
+                {
+                    "country": "BRA",
+                    "name": "Rafael SILVA"
+                }
+            ]
+        ],
+        "final_winner": "Andy GRANDA"
+    }
+}

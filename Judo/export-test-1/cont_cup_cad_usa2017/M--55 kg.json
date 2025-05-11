@@ -1,0 +1,273 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "USA",
+                    "name": "Jacob MORE"
+                },
+                {
+                    "winner": "Jacob MORE"
+                }
+            ],
+            [
+                {
+                    "country": "CAN",
+                    "name": "Aidos SAPENOV"
+                },
+                {
+                    "country": "USA",
+                    "name": "Artem TSISHCHANKA"
+                },
+                {
+                    "winner": "Aidos SAPENOV"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "USA",
+                    "name": "Jacob MORE"
+                },
+                {
+                    "country": "CAN",
+                    "name": "Aidos SAPENOV"
+                }
+            ]
+        ],
+        "final_winner": "Aidos SAPENOV"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "PUR",
+                    "name": "Chris ROSADO"
+                },
+                {
+                    "country": "USA",
+                    "name": "Gabe WRUBEL"
+                },
+                {
+                    "winner": "Chris ROSADO"
+                }
+            ],
+            [
+                {
+                    "country": "USA",
+                    "name": "Parker ROLOFF"
+                },
+                {
+                    "winner": "Parker ROLOFF"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "PUR",
+                    "name": "Chris ROSADO"
+                },
+                {
+                    "country": "USA",
+                    "name": "Parker ROLOFF"
+                }
+            ]
+        ],
+        "final_winner": "Chris ROSADO"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "PUR",
+                    "name": "Adrian MEDERO"
+                },
+                {
+                    "winner": "Adrian MEDERO"
+                }
+            ],
+            [
+                {
+                    "country": "USA",
+                    "name": "Randy LUONG"
+                },
+                {
+                    "country": "FRA",
+                    "name": "PAUL FOURNAND"
+                },
+                {
+                    "winner": "PAUL FOURNAND"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "PUR",
+                    "name": "Adrian MEDERO"
+                },
+                {
+                    "country": "FRA",
+                    "name": "PAUL FOURNAND"
+                }
+            ]
+        ],
+        "final_winner": "PAUL FOURNAND"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "USA",
+                    "name": "Mason CLARKE"
+                },
+                {
+                    "winner": "Mason CLARKE"
+                }
+            ],
+            [
+                {
+                    "country": "GBR",
+                    "name": "Max BROWN"
+                },
+                {
+                    "country": "USA",
+                    "name": "Max ANTONIOU"
+                },
+                {
+                    "winner": "Max ANTONIOU"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "USA",
+                    "name": "Mason CLARKE"
+                },
+                {
+                    "country": "USA",
+                    "name": "Max ANTONIOU"
+                }
+            ]
+        ],
+        "final_winner": "Mason CLARKE"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "USA",
+                    "name": "Jacob MORE"
+                },
+                {
+                    "country": "USA",
+                    "name": "Parker ROLOFF"
+                },
+                {
+                    "winner": "Jacob MORE"
+                }
+            ],
+            [
+                {
+                    "country": "PUR",
+                    "name": "Adrian MEDERO"
+                },
+                {
+                    "country": "USA",
+                    "name": "Max ANTONIOU"
+                },
+                {
+                    "winner": "Max ANTONIOU"
+                }
+            ],
+            [
+                {
+                    "country": "USA",
+                    "name": "Jacob MORE"
+                },
+                {
+                    "country": "FRA",
+                    "name": "PAUL FOURNAND"
+                },
+                {
+                    "winner": "Jacob MORE"
+                }
+            ],
+            [
+                {
+                    "country": "USA",
+                    "name": "Max ANTONIOU"
+                },
+                {
+                    "country": "PUR",
+                    "name": "Chris ROSADO"
+                },
+                {
+                    "winner": "Max ANTONIOU"
+                }
+            ],
+            [
+                {
+                    "country": "USA",
+                    "name": "Jacob MORE"
+                }
+            ],
+            [
+                {
+                    "country": "USA",
+                    "name": "Max ANTONIOU"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Jacob MORE",
+            "Max ANTONIOU"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CAN",
+                    "name": "Aidos SAPENOV"
+                },
+                {
+                    "country": "PUR",
+                    "name": "Chris ROSADO"
+                },
+                {
+                    "winner": "Aidos SAPENOV"
+                }
+            ],
+            [
+                {
+                    "country": "FRA",
+                    "name": "PAUL FOURNAND"
+                },
+                {
+                    "country": "USA",
+                    "name": "Mason CLARKE"
+                },
+                {
+                    "winner": "Mason CLARKE"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "CAN",
+                    "name": "Aidos SAPENOV"
+                },
+                {
+                    "country": "USA",
+                    "name": "Mason CLARKE"
+                }
+            ]
+        ],
+        "final_winner": "Aidos SAPENOV"
+    }
+}

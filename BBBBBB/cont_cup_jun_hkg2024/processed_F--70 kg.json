@@ -1,0 +1,261 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "AUS",
+                    "name": "Taylah HAYES"
+                },
+                {
+                    "winner": "Taylah HAYES"
+                }
+            ],
+            [
+                {
+                    "country": "HKG",
+                    "name": "Tsz Kwan CHAN"
+                },
+                {
+                    "winner": "Tsz Kwan CHAN"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "AUS",
+                    "name": "Taylah HAYES"
+                },
+                {
+                    "country": "HKG",
+                    "name": "Tsz Kwan CHAN"
+                }
+            ]
+        ],
+        "final_winner": "Taylah HAYES"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "AUS",
+                    "name": "Hannah MCHENRY"
+                },
+                {
+                    "winner": "Hannah MCHENRY"
+                }
+            ],
+            [
+                {
+                    "country": "AUS",
+                    "name": "Ruby GOJEVIC"
+                },
+                {
+                    "winner": "Ruby GOJEVIC"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "AUS",
+                    "name": "Hannah MCHENRY"
+                },
+                {
+                    "country": "AUS",
+                    "name": "Ruby GOJEVIC"
+                }
+            ]
+        ],
+        "final_winner": "Hannah MCHENRY"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "MGL",
+                    "name": "Urangoo JADAMBA"
+                },
+                {
+                    "winner": "Urangoo JADAMBA"
+                }
+            ],
+            [
+                {
+                    "country": "AUS",
+                    "name": "Hannah BRADBURY"
+                },
+                {
+                    "winner": "Hannah BRADBURY"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "MGL",
+                    "name": "Urangoo JADAMBA"
+                },
+                {
+                    "country": "AUS",
+                    "name": "Hannah BRADBURY"
+                }
+            ]
+        ],
+        "final_winner": "Urangoo JADAMBA"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "AIN",
+                    "name": "Eva OGNIVOVA"
+                },
+                {
+                    "winner": "Eva OGNIVOVA"
+                }
+            ],
+            [
+                {
+                    "country": "KOR",
+                    "name": "Jaehyung KANG"
+                },
+                {
+                    "country": "THA",
+                    "name": "Prangchnok LAMCHUMCHANG"
+                },
+                {
+                    "winner": "Prangchnok LAMCHUMCHANG"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "AIN",
+                    "name": "Eva OGNIVOVA"
+                },
+                {
+                    "country": "THA",
+                    "name": "Prangchnok LAMCHUMCHANG"
+                }
+            ]
+        ],
+        "final_winner": "Eva OGNIVOVA"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "HKG",
+                    "name": "Tsz Kwan CHAN"
+                },
+                {
+                    "country": "AUS",
+                    "name": "Ruby GOJEVIC"
+                },
+                {
+                    "winner": "Ruby GOJEVIC"
+                }
+            ],
+            [
+                {
+                    "country": "AUS",
+                    "name": "Hannah BRADBURY"
+                },
+                {
+                    "country": "THA",
+                    "name": "Prangchnok LAMCHUMCHANG"
+                },
+                {
+                    "winner": "Hannah BRADBURY"
+                }
+            ],
+            [
+                {
+                    "country": "AUS",
+                    "name": "Ruby GOJEVIC"
+                },
+                {
+                    "country": "MGL",
+                    "name": "Urangoo JADAMBA"
+                },
+                {
+                    "winner": "Urangoo JADAMBA"
+                }
+            ],
+            [
+                {
+                    "country": "AUS",
+                    "name": "Hannah BRADBURY"
+                },
+                {
+                    "country": "AUS",
+                    "name": "Taylah HAYES"
+                },
+                {
+                    "winner": "Taylah HAYES"
+                }
+            ],
+            [
+                {
+                    "country": "MGL",
+                    "name": "Urangoo JADAMBA"
+                }
+            ],
+            [
+                {
+                    "country": "AUS",
+                    "name": "Taylah HAYES"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Urangoo JADAMBA",
+            "Taylah HAYES"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "AUS",
+                    "name": "Taylah HAYES"
+                },
+                {
+                    "country": "AUS",
+                    "name": "Hannah MCHENRY"
+                },
+                {
+                    "winner": "Hannah MCHENRY"
+                }
+            ],
+            [
+                {
+                    "country": "MGL",
+                    "name": "Urangoo JADAMBA"
+                },
+                {
+                    "country": "AIN",
+                    "name": "Eva OGNIVOVA"
+                },
+                {
+                    "winner": "Eva OGNIVOVA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "AUS",
+                    "name": "Hannah MCHENRY"
+                },
+                {
+                    "country": "AIN",
+                    "name": "Eva OGNIVOVA"
+                }
+            ]
+        ],
+        "final_winner": "Eva OGNIVOVA"
+    }
+}

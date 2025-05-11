@@ -1,0 +1,237 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "GBR",
+                    "name": "Philip AWITI-ALCARAZ"
+                },
+                {
+                    "winner": "Philip AWITI-ALCARAZ"
+                }
+            ],
+            [
+                {
+                    "country": "TPE",
+                    "name": "Cheng-hsuan LIN"
+                },
+                {
+                    "country": "RUS",
+                    "name": "Kirill DENISOV"
+                },
+                {
+                    "winner": "Kirill DENISOV"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "GBR",
+                    "name": "Philip AWITI-ALCARAZ"
+                },
+                {
+                    "country": "RUS",
+                    "name": "Kirill DENISOV"
+                }
+            ]
+        ],
+        "final_winner": "Kirill DENISOV"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CHN",
+                    "name": "Rigule TE"
+                },
+                {
+                    "winner": "Rigule TE"
+                }
+            ],
+            [
+                {
+                    "country": "TPE",
+                    "name": "Yi chih HONG"
+                },
+                {
+                    "winner": "Yi chih HONG"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "CHN",
+                    "name": "Rigule TE"
+                },
+                {
+                    "country": "TPE",
+                    "name": "Yi chih HONG"
+                }
+            ]
+        ],
+        "final_winner": "Yi chih HONG"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [],
+            [
+                {
+                    "country": "RUS",
+                    "name": "Maksud IBRAGIMOV"
+                },
+                {
+                    "country": "CHN",
+                    "name": "Jun ZHANG"
+                },
+                {
+                    "winner": "Maksud IBRAGIMOV"
+                }
+            ]
+        ],
+        "round 1-1": [],
+        "final_winner": "Maksud IBRAGIMOV"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "MGL",
+                    "name": "Tsogtgerel KHUTAG"
+                },
+                {
+                    "winner": "Tsogtgerel KHUTAG"
+                }
+            ],
+            [
+                {
+                    "country": "CHN",
+                    "name": "Mingchao HU"
+                },
+                {
+                    "country": "MGL",
+                    "name": "Bilguun BATBAATAR"
+                },
+                {
+                    "winner": "Mingchao HU"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "MGL",
+                    "name": "Tsogtgerel KHUTAG"
+                },
+                {
+                    "country": "CHN",
+                    "name": "Mingchao HU"
+                }
+            ]
+        ],
+        "final_winner": "Tsogtgerel KHUTAG"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "GBR",
+                    "name": "Philip AWITI-ALCARAZ"
+                },
+                {
+                    "country": "CHN",
+                    "name": "Rigule TE"
+                },
+                {
+                    "winner": "Philip AWITI-ALCARAZ"
+                }
+            ],
+            [
+                {
+                    "country": "CHN",
+                    "name": "Mingchao HU"
+                }
+            ],
+            [
+                {
+                    "country": "GBR",
+                    "name": "Philip AWITI-ALCARAZ"
+                },
+                {
+                    "country": "RUS",
+                    "name": "Maksud IBRAGIMOV"
+                },
+                {
+                    "winner": "Maksud IBRAGIMOV"
+                }
+            ],
+            [
+                {
+                    "country": "CHN",
+                    "name": "Mingchao HU"
+                },
+                {
+                    "country": "TPE",
+                    "name": "Yi chih HONG"
+                },
+                {
+                    "winner": "Mingchao HU"
+                }
+            ],
+            [
+                {
+                    "country": "RUS",
+                    "name": "Maksud IBRAGIMOV"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Mingchao HU",
+            "Maksud IBRAGIMOV"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "RUS",
+                    "name": "Kirill DENISOV"
+                },
+                {
+                    "country": "TPE",
+                    "name": "Yi chih HONG"
+                },
+                {
+                    "winner": "Kirill DENISOV"
+                }
+            ],
+            [
+                {
+                    "country": "RUS",
+                    "name": "Maksud IBRAGIMOV"
+                },
+                {
+                    "country": "MGL",
+                    "name": "Tsogtgerel KHUTAG"
+                },
+                {
+                    "winner": "Tsogtgerel KHUTAG"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "RUS",
+                    "name": "Kirill DENISOV"
+                },
+                {
+                    "country": "MGL",
+                    "name": "Tsogtgerel KHUTAG"
+                }
+            ]
+        ],
+        "final_winner": "Kirill DENISOV"
+    }
+}

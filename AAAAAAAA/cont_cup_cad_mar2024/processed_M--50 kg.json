@@ -1,0 +1,141 @@
+{
+    "POOL A": {
+        "round 1-1": [],
+        "final_winner": "Axel CUQ"
+    },
+    "POOL B": {
+        "round 1-1": [
+            [
+                {
+                    "country": "MAR",
+                    "name": "Adam LAHRAZLI"
+                },
+                {
+                    "country": "MAR",
+                    "name": "Othmane LAHJOUJI"
+                }
+            ]
+        ],
+        "final_winner": "Othmane LAHJOUJI"
+    },
+    "POOL C": {
+        "round 1-1": [
+            [
+                {
+                    "country": "MAR",
+                    "name": "Younes HAOUJI"
+                },
+                {
+                    "country": "MAR",
+                    "name": "Othmane ESSOUAHLI"
+                }
+            ]
+        ],
+        "final_winner": "Younes HAOUJI"
+    },
+    "POOL D": {
+        "round 1-1": [],
+        "final_winner": "Youssef BOUKAIA"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "MAR",
+                    "name": "Adam LAHRAZLI"
+                }
+            ],
+            [
+                {
+                    "country": "MAR",
+                    "name": "Othmane ESSOUAHLI"
+                }
+            ],
+            [
+                {
+                    "country": "MAR",
+                    "name": "Adam LAHRAZLI"
+                },
+                {
+                    "country": "MAR",
+                    "name": "Youssef BOUKAIA"
+                },
+                {
+                    "winner": "Youssef BOUKAIA"
+                }
+            ],
+            [
+                {
+                    "country": "MAR",
+                    "name": "Othmane ESSOUAHLI"
+                },
+                {
+                    "country": "MAR",
+                    "name": "Othmane LAHJOUJI"
+                },
+                {
+                    "winner": "Othmane LAHJOUJI"
+                }
+            ],
+            [
+                {
+                    "country": "MAR",
+                    "name": "Youssef BOUKAIA"
+                }
+            ],
+            [
+                {
+                    "country": "MAR",
+                    "name": "Othmane LAHJOUJI"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Youssef BOUKAIA",
+            "Othmane LAHJOUJI"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "FRA",
+                    "name": "Axel CUQ"
+                },
+                {
+                    "country": "MAR",
+                    "name": "Othmane LAHJOUJI"
+                },
+                {
+                    "winner": "Axel CUQ"
+                }
+            ],
+            [
+                {
+                    "country": "MAR",
+                    "name": "Younes HAOUJI"
+                },
+                {
+                    "country": "MAR",
+                    "name": "Youssef BOUKAIA"
+                },
+                {
+                    "winner": "Younes HAOUJI"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "FRA",
+                    "name": "Axel CUQ"
+                },
+                {
+                    "country": "MAR",
+                    "name": "Younes HAOUJI"
+                }
+            ]
+        ],
+        "final_winner": "Axel CUQ"
+    }
+}

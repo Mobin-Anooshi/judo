@@ -1,0 +1,177 @@
+{
+    "POOL A": {
+        "round 1-1": [
+            [
+                {
+                    "country": "EGY",
+                    "name": "Sagda GHONIM"
+                },
+                {
+                    "country": "MAD",
+                    "name": "Laurelie Lindsay RAVELOMANANTSOA"
+                }
+            ]
+        ],
+        "final_winner": "Sagda GHONIM"
+    },
+    "POOL B": {
+        "round 1-1": [
+            [
+                {
+                    "country": "ALG",
+                    "name": "Hadjer ARRAS"
+                },
+                {
+                    "country": "KEN",
+                    "name": "Christine Naliaka WEKESA"
+                }
+            ]
+        ],
+        "final_winner": "Hadjer ARRAS"
+    },
+    "POOL C": {
+        "round 1-1": [
+            [
+                {
+                    "country": "ANG",
+                    "name": "Rosa LUAMBA"
+                },
+                {
+                    "country": "BDI",
+                    "name": "Chadia Anny UWIMANA"
+                }
+            ]
+        ],
+        "final_winner": "Rosa LUAMBA"
+    },
+    "POOL D": {
+        "round 1-1": [
+            [
+                {
+                    "country": "CMR",
+                    "name": "Paola Yvonne FENOU SEUGUE"
+                },
+                {
+                    "country": "EGY",
+                    "name": "Boushra EDRIS"
+                }
+            ]
+        ],
+        "final_winner": "Paola Yvonne FENOU SEUGUE"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "MAD",
+                    "name": "Laurelie Lindsay RAVELOMANANTSOA"
+                },
+                {
+                    "country": "KEN",
+                    "name": "Christine Naliaka WEKESA"
+                },
+                {
+                    "winner": "Laurelie Lindsay RAVELOMANANTSOA"
+                }
+            ],
+            [
+                {
+                    "country": "BDI",
+                    "name": "Chadia Anny UWIMANA"
+                },
+                {
+                    "country": "EGY",
+                    "name": "Boushra EDRIS"
+                },
+                {
+                    "winner": "Boushra EDRIS"
+                }
+            ],
+            [
+                {
+                    "country": "MAD",
+                    "name": "Laurelie Lindsay RAVELOMANANTSOA"
+                },
+                {
+                    "country": "CMR",
+                    "name": "Paola Yvonne FENOU SEUGUE"
+                },
+                {
+                    "winner": "Paola Yvonne FENOU SEUGUE"
+                }
+            ],
+            [
+                {
+                    "country": "EGY",
+                    "name": "Boushra EDRIS"
+                },
+                {
+                    "country": "EGY",
+                    "name": "Sagda GHONIM"
+                },
+                {
+                    "winner": "Sagda GHONIM"
+                }
+            ],
+            [
+                {
+                    "country": "CMR",
+                    "name": "Paola Yvonne FENOU SEUGUE"
+                }
+            ],
+            [
+                {
+                    "country": "EGY",
+                    "name": "Sagda GHONIM"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Paola Yvonne FENOU SEUGUE",
+            "Sagda GHONIM"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "EGY",
+                    "name": "Sagda GHONIM"
+                },
+                {
+                    "country": "ALG",
+                    "name": "Hadjer ARRAS"
+                },
+                {
+                    "winner": "Hadjer ARRAS"
+                }
+            ],
+            [
+                {
+                    "country": "ANG",
+                    "name": "Rosa LUAMBA"
+                },
+                {
+                    "country": "CMR",
+                    "name": "Paola Yvonne FENOU SEUGUE"
+                },
+                {
+                    "winner": "Rosa LUAMBA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "ALG",
+                    "name": "Hadjer ARRAS"
+                },
+                {
+                    "country": "ANG",
+                    "name": "Rosa LUAMBA"
+                }
+            ]
+        ],
+        "final_winner": "Hadjer ARRAS"
+    }
+}

@@ -1,0 +1,87 @@
+{
+    "POOL A": {
+        "round 1-3": [
+            [
+                {
+                    "country": "MNE",
+                    "name": "Jovana MRVALJEVIC"
+                },
+                {
+                    "country": "SLO",
+                    "name": "Tara JANJIC"
+                },
+                {
+                    "winner": "Jovana MRVALJEVIC"
+                }
+            ],
+            [
+                {
+                    "country": "MNE",
+                    "name": "Jovana MRVALJEVIC"
+                },
+                {
+                    "country": "FRA",
+                    "name": "Oceane BABA BOURA"
+                },
+                {
+                    "winner": "Oceane BABA BOURA"
+                }
+            ],
+            [
+                {
+                    "country": "SLO",
+                    "name": "Tara JANJIC"
+                },
+                {
+                    "country": "FRA",
+                    "name": "Oceane BABA BOURA"
+                },
+                {
+                    "winner": "Tara JANJIC"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Tara JANJIC",
+            "Oceane BABA BOURA"
+        ]
+    },
+    "POOL B": {
+        "round 1-1": [],
+        "final_winners": [
+            "Marcelina VRANJES"
+        ]
+    },
+    "REPECHAGE": {
+        "round 1-1": [
+            [
+                {
+                    "country": "FRA",
+                    "name": "Oceane BABA BOURA"
+                },
+                {
+                    "country": "FRA",
+                    "name": "Israa DAGHARI"
+                },
+                {
+                    "winner": "Israa DAGHARI"
+                }
+            ],
+            [
+                {
+                    "country": "FRA",
+                    "name": "Israa DAGHARI"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Israa DAGHARI"
+        ]
+    },
+    "FINALS": {
+        "round 1-1": [],
+        "final_winners": [
+            "Marcelina VRANJES"
+        ]
+    }
+}

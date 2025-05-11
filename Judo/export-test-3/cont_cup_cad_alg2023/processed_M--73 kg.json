@@ -1,0 +1,87 @@
+{
+    "POOL A": {
+        "round 1-3": [
+            [
+                {
+                    "country": "ALG",
+                    "name": "Mancef LAIDI"
+                },
+                {
+                    "country": "TUN",
+                    "name": "Ibrahim SFAXI"
+                },
+                {
+                    "winner": "Mancef LAIDI"
+                }
+            ],
+            [
+                {
+                    "country": "ALG",
+                    "name": "Mancef LAIDI"
+                },
+                {
+                    "country": "ALG",
+                    "name": "Abdeslam HAROUN"
+                },
+                {
+                    "winner": "Abdeslam HAROUN"
+                }
+            ],
+            [
+                {
+                    "country": "TUN",
+                    "name": "Ibrahim SFAXI"
+                },
+                {
+                    "country": "ALG",
+                    "name": "Abdeslam HAROUN"
+                },
+                {
+                    "winner": "Abdeslam HAROUN"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Mancef LAIDI",
+            "Abdeslam HAROUN"
+        ]
+    },
+    "POOL B": {
+        "round 1-1": [],
+        "final_winners": [
+            "Reda YOUNSI"
+        ]
+    },
+    "REPECHAGE": {
+        "round 1-1": [
+            [
+                {
+                    "country": "ALG",
+                    "name": "Mancef LAIDI"
+                },
+                {
+                    "country": "ALG",
+                    "name": "Abderrahmene OULAD AMER"
+                },
+                {
+                    "winner": "Mancef LAIDI"
+                }
+            ],
+            [
+                {
+                    "country": "ALG",
+                    "name": "Mancef LAIDI"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Mancef LAIDI"
+        ]
+    },
+    "FINALS": {
+        "round 1-1": [],
+        "final_winners": [
+            "Reda YOUNSI"
+        ]
+    }
+}

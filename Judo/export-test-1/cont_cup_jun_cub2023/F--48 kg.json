@@ -1,0 +1,221 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "USA",
+                    "name": "Jayne LOO"
+                },
+                {
+                    "winner": "Jayne LOO"
+                }
+            ],
+            []
+        ],
+        "round 1-1": [],
+        "final_winner": "Jayne LOO"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CUB",
+                    "name": "Cheila AREVICHE"
+                },
+                {
+                    "winner": "Cheila AREVICHE"
+                }
+            ],
+            [
+                {
+                    "country": "CUB",
+                    "name": "Aleanny CARBONELL JULIAN"
+                },
+                {
+                    "winner": "Aleanny CARBONELL JULIAN"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "CUB",
+                    "name": "Cheila AREVICHE"
+                },
+                {
+                    "country": "CUB",
+                    "name": "Aleanny CARBONELL JULIAN"
+                }
+            ]
+        ],
+        "final_winner": "Aleanny CARBONELL JULIAN"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CUB",
+                    "name": "Yelsis MENDEZ"
+                },
+                {
+                    "winner": "Yelsis MENDEZ"
+                }
+            ],
+            [
+                {
+                    "country": "CUB",
+                    "name": "Shanaidy ACOSTA"
+                },
+                {
+                    "winner": "Shanaidy ACOSTA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "CUB",
+                    "name": "Yelsis MENDEZ"
+                },
+                {
+                    "country": "CUB",
+                    "name": "Shanaidy ACOSTA"
+                }
+            ]
+        ],
+        "final_winner": "Shanaidy ACOSTA"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [],
+            [
+                {
+                    "country": "CUB",
+                    "name": "Yainet CORONADO"
+                },
+                {
+                    "winner": "Yainet CORONADO"
+                }
+            ]
+        ],
+        "round 1-1": [],
+        "final_winner": "Yainet CORONADO"
+    },
+    "REPECHAGE": {
+        "round 1-4": [
+            [],
+            [
+                {
+                    "country": "CUB",
+                    "name": "Cheila AREVICHE"
+                },
+                {
+                    "winner": "Cheila AREVICHE"
+                }
+            ],
+            [
+                {
+                    "country": "CUB",
+                    "name": "Yelsis MENDEZ"
+                },
+                {
+                    "winner": "Yelsis MENDEZ"
+                }
+            ],
+            []
+        ],
+        "round 1-2": [
+            [
+                {
+                    "country": "CUB",
+                    "name": "Cheila AREVICHE"
+                }
+            ],
+            [
+                {
+                    "country": "CUB",
+                    "name": "Yelsis MENDEZ"
+                }
+            ],
+            [
+                {
+                    "country": "CUB",
+                    "name": "Cheila AREVICHE"
+                },
+                {
+                    "country": "CUB",
+                    "name": "Shanaidy ACOSTA"
+                },
+                {
+                    "winner": "Cheila AREVICHE"
+                }
+            ],
+            [
+                {
+                    "country": "CUB",
+                    "name": "Yelsis MENDEZ"
+                },
+                {
+                    "country": "USA",
+                    "name": "Jayne LOO"
+                },
+                {
+                    "winner": "Jayne LOO"
+                }
+            ],
+            [
+                {
+                    "country": "USA",
+                    "name": "Jayne LOO"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Yelsis MENDEZ",
+            "Cheila AREVICHE"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "USA",
+                    "name": "Jayne LOO"
+                },
+                {
+                    "country": "CUB",
+                    "name": "Aleanny CARBONELL JULIAN"
+                },
+                {
+                    "winner": "Aleanny CARBONELL JULIAN"
+                }
+            ],
+            [
+                {
+                    "country": "CUB",
+                    "name": "Shanaidy ACOSTA"
+                },
+                {
+                    "country": "CUB",
+                    "name": "Yainet CORONADO"
+                },
+                {
+                    "winner": "Yainet CORONADO"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "CUB",
+                    "name": "Aleanny CARBONELL JULIAN"
+                },
+                {
+                    "country": "CUB",
+                    "name": "Yainet CORONADO"
+                }
+            ]
+        ],
+        "final_winner": "Yainet CORONADO"
+    }
+}

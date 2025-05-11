@@ -1,0 +1,159 @@
+{
+    "POOL A": {
+        "round 1-1": [],
+        "final_winner": "Georgette SAGNA"
+    },
+    "POOL B": {
+        "round 1-1": [
+            [
+                {
+                    "country": "ALG",
+                    "name": "Nermine GRAOUA"
+                },
+                {
+                    "country": "ALG",
+                    "name": "Razene Yasmine YOUSFI"
+                }
+            ]
+        ],
+        "final_winner": "Nermine GRAOUA"
+    },
+    "POOL C": {
+        "round 1-1": [
+            [
+                {
+                    "country": "TUN",
+                    "name": "Zeineb TROUDI"
+                },
+                {
+                    "country": "TUN",
+                    "name": "Siwar DHAWEDI"
+                }
+            ]
+        ],
+        "final_winner": "Siwar DHAWEDI"
+    },
+    "POOL D": {
+        "round 1-1": [
+            [
+                {
+                    "country": "ALG",
+                    "name": "Meroua MAMMERI"
+                },
+                {
+                    "country": "GAB",
+                    "name": "Marthe Yokebed GNACADJA AVARO"
+                }
+            ]
+        ],
+        "final_winner": "Meroua MAMMERI"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ALG",
+                    "name": "Razene Yasmine YOUSFI"
+                }
+            ],
+            [
+                {
+                    "country": "TUN",
+                    "name": "Zeineb TROUDI"
+                },
+                {
+                    "country": "GAB",
+                    "name": "Marthe Yokebed GNACADJA AVARO"
+                },
+                {
+                    "winner": "Zeineb TROUDI"
+                }
+            ],
+            [
+                {
+                    "country": "ALG",
+                    "name": "Razene Yasmine YOUSFI"
+                },
+                {
+                    "country": "ALG",
+                    "name": "Meroua MAMMERI"
+                },
+                {
+                    "winner": "Meroua MAMMERI"
+                }
+            ],
+            [
+                {
+                    "country": "TUN",
+                    "name": "Zeineb TROUDI"
+                },
+                {
+                    "country": "ALG",
+                    "name": "Nermine GRAOUA"
+                },
+                {
+                    "winner": "Zeineb TROUDI"
+                }
+            ],
+            [
+                {
+                    "country": "ALG",
+                    "name": "Meroua MAMMERI"
+                }
+            ],
+            [
+                {
+                    "country": "TUN",
+                    "name": "Zeineb TROUDI"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Meroua MAMMERI",
+            "Zeineb TROUDI"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "SEN",
+                    "name": "Georgette SAGNA"
+                },
+                {
+                    "country": "ALG",
+                    "name": "Nermine GRAOUA"
+                },
+                {
+                    "winner": "Georgette SAGNA"
+                }
+            ],
+            [
+                {
+                    "country": "TUN",
+                    "name": "Siwar DHAWEDI"
+                },
+                {
+                    "country": "ALG",
+                    "name": "Meroua MAMMERI"
+                },
+                {
+                    "winner": "Siwar DHAWEDI"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "SEN",
+                    "name": "Georgette SAGNA"
+                },
+                {
+                    "country": "TUN",
+                    "name": "Siwar DHAWEDI"
+                }
+            ]
+        ],
+        "final_winner": "Siwar DHAWEDI"
+    }
+}

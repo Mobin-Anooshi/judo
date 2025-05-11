@@ -1,0 +1,153 @@
+{
+    "POOL A": {
+        "round 1-1": [],
+        "final_winner": "Ivana MARANIC"
+    },
+    "POOL B": {
+        "round 1-1": [
+            [
+                {
+                    "country": "MNE",
+                    "name": "Jovana MRVALJEVIC"
+                },
+                {
+                    "country": "SLO",
+                    "name": "Tara JANJIC"
+                }
+            ]
+        ],
+        "final_winner": "Jovana MRVALJEVIC"
+    },
+    "POOL C": {
+        "round 1-1": [
+            [
+                {
+                    "country": "SRB",
+                    "name": "Anastasija BOGDANOVIC"
+                },
+                {
+                    "country": "IJF",
+                    "name": "Albina CHOLOMBITKO"
+                }
+            ]
+        ],
+        "final_winner": "Albina CHOLOMBITKO"
+    },
+    "POOL D": {
+        "round 1-1": [
+            [
+                {
+                    "country": "GER",
+                    "name": "Amani KUESTER"
+                },
+                {
+                    "country": "GRE",
+                    "name": "Maria-Nicoleta VULPASIN"
+                }
+            ]
+        ],
+        "final_winner": "Amani KUESTER"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "SLO",
+                    "name": "Tara JANJIC"
+                }
+            ],
+            [
+                {
+                    "country": "SRB",
+                    "name": "Anastasija BOGDANOVIC"
+                },
+                {
+                    "country": "GRE",
+                    "name": "Maria-Nicoleta VULPASIN"
+                },
+                {
+                    "winner": "Anastasija BOGDANOVIC"
+                }
+            ],
+            [
+                {
+                    "country": "SLO",
+                    "name": "Tara JANJIC"
+                },
+                {
+                    "country": "GER",
+                    "name": "Amani KUESTER"
+                },
+                {
+                    "winner": "Tara JANJIC"
+                }
+            ],
+            [
+                {
+                    "country": "SRB",
+                    "name": "Anastasija BOGDANOVIC"
+                },
+                {
+                    "country": "MNE",
+                    "name": "Jovana MRVALJEVIC"
+                },
+                {
+                    "winner": "Anastasija BOGDANOVIC"
+                }
+            ],
+            [
+                {
+                    "country": "SRB",
+                    "name": "Anastasija BOGDANOVIC"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Anastasija BOGDANOVIC",
+            "Tara JANJIC"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CRO",
+                    "name": "Ivana MARANIC"
+                },
+                {
+                    "country": "MNE",
+                    "name": "Jovana MRVALJEVIC"
+                },
+                {
+                    "winner": "Ivana MARANIC"
+                }
+            ],
+            [
+                {
+                    "country": "IJF",
+                    "name": "Albina CHOLOMBITKO"
+                },
+                {
+                    "country": "GER",
+                    "name": "Amani KUESTER"
+                },
+                {
+                    "winner": "Albina CHOLOMBITKO"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "CRO",
+                    "name": "Ivana MARANIC"
+                },
+                {
+                    "country": "IJF",
+                    "name": "Albina CHOLOMBITKO"
+                }
+            ]
+        ],
+        "final_winner": "Albina CHOLOMBITKO"
+    }
+}

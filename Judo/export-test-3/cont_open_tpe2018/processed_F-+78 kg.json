@@ -1,0 +1,68 @@
+{
+    "ROUND 1": {
+        "round 1-2": [
+            [
+                {
+                    "country": "TPE",
+                    "name": "Jia Wen TSAI"
+                },
+                {
+                    "country": "IND",
+                    "name": "Rajwinder KAUR"
+                },
+                {
+                    "winner": "Jia Wen TSAI"
+                }
+            ],
+            [
+                {
+                    "country": "TPE",
+                    "name": "Ling Fang CHANG"
+                },
+                {
+                    "country": "TPE",
+                    "name": "Hui-chen CHANG"
+                },
+                {
+                    "winner": "Ling Fang CHANG"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Jia Wen TSAI",
+            "Ling Fang CHANG"
+        ]
+    },
+    "REPECHAGE": {
+        "round 1-1": [
+            [
+                {
+                    "country": "IND",
+                    "name": "Rajwinder KAUR"
+                },
+                {
+                    "country": "TPE",
+                    "name": "Hui-chen CHANG"
+                },
+                {
+                    "winner": "Hui-chen CHANG"
+                }
+            ],
+            [
+                {
+                    "country": "TPE",
+                    "name": "Hui-chen CHANG"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Hui-chen CHANG"
+        ]
+    },
+    "FINALS": {
+        "round 1-1": [],
+        "final_winners": [
+            "Ling Fang CHANG"
+        ]
+    }
+}

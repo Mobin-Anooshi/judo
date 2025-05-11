@@ -1,0 +1,285 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CUB",
+                    "name": "Ivan Felipe SILVA MORALES"
+                },
+                {
+                    "winner": "Ivan Felipe SILVA MORALES"
+                }
+            ],
+            [
+                {
+                    "country": "COL",
+                    "name": "Daniel PAZ ALBARRACIN"
+                },
+                {
+                    "country": "VEN",
+                    "name": "Carlos PAEZ"
+                },
+                {
+                    "winner": "Daniel PAZ ALBARRACIN"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "CUB",
+                    "name": "Ivan Felipe SILVA MORALES"
+                },
+                {
+                    "country": "COL",
+                    "name": "Daniel PAZ ALBARRACIN"
+                }
+            ]
+        ],
+        "final_winner": "Daniel PAZ ALBARRACIN"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "DOM",
+                    "name": "Robert FLORENTINO"
+                },
+                {
+                    "country": "MEX",
+                    "name": "Diego DIAZ"
+                },
+                {
+                    "winner": "Robert FLORENTINO"
+                }
+            ],
+            [
+                {
+                    "country": "BRA",
+                    "name": "Giovani FERREIRA"
+                },
+                {
+                    "country": "ECU",
+                    "name": "Cesar NARANJO"
+                },
+                {
+                    "winner": "Giovani FERREIRA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "DOM",
+                    "name": "Robert FLORENTINO"
+                },
+                {
+                    "country": "BRA",
+                    "name": "Giovani FERREIRA"
+                }
+            ]
+        ],
+        "final_winner": "Robert FLORENTINO"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Rafael MACEDO"
+                },
+                {
+                    "country": "JAM",
+                    "name": "Max STEWART"
+                },
+                {
+                    "winner": "Rafael MACEDO"
+                }
+            ],
+            [
+                {
+                    "country": "ARG",
+                    "name": "Mariano COTO BERSIER"
+                },
+                {
+                    "country": "USA",
+                    "name": "Harutyun MUTAFYAN"
+                },
+                {
+                    "winner": "Mariano COTO BERSIER"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Rafael MACEDO"
+                },
+                {
+                    "country": "ARG",
+                    "name": "Mariano COTO BERSIER"
+                }
+            ]
+        ],
+        "final_winner": "Rafael MACEDO"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Marcelo FRONCKOWIAK"
+                },
+                {
+                    "country": "MEX",
+                    "name": "Angel GARCIA"
+                },
+                {
+                    "winner": "Marcelo FRONCKOWIAK"
+                }
+            ],
+            [
+                {
+                    "country": "PER",
+                    "name": "Yuta GALARRETA"
+                },
+                {
+                    "country": "CHI",
+                    "name": "Daniel ARANCIBIA"
+                },
+                {
+                    "winner": "Yuta GALARRETA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Marcelo FRONCKOWIAK"
+                },
+                {
+                    "country": "PER",
+                    "name": "Yuta GALARRETA"
+                }
+            ]
+        ],
+        "final_winner": "Yuta GALARRETA"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CUB",
+                    "name": "Ivan Felipe SILVA MORALES"
+                },
+                {
+                    "country": "BRA",
+                    "name": "Giovani FERREIRA"
+                },
+                {
+                    "winner": "Giovani FERREIRA"
+                }
+            ],
+            [
+                {
+                    "country": "ARG",
+                    "name": "Mariano COTO BERSIER"
+                },
+                {
+                    "country": "BRA",
+                    "name": "Marcelo FRONCKOWIAK"
+                },
+                {
+                    "winner": "Mariano COTO BERSIER"
+                }
+            ],
+            [
+                {
+                    "country": "BRA",
+                    "name": "Giovani FERREIRA"
+                },
+                {
+                    "country": "BRA",
+                    "name": "Rafael MACEDO"
+                },
+                {
+                    "winner": "Giovani FERREIRA"
+                }
+            ],
+            [
+                {
+                    "country": "ARG",
+                    "name": "Mariano COTO BERSIER"
+                },
+                {
+                    "country": "COL",
+                    "name": "Daniel PAZ ALBARRACIN"
+                },
+                {
+                    "winner": "Daniel PAZ ALBARRACIN"
+                }
+            ],
+            [
+                {
+                    "country": "BRA",
+                    "name": "Giovani FERREIRA"
+                }
+            ],
+            [
+                {
+                    "country": "COL",
+                    "name": "Daniel PAZ ALBARRACIN"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Giovani FERREIRA",
+            "Daniel PAZ ALBARRACIN"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "COL",
+                    "name": "Daniel PAZ ALBARRACIN"
+                },
+                {
+                    "country": "DOM",
+                    "name": "Robert FLORENTINO"
+                },
+                {
+                    "winner": "Robert FLORENTINO"
+                }
+            ],
+            [
+                {
+                    "country": "BRA",
+                    "name": "Rafael MACEDO"
+                },
+                {
+                    "country": "PER",
+                    "name": "Yuta GALARRETA"
+                },
+                {
+                    "winner": "Yuta GALARRETA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "DOM",
+                    "name": "Robert FLORENTINO"
+                },
+                {
+                    "country": "PER",
+                    "name": "Yuta GALARRETA"
+                }
+            ]
+        ],
+        "final_winner": "Robert FLORENTINO"
+    }
+}

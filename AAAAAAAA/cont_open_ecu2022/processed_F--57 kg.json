@@ -1,0 +1,141 @@
+{
+    "POOL A": {
+        "round 1-1": [],
+        "final_winner": "Brisa GOMEZ"
+    },
+    "POOL B": {
+        "round 1-1": [
+            [
+                {
+                    "country": "MEX",
+                    "name": "Paulina GARNICA"
+                },
+                {
+                    "country": "ECU",
+                    "name": "Astrid GAVIDIA"
+                }
+            ]
+        ],
+        "final_winner": "Astrid GAVIDIA"
+    },
+    "POOL C": {
+        "round 1-1": [],
+        "final_winner": "Tasha CANCELA"
+    },
+    "POOL D": {
+        "round 1-1": [
+            [
+                {
+                    "country": "PAN",
+                    "name": "Kristine JIMENEZ"
+                },
+                {
+                    "country": "ECU",
+                    "name": "Veronica DANIN"
+                }
+            ]
+        ],
+        "final_winner": "Kristine JIMENEZ"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "MEX",
+                    "name": "Paulina GARNICA"
+                }
+            ],
+            [
+                {
+                    "country": "ECU",
+                    "name": "Veronica DANIN"
+                }
+            ],
+            [
+                {
+                    "country": "MEX",
+                    "name": "Paulina GARNICA"
+                },
+                {
+                    "country": "PAN",
+                    "name": "Kristine JIMENEZ"
+                },
+                {
+                    "winner": "Kristine JIMENEZ"
+                }
+            ],
+            [
+                {
+                    "country": "ECU",
+                    "name": "Veronica DANIN"
+                },
+                {
+                    "country": "ARG",
+                    "name": "Brisa GOMEZ"
+                },
+                {
+                    "winner": "Brisa GOMEZ"
+                }
+            ],
+            [
+                {
+                    "country": "PAN",
+                    "name": "Kristine JIMENEZ"
+                }
+            ],
+            [
+                {
+                    "country": "ARG",
+                    "name": "Brisa GOMEZ"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Kristine JIMENEZ",
+            "Brisa GOMEZ"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ARG",
+                    "name": "Brisa GOMEZ"
+                },
+                {
+                    "country": "ECU",
+                    "name": "Astrid GAVIDIA"
+                },
+                {
+                    "winner": "Astrid GAVIDIA"
+                }
+            ],
+            [
+                {
+                    "country": "USA",
+                    "name": "Tasha CANCELA"
+                },
+                {
+                    "country": "PAN",
+                    "name": "Kristine JIMENEZ"
+                },
+                {
+                    "winner": "Tasha CANCELA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "ECU",
+                    "name": "Astrid GAVIDIA"
+                },
+                {
+                    "country": "USA",
+                    "name": "Tasha CANCELA"
+                }
+            ]
+        ],
+        "final_winner": "Astrid GAVIDIA"
+    }
+}

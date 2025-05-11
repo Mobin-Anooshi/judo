@@ -1,0 +1,336 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "TUN",
+                    "name": "Nesria JLASSI"
+                },
+                {
+                    "country": "SEN",
+                    "name": "Mame khady SARR"
+                },
+                {
+                    "winner": "Nesria JLASSI"
+                }
+            ],
+            [
+                {
+                    "country": "EGY",
+                    "name": "Aya GHALY"
+                },
+                {
+                    "winner": "Aya GHALY"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "TUN",
+                    "name": "Nesria JLASSI"
+                },
+                {
+                    "country": "EGY",
+                    "name": "Aya GHALY"
+                }
+            ],
+            [
+                {
+                    "country": "TUN",
+                    "name": "Nesria JLASSI"
+                }
+            ]
+        ]
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "GAB",
+                    "name": "Karene AGONO WORA"
+                },
+                {
+                    "winner": "Karene AGONO WORA"
+                }
+            ],
+            [
+                {
+                    "country": "CIV",
+                    "name": "Zouleiha Abzetta DABONNE"
+                },
+                {
+                    "country": "MAR",
+                    "name": "Fatima Zahra CHAKIR"
+                },
+                {
+                    "winner": "Fatima Zahra CHAKIR"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "GAB",
+                    "name": "Karene AGONO WORA"
+                },
+                {
+                    "country": "MAR",
+                    "name": "Fatima Zahra CHAKIR"
+                }
+            ],
+            [
+                {
+                    "country": "MAR",
+                    "name": "Fatima Zahra CHAKIR"
+                }
+            ]
+        ]
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "SEN",
+                    "name": "Hortance DIEDHIOU"
+                },
+                {
+                    "country": "MAD",
+                    "name": "Brenda ANDRIATIANA"
+                },
+                {
+                    "winner": "Brenda ANDRIATIANA"
+                }
+            ],
+            [
+                {
+                    "country": "ALG",
+                    "name": "Ratiba TARIKET"
+                },
+                {
+                    "winner": "Ratiba TARIKET"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "MAD",
+                    "name": "Brenda ANDRIATIANA"
+                },
+                {
+                    "country": "ALG",
+                    "name": "Ratiba TARIKET"
+                }
+            ],
+            [
+                {
+                    "country": "ALG",
+                    "name": "Ratiba TARIKET"
+                }
+            ]
+        ]
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "MAR",
+                    "name": "Fatima Zahra AIT ALI"
+                },
+                {
+                    "country": "CMR",
+                    "name": "Paule SITCHEPING"
+                },
+                {
+                    "winner": "Paule SITCHEPING"
+                }
+            ],
+            [
+                {
+                    "country": "MRI",
+                    "name": "Sarah SYLVA"
+                },
+                {
+                    "country": "CHA",
+                    "name": "Abdoulaye FATIME"
+                },
+                {
+                    "winner": "Sarah SYLVA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "CMR",
+                    "name": "Paule SITCHEPING"
+                },
+                {
+                    "country": "MRI",
+                    "name": "Sarah SYLVA"
+                }
+            ],
+            [
+                {
+                    "country": "CMR",
+                    "name": "Paule SITCHEPING"
+                }
+            ]
+        ]
+    },
+    "REPECHAGE": {
+        "round 1-4": [
+            [
+                {
+                    "country": "SEN",
+                    "name": "Mame khady SARR"
+                },
+                {
+                    "country": "EGY",
+                    "name": "Aya GHALY"
+                },
+                {
+                    "winner": "Aya GHALY"
+                }
+            ],
+            [
+                {
+                    "country": "CIV",
+                    "name": "Zouleiha Abzetta DABONNE"
+                },
+                {
+                    "country": "GAB",
+                    "name": "Karene AGONO WORA"
+                },
+                {
+                    "winner": "Karene AGONO WORA"
+                }
+            ],
+            [
+                {
+                    "country": "MAD",
+                    "name": "Brenda ANDRIATIANA"
+                },
+                {
+                    "winner": "Brenda ANDRIATIANA"
+                }
+            ],
+            [
+                {
+                    "country": "MAR",
+                    "name": "Fatima Zahra AIT ALI"
+                },
+                {
+                    "country": "MRI",
+                    "name": "Sarah SYLVA"
+                },
+                {
+                    "winner": "Sarah SYLVA"
+                }
+            ]
+        ],
+        "round 1-2": [
+            [
+                {
+                    "country": "EGY",
+                    "name": "Aya GHALY"
+                },
+                {
+                    "country": "GAB",
+                    "name": "Karene AGONO WORA"
+                }
+            ],
+            [
+                {
+                    "country": "MAD",
+                    "name": "Brenda ANDRIATIANA"
+                },
+                {
+                    "country": "MRI",
+                    "name": "Sarah SYLVA"
+                }
+            ],
+            [
+                {
+                    "country": "EGY",
+                    "name": "Aya GHALY"
+                },
+                {
+                    "country": "CMR",
+                    "name": "Paule SITCHEPING"
+                }
+            ],
+            [
+                {
+                    "country": "MRI",
+                    "name": "Sarah SYLVA"
+                },
+                {
+                    "country": "MAR",
+                    "name": "Fatima Zahra CHAKIR"
+                }
+            ],
+            [
+                {
+                    "country": "CMR",
+                    "name": "Paule SITCHEPING"
+                }
+            ],
+            [
+                {
+                    "country": "MAR",
+                    "name": "Fatima Zahra CHAKIR"
+                }
+            ]
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "TUN",
+                    "name": "Nesria JLASSI"
+                },
+                {
+                    "country": "MAR",
+                    "name": "Fatima Zahra CHAKIR"
+                },
+                {
+                    "winner": "Nesria JLASSI"
+                }
+            ],
+            [
+                {
+                    "country": "ALG",
+                    "name": "Ratiba TARIKET"
+                },
+                {
+                    "country": "CMR",
+                    "name": "Paule SITCHEPING"
+                },
+                {
+                    "winner": "Ratiba TARIKET"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "TUN",
+                    "name": "Nesria JLASSI"
+                },
+                {
+                    "country": "ALG",
+                    "name": "Ratiba TARIKET"
+                }
+            ],
+            [
+                {
+                    "country": "ALG",
+                    "name": "Ratiba TARIKET"
+                }
+            ]
+        ]
+    }
+}

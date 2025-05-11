@@ -1,0 +1,265 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "AUS",
+                    "name": "Liam PARK"
+                },
+                {
+                    "winner": "Liam PARK"
+                }
+            ],
+            [
+                {
+                    "country": "INA",
+                    "name": "Toga PRAMANDITA"
+                },
+                {
+                    "country": "KOR",
+                    "name": "Seongjun KIM"
+                },
+                {
+                    "winner": "Seongjun KIM"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "AUS",
+                    "name": "Liam PARK"
+                },
+                {
+                    "country": "KOR",
+                    "name": "Seongjun KIM"
+                }
+            ]
+        ],
+        "final_winner": "Seongjun KIM"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "TPE",
+                    "name": "Sheng Min CHEN"
+                },
+                {
+                    "winner": "Sheng Min CHEN"
+                }
+            ],
+            [
+                {
+                    "country": "CAN",
+                    "name": "Joe Casey ANDRES"
+                },
+                {
+                    "winner": "Joe Casey ANDRES"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "TPE",
+                    "name": "Sheng Min CHEN"
+                },
+                {
+                    "country": "CAN",
+                    "name": "Joe Casey ANDRES"
+                }
+            ]
+        ],
+        "final_winner": "Sheng Min CHEN"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "SLO",
+                    "name": "Vito DRAGIC"
+                },
+                {
+                    "winner": "Vito DRAGIC"
+                }
+            ],
+            [
+                {
+                    "country": "KOR",
+                    "name": "Hyeongsik NAM"
+                },
+                {
+                    "country": "IND",
+                    "name": "Jaswinder singh SAHI"
+                },
+                {
+                    "winner": "Hyeongsik NAM"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "SLO",
+                    "name": "Vito DRAGIC"
+                },
+                {
+                    "country": "KOR",
+                    "name": "Hyeongsik NAM"
+                }
+            ]
+        ],
+        "final_winner": "Vito DRAGIC"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "KOR",
+                    "name": "Minyeong CHOE"
+                },
+                {
+                    "winner": "Minyeong CHOE"
+                }
+            ],
+            [
+                {
+                    "country": "KOR",
+                    "name": "Jaegu YOUN"
+                },
+                {
+                    "winner": "Jaegu YOUN"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "KOR",
+                    "name": "Minyeong CHOE"
+                },
+                {
+                    "country": "KOR",
+                    "name": "Jaegu YOUN"
+                }
+            ]
+        ],
+        "final_winner": "Jaegu YOUN"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "AUS",
+                    "name": "Liam PARK"
+                },
+                {
+                    "country": "CAN",
+                    "name": "Joe Casey ANDRES"
+                },
+                {
+                    "winner": "Joe Casey ANDRES"
+                }
+            ],
+            [
+                {
+                    "country": "KOR",
+                    "name": "Hyeongsik NAM"
+                },
+                {
+                    "country": "KOR",
+                    "name": "Minyeong CHOE"
+                },
+                {
+                    "winner": "Minyeong CHOE"
+                }
+            ],
+            [
+                {
+                    "country": "CAN",
+                    "name": "Joe Casey ANDRES"
+                },
+                {
+                    "country": "SLO",
+                    "name": "Vito DRAGIC"
+                },
+                {
+                    "winner": "Vito DRAGIC"
+                }
+            ],
+            [
+                {
+                    "country": "KOR",
+                    "name": "Minyeong CHOE"
+                },
+                {
+                    "country": "KOR",
+                    "name": "Seongjun KIM"
+                },
+                {
+                    "winner": "Minyeong CHOE"
+                }
+            ],
+            [
+                {
+                    "country": "SLO",
+                    "name": "Vito DRAGIC"
+                }
+            ],
+            [
+                {
+                    "country": "KOR",
+                    "name": "Minyeong CHOE"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Vito DRAGIC",
+            "Minyeong CHOE"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "KOR",
+                    "name": "Seongjun KIM"
+                },
+                {
+                    "country": "TPE",
+                    "name": "Sheng Min CHEN"
+                },
+                {
+                    "winner": "Sheng Min CHEN"
+                }
+            ],
+            [
+                {
+                    "country": "SLO",
+                    "name": "Vito DRAGIC"
+                },
+                {
+                    "country": "KOR",
+                    "name": "Jaegu YOUN"
+                },
+                {
+                    "winner": "Jaegu YOUN"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "TPE",
+                    "name": "Sheng Min CHEN"
+                },
+                {
+                    "country": "KOR",
+                    "name": "Jaegu YOUN"
+                }
+            ]
+        ],
+        "final_winner": "Jaegu YOUN"
+    }
+}

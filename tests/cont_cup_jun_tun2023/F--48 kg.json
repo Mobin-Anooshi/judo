@@ -1,0 +1,270 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ANG",
+                    "name": "Eldimira SEGUNDA"
+                },
+                {
+                    "winner": "Eldimira SEGUNDA"
+                }
+            ],
+            [
+                {
+                    "country": "ALG",
+                    "name": "Imene Sara OUBAICHE"
+                },
+                {
+                    "country": "EGY",
+                    "name": "Zeinab SAFA"
+                },
+                {
+                    "winner": "Zeinab SAFA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "ANG",
+                    "name": "Eldimira SEGUNDA"
+                },
+                {
+                    "country": "EGY",
+                    "name": "Zeinab SAFA"
+                }
+            ],
+            [
+                {
+                    "country": "EGY",
+                    "name": "Zeinab SAFA"
+                }
+            ]
+        ]
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "TUN",
+                    "name": "Amira BEN AYED"
+                },
+                {
+                    "winner": "Amira BEN AYED"
+                }
+            ],
+            [
+                {
+                    "country": "ALG",
+                    "name": "Loubna NEDJAI"
+                },
+                {
+                    "winner": "Loubna NEDJAI"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "TUN",
+                    "name": "Amira BEN AYED"
+                },
+                {
+                    "country": "ALG",
+                    "name": "Loubna NEDJAI"
+                }
+            ],
+            [
+                {
+                    "country": "ALG",
+                    "name": "Loubna NEDJAI"
+                }
+            ]
+        ]
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ALG",
+                    "name": "Yasmine HADI"
+                },
+                {
+                    "winner": "Yasmine HADI"
+                }
+            ],
+            [
+                {
+                    "country": "KSA",
+                    "name": "Rahaf ALKHATHLAN"
+                },
+                {
+                    "winner": "Rahaf ALKHATHLAN"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "ALG",
+                    "name": "Yasmine HADI"
+                },
+                {
+                    "country": "KSA",
+                    "name": "Rahaf ALKHATHLAN"
+                }
+            ],
+            [
+                {
+                    "country": "ALG",
+                    "name": "Yasmine HADI"
+                }
+            ]
+        ]
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "TUN",
+                    "name": "Amira HMIDI"
+                },
+                {
+                    "winner": "Amira HMIDI"
+                }
+            ],
+            [
+                {
+                    "country": "USA",
+                    "name": "Anat TSYRLIN"
+                },
+                {
+                    "winner": "Anat TSYRLIN"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "TUN",
+                    "name": "Amira HMIDI"
+                },
+                {
+                    "country": "USA",
+                    "name": "Anat TSYRLIN"
+                }
+            ],
+            [
+                {
+                    "country": "USA",
+                    "name": "Anat TSYRLIN"
+                }
+            ]
+        ]
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ANG",
+                    "name": "Eldimira SEGUNDA"
+                },
+                {
+                    "country": "TUN",
+                    "name": "Amira BEN AYED"
+                }
+            ],
+            [
+                {
+                    "country": "KSA",
+                    "name": "Rahaf ALKHATHLAN"
+                },
+                {
+                    "country": "TUN",
+                    "name": "Amira HMIDI"
+                }
+            ],
+            [
+                {
+                    "country": "TUN",
+                    "name": "Amira BEN AYED"
+                },
+                {
+                    "country": "USA",
+                    "name": "Anat TSYRLIN"
+                }
+            ],
+            [
+                {
+                    "country": "TUN",
+                    "name": "Amira HMIDI"
+                },
+                {
+                    "country": "EGY",
+                    "name": "Zeinab SAFA"
+                }
+            ],
+            [
+                {
+                    "country": "TUN",
+                    "name": "Amira BEN AYED"
+                }
+            ],
+            [
+                {
+                    "country": "EGY",
+                    "name": "Zeinab SAFA"
+                }
+            ]
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "EGY",
+                    "name": "Zeinab SAFA"
+                },
+                {
+                    "country": "ALG",
+                    "name": "Loubna NEDJAI"
+                },
+                {
+                    "winner": "Loubna NEDJAI"
+                }
+            ],
+            [
+                {
+                    "country": "ALG",
+                    "name": "Yasmine HADI"
+                },
+                {
+                    "country": "USA",
+                    "name": "Anat TSYRLIN"
+                },
+                {
+                    "winner": "Yasmine HADI"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "ALG",
+                    "name": "Loubna NEDJAI"
+                },
+                {
+                    "country": "ALG",
+                    "name": "Yasmine HADI"
+                }
+            ],
+            [
+                {
+                    "country": "ALG",
+                    "name": "Yasmine HADI"
+                }
+            ]
+        ]
+    }
+}

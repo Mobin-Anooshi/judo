@@ -1,0 +1,257 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "NZL",
+                    "name": "Bevan BROOKING"
+                },
+                {
+                    "winner": "Bevan BROOKING"
+                }
+            ],
+            [
+                {
+                    "country": "NCL",
+                    "name": "Laurent TAIMOURLANK"
+                },
+                {
+                    "winner": "Laurent TAIMOURLANK"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "NZL",
+                    "name": "Bevan BROOKING"
+                },
+                {
+                    "country": "NCL",
+                    "name": "Laurent TAIMOURLANK"
+                }
+            ]
+        ],
+        "final_winner": "Bevan BROOKING"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "AUS",
+                    "name": "Calvin KNOESTER"
+                },
+                {
+                    "winner": "Calvin KNOESTER"
+                }
+            ],
+            [
+                {
+                    "country": "VAN",
+                    "name": "Cedric PHEU"
+                },
+                {
+                    "winner": "Cedric PHEU"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "AUS",
+                    "name": "Calvin KNOESTER"
+                },
+                {
+                    "country": "VAN",
+                    "name": "Cedric PHEU"
+                }
+            ]
+        ],
+        "final_winner": "Calvin KNOESTER"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "NZL",
+                    "name": "Finn BROWN"
+                },
+                {
+                    "winner": "Finn BROWN"
+                }
+            ],
+            [
+                {
+                    "country": "NCL",
+                    "name": "Andy NEDELEC"
+                },
+                {
+                    "winner": "Andy NEDELEC"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "NZL",
+                    "name": "Finn BROWN"
+                },
+                {
+                    "country": "NCL",
+                    "name": "Andy NEDELEC"
+                }
+            ]
+        ],
+        "final_winner": "Finn BROWN"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "PYF",
+                    "name": "Gaston LAFON"
+                },
+                {
+                    "winner": "Gaston LAFON"
+                }
+            ],
+            [
+                {
+                    "country": "PNG",
+                    "name": "Kinsley VUI"
+                },
+                {
+                    "winner": "Kinsley VUI"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "PYF",
+                    "name": "Gaston LAFON"
+                },
+                {
+                    "country": "PNG",
+                    "name": "Kinsley VUI"
+                }
+            ]
+        ],
+        "final_winner": "Kinsley VUI"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "NCL",
+                    "name": "Laurent TAIMOURLANK"
+                },
+                {
+                    "country": "VAN",
+                    "name": "Cedric PHEU"
+                },
+                {
+                    "winner": "Laurent TAIMOURLANK"
+                }
+            ],
+            [
+                {
+                    "country": "NCL",
+                    "name": "Andy NEDELEC"
+                },
+                {
+                    "country": "PYF",
+                    "name": "Gaston LAFON"
+                },
+                {
+                    "winner": "Gaston LAFON"
+                }
+            ],
+            [
+                {
+                    "country": "NCL",
+                    "name": "Laurent TAIMOURLANK"
+                },
+                {
+                    "country": "NZL",
+                    "name": "Finn BROWN"
+                },
+                {
+                    "winner": "Laurent TAIMOURLANK"
+                }
+            ],
+            [
+                {
+                    "country": "PYF",
+                    "name": "Gaston LAFON"
+                },
+                {
+                    "country": "NZL",
+                    "name": "Bevan BROOKING"
+                },
+                {
+                    "winner": "Gaston LAFON"
+                }
+            ],
+            [
+                {
+                    "country": "NCL",
+                    "name": "Laurent TAIMOURLANK"
+                }
+            ],
+            [
+                {
+                    "country": "PYF",
+                    "name": "Gaston LAFON"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Laurent TAIMOURLANK",
+            "Gaston LAFON"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "NZL",
+                    "name": "Bevan BROOKING"
+                },
+                {
+                    "country": "AUS",
+                    "name": "Calvin KNOESTER"
+                },
+                {
+                    "winner": "Calvin KNOESTER"
+                }
+            ],
+            [
+                {
+                    "country": "NZL",
+                    "name": "Finn BROWN"
+                },
+                {
+                    "country": "PNG",
+                    "name": "Kinsley VUI"
+                },
+                {
+                    "winner": "Kinsley VUI"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "AUS",
+                    "name": "Calvin KNOESTER"
+                },
+                {
+                    "country": "PNG",
+                    "name": "Kinsley VUI"
+                }
+            ]
+        ],
+        "final_winner": "Calvin KNOESTER"
+    }
+}

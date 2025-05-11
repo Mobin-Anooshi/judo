@@ -1,0 +1,87 @@
+{
+    "POOL A": {
+        "round 1-3": [
+            [
+                {
+                    "country": "IRL",
+                    "name": "Rachael HAWKES"
+                },
+                {
+                    "country": "LBN",
+                    "name": "Gaelle GHOLMIEH"
+                },
+                {
+                    "winner": "Rachael HAWKES"
+                }
+            ],
+            [
+                {
+                    "country": "IRL",
+                    "name": "Rachael HAWKES"
+                },
+                {
+                    "country": "TUR",
+                    "name": "Sila KORKMAZ"
+                },
+                {
+                    "winner": "Sila KORKMAZ"
+                }
+            ],
+            [
+                {
+                    "country": "LBN",
+                    "name": "Gaelle GHOLMIEH"
+                },
+                {
+                    "country": "TUR",
+                    "name": "Sila KORKMAZ"
+                },
+                {
+                    "winner": "Sila KORKMAZ"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Rachael HAWKES",
+            "Sila KORKMAZ"
+        ]
+    },
+    "POOL B": {
+        "round 1-1": [],
+        "final_winners": [
+            "Hatice VANDEMIR"
+        ]
+    },
+    "REPECHAGE": {
+        "round 1-1": [
+            [
+                {
+                    "country": "TUR",
+                    "name": "Sila KORKMAZ"
+                },
+                {
+                    "country": "LTU",
+                    "name": "Ugne PILECKAITE"
+                },
+                {
+                    "winner": "Ugne PILECKAITE"
+                }
+            ],
+            [
+                {
+                    "country": "LTU",
+                    "name": "Ugne PILECKAITE"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Ugne PILECKAITE"
+        ]
+    },
+    "FINALS": {
+        "round 1-1": [],
+        "final_winners": [
+            "Hatice VANDEMIR"
+        ]
+    }
+}

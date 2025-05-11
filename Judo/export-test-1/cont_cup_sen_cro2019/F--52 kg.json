@@ -1,0 +1,315 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "SUI",
+                    "name": "Tamara SILVA"
+                },
+                {
+                    "winner": "Tamara SILVA"
+                }
+            ],
+            [
+                {
+                    "country": "SLO",
+                    "name": "Tjasa BRUMEN"
+                },
+                {
+                    "country": "FRA",
+                    "name": "Julie MARCOU"
+                },
+                {
+                    "winner": "Julie MARCOU"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "SUI",
+                    "name": "Tamara SILVA"
+                },
+                {
+                    "country": "FRA",
+                    "name": "Julie MARCOU"
+                }
+            ]
+        ],
+        "final_winner": "Tamara SILVA"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "GER",
+                    "name": "Janina TESSMANN"
+                },
+                {
+                    "winner": "Janina TESSMANN"
+                }
+            ],
+            [
+                {
+                    "country": "ISR",
+                    "name": "Paz KAFRI"
+                },
+                {
+                    "country": "SRB",
+                    "name": "Tamara JOVANOVIC"
+                },
+                {
+                    "winner": "Paz KAFRI"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "GER",
+                    "name": "Janina TESSMANN"
+                },
+                {
+                    "country": "ISR",
+                    "name": "Paz KAFRI"
+                }
+            ]
+        ],
+        "final_winner": "Janina TESSMANN"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "FRA",
+                    "name": "Penelope BONNA"
+                },
+                {
+                    "winner": "Penelope BONNA"
+                }
+            ],
+            [
+                {
+                    "country": "SLO",
+                    "name": "Teja TROPAN"
+                },
+                {
+                    "country": "ISR",
+                    "name": "Shir KELLNER"
+                },
+                {
+                    "winner": "Teja TROPAN"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "FRA",
+                    "name": "Penelope BONNA"
+                },
+                {
+                    "country": "SLO",
+                    "name": "Teja TROPAN"
+                }
+            ]
+        ],
+        "final_winner": "Penelope BONNA"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "NED",
+                    "name": "Julie KEMMINK"
+                },
+                {
+                    "winner": "Julie KEMMINK"
+                }
+            ],
+            [
+                {
+                    "country": "FRA",
+                    "name": "Nawaliatou BABIO"
+                },
+                {
+                    "country": "ISR",
+                    "name": "Maya LEOPOLD"
+                },
+                {
+                    "winner": "Nawaliatou BABIO"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "NED",
+                    "name": "Julie KEMMINK"
+                },
+                {
+                    "country": "FRA",
+                    "name": "Nawaliatou BABIO"
+                }
+            ]
+        ],
+        "final_winner": "Nawaliatou BABIO"
+    },
+    "REPECHAGE": {
+        "round 1-4": [
+            [
+                {
+                    "country": "FRA",
+                    "name": "Julie MARCOU"
+                },
+                {
+                    "winner": "Julie MARCOU"
+                }
+            ],
+            [
+                {
+                    "country": "ISR",
+                    "name": "Paz KAFRI"
+                },
+                {
+                    "winner": "Paz KAFRI"
+                }
+            ],
+            [
+                {
+                    "country": "SLO",
+                    "name": "Teja TROPAN"
+                },
+                {
+                    "winner": "Teja TROPAN"
+                }
+            ],
+            [
+                {
+                    "country": "ISR",
+                    "name": "Maya LEOPOLD"
+                },
+                {
+                    "country": "NED",
+                    "name": "Julie KEMMINK"
+                },
+                {
+                    "winner": "Julie KEMMINK"
+                }
+            ]
+        ],
+        "round 1-2": [
+            [
+                {
+                    "country": "FRA",
+                    "name": "Julie MARCOU"
+                },
+                {
+                    "country": "ISR",
+                    "name": "Paz KAFRI"
+                },
+                {
+                    "winner": "Paz KAFRI"
+                }
+            ],
+            [
+                {
+                    "country": "SLO",
+                    "name": "Teja TROPAN"
+                },
+                {
+                    "country": "NED",
+                    "name": "Julie KEMMINK"
+                },
+                {
+                    "winner": "Julie KEMMINK"
+                }
+            ],
+            [
+                {
+                    "country": "ISR",
+                    "name": "Paz KAFRI"
+                },
+                {
+                    "country": "FRA",
+                    "name": "Nawaliatou BABIO"
+                },
+                {
+                    "winner": "Paz KAFRI"
+                }
+            ],
+            [
+                {
+                    "country": "NED",
+                    "name": "Julie KEMMINK"
+                },
+                {
+                    "country": "GER",
+                    "name": "Janina TESSMANN"
+                },
+                {
+                    "winner": "Julie KEMMINK"
+                }
+            ],
+            [
+                {
+                    "country": "ISR",
+                    "name": "Paz KAFRI"
+                }
+            ],
+            [
+                {
+                    "country": "NED",
+                    "name": "Julie KEMMINK"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Paz KAFRI",
+            "Julie KEMMINK"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "SUI",
+                    "name": "Tamara SILVA"
+                },
+                {
+                    "country": "GER",
+                    "name": "Janina TESSMANN"
+                },
+                {
+                    "winner": "Tamara SILVA"
+                }
+            ],
+            [
+                {
+                    "country": "FRA",
+                    "name": "Penelope BONNA"
+                },
+                {
+                    "country": "FRA",
+                    "name": "Nawaliatou BABIO"
+                },
+                {
+                    "winner": "Penelope BONNA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "SUI",
+                    "name": "Tamara SILVA"
+                },
+                {
+                    "country": "FRA",
+                    "name": "Penelope BONNA"
+                }
+            ]
+        ],
+        "final_winner": "Penelope BONNA"
+    }
+}

@@ -1,0 +1,281 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "DOM",
+                    "name": "Yunior Manuel CUELLO POLANCO"
+                },
+                {
+                    "winner": "Yunior Manuel CUELLO POLANCO"
+                }
+            ],
+            [
+                {
+                    "country": "COL",
+                    "name": "Diego CASTANO"
+                },
+                {
+                    "country": "CAN",
+                    "name": "Christian DAMETTO"
+                },
+                {
+                    "winner": "Diego CASTANO"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "DOM",
+                    "name": "Yunior Manuel CUELLO POLANCO"
+                },
+                {
+                    "country": "COL",
+                    "name": "Diego CASTANO"
+                }
+            ]
+        ],
+        "final_winner": "Yunior Manuel CUELLO POLANCO"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "PER",
+                    "name": "Alexander RAMIREZ"
+                },
+                {
+                    "country": "MEX",
+                    "name": "Moises ROSADO"
+                },
+                {
+                    "winner": "Moises ROSADO"
+                }
+            ],
+            [
+                {
+                    "country": "ECU",
+                    "name": "Leonel KUNCHIKIAI"
+                },
+                {
+                    "country": "ARG",
+                    "name": "Patricio CANAS"
+                },
+                {
+                    "winner": "Leonel KUNCHIKIAI"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "MEX",
+                    "name": "Moises ROSADO"
+                },
+                {
+                    "country": "ECU",
+                    "name": "Leonel KUNCHIKIAI"
+                }
+            ]
+        ],
+        "final_winner": "Moises ROSADO"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Bruno WATANABE"
+                },
+                {
+                    "winner": "Bruno WATANABE"
+                }
+            ],
+            [
+                {
+                    "country": "CAN",
+                    "name": "Aidos SAPENOV"
+                },
+                {
+                    "country": "VEN",
+                    "name": "Samuel LAMEDA"
+                },
+                {
+                    "winner": "Aidos SAPENOV"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Bruno WATANABE"
+                },
+                {
+                    "country": "CAN",
+                    "name": "Aidos SAPENOV"
+                }
+            ]
+        ],
+        "final_winner": "Bruno WATANABE"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ECU",
+                    "name": "Michael QUIROZ"
+                },
+                {
+                    "country": "ARG",
+                    "name": "Matias VILASEK"
+                },
+                {
+                    "winner": "Michael QUIROZ"
+                }
+            ],
+            [
+                {
+                    "country": "COL",
+                    "name": "Jhonathan PANIAGUA"
+                },
+                {
+                    "country": "USA",
+                    "name": "Jacob MORE"
+                },
+                {
+                    "winner": "Jhonathan PANIAGUA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "ECU",
+                    "name": "Michael QUIROZ"
+                },
+                {
+                    "country": "COL",
+                    "name": "Jhonathan PANIAGUA"
+                }
+            ]
+        ],
+        "final_winner": "Jhonathan PANIAGUA"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "COL",
+                    "name": "Diego CASTANO"
+                },
+                {
+                    "country": "ECU",
+                    "name": "Leonel KUNCHIKIAI"
+                },
+                {
+                    "winner": "Leonel KUNCHIKIAI"
+                }
+            ],
+            [
+                {
+                    "country": "CAN",
+                    "name": "Aidos SAPENOV"
+                },
+                {
+                    "country": "ECU",
+                    "name": "Michael QUIROZ"
+                },
+                {
+                    "winner": "Michael QUIROZ"
+                }
+            ],
+            [
+                {
+                    "country": "ECU",
+                    "name": "Leonel KUNCHIKIAI"
+                },
+                {
+                    "country": "COL",
+                    "name": "Jhonathan PANIAGUA"
+                },
+                {
+                    "winner": "Jhonathan PANIAGUA"
+                }
+            ],
+            [
+                {
+                    "country": "ECU",
+                    "name": "Michael QUIROZ"
+                },
+                {
+                    "country": "MEX",
+                    "name": "Moises ROSADO"
+                },
+                {
+                    "winner": "Michael QUIROZ"
+                }
+            ],
+            [
+                {
+                    "country": "COL",
+                    "name": "Jhonathan PANIAGUA"
+                }
+            ],
+            [
+                {
+                    "country": "ECU",
+                    "name": "Michael QUIROZ"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Jhonathan PANIAGUA",
+            "Michael QUIROZ"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "DOM",
+                    "name": "Yunior Manuel CUELLO POLANCO"
+                },
+                {
+                    "country": "MEX",
+                    "name": "Moises ROSADO"
+                },
+                {
+                    "winner": "Yunior Manuel CUELLO POLANCO"
+                }
+            ],
+            [
+                {
+                    "country": "BRA",
+                    "name": "Bruno WATANABE"
+                },
+                {
+                    "country": "COL",
+                    "name": "Jhonathan PANIAGUA"
+                },
+                {
+                    "winner": "Bruno WATANABE"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "DOM",
+                    "name": "Yunior Manuel CUELLO POLANCO"
+                },
+                {
+                    "country": "BRA",
+                    "name": "Bruno WATANABE"
+                }
+            ]
+        ],
+        "final_winner": "Bruno WATANABE"
+    }
+}

@@ -1,0 +1,282 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "DOM",
+                    "name": "Eduardo Manuel GUZMAN LARA"
+                },
+                {
+                    "winner": "Eduardo Manuel GUZMAN LARA"
+                }
+            ],
+            [
+                {
+                    "country": "PER",
+                    "name": "Juan GODOS"
+                },
+                {
+                    "country": "CAN",
+                    "name": "Alexandre ARENCIBIA"
+                },
+                {
+                    "winner": "Alexandre ARENCIBIA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "DOM",
+                    "name": "Eduardo Manuel GUZMAN LARA"
+                },
+                {
+                    "country": "CAN",
+                    "name": "Alexandre ARENCIBIA"
+                }
+            ],
+            [
+                {
+                    "country": "DOM",
+                    "name": "Eduardo Manuel GUZMAN LARA"
+                }
+            ]
+        ]
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "USA",
+                    "name": "Arthur WRIGHT"
+                },
+                {
+                    "winner": "Arthur WRIGHT"
+                }
+            ],
+            [
+                {
+                    "country": "USA",
+                    "name": "Jesse BUTLER"
+                },
+                {
+                    "country": "COL",
+                    "name": "Joaquin RUEDA"
+                },
+                {
+                    "winner": "Jesse BUTLER"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "USA",
+                    "name": "Arthur WRIGHT"
+                },
+                {
+                    "country": "USA",
+                    "name": "Jesse BUTLER"
+                }
+            ],
+            [
+                {
+                    "country": "USA",
+                    "name": "Arthur WRIGHT"
+                }
+            ]
+        ]
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Tiago PINHO"
+                },
+                {
+                    "winner": "Tiago PINHO"
+                }
+            ],
+            [
+                {
+                    "country": "CHI",
+                    "name": "Antonio TONEATTI"
+                },
+                {
+                    "country": "ARG",
+                    "name": "Agustin GIL"
+                },
+                {
+                    "winner": "Agustin GIL"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Tiago PINHO"
+                },
+                {
+                    "country": "ARG",
+                    "name": "Agustin GIL"
+                }
+            ],
+            [
+                {
+                    "country": "BRA",
+                    "name": "Tiago PINHO"
+                }
+            ]
+        ]
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CHI",
+                    "name": "Jorge PEREZ"
+                },
+                {
+                    "winner": "Jorge PEREZ"
+                }
+            ],
+            [
+                {
+                    "country": "CAN",
+                    "name": "Alex MARINEAU"
+                },
+                {
+                    "country": "MEX",
+                    "name": "PABLO DZIB"
+                },
+                {
+                    "winner": "Alex MARINEAU"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "CHI",
+                    "name": "Jorge PEREZ"
+                },
+                {
+                    "country": "CAN",
+                    "name": "Alex MARINEAU"
+                }
+            ],
+            [
+                {
+                    "country": "CAN",
+                    "name": "Alex MARINEAU"
+                }
+            ]
+        ]
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CAN",
+                    "name": "Alexandre ARENCIBIA"
+                },
+                {
+                    "country": "USA",
+                    "name": "Jesse BUTLER"
+                }
+            ],
+            [
+                {
+                    "country": "ARG",
+                    "name": "Agustin GIL"
+                },
+                {
+                    "country": "CHI",
+                    "name": "Jorge PEREZ"
+                }
+            ],
+            [
+                {
+                    "country": "CAN",
+                    "name": "Alexandre ARENCIBIA"
+                },
+                {
+                    "country": "CAN",
+                    "name": "Alex MARINEAU"
+                }
+            ],
+            [
+                {
+                    "country": "CHI",
+                    "name": "Jorge PEREZ"
+                },
+                {
+                    "country": "USA",
+                    "name": "Arthur WRIGHT"
+                }
+            ],
+            [
+                {
+                    "country": "CAN",
+                    "name": "Alex MARINEAU"
+                }
+            ],
+            [
+                {
+                    "country": "USA",
+                    "name": "Arthur WRIGHT"
+                }
+            ]
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "DOM",
+                    "name": "Eduardo Manuel GUZMAN LARA"
+                },
+                {
+                    "country": "USA",
+                    "name": "Arthur WRIGHT"
+                },
+                {
+                    "winner": "Eduardo Manuel GUZMAN LARA"
+                }
+            ],
+            [
+                {
+                    "country": "BRA",
+                    "name": "Tiago PINHO"
+                },
+                {
+                    "country": "CAN",
+                    "name": "Alex MARINEAU"
+                },
+                {
+                    "winner": "Tiago PINHO"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "DOM",
+                    "name": "Eduardo Manuel GUZMAN LARA"
+                },
+                {
+                    "country": "BRA",
+                    "name": "Tiago PINHO"
+                }
+            ],
+            [
+                {
+                    "country": "BRA",
+                    "name": "Tiago PINHO"
+                }
+            ]
+        ]
+    }
+}

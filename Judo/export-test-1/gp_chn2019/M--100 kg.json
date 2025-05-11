@@ -1,0 +1,289 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "KOR",
+                    "name": "Guham CHO"
+                },
+                {
+                    "country": "UAE",
+                    "name": "Ivan REMARENCO"
+                },
+                {
+                    "winner": "Guham CHO"
+                }
+            ],
+            [
+                {
+                    "country": "RUS",
+                    "name": "Arman ADAMIAN"
+                },
+                {
+                    "country": "CHN",
+                    "name": "Bo ZHANG"
+                },
+                {
+                    "winner": "Arman ADAMIAN"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "KOR",
+                    "name": "Guham CHO"
+                },
+                {
+                    "country": "RUS",
+                    "name": "Arman ADAMIAN"
+                }
+            ]
+        ],
+        "final_winner": "Guham CHO"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CAN",
+                    "name": "Shady ELNAHAS"
+                },
+                {
+                    "country": "FRA",
+                    "name": "Cyrille MARET"
+                },
+                {
+                    "winner": "Shady ELNAHAS"
+                }
+            ],
+            [
+                {
+                    "country": "AZE",
+                    "name": "Zelym KOTSOIEV"
+                },
+                {
+                    "country": "CHN",
+                    "name": "Huilin LI"
+                },
+                {
+                    "winner": "Zelym KOTSOIEV"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "CAN",
+                    "name": "Shady ELNAHAS"
+                },
+                {
+                    "country": "AZE",
+                    "name": "Zelym KOTSOIEV"
+                }
+            ]
+        ],
+        "final_winner": "Shady ELNAHAS"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "MGL",
+                    "name": "Otgonbaatar LKHAGVASUREN"
+                },
+                {
+                    "country": "CHN",
+                    "name": "ERIHEMUBATU"
+                },
+                {
+                    "winner": "Otgonbaatar LKHAGVASUREN"
+                }
+            ],
+            [
+                {
+                    "country": "SWE",
+                    "name": "Joakim DVARBY"
+                },
+                {
+                    "country": "CAN",
+                    "name": "Kyle REYES"
+                },
+                {
+                    "winner": "Kyle REYES"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "MGL",
+                    "name": "Otgonbaatar LKHAGVASUREN"
+                },
+                {
+                    "country": "CAN",
+                    "name": "Kyle REYES"
+                }
+            ]
+        ],
+        "final_winner": "Otgonbaatar LKHAGVASUREN"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "IRL",
+                    "name": "Benjamin FLETCHER"
+                },
+                {
+                    "country": "RUS",
+                    "name": "Ramazan MALSUIGENOV"
+                },
+                {
+                    "winner": "Benjamin FLETCHER"
+                }
+            ],
+            [
+                {
+                    "country": "GER",
+                    "name": "Karl-Richard FREY"
+                },
+                {
+                    "country": "CHN",
+                    "name": "FEI WANG"
+                },
+                {
+                    "winner": "Karl-Richard FREY"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "IRL",
+                    "name": "Benjamin FLETCHER"
+                },
+                {
+                    "country": "GER",
+                    "name": "Karl-Richard FREY"
+                }
+            ]
+        ],
+        "final_winner": "Benjamin FLETCHER"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "RUS",
+                    "name": "Arman ADAMIAN"
+                },
+                {
+                    "country": "AZE",
+                    "name": "Zelym KOTSOIEV"
+                },
+                {
+                    "winner": "Arman ADAMIAN"
+                }
+            ],
+            [
+                {
+                    "country": "CAN",
+                    "name": "Kyle REYES"
+                },
+                {
+                    "country": "GER",
+                    "name": "Karl-Richard FREY"
+                },
+                {
+                    "winner": "Karl-Richard FREY"
+                }
+            ],
+            [
+                {
+                    "country": "RUS",
+                    "name": "Arman ADAMIAN"
+                },
+                {
+                    "country": "MGL",
+                    "name": "Otgonbaatar LKHAGVASUREN"
+                },
+                {
+                    "winner": "Otgonbaatar LKHAGVASUREN"
+                }
+            ],
+            [
+                {
+                    "country": "GER",
+                    "name": "Karl-Richard FREY"
+                },
+                {
+                    "country": "CAN",
+                    "name": "Shady ELNAHAS"
+                },
+                {
+                    "winner": "Karl-Richard FREY"
+                }
+            ],
+            [
+                {
+                    "country": "MGL",
+                    "name": "Otgonbaatar LKHAGVASUREN"
+                }
+            ],
+            [
+                {
+                    "country": "GER",
+                    "name": "Karl-Richard FREY"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Otgonbaatar LKHAGVASUREN",
+            "Karl-Richard FREY"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "KOR",
+                    "name": "Guham CHO"
+                },
+                {
+                    "country": "CAN",
+                    "name": "Shady ELNAHAS"
+                },
+                {
+                    "winner": "Guham CHO"
+                }
+            ],
+            [
+                {
+                    "country": "MGL",
+                    "name": "Otgonbaatar LKHAGVASUREN"
+                },
+                {
+                    "country": "IRL",
+                    "name": "Benjamin FLETCHER"
+                },
+                {
+                    "winner": "Benjamin FLETCHER"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "KOR",
+                    "name": "Guham CHO"
+                },
+                {
+                    "country": "IRL",
+                    "name": "Benjamin FLETCHER"
+                }
+            ]
+        ],
+        "final_winner": "Guham CHO"
+    }
+}

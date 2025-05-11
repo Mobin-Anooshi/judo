@@ -1,0 +1,68 @@
+{
+    "ROUND 1": {
+        "round 1-2": [
+            [
+                {
+                    "country": "COL",
+                    "name": "Cindy MERA"
+                },
+                {
+                    "country": "PER",
+                    "name": "Rubi QUIJANDRIA"
+                },
+                {
+                    "winner": "Cindy MERA"
+                }
+            ],
+            [
+                {
+                    "country": "PER",
+                    "name": "Ariana CORNEJO"
+                },
+                {
+                    "country": "MEX",
+                    "name": "Katia CASTILLO"
+                },
+                {
+                    "winner": "Ariana CORNEJO"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Cindy MERA",
+            "Ariana CORNEJO"
+        ]
+    },
+    "REPECHAGE": {
+        "round 1-1": [
+            [
+                {
+                    "country": "PER",
+                    "name": "Rubi QUIJANDRIA"
+                },
+                {
+                    "country": "MEX",
+                    "name": "Katia CASTILLO"
+                },
+                {
+                    "winner": "Katia CASTILLO"
+                }
+            ],
+            [
+                {
+                    "country": "MEX",
+                    "name": "Katia CASTILLO"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Katia CASTILLO"
+        ]
+    },
+    "FINALS": {
+        "round 1-1": [],
+        "final_winners": [
+            "Cindy MERA"
+        ]
+    }
+}

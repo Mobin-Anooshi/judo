@@ -1,0 +1,153 @@
+{
+    "POOL A": {
+        "round 1-1": [],
+        "final_winner": "Christi-Rose PRETORIUS"
+    },
+    "POOL B": {
+        "round 1-1": [
+            [
+                {
+                    "country": "SEN",
+                    "name": "Yacine DJIBA"
+                },
+                {
+                    "country": "MAD",
+                    "name": "Miora RASOANAIVO"
+                }
+            ]
+        ],
+        "final_winner": "Yacine DJIBA"
+    },
+    "POOL C": {
+        "round 1-1": [
+            [
+                {
+                    "country": "EGY",
+                    "name": "Farah SHARAF"
+                },
+                {
+                    "country": "ANG",
+                    "name": "Odete PEDRO"
+                }
+            ]
+        ],
+        "final_winner": "Farah SHARAF"
+    },
+    "POOL D": {
+        "round 1-1": [
+            [
+                {
+                    "country": "CMR",
+                    "name": "Mayra Evelyne Shareefa NSANGOU SECKE"
+                },
+                {
+                    "country": "ALG",
+                    "name": "Razene Yasmine YOUSFI"
+                }
+            ]
+        ],
+        "final_winner": "Razene Yasmine YOUSFI"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "MAD",
+                    "name": "Miora RASOANAIVO"
+                }
+            ],
+            [
+                {
+                    "country": "ANG",
+                    "name": "Odete PEDRO"
+                },
+                {
+                    "country": "CMR",
+                    "name": "Mayra Evelyne Shareefa NSANGOU SECKE"
+                },
+                {
+                    "winner": "Mayra Evelyne Shareefa NSANGOU SECKE"
+                }
+            ],
+            [
+                {
+                    "country": "MAD",
+                    "name": "Miora RASOANAIVO"
+                },
+                {
+                    "country": "ALG",
+                    "name": "Razene Yasmine YOUSFI"
+                },
+                {
+                    "winner": "Miora RASOANAIVO"
+                }
+            ],
+            [
+                {
+                    "country": "CMR",
+                    "name": "Mayra Evelyne Shareefa NSANGOU SECKE"
+                },
+                {
+                    "country": "ZIM",
+                    "name": "Christi-Rose PRETORIUS"
+                },
+                {
+                    "winner": "Mayra Evelyne Shareefa NSANGOU SECKE"
+                }
+            ],
+            [
+                {
+                    "country": "CMR",
+                    "name": "Mayra Evelyne Shareefa NSANGOU SECKE"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Mayra Evelyne Shareefa NSANGOU SECKE",
+            "Miora RASOANAIVO"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ZIM",
+                    "name": "Christi-Rose PRETORIUS"
+                },
+                {
+                    "country": "SEN",
+                    "name": "Yacine DJIBA"
+                },
+                {
+                    "winner": "Yacine DJIBA"
+                }
+            ],
+            [
+                {
+                    "country": "EGY",
+                    "name": "Farah SHARAF"
+                },
+                {
+                    "country": "ALG",
+                    "name": "Razene Yasmine YOUSFI"
+                },
+                {
+                    "winner": "Farah SHARAF"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "SEN",
+                    "name": "Yacine DJIBA"
+                },
+                {
+                    "country": "EGY",
+                    "name": "Farah SHARAF"
+                }
+            ]
+        ],
+        "final_winner": "Yacine DJIBA"
+    }
+}

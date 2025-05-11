@@ -1,0 +1,295 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "MNE",
+                    "name": "Jovana PEKOVIC"
+                },
+                {
+                    "winner": "Jovana PEKOVIC"
+                }
+            ],
+            [
+                {
+                    "country": "ROU",
+                    "name": "Reka GONDOS"
+                },
+                {
+                    "winner": "Reka GONDOS"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "MNE",
+                    "name": "Jovana PEKOVIC"
+                },
+                {
+                    "country": "ROU",
+                    "name": "Reka GONDOS"
+                }
+            ]
+        ],
+        "final_winner": "Jovana PEKOVIC"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "GEO",
+                    "name": "Mariam TCHANTURIA"
+                },
+                {
+                    "winner": "Mariam TCHANTURIA"
+                }
+            ],
+            [
+                {
+                    "country": "ROU",
+                    "name": "Crina MARTON"
+                },
+                {
+                    "winner": "Crina MARTON"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "GEO",
+                    "name": "Mariam TCHANTURIA"
+                },
+                {
+                    "country": "ROU",
+                    "name": "Crina MARTON"
+                }
+            ]
+        ],
+        "final_winner": "Mariam TCHANTURIA"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "UKR",
+                    "name": "Hanna ANTYKALO"
+                },
+                {
+                    "winner": "Hanna ANTYKALO"
+                }
+            ],
+            [
+                {
+                    "country": "ROU",
+                    "name": "Diana MARCU"
+                },
+                {
+                    "winner": "Diana MARCU"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "UKR",
+                    "name": "Hanna ANTYKALO"
+                },
+                {
+                    "country": "ROU",
+                    "name": "Diana MARCU"
+                }
+            ]
+        ],
+        "final_winner": "Hanna ANTYKALO"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "UKR",
+                    "name": "Karyna SARKISYAN"
+                },
+                {
+                    "winner": "Karyna SARKISYAN"
+                }
+            ],
+            [
+                {
+                    "country": "SWE",
+                    "name": "Ida ERIKSSON"
+                },
+                {
+                    "winner": "Ida ERIKSSON"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "UKR",
+                    "name": "Karyna SARKISYAN"
+                },
+                {
+                    "country": "SWE",
+                    "name": "Ida ERIKSSON"
+                }
+            ]
+        ],
+        "final_winner": "Ida ERIKSSON"
+    },
+    "REPECHAGE": {
+        "round 1-4": [
+            [
+                {
+                    "country": "ROU",
+                    "name": "Reka GONDOS"
+                },
+                {
+                    "winner": "Reka GONDOS"
+                }
+            ],
+            [
+                {
+                    "country": "ROU",
+                    "name": "Crina MARTON"
+                },
+                {
+                    "winner": "Crina MARTON"
+                }
+            ],
+            [
+                {
+                    "country": "ROU",
+                    "name": "Diana MARCU"
+                },
+                {
+                    "winner": "Diana MARCU"
+                }
+            ],
+            [
+                {
+                    "country": "UKR",
+                    "name": "Karyna SARKISYAN"
+                },
+                {
+                    "winner": "Karyna SARKISYAN"
+                }
+            ]
+        ],
+        "round 1-2": [
+            [
+                {
+                    "country": "ROU",
+                    "name": "Reka GONDOS"
+                },
+                {
+                    "country": "ROU",
+                    "name": "Crina MARTON"
+                },
+                {
+                    "winner": "Crina MARTON"
+                }
+            ],
+            [
+                {
+                    "country": "ROU",
+                    "name": "Diana MARCU"
+                },
+                {
+                    "country": "UKR",
+                    "name": "Karyna SARKISYAN"
+                },
+                {
+                    "winner": "Diana MARCU"
+                }
+            ],
+            [
+                {
+                    "country": "ROU",
+                    "name": "Crina MARTON"
+                },
+                {
+                    "country": "UKR",
+                    "name": "Hanna ANTYKALO"
+                },
+                {
+                    "winner": "Hanna ANTYKALO"
+                }
+            ],
+            [
+                {
+                    "country": "ROU",
+                    "name": "Diana MARCU"
+                },
+                {
+                    "country": "MNE",
+                    "name": "Jovana PEKOVIC"
+                },
+                {
+                    "winner": "Jovana PEKOVIC"
+                }
+            ],
+            [
+                {
+                    "country": "UKR",
+                    "name": "Hanna ANTYKALO"
+                }
+            ],
+            [
+                {
+                    "country": "MNE",
+                    "name": "Jovana PEKOVIC"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Hanna ANTYKALO",
+            "Jovana PEKOVIC"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "MNE",
+                    "name": "Jovana PEKOVIC"
+                },
+                {
+                    "country": "GEO",
+                    "name": "Mariam TCHANTURIA"
+                },
+                {
+                    "winner": "Mariam TCHANTURIA"
+                }
+            ],
+            [
+                {
+                    "country": "UKR",
+                    "name": "Hanna ANTYKALO"
+                },
+                {
+                    "country": "SWE",
+                    "name": "Ida ERIKSSON"
+                },
+                {
+                    "winner": "Ida ERIKSSON"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "GEO",
+                    "name": "Mariam TCHANTURIA"
+                },
+                {
+                    "country": "SWE",
+                    "name": "Ida ERIKSSON"
+                }
+            ]
+        ],
+        "final_winner": "Ida ERIKSSON"
+    }
+}

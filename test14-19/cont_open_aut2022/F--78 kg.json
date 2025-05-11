@@ -1,0 +1,166 @@
+{
+    "POOL A": {
+        "round 1-1": [
+            [
+                {
+                    "country": "FRA",
+                    "name": "Madeleine MALONGA"
+                }
+            ]
+        ]
+    },
+    "POOL B": {
+        "round 1-1": [
+            [
+                {
+                    "country": "BEL",
+                    "name": "Sophie BERGER"
+                },
+                {
+                    "country": "TUR",
+                    "name": "Nurcan YILMAZ"
+                }
+            ],
+            [
+                {
+                    "country": "TUR",
+                    "name": "Nurcan YILMAZ"
+                }
+            ]
+        ]
+    },
+    "POOL C": {
+        "round 1-1": [
+            [
+                {
+                    "country": "UZB",
+                    "name": "Iriskhon KURBANBAEVA"
+                },
+                {
+                    "country": "SLO",
+                    "name": "Metka LOBNIK"
+                }
+            ],
+            [
+                {
+                    "country": "SLO",
+                    "name": "Metka LOBNIK"
+                }
+            ]
+        ]
+    },
+    "POOL D": {
+        "round 1-1": [
+            [
+                {
+                    "country": "KAZ",
+                    "name": "Aruna JANGELDINA"
+                },
+                {
+                    "country": "MNE",
+                    "name": "Jovana PEKOVIC"
+                }
+            ],
+            [
+                {
+                    "country": "MNE",
+                    "name": "Jovana PEKOVIC"
+                }
+            ]
+        ]
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "BEL",
+                    "name": "Sophie BERGER"
+                }
+            ],
+            [
+                {
+                    "country": "UZB",
+                    "name": "Iriskhon KURBANBAEVA"
+                },
+                {
+                    "country": "KAZ",
+                    "name": "Aruna JANGELDINA"
+                }
+            ],
+            [
+                {
+                    "country": "BEL",
+                    "name": "Sophie BERGER"
+                },
+                {
+                    "country": "MNE",
+                    "name": "Jovana PEKOVIC"
+                }
+            ],
+            [
+                {
+                    "country": "UZB",
+                    "name": "Iriskhon KURBANBAEVA"
+                },
+                {
+                    "country": "TUR",
+                    "name": "Nurcan YILMAZ"
+                }
+            ],
+            [
+                {
+                    "country": "TUR",
+                    "name": "Nurcan YILMAZ"
+                }
+            ]
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "FRA",
+                    "name": "Madeleine MALONGA"
+                },
+                {
+                    "country": "TUR",
+                    "name": "Nurcan YILMAZ"
+                },
+                {
+                    "winner": "Madeleine MALONGA"
+                }
+            ],
+            [
+                {
+                    "country": "SLO",
+                    "name": "Metka LOBNIK"
+                },
+                {
+                    "country": "MNE",
+                    "name": "Jovana PEKOVIC"
+                },
+                {
+                    "winner": "Metka LOBNIK"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "FRA",
+                    "name": "Madeleine MALONGA"
+                },
+                {
+                    "country": "SLO",
+                    "name": "Metka LOBNIK"
+                }
+            ],
+            [
+                {
+                    "country": "FRA",
+                    "name": "Madeleine MALONGA"
+                }
+            ]
+        ]
+    }
+}

@@ -1,0 +1,227 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "KAZ",
+                    "name": "Moldir BEISENOVA"
+                },
+                {
+                    "winner": "Moldir BEISENOVA"
+                }
+            ],
+            []
+        ],
+        "round 1-1": [],
+        "final_winner": "Moldir BEISENOVA"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "UZB",
+                    "name": "Shukurjon AMINOVA"
+                },
+                {
+                    "winner": "Shukurjon AMINOVA"
+                }
+            ],
+            [
+                {
+                    "country": "LBN",
+                    "name": "Jana EL HADDAD"
+                },
+                {
+                    "winner": "Jana EL HADDAD"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "UZB",
+                    "name": "Shukurjon AMINOVA"
+                },
+                {
+                    "country": "LBN",
+                    "name": "Jana EL HADDAD"
+                }
+            ]
+        ],
+        "final_winner": "Shukurjon AMINOVA"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "KAZ",
+                    "name": "Khanzada KAIRATOVA"
+                },
+                {
+                    "winner": "Khanzada KAIRATOVA"
+                }
+            ],
+            []
+        ],
+        "round 1-1": [],
+        "final_winner": "Khanzada KAIRATOVA"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "IND",
+                    "name": "Linthoi CHANAMBAM"
+                },
+                {
+                    "winner": "Linthoi CHANAMBAM"
+                }
+            ],
+            [
+                {
+                    "country": "SYR",
+                    "name": "Sama KENAN"
+                },
+                {
+                    "winner": "Sama KENAN"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "IND",
+                    "name": "Linthoi CHANAMBAM"
+                },
+                {
+                    "country": "SYR",
+                    "name": "Sama KENAN"
+                }
+            ]
+        ],
+        "final_winner": "Linthoi CHANAMBAM"
+    },
+    "REPECHAGE": {
+        "round 1-4": [
+            [],
+            [
+                {
+                    "country": "LBN",
+                    "name": "Jana EL HADDAD"
+                },
+                {
+                    "winner": "Jana EL HADDAD"
+                }
+            ],
+            [],
+            [
+                {
+                    "country": "SYR",
+                    "name": "Sama KENAN"
+                },
+                {
+                    "winner": "Sama KENAN"
+                }
+            ]
+        ],
+        "round 1-2": [
+            [
+                {
+                    "country": "LBN",
+                    "name": "Jana EL HADDAD"
+                }
+            ],
+            [
+                {
+                    "country": "SYR",
+                    "name": "Sama KENAN"
+                }
+            ],
+            [
+                {
+                    "country": "LBN",
+                    "name": "Jana EL HADDAD"
+                },
+                {
+                    "country": "KAZ",
+                    "name": "Khanzada KAIRATOVA"
+                },
+                {
+                    "winner": "Khanzada KAIRATOVA"
+                }
+            ],
+            [
+                {
+                    "country": "SYR",
+                    "name": "Sama KENAN"
+                },
+                {
+                    "country": "KAZ",
+                    "name": "Moldir BEISENOVA"
+                },
+                {
+                    "winner": "Moldir BEISENOVA"
+                }
+            ],
+            [
+                {
+                    "country": "KAZ",
+                    "name": "Khanzada KAIRATOVA"
+                }
+            ],
+            [
+                {
+                    "country": "KAZ",
+                    "name": "Moldir BEISENOVA"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Khanzada KAIRATOVA",
+            "Moldir BEISENOVA"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "KAZ",
+                    "name": "Moldir BEISENOVA"
+                },
+                {
+                    "country": "UZB",
+                    "name": "Shukurjon AMINOVA"
+                },
+                {
+                    "winner": "Shukurjon AMINOVA"
+                }
+            ],
+            [
+                {
+                    "country": "KAZ",
+                    "name": "Khanzada KAIRATOVA"
+                },
+                {
+                    "country": "IND",
+                    "name": "Linthoi CHANAMBAM"
+                },
+                {
+                    "winner": "Linthoi CHANAMBAM"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "UZB",
+                    "name": "Shukurjon AMINOVA"
+                },
+                {
+                    "country": "IND",
+                    "name": "Linthoi CHANAMBAM"
+                }
+            ]
+        ],
+        "final_winner": "Shukurjon AMINOVA"
+    }
+}

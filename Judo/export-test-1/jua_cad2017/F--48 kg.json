@@ -1,0 +1,177 @@
+{
+    "POOL A": {
+        "round 1-1": [
+            [
+                {
+                    "country": "UZB",
+                    "name": "Sita KADAMBOEVA"
+                },
+                {
+                    "country": "KOR",
+                    "name": "Hyein LEE"
+                }
+            ]
+        ],
+        "final_winner": "Sita KADAMBOEVA"
+    },
+    "POOL B": {
+        "round 1-1": [
+            [
+                {
+                    "country": "IND",
+                    "name": "Rina Devi KHAIDEM"
+                },
+                {
+                    "country": "MGL",
+                    "name": "NURZEDMAA ERDENEDALAI"
+                }
+            ]
+        ],
+        "final_winner": "NURZEDMAA ERDENEDALAI"
+    },
+    "POOL C": {
+        "round 1-1": [
+            [
+                {
+                    "country": "TPE",
+                    "name": "Pei-wen WEI"
+                },
+                {
+                    "country": "KGZ",
+                    "name": "Aidana MAMYTKANOVA"
+                }
+            ]
+        ],
+        "final_winner": "Pei-wen WEI"
+    },
+    "POOL D": {
+        "round 1-1": [
+            [
+                {
+                    "country": "KAZ",
+                    "name": "Akhzhol KAIYPKAN"
+                },
+                {
+                    "country": "MGL",
+                    "name": "Namuundalai ALTANKHUNDAGA"
+                }
+            ]
+        ],
+        "final_winner": "Namuundalai ALTANKHUNDAGA"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "KOR",
+                    "name": "Hyein LEE"
+                },
+                {
+                    "country": "IND",
+                    "name": "Rina Devi KHAIDEM"
+                },
+                {
+                    "winner": "Hyein LEE"
+                }
+            ],
+            [
+                {
+                    "country": "KGZ",
+                    "name": "Aidana MAMYTKANOVA"
+                },
+                {
+                    "country": "KAZ",
+                    "name": "Akhzhol KAIYPKAN"
+                },
+                {
+                    "winner": "Akhzhol KAIYPKAN"
+                }
+            ],
+            [
+                {
+                    "country": "KOR",
+                    "name": "Hyein LEE"
+                },
+                {
+                    "country": "MGL",
+                    "name": "Namuundalai ALTANKHUNDAGA"
+                },
+                {
+                    "winner": "Namuundalai ALTANKHUNDAGA"
+                }
+            ],
+            [
+                {
+                    "country": "KAZ",
+                    "name": "Akhzhol KAIYPKAN"
+                },
+                {
+                    "country": "MGL",
+                    "name": "NURZEDMAA ERDENEDALAI"
+                },
+                {
+                    "winner": "Akhzhol KAIYPKAN"
+                }
+            ],
+            [
+                {
+                    "country": "MGL",
+                    "name": "Namuundalai ALTANKHUNDAGA"
+                }
+            ],
+            [
+                {
+                    "country": "KAZ",
+                    "name": "Akhzhol KAIYPKAN"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Namuundalai ALTANKHUNDAGA",
+            "Akhzhol KAIYPKAN"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "UZB",
+                    "name": "Sita KADAMBOEVA"
+                },
+                {
+                    "country": "MGL",
+                    "name": "NURZEDMAA ERDENEDALAI"
+                },
+                {
+                    "winner": "Sita KADAMBOEVA"
+                }
+            ],
+            [
+                {
+                    "country": "TPE",
+                    "name": "Pei-wen WEI"
+                },
+                {
+                    "country": "MGL",
+                    "name": "Namuundalai ALTANKHUNDAGA"
+                },
+                {
+                    "winner": "Pei-wen WEI"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "UZB",
+                    "name": "Sita KADAMBOEVA"
+                },
+                {
+                    "country": "TPE",
+                    "name": "Pei-wen WEI"
+                }
+            ]
+        ],
+        "final_winner": "Sita KADAMBOEVA"
+    }
+}

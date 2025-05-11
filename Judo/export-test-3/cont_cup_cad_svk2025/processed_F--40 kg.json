@@ -1,0 +1,87 @@
+{
+    "POOL A": {
+        "round 1-3": [
+            [
+                {
+                    "country": "ROU",
+                    "name": "Daria MARIAN"
+                },
+                {
+                    "country": "ISR",
+                    "name": "Rivka ITSKOV"
+                },
+                {
+                    "winner": "Daria MARIAN"
+                }
+            ],
+            [
+                {
+                    "country": "ROU",
+                    "name": "Daria MARIAN"
+                },
+                {
+                    "country": "HUN",
+                    "name": "Maja RADICS"
+                },
+                {
+                    "winner": "Maja RADICS"
+                }
+            ],
+            [
+                {
+                    "country": "ISR",
+                    "name": "Rivka ITSKOV"
+                },
+                {
+                    "country": "HUN",
+                    "name": "Maja RADICS"
+                },
+                {
+                    "winner": "Rivka ITSKOV"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Rivka ITSKOV",
+            "Maja RADICS"
+        ]
+    },
+    "POOL B": {
+        "round 1-1": [],
+        "final_winners": [
+            "Hana VUKMIROVIC"
+        ]
+    },
+    "REPECHAGE": {
+        "round 1-1": [
+            [
+                {
+                    "country": "ISR",
+                    "name": "Rivka ITSKOV"
+                },
+                {
+                    "country": "HUN",
+                    "name": "Nora PIRBUS-GROF"
+                },
+                {
+                    "winner": "Rivka ITSKOV"
+                }
+            ],
+            [
+                {
+                    "country": "ISR",
+                    "name": "Rivka ITSKOV"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Rivka ITSKOV"
+        ]
+    },
+    "FINALS": {
+        "round 1-1": [],
+        "final_winners": [
+            "Maja RADICS"
+        ]
+    }
+}

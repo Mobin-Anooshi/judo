@@ -1,0 +1,261 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "HKG",
+                    "name": "Hong Nin MAK"
+                },
+                {
+                    "winner": "Hong Nin MAK"
+                }
+            ],
+            [
+                {
+                    "country": "MAC",
+                    "name": "Man chon TAM"
+                },
+                {
+                    "winner": "Man chon TAM"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "HKG",
+                    "name": "Hong Nin MAK"
+                },
+                {
+                    "country": "MAC",
+                    "name": "Man chon TAM"
+                }
+            ]
+        ],
+        "final_winner": "Hong Nin MAK"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "KOR",
+                    "name": "Dowon JUN"
+                },
+                {
+                    "winner": "Dowon JUN"
+                }
+            ],
+            [
+                {
+                    "country": "HKG",
+                    "name": "Tsz Wan MAK"
+                },
+                {
+                    "winner": "Tsz Wan MAK"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "KOR",
+                    "name": "Dowon JUN"
+                },
+                {
+                    "country": "HKG",
+                    "name": "Tsz Wan MAK"
+                }
+            ]
+        ],
+        "final_winner": "Tsz Wan MAK"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "AUS",
+                    "name": "Rhys ALLAN"
+                },
+                {
+                    "country": "HKG",
+                    "name": "Yue Ting LEE"
+                },
+                {
+                    "winner": "Rhys ALLAN"
+                }
+            ],
+            [
+                {
+                    "country": "UAE",
+                    "name": "Alshamsi MOSABAH"
+                },
+                {
+                    "winner": "Alshamsi MOSABAH"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "AUS",
+                    "name": "Rhys ALLAN"
+                },
+                {
+                    "country": "UAE",
+                    "name": "Alshamsi MOSABAH"
+                }
+            ]
+        ],
+        "final_winner": "Rhys ALLAN"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "HKG",
+                    "name": "Ching long owen WONG"
+                },
+                {
+                    "winner": "Ching long owen WONG"
+                }
+            ],
+            [
+                {
+                    "country": "LAO",
+                    "name": "Willam jamie sneha BREEN"
+                },
+                {
+                    "winner": "Willam jamie sneha BREEN"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "HKG",
+                    "name": "Ching long owen WONG"
+                },
+                {
+                    "country": "LAO",
+                    "name": "Willam jamie sneha BREEN"
+                }
+            ]
+        ],
+        "final_winner": "Willam jamie sneha BREEN"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "MAC",
+                    "name": "Man chon TAM"
+                },
+                {
+                    "country": "KOR",
+                    "name": "Dowon JUN"
+                },
+                {
+                    "winner": "Man chon TAM"
+                }
+            ],
+            [
+                {
+                    "country": "UAE",
+                    "name": "Alshamsi MOSABAH"
+                },
+                {
+                    "country": "HKG",
+                    "name": "Ching long owen WONG"
+                },
+                {
+                    "winner": "Ching long owen WONG"
+                }
+            ],
+            [
+                {
+                    "country": "MAC",
+                    "name": "Man chon TAM"
+                },
+                {
+                    "country": "LAO",
+                    "name": "Willam jamie sneha BREEN"
+                },
+                {
+                    "winner": "Man chon TAM"
+                }
+            ],
+            [
+                {
+                    "country": "HKG",
+                    "name": "Ching long owen WONG"
+                },
+                {
+                    "country": "HKG",
+                    "name": "Tsz Wan MAK"
+                },
+                {
+                    "winner": "Ching long owen WONG"
+                }
+            ],
+            [
+                {
+                    "country": "MAC",
+                    "name": "Man chon TAM"
+                }
+            ],
+            [
+                {
+                    "country": "HKG",
+                    "name": "Ching long owen WONG"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Man chon TAM",
+            "Ching long owen WONG"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "HKG",
+                    "name": "Hong Nin MAK"
+                },
+                {
+                    "country": "HKG",
+                    "name": "Tsz Wan MAK"
+                },
+                {
+                    "winner": "Hong Nin MAK"
+                }
+            ],
+            [
+                {
+                    "country": "AUS",
+                    "name": "Rhys ALLAN"
+                },
+                {
+                    "country": "LAO",
+                    "name": "Willam jamie sneha BREEN"
+                },
+                {
+                    "winner": "Rhys ALLAN"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "HKG",
+                    "name": "Hong Nin MAK"
+                },
+                {
+                    "country": "AUS",
+                    "name": "Rhys ALLAN"
+                }
+            ]
+        ],
+        "final_winner": "Rhys ALLAN"
+    }
+}

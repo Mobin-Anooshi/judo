@@ -1,0 +1,68 @@
+{
+    "ROUND 1": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CHI",
+                    "name": "Valentina JIMENEZ"
+                },
+                {
+                    "country": "PER",
+                    "name": "Rubi QUIJANDRIA"
+                },
+                {
+                    "winner": "Rubi QUIJANDRIA"
+                }
+            ],
+            [
+                {
+                    "country": "PER",
+                    "name": "Estrella FAJARDO"
+                },
+                {
+                    "country": "PER",
+                    "name": "Cielo FAJARDO"
+                },
+                {
+                    "winner": "Cielo FAJARDO"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Rubi QUIJANDRIA",
+            "Cielo FAJARDO"
+        ]
+    },
+    "REPECHAGE": {
+        "round 1-1": [
+            [
+                {
+                    "country": "CHI",
+                    "name": "Valentina JIMENEZ"
+                },
+                {
+                    "country": "PER",
+                    "name": "Estrella FAJARDO"
+                },
+                {
+                    "winner": "Valentina JIMENEZ"
+                }
+            ],
+            [
+                {
+                    "country": "CHI",
+                    "name": "Valentina JIMENEZ"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Valentina JIMENEZ"
+        ]
+    },
+    "FINALS": {
+        "round 1-1": [],
+        "final_winners": [
+            "Rubi QUIJANDRIA"
+        ]
+    }
+}

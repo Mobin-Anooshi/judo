@@ -1,0 +1,172 @@
+{
+    "POOL A": {
+        "round 1-1": [
+            [
+                {
+                    "country": "NED",
+                    "name": "Jules BLOM"
+                }
+            ]
+        ]
+    },
+    "POOL B": {
+        "round 1-1": [
+            [
+                {
+                    "country": "POL",
+                    "name": "Jakub SORDYL"
+                },
+                {
+                    "country": "GBR",
+                    "name": "Thomas HUMPHREY"
+                }
+            ],
+            [
+                {
+                    "country": "POL",
+                    "name": "Jakub SORDYL"
+                }
+            ]
+        ]
+    },
+    "POOL C": {
+        "round 1-1": [
+            [
+                {
+                    "country": "EST",
+                    "name": "Karl PRIILINN TURK"
+                },
+                {
+                    "country": "UKR",
+                    "name": "Alieksiei MOISIEIEV"
+                }
+            ],
+            [
+                {
+                    "country": "EST",
+                    "name": "Karl PRIILINN TURK"
+                }
+            ]
+        ]
+    },
+    "POOL D": {
+        "round 1-1": [
+            [
+                {
+                    "country": "GBR",
+                    "name": "Wesley GREENIDGE"
+                },
+                {
+                    "country": "EST",
+                    "name": "Kabriel KIRNA"
+                }
+            ],
+            [
+                {
+                    "country": "GBR",
+                    "name": "Wesley GREENIDGE"
+                }
+            ]
+        ]
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "GBR",
+                    "name": "Thomas HUMPHREY"
+                }
+            ],
+            [
+                {
+                    "country": "UKR",
+                    "name": "Alieksiei MOISIEIEV"
+                },
+                {
+                    "country": "EST",
+                    "name": "Kabriel KIRNA"
+                }
+            ],
+            [
+                {
+                    "country": "GBR",
+                    "name": "Thomas HUMPHREY"
+                },
+                {
+                    "country": "EST",
+                    "name": "Karl PRIILINN TURK"
+                }
+            ],
+            [
+                {
+                    "country": "UKR",
+                    "name": "Alieksiei MOISIEIEV"
+                },
+                {
+                    "country": "POL",
+                    "name": "Jakub SORDYL"
+                }
+            ],
+            [
+                {
+                    "country": "EST",
+                    "name": "Karl PRIILINN TURK"
+                }
+            ],
+            [
+                {
+                    "country": "POL",
+                    "name": "Jakub SORDYL"
+                }
+            ]
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "NED",
+                    "name": "Jules BLOM"
+                },
+                {
+                    "country": "POL",
+                    "name": "Jakub SORDYL"
+                },
+                {
+                    "winner": "Jules BLOM"
+                }
+            ],
+            [
+                {
+                    "country": "EST",
+                    "name": "Karl PRIILINN TURK"
+                },
+                {
+                    "country": "GBR",
+                    "name": "Wesley GREENIDGE"
+                },
+                {
+                    "winner": "Wesley GREENIDGE"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "NED",
+                    "name": "Jules BLOM"
+                },
+                {
+                    "country": "GBR",
+                    "name": "Wesley GREENIDGE"
+                }
+            ],
+            [
+                {
+                    "country": "GBR",
+                    "name": "Wesley GREENIDGE"
+                }
+            ]
+        ]
+    }
+}

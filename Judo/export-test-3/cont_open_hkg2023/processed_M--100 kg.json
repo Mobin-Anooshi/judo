@@ -1,0 +1,87 @@
+{
+    "POOL A": {
+        "round 1-3": [
+            [
+                {
+                    "country": "KOR",
+                    "name": "Hyeonjong YU"
+                },
+                {
+                    "country": "KOR",
+                    "name": "Hangyeol JUNG"
+                },
+                {
+                    "winner": "Hyeonjong YU"
+                }
+            ],
+            [
+                {
+                    "country": "KOR",
+                    "name": "Hyeonjong YU"
+                },
+                {
+                    "country": "AUS",
+                    "name": "Liam PARK"
+                },
+                {
+                    "winner": "Liam PARK"
+                }
+            ],
+            [
+                {
+                    "country": "KOR",
+                    "name": "Hangyeol JUNG"
+                },
+                {
+                    "country": "AUS",
+                    "name": "Liam PARK"
+                },
+                {
+                    "winner": "Hangyeol JUNG"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Hyeonjong YU",
+            "Hangyeol JUNG"
+        ]
+    },
+    "POOL B": {
+        "round 1-1": [],
+        "final_winners": [
+            "Seheon KIM"
+        ]
+    },
+    "REPECHAGE": {
+        "round 1-1": [
+            [
+                {
+                    "country": "KOR",
+                    "name": "Hangyeol JUNG"
+                },
+                {
+                    "country": "KOR",
+                    "name": "Minkyu KIM"
+                },
+                {
+                    "winner": "Hangyeol JUNG"
+                }
+            ],
+            [
+                {
+                    "country": "KOR",
+                    "name": "Hangyeol JUNG"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Hangyeol JUNG"
+        ]
+    },
+    "FINALS": {
+        "round 1-1": [],
+        "final_winners": [
+            "Seheon KIM"
+        ]
+    }
+}

@@ -1,0 +1,268 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "FRA",
+                    "name": "Christelle GARRY"
+                },
+                {
+                    "winner": "Christelle GARRY"
+                }
+            ],
+            [
+                {
+                    "country": "RUS",
+                    "name": "Ekaterina INOZEMTSEVA"
+                },
+                {
+                    "winner": "Ekaterina INOZEMTSEVA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "FRA",
+                    "name": "Christelle GARRY"
+                },
+                {
+                    "country": "RUS",
+                    "name": "Ekaterina INOZEMTSEVA"
+                }
+            ],
+            [
+                {
+                    "country": "FRA",
+                    "name": "Christelle GARRY"
+                }
+            ]
+        ]
+    },
+    "POOL B": {
+        "round 1-2": [
+            [],
+            [
+                {
+                    "country": "RUS",
+                    "name": "Antonina SHMELEVA"
+                },
+                {
+                    "winner": "Antonina SHMELEVA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "RUS",
+                    "name": "Antonina SHMELEVA"
+                }
+            ]
+        ]
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "RUS",
+                    "name": "Irina KHARITONOVA"
+                },
+                {
+                    "winner": "Irina KHARITONOVA"
+                }
+            ],
+            [
+                {
+                    "country": "RUS",
+                    "name": "Alisa NECHAEVA"
+                },
+                {
+                    "winner": "Alisa NECHAEVA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "RUS",
+                    "name": "Irina KHARITONOVA"
+                },
+                {
+                    "country": "RUS",
+                    "name": "Alisa NECHAEVA"
+                }
+            ],
+            [
+                {
+                    "country": "RUS",
+                    "name": "Irina KHARITONOVA"
+                }
+            ]
+        ]
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "RUS",
+                    "name": "Valeriia DAVYDKINA"
+                },
+                {
+                    "winner": "Valeriia DAVYDKINA"
+                }
+            ],
+            [
+                {
+                    "country": "HUN",
+                    "name": "Evelin SALANKI"
+                },
+                {
+                    "winner": "Evelin SALANKI"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "RUS",
+                    "name": "Valeriia DAVYDKINA"
+                },
+                {
+                    "country": "HUN",
+                    "name": "Evelin SALANKI"
+                }
+            ],
+            [
+                {
+                    "country": "HUN",
+                    "name": "Evelin SALANKI"
+                }
+            ]
+        ]
+    },
+    "REPECHAGE": {
+        "round 1-4": [
+            [
+                {
+                    "country": "RUS",
+                    "name": "Ekaterina INOZEMTSEVA"
+                },
+                {
+                    "winner": "Ekaterina INOZEMTSEVA"
+                }
+            ],
+            [],
+            [
+                {
+                    "country": "RUS",
+                    "name": "Alisa NECHAEVA"
+                },
+                {
+                    "winner": "Alisa NECHAEVA"
+                }
+            ],
+            [
+                {
+                    "country": "RUS",
+                    "name": "Valeriia DAVYDKINA"
+                },
+                {
+                    "winner": "Valeriia DAVYDKINA"
+                }
+            ]
+        ],
+        "round 1-2": [
+            [
+                {
+                    "country": "RUS",
+                    "name": "Ekaterina INOZEMTSEVA"
+                }
+            ],
+            [
+                {
+                    "country": "RUS",
+                    "name": "Alisa NECHAEVA"
+                },
+                {
+                    "country": "RUS",
+                    "name": "Valeriia DAVYDKINA"
+                }
+            ],
+            [
+                {
+                    "country": "RUS",
+                    "name": "Ekaterina INOZEMTSEVA"
+                },
+                {
+                    "country": "RUS",
+                    "name": "Irina KHARITONOVA"
+                }
+            ],
+            [
+                {
+                    "country": "RUS",
+                    "name": "Valeriia DAVYDKINA"
+                },
+                {
+                    "country": "FRA",
+                    "name": "Christelle GARRY"
+                }
+            ],
+            [
+                {
+                    "country": "FRA",
+                    "name": "Christelle GARRY"
+                }
+            ]
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "FRA",
+                    "name": "Christelle GARRY"
+                },
+                {
+                    "country": "RUS",
+                    "name": "Antonina SHMELEVA"
+                },
+                {
+                    "winner": "Antonina SHMELEVA"
+                }
+            ],
+            [
+                {
+                    "country": "RUS",
+                    "name": "Irina KHARITONOVA"
+                },
+                {
+                    "country": "HUN",
+                    "name": "Evelin SALANKI"
+                },
+                {
+                    "winner": "Evelin SALANKI"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "RUS",
+                    "name": "Antonina SHMELEVA"
+                },
+                {
+                    "country": "HUN",
+                    "name": "Evelin SALANKI"
+                }
+            ],
+            [
+                {
+                    "country": "HUN",
+                    "name": "Evelin SALANKI"
+                }
+            ]
+        ]
+    }
+}

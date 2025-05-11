@@ -1,0 +1,135 @@
+{
+    "POOL A": {
+        "round 1-1": [],
+        "final_winner": "Ali ALRAMZI"
+    },
+    "POOL B": {
+        "round 1-1": [
+            [
+                {
+                    "country": "MAR",
+                    "name": "Younes HAOUJI"
+                },
+                {
+                    "country": "NIG",
+                    "name": "Djibo ABDOUL AZIZ"
+                }
+            ]
+        ],
+        "final_winner": "Djibo ABDOUL AZIZ"
+    },
+    "POOL C": {
+        "round 1-1": [
+            [
+                {
+                    "country": "MAR",
+                    "name": "Zakaria KOUJ"
+                },
+                {
+                    "country": "KEN",
+                    "name": "Kelvin ONG'ANYA"
+                }
+            ]
+        ],
+        "final_winner": "Kelvin ONG'ANYA"
+    },
+    "POOL D": {
+        "round 1-1": [],
+        "final_winner": "Anas JARAF"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "MAR",
+                    "name": "Younes HAOUJI"
+                }
+            ],
+            [
+                {
+                    "country": "MAR",
+                    "name": "Zakaria KOUJ"
+                }
+            ],
+            [
+                {
+                    "country": "MAR",
+                    "name": "Younes HAOUJI"
+                },
+                {
+                    "country": "KEN",
+                    "name": "Kelvin ONG'ANYA"
+                },
+                {
+                    "winner": "Younes HAOUJI"
+                }
+            ],
+            [
+                {
+                    "country": "MAR",
+                    "name": "Zakaria KOUJ"
+                },
+                {
+                    "country": "KUW",
+                    "name": "Ali ALRAMZI"
+                },
+                {
+                    "winner": "Ali ALRAMZI"
+                }
+            ],
+            [
+                {
+                    "country": "KUW",
+                    "name": "Ali ALRAMZI"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Zakaria KOUJ",
+            "Younes HAOUJI"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "KUW",
+                    "name": "Ali ALRAMZI"
+                },
+                {
+                    "country": "NIG",
+                    "name": "Djibo ABDOUL AZIZ"
+                },
+                {
+                    "winner": "Djibo ABDOUL AZIZ"
+                }
+            ],
+            [
+                {
+                    "country": "KEN",
+                    "name": "Kelvin ONG'ANYA"
+                },
+                {
+                    "country": "MAR",
+                    "name": "Anas JARAF"
+                },
+                {
+                    "winner": "Anas JARAF"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "NIG",
+                    "name": "Djibo ABDOUL AZIZ"
+                },
+                {
+                    "country": "MAR",
+                    "name": "Anas JARAF"
+                }
+            ]
+        ],
+        "final_winner": "Djibo ABDOUL AZIZ"
+    }
+}

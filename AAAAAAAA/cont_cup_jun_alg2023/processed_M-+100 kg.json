@@ -1,0 +1,177 @@
+{
+    "POOL A": {
+        "round 1-1": [
+            [
+                {
+                    "country": "CYP",
+                    "name": "Giannis ANTONIOU"
+                },
+                {
+                    "country": "ALG",
+                    "name": "Fares BOUKEDJAR"
+                }
+            ]
+        ],
+        "final_winner": "Giannis ANTONIOU"
+    },
+    "POOL B": {
+        "round 1-1": [
+            [
+                {
+                    "country": "ALG",
+                    "name": "Mohamed Amokrane SEBKI"
+                },
+                {
+                    "country": "ALG",
+                    "name": "Abderraouf BOUICHER"
+                }
+            ]
+        ],
+        "final_winner": "Mohamed Amokrane SEBKI"
+    },
+    "POOL C": {
+        "round 1-1": [
+            [
+                {
+                    "country": "ALG",
+                    "name": "Mohamed El Mahdi MASAHEL"
+                },
+                {
+                    "country": "ALG",
+                    "name": "Samir MOULLA"
+                }
+            ]
+        ],
+        "final_winner": "Mohamed El Mahdi MASAHEL"
+    },
+    "POOL D": {
+        "round 1-1": [
+            [
+                {
+                    "country": "ALG",
+                    "name": "Diaeddine BOUCHEKER"
+                },
+                {
+                    "country": "TUN",
+                    "name": "Adem KOUKI"
+                }
+            ]
+        ],
+        "final_winner": "Adem KOUKI"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ALG",
+                    "name": "Fares BOUKEDJAR"
+                },
+                {
+                    "country": "ALG",
+                    "name": "Abderraouf BOUICHER"
+                },
+                {
+                    "winner": "Fares BOUKEDJAR"
+                }
+            ],
+            [
+                {
+                    "country": "ALG",
+                    "name": "Samir MOULLA"
+                },
+                {
+                    "country": "ALG",
+                    "name": "Diaeddine BOUCHEKER"
+                },
+                {
+                    "winner": "Samir MOULLA"
+                }
+            ],
+            [
+                {
+                    "country": "ALG",
+                    "name": "Fares BOUKEDJAR"
+                },
+                {
+                    "country": "TUN",
+                    "name": "Adem KOUKI"
+                },
+                {
+                    "winner": "Adem KOUKI"
+                }
+            ],
+            [
+                {
+                    "country": "ALG",
+                    "name": "Samir MOULLA"
+                },
+                {
+                    "country": "ALG",
+                    "name": "Mohamed Amokrane SEBKI"
+                },
+                {
+                    "winner": "Samir MOULLA"
+                }
+            ],
+            [
+                {
+                    "country": "TUN",
+                    "name": "Adem KOUKI"
+                }
+            ],
+            [
+                {
+                    "country": "ALG",
+                    "name": "Samir MOULLA"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Adem KOUKI",
+            "Samir MOULLA"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CYP",
+                    "name": "Giannis ANTONIOU"
+                },
+                {
+                    "country": "ALG",
+                    "name": "Mohamed Amokrane SEBKI"
+                },
+                {
+                    "winner": "Giannis ANTONIOU"
+                }
+            ],
+            [
+                {
+                    "country": "ALG",
+                    "name": "Mohamed El Mahdi MASAHEL"
+                },
+                {
+                    "country": "TUN",
+                    "name": "Adem KOUKI"
+                },
+                {
+                    "winner": "Mohamed El Mahdi MASAHEL"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "CYP",
+                    "name": "Giannis ANTONIOU"
+                },
+                {
+                    "country": "ALG",
+                    "name": "Mohamed El Mahdi MASAHEL"
+                }
+            ]
+        ],
+        "final_winner": "Giannis ANTONIOU"
+    }
+}

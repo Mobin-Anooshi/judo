@@ -1,0 +1,177 @@
+{
+    "POOL A": {
+        "round 1-1": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Enya PIRES"
+                },
+                {
+                    "country": "FRA",
+                    "name": "Ninon LASSALLE"
+                }
+            ]
+        ],
+        "final_winner": "Enya PIRES"
+    },
+    "POOL B": {
+        "round 1-1": [
+            [
+                {
+                    "country": "ROU",
+                    "name": "Daria TUDORACHE"
+                },
+                {
+                    "country": "JPN",
+                    "name": "Tomoka INOUE"
+                }
+            ]
+        ],
+        "final_winner": "Tomoka INOUE"
+    },
+    "POOL C": {
+        "round 1-1": [
+            [
+                {
+                    "country": "SLO",
+                    "name": "Tara JANJIC"
+                },
+                {
+                    "country": "TUR",
+                    "name": "Nahide SAYLAG"
+                }
+            ]
+        ],
+        "final_winner": "Tara JANJIC"
+    },
+    "POOL D": {
+        "round 1-1": [
+            [
+                {
+                    "country": "NED",
+                    "name": "Julia DEKKER"
+                },
+                {
+                    "country": "JPN",
+                    "name": "Chihiro YAMAGUCHI"
+                }
+            ]
+        ],
+        "final_winner": "Chihiro YAMAGUCHI"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "FRA",
+                    "name": "Ninon LASSALLE"
+                },
+                {
+                    "country": "ROU",
+                    "name": "Daria TUDORACHE"
+                },
+                {
+                    "winner": "Ninon LASSALLE"
+                }
+            ],
+            [
+                {
+                    "country": "TUR",
+                    "name": "Nahide SAYLAG"
+                },
+                {
+                    "country": "NED",
+                    "name": "Julia DEKKER"
+                },
+                {
+                    "winner": "Julia DEKKER"
+                }
+            ],
+            [
+                {
+                    "country": "FRA",
+                    "name": "Ninon LASSALLE"
+                },
+                {
+                    "country": "SLO",
+                    "name": "Tara JANJIC"
+                },
+                {
+                    "winner": "Ninon LASSALLE"
+                }
+            ],
+            [
+                {
+                    "country": "NED",
+                    "name": "Julia DEKKER"
+                },
+                {
+                    "country": "BRA",
+                    "name": "Enya PIRES"
+                },
+                {
+                    "winner": "Enya PIRES"
+                }
+            ],
+            [
+                {
+                    "country": "FRA",
+                    "name": "Ninon LASSALLE"
+                }
+            ],
+            [
+                {
+                    "country": "BRA",
+                    "name": "Enya PIRES"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Ninon LASSALLE",
+            "Enya PIRES"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Enya PIRES"
+                },
+                {
+                    "country": "JPN",
+                    "name": "Tomoka INOUE"
+                },
+                {
+                    "winner": "Tomoka INOUE"
+                }
+            ],
+            [
+                {
+                    "country": "SLO",
+                    "name": "Tara JANJIC"
+                },
+                {
+                    "country": "JPN",
+                    "name": "Chihiro YAMAGUCHI"
+                },
+                {
+                    "winner": "Chihiro YAMAGUCHI"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "JPN",
+                    "name": "Tomoka INOUE"
+                },
+                {
+                    "country": "JPN",
+                    "name": "Chihiro YAMAGUCHI"
+                }
+            ]
+        ],
+        "final_winner": "Chihiro YAMAGUCHI"
+    }
+}

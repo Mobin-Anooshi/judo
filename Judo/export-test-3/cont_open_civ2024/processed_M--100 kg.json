@@ -1,0 +1,87 @@
+{
+    "POOL A": {
+        "round 1-3": [
+            [
+                {
+                    "country": "SEN",
+                    "name": "Libasse NDIAYE"
+                },
+                {
+                    "country": "BEN",
+                    "name": "Celtus DOSSOU YOVO"
+                },
+                {
+                    "winner": "Libasse NDIAYE"
+                }
+            ],
+            [
+                {
+                    "country": "SEN",
+                    "name": "Libasse NDIAYE"
+                },
+                {
+                    "country": "CIV",
+                    "name": "Brahim SYLLA"
+                },
+                {
+                    "winner": "Brahim SYLLA"
+                }
+            ],
+            [
+                {
+                    "country": "BEN",
+                    "name": "Celtus DOSSOU YOVO"
+                },
+                {
+                    "country": "CIV",
+                    "name": "Brahim SYLLA"
+                },
+                {
+                    "winner": "Celtus DOSSOU YOVO"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Libasse NDIAYE",
+            "Celtus DOSSOU YOVO"
+        ]
+    },
+    "POOL B": {
+        "round 1-1": [],
+        "final_winners": [
+            "Franck Ulrick TAHMAN ZAN"
+        ]
+    },
+    "REPECHAGE": {
+        "round 1-1": [
+            [
+                {
+                    "country": "BEN",
+                    "name": "Celtus DOSSOU YOVO"
+                },
+                {
+                    "country": "GHA",
+                    "name": "Waheed DODOO"
+                },
+                {
+                    "winner": "Celtus DOSSOU YOVO"
+                }
+            ],
+            [
+                {
+                    "country": "BEN",
+                    "name": "Celtus DOSSOU YOVO"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Celtus DOSSOU YOVO"
+        ]
+    },
+    "FINALS": {
+        "round 1-1": [],
+        "final_winners": [
+            "Franck Ulrick TAHMAN ZAN"
+        ]
+    }
+}

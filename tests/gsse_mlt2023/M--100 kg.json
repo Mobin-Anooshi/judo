@@ -1,0 +1,152 @@
+{
+    "POOL A": {
+        "round 1-1": [
+            [
+                {
+                    "country": "MLT",
+                    "name": "Isaac BEZZINA"
+                }
+            ]
+        ]
+    },
+    "POOL B": {
+        "round 1-1": [
+            [
+                {
+                    "country": "MNE",
+                    "name": "Danilo PANTIC"
+                },
+                {
+                    "country": "ISL",
+                    "name": "Egill BLONDAL"
+                }
+            ],
+            [
+                {
+                    "country": "MNE",
+                    "name": "Danilo PANTIC"
+                }
+            ]
+        ]
+    },
+    "POOL C": {
+        "round 1-1": [
+            [
+                {
+                    "country": "CYP",
+                    "name": "Georgios KROUSSANIOTAKIS"
+                },
+                {
+                    "country": "MON",
+                    "name": "Franck VATAN"
+                }
+            ],
+            [
+                {
+                    "country": "CYP",
+                    "name": "Georgios KROUSSANIOTAKIS"
+                }
+            ]
+        ]
+    },
+    "POOL D": {
+        "round 1-1": [
+            [
+                {
+                    "country": "LIE",
+                    "name": "Raphael SCHWENDINGER"
+                }
+            ]
+        ]
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ISL",
+                    "name": "Egill BLONDAL"
+                }
+            ],
+            [
+                {
+                    "country": "MON",
+                    "name": "Franck VATAN"
+                }
+            ],
+            [
+                {
+                    "country": "ISL",
+                    "name": "Egill BLONDAL"
+                },
+                {
+                    "country": "LIE",
+                    "name": "Raphael SCHWENDINGER"
+                }
+            ],
+            [
+                {
+                    "country": "MON",
+                    "name": "Franck VATAN"
+                },
+                {
+                    "country": "MLT",
+                    "name": "Isaac BEZZINA"
+                }
+            ],
+            [
+                {
+                    "country": "MLT",
+                    "name": "Isaac BEZZINA"
+                }
+            ]
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "MLT",
+                    "name": "Isaac BEZZINA"
+                },
+                {
+                    "country": "MNE",
+                    "name": "Danilo PANTIC"
+                },
+                {
+                    "winner": "Danilo PANTIC"
+                }
+            ],
+            [
+                {
+                    "country": "CYP",
+                    "name": "Georgios KROUSSANIOTAKIS"
+                },
+                {
+                    "country": "LIE",
+                    "name": "Raphael SCHWENDINGER"
+                },
+                {
+                    "winner": "Georgios KROUSSANIOTAKIS"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "MNE",
+                    "name": "Danilo PANTIC"
+                },
+                {
+                    "country": "CYP",
+                    "name": "Georgios KROUSSANIOTAKIS"
+                }
+            ],
+            [
+                {
+                    "country": "CYP",
+                    "name": "Georgios KROUSSANIOTAKIS"
+                }
+            ]
+        ]
+    }
+}

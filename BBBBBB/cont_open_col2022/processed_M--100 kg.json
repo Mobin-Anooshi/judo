@@ -1,0 +1,177 @@
+{
+    "POOL A": {
+        "round 1-1": [
+            [
+                {
+                    "country": "PER",
+                    "name": "Daryl YAMAMOTO"
+                },
+                {
+                    "country": "VEN",
+                    "name": "Antonio RODRIGUEZ RENGEL"
+                }
+            ]
+        ],
+        "final_winner": "Daryl YAMAMOTO"
+    },
+    "POOL B": {
+        "round 1-1": [
+            [
+                {
+                    "country": "COL",
+                    "name": "Francisco BALANTA"
+                },
+                {
+                    "country": "CAN",
+                    "name": "Nikola PETROVIC"
+                }
+            ]
+        ],
+        "final_winner": "Francisco BALANTA"
+    },
+    "POOL C": {
+        "round 1-1": [
+            [
+                {
+                    "country": "CAN",
+                    "name": "Ian RYDER"
+                },
+                {
+                    "country": "ARG",
+                    "name": "Ivo DARGOLTZ"
+                }
+            ]
+        ],
+        "final_winner": "Ivo DARGOLTZ"
+    },
+    "POOL D": {
+        "round 1-1": [
+            [
+                {
+                    "country": "COL",
+                    "name": "Alejandro ESCOBAR"
+                },
+                {
+                    "country": "DOM",
+                    "name": "Ariel LORENZO PINA"
+                }
+            ]
+        ],
+        "final_winner": "Ariel LORENZO PINA"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "VEN",
+                    "name": "Antonio RODRIGUEZ RENGEL"
+                },
+                {
+                    "country": "CAN",
+                    "name": "Nikola PETROVIC"
+                },
+                {
+                    "winner": "Nikola PETROVIC"
+                }
+            ],
+            [
+                {
+                    "country": "CAN",
+                    "name": "Ian RYDER"
+                },
+                {
+                    "country": "COL",
+                    "name": "Alejandro ESCOBAR"
+                },
+                {
+                    "winner": "Ian RYDER"
+                }
+            ],
+            [
+                {
+                    "country": "CAN",
+                    "name": "Nikola PETROVIC"
+                },
+                {
+                    "country": "DOM",
+                    "name": "Ariel LORENZO PINA"
+                },
+                {
+                    "winner": "Nikola PETROVIC"
+                }
+            ],
+            [
+                {
+                    "country": "CAN",
+                    "name": "Ian RYDER"
+                },
+                {
+                    "country": "PER",
+                    "name": "Daryl YAMAMOTO"
+                },
+                {
+                    "winner": "Ian RYDER"
+                }
+            ],
+            [
+                {
+                    "country": "CAN",
+                    "name": "Nikola PETROVIC"
+                }
+            ],
+            [
+                {
+                    "country": "CAN",
+                    "name": "Ian RYDER"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Nikola PETROVIC",
+            "Ian RYDER"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "PER",
+                    "name": "Daryl YAMAMOTO"
+                },
+                {
+                    "country": "COL",
+                    "name": "Francisco BALANTA"
+                },
+                {
+                    "winner": "Francisco BALANTA"
+                }
+            ],
+            [
+                {
+                    "country": "ARG",
+                    "name": "Ivo DARGOLTZ"
+                },
+                {
+                    "country": "DOM",
+                    "name": "Ariel LORENZO PINA"
+                },
+                {
+                    "winner": "Ivo DARGOLTZ"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "COL",
+                    "name": "Francisco BALANTA"
+                },
+                {
+                    "country": "ARG",
+                    "name": "Ivo DARGOLTZ"
+                }
+            ]
+        ],
+        "final_winner": "Francisco BALANTA"
+    }
+}

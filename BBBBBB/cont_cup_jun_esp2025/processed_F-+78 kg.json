@@ -1,0 +1,177 @@
+{
+    "POOL A": {
+        "round 1-1": [
+            [
+                {
+                    "country": "EST",
+                    "name": "Emma-Melis AKTAS"
+                },
+                {
+                    "country": "GBR",
+                    "name": "Abigail GUEST"
+                }
+            ]
+        ],
+        "final_winner": "Emma-Melis AKTAS"
+    },
+    "POOL B": {
+        "round 1-1": [
+            [
+                {
+                    "country": "POR",
+                    "name": "Rosa MANE"
+                },
+                {
+                    "country": "FRA",
+                    "name": "Omayma SABHI"
+                }
+            ]
+        ],
+        "final_winner": "Rosa MANE"
+    },
+    "POOL C": {
+        "round 1-1": [
+            [
+                {
+                    "country": "GEO",
+                    "name": "Nino PAPIDZE"
+                },
+                {
+                    "country": "POR",
+                    "name": "Constanca LOPES"
+                }
+            ]
+        ],
+        "final_winner": "Nino PAPIDZE"
+    },
+    "POOL D": {
+        "round 1-1": [
+            [
+                {
+                    "country": "ESP",
+                    "name": "Alejandra Beatriz MARIN"
+                },
+                {
+                    "country": "POL",
+                    "name": "Wanessa WITKOWSKA"
+                }
+            ]
+        ],
+        "final_winner": "Wanessa WITKOWSKA"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "GBR",
+                    "name": "Abigail GUEST"
+                },
+                {
+                    "country": "FRA",
+                    "name": "Omayma SABHI"
+                },
+                {
+                    "winner": "Omayma SABHI"
+                }
+            ],
+            [
+                {
+                    "country": "POR",
+                    "name": "Constanca LOPES"
+                },
+                {
+                    "country": "ESP",
+                    "name": "Alejandra Beatriz MARIN"
+                },
+                {
+                    "winner": "Alejandra Beatriz MARIN"
+                }
+            ],
+            [
+                {
+                    "country": "FRA",
+                    "name": "Omayma SABHI"
+                },
+                {
+                    "country": "GEO",
+                    "name": "Nino PAPIDZE"
+                },
+                {
+                    "winner": "Omayma SABHI"
+                }
+            ],
+            [
+                {
+                    "country": "ESP",
+                    "name": "Alejandra Beatriz MARIN"
+                },
+                {
+                    "country": "POR",
+                    "name": "Rosa MANE"
+                },
+                {
+                    "winner": "Rosa MANE"
+                }
+            ],
+            [
+                {
+                    "country": "FRA",
+                    "name": "Omayma SABHI"
+                }
+            ],
+            [
+                {
+                    "country": "POR",
+                    "name": "Rosa MANE"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Omayma SABHI",
+            "Rosa MANE"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "EST",
+                    "name": "Emma-Melis AKTAS"
+                },
+                {
+                    "country": "POR",
+                    "name": "Rosa MANE"
+                },
+                {
+                    "winner": "Emma-Melis AKTAS"
+                }
+            ],
+            [
+                {
+                    "country": "GEO",
+                    "name": "Nino PAPIDZE"
+                },
+                {
+                    "country": "POL",
+                    "name": "Wanessa WITKOWSKA"
+                },
+                {
+                    "winner": "Wanessa WITKOWSKA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "EST",
+                    "name": "Emma-Melis AKTAS"
+                },
+                {
+                    "country": "POL",
+                    "name": "Wanessa WITKOWSKA"
+                }
+            ]
+        ],
+        "final_winner": "Emma-Melis AKTAS"
+    }
+}

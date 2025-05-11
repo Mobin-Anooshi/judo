@@ -1,0 +1,255 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "UZB",
+                    "name": "Sita KADAMBOEVA"
+                },
+                {
+                    "winner": "Sita KADAMBOEVA"
+                }
+            ],
+            []
+        ],
+        "round 1-1": [],
+        "final_winner": "Sita KADAMBOEVA"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "KOR",
+                    "name": "Wonbeen MOON"
+                },
+                {
+                    "winner": "Wonbeen MOON"
+                }
+            ],
+            [
+                {
+                    "country": "BHU",
+                    "name": "Yangchen WANGMO"
+                },
+                {
+                    "winner": "Yangchen WANGMO"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "KOR",
+                    "name": "Wonbeen MOON"
+                },
+                {
+                    "country": "BHU",
+                    "name": "Yangchen WANGMO"
+                }
+            ]
+        ],
+        "final_winner": "Wonbeen MOON"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "AUS",
+                    "name": "Anneliese FIELDER"
+                },
+                {
+                    "winner": "Anneliese FIELDER"
+                }
+            ],
+            [
+                {
+                    "country": "CHN",
+                    "name": "Minyi PAN"
+                },
+                {
+                    "winner": "Minyi PAN"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "AUS",
+                    "name": "Anneliese FIELDER"
+                },
+                {
+                    "country": "CHN",
+                    "name": "Minyi PAN"
+                }
+            ]
+        ],
+        "final_winner": "Minyi PAN"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "TPE",
+                    "name": "Yi-Shan HSIEH"
+                },
+                {
+                    "winner": "Yi-Shan HSIEH"
+                }
+            ],
+            [
+                {
+                    "country": "HKG",
+                    "name": "Yee Lam Elim CHAN"
+                },
+                {
+                    "winner": "Yee Lam Elim CHAN"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "TPE",
+                    "name": "Yi-Shan HSIEH"
+                },
+                {
+                    "country": "HKG",
+                    "name": "Yee Lam Elim CHAN"
+                }
+            ]
+        ],
+        "final_winner": "Yi-Shan HSIEH"
+    },
+    "REPECHAGE": {
+        "round 1-4": [
+            [],
+            [
+                {
+                    "country": "BHU",
+                    "name": "Yangchen WANGMO"
+                },
+                {
+                    "winner": "Yangchen WANGMO"
+                }
+            ],
+            [
+                {
+                    "country": "AUS",
+                    "name": "Anneliese FIELDER"
+                },
+                {
+                    "winner": "Anneliese FIELDER"
+                }
+            ],
+            [
+                {
+                    "country": "HKG",
+                    "name": "Yee Lam Elim CHAN"
+                },
+                {
+                    "winner": "Yee Lam Elim CHAN"
+                }
+            ]
+        ],
+        "round 1-2": [
+            [
+                {
+                    "country": "BHU",
+                    "name": "Yangchen WANGMO"
+                }
+            ],
+            [
+                {
+                    "country": "AUS",
+                    "name": "Anneliese FIELDER"
+                },
+                {
+                    "country": "HKG",
+                    "name": "Yee Lam Elim CHAN"
+                },
+                {
+                    "winner": "Anneliese FIELDER"
+                }
+            ],
+            [
+                {
+                    "country": "BHU",
+                    "name": "Yangchen WANGMO"
+                },
+                {
+                    "country": "TPE",
+                    "name": "Yi-Shan HSIEH"
+                },
+                {
+                    "winner": "Yangchen WANGMO"
+                }
+            ],
+            [
+                {
+                    "country": "AUS",
+                    "name": "Anneliese FIELDER"
+                },
+                {
+                    "country": "KOR",
+                    "name": "Wonbeen MOON"
+                },
+                {
+                    "winner": "Anneliese FIELDER"
+                }
+            ],
+            [
+                {
+                    "country": "AUS",
+                    "name": "Anneliese FIELDER"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Anneliese FIELDER",
+            "Yangchen WANGMO"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "UZB",
+                    "name": "Sita KADAMBOEVA"
+                },
+                {
+                    "country": "KOR",
+                    "name": "Wonbeen MOON"
+                },
+                {
+                    "winner": "Sita KADAMBOEVA"
+                }
+            ],
+            [
+                {
+                    "country": "CHN",
+                    "name": "Minyi PAN"
+                },
+                {
+                    "country": "TPE",
+                    "name": "Yi-Shan HSIEH"
+                },
+                {
+                    "winner": "Minyi PAN"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "UZB",
+                    "name": "Sita KADAMBOEVA"
+                },
+                {
+                    "country": "CHN",
+                    "name": "Minyi PAN"
+                }
+            ]
+        ],
+        "final_winner": "Sita KADAMBOEVA"
+    }
+}

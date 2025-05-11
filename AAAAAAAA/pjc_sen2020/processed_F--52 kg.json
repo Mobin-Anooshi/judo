@@ -1,0 +1,243 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Larissa PIMENTA"
+                },
+                {
+                    "winner": "Larissa PIMENTA"
+                }
+            ],
+            [
+                {
+                    "country": "CUB",
+                    "name": "Nahomys ACOSTA BATTE"
+                },
+                {
+                    "country": "PAN",
+                    "name": "Anna TIRADO"
+                },
+                {
+                    "winner": "Nahomys ACOSTA BATTE"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Larissa PIMENTA"
+                },
+                {
+                    "country": "CUB",
+                    "name": "Nahomys ACOSTA BATTE"
+                }
+            ]
+        ],
+        "final_winner": "Nahomys ACOSTA BATTE"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Eleudis VALENTIM"
+                },
+                {
+                    "winner": "Eleudis VALENTIM"
+                }
+            ],
+            [
+                {
+                    "country": "MEX",
+                    "name": "Luz OLVERA"
+                },
+                {
+                    "winner": "Luz OLVERA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Eleudis VALENTIM"
+                },
+                {
+                    "country": "MEX",
+                    "name": "Luz OLVERA"
+                }
+            ]
+        ],
+        "final_winner": "Luz OLVERA"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [],
+            [
+                {
+                    "country": "USA",
+                    "name": "Katelyn JARRELL"
+                },
+                {
+                    "country": "MEX",
+                    "name": "Paulina MARTINEZ"
+                },
+                {
+                    "winner": "Katelyn JARRELL"
+                }
+            ]
+        ],
+        "round 1-1": [],
+        "final_winner": "Katelyn JARRELL"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CAN",
+                    "name": "Ecaterina GUICA"
+                },
+                {
+                    "winner": "Ecaterina GUICA"
+                }
+            ],
+            [
+                {
+                    "country": "PER",
+                    "name": "Brillith GAMARRA"
+                },
+                {
+                    "country": "ARG",
+                    "name": "Ayelen ELIZECHE"
+                },
+                {
+                    "winner": "Ayelen ELIZECHE"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "CAN",
+                    "name": "Ecaterina GUICA"
+                },
+                {
+                    "country": "ARG",
+                    "name": "Ayelen ELIZECHE"
+                }
+            ]
+        ],
+        "final_winner": "Ecaterina GUICA"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Larissa PIMENTA"
+                },
+                {
+                    "country": "BRA",
+                    "name": "Eleudis VALENTIM"
+                },
+                {
+                    "winner": "Larissa PIMENTA"
+                }
+            ],
+            [
+                {
+                    "country": "ARG",
+                    "name": "Ayelen ELIZECHE"
+                }
+            ],
+            [
+                {
+                    "country": "BRA",
+                    "name": "Larissa PIMENTA"
+                },
+                {
+                    "country": "USA",
+                    "name": "Katelyn JARRELL"
+                },
+                {
+                    "winner": "Larissa PIMENTA"
+                }
+            ],
+            [
+                {
+                    "country": "ARG",
+                    "name": "Ayelen ELIZECHE"
+                },
+                {
+                    "country": "CUB",
+                    "name": "Nahomys ACOSTA BATTE"
+                },
+                {
+                    "winner": "Nahomys ACOSTA BATTE"
+                }
+            ],
+            [
+                {
+                    "country": "BRA",
+                    "name": "Larissa PIMENTA"
+                }
+            ],
+            [
+                {
+                    "country": "CUB",
+                    "name": "Nahomys ACOSTA BATTE"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Larissa PIMENTA",
+            "Nahomys ACOSTA BATTE"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CUB",
+                    "name": "Nahomys ACOSTA BATTE"
+                },
+                {
+                    "country": "MEX",
+                    "name": "Luz OLVERA"
+                },
+                {
+                    "winner": "Luz OLVERA"
+                }
+            ],
+            [
+                {
+                    "country": "USA",
+                    "name": "Katelyn JARRELL"
+                },
+                {
+                    "country": "CAN",
+                    "name": "Ecaterina GUICA"
+                },
+                {
+                    "winner": "Ecaterina GUICA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "MEX",
+                    "name": "Luz OLVERA"
+                },
+                {
+                    "country": "CAN",
+                    "name": "Ecaterina GUICA"
+                }
+            ]
+        ],
+        "final_winner": "Ecaterina GUICA"
+    }
+}

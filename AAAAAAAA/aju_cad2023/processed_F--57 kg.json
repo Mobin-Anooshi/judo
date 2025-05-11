@@ -1,0 +1,177 @@
+{
+    "POOL A": {
+        "round 1-1": [
+            [
+                {
+                    "country": "ANG",
+                    "name": "Yola PIEDADE"
+                },
+                {
+                    "country": "COM",
+                    "name": "Nazda ANDHUMDINE"
+                }
+            ]
+        ],
+        "final_winner": "Yola PIEDADE"
+    },
+    "POOL B": {
+        "round 1-1": [
+            [
+                {
+                    "country": "BDI",
+                    "name": "Ghyslaine MPAWENIMANA"
+                },
+                {
+                    "country": "GUI",
+                    "name": "Kade Sadio BARRY"
+                }
+            ]
+        ],
+        "final_winner": "Ghyslaine MPAWENIMANA"
+    },
+    "POOL C": {
+        "round 1-1": [
+            [
+                {
+                    "country": "ALG",
+                    "name": "Nourhane GHAZALI"
+                },
+                {
+                    "country": "EGY",
+                    "name": "Rokaya YOUSSEF"
+                }
+            ]
+        ],
+        "final_winner": "Rokaya YOUSSEF"
+    },
+    "POOL D": {
+        "round 1-1": [
+            [
+                {
+                    "country": "RSA",
+                    "name": "Catalina DE OLIVEIRA"
+                },
+                {
+                    "country": "MAD",
+                    "name": "Harisoa Angela RANDRIANANTENAINA"
+                }
+            ]
+        ],
+        "final_winner": "Catalina DE OLIVEIRA"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "COM",
+                    "name": "Nazda ANDHUMDINE"
+                },
+                {
+                    "country": "GUI",
+                    "name": "Kade Sadio BARRY"
+                },
+                {
+                    "winner": "Kade Sadio BARRY"
+                }
+            ],
+            [
+                {
+                    "country": "ALG",
+                    "name": "Nourhane GHAZALI"
+                },
+                {
+                    "country": "MAD",
+                    "name": "Harisoa Angela RANDRIANANTENAINA"
+                },
+                {
+                    "winner": "Nourhane GHAZALI"
+                }
+            ],
+            [
+                {
+                    "country": "GUI",
+                    "name": "Kade Sadio BARRY"
+                },
+                {
+                    "country": "RSA",
+                    "name": "Catalina DE OLIVEIRA"
+                },
+                {
+                    "winner": "Catalina DE OLIVEIRA"
+                }
+            ],
+            [
+                {
+                    "country": "ALG",
+                    "name": "Nourhane GHAZALI"
+                },
+                {
+                    "country": "BDI",
+                    "name": "Ghyslaine MPAWENIMANA"
+                },
+                {
+                    "winner": "Nourhane GHAZALI"
+                }
+            ],
+            [
+                {
+                    "country": "RSA",
+                    "name": "Catalina DE OLIVEIRA"
+                }
+            ],
+            [
+                {
+                    "country": "ALG",
+                    "name": "Nourhane GHAZALI"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Catalina DE OLIVEIRA",
+            "Nourhane GHAZALI"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ANG",
+                    "name": "Yola PIEDADE"
+                },
+                {
+                    "country": "BDI",
+                    "name": "Ghyslaine MPAWENIMANA"
+                },
+                {
+                    "winner": "Yola PIEDADE"
+                }
+            ],
+            [
+                {
+                    "country": "EGY",
+                    "name": "Rokaya YOUSSEF"
+                },
+                {
+                    "country": "RSA",
+                    "name": "Catalina DE OLIVEIRA"
+                },
+                {
+                    "winner": "Rokaya YOUSSEF"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "ANG",
+                    "name": "Yola PIEDADE"
+                },
+                {
+                    "country": "EGY",
+                    "name": "Rokaya YOUSSEF"
+                }
+            ]
+        ],
+        "final_winner": "Rokaya YOUSSEF"
+    }
+}

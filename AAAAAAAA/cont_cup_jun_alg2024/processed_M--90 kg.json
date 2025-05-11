@@ -1,0 +1,129 @@
+{
+    "POOL A": {
+        "round 1-1": [],
+        "final_winner": "Sid Ali BENABOURA"
+    },
+    "POOL B": {
+        "round 1-1": [
+            [
+                {
+                    "country": "ALG",
+                    "name": "Aymene HADDAD"
+                },
+                {
+                    "country": "ALG",
+                    "name": "Mohammed Ayoub BENDELLA"
+                }
+            ]
+        ],
+        "final_winner": "Mohammed Ayoub BENDELLA"
+    },
+    "POOL C": {
+        "round 1-1": [
+            [
+                {
+                    "country": "ALG",
+                    "name": "Youcef DJAOUADI"
+                },
+                {
+                    "country": "ALG",
+                    "name": "Abderraouf DOUDOU"
+                }
+            ]
+        ],
+        "final_winner": "Abderraouf DOUDOU"
+    },
+    "POOL D": {
+        "round 1-1": [],
+        "final_winner": "Saad ALLA"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ALG",
+                    "name": "Aymene HADDAD"
+                }
+            ],
+            [
+                {
+                    "country": "ALG",
+                    "name": "Youcef DJAOUADI"
+                }
+            ],
+            [
+                {
+                    "country": "ALG",
+                    "name": "Aymene HADDAD"
+                },
+                {
+                    "country": "ALG",
+                    "name": "Saad ALLA"
+                },
+                {
+                    "winner": "Aymene HADDAD"
+                }
+            ],
+            [
+                {
+                    "country": "ALG",
+                    "name": "Youcef DJAOUADI"
+                },
+                {
+                    "country": "ALG",
+                    "name": "Mohammed Ayoub BENDELLA"
+                },
+                {
+                    "winner": "Youcef DJAOUADI"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Aymene HADDAD",
+            "Youcef DJAOUADI"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ALG",
+                    "name": "Sid Ali BENABOURA"
+                },
+                {
+                    "country": "ALG",
+                    "name": "Mohammed Ayoub BENDELLA"
+                },
+                {
+                    "winner": "Sid Ali BENABOURA"
+                }
+            ],
+            [
+                {
+                    "country": "ALG",
+                    "name": "Abderraouf DOUDOU"
+                },
+                {
+                    "country": "ALG",
+                    "name": "Saad ALLA"
+                },
+                {
+                    "winner": "Abderraouf DOUDOU"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "ALG",
+                    "name": "Sid Ali BENABOURA"
+                },
+                {
+                    "country": "ALG",
+                    "name": "Abderraouf DOUDOU"
+                }
+            ]
+        ],
+        "final_winner": "Abderraouf DOUDOU"
+    }
+}

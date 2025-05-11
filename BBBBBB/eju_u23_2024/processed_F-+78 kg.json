@@ -1,0 +1,289 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "TUR",
+                    "name": "Hilal OZTURK"
+                },
+                {
+                    "country": "UKR",
+                    "name": "Diana SEMCHENKO"
+                },
+                {
+                    "winner": "Diana SEMCHENKO"
+                }
+            ],
+            [
+                {
+                    "country": "ITA",
+                    "name": "Tiziana MARINI"
+                },
+                {
+                    "country": "ROU",
+                    "name": "Thalia CASTELLANO NARINO"
+                },
+                {
+                    "winner": "Tiziana MARINI"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "UKR",
+                    "name": "Diana SEMCHENKO"
+                },
+                {
+                    "country": "ITA",
+                    "name": "Tiziana MARINI"
+                }
+            ]
+        ],
+        "final_winner": "Diana SEMCHENKO"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "MDA",
+                    "name": "Oxana DIACENCO"
+                },
+                {
+                    "country": "GEO",
+                    "name": "Nino PAPIDZE"
+                },
+                {
+                    "winner": "Oxana DIACENCO"
+                }
+            ],
+            [
+                {
+                    "country": "NED",
+                    "name": "Carmen DIJKSTRA"
+                },
+                {
+                    "country": "ESP",
+                    "name": "Eunate ETXEBARRIA BILBAO"
+                },
+                {
+                    "winner": "Carmen DIJKSTRA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "MDA",
+                    "name": "Oxana DIACENCO"
+                },
+                {
+                    "country": "NED",
+                    "name": "Carmen DIJKSTRA"
+                }
+            ]
+        ],
+        "final_winner": "Carmen DIJKSTRA"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ITA",
+                    "name": "Erica SIMONETTI"
+                },
+                {
+                    "country": "MNE",
+                    "name": "Jovana MRVALJEVIC"
+                },
+                {
+                    "winner": "Erica SIMONETTI"
+                }
+            ],
+            [
+                {
+                    "country": "SRB",
+                    "name": "Anastasija BOGDANOVIC"
+                },
+                {
+                    "country": "EST",
+                    "name": "Emma-Melis AKTAS"
+                },
+                {
+                    "winner": "Emma-Melis AKTAS"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "ITA",
+                    "name": "Erica SIMONETTI"
+                },
+                {
+                    "country": "EST",
+                    "name": "Emma-Melis AKTAS"
+                }
+            ]
+        ],
+        "final_winner": "Emma-Melis AKTAS"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ISR",
+                    "name": "Yuli Alma MISHINER"
+                },
+                {
+                    "country": "SLO",
+                    "name": "Tara JANJIC"
+                },
+                {
+                    "winner": "Yuli Alma MISHINER"
+                }
+            ],
+            [
+                {
+                    "country": "NED",
+                    "name": "Paulien SWEERS"
+                },
+                {
+                    "country": "ROU",
+                    "name": "Daria TUDORACHE"
+                },
+                {
+                    "winner": "Paulien SWEERS"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "ISR",
+                    "name": "Yuli Alma MISHINER"
+                },
+                {
+                    "country": "NED",
+                    "name": "Paulien SWEERS"
+                }
+            ]
+        ],
+        "final_winner": "Yuli Alma MISHINER"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ITA",
+                    "name": "Tiziana MARINI"
+                },
+                {
+                    "country": "MDA",
+                    "name": "Oxana DIACENCO"
+                },
+                {
+                    "winner": "Oxana DIACENCO"
+                }
+            ],
+            [
+                {
+                    "country": "ITA",
+                    "name": "Erica SIMONETTI"
+                },
+                {
+                    "country": "NED",
+                    "name": "Paulien SWEERS"
+                },
+                {
+                    "winner": "Erica SIMONETTI"
+                }
+            ],
+            [
+                {
+                    "country": "MDA",
+                    "name": "Oxana DIACENCO"
+                },
+                {
+                    "country": "EST",
+                    "name": "Emma-Melis AKTAS"
+                },
+                {
+                    "winner": "Oxana DIACENCO"
+                }
+            ],
+            [
+                {
+                    "country": "ITA",
+                    "name": "Erica SIMONETTI"
+                },
+                {
+                    "country": "NED",
+                    "name": "Carmen DIJKSTRA"
+                },
+                {
+                    "winner": "Erica SIMONETTI"
+                }
+            ],
+            [
+                {
+                    "country": "MDA",
+                    "name": "Oxana DIACENCO"
+                }
+            ],
+            [
+                {
+                    "country": "ITA",
+                    "name": "Erica SIMONETTI"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Oxana DIACENCO",
+            "Erica SIMONETTI"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "UKR",
+                    "name": "Diana SEMCHENKO"
+                },
+                {
+                    "country": "NED",
+                    "name": "Carmen DIJKSTRA"
+                },
+                {
+                    "winner": "Diana SEMCHENKO"
+                }
+            ],
+            [
+                {
+                    "country": "EST",
+                    "name": "Emma-Melis AKTAS"
+                },
+                {
+                    "country": "ISR",
+                    "name": "Yuli Alma MISHINER"
+                },
+                {
+                    "winner": "Yuli Alma MISHINER"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "UKR",
+                    "name": "Diana SEMCHENKO"
+                },
+                {
+                    "country": "ISR",
+                    "name": "Yuli Alma MISHINER"
+                }
+            ]
+        ],
+        "final_winner": "Yuli Alma MISHINER"
+    }
+}

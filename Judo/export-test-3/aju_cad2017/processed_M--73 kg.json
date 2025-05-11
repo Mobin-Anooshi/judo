@@ -1,0 +1,68 @@
+{
+    "ROUND 1": {
+        "round 1-2": [
+            [
+                {
+                    "country": "RSA",
+                    "name": "Peter NORVAL"
+                },
+                {
+                    "country": "TUN",
+                    "name": "Alaa JERAD"
+                },
+                {
+                    "winner": "Peter NORVAL"
+                }
+            ],
+            [
+                {
+                    "country": "ALG",
+                    "name": "ABDELWAHEB KOUNTAR"
+                },
+                {
+                    "country": "EGY",
+                    "name": "Youssef ABDELMAABOUD"
+                },
+                {
+                    "winner": "Youssef ABDELMAABOUD"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Peter NORVAL",
+            "Youssef ABDELMAABOUD"
+        ]
+    },
+    "REPECHAGE": {
+        "round 1-1": [
+            [
+                {
+                    "country": "TUN",
+                    "name": "Alaa JERAD"
+                },
+                {
+                    "country": "ALG",
+                    "name": "ABDELWAHEB KOUNTAR"
+                },
+                {
+                    "winner": "ABDELWAHEB KOUNTAR"
+                }
+            ],
+            [
+                {
+                    "country": "ALG",
+                    "name": "ABDELWAHEB KOUNTAR"
+                }
+            ]
+        ],
+        "final_winners": [
+            "ABDELWAHEB KOUNTAR"
+        ]
+    },
+    "FINALS": {
+        "round 1-1": [],
+        "final_winners": [
+            "Peter NORVAL"
+        ]
+    }
+}

@@ -1,0 +1,274 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [],
+            [
+                {
+                    "country": "CHI",
+                    "name": "Tomas HERNANDEZ"
+                },
+                {
+                    "winner": "Tomas HERNANDEZ"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "CHI",
+                    "name": "Tomas HERNANDEZ"
+                }
+            ]
+        ]
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "PUR",
+                    "name": "Francisco GALARZA HERNANDEZ"
+                },
+                {
+                    "winner": "Francisco GALARZA HERNANDEZ"
+                }
+            ],
+            [
+                {
+                    "country": "DOM",
+                    "name": "Jose Carlos PEREZ DISLA"
+                },
+                {
+                    "winner": "Jose Carlos PEREZ DISLA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "PUR",
+                    "name": "Francisco GALARZA HERNANDEZ"
+                },
+                {
+                    "country": "DOM",
+                    "name": "Jose Carlos PEREZ DISLA"
+                }
+            ],
+            [
+                {
+                    "country": "PUR",
+                    "name": "Francisco GALARZA HERNANDEZ"
+                }
+            ]
+        ]
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "MEX",
+                    "name": "Luis LEMUS"
+                },
+                {
+                    "winner": "Luis LEMUS"
+                }
+            ],
+            [
+                {
+                    "country": "USA",
+                    "name": "Dominic RODRIGUEZ"
+                },
+                {
+                    "winner": "Dominic RODRIGUEZ"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "MEX",
+                    "name": "Luis LEMUS"
+                },
+                {
+                    "country": "USA",
+                    "name": "Dominic RODRIGUEZ"
+                }
+            ],
+            [
+                {
+                    "country": "USA",
+                    "name": "Dominic RODRIGUEZ"
+                }
+            ]
+        ]
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CHI",
+                    "name": "Reinaldo CACERES"
+                },
+                {
+                    "winner": "Reinaldo CACERES"
+                }
+            ],
+            [
+                {
+                    "country": "ECU",
+                    "name": "Jose GONZALEZ"
+                },
+                {
+                    "winner": "Jose GONZALEZ"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "CHI",
+                    "name": "Reinaldo CACERES"
+                },
+                {
+                    "country": "ECU",
+                    "name": "Jose GONZALEZ"
+                }
+            ],
+            [
+                {
+                    "country": "ECU",
+                    "name": "Jose GONZALEZ"
+                }
+            ]
+        ]
+    },
+    "REPECHAGE": {
+        "round 1-4": [
+            [],
+            [
+                {
+                    "country": "DOM",
+                    "name": "Jose Carlos PEREZ DISLA"
+                },
+                {
+                    "winner": "Jose Carlos PEREZ DISLA"
+                }
+            ],
+            [
+                {
+                    "country": "MEX",
+                    "name": "Luis LEMUS"
+                },
+                {
+                    "winner": "Luis LEMUS"
+                }
+            ],
+            [
+                {
+                    "country": "CHI",
+                    "name": "Reinaldo CACERES"
+                },
+                {
+                    "winner": "Reinaldo CACERES"
+                }
+            ]
+        ],
+        "round 1-2": [
+            [
+                {
+                    "country": "DOM",
+                    "name": "Jose Carlos PEREZ DISLA"
+                }
+            ],
+            [
+                {
+                    "country": "MEX",
+                    "name": "Luis LEMUS"
+                },
+                {
+                    "country": "CHI",
+                    "name": "Reinaldo CACERES"
+                }
+            ],
+            [
+                {
+                    "country": "DOM",
+                    "name": "Jose Carlos PEREZ DISLA"
+                },
+                {
+                    "country": "ECU",
+                    "name": "Jose GONZALEZ"
+                }
+            ],
+            [
+                {
+                    "country": "CHI",
+                    "name": "Reinaldo CACERES"
+                },
+                {
+                    "country": "CHI",
+                    "name": "Tomas HERNANDEZ"
+                }
+            ],
+            [
+                {
+                    "country": "ECU",
+                    "name": "Jose GONZALEZ"
+                }
+            ],
+            [
+                {
+                    "country": "CHI",
+                    "name": "Tomas HERNANDEZ"
+                }
+            ]
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CHI",
+                    "name": "Tomas HERNANDEZ"
+                },
+                {
+                    "country": "PUR",
+                    "name": "Francisco GALARZA HERNANDEZ"
+                },
+                {
+                    "winner": "Francisco GALARZA HERNANDEZ"
+                }
+            ],
+            [
+                {
+                    "country": "USA",
+                    "name": "Dominic RODRIGUEZ"
+                },
+                {
+                    "country": "ECU",
+                    "name": "Jose GONZALEZ"
+                },
+                {
+                    "winner": "Dominic RODRIGUEZ"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "PUR",
+                    "name": "Francisco GALARZA HERNANDEZ"
+                },
+                {
+                    "country": "USA",
+                    "name": "Dominic RODRIGUEZ"
+                }
+            ],
+            [
+                {
+                    "country": "USA",
+                    "name": "Dominic RODRIGUEZ"
+                }
+            ]
+        ]
+    }
+}

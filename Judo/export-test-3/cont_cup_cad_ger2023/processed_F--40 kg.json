@@ -1,0 +1,68 @@
+{
+    "ROUND 1": {
+        "round 1-2": [
+            [
+                {
+                    "country": "SUI",
+                    "name": "Melody VEILLARD"
+                },
+                {
+                    "country": "GER",
+                    "name": "Carolin SCHEIDA"
+                },
+                {
+                    "winner": "Melody VEILLARD"
+                }
+            ],
+            [
+                {
+                    "country": "POL",
+                    "name": "Sandra WALENDZIK"
+                },
+                {
+                    "country": "FRA",
+                    "name": "Ludmila JAURES"
+                },
+                {
+                    "winner": "Sandra WALENDZIK"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Melody VEILLARD",
+            "Sandra WALENDZIK"
+        ]
+    },
+    "REPECHAGE": {
+        "round 1-1": [
+            [
+                {
+                    "country": "GER",
+                    "name": "Carolin SCHEIDA"
+                },
+                {
+                    "country": "FRA",
+                    "name": "Ludmila JAURES"
+                },
+                {
+                    "winner": "Carolin SCHEIDA"
+                }
+            ],
+            [
+                {
+                    "country": "GER",
+                    "name": "Carolin SCHEIDA"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Carolin SCHEIDA"
+        ]
+    },
+    "FINALS": {
+        "round 1-1": [],
+        "final_winners": [
+            "Melody VEILLARD"
+        ]
+    }
+}

@@ -1,0 +1,261 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "TUN",
+                    "name": "Omar BOUHALI"
+                },
+                {
+                    "winner": "Omar BOUHALI"
+                }
+            ],
+            [
+                {
+                    "country": "ALG",
+                    "name": "Mohamed MESLEM"
+                },
+                {
+                    "winner": "Mohamed MESLEM"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "TUN",
+                    "name": "Omar BOUHALI"
+                },
+                {
+                    "country": "ALG",
+                    "name": "Mohamed MESLEM"
+                }
+            ]
+        ],
+        "final_winner": "Omar BOUHALI"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ALG",
+                    "name": "Abdelillah BENAZIZA"
+                },
+                {
+                    "winner": "Abdelillah BENAZIZA"
+                }
+            ],
+            [
+                {
+                    "country": "ALG",
+                    "name": "Omar BETTAHAR"
+                },
+                {
+                    "winner": "Omar BETTAHAR"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "ALG",
+                    "name": "Abdelillah BENAZIZA"
+                },
+                {
+                    "country": "ALG",
+                    "name": "Omar BETTAHAR"
+                }
+            ]
+        ],
+        "final_winner": "Omar BETTAHAR"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ALG",
+                    "name": "Mohammed MEZIANE"
+                },
+                {
+                    "winner": "Mohammed MEZIANE"
+                }
+            ],
+            [
+                {
+                    "country": "ALG",
+                    "name": "Mohamed Sadek LAOUAD"
+                },
+                {
+                    "winner": "Mohamed Sadek LAOUAD"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "ALG",
+                    "name": "Mohammed MEZIANE"
+                },
+                {
+                    "country": "ALG",
+                    "name": "Mohamed Sadek LAOUAD"
+                }
+            ]
+        ],
+        "final_winner": "Mohamed Sadek LAOUAD"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ALG",
+                    "name": "Mohamed ACHOUR"
+                },
+                {
+                    "winner": "Mohamed ACHOUR"
+                }
+            ],
+            [
+                {
+                    "country": "ALG",
+                    "name": "Abed MAAMERI"
+                },
+                {
+                    "country": "ALG",
+                    "name": "Abdelmoumen ACHOUR"
+                },
+                {
+                    "winner": "Abed MAAMERI"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "ALG",
+                    "name": "Mohamed ACHOUR"
+                },
+                {
+                    "country": "ALG",
+                    "name": "Abed MAAMERI"
+                }
+            ]
+        ],
+        "final_winner": "Abed MAAMERI"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ALG",
+                    "name": "Mohamed MESLEM"
+                },
+                {
+                    "country": "ALG",
+                    "name": "Abdelillah BENAZIZA"
+                },
+                {
+                    "winner": "Mohamed MESLEM"
+                }
+            ],
+            [
+                {
+                    "country": "ALG",
+                    "name": "Mohammed MEZIANE"
+                },
+                {
+                    "country": "ALG",
+                    "name": "Mohamed ACHOUR"
+                },
+                {
+                    "winner": "Mohamed ACHOUR"
+                }
+            ],
+            [
+                {
+                    "country": "ALG",
+                    "name": "Mohamed MESLEM"
+                },
+                {
+                    "country": "ALG",
+                    "name": "Abed MAAMERI"
+                },
+                {
+                    "winner": "Mohamed MESLEM"
+                }
+            ],
+            [
+                {
+                    "country": "ALG",
+                    "name": "Mohamed ACHOUR"
+                },
+                {
+                    "country": "ALG",
+                    "name": "Omar BETTAHAR"
+                },
+                {
+                    "winner": "Mohamed ACHOUR"
+                }
+            ],
+            [
+                {
+                    "country": "ALG",
+                    "name": "Mohamed MESLEM"
+                }
+            ],
+            [
+                {
+                    "country": "ALG",
+                    "name": "Mohamed ACHOUR"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Mohamed MESLEM",
+            "Mohamed ACHOUR"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "TUN",
+                    "name": "Omar BOUHALI"
+                },
+                {
+                    "country": "ALG",
+                    "name": "Omar BETTAHAR"
+                },
+                {
+                    "winner": "Omar BOUHALI"
+                }
+            ],
+            [
+                {
+                    "country": "ALG",
+                    "name": "Mohamed Sadek LAOUAD"
+                },
+                {
+                    "country": "ALG",
+                    "name": "Abed MAAMERI"
+                },
+                {
+                    "winner": "Mohamed Sadek LAOUAD"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "TUN",
+                    "name": "Omar BOUHALI"
+                },
+                {
+                    "country": "ALG",
+                    "name": "Mohamed Sadek LAOUAD"
+                }
+            ]
+        ],
+        "final_winner": "Mohamed Sadek LAOUAD"
+    }
+}

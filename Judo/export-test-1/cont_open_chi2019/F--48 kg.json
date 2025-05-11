@@ -1,0 +1,159 @@
+{
+    "POOL A": {
+        "round 1-1": [],
+        "final_winner": "Edna CARRILLO"
+    },
+    "POOL B": {
+        "round 1-1": [
+            [
+                {
+                    "country": "CHI",
+                    "name": "Mary Dee VARGAS LEY"
+                },
+                {
+                    "country": "USA",
+                    "name": "Anne SUZUKI"
+                }
+            ]
+        ],
+        "final_winner": "Mary Dee VARGAS LEY"
+    },
+    "POOL C": {
+        "round 1-1": [
+            [
+                {
+                    "country": "ARG",
+                    "name": "Keisy PERAFAN"
+                },
+                {
+                    "country": "FRA",
+                    "name": "Helena BEYSSAC-POULIN"
+                }
+            ]
+        ],
+        "final_winner": "Keisy PERAFAN"
+    },
+    "POOL D": {
+        "round 1-1": [
+            [
+                {
+                    "country": "AUS",
+                    "name": "Caroline HAIN"
+                },
+                {
+                    "country": "GUA",
+                    "name": "Jacqueline SOLIS"
+                }
+            ]
+        ],
+        "final_winner": "Jacqueline SOLIS"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "USA",
+                    "name": "Anne SUZUKI"
+                }
+            ],
+            [
+                {
+                    "country": "FRA",
+                    "name": "Helena BEYSSAC-POULIN"
+                },
+                {
+                    "country": "AUS",
+                    "name": "Caroline HAIN"
+                },
+                {
+                    "winner": "Helena BEYSSAC-POULIN"
+                }
+            ],
+            [
+                {
+                    "country": "USA",
+                    "name": "Anne SUZUKI"
+                },
+                {
+                    "country": "ARG",
+                    "name": "Keisy PERAFAN"
+                },
+                {
+                    "winner": "Keisy PERAFAN"
+                }
+            ],
+            [
+                {
+                    "country": "FRA",
+                    "name": "Helena BEYSSAC-POULIN"
+                },
+                {
+                    "country": "CHI",
+                    "name": "Mary Dee VARGAS LEY"
+                },
+                {
+                    "winner": "Helena BEYSSAC-POULIN"
+                }
+            ],
+            [
+                {
+                    "country": "ARG",
+                    "name": "Keisy PERAFAN"
+                }
+            ],
+            [
+                {
+                    "country": "FRA",
+                    "name": "Helena BEYSSAC-POULIN"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Keisy PERAFAN",
+            "Helena BEYSSAC-POULIN"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "MEX",
+                    "name": "Edna CARRILLO"
+                },
+                {
+                    "country": "CHI",
+                    "name": "Mary Dee VARGAS LEY"
+                },
+                {
+                    "winner": "Edna CARRILLO"
+                }
+            ],
+            [
+                {
+                    "country": "ARG",
+                    "name": "Keisy PERAFAN"
+                },
+                {
+                    "country": "GUA",
+                    "name": "Jacqueline SOLIS"
+                },
+                {
+                    "winner": "Jacqueline SOLIS"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "MEX",
+                    "name": "Edna CARRILLO"
+                },
+                {
+                    "country": "GUA",
+                    "name": "Jacqueline SOLIS"
+                }
+            ]
+        ],
+        "final_winner": "Edna CARRILLO"
+    }
+}

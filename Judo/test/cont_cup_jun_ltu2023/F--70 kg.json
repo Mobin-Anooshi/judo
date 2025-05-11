@@ -1,0 +1,268 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "EST",
+                    "name": "Valeria USANOVA"
+                },
+                {
+                    "winner": "Valeria USANOVA"
+                }
+            ],
+            []
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "EST",
+                    "name": "Valeria USANOVA"
+                }
+            ]
+        ]
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "LTU",
+                    "name": "Marta NAVICKAITE"
+                },
+                {
+                    "winner": "Marta NAVICKAITE"
+                }
+            ],
+            [
+                {
+                    "country": "GBR",
+                    "name": "Ellie GILBERT"
+                },
+                {
+                    "winner": "Ellie GILBERT"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "LTU",
+                    "name": "Marta NAVICKAITE"
+                },
+                {
+                    "country": "GBR",
+                    "name": "Ellie GILBERT"
+                }
+            ],
+            [
+                {
+                    "country": "GBR",
+                    "name": "Ellie GILBERT"
+                }
+            ]
+        ]
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ISR",
+                    "name": "Avia MALKA"
+                },
+                {
+                    "winner": "Avia MALKA"
+                }
+            ],
+            [
+                {
+                    "country": "LTU",
+                    "name": "Paulina STALIONYTE"
+                },
+                {
+                    "winner": "Paulina STALIONYTE"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "ISR",
+                    "name": "Avia MALKA"
+                },
+                {
+                    "country": "LTU",
+                    "name": "Paulina STALIONYTE"
+                }
+            ],
+            [
+                {
+                    "country": "ISR",
+                    "name": "Avia MALKA"
+                }
+            ]
+        ]
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "EST",
+                    "name": "Maria PAPP"
+                },
+                {
+                    "winner": "Maria PAPP"
+                }
+            ],
+            [
+                {
+                    "country": "AZE",
+                    "name": "Parvana ABDULLAYEVA"
+                },
+                {
+                    "winner": "Parvana ABDULLAYEVA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "EST",
+                    "name": "Maria PAPP"
+                },
+                {
+                    "country": "AZE",
+                    "name": "Parvana ABDULLAYEVA"
+                }
+            ],
+            [
+                {
+                    "country": "AZE",
+                    "name": "Parvana ABDULLAYEVA"
+                }
+            ]
+        ]
+    },
+    "REPECHAGE": {
+        "round 1-4": [
+            [],
+            [
+                {
+                    "country": "LTU",
+                    "name": "Marta NAVICKAITE"
+                },
+                {
+                    "winner": "Marta NAVICKAITE"
+                }
+            ],
+            [
+                {
+                    "country": "LTU",
+                    "name": "Paulina STALIONYTE"
+                },
+                {
+                    "winner": "Paulina STALIONYTE"
+                }
+            ],
+            [
+                {
+                    "country": "EST",
+                    "name": "Maria PAPP"
+                },
+                {
+                    "winner": "Maria PAPP"
+                }
+            ]
+        ],
+        "round 1-2": [
+            [
+                {
+                    "country": "LTU",
+                    "name": "Marta NAVICKAITE"
+                }
+            ],
+            [
+                {
+                    "country": "LTU",
+                    "name": "Paulina STALIONYTE"
+                },
+                {
+                    "country": "EST",
+                    "name": "Maria PAPP"
+                }
+            ],
+            [
+                {
+                    "country": "LTU",
+                    "name": "Marta NAVICKAITE"
+                },
+                {
+                    "country": "AZE",
+                    "name": "Parvana ABDULLAYEVA"
+                }
+            ],
+            [
+                {
+                    "country": "EST",
+                    "name": "Maria PAPP"
+                },
+                {
+                    "country": "EST",
+                    "name": "Valeria USANOVA"
+                }
+            ],
+            [
+                {
+                    "country": "EST",
+                    "name": "Maria PAPP"
+                }
+            ]
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "EST",
+                    "name": "Valeria USANOVA"
+                },
+                {
+                    "country": "GBR",
+                    "name": "Ellie GILBERT"
+                },
+                {
+                    "winner": "Ellie GILBERT"
+                }
+            ],
+            [
+                {
+                    "country": "ISR",
+                    "name": "Avia MALKA"
+                },
+                {
+                    "country": "AZE",
+                    "name": "Parvana ABDULLAYEVA"
+                },
+                {
+                    "winner": "Avia MALKA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "GBR",
+                    "name": "Ellie GILBERT"
+                },
+                {
+                    "country": "ISR",
+                    "name": "Avia MALKA"
+                }
+            ],
+            [
+                {
+                    "country": "ISR",
+                    "name": "Avia MALKA"
+                }
+            ]
+        ]
+    }
+}

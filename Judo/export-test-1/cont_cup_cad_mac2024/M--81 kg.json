@@ -1,0 +1,177 @@
+{
+    "POOL A": {
+        "round 1-1": [
+            [
+                {
+                    "country": "KSA",
+                    "name": "Fahad ALHAWSAH"
+                },
+                {
+                    "country": "AUS",
+                    "name": "James GIBBS"
+                }
+            ]
+        ],
+        "final_winner": "Fahad ALHAWSAH"
+    },
+    "POOL B": {
+        "round 1-1": [
+            [
+                {
+                    "country": "AUS",
+                    "name": "Caspar DE LARGIE D'ALTON"
+                },
+                {
+                    "country": "KUW",
+                    "name": "Anas BOUQAMMAZ"
+                }
+            ]
+        ],
+        "final_winner": "Caspar DE LARGIE D'ALTON"
+    },
+    "POOL C": {
+        "round 1-1": [
+            [
+                {
+                    "country": "AUS",
+                    "name": "Akos KELLY"
+                },
+                {
+                    "country": "KUW",
+                    "name": "Turky ALENEZI"
+                }
+            ]
+        ],
+        "final_winner": "Akos KELLY"
+    },
+    "POOL D": {
+        "round 1-1": [
+            [
+                {
+                    "country": "AUS",
+                    "name": "Luis MADDALOZZO"
+                },
+                {
+                    "country": "KOR",
+                    "name": "Jaeyun SIM"
+                }
+            ]
+        ],
+        "final_winner": "Jaeyun SIM"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "AUS",
+                    "name": "James GIBBS"
+                },
+                {
+                    "country": "KUW",
+                    "name": "Anas BOUQAMMAZ"
+                },
+                {
+                    "winner": "Anas BOUQAMMAZ"
+                }
+            ],
+            [
+                {
+                    "country": "KUW",
+                    "name": "Turky ALENEZI"
+                },
+                {
+                    "country": "AUS",
+                    "name": "Luis MADDALOZZO"
+                },
+                {
+                    "winner": "Turky ALENEZI"
+                }
+            ],
+            [
+                {
+                    "country": "KUW",
+                    "name": "Anas BOUQAMMAZ"
+                },
+                {
+                    "country": "KOR",
+                    "name": "Jaeyun SIM"
+                },
+                {
+                    "winner": "Jaeyun SIM"
+                }
+            ],
+            [
+                {
+                    "country": "KUW",
+                    "name": "Turky ALENEZI"
+                },
+                {
+                    "country": "AUS",
+                    "name": "Caspar DE LARGIE D'ALTON"
+                },
+                {
+                    "winner": "Caspar DE LARGIE D'ALTON"
+                }
+            ],
+            [
+                {
+                    "country": "KOR",
+                    "name": "Jaeyun SIM"
+                }
+            ],
+            [
+                {
+                    "country": "AUS",
+                    "name": "Caspar DE LARGIE D'ALTON"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Jaeyun SIM",
+            "Caspar DE LARGIE D'ALTON"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "KSA",
+                    "name": "Fahad ALHAWSAH"
+                },
+                {
+                    "country": "AUS",
+                    "name": "Caspar DE LARGIE D'ALTON"
+                },
+                {
+                    "winner": "Fahad ALHAWSAH"
+                }
+            ],
+            [
+                {
+                    "country": "AUS",
+                    "name": "Akos KELLY"
+                },
+                {
+                    "country": "KOR",
+                    "name": "Jaeyun SIM"
+                },
+                {
+                    "winner": "Akos KELLY"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "KSA",
+                    "name": "Fahad ALHAWSAH"
+                },
+                {
+                    "country": "AUS",
+                    "name": "Akos KELLY"
+                }
+            ]
+        ],
+        "final_winner": "Akos KELLY"
+    }
+}

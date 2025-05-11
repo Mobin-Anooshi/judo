@@ -1,0 +1,290 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "IND",
+                    "name": "Jatin KUMAR"
+                },
+                {
+                    "country": "NEP",
+                    "name": "Sanjog BHATTA"
+                },
+                {
+                    "winner": "Jatin KUMAR"
+                }
+            ],
+            [
+                {
+                    "country": "LBN",
+                    "name": "Ghady MOUSSA"
+                },
+                {
+                    "country": "HKG",
+                    "name": "Martin LAU"
+                },
+                {
+                    "winner": "Martin LAU"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "IND",
+                    "name": "Jatin KUMAR"
+                },
+                {
+                    "country": "HKG",
+                    "name": "Martin LAU"
+                }
+            ],
+            [
+                {
+                    "country": "HKG",
+                    "name": "Martin LAU"
+                }
+            ]
+        ]
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "KOR",
+                    "name": "Sehwang JEONG"
+                },
+                {
+                    "country": "KGZ",
+                    "name": "Khamid SANSANZA"
+                },
+                {
+                    "winner": "Sehwang JEONG"
+                }
+            ],
+            [
+                {
+                    "country": "UZB",
+                    "name": "Jasur SAMADOV"
+                },
+                {
+                    "winner": "Jasur SAMADOV"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "KOR",
+                    "name": "Sehwang JEONG"
+                },
+                {
+                    "country": "UZB",
+                    "name": "Jasur SAMADOV"
+                }
+            ],
+            [
+                {
+                    "country": "UZB",
+                    "name": "Jasur SAMADOV"
+                }
+            ]
+        ]
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "TPE",
+                    "name": "Jia-qing JIANG"
+                },
+                {
+                    "country": "UAE",
+                    "name": "Musabah ALSHAMSI"
+                },
+                {
+                    "winner": "Jia-qing JIANG"
+                }
+            ],
+            [
+                {
+                    "country": "JPN",
+                    "name": "Yuito NAKASATO"
+                },
+                {
+                    "country": "IRI",
+                    "name": "Ali MOHAMMADI BARIMANLOU"
+                },
+                {
+                    "winner": "Yuito NAKASATO"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "TPE",
+                    "name": "Jia-qing JIANG"
+                },
+                {
+                    "country": "JPN",
+                    "name": "Yuito NAKASATO"
+                }
+            ],
+            [
+                {
+                    "country": "JPN",
+                    "name": "Yuito NAKASATO"
+                }
+            ]
+        ]
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "KAZ",
+                    "name": "Rauan BEGALY"
+                },
+                {
+                    "country": "MAC",
+                    "name": "Lei wai NG"
+                },
+                {
+                    "winner": "Rauan BEGALY"
+                }
+            ],
+            [
+                {
+                    "country": "IRQ",
+                    "name": "Mohammed nadhim ALFATLAWI"
+                },
+                {
+                    "winner": "Mohammed nadhim ALFATLAWI"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "KAZ",
+                    "name": "Rauan BEGALY"
+                },
+                {
+                    "country": "IRQ",
+                    "name": "Mohammed nadhim ALFATLAWI"
+                }
+            ],
+            [
+                {
+                    "country": "KAZ",
+                    "name": "Rauan BEGALY"
+                }
+            ]
+        ]
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "IND",
+                    "name": "Jatin KUMAR"
+                },
+                {
+                    "country": "KOR",
+                    "name": "Sehwang JEONG"
+                }
+            ],
+            [
+                {
+                    "country": "TPE",
+                    "name": "Jia-qing JIANG"
+                },
+                {
+                    "country": "IRQ",
+                    "name": "Mohammed nadhim ALFATLAWI"
+                }
+            ],
+            [
+                {
+                    "country": "KOR",
+                    "name": "Sehwang JEONG"
+                },
+                {
+                    "country": "JPN",
+                    "name": "Yuito NAKASATO"
+                }
+            ],
+            [
+                {
+                    "country": "TPE",
+                    "name": "Jia-qing JIANG"
+                },
+                {
+                    "country": "HKG",
+                    "name": "Martin LAU"
+                }
+            ],
+            [
+                {
+                    "country": "JPN",
+                    "name": "Yuito NAKASATO"
+                }
+            ],
+            [
+                {
+                    "country": "TPE",
+                    "name": "Jia-qing JIANG"
+                }
+            ]
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "HKG",
+                    "name": "Martin LAU"
+                },
+                {
+                    "country": "UZB",
+                    "name": "Jasur SAMADOV"
+                },
+                {
+                    "winner": "Jasur SAMADOV"
+                }
+            ],
+            [
+                {
+                    "country": "JPN",
+                    "name": "Yuito NAKASATO"
+                },
+                {
+                    "country": "KAZ",
+                    "name": "Rauan BEGALY"
+                },
+                {
+                    "winner": "Rauan BEGALY"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "UZB",
+                    "name": "Jasur SAMADOV"
+                },
+                {
+                    "country": "KAZ",
+                    "name": "Rauan BEGALY"
+                }
+            ],
+            [
+                {
+                    "country": "KAZ",
+                    "name": "Rauan BEGALY"
+                }
+            ]
+        ]
+    }
+}

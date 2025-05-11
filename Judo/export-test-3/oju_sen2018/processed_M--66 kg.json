@@ -1,0 +1,68 @@
+{
+    "ROUND 1": {
+        "round 1-2": [
+            [
+                {
+                    "country": "NZL",
+                    "name": "James ENTWISTLE"
+                },
+                {
+                    "country": "VAN",
+                    "name": "Rexly THEUIL"
+                },
+                {
+                    "winner": "James ENTWISTLE"
+                }
+            ],
+            [
+                {
+                    "country": "VAN",
+                    "name": "Joe MAHIT"
+                },
+                {
+                    "country": "AUS",
+                    "name": "Kyle MCINDOE"
+                },
+                {
+                    "winner": "Kyle MCINDOE"
+                }
+            ]
+        ],
+        "final_winners": [
+            "James ENTWISTLE",
+            "Kyle MCINDOE"
+        ]
+    },
+    "REPECHAGE": {
+        "round 1-1": [
+            [
+                {
+                    "country": "VAN",
+                    "name": "Rexly THEUIL"
+                },
+                {
+                    "country": "VAN",
+                    "name": "Joe MAHIT"
+                },
+                {
+                    "winner": "Rexly THEUIL"
+                }
+            ],
+            [
+                {
+                    "country": "VAN",
+                    "name": "Rexly THEUIL"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Rexly THEUIL"
+        ]
+    },
+    "FINALS": {
+        "round 1-1": [],
+        "final_winners": [
+            "Kyle MCINDOE"
+        ]
+    }
+}

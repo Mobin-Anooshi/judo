@@ -1,0 +1,177 @@
+{
+    "POOL A": {
+        "round 1-1": [
+            [
+                {
+                    "country": "MGL",
+                    "name": "Tuvshinbayar NAIDAN"
+                },
+                {
+                    "country": "MGL",
+                    "name": "Tsetsentsengel ODKHUU"
+                }
+            ]
+        ],
+        "final_winner": "Tuvshinbayar NAIDAN"
+    },
+    "POOL B": {
+        "round 1-1": [
+            [
+                {
+                    "country": "KOR",
+                    "name": "Minjong KIM"
+                },
+                {
+                    "country": "AUS",
+                    "name": "Nicolas BERARD"
+                }
+            ]
+        ],
+        "final_winner": "Minjong KIM"
+    },
+    "POOL C": {
+        "round 1-1": [
+            [
+                {
+                    "country": "MGL",
+                    "name": "Temuulen BATTULGA"
+                },
+                {
+                    "country": "CAN",
+                    "name": "Kevin GAUTHIER"
+                }
+            ]
+        ],
+        "final_winner": "Temuulen BATTULGA"
+    },
+    "POOL D": {
+        "round 1-1": [
+            [
+                {
+                    "country": "AUS",
+                    "name": "Liam PARK"
+                },
+                {
+                    "country": "CAN",
+                    "name": "Joe Casey ANDRES"
+                }
+            ]
+        ],
+        "final_winner": "Joe Casey ANDRES"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "MGL",
+                    "name": "Tsetsentsengel ODKHUU"
+                },
+                {
+                    "country": "AUS",
+                    "name": "Nicolas BERARD"
+                },
+                {
+                    "winner": "Tsetsentsengel ODKHUU"
+                }
+            ],
+            [
+                {
+                    "country": "CAN",
+                    "name": "Kevin GAUTHIER"
+                },
+                {
+                    "country": "AUS",
+                    "name": "Liam PARK"
+                },
+                {
+                    "winner": "Kevin GAUTHIER"
+                }
+            ],
+            [
+                {
+                    "country": "MGL",
+                    "name": "Tsetsentsengel ODKHUU"
+                },
+                {
+                    "country": "CAN",
+                    "name": "Joe Casey ANDRES"
+                },
+                {
+                    "winner": "Tsetsentsengel ODKHUU"
+                }
+            ],
+            [
+                {
+                    "country": "CAN",
+                    "name": "Kevin GAUTHIER"
+                },
+                {
+                    "country": "MGL",
+                    "name": "Tuvshinbayar NAIDAN"
+                },
+                {
+                    "winner": "Tuvshinbayar NAIDAN"
+                }
+            ],
+            [
+                {
+                    "country": "MGL",
+                    "name": "Tsetsentsengel ODKHUU"
+                }
+            ],
+            [
+                {
+                    "country": "MGL",
+                    "name": "Tuvshinbayar NAIDAN"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Tsetsentsengel ODKHUU",
+            "Tuvshinbayar NAIDAN"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "MGL",
+                    "name": "Tuvshinbayar NAIDAN"
+                },
+                {
+                    "country": "KOR",
+                    "name": "Minjong KIM"
+                },
+                {
+                    "winner": "Minjong KIM"
+                }
+            ],
+            [
+                {
+                    "country": "MGL",
+                    "name": "Temuulen BATTULGA"
+                },
+                {
+                    "country": "CAN",
+                    "name": "Joe Casey ANDRES"
+                },
+                {
+                    "winner": "Temuulen BATTULGA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "KOR",
+                    "name": "Minjong KIM"
+                },
+                {
+                    "country": "MGL",
+                    "name": "Temuulen BATTULGA"
+                }
+            ]
+        ],
+        "final_winner": "Minjong KIM"
+    }
+}

@@ -1,0 +1,68 @@
+{
+    "ROUND 1": {
+        "round 1-2": [
+            [
+                {
+                    "country": "MAR",
+                    "name": "Douae LAOUINA"
+                },
+                {
+                    "country": "ALG",
+                    "name": "Hanane BRAHIMI"
+                },
+                {
+                    "winner": "Hanane BRAHIMI"
+                }
+            ],
+            [
+                {
+                    "country": "ALG",
+                    "name": "Nourhane GHAZALI"
+                },
+                {
+                    "country": "TUN",
+                    "name": "Malek OTHMENI"
+                },
+                {
+                    "winner": "Malek OTHMENI"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Hanane BRAHIMI",
+            "Malek OTHMENI"
+        ]
+    },
+    "REPECHAGE": {
+        "round 1-1": [
+            [
+                {
+                    "country": "MAR",
+                    "name": "Douae LAOUINA"
+                },
+                {
+                    "country": "ALG",
+                    "name": "Nourhane GHAZALI"
+                },
+                {
+                    "winner": "Nourhane GHAZALI"
+                }
+            ],
+            [
+                {
+                    "country": "ALG",
+                    "name": "Nourhane GHAZALI"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Nourhane GHAZALI"
+        ]
+    },
+    "FINALS": {
+        "round 1-1": [],
+        "final_winners": [
+            "Hanane BRAHIMI"
+        ]
+    }
+}

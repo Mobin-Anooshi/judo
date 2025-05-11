@@ -1,0 +1,290 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "PUR",
+                    "name": "Maria PEREZ"
+                },
+                {
+                    "winner": "Maria PEREZ"
+                }
+            ],
+            [
+                {
+                    "country": "BEL",
+                    "name": "Gabriella WILLEMS"
+                },
+                {
+                    "country": "GER",
+                    "name": "Sarah MAEKELBURG"
+                },
+                {
+                    "winner": "Gabriella WILLEMS"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "PUR",
+                    "name": "Maria PEREZ"
+                },
+                {
+                    "country": "BEL",
+                    "name": "Gabriella WILLEMS"
+                }
+            ],
+            [
+                {
+                    "country": "PUR",
+                    "name": "Maria PEREZ"
+                }
+            ]
+        ]
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "BEL",
+                    "name": "Roxane TAEYMANS"
+                },
+                {
+                    "country": "MAR",
+                    "name": "Meriam AOURZ"
+                },
+                {
+                    "winner": "Roxane TAEYMANS"
+                }
+            ],
+            [
+                {
+                    "country": "AUS",
+                    "name": "Aoife COUGHLAN"
+                },
+                {
+                    "country": "SUI",
+                    "name": "Alina LENGWEILER"
+                },
+                {
+                    "winner": "Alina LENGWEILER"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "BEL",
+                    "name": "Roxane TAEYMANS"
+                },
+                {
+                    "country": "SUI",
+                    "name": "Alina LENGWEILER"
+                }
+            ],
+            [
+                {
+                    "country": "BEL",
+                    "name": "Roxane TAEYMANS"
+                }
+            ]
+        ]
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "MAR",
+                    "name": "Assmaa NIANG"
+                },
+                {
+                    "winner": "Assmaa NIANG"
+                }
+            ],
+            [
+                {
+                    "country": "USA",
+                    "name": "Chantal WRIGHT"
+                },
+                {
+                    "country": "GUI",
+                    "name": "Mamadama SYLLA"
+                },
+                {
+                    "winner": "Chantal WRIGHT"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "MAR",
+                    "name": "Assmaa NIANG"
+                },
+                {
+                    "country": "USA",
+                    "name": "Chantal WRIGHT"
+                }
+            ],
+            [
+                {
+                    "country": "MAR",
+                    "name": "Assmaa NIANG"
+                }
+            ]
+        ]
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "SLO",
+                    "name": "Anka POGACNIK"
+                },
+                {
+                    "country": "FRA",
+                    "name": "Melissa HELEINE"
+                },
+                {
+                    "winner": "Anka POGACNIK"
+                }
+            ],
+            [
+                {
+                    "country": "GER",
+                    "name": "Szaundra DIEDRICH"
+                },
+                {
+                    "country": "TKM",
+                    "name": "Feride MAMMEDOVA"
+                },
+                {
+                    "winner": "Szaundra DIEDRICH"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "SLO",
+                    "name": "Anka POGACNIK"
+                },
+                {
+                    "country": "GER",
+                    "name": "Szaundra DIEDRICH"
+                }
+            ],
+            [
+                {
+                    "country": "SLO",
+                    "name": "Anka POGACNIK"
+                }
+            ]
+        ]
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "BEL",
+                    "name": "Gabriella WILLEMS"
+                },
+                {
+                    "country": "SUI",
+                    "name": "Alina LENGWEILER"
+                }
+            ],
+            [
+                {
+                    "country": "USA",
+                    "name": "Chantal WRIGHT"
+                },
+                {
+                    "country": "GER",
+                    "name": "Szaundra DIEDRICH"
+                }
+            ],
+            [
+                {
+                    "country": "SUI",
+                    "name": "Alina LENGWEILER"
+                },
+                {
+                    "country": "SLO",
+                    "name": "Anka POGACNIK"
+                }
+            ],
+            [
+                {
+                    "country": "GER",
+                    "name": "Szaundra DIEDRICH"
+                },
+                {
+                    "country": "BEL",
+                    "name": "Roxane TAEYMANS"
+                }
+            ],
+            [
+                {
+                    "country": "SLO",
+                    "name": "Anka POGACNIK"
+                }
+            ],
+            [
+                {
+                    "country": "GER",
+                    "name": "Szaundra DIEDRICH"
+                }
+            ]
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "PUR",
+                    "name": "Maria PEREZ"
+                },
+                {
+                    "country": "BEL",
+                    "name": "Roxane TAEYMANS"
+                },
+                {
+                    "winner": "Maria PEREZ"
+                }
+            ],
+            [
+                {
+                    "country": "MAR",
+                    "name": "Assmaa NIANG"
+                },
+                {
+                    "country": "SLO",
+                    "name": "Anka POGACNIK"
+                },
+                {
+                    "winner": "Assmaa NIANG"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "PUR",
+                    "name": "Maria PEREZ"
+                },
+                {
+                    "country": "MAR",
+                    "name": "Assmaa NIANG"
+                }
+            ],
+            [
+                {
+                    "country": "MAR",
+                    "name": "Assmaa NIANG"
+                }
+            ]
+        ]
+    }
+}

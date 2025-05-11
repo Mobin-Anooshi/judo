@@ -1,0 +1,135 @@
+{
+    "POOL A": {
+        "round 1-1": [],
+        "final_winner": "Kanta UEYAMA"
+    },
+    "POOL B": {
+        "round 1-1": [
+            [
+                {
+                    "country": "PER",
+                    "name": "Jhon COLLAZOS"
+                },
+                {
+                    "country": "ARG",
+                    "name": "Edgar MOLINA"
+                }
+            ]
+        ],
+        "final_winner": "Edgar MOLINA"
+    },
+    "POOL C": {
+        "round 1-1": [],
+        "final_winner": "Franck David MOUSSIMA EWANE ELOUTI"
+    },
+    "POOL D": {
+        "round 1-1": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Thiago Gabriel SANTOS"
+                },
+                {
+                    "country": "PYF",
+                    "name": "Ra Imaru HOLOZET"
+                }
+            ]
+        ],
+        "final_winner": "Thiago Gabriel SANTOS"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "PER",
+                    "name": "Jhon COLLAZOS"
+                }
+            ],
+            [
+                {
+                    "country": "PYF",
+                    "name": "Ra Imaru HOLOZET"
+                }
+            ],
+            [
+                {
+                    "country": "PER",
+                    "name": "Jhon COLLAZOS"
+                },
+                {
+                    "country": "BRA",
+                    "name": "Thiago Gabriel SANTOS"
+                },
+                {
+                    "winner": "Thiago Gabriel SANTOS"
+                }
+            ],
+            [
+                {
+                    "country": "PYF",
+                    "name": "Ra Imaru HOLOZET"
+                },
+                {
+                    "country": "ARG",
+                    "name": "Edgar MOLINA"
+                },
+                {
+                    "winner": "Ra Imaru HOLOZET"
+                }
+            ],
+            [
+                {
+                    "country": "BRA",
+                    "name": "Thiago Gabriel SANTOS"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Ra Imaru HOLOZET",
+            "Thiago Gabriel SANTOS"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "USA",
+                    "name": "Kanta UEYAMA"
+                },
+                {
+                    "country": "ARG",
+                    "name": "Edgar MOLINA"
+                },
+                {
+                    "winner": "Kanta UEYAMA"
+                }
+            ],
+            [
+                {
+                    "country": "CAN",
+                    "name": "Franck David MOUSSIMA EWANE ELOUTI"
+                },
+                {
+                    "country": "BRA",
+                    "name": "Thiago Gabriel SANTOS"
+                },
+                {
+                    "winner": "Franck David MOUSSIMA EWANE ELOUTI"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "USA",
+                    "name": "Kanta UEYAMA"
+                },
+                {
+                    "country": "CAN",
+                    "name": "Franck David MOUSSIMA EWANE ELOUTI"
+                }
+            ]
+        ],
+        "final_winner": "Kanta UEYAMA"
+    }
+}

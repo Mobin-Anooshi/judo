@@ -1,0 +1,68 @@
+{
+    "ROUND 1": {
+        "round 1-2": [
+            [
+                {
+                    "country": "AZE",
+                    "name": "Vusala KARIMOVA"
+                },
+                {
+                    "country": "MAR",
+                    "name": "Marwa FARHAT"
+                },
+                {
+                    "winner": "Vusala KARIMOVA"
+                }
+            ],
+            [
+                {
+                    "country": "TUN",
+                    "name": "Rania HARBAOUI"
+                },
+                {
+                    "country": "ALG",
+                    "name": "Rahma GHALIMA"
+                },
+                {
+                    "winner": "Rania HARBAOUI"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Vusala KARIMOVA",
+            "Rania HARBAOUI"
+        ]
+    },
+    "REPECHAGE": {
+        "round 1-1": [
+            [
+                {
+                    "country": "MAR",
+                    "name": "Marwa FARHAT"
+                },
+                {
+                    "country": "ALG",
+                    "name": "Rahma GHALIMA"
+                },
+                {
+                    "winner": "Marwa FARHAT"
+                }
+            ],
+            [
+                {
+                    "country": "MAR",
+                    "name": "Marwa FARHAT"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Marwa FARHAT"
+        ]
+    },
+    "FINALS": {
+        "round 1-1": [],
+        "final_winners": [
+            "Vusala KARIMOVA"
+        ]
+    }
+}

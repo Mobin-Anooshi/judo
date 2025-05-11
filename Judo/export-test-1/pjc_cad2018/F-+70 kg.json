@@ -1,0 +1,221 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Anna SANTOS"
+                },
+                {
+                    "winner": "Anna SANTOS"
+                }
+            ],
+            []
+        ],
+        "round 1-1": [],
+        "final_winner": "Anna SANTOS"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "VEN",
+                    "name": "Amarantha URDANETA"
+                },
+                {
+                    "winner": "Amarantha URDANETA"
+                }
+            ],
+            [
+                {
+                    "country": "USA",
+                    "name": "Natalija STANOJEVIC"
+                },
+                {
+                    "winner": "Natalija STANOJEVIC"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "VEN",
+                    "name": "Amarantha URDANETA"
+                },
+                {
+                    "country": "USA",
+                    "name": "Natalija STANOJEVIC"
+                }
+            ]
+        ],
+        "final_winner": "Amarantha URDANETA"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "PER",
+                    "name": "Yumiko TANABE"
+                },
+                {
+                    "winner": "Yumiko TANABE"
+                }
+            ],
+            []
+        ],
+        "round 1-1": [],
+        "final_winner": "Yumiko TANABE"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "MEX",
+                    "name": "Priscila MARTINEZ"
+                },
+                {
+                    "winner": "Priscila MARTINEZ"
+                }
+            ],
+            [
+                {
+                    "country": "ARG",
+                    "name": "Nicol piscina"
+                },
+                {
+                    "winner": "Nicol piscina"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "MEX",
+                    "name": "Priscila MARTINEZ"
+                },
+                {
+                    "country": "ARG",
+                    "name": "Nicol piscina"
+                }
+            ]
+        ],
+        "final_winner": "Priscila MARTINEZ"
+    },
+    "REPECHAGE": {
+        "round 1-4": [
+            [],
+            [
+                {
+                    "country": "USA",
+                    "name": "Natalija STANOJEVIC"
+                },
+                {
+                    "winner": "Natalija STANOJEVIC"
+                }
+            ],
+            [],
+            [
+                {
+                    "country": "ARG",
+                    "name": "Nicol piscina"
+                },
+                {
+                    "winner": "Nicol piscina"
+                }
+            ]
+        ],
+        "round 1-2": [
+            [
+                {
+                    "country": "USA",
+                    "name": "Natalija STANOJEVIC"
+                }
+            ],
+            [
+                {
+                    "country": "ARG",
+                    "name": "Nicol piscina"
+                }
+            ],
+            [
+                {
+                    "country": "USA",
+                    "name": "Natalija STANOJEVIC"
+                },
+                {
+                    "country": "PER",
+                    "name": "Yumiko TANABE"
+                },
+                {
+                    "winner": "Natalija STANOJEVIC"
+                }
+            ],
+            [
+                {
+                    "country": "ARG",
+                    "name": "Nicol piscina"
+                },
+                {
+                    "country": "VEN",
+                    "name": "Amarantha URDANETA"
+                },
+                {
+                    "winner": "Amarantha URDANETA"
+                }
+            ],
+            [
+                {
+                    "country": "VEN",
+                    "name": "Amarantha URDANETA"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Nicol piscina",
+            "Natalija STANOJEVIC"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Anna SANTOS"
+                },
+                {
+                    "country": "VEN",
+                    "name": "Amarantha URDANETA"
+                },
+                {
+                    "winner": "Anna SANTOS"
+                }
+            ],
+            [
+                {
+                    "country": "PER",
+                    "name": "Yumiko TANABE"
+                },
+                {
+                    "country": "MEX",
+                    "name": "Priscila MARTINEZ"
+                },
+                {
+                    "winner": "Priscila MARTINEZ"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Anna SANTOS"
+                },
+                {
+                    "country": "MEX",
+                    "name": "Priscila MARTINEZ"
+                }
+            ]
+        ],
+        "final_winner": "Anna SANTOS"
+    }
+}

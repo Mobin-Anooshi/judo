@@ -1,0 +1,269 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "KAZ",
+                    "name": "Malik TEMIRSULTANOV"
+                },
+                {
+                    "winner": "Malik TEMIRSULTANOV"
+                }
+            ],
+            [
+                {
+                    "country": "KGZ",
+                    "name": "Erlan SHEROV"
+                },
+                {
+                    "country": "KOR",
+                    "name": "Minhyeok HWANG"
+                },
+                {
+                    "winner": "Erlan SHEROV"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "KAZ",
+                    "name": "Malik TEMIRSULTANOV"
+                },
+                {
+                    "country": "KGZ",
+                    "name": "Erlan SHEROV"
+                }
+            ]
+        ],
+        "final_winner": "Erlan SHEROV"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "TJK",
+                    "name": "Muhammadulloh LOIQOV"
+                },
+                {
+                    "winner": "Muhammadulloh LOIQOV"
+                }
+            ],
+            [
+                {
+                    "country": "MGL",
+                    "name": "Gonchigsuren BATKHUYAG"
+                },
+                {
+                    "winner": "Gonchigsuren BATKHUYAG"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "TJK",
+                    "name": "Muhammadulloh LOIQOV"
+                },
+                {
+                    "country": "MGL",
+                    "name": "Gonchigsuren BATKHUYAG"
+                }
+            ]
+        ],
+        "final_winner": "Gonchigsuren BATKHUYAG"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "KOR",
+                    "name": "Taemyeong KIM"
+                },
+                {
+                    "winner": "Taemyeong KIM"
+                }
+            ],
+            [
+                {
+                    "country": "RUS",
+                    "name": "Mansur LORSANOV"
+                },
+                {
+                    "winner": "Mansur LORSANOV"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "KOR",
+                    "name": "Taemyeong KIM"
+                },
+                {
+                    "country": "RUS",
+                    "name": "Mansur LORSANOV"
+                }
+            ]
+        ],
+        "final_winner": "Mansur LORSANOV"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "UZB",
+                    "name": "Rufat KHUDAKOV"
+                },
+                {
+                    "winner": "Rufat KHUDAKOV"
+                }
+            ],
+            []
+        ],
+        "round 1-1": [],
+        "final_winner": "Rufat KHUDAKOV"
+    },
+    "REPECHAGE": {
+        "round 1-4": [
+            [
+                {
+                    "country": "KOR",
+                    "name": "Minhyeok HWANG"
+                },
+                {
+                    "country": "KAZ",
+                    "name": "Malik TEMIRSULTANOV"
+                },
+                {
+                    "winner": "Minhyeok HWANG"
+                }
+            ],
+            [
+                {
+                    "country": "TJK",
+                    "name": "Muhammadulloh LOIQOV"
+                },
+                {
+                    "winner": "Muhammadulloh LOIQOV"
+                }
+            ],
+            [
+                {
+                    "country": "KOR",
+                    "name": "Taemyeong KIM"
+                },
+                {
+                    "winner": "Taemyeong KIM"
+                }
+            ],
+            []
+        ],
+        "round 1-2": [
+            [
+                {
+                    "country": "KOR",
+                    "name": "Minhyeok HWANG"
+                },
+                {
+                    "country": "TJK",
+                    "name": "Muhammadulloh LOIQOV"
+                },
+                {
+                    "winner": "Minhyeok HWANG"
+                }
+            ],
+            [
+                {
+                    "country": "KOR",
+                    "name": "Taemyeong KIM"
+                }
+            ],
+            [
+                {
+                    "country": "KOR",
+                    "name": "Minhyeok HWANG"
+                },
+                {
+                    "country": "UZB",
+                    "name": "Rufat KHUDAKOV"
+                },
+                {
+                    "winner": "Minhyeok HWANG"
+                }
+            ],
+            [
+                {
+                    "country": "KOR",
+                    "name": "Taemyeong KIM"
+                },
+                {
+                    "country": "KGZ",
+                    "name": "Erlan SHEROV"
+                },
+                {
+                    "winner": "Erlan SHEROV"
+                }
+            ],
+            [
+                {
+                    "country": "KOR",
+                    "name": "Minhyeok HWANG"
+                }
+            ],
+            [
+                {
+                    "country": "KGZ",
+                    "name": "Erlan SHEROV"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Minhyeok HWANG",
+            "Erlan SHEROV"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "KGZ",
+                    "name": "Erlan SHEROV"
+                },
+                {
+                    "country": "MGL",
+                    "name": "Gonchigsuren BATKHUYAG"
+                },
+                {
+                    "winner": "Gonchigsuren BATKHUYAG"
+                }
+            ],
+            [
+                {
+                    "country": "RUS",
+                    "name": "Mansur LORSANOV"
+                },
+                {
+                    "country": "UZB",
+                    "name": "Rufat KHUDAKOV"
+                },
+                {
+                    "winner": "Mansur LORSANOV"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "MGL",
+                    "name": "Gonchigsuren BATKHUYAG"
+                },
+                {
+                    "country": "RUS",
+                    "name": "Mansur LORSANOV"
+                }
+            ]
+        ],
+        "final_winner": "Mansur LORSANOV"
+    }
+}

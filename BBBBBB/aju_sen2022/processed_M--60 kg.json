@@ -1,0 +1,281 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "MAR",
+                    "name": "Issam BASSOU"
+                },
+                {
+                    "winner": "Issam BASSOU"
+                }
+            ],
+            [
+                {
+                    "country": "CIV",
+                    "name": "Regis Evrard MONNEY"
+                },
+                {
+                    "country": "ZAM",
+                    "name": "Simon ZULU"
+                },
+                {
+                    "winner": "Simon ZULU"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "MAR",
+                    "name": "Issam BASSOU"
+                },
+                {
+                    "country": "ZAM",
+                    "name": "Simon ZULU"
+                }
+            ]
+        ],
+        "final_winner": "Issam BASSOU"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "EGY",
+                    "name": "Youssry SAMY"
+                },
+                {
+                    "country": "NIG",
+                    "name": "Moctar ALLASSANE"
+                },
+                {
+                    "winner": "Youssry SAMY"
+                }
+            ],
+            [
+                {
+                    "country": "CMR",
+                    "name": "Bernadin TSALA TSALA"
+                },
+                {
+                    "country": "DJI",
+                    "name": "Aden ISAM"
+                },
+                {
+                    "winner": "Bernadin TSALA TSALA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "EGY",
+                    "name": "Youssry SAMY"
+                },
+                {
+                    "country": "CMR",
+                    "name": "Bernadin TSALA TSALA"
+                }
+            ]
+        ],
+        "final_winner": "Youssry SAMY"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "TUN",
+                    "name": "Fraj DHOUIBI"
+                },
+                {
+                    "winner": "Fraj DHOUIBI"
+                }
+            ],
+            [
+                {
+                    "country": "ALG",
+                    "name": "Billel YAGOUBI"
+                },
+                {
+                    "country": "MOZ",
+                    "name": "Samuel RIBEIRO"
+                },
+                {
+                    "winner": "Billel YAGOUBI"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "TUN",
+                    "name": "Fraj DHOUIBI"
+                },
+                {
+                    "country": "ALG",
+                    "name": "Billel YAGOUBI"
+                }
+            ]
+        ],
+        "final_winner": "Fraj DHOUIBI"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "MAR",
+                    "name": "Younes SADDIKI"
+                },
+                {
+                    "country": "DJI",
+                    "name": "Abdallah HASSAN"
+                },
+                {
+                    "winner": "Younes SADDIKI"
+                }
+            ],
+            [
+                {
+                    "country": "CIV",
+                    "name": "Daouda DABONE"
+                },
+                {
+                    "country": "GUI",
+                    "name": "Moussa KABA"
+                },
+                {
+                    "winner": "Daouda DABONE"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "MAR",
+                    "name": "Younes SADDIKI"
+                },
+                {
+                    "country": "CIV",
+                    "name": "Daouda DABONE"
+                }
+            ]
+        ],
+        "final_winner": "Younes SADDIKI"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ZAM",
+                    "name": "Simon ZULU"
+                },
+                {
+                    "country": "CMR",
+                    "name": "Bernadin TSALA TSALA"
+                },
+                {
+                    "winner": "Simon ZULU"
+                }
+            ],
+            [
+                {
+                    "country": "ALG",
+                    "name": "Billel YAGOUBI"
+                },
+                {
+                    "country": "CIV",
+                    "name": "Daouda DABONE"
+                },
+                {
+                    "winner": "Billel YAGOUBI"
+                }
+            ],
+            [
+                {
+                    "country": "ZAM",
+                    "name": "Simon ZULU"
+                },
+                {
+                    "country": "MAR",
+                    "name": "Younes SADDIKI"
+                },
+                {
+                    "winner": "Younes SADDIKI"
+                }
+            ],
+            [
+                {
+                    "country": "ALG",
+                    "name": "Billel YAGOUBI"
+                },
+                {
+                    "country": "MAR",
+                    "name": "Issam BASSOU"
+                },
+                {
+                    "winner": "Billel YAGOUBI"
+                }
+            ],
+            [
+                {
+                    "country": "MAR",
+                    "name": "Younes SADDIKI"
+                }
+            ],
+            [
+                {
+                    "country": "ALG",
+                    "name": "Billel YAGOUBI"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Younes SADDIKI",
+            "Billel YAGOUBI"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "MAR",
+                    "name": "Issam BASSOU"
+                },
+                {
+                    "country": "EGY",
+                    "name": "Youssry SAMY"
+                },
+                {
+                    "winner": "Youssry SAMY"
+                }
+            ],
+            [
+                {
+                    "country": "TUN",
+                    "name": "Fraj DHOUIBI"
+                },
+                {
+                    "country": "MAR",
+                    "name": "Younes SADDIKI"
+                },
+                {
+                    "winner": "Fraj DHOUIBI"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "EGY",
+                    "name": "Youssry SAMY"
+                },
+                {
+                    "country": "TUN",
+                    "name": "Fraj DHOUIBI"
+                }
+            ]
+        ],
+        "final_winner": "Youssry SAMY"
+    }
+}

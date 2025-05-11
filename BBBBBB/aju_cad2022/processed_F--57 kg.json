@@ -1,0 +1,159 @@
+{
+    "POOL A": {
+        "round 1-1": [],
+        "final_winner": "M Mah BANGOURA"
+    },
+    "POOL B": {
+        "round 1-1": [
+            [
+                {
+                    "country": "RSA",
+                    "name": "Marli DE NEYS"
+                },
+                {
+                    "country": "CMR",
+                    "name": "Manuella Agnes Lucie FENOU NOUBISSI"
+                }
+            ]
+        ],
+        "final_winner": "Manuella Agnes Lucie FENOU NOUBISSI"
+    },
+    "POOL C": {
+        "round 1-1": [
+            [
+                {
+                    "country": "KEN",
+                    "name": "Sidi Ngoa MWARINGA"
+                },
+                {
+                    "country": "RSA",
+                    "name": "Catalina DE OLIVEIRA"
+                }
+            ]
+        ],
+        "final_winner": "Catalina DE OLIVEIRA"
+    },
+    "POOL D": {
+        "round 1-1": [
+            [
+                {
+                    "country": "MOZ",
+                    "name": "Shenidy TSEMANE"
+                },
+                {
+                    "country": "BDI",
+                    "name": "Ghyslaine MPAWENIMANA"
+                }
+            ]
+        ],
+        "final_winner": "Shenidy TSEMANE"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "RSA",
+                    "name": "Marli DE NEYS"
+                }
+            ],
+            [
+                {
+                    "country": "KEN",
+                    "name": "Sidi Ngoa MWARINGA"
+                },
+                {
+                    "country": "BDI",
+                    "name": "Ghyslaine MPAWENIMANA"
+                },
+                {
+                    "winner": "Ghyslaine MPAWENIMANA"
+                }
+            ],
+            [
+                {
+                    "country": "RSA",
+                    "name": "Marli DE NEYS"
+                },
+                {
+                    "country": "RSA",
+                    "name": "Catalina DE OLIVEIRA"
+                },
+                {
+                    "winner": "Catalina DE OLIVEIRA"
+                }
+            ],
+            [
+                {
+                    "country": "BDI",
+                    "name": "Ghyslaine MPAWENIMANA"
+                },
+                {
+                    "country": "GUI",
+                    "name": "M Mah BANGOURA"
+                },
+                {
+                    "winner": "M Mah BANGOURA"
+                }
+            ],
+            [
+                {
+                    "country": "RSA",
+                    "name": "Catalina DE OLIVEIRA"
+                }
+            ],
+            [
+                {
+                    "country": "GUI",
+                    "name": "M Mah BANGOURA"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Catalina DE OLIVEIRA",
+            "M Mah BANGOURA"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "GUI",
+                    "name": "M Mah BANGOURA"
+                },
+                {
+                    "country": "CMR",
+                    "name": "Manuella Agnes Lucie FENOU NOUBISSI"
+                },
+                {
+                    "winner": "Manuella Agnes Lucie FENOU NOUBISSI"
+                }
+            ],
+            [
+                {
+                    "country": "RSA",
+                    "name": "Catalina DE OLIVEIRA"
+                },
+                {
+                    "country": "MOZ",
+                    "name": "Shenidy TSEMANE"
+                },
+                {
+                    "winner": "Shenidy TSEMANE"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "CMR",
+                    "name": "Manuella Agnes Lucie FENOU NOUBISSI"
+                },
+                {
+                    "country": "MOZ",
+                    "name": "Shenidy TSEMANE"
+                }
+            ]
+        ],
+        "final_winner": "Shenidy TSEMANE"
+    }
+}

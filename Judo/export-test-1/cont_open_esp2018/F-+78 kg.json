@@ -1,0 +1,177 @@
+{
+    "POOL A": {
+        "round 1-1": [
+            [
+                {
+                    "country": "GBR",
+                    "name": "Sarah ADLINGTON"
+                },
+                {
+                    "country": "ESP",
+                    "name": "Sara ALVAREZ"
+                }
+            ]
+        ],
+        "final_winner": "Sarah ADLINGTON"
+    },
+    "POOL B": {
+        "round 1-1": [
+            [
+                {
+                    "country": "POL",
+                    "name": "Anna ZALECZNA"
+                },
+                {
+                    "country": "ESP",
+                    "name": "Marta ANTON ELIAS"
+                }
+            ]
+        ],
+        "final_winner": "Anna ZALECZNA"
+    },
+    "POOL C": {
+        "round 1-1": [
+            [
+                {
+                    "country": "GER",
+                    "name": "Kristin BUESSOW"
+                },
+                {
+                    "country": "GBR",
+                    "name": "Sarah BARRITT"
+                }
+            ]
+        ],
+        "final_winner": "Kristin BUESSOW"
+    },
+    "POOL D": {
+        "round 1-1": [
+            [
+                {
+                    "country": "ITA",
+                    "name": "Elisa MARCHIO"
+                },
+                {
+                    "country": "ESP",
+                    "name": "Patricia FERRER BARTULOS"
+                }
+            ]
+        ],
+        "final_winner": "Elisa MARCHIO"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ESP",
+                    "name": "Sara ALVAREZ"
+                },
+                {
+                    "country": "ESP",
+                    "name": "Marta ANTON ELIAS"
+                },
+                {
+                    "winner": "Sara ALVAREZ"
+                }
+            ],
+            [
+                {
+                    "country": "GBR",
+                    "name": "Sarah BARRITT"
+                },
+                {
+                    "country": "ESP",
+                    "name": "Patricia FERRER BARTULOS"
+                },
+                {
+                    "winner": "Patricia FERRER BARTULOS"
+                }
+            ],
+            [
+                {
+                    "country": "ESP",
+                    "name": "Sara ALVAREZ"
+                },
+                {
+                    "country": "ITA",
+                    "name": "Elisa MARCHIO"
+                },
+                {
+                    "winner": "Elisa MARCHIO"
+                }
+            ],
+            [
+                {
+                    "country": "ESP",
+                    "name": "Patricia FERRER BARTULOS"
+                },
+                {
+                    "country": "POL",
+                    "name": "Anna ZALECZNA"
+                },
+                {
+                    "winner": "Anna ZALECZNA"
+                }
+            ],
+            [
+                {
+                    "country": "ITA",
+                    "name": "Elisa MARCHIO"
+                }
+            ],
+            [
+                {
+                    "country": "POL",
+                    "name": "Anna ZALECZNA"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Elisa MARCHIO",
+            "Anna ZALECZNA"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "GBR",
+                    "name": "Sarah ADLINGTON"
+                },
+                {
+                    "country": "POL",
+                    "name": "Anna ZALECZNA"
+                },
+                {
+                    "winner": "Sarah ADLINGTON"
+                }
+            ],
+            [
+                {
+                    "country": "GER",
+                    "name": "Kristin BUESSOW"
+                },
+                {
+                    "country": "ITA",
+                    "name": "Elisa MARCHIO"
+                },
+                {
+                    "winner": "Kristin BUESSOW"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "GBR",
+                    "name": "Sarah ADLINGTON"
+                },
+                {
+                    "country": "GER",
+                    "name": "Kristin BUESSOW"
+                }
+            ]
+        ],
+        "final_winner": "Kristin BUESSOW"
+    }
+}

@@ -1,0 +1,68 @@
+{
+    "ROUND 1": {
+        "round 1-2": [
+            [
+                {
+                    "country": "GUA",
+                    "name": "Jacqueline SOLIS"
+                },
+                {
+                    "country": "USA",
+                    "name": "Summer TRUONG"
+                },
+                {
+                    "winner": "Summer TRUONG"
+                }
+            ],
+            [
+                {
+                    "country": "USA",
+                    "name": "Giovanna PRADO"
+                },
+                {
+                    "country": "GUA",
+                    "name": "Evelyn SOLIS GUTIERREZ"
+                },
+                {
+                    "winner": "Evelyn SOLIS GUTIERREZ"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Summer TRUONG",
+            "Evelyn SOLIS GUTIERREZ"
+        ]
+    },
+    "REPECHAGE": {
+        "round 1-1": [
+            [
+                {
+                    "country": "GUA",
+                    "name": "Jacqueline SOLIS"
+                },
+                {
+                    "country": "USA",
+                    "name": "Giovanna PRADO"
+                },
+                {
+                    "winner": "Giovanna PRADO"
+                }
+            ],
+            [
+                {
+                    "country": "USA",
+                    "name": "Giovanna PRADO"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Giovanna PRADO"
+        ]
+    },
+    "FINALS": {
+        "round 1-1": [],
+        "final_winners": [
+            "Summer TRUONG"
+        ]
+    }
+}

@@ -1,0 +1,159 @@
+{
+    "POOL A": {
+        "round 1-1": [],
+        "final_winner": "Maxine HEYNS"
+    },
+    "POOL B": {
+        "round 1-1": [
+            [
+                {
+                    "country": "AUT",
+                    "name": "Anna-Lena SCHUCHTER"
+                },
+                {
+                    "country": "EST",
+                    "name": "Maria PAPP"
+                }
+            ]
+        ],
+        "final_winner": "Anna-Lena SCHUCHTER"
+    },
+    "POOL C": {
+        "round 1-1": [
+            [
+                {
+                    "country": "ITA",
+                    "name": "Raffaella Lelia CIANO"
+                },
+                {
+                    "country": "FIN",
+                    "name": "Unna TEPPO"
+                }
+            ]
+        ],
+        "final_winner": "Raffaella Lelia CIANO"
+    },
+    "POOL D": {
+        "round 1-1": [
+            [
+                {
+                    "country": "NED",
+                    "name": "Dagmar VAN WONDEREN"
+                },
+                {
+                    "country": "POL",
+                    "name": "Natalia NOWACZYK"
+                }
+            ]
+        ],
+        "final_winner": "Dagmar VAN WONDEREN"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "EST",
+                    "name": "Maria PAPP"
+                }
+            ],
+            [
+                {
+                    "country": "FIN",
+                    "name": "Unna TEPPO"
+                },
+                {
+                    "country": "POL",
+                    "name": "Natalia NOWACZYK"
+                },
+                {
+                    "winner": "Natalia NOWACZYK"
+                }
+            ],
+            [
+                {
+                    "country": "EST",
+                    "name": "Maria PAPP"
+                },
+                {
+                    "country": "ITA",
+                    "name": "Raffaella Lelia CIANO"
+                },
+                {
+                    "winner": "Raffaella Lelia CIANO"
+                }
+            ],
+            [
+                {
+                    "country": "POL",
+                    "name": "Natalia NOWACZYK"
+                },
+                {
+                    "country": "AUT",
+                    "name": "Anna-Lena SCHUCHTER"
+                },
+                {
+                    "winner": "Anna-Lena SCHUCHTER"
+                }
+            ],
+            [
+                {
+                    "country": "ITA",
+                    "name": "Raffaella Lelia CIANO"
+                }
+            ],
+            [
+                {
+                    "country": "AUT",
+                    "name": "Anna-Lena SCHUCHTER"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Raffaella Lelia CIANO",
+            "Anna-Lena SCHUCHTER"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "BEL",
+                    "name": "Maxine HEYNS"
+                },
+                {
+                    "country": "AUT",
+                    "name": "Anna-Lena SCHUCHTER"
+                },
+                {
+                    "winner": "Maxine HEYNS"
+                }
+            ],
+            [
+                {
+                    "country": "ITA",
+                    "name": "Raffaella Lelia CIANO"
+                },
+                {
+                    "country": "NED",
+                    "name": "Dagmar VAN WONDEREN"
+                },
+                {
+                    "winner": "Dagmar VAN WONDEREN"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "BEL",
+                    "name": "Maxine HEYNS"
+                },
+                {
+                    "country": "NED",
+                    "name": "Dagmar VAN WONDEREN"
+                }
+            ]
+        ],
+        "final_winner": "Dagmar VAN WONDEREN"
+    }
+}

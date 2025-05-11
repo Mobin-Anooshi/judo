@@ -1,0 +1,93 @@
+{
+    "POOL A": {
+        "round 1-3": [
+            [
+                {
+                    "country": "POL",
+                    "name": "Kinga WOLSZCZAK"
+                },
+                {
+                    "country": "POL",
+                    "name": "Julia SWIATKIEWICZ"
+                },
+                {
+                    "winner": "Kinga WOLSZCZAK"
+                }
+            ],
+            [
+                {
+                    "country": "POL",
+                    "name": "Kinga WOLSZCZAK"
+                },
+                {
+                    "country": "POL",
+                    "name": "Alicja SOKOLOWSKA"
+                },
+                {
+                    "winner": "Kinga WOLSZCZAK"
+                }
+            ],
+            [
+                {
+                    "country": "POL",
+                    "name": "Julia SWIATKIEWICZ"
+                },
+                {
+                    "country": "RUS",
+                    "name": "Elis STARTSEVA"
+                },
+                {
+                    "winner": "Julia SWIATKIEWICZ"
+                }
+            ],
+            [
+                {
+                    "country": "POL",
+                    "name": "Julia SWIATKIEWICZ"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Kinga WOLSZCZAK",
+            "Elis STARTSEVA"
+        ]
+    },
+    "POOL B": {
+        "round 1-1": [],
+        "final_winners": [
+            "Elis STARTSEVA"
+        ]
+    },
+    "REPECHAGE": {
+        "round 1-1": [
+            [
+                {
+                    "country": "RUS",
+                    "name": "Daria VLADIMIROVA"
+                },
+                {
+                    "country": "POL",
+                    "name": "Alicja SOKOLOWSKA"
+                },
+                {
+                    "winner": "Daria VLADIMIROVA"
+                }
+            ],
+            [
+                {
+                    "country": "RUS",
+                    "name": "Daria VLADIMIROVA"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Daria VLADIMIROVA"
+        ]
+    },
+    "FINALS": {
+        "round 1-1": [],
+        "final_winners": [
+            "Kinga WOLSZCZAK"
+        ]
+    }
+}

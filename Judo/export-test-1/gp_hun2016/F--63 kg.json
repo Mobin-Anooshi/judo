@@ -1,0 +1,285 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "SLO",
+                    "name": "Tina TRSTENJAK"
+                },
+                {
+                    "winner": "Tina TRSTENJAK"
+                }
+            ],
+            [
+                {
+                    "country": "GBR",
+                    "name": "Lucy RENSHALL"
+                },
+                {
+                    "country": "MKD",
+                    "name": "Katerina NIKOLOSKA"
+                },
+                {
+                    "winner": "Lucy RENSHALL"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "SLO",
+                    "name": "Tina TRSTENJAK"
+                },
+                {
+                    "country": "GBR",
+                    "name": "Lucy RENSHALL"
+                }
+            ]
+        ],
+        "final_winner": "Tina TRSTENJAK"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "HUN",
+                    "name": "Franciska SZABO"
+                },
+                {
+                    "country": "NEP",
+                    "name": "Phupu lhamu KHATRI"
+                },
+                {
+                    "winner": "Franciska SZABO"
+                }
+            ],
+            [
+                {
+                    "country": "GBR",
+                    "name": "Amy LIVESEY"
+                },
+                {
+                    "country": "ESP",
+                    "name": "Angeles LOPEZ AGUILERA"
+                },
+                {
+                    "winner": "Amy LIVESEY"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "HUN",
+                    "name": "Franciska SZABO"
+                },
+                {
+                    "country": "GBR",
+                    "name": "Amy LIVESEY"
+                }
+            ]
+        ],
+        "final_winner": "Amy LIVESEY"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "AUS",
+                    "name": "Katharina HAECKER"
+                },
+                {
+                    "country": "ROU",
+                    "name": "Andreea FLORIAN"
+                },
+                {
+                    "winner": "Katharina HAECKER"
+                }
+            ],
+            [
+                {
+                    "country": "BEL",
+                    "name": "Sandrine BILLIET"
+                },
+                {
+                    "country": "HUN",
+                    "name": "Krisztina POLYAK"
+                },
+                {
+                    "winner": "Sandrine BILLIET"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "AUS",
+                    "name": "Katharina HAECKER"
+                },
+                {
+                    "country": "BEL",
+                    "name": "Sandrine BILLIET"
+                }
+            ]
+        ],
+        "final_winner": "Katharina HAECKER"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ECU",
+                    "name": "Estefania GARCIA"
+                },
+                {
+                    "country": "HUN",
+                    "name": "Reka GYULAI"
+                },
+                {
+                    "winner": "Estefania GARCIA"
+                }
+            ],
+            [
+                {
+                    "country": "BEL",
+                    "name": "Sarah LOKO GUERSCHNER"
+                },
+                {
+                    "country": "JPN",
+                    "name": "Nami NABEKURA"
+                },
+                {
+                    "winner": "Nami NABEKURA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "ECU",
+                    "name": "Estefania GARCIA"
+                },
+                {
+                    "country": "JPN",
+                    "name": "Nami NABEKURA"
+                }
+            ]
+        ],
+        "final_winner": "Nami NABEKURA"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "GBR",
+                    "name": "Lucy RENSHALL"
+                },
+                {
+                    "country": "HUN",
+                    "name": "Franciska SZABO"
+                },
+                {
+                    "winner": "Lucy RENSHALL"
+                }
+            ],
+            [
+                {
+                    "country": "BEL",
+                    "name": "Sandrine BILLIET"
+                },
+                {
+                    "country": "ECU",
+                    "name": "Estefania GARCIA"
+                },
+                {
+                    "winner": "Estefania GARCIA"
+                }
+            ],
+            [
+                {
+                    "country": "GBR",
+                    "name": "Lucy RENSHALL"
+                },
+                {
+                    "country": "AUS",
+                    "name": "Katharina HAECKER"
+                },
+                {
+                    "winner": "Katharina HAECKER"
+                }
+            ],
+            [
+                {
+                    "country": "ECU",
+                    "name": "Estefania GARCIA"
+                },
+                {
+                    "country": "GBR",
+                    "name": "Amy LIVESEY"
+                },
+                {
+                    "winner": "Amy LIVESEY"
+                }
+            ],
+            [
+                {
+                    "country": "AUS",
+                    "name": "Katharina HAECKER"
+                }
+            ],
+            [
+                {
+                    "country": "GBR",
+                    "name": "Amy LIVESEY"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Katharina HAECKER",
+            "Amy LIVESEY"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "SLO",
+                    "name": "Tina TRSTENJAK"
+                },
+                {
+                    "country": "GBR",
+                    "name": "Amy LIVESEY"
+                },
+                {
+                    "winner": "Tina TRSTENJAK"
+                }
+            ],
+            [
+                {
+                    "country": "AUS",
+                    "name": "Katharina HAECKER"
+                },
+                {
+                    "country": "JPN",
+                    "name": "Nami NABEKURA"
+                },
+                {
+                    "winner": "Nami NABEKURA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "SLO",
+                    "name": "Tina TRSTENJAK"
+                },
+                {
+                    "country": "JPN",
+                    "name": "Nami NABEKURA"
+                }
+            ]
+        ],
+        "final_winner": "Nami NABEKURA"
+    }
+}

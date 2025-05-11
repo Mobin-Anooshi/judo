@@ -1,0 +1,68 @@
+{
+    "ROUND 1": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CHI",
+                    "name": "Yonathan ALVAREZ"
+                },
+                {
+                    "country": "CHI",
+                    "name": "Gabriel VARGAS"
+                },
+                {
+                    "winner": "Yonathan ALVAREZ"
+                }
+            ],
+            [
+                {
+                    "country": "CHI",
+                    "name": "John MADRID"
+                },
+                {
+                    "country": "CHI",
+                    "name": "Boris CARCAMO"
+                },
+                {
+                    "winner": "Boris CARCAMO"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Yonathan ALVAREZ",
+            "Boris CARCAMO"
+        ]
+    },
+    "REPECHAGE": {
+        "round 1-1": [
+            [
+                {
+                    "country": "CHI",
+                    "name": "Gabriel VARGAS"
+                },
+                {
+                    "country": "CHI",
+                    "name": "John MADRID"
+                },
+                {
+                    "winner": "Gabriel VARGAS"
+                }
+            ],
+            [
+                {
+                    "country": "CHI",
+                    "name": "Gabriel VARGAS"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Gabriel VARGAS"
+        ]
+    },
+    "FINALS": {
+        "round 1-1": [],
+        "final_winners": [
+            "Yonathan ALVAREZ"
+        ]
+    }
+}

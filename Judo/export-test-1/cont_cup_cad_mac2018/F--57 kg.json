@@ -1,0 +1,227 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "HKG",
+                    "name": "Miu Ting Catherine LAM"
+                },
+                {
+                    "winner": "Miu Ting Catherine LAM"
+                }
+            ],
+            []
+        ],
+        "round 1-1": [],
+        "final_winner": "Miu Ting Catherine LAM"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "MAC",
+                    "name": "Weng Chi CHAN"
+                },
+                {
+                    "winner": "Weng Chi CHAN"
+                }
+            ],
+            [
+                {
+                    "country": "SGP",
+                    "name": "Hwee Ru KOM"
+                },
+                {
+                    "winner": "Hwee Ru KOM"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "MAC",
+                    "name": "Weng Chi CHAN"
+                },
+                {
+                    "country": "SGP",
+                    "name": "Hwee Ru KOM"
+                }
+            ]
+        ],
+        "final_winner": "Hwee Ru KOM"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "IND",
+                    "name": "Rebina Devi CHANAM"
+                },
+                {
+                    "winner": "Rebina Devi CHANAM"
+                }
+            ],
+            []
+        ],
+        "round 1-1": [],
+        "final_winner": "Rebina Devi CHANAM"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "MAC",
+                    "name": "KA IAN CHOI"
+                },
+                {
+                    "winner": "KA IAN CHOI"
+                }
+            ],
+            [
+                {
+                    "country": "CHN",
+                    "name": "Haiyun huang"
+                },
+                {
+                    "winner": "Haiyun huang"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "MAC",
+                    "name": "KA IAN CHOI"
+                },
+                {
+                    "country": "CHN",
+                    "name": "Haiyun huang"
+                }
+            ]
+        ],
+        "final_winner": "Haiyun huang"
+    },
+    "REPECHAGE": {
+        "round 1-4": [
+            [],
+            [
+                {
+                    "country": "MAC",
+                    "name": "Weng Chi CHAN"
+                },
+                {
+                    "winner": "Weng Chi CHAN"
+                }
+            ],
+            [],
+            [
+                {
+                    "country": "MAC",
+                    "name": "KA IAN CHOI"
+                },
+                {
+                    "winner": "KA IAN CHOI"
+                }
+            ]
+        ],
+        "round 1-2": [
+            [
+                {
+                    "country": "MAC",
+                    "name": "Weng Chi CHAN"
+                }
+            ],
+            [
+                {
+                    "country": "MAC",
+                    "name": "KA IAN CHOI"
+                }
+            ],
+            [
+                {
+                    "country": "MAC",
+                    "name": "Weng Chi CHAN"
+                },
+                {
+                    "country": "IND",
+                    "name": "Rebina Devi CHANAM"
+                },
+                {
+                    "winner": "Rebina Devi CHANAM"
+                }
+            ],
+            [
+                {
+                    "country": "MAC",
+                    "name": "KA IAN CHOI"
+                },
+                {
+                    "country": "HKG",
+                    "name": "Miu Ting Catherine LAM"
+                },
+                {
+                    "winner": "Miu Ting Catherine LAM"
+                }
+            ],
+            [
+                {
+                    "country": "IND",
+                    "name": "Rebina Devi CHANAM"
+                }
+            ],
+            [
+                {
+                    "country": "HKG",
+                    "name": "Miu Ting Catherine LAM"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Rebina Devi CHANAM",
+            "Miu Ting Catherine LAM"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "HKG",
+                    "name": "Miu Ting Catherine LAM"
+                },
+                {
+                    "country": "SGP",
+                    "name": "Hwee Ru KOM"
+                },
+                {
+                    "winner": "Hwee Ru KOM"
+                }
+            ],
+            [
+                {
+                    "country": "IND",
+                    "name": "Rebina Devi CHANAM"
+                },
+                {
+                    "country": "CHN",
+                    "name": "Haiyun huang"
+                },
+                {
+                    "winner": "Haiyun huang"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "SGP",
+                    "name": "Hwee Ru KOM"
+                },
+                {
+                    "country": "CHN",
+                    "name": "Haiyun huang"
+                }
+            ]
+        ],
+        "final_winner": "Haiyun huang"
+    }
+}

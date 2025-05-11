@@ -1,0 +1,87 @@
+{
+    "POOL A": {
+        "round 1-3": [
+            [
+                {
+                    "country": "USA",
+                    "name": "Alexander PRADO"
+                },
+                {
+                    "country": "CUB",
+                    "name": "Ranxel DUQUESNE MENA"
+                },
+                {
+                    "winner": "Alexander PRADO"
+                }
+            ],
+            [
+                {
+                    "country": "USA",
+                    "name": "Alexander PRADO"
+                },
+                {
+                    "country": "USA",
+                    "name": "Anthony REYES"
+                },
+                {
+                    "winner": "Anthony REYES"
+                }
+            ],
+            [
+                {
+                    "country": "CUB",
+                    "name": "Ranxel DUQUESNE MENA"
+                },
+                {
+                    "country": "USA",
+                    "name": "Anthony REYES"
+                },
+                {
+                    "winner": "Ranxel DUQUESNE MENA"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Alexander PRADO",
+            "Ranxel DUQUESNE MENA"
+        ]
+    },
+    "POOL B": {
+        "round 1-1": [],
+        "final_winners": [
+            "Jorge NAVAS RABI"
+        ]
+    },
+    "REPECHAGE": {
+        "round 1-1": [
+            [
+                {
+                    "country": "CUB",
+                    "name": "Ranxel DUQUESNE MENA"
+                },
+                {
+                    "country": "PAR",
+                    "name": "Agustin LEDESMA"
+                },
+                {
+                    "winner": "Ranxel DUQUESNE MENA"
+                }
+            ],
+            [
+                {
+                    "country": "CUB",
+                    "name": "Ranxel DUQUESNE MENA"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Ranxel DUQUESNE MENA"
+        ]
+    },
+    "FINALS": {
+        "round 1-1": [],
+        "final_winners": [
+            "Alexander PRADO"
+        ]
+    }
+}

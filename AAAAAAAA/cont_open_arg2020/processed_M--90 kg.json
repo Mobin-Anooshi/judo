@@ -1,0 +1,261 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "PER",
+                    "name": "Daryl YAMAMOTO"
+                },
+                {
+                    "winner": "Daryl YAMAMOTO"
+                }
+            ],
+            [
+                {
+                    "country": "ARG",
+                    "name": "Alejo BRAUNS"
+                },
+                {
+                    "country": "CHI",
+                    "name": "Baltazar MORA"
+                },
+                {
+                    "winner": "Baltazar MORA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "PER",
+                    "name": "Daryl YAMAMOTO"
+                },
+                {
+                    "country": "CHI",
+                    "name": "Baltazar MORA"
+                }
+            ]
+        ],
+        "final_winner": "Baltazar MORA"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Igor MORISHIGUE"
+                },
+                {
+                    "winner": "Igor MORISHIGUE"
+                }
+            ],
+            [
+                {
+                    "country": "ARG",
+                    "name": "Mariano COTO BERSIER"
+                },
+                {
+                    "winner": "Mariano COTO BERSIER"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Igor MORISHIGUE"
+                },
+                {
+                    "country": "ARG",
+                    "name": "Mariano COTO BERSIER"
+                }
+            ]
+        ],
+        "final_winner": "Igor MORISHIGUE"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ARG",
+                    "name": "Tomas SPIKERMANN"
+                },
+                {
+                    "winner": "Tomas SPIKERMANN"
+                }
+            ],
+            [
+                {
+                    "country": "BRA",
+                    "name": "Marcelo FRONCKOWIAK"
+                },
+                {
+                    "winner": "Marcelo FRONCKOWIAK"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "ARG",
+                    "name": "Tomas SPIKERMANN"
+                },
+                {
+                    "country": "BRA",
+                    "name": "Marcelo FRONCKOWIAK"
+                }
+            ]
+        ],
+        "final_winner": "Marcelo FRONCKOWIAK"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "LIE",
+                    "name": "Raphael SCHWENDINGER"
+                },
+                {
+                    "winner": "Raphael SCHWENDINGER"
+                }
+            ],
+            [
+                {
+                    "country": "ARG",
+                    "name": "Jose PERALTA"
+                },
+                {
+                    "winner": "Jose PERALTA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "LIE",
+                    "name": "Raphael SCHWENDINGER"
+                },
+                {
+                    "country": "ARG",
+                    "name": "Jose PERALTA"
+                }
+            ]
+        ],
+        "final_winner": "Raphael SCHWENDINGER"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "PER",
+                    "name": "Daryl YAMAMOTO"
+                },
+                {
+                    "country": "ARG",
+                    "name": "Mariano COTO BERSIER"
+                },
+                {
+                    "winner": "Daryl YAMAMOTO"
+                }
+            ],
+            [
+                {
+                    "country": "ARG",
+                    "name": "Tomas SPIKERMANN"
+                },
+                {
+                    "country": "ARG",
+                    "name": "Jose PERALTA"
+                },
+                {
+                    "winner": "Tomas SPIKERMANN"
+                }
+            ],
+            [
+                {
+                    "country": "PER",
+                    "name": "Daryl YAMAMOTO"
+                },
+                {
+                    "country": "LIE",
+                    "name": "Raphael SCHWENDINGER"
+                },
+                {
+                    "winner": "Daryl YAMAMOTO"
+                }
+            ],
+            [
+                {
+                    "country": "ARG",
+                    "name": "Tomas SPIKERMANN"
+                },
+                {
+                    "country": "CHI",
+                    "name": "Baltazar MORA"
+                },
+                {
+                    "winner": "Tomas SPIKERMANN"
+                }
+            ],
+            [
+                {
+                    "country": "PER",
+                    "name": "Daryl YAMAMOTO"
+                }
+            ],
+            [
+                {
+                    "country": "ARG",
+                    "name": "Tomas SPIKERMANN"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Daryl YAMAMOTO",
+            "Tomas SPIKERMANN"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CHI",
+                    "name": "Baltazar MORA"
+                },
+                {
+                    "country": "BRA",
+                    "name": "Igor MORISHIGUE"
+                },
+                {
+                    "winner": "Igor MORISHIGUE"
+                }
+            ],
+            [
+                {
+                    "country": "BRA",
+                    "name": "Marcelo FRONCKOWIAK"
+                },
+                {
+                    "country": "LIE",
+                    "name": "Raphael SCHWENDINGER"
+                },
+                {
+                    "winner": "Marcelo FRONCKOWIAK"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Igor MORISHIGUE"
+                },
+                {
+                    "country": "BRA",
+                    "name": "Marcelo FRONCKOWIAK"
+                }
+            ]
+        ],
+        "final_winner": "Marcelo FRONCKOWIAK"
+    }
+}

@@ -1,0 +1,213 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "JPN",
+                    "name": "Funa TONAKI"
+                },
+                {
+                    "winner": "Funa TONAKI"
+                }
+            ],
+            []
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "JPN",
+                    "name": "Funa TONAKI"
+                }
+            ],
+            []
+        ]
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "RUS",
+                    "name": "Anastasia PAVLENKO"
+                },
+                {
+                    "winner": "Anastasia PAVLENKO"
+                }
+            ],
+            [
+                {
+                    "country": "RUS",
+                    "name": "Olga TITOVA"
+                },
+                {
+                    "winner": "Olga TITOVA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "RUS",
+                    "name": "Anastasia PAVLENKO"
+                },
+                {
+                    "country": "RUS",
+                    "name": "Olga TITOVA"
+                }
+            ]
+        ],
+        "final_winner": "Anastasia PAVLENKO"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "RUS",
+                    "name": "Nataliya KOMOVA"
+                },
+                {
+                    "winner": "Nataliya KOMOVA"
+                }
+            ],
+            []
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "RUS",
+                    "name": "Nataliya KOMOVA"
+                }
+            ],
+            []
+        ]
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "SRB",
+                    "name": "Milica NIKOLIC"
+                },
+                {
+                    "winner": "Milica NIKOLIC"
+                }
+            ],
+            [
+                {
+                    "country": "RUS",
+                    "name": "Sabina GILIAZOVA"
+                },
+                {
+                    "winner": "Sabina GILIAZOVA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "SRB",
+                    "name": "Milica NIKOLIC"
+                },
+                {
+                    "country": "RUS",
+                    "name": "Sabina GILIAZOVA"
+                }
+            ]
+        ],
+        "final_winner": "Milica NIKOLIC"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "RUS",
+                    "name": "Olga TITOVA"
+                }
+            ],
+            [
+                {
+                    "country": "RUS",
+                    "name": "Sabina GILIAZOVA"
+                }
+            ],
+            [
+                {
+                    "country": "RUS",
+                    "name": "Olga TITOVA"
+                },
+                {
+                    "country": "SRB",
+                    "name": "Milica NIKOLIC"
+                },
+                {
+                    "winner": "Milica NIKOLIC"
+                }
+            ],
+            [
+                {
+                    "country": "RUS",
+                    "name": "Sabina GILIAZOVA"
+                },
+                {
+                    "country": "RUS",
+                    "name": "Anastasia PAVLENKO"
+                },
+                {
+                    "winner": "Sabina GILIAZOVA"
+                }
+            ],
+            [
+                {
+                    "country": "SRB",
+                    "name": "Milica NIKOLIC"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Sabina GILIAZOVA",
+            "Milica NIKOLIC"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "JPN",
+                    "name": "Funa TONAKI"
+                },
+                {
+                    "country": "RUS",
+                    "name": "Anastasia PAVLENKO"
+                },
+                {
+                    "winner": "Funa TONAKI"
+                }
+            ],
+            [
+                {
+                    "country": "RUS",
+                    "name": "Nataliya KOMOVA"
+                },
+                {
+                    "country": "SRB",
+                    "name": "Milica NIKOLIC"
+                },
+                {
+                    "winner": "Nataliya KOMOVA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "JPN",
+                    "name": "Funa TONAKI"
+                },
+                {
+                    "country": "RUS",
+                    "name": "Nataliya KOMOVA"
+                }
+            ]
+        ],
+        "final_winner": "Funa TONAKI"
+    }
+}

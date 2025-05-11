@@ -1,0 +1,265 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "TPE",
+                    "name": "Shih han HUANG"
+                },
+                {
+                    "winner": "Shih han HUANG"
+                }
+            ],
+            [
+                {
+                    "country": "KOR",
+                    "name": "Jijeong KIM"
+                },
+                {
+                    "country": "JPN",
+                    "name": "Yuka OSUMI"
+                },
+                {
+                    "winner": "Yuka OSUMI"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "TPE",
+                    "name": "Shih han HUANG"
+                },
+                {
+                    "country": "JPN",
+                    "name": "Yuka OSUMI"
+                }
+            ]
+        ],
+        "final_winner": "Yuka OSUMI"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "TPE",
+                    "name": "Yu Ching CHENG"
+                },
+                {
+                    "winner": "Yu Ching CHENG"
+                }
+            ],
+            [
+                {
+                    "country": "KOR",
+                    "name": "Jiwoo CHOI"
+                },
+                {
+                    "winner": "Jiwoo CHOI"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "TPE",
+                    "name": "Yu Ching CHENG"
+                },
+                {
+                    "country": "KOR",
+                    "name": "Jiwoo CHOI"
+                }
+            ]
+        ],
+        "final_winner": "Jiwoo CHOI"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "KOR",
+                    "name": "Eunsol CHOI"
+                },
+                {
+                    "winner": "Eunsol CHOI"
+                }
+            ],
+            [
+                {
+                    "country": "TPE",
+                    "name": "Chian-ya HUNG"
+                },
+                {
+                    "winner": "Chian-ya HUNG"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "KOR",
+                    "name": "Eunsol CHOI"
+                },
+                {
+                    "country": "TPE",
+                    "name": "Chian-ya HUNG"
+                }
+            ]
+        ],
+        "final_winner": "Eunsol CHOI"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "SGP",
+                    "name": "Jinju LI"
+                },
+                {
+                    "country": "TPE",
+                    "name": "Chun Chieh CHU"
+                },
+                {
+                    "winner": "Chun Chieh CHU"
+                }
+            ],
+            [
+                {
+                    "country": "KOR",
+                    "name": "Sohee LEE"
+                },
+                {
+                    "winner": "Sohee LEE"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "TPE",
+                    "name": "Chun Chieh CHU"
+                },
+                {
+                    "country": "KOR",
+                    "name": "Sohee LEE"
+                }
+            ]
+        ],
+        "final_winner": "Sohee LEE"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "TPE",
+                    "name": "Shih han HUANG"
+                },
+                {
+                    "country": "TPE",
+                    "name": "Yu Ching CHENG"
+                },
+                {
+                    "winner": "Yu Ching CHENG"
+                }
+            ],
+            [
+                {
+                    "country": "TPE",
+                    "name": "Chian-ya HUNG"
+                },
+                {
+                    "country": "TPE",
+                    "name": "Chun Chieh CHU"
+                },
+                {
+                    "winner": "Chun Chieh CHU"
+                }
+            ],
+            [
+                {
+                    "country": "TPE",
+                    "name": "Yu Ching CHENG"
+                },
+                {
+                    "country": "KOR",
+                    "name": "Sohee LEE"
+                },
+                {
+                    "winner": "Yu Ching CHENG"
+                }
+            ],
+            [
+                {
+                    "country": "TPE",
+                    "name": "Chun Chieh CHU"
+                },
+                {
+                    "country": "KOR",
+                    "name": "Jiwoo CHOI"
+                },
+                {
+                    "winner": "Jiwoo CHOI"
+                }
+            ],
+            [
+                {
+                    "country": "TPE",
+                    "name": "Yu Ching CHENG"
+                }
+            ],
+            [
+                {
+                    "country": "KOR",
+                    "name": "Jiwoo CHOI"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Yu Ching CHENG",
+            "Jiwoo CHOI"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "JPN",
+                    "name": "Yuka OSUMI"
+                },
+                {
+                    "country": "KOR",
+                    "name": "Jiwoo CHOI"
+                },
+                {
+                    "winner": "Yuka OSUMI"
+                }
+            ],
+            [
+                {
+                    "country": "KOR",
+                    "name": "Eunsol CHOI"
+                },
+                {
+                    "country": "KOR",
+                    "name": "Sohee LEE"
+                },
+                {
+                    "winner": "Eunsol CHOI"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "JPN",
+                    "name": "Yuka OSUMI"
+                },
+                {
+                    "country": "KOR",
+                    "name": "Eunsol CHOI"
+                }
+            ]
+        ],
+        "final_winner": "Eunsol CHOI"
+    }
+}

@@ -1,0 +1,186 @@
+{
+    "POOL A": {
+        "round 1-1": [
+            [
+                {
+                    "country": "CAN",
+                    "name": "John MESSE A BESSONG"
+                },
+                {
+                    "country": "CRO",
+                    "name": "Karlo SESTAK"
+                }
+            ],
+            [
+                {
+                    "country": "CAN",
+                    "name": "John MESSE A BESSONG"
+                }
+            ]
+        ]
+    },
+    "POOL B": {
+        "round 1-1": [
+            [
+                {
+                    "country": "EST",
+                    "name": "Kabriel KIRNA"
+                },
+                {
+                    "country": "MNE",
+                    "name": "Stefan KOVINIC"
+                }
+            ],
+            [
+                {
+                    "country": "EST",
+                    "name": "Kabriel KIRNA"
+                }
+            ]
+        ]
+    },
+    "POOL C": {
+        "round 1-1": [
+            [
+                {
+                    "country": "POL",
+                    "name": "Grzegorz TERESINSKI"
+                },
+                {
+                    "country": "NED",
+                    "name": "Bjorn VAN DER GEEST"
+                }
+            ],
+            [
+                {
+                    "country": "POL",
+                    "name": "Grzegorz TERESINSKI"
+                }
+            ]
+        ]
+    },
+    "POOL D": {
+        "round 1-1": [
+            [
+                {
+                    "country": "ROU",
+                    "name": "Darius DOBRE"
+                },
+                {
+                    "country": "BIH",
+                    "name": "Almin HALILAGIC"
+                }
+            ],
+            [
+                {
+                    "country": "ROU",
+                    "name": "Darius DOBRE"
+                }
+            ]
+        ]
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CRO",
+                    "name": "Karlo SESTAK"
+                },
+                {
+                    "country": "MNE",
+                    "name": "Stefan KOVINIC"
+                }
+            ],
+            [
+                {
+                    "country": "NED",
+                    "name": "Bjorn VAN DER GEEST"
+                },
+                {
+                    "country": "BIH",
+                    "name": "Almin HALILAGIC"
+                }
+            ],
+            [
+                {
+                    "country": "MNE",
+                    "name": "Stefan KOVINIC"
+                },
+                {
+                    "country": "ROU",
+                    "name": "Darius DOBRE"
+                }
+            ],
+            [
+                {
+                    "country": "NED",
+                    "name": "Bjorn VAN DER GEEST"
+                },
+                {
+                    "country": "CAN",
+                    "name": "John MESSE A BESSONG"
+                }
+            ],
+            [
+                {
+                    "country": "ROU",
+                    "name": "Darius DOBRE"
+                }
+            ],
+            [
+                {
+                    "country": "CAN",
+                    "name": "John MESSE A BESSONG"
+                }
+            ]
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CAN",
+                    "name": "John MESSE A BESSONG"
+                },
+                {
+                    "country": "EST",
+                    "name": "Kabriel KIRNA"
+                },
+                {
+                    "winner": "Kabriel KIRNA"
+                }
+            ],
+            [
+                {
+                    "country": "POL",
+                    "name": "Grzegorz TERESINSKI"
+                },
+                {
+                    "country": "ROU",
+                    "name": "Darius DOBRE"
+                },
+                {
+                    "winner": "Grzegorz TERESINSKI"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "EST",
+                    "name": "Kabriel KIRNA"
+                },
+                {
+                    "country": "POL",
+                    "name": "Grzegorz TERESINSKI"
+                }
+            ],
+            [
+                {
+                    "country": "POL",
+                    "name": "Grzegorz TERESINSKI"
+                }
+            ]
+        ]
+    }
+}

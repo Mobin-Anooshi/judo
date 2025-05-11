@@ -1,0 +1,68 @@
+{
+    "ROUND 1": {
+        "round 1-2": [
+            [
+                {
+                    "country": "TUN",
+                    "name": "Oumaima BEDIOUI"
+                },
+                {
+                    "country": "ALG",
+                    "name": "Rahma GHALIMA"
+                },
+                {
+                    "winner": "Oumaima BEDIOUI"
+                }
+            ],
+            [
+                {
+                    "country": "UKR",
+                    "name": "Anastasiia BALABAN"
+                },
+                {
+                    "country": "MAR",
+                    "name": "Ikram CHANET"
+                },
+                {
+                    "winner": "Anastasiia BALABAN"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Oumaima BEDIOUI",
+            "Anastasiia BALABAN"
+        ]
+    },
+    "REPECHAGE": {
+        "round 1-1": [
+            [
+                {
+                    "country": "ALG",
+                    "name": "Rahma GHALIMA"
+                },
+                {
+                    "country": "MAR",
+                    "name": "Ikram CHANET"
+                },
+                {
+                    "winner": "Ikram CHANET"
+                }
+            ],
+            [
+                {
+                    "country": "MAR",
+                    "name": "Ikram CHANET"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Ikram CHANET"
+        ]
+    },
+    "FINALS": {
+        "round 1-1": [],
+        "final_winners": [
+            "Anastasiia BALABAN"
+        ]
+    }
+}

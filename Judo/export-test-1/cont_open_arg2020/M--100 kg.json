@@ -1,0 +1,135 @@
+{
+    "POOL A": {
+        "round 1-1": [],
+        "final_winner": "Jose Luis ARROYO OSORIO"
+    },
+    "POOL B": {
+        "round 1-1": [
+            [
+                {
+                    "country": "ARG",
+                    "name": "Habib BADUY"
+                },
+                {
+                    "country": "ARG",
+                    "name": "Juan ignacio PANNICCIA"
+                }
+            ]
+        ],
+        "final_winner": "Habib BADUY"
+    },
+    "POOL C": {
+        "round 1-1": [],
+        "final_winner": "Lucas LIMA"
+    },
+    "POOL D": {
+        "round 1-1": [
+            [
+                {
+                    "country": "ECU",
+                    "name": "Junior ANGULO"
+                },
+                {
+                    "country": "ARG",
+                    "name": "Ivo DARGOLTZ"
+                }
+            ]
+        ],
+        "final_winner": "Junior ANGULO"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ARG",
+                    "name": "Juan ignacio PANNICCIA"
+                }
+            ],
+            [
+                {
+                    "country": "ARG",
+                    "name": "Ivo DARGOLTZ"
+                }
+            ],
+            [
+                {
+                    "country": "ARG",
+                    "name": "Juan ignacio PANNICCIA"
+                },
+                {
+                    "country": "ECU",
+                    "name": "Junior ANGULO"
+                },
+                {
+                    "winner": "Junior ANGULO"
+                }
+            ],
+            [
+                {
+                    "country": "ARG",
+                    "name": "Ivo DARGOLTZ"
+                },
+                {
+                    "country": "ARG",
+                    "name": "Habib BADUY"
+                },
+                {
+                    "winner": "Ivo DARGOLTZ"
+                }
+            ],
+            [
+                {
+                    "country": "ECU",
+                    "name": "Junior ANGULO"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Ivo DARGOLTZ",
+            "Junior ANGULO"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "PER",
+                    "name": "Jose Luis ARROYO OSORIO"
+                },
+                {
+                    "country": "ARG",
+                    "name": "Habib BADUY"
+                },
+                {
+                    "winner": "Jose Luis ARROYO OSORIO"
+                }
+            ],
+            [
+                {
+                    "country": "BRA",
+                    "name": "Lucas LIMA"
+                },
+                {
+                    "country": "ECU",
+                    "name": "Junior ANGULO"
+                },
+                {
+                    "winner": "Lucas LIMA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "PER",
+                    "name": "Jose Luis ARROYO OSORIO"
+                },
+                {
+                    "country": "BRA",
+                    "name": "Lucas LIMA"
+                }
+            ]
+        ],
+        "final_winner": "Lucas LIMA"
+    }
+}

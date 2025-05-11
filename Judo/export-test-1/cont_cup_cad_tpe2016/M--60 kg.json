@@ -1,0 +1,257 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "TPE",
+                    "name": "Fu an LIN"
+                },
+                {
+                    "winner": "Fu an LIN"
+                }
+            ],
+            [
+                {
+                    "country": "HKG",
+                    "name": "Ka Yau Leon Taylor CHOW"
+                },
+                {
+                    "winner": "Ka Yau Leon Taylor CHOW"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "TPE",
+                    "name": "Fu an LIN"
+                },
+                {
+                    "country": "HKG",
+                    "name": "Ka Yau Leon Taylor CHOW"
+                }
+            ]
+        ],
+        "final_winner": "Fu an LIN"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "HKG",
+                    "name": "Kwun Nin MAK"
+                },
+                {
+                    "winner": "Kwun Nin MAK"
+                }
+            ],
+            [
+                {
+                    "country": "MAC",
+                    "name": "Man kit CHONG"
+                },
+                {
+                    "winner": "Man kit CHONG"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "HKG",
+                    "name": "Kwun Nin MAK"
+                },
+                {
+                    "country": "MAC",
+                    "name": "Man kit CHONG"
+                }
+            ]
+        ],
+        "final_winner": "Kwun Nin MAK"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "MAC",
+                    "name": "Lei wai NG"
+                },
+                {
+                    "winner": "Lei wai NG"
+                }
+            ],
+            [
+                {
+                    "country": "HKG",
+                    "name": "Martin LAU"
+                },
+                {
+                    "winner": "Martin LAU"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "MAC",
+                    "name": "Lei wai NG"
+                },
+                {
+                    "country": "HKG",
+                    "name": "Martin LAU"
+                }
+            ]
+        ],
+        "final_winner": "Martin LAU"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "HKG",
+                    "name": "Yiu Long LAI"
+                },
+                {
+                    "winner": "Yiu Long LAI"
+                }
+            ],
+            [
+                {
+                    "country": "TPE",
+                    "name": "Te-yu CHEN"
+                },
+                {
+                    "winner": "Te-yu CHEN"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "HKG",
+                    "name": "Yiu Long LAI"
+                },
+                {
+                    "country": "TPE",
+                    "name": "Te-yu CHEN"
+                }
+            ]
+        ],
+        "final_winner": "Te-yu CHEN"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "HKG",
+                    "name": "Ka Yau Leon Taylor CHOW"
+                },
+                {
+                    "country": "MAC",
+                    "name": "Man kit CHONG"
+                },
+                {
+                    "winner": "Man kit CHONG"
+                }
+            ],
+            [
+                {
+                    "country": "MAC",
+                    "name": "Lei wai NG"
+                },
+                {
+                    "country": "HKG",
+                    "name": "Yiu Long LAI"
+                },
+                {
+                    "winner": "Lei wai NG"
+                }
+            ],
+            [
+                {
+                    "country": "MAC",
+                    "name": "Man kit CHONG"
+                },
+                {
+                    "country": "TPE",
+                    "name": "Te-yu CHEN"
+                },
+                {
+                    "winner": "Te-yu CHEN"
+                }
+            ],
+            [
+                {
+                    "country": "MAC",
+                    "name": "Lei wai NG"
+                },
+                {
+                    "country": "HKG",
+                    "name": "Kwun Nin MAK"
+                },
+                {
+                    "winner": "Kwun Nin MAK"
+                }
+            ],
+            [
+                {
+                    "country": "TPE",
+                    "name": "Te-yu CHEN"
+                }
+            ],
+            [
+                {
+                    "country": "HKG",
+                    "name": "Kwun Nin MAK"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Te-yu CHEN",
+            "Kwun Nin MAK"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "TPE",
+                    "name": "Fu an LIN"
+                },
+                {
+                    "country": "HKG",
+                    "name": "Kwun Nin MAK"
+                },
+                {
+                    "winner": "Fu an LIN"
+                }
+            ],
+            [
+                {
+                    "country": "HKG",
+                    "name": "Martin LAU"
+                },
+                {
+                    "country": "TPE",
+                    "name": "Te-yu CHEN"
+                },
+                {
+                    "winner": "Martin LAU"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "TPE",
+                    "name": "Fu an LIN"
+                },
+                {
+                    "country": "HKG",
+                    "name": "Martin LAU"
+                }
+            ]
+        ],
+        "final_winner": "Martin LAU"
+    }
+}

@@ -1,0 +1,270 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "UKR",
+                    "name": "Yelyzaveta KALANINA"
+                },
+                {
+                    "winner": "Yelyzaveta KALANINA"
+                }
+            ],
+            [
+                {
+                    "country": "RUS",
+                    "name": "Mariia SHEKEROVA"
+                },
+                {
+                    "winner": "Mariia SHEKEROVA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "UKR",
+                    "name": "Yelyzaveta KALANINA"
+                },
+                {
+                    "country": "RUS",
+                    "name": "Mariia SHEKEROVA"
+                }
+            ],
+            [
+                {
+                    "country": "UKR",
+                    "name": "Yelyzaveta KALANINA"
+                }
+            ]
+        ]
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CHN",
+                    "name": "Nan LI"
+                },
+                {
+                    "winner": "Nan LI"
+                }
+            ],
+            [
+                {
+                    "country": "JPN",
+                    "name": "Sara YAMAMOTO"
+                },
+                {
+                    "winner": "Sara YAMAMOTO"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "CHN",
+                    "name": "Nan LI"
+                },
+                {
+                    "country": "JPN",
+                    "name": "Sara YAMAMOTO"
+                }
+            ],
+            [
+                {
+                    "country": "JPN",
+                    "name": "Sara YAMAMOTO"
+                }
+            ]
+        ]
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CRO",
+                    "name": "Ivana SUTALO"
+                },
+                {
+                    "winner": "Ivana SUTALO"
+                }
+            ],
+            [
+                {
+                    "country": "KOR",
+                    "name": "Mijin HAN"
+                },
+                {
+                    "country": "CHN",
+                    "name": "Yang LI"
+                },
+                {
+                    "winner": "Mijin HAN"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "CRO",
+                    "name": "Ivana SUTALO"
+                },
+                {
+                    "country": "KOR",
+                    "name": "Mijin HAN"
+                }
+            ],
+            [
+                {
+                    "country": "KOR",
+                    "name": "Mijin HAN"
+                }
+            ]
+        ]
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "MGL",
+                    "name": "Munkhtuya BATTULGA"
+                },
+                {
+                    "winner": "Munkhtuya BATTULGA"
+                }
+            ],
+            [
+                {
+                    "country": "MGL",
+                    "name": "Gandiimaa ERDENEBILEG"
+                },
+                {
+                    "winner": "Gandiimaa ERDENEBILEG"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "MGL",
+                    "name": "Munkhtuya BATTULGA"
+                },
+                {
+                    "country": "MGL",
+                    "name": "Gandiimaa ERDENEBILEG"
+                }
+            ],
+            [
+                {
+                    "country": "MGL",
+                    "name": "Munkhtuya BATTULGA"
+                }
+            ]
+        ]
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "RUS",
+                    "name": "Mariia SHEKEROVA"
+                },
+                {
+                    "country": "CHN",
+                    "name": "Nan LI"
+                }
+            ],
+            [
+                {
+                    "country": "CRO",
+                    "name": "Ivana SUTALO"
+                },
+                {
+                    "country": "MGL",
+                    "name": "Gandiimaa ERDENEBILEG"
+                }
+            ],
+            [
+                {
+                    "country": "RUS",
+                    "name": "Mariia SHEKEROVA"
+                },
+                {
+                    "country": "MGL",
+                    "name": "Munkhtuya BATTULGA"
+                }
+            ],
+            [
+                {
+                    "country": "MGL",
+                    "name": "Gandiimaa ERDENEBILEG"
+                },
+                {
+                    "country": "JPN",
+                    "name": "Sara YAMAMOTO"
+                }
+            ],
+            [
+                {
+                    "country": "MGL",
+                    "name": "Munkhtuya BATTULGA"
+                }
+            ],
+            [
+                {
+                    "country": "JPN",
+                    "name": "Sara YAMAMOTO"
+                }
+            ]
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "UKR",
+                    "name": "Yelyzaveta KALANINA"
+                },
+                {
+                    "country": "JPN",
+                    "name": "Sara YAMAMOTO"
+                },
+                {
+                    "winner": "Yelyzaveta KALANINA"
+                }
+            ],
+            [
+                {
+                    "country": "KOR",
+                    "name": "Mijin HAN"
+                },
+                {
+                    "country": "MGL",
+                    "name": "Munkhtuya BATTULGA"
+                },
+                {
+                    "winner": "Mijin HAN"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "UKR",
+                    "name": "Yelyzaveta KALANINA"
+                },
+                {
+                    "country": "KOR",
+                    "name": "Mijin HAN"
+                }
+            ],
+            [
+                {
+                    "country": "KOR",
+                    "name": "Mijin HAN"
+                }
+            ]
+        ]
+    }
+}

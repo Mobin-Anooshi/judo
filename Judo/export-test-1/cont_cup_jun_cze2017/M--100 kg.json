@@ -1,0 +1,331 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "USA",
+                    "name": "John JAYNE"
+                },
+                {
+                    "winner": "John JAYNE"
+                }
+            ],
+            [
+                {
+                    "country": "ITA",
+                    "name": "Riccardo MONTANINI"
+                },
+                {
+                    "country": "ESP",
+                    "name": "Carlos REBOREDO DIEGO"
+                },
+                {
+                    "winner": "Riccardo MONTANINI"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "USA",
+                    "name": "John JAYNE"
+                },
+                {
+                    "country": "ITA",
+                    "name": "Riccardo MONTANINI"
+                }
+            ]
+        ],
+        "final_winner": "John JAYNE"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "AZE",
+                    "name": "Musa SHAKARALIYEV"
+                },
+                {
+                    "country": "SLO",
+                    "name": "Gasper TRUSNOVEC"
+                },
+                {
+                    "winner": "Musa SHAKARALIYEV"
+                }
+            ],
+            [
+                {
+                    "country": "HUN",
+                    "name": "Peter ARVAI"
+                },
+                {
+                    "country": "CZE",
+                    "name": "Radim DVORAK"
+                },
+                {
+                    "winner": "Peter ARVAI"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "AZE",
+                    "name": "Musa SHAKARALIYEV"
+                },
+                {
+                    "country": "HUN",
+                    "name": "Peter ARVAI"
+                }
+            ]
+        ],
+        "final_winner": "Musa SHAKARALIYEV"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "AUS",
+                    "name": "Samuel DOBB"
+                },
+                {
+                    "winner": "Samuel DOBB"
+                }
+            ],
+            [
+                {
+                    "country": "ITA",
+                    "name": "Luca VILLANOVA"
+                },
+                {
+                    "country": "POL",
+                    "name": "Pawel KEJZA"
+                },
+                {
+                    "winner": "Luca VILLANOVA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "AUS",
+                    "name": "Samuel DOBB"
+                },
+                {
+                    "country": "ITA",
+                    "name": "Luca VILLANOVA"
+                }
+            ]
+        ],
+        "final_winner": "Luca VILLANOVA"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "GER",
+                    "name": "Viktor DRILLER"
+                },
+                {
+                    "country": "AZE",
+                    "name": "Zelym KOTSOIEV"
+                },
+                {
+                    "winner": "Zelym KOTSOIEV"
+                }
+            ],
+            [
+                {
+                    "country": "POR",
+                    "name": "Diogo BRITES"
+                },
+                {
+                    "country": "CZE",
+                    "name": "Matyas REJCHRT"
+                },
+                {
+                    "winner": "Diogo BRITES"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "AZE",
+                    "name": "Zelym KOTSOIEV"
+                },
+                {
+                    "country": "POR",
+                    "name": "Diogo BRITES"
+                }
+            ]
+        ],
+        "final_winner": "Zelym KOTSOIEV"
+    },
+    "REPECHAGE": {
+        "round 1-4": [
+            [
+                {
+                    "country": "ITA",
+                    "name": "Riccardo MONTANINI"
+                },
+                {
+                    "winner": "Riccardo MONTANINI"
+                }
+            ],
+            [
+                {
+                    "country": "SLO",
+                    "name": "Gasper TRUSNOVEC"
+                },
+                {
+                    "country": "HUN",
+                    "name": "Peter ARVAI"
+                },
+                {
+                    "winner": "Peter ARVAI"
+                }
+            ],
+            [
+                {
+                    "country": "POL",
+                    "name": "Pawel KEJZA"
+                },
+                {
+                    "country": "AUS",
+                    "name": "Samuel DOBB"
+                },
+                {
+                    "winner": "Pawel KEJZA"
+                }
+            ],
+            [
+                {
+                    "country": "GER",
+                    "name": "Viktor DRILLER"
+                },
+                {
+                    "country": "POR",
+                    "name": "Diogo BRITES"
+                },
+                {
+                    "winner": "Viktor DRILLER"
+                }
+            ]
+        ],
+        "round 1-2": [
+            [
+                {
+                    "country": "ITA",
+                    "name": "Riccardo MONTANINI"
+                },
+                {
+                    "country": "HUN",
+                    "name": "Peter ARVAI"
+                },
+                {
+                    "winner": "Peter ARVAI"
+                }
+            ],
+            [
+                {
+                    "country": "POL",
+                    "name": "Pawel KEJZA"
+                },
+                {
+                    "country": "GER",
+                    "name": "Viktor DRILLER"
+                },
+                {
+                    "winner": "Viktor DRILLER"
+                }
+            ],
+            [
+                {
+                    "country": "HUN",
+                    "name": "Peter ARVAI"
+                },
+                {
+                    "country": "ITA",
+                    "name": "Luca VILLANOVA"
+                },
+                {
+                    "winner": "Peter ARVAI"
+                }
+            ],
+            [
+                {
+                    "country": "GER",
+                    "name": "Viktor DRILLER"
+                },
+                {
+                    "country": "USA",
+                    "name": "John JAYNE"
+                },
+                {
+                    "winner": "John JAYNE"
+                }
+            ],
+            [
+                {
+                    "country": "HUN",
+                    "name": "Peter ARVAI"
+                }
+            ],
+            [
+                {
+                    "country": "USA",
+                    "name": "John JAYNE"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Peter ARVAI",
+            "John JAYNE"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "USA",
+                    "name": "John JAYNE"
+                },
+                {
+                    "country": "AZE",
+                    "name": "Musa SHAKARALIYEV"
+                },
+                {
+                    "winner": "Musa SHAKARALIYEV"
+                }
+            ],
+            [
+                {
+                    "country": "ITA",
+                    "name": "Luca VILLANOVA"
+                },
+                {
+                    "country": "AZE",
+                    "name": "Zelym KOTSOIEV"
+                },
+                {
+                    "winner": "Zelym KOTSOIEV"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "AZE",
+                    "name": "Musa SHAKARALIYEV"
+                },
+                {
+                    "country": "AZE",
+                    "name": "Zelym KOTSOIEV"
+                }
+            ]
+        ],
+        "final_winner": "Zelym KOTSOIEV"
+    }
+}

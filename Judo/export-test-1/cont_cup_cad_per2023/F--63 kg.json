@@ -1,0 +1,177 @@
+{
+    "POOL A": {
+        "round 1-1": [
+            [
+                {
+                    "country": "CHI",
+                    "name": "Belen ZAPATA"
+                },
+                {
+                    "country": "PER",
+                    "name": "Arianna TURKOWSKY"
+                }
+            ]
+        ],
+        "final_winner": "Belen ZAPATA"
+    },
+    "POOL B": {
+        "round 1-1": [
+            [
+                {
+                    "country": "CHI",
+                    "name": "Antonia GONZALEZ"
+                },
+                {
+                    "country": "CRC",
+                    "name": "Noilyn AGUILAR BRAVO"
+                }
+            ]
+        ],
+        "final_winner": "Noilyn AGUILAR BRAVO"
+    },
+    "POOL C": {
+        "round 1-1": [
+            [
+                {
+                    "country": "USA",
+                    "name": "Mackenzee BUNTON"
+                },
+                {
+                    "country": "PER",
+                    "name": "Valeria REVILLA"
+                }
+            ]
+        ],
+        "final_winner": "Mackenzee BUNTON"
+    },
+    "POOL D": {
+        "round 1-1": [
+            [
+                {
+                    "country": "CHI",
+                    "name": "Alexandra DAVILA"
+                },
+                {
+                    "country": "PER",
+                    "name": "Nicole HERRERA"
+                }
+            ]
+        ],
+        "final_winner": "Alexandra DAVILA"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "PER",
+                    "name": "Arianna TURKOWSKY"
+                },
+                {
+                    "country": "CHI",
+                    "name": "Antonia GONZALEZ"
+                },
+                {
+                    "winner": "Arianna TURKOWSKY"
+                }
+            ],
+            [
+                {
+                    "country": "PER",
+                    "name": "Valeria REVILLA"
+                },
+                {
+                    "country": "PER",
+                    "name": "Nicole HERRERA"
+                },
+                {
+                    "winner": "Valeria REVILLA"
+                }
+            ],
+            [
+                {
+                    "country": "PER",
+                    "name": "Arianna TURKOWSKY"
+                },
+                {
+                    "country": "CHI",
+                    "name": "Alexandra DAVILA"
+                },
+                {
+                    "winner": "Alexandra DAVILA"
+                }
+            ],
+            [
+                {
+                    "country": "PER",
+                    "name": "Valeria REVILLA"
+                },
+                {
+                    "country": "CHI",
+                    "name": "Belen ZAPATA"
+                },
+                {
+                    "winner": "Valeria REVILLA"
+                }
+            ],
+            [
+                {
+                    "country": "CHI",
+                    "name": "Alexandra DAVILA"
+                }
+            ],
+            [
+                {
+                    "country": "PER",
+                    "name": "Valeria REVILLA"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Alexandra DAVILA",
+            "Valeria REVILLA"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CHI",
+                    "name": "Belen ZAPATA"
+                },
+                {
+                    "country": "CRC",
+                    "name": "Noilyn AGUILAR BRAVO"
+                },
+                {
+                    "winner": "Noilyn AGUILAR BRAVO"
+                }
+            ],
+            [
+                {
+                    "country": "USA",
+                    "name": "Mackenzee BUNTON"
+                },
+                {
+                    "country": "CHI",
+                    "name": "Alexandra DAVILA"
+                },
+                {
+                    "winner": "Mackenzee BUNTON"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "CRC",
+                    "name": "Noilyn AGUILAR BRAVO"
+                },
+                {
+                    "country": "USA",
+                    "name": "Mackenzee BUNTON"
+                }
+            ]
+        ],
+        "final_winner": "Noilyn AGUILAR BRAVO"
+    }
+}

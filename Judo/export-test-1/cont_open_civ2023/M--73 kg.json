@@ -1,0 +1,285 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "GAM",
+                    "name": "Faye NJIE"
+                },
+                {
+                    "winner": "Faye NJIE"
+                }
+            ],
+            [
+                {
+                    "country": "GHA",
+                    "name": "Eugene MENSAH"
+                },
+                {
+                    "country": "CIV",
+                    "name": "Yoro yannick ephrem ZOUZOUA"
+                },
+                {
+                    "winner": "Yoro yannick ephrem ZOUZOUA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "GAM",
+                    "name": "Faye NJIE"
+                },
+                {
+                    "country": "CIV",
+                    "name": "Yoro yannick ephrem ZOUZOUA"
+                }
+            ]
+        ],
+        "final_winner": "Faye NJIE"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "SEN",
+                    "name": "Serigne GAYE"
+                },
+                {
+                    "country": "CIV",
+                    "name": "Alexandre Hubert KOUASSI"
+                },
+                {
+                    "winner": "Serigne GAYE"
+                }
+            ],
+            [
+                {
+                    "country": "GUI",
+                    "name": "Mohamed Cheik CAMARA"
+                },
+                {
+                    "country": "CIV",
+                    "name": "Abdala SOROGO"
+                },
+                {
+                    "winner": "Mohamed Cheik CAMARA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "SEN",
+                    "name": "Serigne GAYE"
+                },
+                {
+                    "country": "GUI",
+                    "name": "Mohamed Cheik CAMARA"
+                }
+            ]
+        ],
+        "final_winner": "Serigne GAYE"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CIV",
+                    "name": "Guillaume DADIE"
+                },
+                {
+                    "country": "BUR",
+                    "name": "Zie Daouda COULIBALY"
+                },
+                {
+                    "winner": "Guillaume DADIE"
+                }
+            ],
+            [
+                {
+                    "country": "CIV",
+                    "name": "Ange Joel BENE"
+                },
+                {
+                    "country": "NIG",
+                    "name": "Moussa Nobila OUMAROU"
+                },
+                {
+                    "winner": "Moussa Nobila OUMAROU"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "CIV",
+                    "name": "Guillaume DADIE"
+                },
+                {
+                    "country": "NIG",
+                    "name": "Moussa Nobila OUMAROU"
+                }
+            ]
+        ],
+        "final_winner": "Guillaume DADIE"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "GBS",
+                    "name": "Diogo CESAR"
+                },
+                {
+                    "country": "GHA",
+                    "name": "Lambert FIAZUKU"
+                },
+                {
+                    "winner": "Diogo CESAR"
+                }
+            ],
+            [
+                {
+                    "country": "MTN",
+                    "name": "Chouaibou BA"
+                },
+                {
+                    "country": "CIV",
+                    "name": "Kouakou Christian AMANI"
+                },
+                {
+                    "winner": "Chouaibou BA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "GBS",
+                    "name": "Diogo CESAR"
+                },
+                {
+                    "country": "MTN",
+                    "name": "Chouaibou BA"
+                }
+            ]
+        ],
+        "final_winner": "Diogo CESAR"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CIV",
+                    "name": "Yoro yannick ephrem ZOUZOUA"
+                },
+                {
+                    "country": "GUI",
+                    "name": "Mohamed Cheik CAMARA"
+                },
+                {
+                    "winner": "Yoro yannick ephrem ZOUZOUA"
+                }
+            ],
+            [
+                {
+                    "country": "NIG",
+                    "name": "Moussa Nobila OUMAROU"
+                },
+                {
+                    "country": "MTN",
+                    "name": "Chouaibou BA"
+                },
+                {
+                    "winner": "Moussa Nobila OUMAROU"
+                }
+            ],
+            [
+                {
+                    "country": "CIV",
+                    "name": "Yoro yannick ephrem ZOUZOUA"
+                },
+                {
+                    "country": "CIV",
+                    "name": "Guillaume DADIE"
+                },
+                {
+                    "winner": "Guillaume DADIE"
+                }
+            ],
+            [
+                {
+                    "country": "NIG",
+                    "name": "Moussa Nobila OUMAROU"
+                },
+                {
+                    "country": "SEN",
+                    "name": "Serigne GAYE"
+                },
+                {
+                    "winner": "Serigne GAYE"
+                }
+            ],
+            [
+                {
+                    "country": "CIV",
+                    "name": "Guillaume DADIE"
+                }
+            ],
+            [
+                {
+                    "country": "SEN",
+                    "name": "Serigne GAYE"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Guillaume DADIE",
+            "Serigne GAYE"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "GAM",
+                    "name": "Faye NJIE"
+                },
+                {
+                    "country": "SEN",
+                    "name": "Serigne GAYE"
+                },
+                {
+                    "winner": "Faye NJIE"
+                }
+            ],
+            [
+                {
+                    "country": "CIV",
+                    "name": "Guillaume DADIE"
+                },
+                {
+                    "country": "GBS",
+                    "name": "Diogo CESAR"
+                },
+                {
+                    "winner": "Diogo CESAR"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "GAM",
+                    "name": "Faye NJIE"
+                },
+                {
+                    "country": "GBS",
+                    "name": "Diogo CESAR"
+                }
+            ]
+        ],
+        "final_winner": "Faye NJIE"
+    }
+}

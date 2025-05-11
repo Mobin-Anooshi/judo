@@ -1,0 +1,274 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "FRA",
+                    "name": "David LAROSE"
+                },
+                {
+                    "winner": "David LAROSE"
+                }
+            ],
+            [
+                {
+                    "country": "MEX",
+                    "name": "Nabor CASTILLO"
+                },
+                {
+                    "winner": "Nabor CASTILLO"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "FRA",
+                    "name": "David LAROSE"
+                },
+                {
+                    "country": "MEX",
+                    "name": "Nabor CASTILLO"
+                }
+            ],
+            [
+                {
+                    "country": "FRA",
+                    "name": "David LAROSE"
+                }
+            ]
+        ]
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CHI",
+                    "name": "Juan pablo SAN MARTIN"
+                },
+                {
+                    "winner": "Juan pablo SAN MARTIN"
+                }
+            ],
+            [
+                {
+                    "country": "CHI",
+                    "name": "Sebastian PEREZ"
+                },
+                {
+                    "winner": "Sebastian PEREZ"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "CHI",
+                    "name": "Juan pablo SAN MARTIN"
+                },
+                {
+                    "country": "CHI",
+                    "name": "Sebastian PEREZ"
+                }
+            ],
+            [
+                {
+                    "country": "CHI",
+                    "name": "Sebastian PEREZ"
+                }
+            ]
+        ]
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "POR",
+                    "name": "Andre SOARES"
+                },
+                {
+                    "winner": "Andre SOARES"
+                }
+            ],
+            [
+                {
+                    "country": "BEL",
+                    "name": "Thomas LISSENS"
+                },
+                {
+                    "country": "CHI",
+                    "name": "Gerald FARFAN"
+                },
+                {
+                    "winner": "Thomas LISSENS"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "POR",
+                    "name": "Andre SOARES"
+                },
+                {
+                    "country": "BEL",
+                    "name": "Thomas LISSENS"
+                }
+            ],
+            [
+                {
+                    "country": "BEL",
+                    "name": "Thomas LISSENS"
+                }
+            ]
+        ]
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ESP",
+                    "name": "Javier DELGADO"
+                },
+                {
+                    "winner": "Javier DELGADO"
+                }
+            ],
+            [
+                {
+                    "country": "ARG",
+                    "name": "Cesar raul TORNELLO NASISI"
+                },
+                {
+                    "country": "CHI",
+                    "name": "Javier VARGAS"
+                },
+                {
+                    "winner": "Javier VARGAS"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "ESP",
+                    "name": "Javier DELGADO"
+                },
+                {
+                    "country": "CHI",
+                    "name": "Javier VARGAS"
+                }
+            ],
+            [
+                {
+                    "country": "ESP",
+                    "name": "Javier DELGADO"
+                }
+            ]
+        ]
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "MEX",
+                    "name": "Nabor CASTILLO"
+                },
+                {
+                    "country": "CHI",
+                    "name": "Juan pablo SAN MARTIN"
+                }
+            ],
+            [
+                {
+                    "country": "POR",
+                    "name": "Andre SOARES"
+                },
+                {
+                    "country": "CHI",
+                    "name": "Javier VARGAS"
+                }
+            ],
+            [
+                {
+                    "country": "MEX",
+                    "name": "Nabor CASTILLO"
+                },
+                {
+                    "country": "BEL",
+                    "name": "Thomas LISSENS"
+                }
+            ],
+            [
+                {
+                    "country": "POR",
+                    "name": "Andre SOARES"
+                },
+                {
+                    "country": "CHI",
+                    "name": "Sebastian PEREZ"
+                }
+            ],
+            [
+                {
+                    "country": "BEL",
+                    "name": "Thomas LISSENS"
+                }
+            ],
+            [
+                {
+                    "country": "CHI",
+                    "name": "Sebastian PEREZ"
+                }
+            ]
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "FRA",
+                    "name": "David LAROSE"
+                },
+                {
+                    "country": "CHI",
+                    "name": "Sebastian PEREZ"
+                },
+                {
+                    "winner": "David LAROSE"
+                }
+            ],
+            [
+                {
+                    "country": "BEL",
+                    "name": "Thomas LISSENS"
+                },
+                {
+                    "country": "ESP",
+                    "name": "Javier DELGADO"
+                },
+                {
+                    "winner": "Javier DELGADO"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "FRA",
+                    "name": "David LAROSE"
+                },
+                {
+                    "country": "ESP",
+                    "name": "Javier DELGADO"
+                }
+            ],
+            [
+                {
+                    "country": "FRA",
+                    "name": "David LAROSE"
+                }
+            ]
+        ]
+    }
+}

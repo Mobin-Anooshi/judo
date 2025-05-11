@@ -1,0 +1,177 @@
+{
+    "POOL A": {
+        "round 1-1": [
+            [
+                {
+                    "country": "PHI",
+                    "name": "Shugen NAKANO"
+                },
+                {
+                    "country": "PER",
+                    "name": "Mateo CONDOR"
+                }
+            ]
+        ],
+        "final_winner": "Mateo CONDOR"
+    },
+    "POOL B": {
+        "round 1-1": [
+            [
+                {
+                    "country": "PER",
+                    "name": "Franco BALTAZAR"
+                },
+                {
+                    "country": "CAN",
+                    "name": "Adrian SHIMABUKURO"
+                }
+            ]
+        ],
+        "final_winner": "Franco BALTAZAR"
+    },
+    "POOL C": {
+        "round 1-1": [
+            [
+                {
+                    "country": "ESA",
+                    "name": "Diego CALIX"
+                },
+                {
+                    "country": "CRC",
+                    "name": "David DOMINGUEZ"
+                }
+            ]
+        ],
+        "final_winner": "Diego CALIX"
+    },
+    "POOL D": {
+        "round 1-1": [
+            [
+                {
+                    "country": "CHI",
+                    "name": "Reinaldo CACERES"
+                },
+                {
+                    "country": "CRC",
+                    "name": "Josue TELLEZ"
+                }
+            ]
+        ],
+        "final_winner": "Josue TELLEZ"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "PHI",
+                    "name": "Shugen NAKANO"
+                },
+                {
+                    "country": "CAN",
+                    "name": "Adrian SHIMABUKURO"
+                },
+                {
+                    "winner": "Adrian SHIMABUKURO"
+                }
+            ],
+            [
+                {
+                    "country": "CRC",
+                    "name": "David DOMINGUEZ"
+                },
+                {
+                    "country": "CHI",
+                    "name": "Reinaldo CACERES"
+                },
+                {
+                    "winner": "David DOMINGUEZ"
+                }
+            ],
+            [
+                {
+                    "country": "CAN",
+                    "name": "Adrian SHIMABUKURO"
+                },
+                {
+                    "country": "CRC",
+                    "name": "Josue TELLEZ"
+                },
+                {
+                    "winner": "Adrian SHIMABUKURO"
+                }
+            ],
+            [
+                {
+                    "country": "CRC",
+                    "name": "David DOMINGUEZ"
+                },
+                {
+                    "country": "PER",
+                    "name": "Mateo CONDOR"
+                },
+                {
+                    "winner": "David DOMINGUEZ"
+                }
+            ],
+            [
+                {
+                    "country": "CAN",
+                    "name": "Adrian SHIMABUKURO"
+                }
+            ],
+            [
+                {
+                    "country": "CRC",
+                    "name": "David DOMINGUEZ"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Adrian SHIMABUKURO",
+            "David DOMINGUEZ"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "PER",
+                    "name": "Mateo CONDOR"
+                },
+                {
+                    "country": "PER",
+                    "name": "Franco BALTAZAR"
+                },
+                {
+                    "winner": "Franco BALTAZAR"
+                }
+            ],
+            [
+                {
+                    "country": "ESA",
+                    "name": "Diego CALIX"
+                },
+                {
+                    "country": "CRC",
+                    "name": "Josue TELLEZ"
+                },
+                {
+                    "winner": "Diego CALIX"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "PER",
+                    "name": "Franco BALTAZAR"
+                },
+                {
+                    "country": "ESA",
+                    "name": "Diego CALIX"
+                }
+            ]
+        ],
+        "final_winner": "Diego CALIX"
+    }
+}

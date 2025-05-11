@@ -1,0 +1,68 @@
+{
+    "ROUND 1": {
+        "round 1-2": [
+            [
+                {
+                    "country": "NIG",
+                    "name": "Djibo ABDOUL AZIZ"
+                },
+                {
+                    "country": "SEN",
+                    "name": "Mamadou Yero BA"
+                },
+                {
+                    "winner": "Mamadou Yero BA"
+                }
+            ],
+            [
+                {
+                    "country": "CMR",
+                    "name": "Hinmara MOHAMAN SANI"
+                },
+                {
+                    "country": "SEN",
+                    "name": "Souleymane NIANG"
+                },
+                {
+                    "winner": "Souleymane NIANG"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Mamadou Yero BA",
+            "Souleymane NIANG"
+        ]
+    },
+    "REPECHAGE": {
+        "round 1-1": [
+            [
+                {
+                    "country": "NIG",
+                    "name": "Djibo ABDOUL AZIZ"
+                },
+                {
+                    "country": "CMR",
+                    "name": "Hinmara MOHAMAN SANI"
+                },
+                {
+                    "winner": "Djibo ABDOUL AZIZ"
+                }
+            ],
+            [
+                {
+                    "country": "NIG",
+                    "name": "Djibo ABDOUL AZIZ"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Djibo ABDOUL AZIZ"
+        ]
+    },
+    "FINALS": {
+        "round 1-1": [],
+        "final_winners": [
+            "Mamadou Yero BA"
+        ]
+    }
+}

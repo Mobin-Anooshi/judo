@@ -1,0 +1,135 @@
+{
+    "POOL A": {
+        "round 1-1": [],
+        "final_winner": "Ilan CLOETE"
+    },
+    "POOL B": {
+        "round 1-1": [
+            [
+                {
+                    "country": "AUS",
+                    "name": "Giuseppe SFREGOLA"
+                },
+                {
+                    "country": "AUS",
+                    "name": "Carstens BEYERS"
+                }
+            ]
+        ],
+        "final_winner": "Carstens BEYERS"
+    },
+    "POOL C": {
+        "round 1-1": [],
+        "final_winner": "Robert GIRDWOOD"
+    },
+    "POOL D": {
+        "round 1-1": [
+            [
+                {
+                    "country": "NCL",
+                    "name": "Maasi FALEVALU"
+                },
+                {
+                    "country": "AUS",
+                    "name": "Benjamin WARD"
+                }
+            ]
+        ],
+        "final_winner": "Maasi FALEVALU"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "AUS",
+                    "name": "Giuseppe SFREGOLA"
+                }
+            ],
+            [
+                {
+                    "country": "AUS",
+                    "name": "Benjamin WARD"
+                }
+            ],
+            [
+                {
+                    "country": "AUS",
+                    "name": "Giuseppe SFREGOLA"
+                },
+                {
+                    "country": "AUS",
+                    "name": "Robert GIRDWOOD"
+                },
+                {
+                    "winner": "Giuseppe SFREGOLA"
+                }
+            ],
+            [
+                {
+                    "country": "AUS",
+                    "name": "Benjamin WARD"
+                },
+                {
+                    "country": "AUS",
+                    "name": "Ilan CLOETE"
+                },
+                {
+                    "winner": "Ilan CLOETE"
+                }
+            ],
+            [
+                {
+                    "country": "AUS",
+                    "name": "Ilan CLOETE"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Benjamin WARD",
+            "Giuseppe SFREGOLA"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "AUS",
+                    "name": "Ilan CLOETE"
+                },
+                {
+                    "country": "AUS",
+                    "name": "Carstens BEYERS"
+                },
+                {
+                    "winner": "Carstens BEYERS"
+                }
+            ],
+            [
+                {
+                    "country": "AUS",
+                    "name": "Robert GIRDWOOD"
+                },
+                {
+                    "country": "NCL",
+                    "name": "Maasi FALEVALU"
+                },
+                {
+                    "winner": "Maasi FALEVALU"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "AUS",
+                    "name": "Carstens BEYERS"
+                },
+                {
+                    "country": "NCL",
+                    "name": "Maasi FALEVALU"
+                }
+            ]
+        ],
+        "final_winner": "Maasi FALEVALU"
+    }
+}

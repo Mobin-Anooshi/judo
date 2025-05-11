@@ -1,0 +1,141 @@
+{
+    "POOL A": {
+        "round 1-1": [],
+        "final_winner": "Emese KARPATI"
+    },
+    "POOL B": {
+        "round 1-1": [
+            [
+                {
+                    "country": "ESP",
+                    "name": "Patricia FERRER BARTULOS"
+                },
+                {
+                    "country": "GBR",
+                    "name": "Emily RITCHIE"
+                }
+            ]
+        ],
+        "final_winner": "Emily RITCHIE"
+    },
+    "POOL C": {
+        "round 1-1": [],
+        "final_winner": "Sara ALVAREZ"
+    },
+    "POOL D": {
+        "round 1-1": [
+            [
+                {
+                    "country": "GBR",
+                    "name": "Sarah BARRITT"
+                },
+                {
+                    "country": "FRA",
+                    "name": "Rauhiti VERNAUDON"
+                }
+            ]
+        ],
+        "final_winner": "Rauhiti VERNAUDON"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ESP",
+                    "name": "Patricia FERRER BARTULOS"
+                }
+            ],
+            [
+                {
+                    "country": "GBR",
+                    "name": "Sarah BARRITT"
+                }
+            ],
+            [
+                {
+                    "country": "ESP",
+                    "name": "Patricia FERRER BARTULOS"
+                },
+                {
+                    "country": "ESP",
+                    "name": "Sara ALVAREZ"
+                },
+                {
+                    "winner": "Sara ALVAREZ"
+                }
+            ],
+            [
+                {
+                    "country": "GBR",
+                    "name": "Sarah BARRITT"
+                },
+                {
+                    "country": "GBR",
+                    "name": "Emily RITCHIE"
+                },
+                {
+                    "winner": "Emily RITCHIE"
+                }
+            ],
+            [
+                {
+                    "country": "ESP",
+                    "name": "Sara ALVAREZ"
+                }
+            ],
+            [
+                {
+                    "country": "GBR",
+                    "name": "Emily RITCHIE"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Sara ALVAREZ",
+            "Emily RITCHIE"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "HUN",
+                    "name": "Emese KARPATI"
+                },
+                {
+                    "country": "GBR",
+                    "name": "Emily RITCHIE"
+                },
+                {
+                    "winner": "Emese KARPATI"
+                }
+            ],
+            [
+                {
+                    "country": "ESP",
+                    "name": "Sara ALVAREZ"
+                },
+                {
+                    "country": "FRA",
+                    "name": "Rauhiti VERNAUDON"
+                },
+                {
+                    "winner": "Rauhiti VERNAUDON"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "HUN",
+                    "name": "Emese KARPATI"
+                },
+                {
+                    "country": "FRA",
+                    "name": "Rauhiti VERNAUDON"
+                }
+            ]
+        ],
+        "final_winner": "Rauhiti VERNAUDON"
+    }
+}

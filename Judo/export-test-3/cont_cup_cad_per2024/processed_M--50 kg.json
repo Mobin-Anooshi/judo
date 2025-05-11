@@ -1,0 +1,68 @@
+{
+    "ROUND 1": {
+        "round 1-2": [
+            [
+                {
+                    "country": "PER",
+                    "name": "Piero HERRERA"
+                },
+                {
+                    "country": "PER",
+                    "name": "Daniel CASTILLO"
+                },
+                {
+                    "winner": "Daniel CASTILLO"
+                }
+            ],
+            [
+                {
+                    "country": "CHI",
+                    "name": "Luis VIZA"
+                },
+                {
+                    "country": "PER",
+                    "name": "Santiago LEON"
+                },
+                {
+                    "winner": "Santiago LEON"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Daniel CASTILLO",
+            "Santiago LEON"
+        ]
+    },
+    "REPECHAGE": {
+        "round 1-1": [
+            [
+                {
+                    "country": "PER",
+                    "name": "Piero HERRERA"
+                },
+                {
+                    "country": "CHI",
+                    "name": "Luis VIZA"
+                },
+                {
+                    "winner": "Luis VIZA"
+                }
+            ],
+            [
+                {
+                    "country": "CHI",
+                    "name": "Luis VIZA"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Luis VIZA"
+        ]
+    },
+    "FINALS": {
+        "round 1-1": [],
+        "final_winners": [
+            "Santiago LEON"
+        ]
+    }
+}

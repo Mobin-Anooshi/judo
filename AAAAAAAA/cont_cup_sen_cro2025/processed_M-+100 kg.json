@@ -1,0 +1,323 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "GER",
+                    "name": "Erik ABRAMOV"
+                },
+                {
+                    "winner": "Erik ABRAMOV"
+                }
+            ],
+            [
+                {
+                    "country": "HUN",
+                    "name": "Mihaly CSERKASZOV"
+                },
+                {
+                    "country": "MON",
+                    "name": "Marvin GADEAU"
+                },
+                {
+                    "winner": "Marvin GADEAU"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "GER",
+                    "name": "Erik ABRAMOV"
+                },
+                {
+                    "country": "MON",
+                    "name": "Marvin GADEAU"
+                }
+            ]
+        ],
+        "final_winner": "Erik ABRAMOV"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "MNE",
+                    "name": "Slobodan VUKIC"
+                },
+                {
+                    "country": "CRO",
+                    "name": "Luka IVANKOVIC"
+                },
+                {
+                    "winner": "Slobodan VUKIC"
+                }
+            ],
+            [
+                {
+                    "country": "IRL",
+                    "name": "Kevinas RAMOSKA"
+                },
+                {
+                    "country": "SWE",
+                    "name": "Nils MATTSSON"
+                },
+                {
+                    "winner": "Kevinas RAMOSKA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "MNE",
+                    "name": "Slobodan VUKIC"
+                },
+                {
+                    "country": "IRL",
+                    "name": "Kevinas RAMOSKA"
+                }
+            ]
+        ],
+        "final_winner": "Slobodan VUKIC"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "NED",
+                    "name": "Stef VAN KAMPEN"
+                },
+                {
+                    "winner": "Stef VAN KAMPEN"
+                }
+            ],
+            [
+                {
+                    "country": "FRA",
+                    "name": "Yann RIGAUD"
+                },
+                {
+                    "country": "CRO",
+                    "name": "Mikita SVIRYD"
+                },
+                {
+                    "winner": "Yann RIGAUD"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "NED",
+                    "name": "Stef VAN KAMPEN"
+                },
+                {
+                    "country": "FRA",
+                    "name": "Yann RIGAUD"
+                }
+            ]
+        ],
+        "final_winner": "Yann RIGAUD"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "GBR",
+                    "name": "Wesley GREENIDGE"
+                },
+                {
+                    "winner": "Wesley GREENIDGE"
+                }
+            ],
+            [
+                {
+                    "country": "HUN",
+                    "name": "Janos BALOGH"
+                },
+                {
+                    "country": "CZE",
+                    "name": "Vaclav JASEK"
+                },
+                {
+                    "winner": "Vaclav JASEK"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "GBR",
+                    "name": "Wesley GREENIDGE"
+                },
+                {
+                    "country": "CZE",
+                    "name": "Vaclav JASEK"
+                }
+            ]
+        ],
+        "final_winner": "Wesley GREENIDGE"
+    },
+    "REPECHAGE": {
+        "round 1-4": [
+            [
+                {
+                    "country": "MON",
+                    "name": "Marvin GADEAU"
+                },
+                {
+                    "winner": "Marvin GADEAU"
+                }
+            ],
+            [
+                {
+                    "country": "CRO",
+                    "name": "Luka IVANKOVIC"
+                },
+                {
+                    "country": "IRL",
+                    "name": "Kevinas RAMOSKA"
+                },
+                {
+                    "winner": "Luka IVANKOVIC"
+                }
+            ],
+            [
+                {
+                    "country": "CRO",
+                    "name": "Mikita SVIRYD"
+                },
+                {
+                    "country": "NED",
+                    "name": "Stef VAN KAMPEN"
+                },
+                {
+                    "winner": "Mikita SVIRYD"
+                }
+            ],
+            [
+                {
+                    "country": "CZE",
+                    "name": "Vaclav JASEK"
+                },
+                {
+                    "winner": "Vaclav JASEK"
+                }
+            ]
+        ],
+        "round 1-2": [
+            [
+                {
+                    "country": "MON",
+                    "name": "Marvin GADEAU"
+                },
+                {
+                    "country": "CRO",
+                    "name": "Luka IVANKOVIC"
+                },
+                {
+                    "winner": "Marvin GADEAU"
+                }
+            ],
+            [
+                {
+                    "country": "CRO",
+                    "name": "Mikita SVIRYD"
+                },
+                {
+                    "country": "CZE",
+                    "name": "Vaclav JASEK"
+                },
+                {
+                    "winner": "Mikita SVIRYD"
+                }
+            ],
+            [
+                {
+                    "country": "MON",
+                    "name": "Marvin GADEAU"
+                },
+                {
+                    "country": "GBR",
+                    "name": "Wesley GREENIDGE"
+                },
+                {
+                    "winner": "Wesley GREENIDGE"
+                }
+            ],
+            [
+                {
+                    "country": "CRO",
+                    "name": "Mikita SVIRYD"
+                },
+                {
+                    "country": "MNE",
+                    "name": "Slobodan VUKIC"
+                },
+                {
+                    "winner": "Mikita SVIRYD"
+                }
+            ],
+            [
+                {
+                    "country": "GBR",
+                    "name": "Wesley GREENIDGE"
+                }
+            ],
+            [
+                {
+                    "country": "CRO",
+                    "name": "Mikita SVIRYD"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Wesley GREENIDGE",
+            "Mikita SVIRYD"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "GER",
+                    "name": "Erik ABRAMOV"
+                },
+                {
+                    "country": "MNE",
+                    "name": "Slobodan VUKIC"
+                },
+                {
+                    "winner": "Erik ABRAMOV"
+                }
+            ],
+            [
+                {
+                    "country": "FRA",
+                    "name": "Yann RIGAUD"
+                },
+                {
+                    "country": "GBR",
+                    "name": "Wesley GREENIDGE"
+                },
+                {
+                    "winner": "Yann RIGAUD"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "GER",
+                    "name": "Erik ABRAMOV"
+                },
+                {
+                    "country": "FRA",
+                    "name": "Yann RIGAUD"
+                }
+            ]
+        ],
+        "final_winner": "Erik ABRAMOV"
+    }
+}

@@ -1,0 +1,135 @@
+{
+    "POOL A": {
+        "round 1-1": [
+            [
+                {
+                    "country": "ALG",
+                    "name": "Marissa MELABA"
+                },
+                {
+                    "country": "TUN",
+                    "name": "Islem AMMAR"
+                }
+            ]
+        ],
+        "final_winner": "Islem AMMAR"
+    },
+    "POOL B": {
+        "round 1-1": [],
+        "final_winner": "Amani MSALLMI"
+    },
+    "POOL C": {
+        "round 1-1": [
+            [
+                {
+                    "country": "TUN",
+                    "name": "Chihi AZZA"
+                },
+                {
+                    "country": "LTU",
+                    "name": "Migle BUSAUSKAITE"
+                }
+            ]
+        ],
+        "final_winner": "Migle BUSAUSKAITE"
+    },
+    "POOL D": {
+        "round 1-1": [],
+        "final_winner": "Emna KHALFAOUI"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ALG",
+                    "name": "Marissa MELABA"
+                }
+            ],
+            [
+                {
+                    "country": "TUN",
+                    "name": "Chihi AZZA"
+                }
+            ],
+            [
+                {
+                    "country": "ALG",
+                    "name": "Marissa MELABA"
+                },
+                {
+                    "country": "LTU",
+                    "name": "Migle BUSAUSKAITE"
+                },
+                {
+                    "winner": "Migle BUSAUSKAITE"
+                }
+            ],
+            [
+                {
+                    "country": "TUN",
+                    "name": "Chihi AZZA"
+                },
+                {
+                    "country": "TUN",
+                    "name": "Amani MSALLMI"
+                },
+                {
+                    "winner": "Chihi AZZA"
+                }
+            ],
+            [
+                {
+                    "country": "LTU",
+                    "name": "Migle BUSAUSKAITE"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Chihi AZZA",
+            "Migle BUSAUSKAITE"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "TUN",
+                    "name": "Islem AMMAR"
+                },
+                {
+                    "country": "TUN",
+                    "name": "Amani MSALLMI"
+                },
+                {
+                    "winner": "Islem AMMAR"
+                }
+            ],
+            [
+                {
+                    "country": "LTU",
+                    "name": "Migle BUSAUSKAITE"
+                },
+                {
+                    "country": "TUN",
+                    "name": "Emna KHALFAOUI"
+                },
+                {
+                    "winner": "Emna KHALFAOUI"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "TUN",
+                    "name": "Islem AMMAR"
+                },
+                {
+                    "country": "TUN",
+                    "name": "Emna KHALFAOUI"
+                }
+            ]
+        ],
+        "final_winner": "Islem AMMAR"
+    }
+}

@@ -1,0 +1,285 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CIV",
+                    "name": "Koffi Kreme KOBENA"
+                },
+                {
+                    "winner": "Koffi Kreme KOBENA"
+                }
+            ],
+            [
+                {
+                    "country": "TUN",
+                    "name": "Khalil HADDAD"
+                },
+                {
+                    "country": "ALG",
+                    "name": "Toufik ABDOU"
+                },
+                {
+                    "winner": "Toufik ABDOU"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "CIV",
+                    "name": "Koffi Kreme KOBENA"
+                },
+                {
+                    "country": "ALG",
+                    "name": "Toufik ABDOU"
+                }
+            ]
+        ],
+        "final_winner": "Koffi Kreme KOBENA"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ALG",
+                    "name": "Redha LAMRI"
+                },
+                {
+                    "country": "LTU",
+                    "name": "Denis MAKSIMOV"
+                },
+                {
+                    "winner": "Redha LAMRI"
+                }
+            ],
+            [
+                {
+                    "country": "ALG",
+                    "name": "Islame BOUYEMOUT"
+                },
+                {
+                    "country": "KAZ",
+                    "name": "Arystan ULSAITOV"
+                },
+                {
+                    "winner": "Islame BOUYEMOUT"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "ALG",
+                    "name": "Redha LAMRI"
+                },
+                {
+                    "country": "ALG",
+                    "name": "Islame BOUYEMOUT"
+                }
+            ]
+        ],
+        "final_winner": "Redha LAMRI"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "TUN",
+                    "name": "Koussay BEN GHARES"
+                },
+                {
+                    "country": "MAR",
+                    "name": "Walid BOUKHRISS"
+                },
+                {
+                    "winner": "Walid BOUKHRISS"
+                }
+            ],
+            [
+                {
+                    "country": "ALG",
+                    "name": "Sid Ali MECHEMACHE"
+                },
+                {
+                    "country": "FRA",
+                    "name": "Florent GAUDY"
+                },
+                {
+                    "winner": "Florent GAUDY"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "MAR",
+                    "name": "Walid BOUKHRISS"
+                },
+                {
+                    "country": "FRA",
+                    "name": "Florent GAUDY"
+                }
+            ]
+        ],
+        "final_winner": "Florent GAUDY"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "MLT",
+                    "name": "Isaac BEZZINA"
+                },
+                {
+                    "country": "ALG",
+                    "name": "Mohamed Hamza KHETTOU"
+                },
+                {
+                    "winner": "Isaac BEZZINA"
+                }
+            ],
+            [
+                {
+                    "country": "BEN",
+                    "name": "Celtus DOSSOU YOVO"
+                },
+                {
+                    "country": "TUN",
+                    "name": "Amine LAHMADI"
+                },
+                {
+                    "winner": "Amine LAHMADI"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "MLT",
+                    "name": "Isaac BEZZINA"
+                },
+                {
+                    "country": "TUN",
+                    "name": "Amine LAHMADI"
+                }
+            ]
+        ],
+        "final_winner": "Amine LAHMADI"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ALG",
+                    "name": "Toufik ABDOU"
+                },
+                {
+                    "country": "ALG",
+                    "name": "Islame BOUYEMOUT"
+                },
+                {
+                    "winner": "Islame BOUYEMOUT"
+                }
+            ],
+            [
+                {
+                    "country": "MAR",
+                    "name": "Walid BOUKHRISS"
+                },
+                {
+                    "country": "MLT",
+                    "name": "Isaac BEZZINA"
+                },
+                {
+                    "winner": "Isaac BEZZINA"
+                }
+            ],
+            [
+                {
+                    "country": "ALG",
+                    "name": "Islame BOUYEMOUT"
+                },
+                {
+                    "country": "TUN",
+                    "name": "Amine LAHMADI"
+                },
+                {
+                    "winner": "Islame BOUYEMOUT"
+                }
+            ],
+            [
+                {
+                    "country": "MLT",
+                    "name": "Isaac BEZZINA"
+                },
+                {
+                    "country": "CIV",
+                    "name": "Koffi Kreme KOBENA"
+                },
+                {
+                    "winner": "Koffi Kreme KOBENA"
+                }
+            ],
+            [
+                {
+                    "country": "ALG",
+                    "name": "Islame BOUYEMOUT"
+                }
+            ],
+            [
+                {
+                    "country": "CIV",
+                    "name": "Koffi Kreme KOBENA"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Islame BOUYEMOUT",
+            "Koffi Kreme KOBENA"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CIV",
+                    "name": "Koffi Kreme KOBENA"
+                },
+                {
+                    "country": "ALG",
+                    "name": "Redha LAMRI"
+                },
+                {
+                    "winner": "Redha LAMRI"
+                }
+            ],
+            [
+                {
+                    "country": "FRA",
+                    "name": "Florent GAUDY"
+                },
+                {
+                    "country": "TUN",
+                    "name": "Amine LAHMADI"
+                },
+                {
+                    "winner": "Florent GAUDY"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "ALG",
+                    "name": "Redha LAMRI"
+                },
+                {
+                    "country": "FRA",
+                    "name": "Florent GAUDY"
+                }
+            ]
+        ],
+        "final_winner": "Redha LAMRI"
+    }
+}

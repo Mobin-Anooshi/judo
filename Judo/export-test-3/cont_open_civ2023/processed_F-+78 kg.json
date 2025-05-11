@@ -1,0 +1,87 @@
+{
+    "POOL A": {
+        "round 1-3": [
+            [
+                {
+                    "country": "SEN",
+                    "name": "Georgette SAGNA"
+                },
+                {
+                    "country": "KEN",
+                    "name": "Joyce BICHBICH"
+                },
+                {
+                    "winner": "Georgette SAGNA"
+                }
+            ],
+            [
+                {
+                    "country": "SEN",
+                    "name": "Georgette SAGNA"
+                },
+                {
+                    "country": "CIV",
+                    "name": "Marie Claude POLNEAU"
+                },
+                {
+                    "winner": "Marie Claude POLNEAU"
+                }
+            ],
+            [
+                {
+                    "country": "KEN",
+                    "name": "Joyce BICHBICH"
+                },
+                {
+                    "country": "CIV",
+                    "name": "Marie Claude POLNEAU"
+                },
+                {
+                    "winner": "Marie Claude POLNEAU"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Georgette SAGNA",
+            "Marie Claude POLNEAU"
+        ]
+    },
+    "POOL B": {
+        "round 1-1": [],
+        "final_winners": [
+            "Monica SAGNA"
+        ]
+    },
+    "REPECHAGE": {
+        "round 1-1": [
+            [
+                {
+                    "country": "CIV",
+                    "name": "Marie Claude POLNEAU"
+                },
+                {
+                    "country": "BUR",
+                    "name": "Somdonne Michelle Sandrine NIKIEMA"
+                },
+                {
+                    "winner": "Marie Claude POLNEAU"
+                }
+            ],
+            [
+                {
+                    "country": "CIV",
+                    "name": "Marie Claude POLNEAU"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Marie Claude POLNEAU"
+        ]
+    },
+    "FINALS": {
+        "round 1-1": [],
+        "final_winners": [
+            "Monica SAGNA"
+        ]
+    }
+}

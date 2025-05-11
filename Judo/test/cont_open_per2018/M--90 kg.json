@@ -1,0 +1,282 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "DOM",
+                    "name": "Robert FLORENTINO"
+                },
+                {
+                    "winner": "Robert FLORENTINO"
+                }
+            ],
+            [
+                {
+                    "country": "CAN",
+                    "name": "Maxim COTE"
+                },
+                {
+                    "country": "POR",
+                    "name": "Tiago RODRIGUES"
+                },
+                {
+                    "winner": "Tiago RODRIGUES"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "DOM",
+                    "name": "Robert FLORENTINO"
+                },
+                {
+                    "country": "POR",
+                    "name": "Tiago RODRIGUES"
+                }
+            ],
+            [
+                {
+                    "country": "DOM",
+                    "name": "Robert FLORENTINO"
+                }
+            ]
+        ]
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "USA",
+                    "name": "Matthew KOCH"
+                },
+                {
+                    "winner": "Matthew KOCH"
+                }
+            ],
+            [
+                {
+                    "country": "ARG",
+                    "name": "Tomas SPIKERMANN"
+                },
+                {
+                    "country": "PER",
+                    "name": "Daryl YAMAMOTO"
+                },
+                {
+                    "winner": "Daryl YAMAMOTO"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "USA",
+                    "name": "Matthew KOCH"
+                },
+                {
+                    "country": "PER",
+                    "name": "Daryl YAMAMOTO"
+                }
+            ],
+            [
+                {
+                    "country": "PER",
+                    "name": "Daryl YAMAMOTO"
+                }
+            ]
+        ]
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "MEX",
+                    "name": "Victor OCHOA"
+                },
+                {
+                    "winner": "Victor OCHOA"
+                }
+            ],
+            [
+                {
+                    "country": "CUB",
+                    "name": "Asley GONZALEZ"
+                },
+                {
+                    "country": "PER",
+                    "name": "Yuta GALARRETA"
+                },
+                {
+                    "winner": "Yuta GALARRETA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "MEX",
+                    "name": "Victor OCHOA"
+                },
+                {
+                    "country": "PER",
+                    "name": "Yuta GALARRETA"
+                }
+            ],
+            [
+                {
+                    "country": "PER",
+                    "name": "Yuta GALARRETA"
+                }
+            ]
+        ]
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "USA",
+                    "name": "Christopher MOULTON"
+                },
+                {
+                    "winner": "Christopher MOULTON"
+                }
+            ],
+            [
+                {
+                    "country": "CHI",
+                    "name": "Rafael ROMO"
+                },
+                {
+                    "country": "URU",
+                    "name": "Leonardo LOMBARDO"
+                },
+                {
+                    "winner": "Rafael ROMO"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "USA",
+                    "name": "Christopher MOULTON"
+                },
+                {
+                    "country": "CHI",
+                    "name": "Rafael ROMO"
+                }
+            ],
+            [
+                {
+                    "country": "CHI",
+                    "name": "Rafael ROMO"
+                }
+            ]
+        ]
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "POR",
+                    "name": "Tiago RODRIGUES"
+                },
+                {
+                    "country": "USA",
+                    "name": "Matthew KOCH"
+                }
+            ],
+            [
+                {
+                    "country": "MEX",
+                    "name": "Victor OCHOA"
+                },
+                {
+                    "country": "USA",
+                    "name": "Christopher MOULTON"
+                }
+            ],
+            [
+                {
+                    "country": "POR",
+                    "name": "Tiago RODRIGUES"
+                },
+                {
+                    "country": "CHI",
+                    "name": "Rafael ROMO"
+                }
+            ],
+            [
+                {
+                    "country": "MEX",
+                    "name": "Victor OCHOA"
+                },
+                {
+                    "country": "PER",
+                    "name": "Daryl YAMAMOTO"
+                }
+            ],
+            [
+                {
+                    "country": "POR",
+                    "name": "Tiago RODRIGUES"
+                }
+            ],
+            [
+                {
+                    "country": "MEX",
+                    "name": "Victor OCHOA"
+                }
+            ]
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "DOM",
+                    "name": "Robert FLORENTINO"
+                },
+                {
+                    "country": "PER",
+                    "name": "Daryl YAMAMOTO"
+                },
+                {
+                    "winner": "Robert FLORENTINO"
+                }
+            ],
+            [
+                {
+                    "country": "PER",
+                    "name": "Yuta GALARRETA"
+                },
+                {
+                    "country": "CHI",
+                    "name": "Rafael ROMO"
+                },
+                {
+                    "winner": "Yuta GALARRETA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "DOM",
+                    "name": "Robert FLORENTINO"
+                },
+                {
+                    "country": "PER",
+                    "name": "Yuta GALARRETA"
+                }
+            ],
+            [
+                {
+                    "country": "DOM",
+                    "name": "Robert FLORENTINO"
+                }
+            ]
+        ]
+    }
+}

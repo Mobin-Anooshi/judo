@@ -1,0 +1,277 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "MEX",
+                    "name": "Nabor CASTILLO"
+                },
+                {
+                    "winner": "Nabor CASTILLO"
+                }
+            ],
+            [
+                {
+                    "country": "ARG",
+                    "name": "Santiago GUALCO"
+                },
+                {
+                    "country": "ARG",
+                    "name": "Juan Manuel LOPEZ"
+                },
+                {
+                    "winner": "Santiago GUALCO"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "MEX",
+                    "name": "Nabor CASTILLO"
+                },
+                {
+                    "country": "ARG",
+                    "name": "Santiago GUALCO"
+                }
+            ]
+        ],
+        "final_winner": "Nabor CASTILLO"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "USA",
+                    "name": "Alaa EL IDRISSI"
+                },
+                {
+                    "country": "ARG",
+                    "name": "elian CHINELLATO"
+                },
+                {
+                    "winner": "Alaa EL IDRISSI"
+                }
+            ],
+            [
+                {
+                    "country": "ARG",
+                    "name": "Minoru TAMASHIRO"
+                },
+                {
+                    "country": "ARG",
+                    "name": "Luciano UEZEN"
+                },
+                {
+                    "winner": "Minoru TAMASHIRO"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "USA",
+                    "name": "Alaa EL IDRISSI"
+                },
+                {
+                    "country": "ARG",
+                    "name": "Minoru TAMASHIRO"
+                }
+            ]
+        ],
+        "final_winner": "Minoru TAMASHIRO"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CHI",
+                    "name": "Sebastian PEREZ"
+                },
+                {
+                    "winner": "Sebastian PEREZ"
+                }
+            ],
+            [
+                {
+                    "country": "ARG",
+                    "name": "Lucas AMBROSIO"
+                },
+                {
+                    "country": "ARG",
+                    "name": "Rodrigo JARA"
+                },
+                {
+                    "winner": "Lucas AMBROSIO"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "CHI",
+                    "name": "Sebastian PEREZ"
+                },
+                {
+                    "country": "ARG",
+                    "name": "Lucas AMBROSIO"
+                }
+            ]
+        ],
+        "final_winner": "Sebastian PEREZ"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "VEN",
+                    "name": "Ricardo VALDERRAMA"
+                },
+                {
+                    "winner": "Ricardo VALDERRAMA"
+                }
+            ],
+            [
+                {
+                    "country": "BRA",
+                    "name": "Diego SANTOS"
+                },
+                {
+                    "country": "ARG",
+                    "name": "Hernan BIRBRIER"
+                },
+                {
+                    "winner": "Diego SANTOS"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "VEN",
+                    "name": "Ricardo VALDERRAMA"
+                },
+                {
+                    "country": "BRA",
+                    "name": "Diego SANTOS"
+                }
+            ]
+        ],
+        "final_winner": "Diego SANTOS"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ARG",
+                    "name": "Santiago GUALCO"
+                },
+                {
+                    "country": "USA",
+                    "name": "Alaa EL IDRISSI"
+                },
+                {
+                    "winner": "Alaa EL IDRISSI"
+                }
+            ],
+            [
+                {
+                    "country": "ARG",
+                    "name": "Lucas AMBROSIO"
+                },
+                {
+                    "country": "VEN",
+                    "name": "Ricardo VALDERRAMA"
+                },
+                {
+                    "winner": "Ricardo VALDERRAMA"
+                }
+            ],
+            [
+                {
+                    "country": "USA",
+                    "name": "Alaa EL IDRISSI"
+                },
+                {
+                    "country": "CHI",
+                    "name": "Sebastian PEREZ"
+                },
+                {
+                    "winner": "Sebastian PEREZ"
+                }
+            ],
+            [
+                {
+                    "country": "VEN",
+                    "name": "Ricardo VALDERRAMA"
+                },
+                {
+                    "country": "ARG",
+                    "name": "Minoru TAMASHIRO"
+                },
+                {
+                    "winner": "Ricardo VALDERRAMA"
+                }
+            ],
+            [
+                {
+                    "country": "CHI",
+                    "name": "Sebastian PEREZ"
+                }
+            ],
+            [
+                {
+                    "country": "VEN",
+                    "name": "Ricardo VALDERRAMA"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Sebastian PEREZ",
+            "Ricardo VALDERRAMA"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "MEX",
+                    "name": "Nabor CASTILLO"
+                },
+                {
+                    "country": "ARG",
+                    "name": "Minoru TAMASHIRO"
+                },
+                {
+                    "winner": "Nabor CASTILLO"
+                }
+            ],
+            [
+                {
+                    "country": "CHI",
+                    "name": "Sebastian PEREZ"
+                },
+                {
+                    "country": "BRA",
+                    "name": "Diego SANTOS"
+                },
+                {
+                    "winner": "Diego SANTOS"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "MEX",
+                    "name": "Nabor CASTILLO"
+                },
+                {
+                    "country": "BRA",
+                    "name": "Diego SANTOS"
+                }
+            ]
+        ],
+        "final_winner": "Diego SANTOS"
+    }
+}

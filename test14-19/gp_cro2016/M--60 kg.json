@@ -1,0 +1,298 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "RUS",
+                    "name": "Albert OGUZOV"
+                },
+                {
+                    "country": "ISR",
+                    "name": "Alon RAHIMA"
+                },
+                {
+                    "winner": "Alon RAHIMA"
+                }
+            ],
+            [
+                {
+                    "country": "FRA",
+                    "name": "Vincent MANQUEST"
+                },
+                {
+                    "country": "ROU",
+                    "name": "Vlad LUNCAN"
+                },
+                {
+                    "winner": "Vincent MANQUEST"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "ISR",
+                    "name": "Alon RAHIMA"
+                },
+                {
+                    "country": "FRA",
+                    "name": "Vincent MANQUEST"
+                }
+            ],
+            [
+                {
+                    "country": "FRA",
+                    "name": "Vincent MANQUEST"
+                }
+            ]
+        ]
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ESP",
+                    "name": "Joaquin GOMIS"
+                },
+                {
+                    "country": "HUN",
+                    "name": "Csaba SZABO"
+                },
+                {
+                    "winner": "Joaquin GOMIS"
+                }
+            ],
+            [
+                {
+                    "country": "FRA",
+                    "name": "Cedric REVOL"
+                },
+                {
+                    "country": "MDA",
+                    "name": "Nicolae FOCA"
+                },
+                {
+                    "winner": "Cedric REVOL"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "ESP",
+                    "name": "Joaquin GOMIS"
+                },
+                {
+                    "country": "FRA",
+                    "name": "Cedric REVOL"
+                }
+            ],
+            [
+                {
+                    "country": "ESP",
+                    "name": "Joaquin GOMIS"
+                }
+            ]
+        ]
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "SLO",
+                    "name": "Matjaz TRBOVC"
+                },
+                {
+                    "country": "ISR",
+                    "name": "Daniel BEN DAVID"
+                },
+                {
+                    "winner": "Matjaz TRBOVC"
+                }
+            ],
+            [
+                {
+                    "country": "GER",
+                    "name": "Philip GRAF"
+                },
+                {
+                    "country": "AUT",
+                    "name": "Kimran BORCHASHVILI"
+                },
+                {
+                    "winner": "Philip GRAF"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "SLO",
+                    "name": "Matjaz TRBOVC"
+                },
+                {
+                    "country": "GER",
+                    "name": "Philip GRAF"
+                }
+            ],
+            [
+                {
+                    "country": "GER",
+                    "name": "Philip GRAF"
+                }
+            ]
+        ]
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "RUS",
+                    "name": "Robert MSHVIDOBADZE"
+                },
+                {
+                    "country": "HUN",
+                    "name": "Akos BARTHA"
+                },
+                {
+                    "winner": "Robert MSHVIDOBADZE"
+                }
+            ],
+            [
+                {
+                    "country": "USA",
+                    "name": "Adonis DIAZ"
+                },
+                {
+                    "country": "MNE",
+                    "name": "Vuk NIKCEVIC"
+                },
+                {
+                    "winner": "Adonis DIAZ"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "RUS",
+                    "name": "Robert MSHVIDOBADZE"
+                },
+                {
+                    "country": "USA",
+                    "name": "Adonis DIAZ"
+                }
+            ],
+            [
+                {
+                    "country": "RUS",
+                    "name": "Robert MSHVIDOBADZE"
+                }
+            ]
+        ]
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ISR",
+                    "name": "Alon RAHIMA"
+                },
+                {
+                    "country": "FRA",
+                    "name": "Cedric REVOL"
+                }
+            ],
+            [
+                {
+                    "country": "SLO",
+                    "name": "Matjaz TRBOVC"
+                },
+                {
+                    "country": "USA",
+                    "name": "Adonis DIAZ"
+                }
+            ],
+            [
+                {
+                    "country": "FRA",
+                    "name": "Cedric REVOL"
+                },
+                {
+                    "country": "GER",
+                    "name": "Philip GRAF"
+                }
+            ],
+            [
+                {
+                    "country": "SLO",
+                    "name": "Matjaz TRBOVC"
+                },
+                {
+                    "country": "ESP",
+                    "name": "Joaquin GOMIS"
+                }
+            ],
+            [
+                {
+                    "country": "FRA",
+                    "name": "Cedric REVOL"
+                }
+            ],
+            [
+                {
+                    "country": "ESP",
+                    "name": "Joaquin GOMIS"
+                }
+            ]
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "FRA",
+                    "name": "Vincent MANQUEST"
+                },
+                {
+                    "country": "ESP",
+                    "name": "Joaquin GOMIS"
+                },
+                {
+                    "winner": "Vincent MANQUEST"
+                }
+            ],
+            [
+                {
+                    "country": "GER",
+                    "name": "Philip GRAF"
+                },
+                {
+                    "country": "RUS",
+                    "name": "Robert MSHVIDOBADZE"
+                },
+                {
+                    "winner": "Robert MSHVIDOBADZE"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "FRA",
+                    "name": "Vincent MANQUEST"
+                },
+                {
+                    "country": "RUS",
+                    "name": "Robert MSHVIDOBADZE"
+                }
+            ],
+            [
+                {
+                    "country": "FRA",
+                    "name": "Vincent MANQUEST"
+                }
+            ]
+        ]
+    }
+}

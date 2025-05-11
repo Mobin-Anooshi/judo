@@ -1,20 +1,33 @@
-# competition_links.py
-from playwright.sync_api import sync_playwright
+import requests
+import json
 
-with sync_playwright() as p:
-    browser = p.chromium.launch(headless=True)
-    page = browser.new_page()
-    page.goto("https://judotv.com/competitions")
+# آدرس فرضی API (باید URL واقعی رو پیدا کنید)
+api_url = "https://judotv.com/api/competitions/cont_cup_cad_uzb2022/draw"
+
+# هدرهای درخواست (در صورت نیاز به احراز هویت یا توکن)
+headers = {
+    "Content-Type": "application/json",
+    # اگه API نیاز به کلید داشته باشه: "Authorization": "Bearer YOUR_API_KEY"
+}
+
+try:
+    # ارسال درخواست GET به API
+    response = requests.get(api_url, headers=headers)
     
-    # اسکرول چند مرحله‌ای
-    for _ in range(20):
-        page.mouse.wheel(0, 2000)
-        page.wait_for_timeout(1500)
+    # چک کردن وضعیت پاسخ
+    if response.status_code == 200:
+        # تبدیل پاسخ به JSON
+        data = response.json()
+        
+        # چاپ داده‌ها (مثل قرعه‌کشی، شرکت‌کننده‌ها، و غیره)
+        print(json.dumps(data, indent=2, ensure_ascii=False))
+        
+        # ذخیره داده‌ها تو فایل JSON
+        with open("competition_data.json", "w", encoding="utf-8") as f:
+            json.dump(data, f, indent=2, ensure_ascii=False)
+    else:
+        print(f"خطا در درخواست: کد وضعیت {response.status_code}")
+        print(response.text)
 
-    links = page.query_selector_all("a.card")
-    for link in links:
-        href = link.get_attribute("href")
-        if href:
-            print(href)
-
-    browser.close()
+except requests.exceptions.RequestException as e:
+    print(f"خطا در اتصال به API: {e}")

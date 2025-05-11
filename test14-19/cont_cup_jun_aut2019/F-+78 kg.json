@@ -1,0 +1,340 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Luiza CRUZ"
+                },
+                {
+                    "winner": "Luiza CRUZ"
+                }
+            ],
+            [
+                {
+                    "country": "KAZ",
+                    "name": "Akerke RAMAZANOVA"
+                },
+                {
+                    "country": "ITA",
+                    "name": "Valentina MIELE"
+                },
+                {
+                    "winner": "Valentina MIELE"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Luiza CRUZ"
+                },
+                {
+                    "country": "ITA",
+                    "name": "Valentina MIELE"
+                }
+            ],
+            [
+                {
+                    "country": "ITA",
+                    "name": "Valentina MIELE"
+                }
+            ]
+        ]
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "FRA",
+                    "name": "Lea FONTAINE"
+                },
+                {
+                    "country": "SLO",
+                    "name": "Andreja TOMAZIC"
+                },
+                {
+                    "winner": "Lea FONTAINE"
+                }
+            ],
+            [
+                {
+                    "country": "NED",
+                    "name": "Marit KAMPS"
+                },
+                {
+                    "country": "BUL",
+                    "name": "Irina ZHELEZARSKA"
+                },
+                {
+                    "winner": "Marit KAMPS"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "FRA",
+                    "name": "Lea FONTAINE"
+                },
+                {
+                    "country": "NED",
+                    "name": "Marit KAMPS"
+                }
+            ],
+            [
+                {
+                    "country": "FRA",
+                    "name": "Lea FONTAINE"
+                }
+            ]
+        ]
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "GER",
+                    "name": "Samira BOUIZGARNE"
+                },
+                {
+                    "winner": "Samira BOUIZGARNE"
+                }
+            ],
+            [
+                {
+                    "country": "HUN",
+                    "name": "Szilvia FARKAS"
+                },
+                {
+                    "country": "ITA",
+                    "name": "Annalisa CALAGRETI"
+                },
+                {
+                    "winner": "Annalisa CALAGRETI"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "GER",
+                    "name": "Samira BOUIZGARNE"
+                },
+                {
+                    "country": "ITA",
+                    "name": "Annalisa CALAGRETI"
+                }
+            ],
+            [
+                {
+                    "country": "GER",
+                    "name": "Samira BOUIZGARNE"
+                }
+            ]
+        ]
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CRO",
+                    "name": "Helena VUKOVIC"
+                },
+                {
+                    "country": "GBR",
+                    "name": "Emily RITCHIE"
+                },
+                {
+                    "winner": "Helena VUKOVIC"
+                }
+            ],
+            [
+                {
+                    "country": "GER",
+                    "name": "Jule ERDORF"
+                },
+                {
+                    "country": "UKR",
+                    "name": "Valeriia OKULOVA"
+                },
+                {
+                    "winner": "Jule ERDORF"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "CRO",
+                    "name": "Helena VUKOVIC"
+                },
+                {
+                    "country": "GER",
+                    "name": "Jule ERDORF"
+                }
+            ],
+            [
+                {
+                    "country": "GER",
+                    "name": "Jule ERDORF"
+                }
+            ]
+        ]
+    },
+    "REPECHAGE": {
+        "round 1-4": [
+            [
+                {
+                    "country": "KAZ",
+                    "name": "Akerke RAMAZANOVA"
+                },
+                {
+                    "country": "BRA",
+                    "name": "Luiza CRUZ"
+                },
+                {
+                    "winner": "Luiza CRUZ"
+                }
+            ],
+            [
+                {
+                    "country": "SLO",
+                    "name": "Andreja TOMAZIC"
+                },
+                {
+                    "country": "NED",
+                    "name": "Marit KAMPS"
+                },
+                {
+                    "winner": "Marit KAMPS"
+                }
+            ],
+            [
+                {
+                    "country": "ITA",
+                    "name": "Annalisa CALAGRETI"
+                },
+                {
+                    "winner": "Annalisa CALAGRETI"
+                }
+            ],
+            [
+                {
+                    "country": "UKR",
+                    "name": "Valeriia OKULOVA"
+                },
+                {
+                    "country": "CRO",
+                    "name": "Helena VUKOVIC"
+                },
+                {
+                    "winner": "Helena VUKOVIC"
+                }
+            ]
+        ],
+        "round 1-2": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Luiza CRUZ"
+                },
+                {
+                    "country": "NED",
+                    "name": "Marit KAMPS"
+                }
+            ],
+            [
+                {
+                    "country": "ITA",
+                    "name": "Annalisa CALAGRETI"
+                },
+                {
+                    "country": "CRO",
+                    "name": "Helena VUKOVIC"
+                }
+            ],
+            [
+                {
+                    "country": "BRA",
+                    "name": "Luiza CRUZ"
+                },
+                {
+                    "country": "GER",
+                    "name": "Samira BOUIZGARNE"
+                }
+            ],
+            [
+                {
+                    "country": "CRO",
+                    "name": "Helena VUKOVIC"
+                },
+                {
+                    "country": "ITA",
+                    "name": "Valentina MIELE"
+                }
+            ],
+            [
+                {
+                    "country": "BRA",
+                    "name": "Luiza CRUZ"
+                }
+            ],
+            [
+                {
+                    "country": "CRO",
+                    "name": "Helena VUKOVIC"
+                }
+            ]
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ITA",
+                    "name": "Valentina MIELE"
+                },
+                {
+                    "country": "FRA",
+                    "name": "Lea FONTAINE"
+                },
+                {
+                    "winner": "Lea FONTAINE"
+                }
+            ],
+            [
+                {
+                    "country": "GER",
+                    "name": "Samira BOUIZGARNE"
+                },
+                {
+                    "country": "GER",
+                    "name": "Jule ERDORF"
+                },
+                {
+                    "winner": "Jule ERDORF"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "FRA",
+                    "name": "Lea FONTAINE"
+                },
+                {
+                    "country": "GER",
+                    "name": "Jule ERDORF"
+                }
+            ],
+            [
+                {
+                    "country": "FRA",
+                    "name": "Lea FONTAINE"
+                }
+            ]
+        ]
+    }
+}

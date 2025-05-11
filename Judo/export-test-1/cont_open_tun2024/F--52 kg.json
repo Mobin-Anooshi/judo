@@ -1,0 +1,261 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ALG",
+                    "name": "Faiza AISSAHINE"
+                },
+                {
+                    "winner": "Faiza AISSAHINE"
+                }
+            ],
+            [
+                {
+                    "country": "MAR",
+                    "name": "Hajar CHANET"
+                },
+                {
+                    "winner": "Hajar CHANET"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "ALG",
+                    "name": "Faiza AISSAHINE"
+                },
+                {
+                    "country": "MAR",
+                    "name": "Hajar CHANET"
+                }
+            ]
+        ],
+        "final_winner": "Faiza AISSAHINE"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "USA",
+                    "name": "Jenna SCHURR"
+                },
+                {
+                    "winner": "Jenna SCHURR"
+                }
+            ],
+            [
+                {
+                    "country": "GBR",
+                    "name": "Tatum KEEN"
+                },
+                {
+                    "winner": "Tatum KEEN"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "USA",
+                    "name": "Jenna SCHURR"
+                },
+                {
+                    "country": "GBR",
+                    "name": "Tatum KEEN"
+                }
+            ]
+        ],
+        "final_winner": "Tatum KEEN"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CPV",
+                    "name": "Djamila SILVA"
+                },
+                {
+                    "winner": "Djamila SILVA"
+                }
+            ],
+            [
+                {
+                    "country": "ALG",
+                    "name": "Yasmine HADI"
+                },
+                {
+                    "country": "MAR",
+                    "name": "Chaimae EDDINARI"
+                },
+                {
+                    "winner": "Chaimae EDDINARI"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "CPV",
+                    "name": "Djamila SILVA"
+                },
+                {
+                    "country": "MAR",
+                    "name": "Chaimae EDDINARI"
+                }
+            ]
+        ],
+        "final_winner": "Chaimae EDDINARI"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "TUN",
+                    "name": "Rahma TIBI"
+                },
+                {
+                    "winner": "Rahma TIBI"
+                }
+            ],
+            [
+                {
+                    "country": "ALG",
+                    "name": "Rania NAIT AMMAR"
+                },
+                {
+                    "winner": "Rania NAIT AMMAR"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "TUN",
+                    "name": "Rahma TIBI"
+                },
+                {
+                    "country": "ALG",
+                    "name": "Rania NAIT AMMAR"
+                }
+            ]
+        ],
+        "final_winner": "Rahma TIBI"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "MAR",
+                    "name": "Hajar CHANET"
+                },
+                {
+                    "country": "USA",
+                    "name": "Jenna SCHURR"
+                },
+                {
+                    "winner": "Hajar CHANET"
+                }
+            ],
+            [
+                {
+                    "country": "CPV",
+                    "name": "Djamila SILVA"
+                },
+                {
+                    "country": "ALG",
+                    "name": "Rania NAIT AMMAR"
+                },
+                {
+                    "winner": "Djamila SILVA"
+                }
+            ],
+            [
+                {
+                    "country": "MAR",
+                    "name": "Hajar CHANET"
+                },
+                {
+                    "country": "TUN",
+                    "name": "Rahma TIBI"
+                },
+                {
+                    "winner": "Rahma TIBI"
+                }
+            ],
+            [
+                {
+                    "country": "CPV",
+                    "name": "Djamila SILVA"
+                },
+                {
+                    "country": "GBR",
+                    "name": "Tatum KEEN"
+                },
+                {
+                    "winner": "Tatum KEEN"
+                }
+            ],
+            [
+                {
+                    "country": "TUN",
+                    "name": "Rahma TIBI"
+                }
+            ],
+            [
+                {
+                    "country": "GBR",
+                    "name": "Tatum KEEN"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Rahma TIBI",
+            "Tatum KEEN"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ALG",
+                    "name": "Faiza AISSAHINE"
+                },
+                {
+                    "country": "GBR",
+                    "name": "Tatum KEEN"
+                },
+                {
+                    "winner": "Faiza AISSAHINE"
+                }
+            ],
+            [
+                {
+                    "country": "MAR",
+                    "name": "Chaimae EDDINARI"
+                },
+                {
+                    "country": "TUN",
+                    "name": "Rahma TIBI"
+                },
+                {
+                    "winner": "Chaimae EDDINARI"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "ALG",
+                    "name": "Faiza AISSAHINE"
+                },
+                {
+                    "country": "MAR",
+                    "name": "Chaimae EDDINARI"
+                }
+            ]
+        ],
+        "final_winner": "Faiza AISSAHINE"
+    }
+}

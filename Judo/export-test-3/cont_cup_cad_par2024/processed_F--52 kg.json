@@ -1,0 +1,68 @@
+{
+    "ROUND 1": {
+        "round 1-2": [
+            [
+                {
+                    "country": "PAR",
+                    "name": "Stefany SALINAS"
+                },
+                {
+                    "country": "ECU",
+                    "name": "Alejandra RAMIREZ"
+                },
+                {
+                    "winner": "Alejandra RAMIREZ"
+                }
+            ],
+            [
+                {
+                    "country": "CHI",
+                    "name": "Matilda JALLOIS"
+                },
+                {
+                    "country": "URU",
+                    "name": "Renata ORTIZ PUIG"
+                },
+                {
+                    "winner": "Matilda JALLOIS"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Alejandra RAMIREZ",
+            "Matilda JALLOIS"
+        ]
+    },
+    "REPECHAGE": {
+        "round 1-1": [
+            [
+                {
+                    "country": "PAR",
+                    "name": "Stefany SALINAS"
+                },
+                {
+                    "country": "URU",
+                    "name": "Renata ORTIZ PUIG"
+                },
+                {
+                    "winner": "Renata ORTIZ PUIG"
+                }
+            ],
+            [
+                {
+                    "country": "URU",
+                    "name": "Renata ORTIZ PUIG"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Renata ORTIZ PUIG"
+        ]
+    },
+    "FINALS": {
+        "round 1-1": [],
+        "final_winners": [
+            "Alejandra RAMIREZ"
+        ]
+    }
+}

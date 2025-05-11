@@ -1,0 +1,153 @@
+{
+    "POOL A": {
+        "round 1-1": [],
+        "final_winner": "Chaimae EDDINARI"
+    },
+    "POOL B": {
+        "round 1-1": [
+            [
+                {
+                    "country": "RSA",
+                    "name": "Rozanne ADRIAANSE"
+                },
+                {
+                    "country": "ALG",
+                    "name": "Houaria KADDOUR"
+                }
+            ]
+        ],
+        "final_winner": "Rozanne ADRIAANSE"
+    },
+    "POOL C": {
+        "round 1-1": [
+            [
+                {
+                    "country": "SEN",
+                    "name": "Mbene MBOUP"
+                },
+                {
+                    "country": "ALG",
+                    "name": "Lamia SAOUD"
+                }
+            ]
+        ],
+        "final_winner": "Lamia SAOUD"
+    },
+    "POOL D": {
+        "round 1-1": [
+            [
+                {
+                    "country": "SEN",
+                    "name": "Aicha Dado DIOP"
+                },
+                {
+                    "country": "TUN",
+                    "name": "Chaima KHALFAOUI"
+                }
+            ]
+        ],
+        "final_winner": "Aicha Dado DIOP"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ALG",
+                    "name": "Houaria KADDOUR"
+                }
+            ],
+            [
+                {
+                    "country": "SEN",
+                    "name": "Mbene MBOUP"
+                },
+                {
+                    "country": "TUN",
+                    "name": "Chaima KHALFAOUI"
+                },
+                {
+                    "winner": "Chaima KHALFAOUI"
+                }
+            ],
+            [
+                {
+                    "country": "ALG",
+                    "name": "Houaria KADDOUR"
+                },
+                {
+                    "country": "SEN",
+                    "name": "Aicha Dado DIOP"
+                },
+                {
+                    "winner": "Houaria KADDOUR"
+                }
+            ],
+            [
+                {
+                    "country": "TUN",
+                    "name": "Chaima KHALFAOUI"
+                },
+                {
+                    "country": "RSA",
+                    "name": "Rozanne ADRIAANSE"
+                },
+                {
+                    "winner": "Chaima KHALFAOUI"
+                }
+            ],
+            [
+                {
+                    "country": "TUN",
+                    "name": "Chaima KHALFAOUI"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Chaima KHALFAOUI",
+            "Houaria KADDOUR"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "MAR",
+                    "name": "Chaimae EDDINARI"
+                },
+                {
+                    "country": "RSA",
+                    "name": "Rozanne ADRIAANSE"
+                },
+                {
+                    "winner": "Chaimae EDDINARI"
+                }
+            ],
+            [
+                {
+                    "country": "ALG",
+                    "name": "Lamia SAOUD"
+                },
+                {
+                    "country": "SEN",
+                    "name": "Aicha Dado DIOP"
+                },
+                {
+                    "winner": "Lamia SAOUD"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "MAR",
+                    "name": "Chaimae EDDINARI"
+                },
+                {
+                    "country": "ALG",
+                    "name": "Lamia SAOUD"
+                }
+            ]
+        ],
+        "final_winner": "Chaimae EDDINARI"
+    }
+}

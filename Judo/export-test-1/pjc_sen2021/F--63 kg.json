@@ -1,0 +1,137 @@
+{
+    "POOL A": {
+        "round 1-1": [
+            []
+        ]
+    },
+    "POOL B": {
+        "round 1-1": [
+            [
+                {
+                    "country": "MEX",
+                    "name": "Prisca AWITI ALCARAZ"
+                },
+                {
+                    "country": "USA",
+                    "name": "Alisha GALLES"
+                }
+            ]
+        ],
+        "final_winner": "Prisca AWITI ALCARAZ"
+    },
+    "POOL C": {
+        "round 1-1": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Ketleyn QUADROS"
+                },
+                {
+                    "country": "MEX",
+                    "name": "Sofia AREVALO"
+                }
+            ]
+        ],
+        "final_winner": "Ketleyn QUADROS"
+    },
+    "POOL D": {
+        "round 1-1": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Alexia CASTILHOS"
+                },
+                {
+                    "country": "ECU",
+                    "name": "Estefania GARCIA"
+                }
+            ]
+        ],
+        "final_winner": "Alexia CASTILHOS"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "USA",
+                    "name": "Alisha GALLES"
+                }
+            ],
+            [
+                {
+                    "country": "MEX",
+                    "name": "Sofia AREVALO"
+                },
+                {
+                    "country": "ECU",
+                    "name": "Estefania GARCIA"
+                },
+                {
+                    "winner": "Estefania GARCIA"
+                }
+            ],
+            [
+                {
+                    "country": "USA",
+                    "name": "Alisha GALLES"
+                },
+                {
+                    "country": "BRA",
+                    "name": "Alexia CASTILHOS"
+                },
+                {
+                    "winner": "Alisha GALLES"
+                }
+            ],
+            [
+                {
+                    "country": "ECU",
+                    "name": "Estefania GARCIA"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Alisha GALLES",
+            "Estefania GARCIA"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "MEX",
+                    "name": "Prisca AWITI ALCARAZ"
+                },
+                {
+                    "winner": "Prisca AWITI ALCARAZ"
+                }
+            ],
+            [
+                {
+                    "country": "BRA",
+                    "name": "Ketleyn QUADROS"
+                },
+                {
+                    "country": "BRA",
+                    "name": "Alexia CASTILHOS"
+                },
+                {
+                    "winner": "Ketleyn QUADROS"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "MEX",
+                    "name": "Prisca AWITI ALCARAZ"
+                },
+                {
+                    "country": "BRA",
+                    "name": "Ketleyn QUADROS"
+                }
+            ]
+        ],
+        "final_winner": "Ketleyn QUADROS"
+    }
+}

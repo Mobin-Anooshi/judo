@@ -1,0 +1,227 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ISR",
+                    "name": "Tamar MALCA"
+                },
+                {
+                    "winner": "Tamar MALCA"
+                }
+            ],
+            []
+        ],
+        "round 1-1": [],
+        "final_winner": "Tamar MALCA"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "SRB",
+                    "name": "Nevena MILIC"
+                },
+                {
+                    "winner": "Nevena MILIC"
+                }
+            ],
+            [
+                {
+                    "country": "BIH",
+                    "name": "Monika ZADRO"
+                },
+                {
+                    "winner": "Monika ZADRO"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "SRB",
+                    "name": "Nevena MILIC"
+                },
+                {
+                    "country": "BIH",
+                    "name": "Monika ZADRO"
+                }
+            ]
+        ],
+        "final_winner": "Nevena MILIC"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "BUL",
+                    "name": "Gabriela DIMITROVA"
+                },
+                {
+                    "winner": "Gabriela DIMITROVA"
+                }
+            ],
+            []
+        ],
+        "round 1-1": [],
+        "final_winner": "Gabriela DIMITROVA"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "FRA",
+                    "name": "Leslie BECERRO"
+                },
+                {
+                    "winner": "Leslie BECERRO"
+                }
+            ],
+            [
+                {
+                    "country": "MNE",
+                    "name": "Ivana NIKOLIC"
+                },
+                {
+                    "winner": "Ivana NIKOLIC"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "FRA",
+                    "name": "Leslie BECERRO"
+                },
+                {
+                    "country": "MNE",
+                    "name": "Ivana NIKOLIC"
+                }
+            ]
+        ],
+        "final_winner": "Ivana NIKOLIC"
+    },
+    "REPECHAGE": {
+        "round 1-4": [
+            [],
+            [
+                {
+                    "country": "BIH",
+                    "name": "Monika ZADRO"
+                },
+                {
+                    "winner": "Monika ZADRO"
+                }
+            ],
+            [],
+            [
+                {
+                    "country": "FRA",
+                    "name": "Leslie BECERRO"
+                },
+                {
+                    "winner": "Leslie BECERRO"
+                }
+            ]
+        ],
+        "round 1-2": [
+            [
+                {
+                    "country": "BIH",
+                    "name": "Monika ZADRO"
+                }
+            ],
+            [
+                {
+                    "country": "FRA",
+                    "name": "Leslie BECERRO"
+                }
+            ],
+            [
+                {
+                    "country": "BIH",
+                    "name": "Monika ZADRO"
+                },
+                {
+                    "country": "MNE",
+                    "name": "Ivana NIKOLIC"
+                },
+                {
+                    "winner": "Ivana NIKOLIC"
+                }
+            ],
+            [
+                {
+                    "country": "FRA",
+                    "name": "Leslie BECERRO"
+                },
+                {
+                    "country": "SRB",
+                    "name": "Nevena MILIC"
+                },
+                {
+                    "winner": "Nevena MILIC"
+                }
+            ],
+            [
+                {
+                    "country": "MNE",
+                    "name": "Ivana NIKOLIC"
+                }
+            ],
+            [
+                {
+                    "country": "SRB",
+                    "name": "Nevena MILIC"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Ivana NIKOLIC",
+            "Nevena MILIC"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ISR",
+                    "name": "Tamar MALCA"
+                },
+                {
+                    "country": "SRB",
+                    "name": "Nevena MILIC"
+                },
+                {
+                    "winner": "Tamar MALCA"
+                }
+            ],
+            [
+                {
+                    "country": "BUL",
+                    "name": "Gabriela DIMITROVA"
+                },
+                {
+                    "country": "MNE",
+                    "name": "Ivana NIKOLIC"
+                },
+                {
+                    "winner": "Gabriela DIMITROVA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "ISR",
+                    "name": "Tamar MALCA"
+                },
+                {
+                    "country": "BUL",
+                    "name": "Gabriela DIMITROVA"
+                }
+            ]
+        ],
+        "final_winner": "Tamar MALCA"
+    }
+}

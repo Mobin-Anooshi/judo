@@ -1,0 +1,68 @@
+{
+    "ROUND 1": {
+        "round 1-2": [
+            [
+                {
+                    "country": "PAR",
+                    "name": "Marcelo VICENTINI"
+                },
+                {
+                    "country": "CHI",
+                    "name": "Fabricio MEYER"
+                },
+                {
+                    "winner": "Marcelo VICENTINI"
+                }
+            ],
+            [
+                {
+                    "country": "CHI",
+                    "name": "Reinaldo CACERES"
+                },
+                {
+                    "country": "CHI",
+                    "name": "Cristopher ORELLANA"
+                },
+                {
+                    "winner": "Reinaldo CACERES"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Marcelo VICENTINI",
+            "Reinaldo CACERES"
+        ]
+    },
+    "REPECHAGE": {
+        "round 1-1": [
+            [
+                {
+                    "country": "CHI",
+                    "name": "Fabricio MEYER"
+                },
+                {
+                    "country": "CHI",
+                    "name": "Cristopher ORELLANA"
+                },
+                {
+                    "winner": "Fabricio MEYER"
+                }
+            ],
+            [
+                {
+                    "country": "CHI",
+                    "name": "Fabricio MEYER"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Fabricio MEYER"
+        ]
+    },
+    "FINALS": {
+        "round 1-1": [],
+        "final_winners": [
+            "Marcelo VICENTINI"
+        ]
+    }
+}

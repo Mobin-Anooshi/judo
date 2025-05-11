@@ -1,0 +1,141 @@
+{
+    "POOL A": {
+        "round 1-1": [],
+        "final_winner": "Mbagnick NDIAYE"
+    },
+    "POOL B": {
+        "round 1-1": [
+            [
+                {
+                    "country": "LBA",
+                    "name": "Ali OMAR"
+                },
+                {
+                    "country": "BUR",
+                    "name": "Rachid SIDIBE"
+                }
+            ]
+        ],
+        "final_winner": "Ali OMAR"
+    },
+    "POOL C": {
+        "round 1-1": [],
+        "final_winner": "Ahmed WAHID"
+    },
+    "POOL D": {
+        "round 1-1": [
+            [
+                {
+                    "country": "ALG",
+                    "name": "Mohamed Sofiane BELREKAA"
+                },
+                {
+                    "country": "MAD",
+                    "name": "Lien nirina JULOT"
+                }
+            ]
+        ],
+        "final_winner": "Mohamed Sofiane BELREKAA"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "BUR",
+                    "name": "Rachid SIDIBE"
+                }
+            ],
+            [
+                {
+                    "country": "MAD",
+                    "name": "Lien nirina JULOT"
+                }
+            ],
+            [
+                {
+                    "country": "BUR",
+                    "name": "Rachid SIDIBE"
+                },
+                {
+                    "country": "EGY",
+                    "name": "Ahmed WAHID"
+                },
+                {
+                    "winner": "Ahmed WAHID"
+                }
+            ],
+            [
+                {
+                    "country": "MAD",
+                    "name": "Lien nirina JULOT"
+                },
+                {
+                    "country": "LBA",
+                    "name": "Ali OMAR"
+                },
+                {
+                    "winner": "Ali OMAR"
+                }
+            ],
+            [
+                {
+                    "country": "EGY",
+                    "name": "Ahmed WAHID"
+                }
+            ],
+            [
+                {
+                    "country": "LBA",
+                    "name": "Ali OMAR"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Ahmed WAHID",
+            "Ali OMAR"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "SEN",
+                    "name": "Mbagnick NDIAYE"
+                },
+                {
+                    "country": "LBA",
+                    "name": "Ali OMAR"
+                },
+                {
+                    "winner": "Mbagnick NDIAYE"
+                }
+            ],
+            [
+                {
+                    "country": "EGY",
+                    "name": "Ahmed WAHID"
+                },
+                {
+                    "country": "ALG",
+                    "name": "Mohamed Sofiane BELREKAA"
+                },
+                {
+                    "winner": "Mohamed Sofiane BELREKAA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "SEN",
+                    "name": "Mbagnick NDIAYE"
+                },
+                {
+                    "country": "ALG",
+                    "name": "Mohamed Sofiane BELREKAA"
+                }
+            ]
+        ],
+        "final_winner": "Mbagnick NDIAYE"
+    }
+}

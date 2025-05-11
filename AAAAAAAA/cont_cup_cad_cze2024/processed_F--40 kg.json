@@ -1,0 +1,177 @@
+{
+    "POOL A": {
+        "round 1-1": [
+            [
+                {
+                    "country": "POL",
+                    "name": "Sandra WALENDZIK"
+                },
+                {
+                    "country": "ROU",
+                    "name": "Talida Ariella NAGY"
+                }
+            ]
+        ],
+        "final_winner": "Sandra WALENDZIK"
+    },
+    "POOL B": {
+        "round 1-1": [
+            [
+                {
+                    "country": "SRB",
+                    "name": "Marija TANACKOV"
+                },
+                {
+                    "country": "BEL",
+                    "name": "Fenne PEETERS"
+                }
+            ]
+        ],
+        "final_winner": "Fenne PEETERS"
+    },
+    "POOL C": {
+        "round 1-1": [
+            [
+                {
+                    "country": "AZE",
+                    "name": "Khadija ABDULLAYEVA"
+                },
+                {
+                    "country": "FRA",
+                    "name": "Noemie URBAN"
+                }
+            ]
+        ],
+        "final_winner": "Khadija ABDULLAYEVA"
+    },
+    "POOL D": {
+        "round 1-1": [
+            [
+                {
+                    "country": "TUR",
+                    "name": "Busra Ceylin COSKUN"
+                },
+                {
+                    "country": "HUN",
+                    "name": "Nora TAKACS"
+                }
+            ]
+        ],
+        "final_winner": "Busra Ceylin COSKUN"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ROU",
+                    "name": "Talida Ariella NAGY"
+                },
+                {
+                    "country": "SRB",
+                    "name": "Marija TANACKOV"
+                },
+                {
+                    "winner": "Marija TANACKOV"
+                }
+            ],
+            [
+                {
+                    "country": "FRA",
+                    "name": "Noemie URBAN"
+                },
+                {
+                    "country": "HUN",
+                    "name": "Nora TAKACS"
+                },
+                {
+                    "winner": "Noemie URBAN"
+                }
+            ],
+            [
+                {
+                    "country": "SRB",
+                    "name": "Marija TANACKOV"
+                },
+                {
+                    "country": "TUR",
+                    "name": "Busra Ceylin COSKUN"
+                },
+                {
+                    "winner": "Marija TANACKOV"
+                }
+            ],
+            [
+                {
+                    "country": "FRA",
+                    "name": "Noemie URBAN"
+                },
+                {
+                    "country": "BEL",
+                    "name": "Fenne PEETERS"
+                },
+                {
+                    "winner": "Fenne PEETERS"
+                }
+            ],
+            [
+                {
+                    "country": "SRB",
+                    "name": "Marija TANACKOV"
+                }
+            ],
+            [
+                {
+                    "country": "BEL",
+                    "name": "Fenne PEETERS"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Marija TANACKOV",
+            "Fenne PEETERS"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "POL",
+                    "name": "Sandra WALENDZIK"
+                },
+                {
+                    "country": "BEL",
+                    "name": "Fenne PEETERS"
+                },
+                {
+                    "winner": "Sandra WALENDZIK"
+                }
+            ],
+            [
+                {
+                    "country": "AZE",
+                    "name": "Khadija ABDULLAYEVA"
+                },
+                {
+                    "country": "TUR",
+                    "name": "Busra Ceylin COSKUN"
+                },
+                {
+                    "winner": "Khadija ABDULLAYEVA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "POL",
+                    "name": "Sandra WALENDZIK"
+                },
+                {
+                    "country": "AZE",
+                    "name": "Khadija ABDULLAYEVA"
+                }
+            ]
+        ],
+        "final_winner": "Sandra WALENDZIK"
+    }
+}

@@ -1,0 +1,285 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "UZB",
+                    "name": "Davlat BOBONOV"
+                },
+                {
+                    "winner": "Davlat BOBONOV"
+                }
+            ],
+            [
+                {
+                    "country": "CAN",
+                    "name": "Mohab ELNAHAS"
+                },
+                {
+                    "country": "TJK",
+                    "name": "Dzhakhongir MADZHIDOV"
+                },
+                {
+                    "winner": "Dzhakhongir MADZHIDOV"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "UZB",
+                    "name": "Davlat BOBONOV"
+                },
+                {
+                    "country": "TJK",
+                    "name": "Dzhakhongir MADZHIDOV"
+                }
+            ]
+        ],
+        "final_winner": "Davlat BOBONOV"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "COL",
+                    "name": "Francisco BALANTA"
+                },
+                {
+                    "country": "FRA",
+                    "name": "Aurelien DIESSE"
+                },
+                {
+                    "winner": "Francisco BALANTA"
+                }
+            ],
+            [
+                {
+                    "country": "SEN",
+                    "name": "Abderahmane DIAO"
+                },
+                {
+                    "country": "RUS",
+                    "name": "Mansur LORSANOV"
+                },
+                {
+                    "winner": "Mansur LORSANOV"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "COL",
+                    "name": "Francisco BALANTA"
+                },
+                {
+                    "country": "RUS",
+                    "name": "Mansur LORSANOV"
+                }
+            ]
+        ],
+        "final_winner": "Mansur LORSANOV"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "TJK",
+                    "name": "Komronshokh USTOPIRIYON"
+                },
+                {
+                    "country": "GBR",
+                    "name": "Jamal PETGRAVE"
+                },
+                {
+                    "winner": "Komronshokh USTOPIRIYON"
+                }
+            ],
+            [
+                {
+                    "country": "USA",
+                    "name": "John JAYNE"
+                },
+                {
+                    "country": "UKR",
+                    "name": "Vitalii SHEPEL"
+                },
+                {
+                    "winner": "John JAYNE"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "TJK",
+                    "name": "Komronshokh USTOPIRIYON"
+                },
+                {
+                    "country": "USA",
+                    "name": "John JAYNE"
+                }
+            ]
+        ],
+        "final_winner": "Komronshokh USTOPIRIYON"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "KGZ",
+                    "name": "Erlan SHEROV"
+                },
+                {
+                    "country": "RUS",
+                    "name": "Eldar ALLAKHVERDIEV"
+                },
+                {
+                    "winner": "Erlan SHEROV"
+                }
+            ],
+            [
+                {
+                    "country": "AUS",
+                    "name": "Harrison CASSAR"
+                },
+                {
+                    "country": "FRA",
+                    "name": "Francis DAMIER"
+                },
+                {
+                    "winner": "Francis DAMIER"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "KGZ",
+                    "name": "Erlan SHEROV"
+                },
+                {
+                    "country": "FRA",
+                    "name": "Francis DAMIER"
+                }
+            ]
+        ],
+        "final_winner": "Erlan SHEROV"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "TJK",
+                    "name": "Dzhakhongir MADZHIDOV"
+                },
+                {
+                    "country": "COL",
+                    "name": "Francisco BALANTA"
+                },
+                {
+                    "winner": "Dzhakhongir MADZHIDOV"
+                }
+            ],
+            [
+                {
+                    "country": "USA",
+                    "name": "John JAYNE"
+                },
+                {
+                    "country": "FRA",
+                    "name": "Francis DAMIER"
+                },
+                {
+                    "winner": "Francis DAMIER"
+                }
+            ],
+            [
+                {
+                    "country": "TJK",
+                    "name": "Dzhakhongir MADZHIDOV"
+                },
+                {
+                    "country": "KGZ",
+                    "name": "Erlan SHEROV"
+                },
+                {
+                    "winner": "Dzhakhongir MADZHIDOV"
+                }
+            ],
+            [
+                {
+                    "country": "FRA",
+                    "name": "Francis DAMIER"
+                },
+                {
+                    "country": "UZB",
+                    "name": "Davlat BOBONOV"
+                },
+                {
+                    "winner": "Davlat BOBONOV"
+                }
+            ],
+            [
+                {
+                    "country": "TJK",
+                    "name": "Dzhakhongir MADZHIDOV"
+                }
+            ],
+            [
+                {
+                    "country": "UZB",
+                    "name": "Davlat BOBONOV"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Dzhakhongir MADZHIDOV",
+            "Davlat BOBONOV"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "UZB",
+                    "name": "Davlat BOBONOV"
+                },
+                {
+                    "country": "RUS",
+                    "name": "Mansur LORSANOV"
+                },
+                {
+                    "winner": "Mansur LORSANOV"
+                }
+            ],
+            [
+                {
+                    "country": "TJK",
+                    "name": "Komronshokh USTOPIRIYON"
+                },
+                {
+                    "country": "KGZ",
+                    "name": "Erlan SHEROV"
+                },
+                {
+                    "winner": "Komronshokh USTOPIRIYON"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "RUS",
+                    "name": "Mansur LORSANOV"
+                },
+                {
+                    "country": "TJK",
+                    "name": "Komronshokh USTOPIRIYON"
+                }
+            ]
+        ],
+        "final_winner": "Mansur LORSANOV"
+    }
+}

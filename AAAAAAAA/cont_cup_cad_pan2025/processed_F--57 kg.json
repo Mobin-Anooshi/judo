@@ -1,0 +1,141 @@
+{
+    "POOL A": {
+        "round 1-1": [],
+        "final_winner": "Aleksandra DUDKO"
+    },
+    "POOL B": {
+        "round 1-1": [
+            [
+                {
+                    "country": "PAN",
+                    "name": "Laura DE LEON"
+                },
+                {
+                    "country": "CRC",
+                    "name": "Valeria VASQUEZ CALDERON"
+                }
+            ]
+        ],
+        "final_winner": "Laura DE LEON"
+    },
+    "POOL C": {
+        "round 1-1": [],
+        "final_winner": "Maya AUBERT GOMEZ"
+    },
+    "POOL D": {
+        "round 1-1": [
+            [
+                {
+                    "country": "ECU",
+                    "name": "Nicole CHASI"
+                },
+                {
+                    "country": "PAN",
+                    "name": "Gabriela VALENCIA"
+                }
+            ]
+        ],
+        "final_winner": "Nicole CHASI"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CRC",
+                    "name": "Valeria VASQUEZ CALDERON"
+                }
+            ],
+            [
+                {
+                    "country": "PAN",
+                    "name": "Gabriela VALENCIA"
+                }
+            ],
+            [
+                {
+                    "country": "CRC",
+                    "name": "Valeria VASQUEZ CALDERON"
+                },
+                {
+                    "country": "ESA",
+                    "name": "Maya AUBERT GOMEZ"
+                },
+                {
+                    "winner": "Maya AUBERT GOMEZ"
+                }
+            ],
+            [
+                {
+                    "country": "PAN",
+                    "name": "Gabriela VALENCIA"
+                },
+                {
+                    "country": "PAN",
+                    "name": "Laura DE LEON"
+                },
+                {
+                    "winner": "Laura DE LEON"
+                }
+            ],
+            [
+                {
+                    "country": "ESA",
+                    "name": "Maya AUBERT GOMEZ"
+                }
+            ],
+            [
+                {
+                    "country": "PAN",
+                    "name": "Laura DE LEON"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Maya AUBERT GOMEZ",
+            "Laura DE LEON"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "GBR",
+                    "name": "Aleksandra DUDKO"
+                },
+                {
+                    "country": "PAN",
+                    "name": "Laura DE LEON"
+                },
+                {
+                    "winner": "Aleksandra DUDKO"
+                }
+            ],
+            [
+                {
+                    "country": "ESA",
+                    "name": "Maya AUBERT GOMEZ"
+                },
+                {
+                    "country": "ECU",
+                    "name": "Nicole CHASI"
+                },
+                {
+                    "winner": "Nicole CHASI"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "GBR",
+                    "name": "Aleksandra DUDKO"
+                },
+                {
+                    "country": "ECU",
+                    "name": "Nicole CHASI"
+                }
+            ]
+        ],
+        "final_winner": "Nicole CHASI"
+    }
+}

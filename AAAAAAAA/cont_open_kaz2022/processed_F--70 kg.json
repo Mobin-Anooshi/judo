@@ -1,0 +1,153 @@
+{
+    "POOL A": {
+        "round 1-1": [],
+        "final_winner": "Enkhchimeg TSERENDULAM"
+    },
+    "POOL B": {
+        "round 1-1": [
+            [
+                {
+                    "country": "KAZ",
+                    "name": "Ekaterina TOKAREVA"
+                },
+                {
+                    "country": "CHN",
+                    "name": "Anqi SUN"
+                }
+            ]
+        ],
+        "final_winner": "Anqi SUN"
+    },
+    "POOL C": {
+        "round 1-1": [
+            [
+                {
+                    "country": "UZB",
+                    "name": "Nodira YULDASHEVA"
+                },
+                {
+                    "country": "KAZ",
+                    "name": "Anastassiya MOROZOVA"
+                }
+            ]
+        ],
+        "final_winner": "Nodira YULDASHEVA"
+    },
+    "POOL D": {
+        "round 1-1": [
+            [
+                {
+                    "country": "KAZ",
+                    "name": "Perizat ZHAKYPBEKOVA"
+                },
+                {
+                    "country": "CHN",
+                    "name": "Yingying FENG"
+                }
+            ]
+        ],
+        "final_winner": "Yingying FENG"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "KAZ",
+                    "name": "Ekaterina TOKAREVA"
+                }
+            ],
+            [
+                {
+                    "country": "KAZ",
+                    "name": "Anastassiya MOROZOVA"
+                },
+                {
+                    "country": "KAZ",
+                    "name": "Perizat ZHAKYPBEKOVA"
+                },
+                {
+                    "winner": "Perizat ZHAKYPBEKOVA"
+                }
+            ],
+            [
+                {
+                    "country": "KAZ",
+                    "name": "Ekaterina TOKAREVA"
+                },
+                {
+                    "country": "UZB",
+                    "name": "Nodira YULDASHEVA"
+                },
+                {
+                    "winner": "Ekaterina TOKAREVA"
+                }
+            ],
+            [
+                {
+                    "country": "KAZ",
+                    "name": "Perizat ZHAKYPBEKOVA"
+                },
+                {
+                    "country": "MGL",
+                    "name": "Enkhchimeg TSERENDULAM"
+                },
+                {
+                    "winner": "Enkhchimeg TSERENDULAM"
+                }
+            ],
+            [
+                {
+                    "country": "MGL",
+                    "name": "Enkhchimeg TSERENDULAM"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Perizat ZHAKYPBEKOVA",
+            "Ekaterina TOKAREVA"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "MGL",
+                    "name": "Enkhchimeg TSERENDULAM"
+                },
+                {
+                    "country": "CHN",
+                    "name": "Anqi SUN"
+                },
+                {
+                    "winner": "Anqi SUN"
+                }
+            ],
+            [
+                {
+                    "country": "UZB",
+                    "name": "Nodira YULDASHEVA"
+                },
+                {
+                    "country": "CHN",
+                    "name": "Yingying FENG"
+                },
+                {
+                    "winner": "Yingying FENG"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "CHN",
+                    "name": "Anqi SUN"
+                },
+                {
+                    "country": "CHN",
+                    "name": "Yingying FENG"
+                }
+            ]
+        ],
+        "final_winner": "Anqi SUN"
+    }
+}

@@ -1,0 +1,153 @@
+{
+    "POOL A": {
+        "round 1-1": [],
+        "final_winner": "Salimata FOFANA"
+    },
+    "POOL B": {
+        "round 1-1": [
+            [
+                {
+                    "country": "SEN",
+                    "name": "Leyla Aminata SONKO"
+                },
+                {
+                    "country": "ANG",
+                    "name": "Sonia LOURENCO"
+                }
+            ]
+        ],
+        "final_winner": "Leyla Aminata SONKO"
+    },
+    "POOL C": {
+        "round 1-1": [
+            [
+                {
+                    "country": "CMR",
+                    "name": "Marie Celine BABA MATIA"
+                },
+                {
+                    "country": "GBS",
+                    "name": "Irlene BAGINE"
+                }
+            ]
+        ],
+        "final_winner": "Marie Celine BABA MATIA"
+    },
+    "POOL D": {
+        "round 1-1": [
+            [
+                {
+                    "country": "SEN",
+                    "name": "Diodio SONKO"
+                },
+                {
+                    "country": "USA",
+                    "name": "Malia SOBERANO"
+                }
+            ]
+        ],
+        "final_winner": "Malia SOBERANO"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ANG",
+                    "name": "Sonia LOURENCO"
+                }
+            ],
+            [
+                {
+                    "country": "GBS",
+                    "name": "Irlene BAGINE"
+                },
+                {
+                    "country": "SEN",
+                    "name": "Diodio SONKO"
+                },
+                {
+                    "winner": "Diodio SONKO"
+                }
+            ],
+            [
+                {
+                    "country": "ANG",
+                    "name": "Sonia LOURENCO"
+                },
+                {
+                    "country": "USA",
+                    "name": "Malia SOBERANO"
+                },
+                {
+                    "winner": "Sonia LOURENCO"
+                }
+            ],
+            [
+                {
+                    "country": "SEN",
+                    "name": "Diodio SONKO"
+                },
+                {
+                    "country": "SEN",
+                    "name": "Leyla Aminata SONKO"
+                },
+                {
+                    "winner": "Leyla Aminata SONKO"
+                }
+            ],
+            [
+                {
+                    "country": "SEN",
+                    "name": "Leyla Aminata SONKO"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Diodio SONKO",
+            "Sonia LOURENCO"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CIV",
+                    "name": "Salimata FOFANA"
+                },
+                {
+                    "country": "SEN",
+                    "name": "Leyla Aminata SONKO"
+                },
+                {
+                    "winner": "Salimata FOFANA"
+                }
+            ],
+            [
+                {
+                    "country": "CMR",
+                    "name": "Marie Celine BABA MATIA"
+                },
+                {
+                    "country": "USA",
+                    "name": "Malia SOBERANO"
+                },
+                {
+                    "winner": "Marie Celine BABA MATIA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "CIV",
+                    "name": "Salimata FOFANA"
+                },
+                {
+                    "country": "CMR",
+                    "name": "Marie Celine BABA MATIA"
+                }
+            ]
+        ],
+        "final_winner": "Marie Celine BABA MATIA"
+    }
+}

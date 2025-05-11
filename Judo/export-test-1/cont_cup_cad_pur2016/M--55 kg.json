@@ -1,0 +1,135 @@
+{
+    "POOL A": {
+        "round 1-1": [
+            [
+                {
+                    "country": "PUR",
+                    "name": "Garcia JORGE"
+                },
+                {
+                    "country": "PUR",
+                    "name": "Jake GONZALEZ"
+                }
+            ]
+        ],
+        "final_winner": "Jake GONZALEZ"
+    },
+    "POOL B": {
+        "round 1-1": [],
+        "final_winner": "Lopez GERSON"
+    },
+    "POOL C": {
+        "round 1-1": [],
+        "final_winner": "Ian SANDOVAL"
+    },
+    "POOL D": {
+        "round 1-1": [
+            [
+                {
+                    "country": "PUR",
+                    "name": "Kuilan YAVIED"
+                },
+                {
+                    "country": "PUR",
+                    "name": "Kenneth ROSA"
+                }
+            ]
+        ],
+        "final_winner": "Kenneth ROSA"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "PUR",
+                    "name": "Garcia JORGE"
+                }
+            ],
+            [
+                {
+                    "country": "PUR",
+                    "name": "Kuilan YAVIED"
+                }
+            ],
+            [
+                {
+                    "country": "PUR",
+                    "name": "Garcia JORGE"
+                },
+                {
+                    "country": "PUR",
+                    "name": "Kenneth ROSA"
+                },
+                {
+                    "winner": "Kenneth ROSA"
+                }
+            ],
+            [
+                {
+                    "country": "PUR",
+                    "name": "Kuilan YAVIED"
+                },
+                {
+                    "country": "PUR",
+                    "name": "Lopez GERSON"
+                },
+                {
+                    "winner": "Kuilan YAVIED"
+                }
+            ],
+            [
+                {
+                    "country": "PUR",
+                    "name": "Kenneth ROSA"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Kuilan YAVIED",
+            "Kenneth ROSA"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "PUR",
+                    "name": "Jake GONZALEZ"
+                },
+                {
+                    "country": "PUR",
+                    "name": "Lopez GERSON"
+                },
+                {
+                    "winner": "Jake GONZALEZ"
+                }
+            ],
+            [
+                {
+                    "country": "PUR",
+                    "name": "Ian SANDOVAL"
+                },
+                {
+                    "country": "PUR",
+                    "name": "Kenneth ROSA"
+                },
+                {
+                    "winner": "Ian SANDOVAL"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "PUR",
+                    "name": "Jake GONZALEZ"
+                },
+                {
+                    "country": "PUR",
+                    "name": "Ian SANDOVAL"
+                }
+            ]
+        ],
+        "final_winner": "Jake GONZALEZ"
+    }
+}

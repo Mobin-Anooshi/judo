@@ -1,0 +1,68 @@
+{
+    "ROUND 1": {
+        "round 1-2": [
+            [
+                {
+                    "country": "PER",
+                    "name": "Javier SAAVEDRA"
+                },
+                {
+                    "country": "MEX",
+                    "name": "Gabriel LARA"
+                },
+                {
+                    "winner": "Javier SAAVEDRA"
+                }
+            ],
+            [
+                {
+                    "country": "MEX",
+                    "name": "Jeremy OLIVARES"
+                },
+                {
+                    "country": "PAR",
+                    "name": "Diego NOGUERA"
+                },
+                {
+                    "winner": "Jeremy OLIVARES"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Javier SAAVEDRA",
+            "Jeremy OLIVARES"
+        ]
+    },
+    "REPECHAGE": {
+        "round 1-1": [
+            [
+                {
+                    "country": "MEX",
+                    "name": "Gabriel LARA"
+                },
+                {
+                    "country": "PAR",
+                    "name": "Diego NOGUERA"
+                },
+                {
+                    "winner": "Gabriel LARA"
+                }
+            ],
+            [
+                {
+                    "country": "MEX",
+                    "name": "Gabriel LARA"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Gabriel LARA"
+        ]
+    },
+    "FINALS": {
+        "round 1-1": [],
+        "final_winners": [
+            "Javier SAAVEDRA"
+        ]
+    }
+}

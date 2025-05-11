@@ -1,0 +1,177 @@
+{
+    "POOL A": {
+        "round 1-1": [
+            [
+                {
+                    "country": "MRI",
+                    "name": "Priscilla MORAND"
+                },
+                {
+                    "country": "USA",
+                    "name": "Kaycie TANIMOTO"
+                }
+            ]
+        ],
+        "final_winner": "Priscilla MORAND"
+    },
+    "POOL B": {
+        "round 1-1": [
+            [
+                {
+                    "country": "USA",
+                    "name": "Anne SUZUKI"
+                },
+                {
+                    "country": "COL",
+                    "name": "Maryury URENA"
+                }
+            ]
+        ],
+        "final_winner": "Anne SUZUKI"
+    },
+    "POOL C": {
+        "round 1-1": [
+            [
+                {
+                    "country": "GUA",
+                    "name": "Jacqueline SOLIS"
+                },
+                {
+                    "country": "USA",
+                    "name": "Anat TSYRLIN"
+                }
+            ]
+        ],
+        "final_winner": "Jacqueline SOLIS"
+    },
+    "POOL D": {
+        "round 1-1": [
+            [
+                {
+                    "country": "VIE",
+                    "name": "Thi Tinh HOANG"
+                },
+                {
+                    "country": "CHI",
+                    "name": "Martina DIAZ"
+                }
+            ]
+        ],
+        "final_winner": "Thi Tinh HOANG"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "USA",
+                    "name": "Kaycie TANIMOTO"
+                },
+                {
+                    "country": "COL",
+                    "name": "Maryury URENA"
+                },
+                {
+                    "winner": "Maryury URENA"
+                }
+            ],
+            [
+                {
+                    "country": "USA",
+                    "name": "Anat TSYRLIN"
+                },
+                {
+                    "country": "CHI",
+                    "name": "Martina DIAZ"
+                },
+                {
+                    "winner": "Anat TSYRLIN"
+                }
+            ],
+            [
+                {
+                    "country": "COL",
+                    "name": "Maryury URENA"
+                },
+                {
+                    "country": "GUA",
+                    "name": "Jacqueline SOLIS"
+                },
+                {
+                    "winner": "Jacqueline SOLIS"
+                }
+            ],
+            [
+                {
+                    "country": "USA",
+                    "name": "Anat TSYRLIN"
+                },
+                {
+                    "country": "USA",
+                    "name": "Anne SUZUKI"
+                },
+                {
+                    "winner": "Anne SUZUKI"
+                }
+            ],
+            [
+                {
+                    "country": "GUA",
+                    "name": "Jacqueline SOLIS"
+                }
+            ],
+            [
+                {
+                    "country": "USA",
+                    "name": "Anne SUZUKI"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Jacqueline SOLIS",
+            "Anne SUZUKI"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "MRI",
+                    "name": "Priscilla MORAND"
+                },
+                {
+                    "country": "USA",
+                    "name": "Anne SUZUKI"
+                },
+                {
+                    "winner": "Priscilla MORAND"
+                }
+            ],
+            [
+                {
+                    "country": "GUA",
+                    "name": "Jacqueline SOLIS"
+                },
+                {
+                    "country": "VIE",
+                    "name": "Thi Tinh HOANG"
+                },
+                {
+                    "winner": "Thi Tinh HOANG"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "MRI",
+                    "name": "Priscilla MORAND"
+                },
+                {
+                    "country": "VIE",
+                    "name": "Thi Tinh HOANG"
+                }
+            ]
+        ],
+        "final_winner": "Thi Tinh HOANG"
+    }
+}

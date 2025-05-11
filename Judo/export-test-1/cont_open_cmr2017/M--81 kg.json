@@ -1,0 +1,177 @@
+{
+    "POOL A": {
+        "round 1-1": [
+            [
+                {
+                    "country": "SEN",
+                    "name": "Saliou NDIAYE"
+                },
+                {
+                    "country": "CMR",
+                    "name": "Franck Xavier TADJUKA FONTSOP"
+                }
+            ]
+        ],
+        "final_winner": "Saliou NDIAYE"
+    },
+    "POOL B": {
+        "round 1-1": [
+            [
+                {
+                    "country": "CMR",
+                    "name": "Aldo Gildas KWUSSEU TCHANA"
+                },
+                {
+                    "country": "CMR",
+                    "name": "Armel TOTOUM BOGNE"
+                }
+            ]
+        ],
+        "final_winner": "Armel TOTOUM BOGNE"
+    },
+    "POOL C": {
+        "round 1-1": [
+            [
+                {
+                    "country": "CMR",
+                    "name": "Franck BELL NGINDJEL"
+                },
+                {
+                    "country": "CMR",
+                    "name": "Fabrice rodrigue AKONO AKONO"
+                }
+            ]
+        ],
+        "final_winner": "Franck BELL NGINDJEL"
+    },
+    "POOL D": {
+        "round 1-1": [
+            [
+                {
+                    "country": "CMR",
+                    "name": "Willy Marvel NGOUOZEU MOYO"
+                },
+                {
+                    "country": "LUX",
+                    "name": "Bilgee BAYANAA"
+                }
+            ]
+        ],
+        "final_winner": "Willy Marvel NGOUOZEU MOYO"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CMR",
+                    "name": "Franck Xavier TADJUKA FONTSOP"
+                },
+                {
+                    "country": "CMR",
+                    "name": "Aldo Gildas KWUSSEU TCHANA"
+                },
+                {
+                    "winner": "Franck Xavier TADJUKA FONTSOP"
+                }
+            ],
+            [
+                {
+                    "country": "CMR",
+                    "name": "Fabrice rodrigue AKONO AKONO"
+                },
+                {
+                    "country": "LUX",
+                    "name": "Bilgee BAYANAA"
+                },
+                {
+                    "winner": "Bilgee BAYANAA"
+                }
+            ],
+            [
+                {
+                    "country": "CMR",
+                    "name": "Franck Xavier TADJUKA FONTSOP"
+                },
+                {
+                    "country": "CMR",
+                    "name": "Willy Marvel NGOUOZEU MOYO"
+                },
+                {
+                    "winner": "Willy Marvel NGOUOZEU MOYO"
+                }
+            ],
+            [
+                {
+                    "country": "LUX",
+                    "name": "Bilgee BAYANAA"
+                },
+                {
+                    "country": "CMR",
+                    "name": "Armel TOTOUM BOGNE"
+                },
+                {
+                    "winner": "Bilgee BAYANAA"
+                }
+            ],
+            [
+                {
+                    "country": "CMR",
+                    "name": "Willy Marvel NGOUOZEU MOYO"
+                }
+            ],
+            [
+                {
+                    "country": "LUX",
+                    "name": "Bilgee BAYANAA"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Willy Marvel NGOUOZEU MOYO",
+            "Bilgee BAYANAA"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "SEN",
+                    "name": "Saliou NDIAYE"
+                },
+                {
+                    "country": "CMR",
+                    "name": "Armel TOTOUM BOGNE"
+                },
+                {
+                    "winner": "Saliou NDIAYE"
+                }
+            ],
+            [
+                {
+                    "country": "CMR",
+                    "name": "Franck BELL NGINDJEL"
+                },
+                {
+                    "country": "CMR",
+                    "name": "Willy Marvel NGOUOZEU MOYO"
+                },
+                {
+                    "winner": "Franck BELL NGINDJEL"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "SEN",
+                    "name": "Saliou NDIAYE"
+                },
+                {
+                    "country": "CMR",
+                    "name": "Franck BELL NGINDJEL"
+                }
+            ]
+        ],
+        "final_winner": "Saliou NDIAYE"
+    }
+}

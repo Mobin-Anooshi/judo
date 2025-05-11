@@ -1,0 +1,141 @@
+{
+    "POOL A": {
+        "round 1-1": [],
+        "final_winner": "Natalie POWELL"
+    },
+    "POOL B": {
+        "round 1-1": [
+            [
+                {
+                    "country": "MEX",
+                    "name": "Liliana CARDENAS"
+                },
+                {
+                    "country": "IJF",
+                    "name": "Karen LEON"
+                }
+            ]
+        ],
+        "final_winner": "Karen LEON"
+    },
+    "POOL C": {
+        "round 1-1": [],
+        "final_winner": "Mayra AGUIAR"
+    },
+    "POOL D": {
+        "round 1-1": [
+            [
+                {
+                    "country": "CUB",
+                    "name": "Kaliema ANTOMARCHI"
+                },
+                {
+                    "country": "CHI",
+                    "name": "Jacqueline USNAYO"
+                }
+            ]
+        ],
+        "final_winner": "Kaliema ANTOMARCHI"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "MEX",
+                    "name": "Liliana CARDENAS"
+                }
+            ],
+            [
+                {
+                    "country": "CHI",
+                    "name": "Jacqueline USNAYO"
+                }
+            ],
+            [
+                {
+                    "country": "MEX",
+                    "name": "Liliana CARDENAS"
+                },
+                {
+                    "country": "CUB",
+                    "name": "Kaliema ANTOMARCHI"
+                },
+                {
+                    "winner": "Kaliema ANTOMARCHI"
+                }
+            ],
+            [
+                {
+                    "country": "CHI",
+                    "name": "Jacqueline USNAYO"
+                },
+                {
+                    "country": "IJF",
+                    "name": "Karen LEON"
+                },
+                {
+                    "winner": "Karen LEON"
+                }
+            ],
+            [
+                {
+                    "country": "CUB",
+                    "name": "Kaliema ANTOMARCHI"
+                }
+            ],
+            [
+                {
+                    "country": "IJF",
+                    "name": "Karen LEON"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Kaliema ANTOMARCHI",
+            "Karen LEON"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "GBR",
+                    "name": "Natalie POWELL"
+                },
+                {
+                    "country": "IJF",
+                    "name": "Karen LEON"
+                },
+                {
+                    "winner": "Natalie POWELL"
+                }
+            ],
+            [
+                {
+                    "country": "BRA",
+                    "name": "Mayra AGUIAR"
+                },
+                {
+                    "country": "CUB",
+                    "name": "Kaliema ANTOMARCHI"
+                },
+                {
+                    "winner": "Mayra AGUIAR"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "GBR",
+                    "name": "Natalie POWELL"
+                },
+                {
+                    "country": "BRA",
+                    "name": "Mayra AGUIAR"
+                }
+            ]
+        ],
+        "final_winner": "Mayra AGUIAR"
+    }
+}

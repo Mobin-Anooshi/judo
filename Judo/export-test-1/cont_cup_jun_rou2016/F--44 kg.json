@@ -1,0 +1,261 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "BUL",
+                    "name": "Tsvetelina TSVETANOVA"
+                },
+                {
+                    "winner": "Tsvetelina TSVETANOVA"
+                }
+            ],
+            [
+                {
+                    "country": "ROU",
+                    "name": "Carmen SZATMARY"
+                },
+                {
+                    "winner": "Carmen SZATMARY"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "BUL",
+                    "name": "Tsvetelina TSVETANOVA"
+                },
+                {
+                    "country": "ROU",
+                    "name": "Carmen SZATMARY"
+                }
+            ]
+        ],
+        "final_winner": "Carmen SZATMARY"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "MNE",
+                    "name": "Ivana NIKOLIC"
+                },
+                {
+                    "winner": "Ivana NIKOLIC"
+                }
+            ],
+            [
+                {
+                    "country": "ROU",
+                    "name": "Melania CALFA"
+                },
+                {
+                    "winner": "Melania CALFA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "MNE",
+                    "name": "Ivana NIKOLIC"
+                },
+                {
+                    "country": "ROU",
+                    "name": "Melania CALFA"
+                }
+            ]
+        ],
+        "final_winner": "Ivana NIKOLIC"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ROU",
+                    "name": "Mihaela CHISS"
+                },
+                {
+                    "winner": "Mihaela CHISS"
+                }
+            ],
+            [
+                {
+                    "country": "GBR",
+                    "name": "Jaime-leigh WHITAKER"
+                },
+                {
+                    "winner": "Jaime-leigh WHITAKER"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "ROU",
+                    "name": "Mihaela CHISS"
+                },
+                {
+                    "country": "GBR",
+                    "name": "Jaime-leigh WHITAKER"
+                }
+            ]
+        ],
+        "final_winner": "Mihaela CHISS"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CYP",
+                    "name": "Vasiliki KOURRI"
+                },
+                {
+                    "winner": "Vasiliki KOURRI"
+                }
+            ],
+            []
+        ],
+        "round 1-1": [],
+        "final_winner": "Vasiliki KOURRI"
+    },
+    "REPECHAGE": {
+        "round 1-4": [
+            [
+                {
+                    "country": "BUL",
+                    "name": "Tsvetelina TSVETANOVA"
+                },
+                {
+                    "winner": "Tsvetelina TSVETANOVA"
+                }
+            ],
+            [
+                {
+                    "country": "ROU",
+                    "name": "Melania CALFA"
+                },
+                {
+                    "winner": "Melania CALFA"
+                }
+            ],
+            [
+                {
+                    "country": "GBR",
+                    "name": "Jaime-leigh WHITAKER"
+                },
+                {
+                    "winner": "Jaime-leigh WHITAKER"
+                }
+            ],
+            []
+        ],
+        "round 1-2": [
+            [
+                {
+                    "country": "BUL",
+                    "name": "Tsvetelina TSVETANOVA"
+                },
+                {
+                    "country": "ROU",
+                    "name": "Melania CALFA"
+                },
+                {
+                    "winner": "Melania CALFA"
+                }
+            ],
+            [
+                {
+                    "country": "GBR",
+                    "name": "Jaime-leigh WHITAKER"
+                }
+            ],
+            [
+                {
+                    "country": "ROU",
+                    "name": "Melania CALFA"
+                },
+                {
+                    "country": "ROU",
+                    "name": "Mihaela CHISS"
+                },
+                {
+                    "winner": "Mihaela CHISS"
+                }
+            ],
+            [
+                {
+                    "country": "GBR",
+                    "name": "Jaime-leigh WHITAKER"
+                },
+                {
+                    "country": "ROU",
+                    "name": "Carmen SZATMARY"
+                },
+                {
+                    "winner": "Carmen SZATMARY"
+                }
+            ],
+            [
+                {
+                    "country": "ROU",
+                    "name": "Mihaela CHISS"
+                }
+            ],
+            [
+                {
+                    "country": "ROU",
+                    "name": "Carmen SZATMARY"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Mihaela CHISS",
+            "Carmen SZATMARY"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ROU",
+                    "name": "Carmen SZATMARY"
+                },
+                {
+                    "country": "MNE",
+                    "name": "Ivana NIKOLIC"
+                },
+                {
+                    "winner": "Ivana NIKOLIC"
+                }
+            ],
+            [
+                {
+                    "country": "ROU",
+                    "name": "Mihaela CHISS"
+                },
+                {
+                    "country": "CYP",
+                    "name": "Vasiliki KOURRI"
+                },
+                {
+                    "winner": "Vasiliki KOURRI"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "MNE",
+                    "name": "Ivana NIKOLIC"
+                },
+                {
+                    "country": "CYP",
+                    "name": "Vasiliki KOURRI"
+                }
+            ]
+        ],
+        "final_winner": "Vasiliki KOURRI"
+    }
+}

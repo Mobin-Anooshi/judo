@@ -1,0 +1,159 @@
+{
+    "POOL A": {
+        "round 1-1": [],
+        "final_winner": "Jose NOVA ALCANTARA"
+    },
+    "POOL B": {
+        "round 1-1": [
+            [
+                {
+                    "country": "CAN",
+                    "name": "Shady ELNAHAS"
+                },
+                {
+                    "country": "DOM",
+                    "name": "Jesse Francisco DE LEON DE LA CRUZ"
+                }
+            ]
+        ],
+        "final_winner": "Shady ELNAHAS"
+    },
+    "POOL C": {
+        "round 1-1": [
+            [
+                {
+                    "country": "DOM",
+                    "name": "Lewis MEDINA"
+                },
+                {
+                    "country": "PER",
+                    "name": "Jose Luis ARROYO OSORIO"
+                }
+            ]
+        ],
+        "final_winner": "Lewis MEDINA"
+    },
+    "POOL D": {
+        "round 1-1": [
+            [
+                {
+                    "country": "USA",
+                    "name": "Nathaniel KEEVE"
+                },
+                {
+                    "country": "USA",
+                    "name": "Andrew JACOBS"
+                }
+            ]
+        ],
+        "final_winner": "Andrew JACOBS"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "DOM",
+                    "name": "Jesse Francisco DE LEON DE LA CRUZ"
+                }
+            ],
+            [
+                {
+                    "country": "PER",
+                    "name": "Jose Luis ARROYO OSORIO"
+                },
+                {
+                    "country": "USA",
+                    "name": "Nathaniel KEEVE"
+                },
+                {
+                    "winner": "Jose Luis ARROYO OSORIO"
+                }
+            ],
+            [
+                {
+                    "country": "DOM",
+                    "name": "Jesse Francisco DE LEON DE LA CRUZ"
+                },
+                {
+                    "country": "USA",
+                    "name": "Andrew JACOBS"
+                },
+                {
+                    "winner": "Andrew JACOBS"
+                }
+            ],
+            [
+                {
+                    "country": "PER",
+                    "name": "Jose Luis ARROYO OSORIO"
+                },
+                {
+                    "country": "DOM",
+                    "name": "Jose NOVA ALCANTARA"
+                },
+                {
+                    "winner": "Jose NOVA ALCANTARA"
+                }
+            ],
+            [
+                {
+                    "country": "USA",
+                    "name": "Andrew JACOBS"
+                }
+            ],
+            [
+                {
+                    "country": "DOM",
+                    "name": "Jose NOVA ALCANTARA"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Andrew JACOBS",
+            "Jose NOVA ALCANTARA"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "DOM",
+                    "name": "Jose NOVA ALCANTARA"
+                },
+                {
+                    "country": "CAN",
+                    "name": "Shady ELNAHAS"
+                },
+                {
+                    "winner": "Shady ELNAHAS"
+                }
+            ],
+            [
+                {
+                    "country": "DOM",
+                    "name": "Lewis MEDINA"
+                },
+                {
+                    "country": "USA",
+                    "name": "Andrew JACOBS"
+                },
+                {
+                    "winner": "Lewis MEDINA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "CAN",
+                    "name": "Shady ELNAHAS"
+                },
+                {
+                    "country": "DOM",
+                    "name": "Lewis MEDINA"
+                }
+            ]
+        ],
+        "final_winner": "Shady ELNAHAS"
+    }
+}

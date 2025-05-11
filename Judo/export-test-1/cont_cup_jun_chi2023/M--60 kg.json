@@ -1,0 +1,159 @@
+{
+    "POOL A": {
+        "round 1-1": [],
+        "final_winner": "Jose QUINTA"
+    },
+    "POOL B": {
+        "round 1-1": [
+            [
+                {
+                    "country": "CHI",
+                    "name": "Jesus LEON"
+                },
+                {
+                    "country": "CHI",
+                    "name": "Agustin OSSES"
+                }
+            ]
+        ],
+        "final_winner": "Jesus LEON"
+    },
+    "POOL C": {
+        "round 1-1": [
+            [
+                {
+                    "country": "PAR",
+                    "name": "Mateo CABRAL"
+                },
+                {
+                    "country": "CHI",
+                    "name": "Francisco CHAVEZ"
+                }
+            ]
+        ],
+        "final_winner": "Mateo CABRAL"
+    },
+    "POOL D": {
+        "round 1-1": [
+            [
+                {
+                    "country": "CHI",
+                    "name": "Jhan CATALAN"
+                },
+                {
+                    "country": "COL",
+                    "name": "Jean Carlos MALDONADO"
+                }
+            ]
+        ],
+        "final_winner": "Jhan CATALAN"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CHI",
+                    "name": "Agustin OSSES"
+                }
+            ],
+            [
+                {
+                    "country": "CHI",
+                    "name": "Francisco CHAVEZ"
+                },
+                {
+                    "country": "COL",
+                    "name": "Jean Carlos MALDONADO"
+                },
+                {
+                    "winner": "Jean Carlos MALDONADO"
+                }
+            ],
+            [
+                {
+                    "country": "CHI",
+                    "name": "Agustin OSSES"
+                },
+                {
+                    "country": "CHI",
+                    "name": "Jhan CATALAN"
+                },
+                {
+                    "winner": "Jhan CATALAN"
+                }
+            ],
+            [
+                {
+                    "country": "COL",
+                    "name": "Jean Carlos MALDONADO"
+                },
+                {
+                    "country": "CHI",
+                    "name": "Jesus LEON"
+                },
+                {
+                    "winner": "Jean Carlos MALDONADO"
+                }
+            ],
+            [
+                {
+                    "country": "CHI",
+                    "name": "Jhan CATALAN"
+                }
+            ],
+            [
+                {
+                    "country": "COL",
+                    "name": "Jean Carlos MALDONADO"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Jhan CATALAN",
+            "Jean Carlos MALDONADO"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "MEX",
+                    "name": "Jose QUINTA"
+                },
+                {
+                    "country": "CHI",
+                    "name": "Jesus LEON"
+                },
+                {
+                    "winner": "Jose QUINTA"
+                }
+            ],
+            [
+                {
+                    "country": "PAR",
+                    "name": "Mateo CABRAL"
+                },
+                {
+                    "country": "CHI",
+                    "name": "Jhan CATALAN"
+                },
+                {
+                    "winner": "Mateo CABRAL"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "MEX",
+                    "name": "Jose QUINTA"
+                },
+                {
+                    "country": "PAR",
+                    "name": "Mateo CABRAL"
+                }
+            ]
+        ],
+        "final_winner": "Jose QUINTA"
+    }
+}

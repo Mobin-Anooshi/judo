@@ -1,0 +1,141 @@
+{
+    "POOL A": {
+        "round 1-1": [],
+        "final_winner": "Gimena LAFFEUILLADE"
+    },
+    "POOL B": {
+        "round 1-1": [
+            [
+                {
+                    "country": "DOM",
+                    "name": "Ana ROSA"
+                },
+                {
+                    "country": "USA",
+                    "name": "Sara GOLDEN"
+                }
+            ]
+        ],
+        "final_winner": "Ana ROSA"
+    },
+    "POOL C": {
+        "round 1-1": [],
+        "final_winner": "Tamires CRUDE"
+    },
+    "POOL D": {
+        "round 1-1": [
+            [
+                {
+                    "country": "PER",
+                    "name": "Karen CORNEJO"
+                },
+                {
+                    "country": "USA",
+                    "name": "Mariah HOLGUIN"
+                }
+            ]
+        ],
+        "final_winner": "Mariah HOLGUIN"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "USA",
+                    "name": "Sara GOLDEN"
+                }
+            ],
+            [
+                {
+                    "country": "PER",
+                    "name": "Karen CORNEJO"
+                }
+            ],
+            [
+                {
+                    "country": "USA",
+                    "name": "Sara GOLDEN"
+                },
+                {
+                    "country": "USA",
+                    "name": "Mariah HOLGUIN"
+                },
+                {
+                    "winner": "Mariah HOLGUIN"
+                }
+            ],
+            [
+                {
+                    "country": "PER",
+                    "name": "Karen CORNEJO"
+                },
+                {
+                    "country": "DOM",
+                    "name": "Ana ROSA"
+                },
+                {
+                    "winner": "Ana ROSA"
+                }
+            ],
+            [
+                {
+                    "country": "USA",
+                    "name": "Mariah HOLGUIN"
+                }
+            ],
+            [
+                {
+                    "country": "DOM",
+                    "name": "Ana ROSA"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Mariah HOLGUIN",
+            "Ana ROSA"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ARG",
+                    "name": "Gimena LAFFEUILLADE"
+                },
+                {
+                    "country": "DOM",
+                    "name": "Ana ROSA"
+                },
+                {
+                    "winner": "Gimena LAFFEUILLADE"
+                }
+            ],
+            [
+                {
+                    "country": "BRA",
+                    "name": "Tamires CRUDE"
+                },
+                {
+                    "country": "USA",
+                    "name": "Mariah HOLGUIN"
+                },
+                {
+                    "winner": "Tamires CRUDE"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "ARG",
+                    "name": "Gimena LAFFEUILLADE"
+                },
+                {
+                    "country": "BRA",
+                    "name": "Tamires CRUDE"
+                }
+            ]
+        ],
+        "final_winner": "Tamires CRUDE"
+    }
+}

@@ -1,0 +1,285 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "SRB",
+                    "name": "Igor VRACAR"
+                },
+                {
+                    "winner": "Igor VRACAR"
+                }
+            ],
+            [
+                {
+                    "country": "AUT",
+                    "name": "Stephan HEGYI"
+                },
+                {
+                    "country": "EST",
+                    "name": "Marek-Adrian MASAK"
+                },
+                {
+                    "winner": "Stephan HEGYI"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "SRB",
+                    "name": "Igor VRACAR"
+                },
+                {
+                    "country": "AUT",
+                    "name": "Stephan HEGYI"
+                }
+            ]
+        ],
+        "final_winner": "Igor VRACAR"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "MNE",
+                    "name": "Anto DUBRETA"
+                },
+                {
+                    "country": "CRO",
+                    "name": "Mikita SVIRYD"
+                },
+                {
+                    "winner": "Mikita SVIRYD"
+                }
+            ],
+            [
+                {
+                    "country": "HUN",
+                    "name": "Mihaly CSERKASZOV"
+                },
+                {
+                    "country": "UKR",
+                    "name": "Yaroslav OMELCHENKO"
+                },
+                {
+                    "winner": "Mihaly CSERKASZOV"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "CRO",
+                    "name": "Mikita SVIRYD"
+                },
+                {
+                    "country": "HUN",
+                    "name": "Mihaly CSERKASZOV"
+                }
+            ]
+        ],
+        "final_winner": "Mikita SVIRYD"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CHI",
+                    "name": "Francisco SOLIS"
+                },
+                {
+                    "country": "SLO",
+                    "name": "Blaz VRANKAR"
+                },
+                {
+                    "winner": "Francisco SOLIS"
+                }
+            ],
+            [
+                {
+                    "country": "ROU",
+                    "name": "Eduard SERBAN"
+                },
+                {
+                    "country": "HUN",
+                    "name": "Janos BALOGH"
+                },
+                {
+                    "winner": "Eduard SERBAN"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "CHI",
+                    "name": "Francisco SOLIS"
+                },
+                {
+                    "country": "ROU",
+                    "name": "Eduard SERBAN"
+                }
+            ]
+        ],
+        "final_winner": "Francisco SOLIS"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "POL",
+                    "name": "Grzegorz TERESINSKI"
+                },
+                {
+                    "country": "BEL",
+                    "name": "Yves NDAO"
+                },
+                {
+                    "winner": "Yves NDAO"
+                }
+            ],
+            [
+                {
+                    "country": "UKR",
+                    "name": "Mykola HRYBYK"
+                },
+                {
+                    "country": "HUN",
+                    "name": "Levente DOBOS"
+                },
+                {
+                    "winner": "Mykola HRYBYK"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "BEL",
+                    "name": "Yves NDAO"
+                },
+                {
+                    "country": "UKR",
+                    "name": "Mykola HRYBYK"
+                }
+            ]
+        ],
+        "final_winner": "Mykola HRYBYK"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "AUT",
+                    "name": "Stephan HEGYI"
+                },
+                {
+                    "country": "HUN",
+                    "name": "Mihaly CSERKASZOV"
+                },
+                {
+                    "winner": "Stephan HEGYI"
+                }
+            ],
+            [
+                {
+                    "country": "ROU",
+                    "name": "Eduard SERBAN"
+                },
+                {
+                    "country": "BEL",
+                    "name": "Yves NDAO"
+                },
+                {
+                    "winner": "Yves NDAO"
+                }
+            ],
+            [
+                {
+                    "country": "AUT",
+                    "name": "Stephan HEGYI"
+                },
+                {
+                    "country": "UKR",
+                    "name": "Mykola HRYBYK"
+                },
+                {
+                    "winner": "Stephan HEGYI"
+                }
+            ],
+            [
+                {
+                    "country": "BEL",
+                    "name": "Yves NDAO"
+                },
+                {
+                    "country": "SRB",
+                    "name": "Igor VRACAR"
+                },
+                {
+                    "winner": "Yves NDAO"
+                }
+            ],
+            [
+                {
+                    "country": "AUT",
+                    "name": "Stephan HEGYI"
+                }
+            ],
+            [
+                {
+                    "country": "BEL",
+                    "name": "Yves NDAO"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Stephan HEGYI",
+            "Yves NDAO"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "SRB",
+                    "name": "Igor VRACAR"
+                },
+                {
+                    "country": "CRO",
+                    "name": "Mikita SVIRYD"
+                },
+                {
+                    "winner": "Mikita SVIRYD"
+                }
+            ],
+            [
+                {
+                    "country": "CHI",
+                    "name": "Francisco SOLIS"
+                },
+                {
+                    "country": "UKR",
+                    "name": "Mykola HRYBYK"
+                },
+                {
+                    "winner": "Francisco SOLIS"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "CRO",
+                    "name": "Mikita SVIRYD"
+                },
+                {
+                    "country": "CHI",
+                    "name": "Francisco SOLIS"
+                }
+            ]
+        ],
+        "final_winner": "Francisco SOLIS"
+    }
+}

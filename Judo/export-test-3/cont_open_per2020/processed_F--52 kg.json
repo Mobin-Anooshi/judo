@@ -1,0 +1,68 @@
+{
+    "ROUND 1": {
+        "round 1-2": [
+            [
+                {
+                    "country": "MEX",
+                    "name": "Luz OLVERA"
+                },
+                {
+                    "country": "USA",
+                    "name": "Sofia CAPRON"
+                },
+                {
+                    "winner": "Luz OLVERA"
+                }
+            ],
+            [
+                {
+                    "country": "PER",
+                    "name": "Brillith GAMARRA"
+                },
+                {
+                    "country": "USA",
+                    "name": "Katelyn JARRELL"
+                },
+                {
+                    "winner": "Katelyn JARRELL"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Luz OLVERA",
+            "Katelyn JARRELL"
+        ]
+    },
+    "REPECHAGE": {
+        "round 1-1": [
+            [
+                {
+                    "country": "USA",
+                    "name": "Sofia CAPRON"
+                },
+                {
+                    "country": "PER",
+                    "name": "Brillith GAMARRA"
+                },
+                {
+                    "winner": "Brillith GAMARRA"
+                }
+            ],
+            [
+                {
+                    "country": "PER",
+                    "name": "Brillith GAMARRA"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Brillith GAMARRA"
+        ]
+    },
+    "FINALS": {
+        "round 1-1": [],
+        "final_winners": [
+            "Katelyn JARRELL"
+        ]
+    }
+}

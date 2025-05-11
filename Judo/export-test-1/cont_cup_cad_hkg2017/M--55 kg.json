@@ -1,0 +1,257 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "MGL",
+                    "name": "Sukhbat BYAMBASUREN"
+                },
+                {
+                    "winner": "Sukhbat BYAMBASUREN"
+                }
+            ],
+            [
+                {
+                    "country": "MAC",
+                    "name": "Iek lok CHAN"
+                },
+                {
+                    "winner": "Iek lok CHAN"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "MGL",
+                    "name": "Sukhbat BYAMBASUREN"
+                },
+                {
+                    "country": "MAC",
+                    "name": "Iek lok CHAN"
+                }
+            ]
+        ],
+        "final_winner": "Iek lok CHAN"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "KOR",
+                    "name": "Jihyung LEE"
+                },
+                {
+                    "winner": "Jihyung LEE"
+                }
+            ],
+            [
+                {
+                    "country": "HKG",
+                    "name": "Hiu Fung LEUNG"
+                },
+                {
+                    "winner": "Hiu Fung LEUNG"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "KOR",
+                    "name": "Jihyung LEE"
+                },
+                {
+                    "country": "HKG",
+                    "name": "Hiu Fung LEUNG"
+                }
+            ]
+        ],
+        "final_winner": "Hiu Fung LEUNG"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "MAC",
+                    "name": "Chi in LEI"
+                },
+                {
+                    "winner": "Chi in LEI"
+                }
+            ],
+            [
+                {
+                    "country": "MGL",
+                    "name": "Temuujin GANBURGED"
+                },
+                {
+                    "winner": "Temuujin GANBURGED"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "MAC",
+                    "name": "Chi in LEI"
+                },
+                {
+                    "country": "MGL",
+                    "name": "Temuujin GANBURGED"
+                }
+            ]
+        ],
+        "final_winner": "Chi in LEI"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "UAE",
+                    "name": "Ahmed AL HOSANI"
+                },
+                {
+                    "winner": "Ahmed AL HOSANI"
+                }
+            ],
+            [
+                {
+                    "country": "HKG",
+                    "name": "Chung Hei CHAN"
+                },
+                {
+                    "winner": "Chung Hei CHAN"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "UAE",
+                    "name": "Ahmed AL HOSANI"
+                },
+                {
+                    "country": "HKG",
+                    "name": "Chung Hei CHAN"
+                }
+            ]
+        ],
+        "final_winner": "Ahmed AL HOSANI"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "MGL",
+                    "name": "Sukhbat BYAMBASUREN"
+                },
+                {
+                    "country": "KOR",
+                    "name": "Jihyung LEE"
+                },
+                {
+                    "winner": "Sukhbat BYAMBASUREN"
+                }
+            ],
+            [
+                {
+                    "country": "MGL",
+                    "name": "Temuujin GANBURGED"
+                },
+                {
+                    "country": "HKG",
+                    "name": "Chung Hei CHAN"
+                },
+                {
+                    "winner": "Chung Hei CHAN"
+                }
+            ],
+            [
+                {
+                    "country": "MGL",
+                    "name": "Sukhbat BYAMBASUREN"
+                },
+                {
+                    "country": "UAE",
+                    "name": "Ahmed AL HOSANI"
+                },
+                {
+                    "winner": "Ahmed AL HOSANI"
+                }
+            ],
+            [
+                {
+                    "country": "HKG",
+                    "name": "Chung Hei CHAN"
+                },
+                {
+                    "country": "MAC",
+                    "name": "Iek lok CHAN"
+                },
+                {
+                    "winner": "Iek lok CHAN"
+                }
+            ],
+            [
+                {
+                    "country": "UAE",
+                    "name": "Ahmed AL HOSANI"
+                }
+            ],
+            [
+                {
+                    "country": "MAC",
+                    "name": "Iek lok CHAN"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Ahmed AL HOSANI",
+            "Iek lok CHAN"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "MAC",
+                    "name": "Iek lok CHAN"
+                },
+                {
+                    "country": "HKG",
+                    "name": "Hiu Fung LEUNG"
+                },
+                {
+                    "winner": "Hiu Fung LEUNG"
+                }
+            ],
+            [
+                {
+                    "country": "MAC",
+                    "name": "Chi in LEI"
+                },
+                {
+                    "country": "UAE",
+                    "name": "Ahmed AL HOSANI"
+                },
+                {
+                    "winner": "Chi in LEI"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "HKG",
+                    "name": "Hiu Fung LEUNG"
+                },
+                {
+                    "country": "MAC",
+                    "name": "Chi in LEI"
+                }
+            ]
+        ],
+        "final_winner": "Hiu Fung LEUNG"
+    }
+}

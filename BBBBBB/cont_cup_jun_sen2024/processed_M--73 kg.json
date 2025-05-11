@@ -1,0 +1,153 @@
+{
+    "POOL A": {
+        "round 1-1": [],
+        "final_winner": "Enzy KOM TEDDY"
+    },
+    "POOL B": {
+        "round 1-1": [
+            [
+                {
+                    "country": "GAM",
+                    "name": "Bubacarr MENDY"
+                },
+                {
+                    "country": "SEN",
+                    "name": "Ousseynou SECK"
+                }
+            ]
+        ],
+        "final_winner": "Ousseynou SECK"
+    },
+    "POOL C": {
+        "round 1-1": [
+            [
+                {
+                    "country": "CIV",
+                    "name": "Rayane COULIBALY"
+                },
+                {
+                    "country": "MTN",
+                    "name": "Mohamed DIOP"
+                }
+            ]
+        ],
+        "final_winner": "Mohamed DIOP"
+    },
+    "POOL D": {
+        "round 1-1": [
+            [
+                {
+                    "country": "CIV",
+                    "name": "Aboubakar Sidick BAMBA"
+                },
+                {
+                    "country": "SEN",
+                    "name": "Mouhamadou Rassoul THIOUB"
+                }
+            ]
+        ],
+        "final_winner": "Aboubakar Sidick BAMBA"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "GAM",
+                    "name": "Bubacarr MENDY"
+                }
+            ],
+            [
+                {
+                    "country": "CIV",
+                    "name": "Rayane COULIBALY"
+                },
+                {
+                    "country": "SEN",
+                    "name": "Mouhamadou Rassoul THIOUB"
+                },
+                {
+                    "winner": "Mouhamadou Rassoul THIOUB"
+                }
+            ],
+            [
+                {
+                    "country": "GAM",
+                    "name": "Bubacarr MENDY"
+                },
+                {
+                    "country": "MTN",
+                    "name": "Mohamed DIOP"
+                },
+                {
+                    "winner": "Bubacarr MENDY"
+                }
+            ],
+            [
+                {
+                    "country": "SEN",
+                    "name": "Mouhamadou Rassoul THIOUB"
+                },
+                {
+                    "country": "SEN",
+                    "name": "Ousseynou SECK"
+                },
+                {
+                    "winner": "Ousseynou SECK"
+                }
+            ],
+            [
+                {
+                    "country": "SEN",
+                    "name": "Ousseynou SECK"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Mouhamadou Rassoul THIOUB",
+            "Bubacarr MENDY"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CMR",
+                    "name": "Enzy KOM TEDDY"
+                },
+                {
+                    "country": "SEN",
+                    "name": "Ousseynou SECK"
+                },
+                {
+                    "winner": "Enzy KOM TEDDY"
+                }
+            ],
+            [
+                {
+                    "country": "MTN",
+                    "name": "Mohamed DIOP"
+                },
+                {
+                    "country": "CIV",
+                    "name": "Aboubakar Sidick BAMBA"
+                },
+                {
+                    "winner": "Aboubakar Sidick BAMBA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "CMR",
+                    "name": "Enzy KOM TEDDY"
+                },
+                {
+                    "country": "CIV",
+                    "name": "Aboubakar Sidick BAMBA"
+                }
+            ]
+        ],
+        "final_winner": "Enzy KOM TEDDY"
+    }
+}

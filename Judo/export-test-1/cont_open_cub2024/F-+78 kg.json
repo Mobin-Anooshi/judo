@@ -1,0 +1,135 @@
+{
+    "POOL A": {
+        "round 1-1": [],
+        "final_winner": "Idalys ORTIZ"
+    },
+    "POOL B": {
+        "round 1-1": [
+            [
+                {
+                    "country": "CUB",
+                    "name": "Dayle OJEDA"
+                },
+                {
+                    "country": "CUB",
+                    "name": "Aslin ALPAJON LEYVA"
+                }
+            ]
+        ],
+        "final_winner": "Dayle OJEDA"
+    },
+    "POOL C": {
+        "round 1-1": [],
+        "final_winner": "Naomis ELIZARDE SUAREZ"
+    },
+    "POOL D": {
+        "round 1-1": [
+            [
+                {
+                    "country": "NCA",
+                    "name": "Izayana MARENCO"
+                },
+                {
+                    "country": "USA",
+                    "name": "Jessica ALAYNICK"
+                }
+            ]
+        ],
+        "final_winner": "Izayana MARENCO"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CUB",
+                    "name": "Aslin ALPAJON LEYVA"
+                }
+            ],
+            [
+                {
+                    "country": "USA",
+                    "name": "Jessica ALAYNICK"
+                }
+            ],
+            [
+                {
+                    "country": "CUB",
+                    "name": "Aslin ALPAJON LEYVA"
+                },
+                {
+                    "country": "NCA",
+                    "name": "Izayana MARENCO"
+                },
+                {
+                    "winner": "Izayana MARENCO"
+                }
+            ],
+            [
+                {
+                    "country": "USA",
+                    "name": "Jessica ALAYNICK"
+                },
+                {
+                    "country": "CUB",
+                    "name": "Idalys ORTIZ"
+                },
+                {
+                    "winner": "Jessica ALAYNICK"
+                }
+            ],
+            [
+                {
+                    "country": "NCA",
+                    "name": "Izayana MARENCO"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Jessica ALAYNICK",
+            "Izayana MARENCO"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CUB",
+                    "name": "Idalys ORTIZ"
+                },
+                {
+                    "country": "CUB",
+                    "name": "Dayle OJEDA"
+                },
+                {
+                    "winner": "Dayle OJEDA"
+                }
+            ],
+            [
+                {
+                    "country": "CUB",
+                    "name": "Naomis ELIZARDE SUAREZ"
+                },
+                {
+                    "country": "NCA",
+                    "name": "Izayana MARENCO"
+                },
+                {
+                    "winner": "Naomis ELIZARDE SUAREZ"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "CUB",
+                    "name": "Dayle OJEDA"
+                },
+                {
+                    "country": "CUB",
+                    "name": "Naomis ELIZARDE SUAREZ"
+                }
+            ]
+        ],
+        "final_winner": "Naomis ELIZARDE SUAREZ"
+    }
+}

@@ -1,0 +1,68 @@
+{
+    "ROUND 1": {
+        "round 1-2": [
+            [
+                {
+                    "country": "COL",
+                    "name": "Cindy MERA"
+                },
+                {
+                    "country": "PER",
+                    "name": "Hilary LAM"
+                },
+                {
+                    "winner": "Cindy MERA"
+                }
+            ],
+            [
+                {
+                    "country": "CHI",
+                    "name": "Allyson QUEVEDO"
+                },
+                {
+                    "country": "KOS",
+                    "name": "Debora GJAKOVA"
+                },
+                {
+                    "winner": "Debora GJAKOVA"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Cindy MERA",
+            "Debora GJAKOVA"
+        ]
+    },
+    "REPECHAGE": {
+        "round 1-1": [
+            [
+                {
+                    "country": "PER",
+                    "name": "Hilary LAM"
+                },
+                {
+                    "country": "CHI",
+                    "name": "Allyson QUEVEDO"
+                },
+                {
+                    "winner": "Hilary LAM"
+                }
+            ],
+            [
+                {
+                    "country": "PER",
+                    "name": "Hilary LAM"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Hilary LAM"
+        ]
+    },
+    "FINALS": {
+        "round 1-1": [],
+        "final_winners": [
+            "Cindy MERA"
+        ]
+    }
+}

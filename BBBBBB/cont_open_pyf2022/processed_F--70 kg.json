@@ -1,0 +1,153 @@
+{
+    "POOL A": {
+        "round 1-1": [
+            [
+                {
+                    "country": "NCL",
+                    "name": "Ashley SUTA DIT SAPONIA"
+                },
+                {
+                    "country": "FIJ",
+                    "name": "Shanice TAKAYAWA"
+                }
+            ]
+        ],
+        "final_winner": "Shanice TAKAYAWA"
+    },
+    "POOL B": {
+        "round 1-1": [],
+        "final_winner": "Carla NZOSSI ELECKA"
+    },
+    "POOL C": {
+        "round 1-1": [
+            [
+                {
+                    "country": "PYF",
+                    "name": "Teeeva FAARUIA"
+                },
+                {
+                    "country": "NZL",
+                    "name": "Hayley GATWARD"
+                }
+            ]
+        ],
+        "final_winner": "Hayley GATWARD"
+    },
+    "POOL D": {
+        "round 1-1": [
+            [
+                {
+                    "country": "NCL",
+                    "name": "Anais GOPEA"
+                },
+                {
+                    "country": "PYF",
+                    "name": "Haukea VITIELLI"
+                }
+            ]
+        ],
+        "final_winner": "Anais GOPEA"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "NCL",
+                    "name": "Ashley SUTA DIT SAPONIA"
+                }
+            ],
+            [
+                {
+                    "country": "PYF",
+                    "name": "Teeeva FAARUIA"
+                },
+                {
+                    "country": "PYF",
+                    "name": "Haukea VITIELLI"
+                },
+                {
+                    "winner": "Haukea VITIELLI"
+                }
+            ],
+            [
+                {
+                    "country": "NCL",
+                    "name": "Ashley SUTA DIT SAPONIA"
+                },
+                {
+                    "country": "NCL",
+                    "name": "Anais GOPEA"
+                },
+                {
+                    "winner": "Ashley SUTA DIT SAPONIA"
+                }
+            ],
+            [
+                {
+                    "country": "PYF",
+                    "name": "Haukea VITIELLI"
+                },
+                {
+                    "country": "FIJ",
+                    "name": "Shanice TAKAYAWA"
+                },
+                {
+                    "winner": "Shanice TAKAYAWA"
+                }
+            ],
+            [
+                {
+                    "country": "FIJ",
+                    "name": "Shanice TAKAYAWA"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Haukea VITIELLI",
+            "Ashley SUTA DIT SAPONIA"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "FIJ",
+                    "name": "Shanice TAKAYAWA"
+                },
+                {
+                    "country": "PYF",
+                    "name": "Carla NZOSSI ELECKA"
+                },
+                {
+                    "winner": "Carla NZOSSI ELECKA"
+                }
+            ],
+            [
+                {
+                    "country": "NZL",
+                    "name": "Hayley GATWARD"
+                },
+                {
+                    "country": "NCL",
+                    "name": "Anais GOPEA"
+                },
+                {
+                    "winner": "Hayley GATWARD"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "PYF",
+                    "name": "Carla NZOSSI ELECKA"
+                },
+                {
+                    "country": "NZL",
+                    "name": "Hayley GATWARD"
+                }
+            ]
+        ],
+        "final_winner": "Hayley GATWARD"
+    }
+}

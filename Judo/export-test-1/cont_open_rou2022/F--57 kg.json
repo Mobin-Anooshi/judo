@@ -1,0 +1,261 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "RSA",
+                    "name": "Jasmine MARTIN"
+                },
+                {
+                    "winner": "Jasmine MARTIN"
+                }
+            ],
+            [
+                {
+                    "country": "NED",
+                    "name": "Danique JANSSEN"
+                },
+                {
+                    "winner": "Danique JANSSEN"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "RSA",
+                    "name": "Jasmine MARTIN"
+                },
+                {
+                    "country": "NED",
+                    "name": "Danique JANSSEN"
+                }
+            ]
+        ],
+        "final_winner": "Danique JANSSEN"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "TUR",
+                    "name": "Irem KORKMAZ"
+                },
+                {
+                    "winner": "Irem KORKMAZ"
+                }
+            ],
+            [
+                {
+                    "country": "ITA",
+                    "name": "Tea PATRI"
+                },
+                {
+                    "winner": "Tea PATRI"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "TUR",
+                    "name": "Irem KORKMAZ"
+                },
+                {
+                    "country": "ITA",
+                    "name": "Tea PATRI"
+                }
+            ]
+        ],
+        "final_winner": "Irem KORKMAZ"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ITA",
+                    "name": "Silvia PELLITTERI"
+                },
+                {
+                    "winner": "Silvia PELLITTERI"
+                }
+            ],
+            [
+                {
+                    "country": "MDA",
+                    "name": "Daniela TCACI"
+                },
+                {
+                    "country": "POL",
+                    "name": "Anna DABROWSKA"
+                },
+                {
+                    "winner": "Anna DABROWSKA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "ITA",
+                    "name": "Silvia PELLITTERI"
+                },
+                {
+                    "country": "POL",
+                    "name": "Anna DABROWSKA"
+                }
+            ]
+        ],
+        "final_winner": "Anna DABROWSKA"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "NED",
+                    "name": "Shannon VAN DE MEEBERG"
+                },
+                {
+                    "winner": "Shannon VAN DE MEEBERG"
+                }
+            ],
+            [
+                {
+                    "country": "FRA",
+                    "name": "Manon BURNEL"
+                },
+                {
+                    "winner": "Manon BURNEL"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "NED",
+                    "name": "Shannon VAN DE MEEBERG"
+                },
+                {
+                    "country": "FRA",
+                    "name": "Manon BURNEL"
+                }
+            ]
+        ],
+        "final_winner": "Shannon VAN DE MEEBERG"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "RSA",
+                    "name": "Jasmine MARTIN"
+                },
+                {
+                    "country": "ITA",
+                    "name": "Tea PATRI"
+                },
+                {
+                    "winner": "Jasmine MARTIN"
+                }
+            ],
+            [
+                {
+                    "country": "ITA",
+                    "name": "Silvia PELLITTERI"
+                },
+                {
+                    "country": "FRA",
+                    "name": "Manon BURNEL"
+                },
+                {
+                    "winner": "Silvia PELLITTERI"
+                }
+            ],
+            [
+                {
+                    "country": "RSA",
+                    "name": "Jasmine MARTIN"
+                },
+                {
+                    "country": "NED",
+                    "name": "Shannon VAN DE MEEBERG"
+                },
+                {
+                    "winner": "Shannon VAN DE MEEBERG"
+                }
+            ],
+            [
+                {
+                    "country": "ITA",
+                    "name": "Silvia PELLITTERI"
+                },
+                {
+                    "country": "NED",
+                    "name": "Danique JANSSEN"
+                },
+                {
+                    "winner": "Danique JANSSEN"
+                }
+            ],
+            [
+                {
+                    "country": "NED",
+                    "name": "Shannon VAN DE MEEBERG"
+                }
+            ],
+            [
+                {
+                    "country": "NED",
+                    "name": "Danique JANSSEN"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Shannon VAN DE MEEBERG",
+            "Danique JANSSEN"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "NED",
+                    "name": "Danique JANSSEN"
+                },
+                {
+                    "country": "TUR",
+                    "name": "Irem KORKMAZ"
+                },
+                {
+                    "winner": "Irem KORKMAZ"
+                }
+            ],
+            [
+                {
+                    "country": "POL",
+                    "name": "Anna DABROWSKA"
+                },
+                {
+                    "country": "NED",
+                    "name": "Shannon VAN DE MEEBERG"
+                },
+                {
+                    "winner": "Anna DABROWSKA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "TUR",
+                    "name": "Irem KORKMAZ"
+                },
+                {
+                    "country": "POL",
+                    "name": "Anna DABROWSKA"
+                }
+            ]
+        ],
+        "final_winner": "Anna DABROWSKA"
+    }
+}

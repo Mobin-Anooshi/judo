@@ -1,0 +1,68 @@
+{
+    "ROUND 1": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CAN",
+                    "name": "Munkhu BATBAYAR"
+                },
+                {
+                    "country": "USA",
+                    "name": "Vladimir MANUKYAN"
+                },
+                {
+                    "winner": "Munkhu BATBAYAR"
+                }
+            ],
+            [
+                {
+                    "country": "BRA",
+                    "name": "Gelson RICKEN III"
+                },
+                {
+                    "country": "ARG",
+                    "name": "Tomas QUINTEROS"
+                },
+                {
+                    "winner": "Gelson RICKEN III"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Munkhu BATBAYAR",
+            "Gelson RICKEN III"
+        ]
+    },
+    "REPECHAGE": {
+        "round 1-1": [
+            [
+                {
+                    "country": "USA",
+                    "name": "Vladimir MANUKYAN"
+                },
+                {
+                    "country": "ARG",
+                    "name": "Tomas QUINTEROS"
+                },
+                {
+                    "winner": "Tomas QUINTEROS"
+                }
+            ],
+            [
+                {
+                    "country": "ARG",
+                    "name": "Tomas QUINTEROS"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Tomas QUINTEROS"
+        ]
+    },
+    "FINALS": {
+        "round 1-1": [],
+        "final_winners": [
+            "Gelson RICKEN III"
+        ]
+    }
+}

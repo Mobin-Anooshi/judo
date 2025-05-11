@@ -1,0 +1,269 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Leonardo GONCALVES"
+                },
+                {
+                    "winner": "Leonardo GONCALVES"
+                }
+            ],
+            [
+                {
+                    "country": "CHI",
+                    "name": "Gustavo ZEPEDA"
+                },
+                {
+                    "country": "PAR",
+                    "name": "Angel Antonio GINI"
+                },
+                {
+                    "winner": "Angel Antonio GINI"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Leonardo GONCALVES"
+                },
+                {
+                    "country": "PAR",
+                    "name": "Angel Antonio GINI"
+                }
+            ]
+        ],
+        "final_winner": "Leonardo GONCALVES"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CHI",
+                    "name": "Thomas BRICENO"
+                },
+                {
+                    "winner": "Thomas BRICENO"
+                }
+            ],
+            [
+                {
+                    "country": "ARG",
+                    "name": "Ivo DARGOLTZ"
+                },
+                {
+                    "winner": "Ivo DARGOLTZ"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "CHI",
+                    "name": "Thomas BRICENO"
+                },
+                {
+                    "country": "ARG",
+                    "name": "Ivo DARGOLTZ"
+                }
+            ]
+        ],
+        "final_winner": "Ivo DARGOLTZ"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CUB",
+                    "name": "Ivan Felipe SILVA MORALES"
+                },
+                {
+                    "winner": "Ivan Felipe SILVA MORALES"
+                }
+            ],
+            [
+                {
+                    "country": "DOM",
+                    "name": "Robert FLORENTINO"
+                },
+                {
+                    "country": "MEX",
+                    "name": "Jeremy OLIVARES"
+                },
+                {
+                    "winner": "Robert FLORENTINO"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "CUB",
+                    "name": "Ivan Felipe SILVA MORALES"
+                },
+                {
+                    "country": "DOM",
+                    "name": "Robert FLORENTINO"
+                }
+            ]
+        ],
+        "final_winner": "Robert FLORENTINO"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "COL",
+                    "name": "Francisco BALANTA"
+                },
+                {
+                    "winner": "Francisco BALANTA"
+                }
+            ],
+            [
+                {
+                    "country": "USA",
+                    "name": "Jared CAUSSE"
+                },
+                {
+                    "country": "PER",
+                    "name": "Daryl YAMAMOTO"
+                },
+                {
+                    "winner": "Jared CAUSSE"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "COL",
+                    "name": "Francisco BALANTA"
+                },
+                {
+                    "country": "USA",
+                    "name": "Jared CAUSSE"
+                }
+            ]
+        ],
+        "final_winner": "Francisco BALANTA"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "PAR",
+                    "name": "Angel Antonio GINI"
+                },
+                {
+                    "country": "CHI",
+                    "name": "Thomas BRICENO"
+                },
+                {
+                    "winner": "Thomas BRICENO"
+                }
+            ],
+            [
+                {
+                    "country": "CUB",
+                    "name": "Ivan Felipe SILVA MORALES"
+                },
+                {
+                    "country": "USA",
+                    "name": "Jared CAUSSE"
+                },
+                {
+                    "winner": "Jared CAUSSE"
+                }
+            ],
+            [
+                {
+                    "country": "CHI",
+                    "name": "Thomas BRICENO"
+                },
+                {
+                    "country": "COL",
+                    "name": "Francisco BALANTA"
+                },
+                {
+                    "winner": "Francisco BALANTA"
+                }
+            ],
+            [
+                {
+                    "country": "USA",
+                    "name": "Jared CAUSSE"
+                },
+                {
+                    "country": "ARG",
+                    "name": "Ivo DARGOLTZ"
+                },
+                {
+                    "winner": "Ivo DARGOLTZ"
+                }
+            ],
+            [
+                {
+                    "country": "COL",
+                    "name": "Francisco BALANTA"
+                }
+            ],
+            [
+                {
+                    "country": "ARG",
+                    "name": "Ivo DARGOLTZ"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Francisco BALANTA",
+            "Ivo DARGOLTZ"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Leonardo GONCALVES"
+                },
+                {
+                    "country": "ARG",
+                    "name": "Ivo DARGOLTZ"
+                },
+                {
+                    "winner": "Leonardo GONCALVES"
+                }
+            ],
+            [
+                {
+                    "country": "DOM",
+                    "name": "Robert FLORENTINO"
+                },
+                {
+                    "country": "COL",
+                    "name": "Francisco BALANTA"
+                },
+                {
+                    "winner": "Robert FLORENTINO"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Leonardo GONCALVES"
+                },
+                {
+                    "country": "DOM",
+                    "name": "Robert FLORENTINO"
+                }
+            ]
+        ],
+        "final_winner": "Leonardo GONCALVES"
+    }
+}

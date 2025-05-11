@@ -1,0 +1,159 @@
+{
+    "POOL A": {
+        "round 1-1": [],
+        "final_winner": "Manuela CRESPO"
+    },
+    "POOL B": {
+        "round 1-1": [
+            [
+                {
+                    "country": "DOM",
+                    "name": "Yarelis LUCAS"
+                },
+                {
+                    "country": "DOM",
+                    "name": "Adriana DE LEON"
+                }
+            ]
+        ],
+        "final_winner": "Yarelis LUCAS"
+    },
+    "POOL C": {
+        "round 1-1": [
+            [
+                {
+                    "country": "PAN",
+                    "name": "Nemesis CANDELO"
+                },
+                {
+                    "country": "DOM",
+                    "name": "Carla TOLENTINO"
+                }
+            ]
+        ],
+        "final_winner": "Nemesis CANDELO"
+    },
+    "POOL D": {
+        "round 1-1": [
+            [
+                {
+                    "country": "USA",
+                    "name": "Kaycie TANIMOTO"
+                },
+                {
+                    "country": "DOM",
+                    "name": "Raimeli CELESTEN"
+                }
+            ]
+        ],
+        "final_winner": "Raimeli CELESTEN"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "DOM",
+                    "name": "Adriana DE LEON"
+                }
+            ],
+            [
+                {
+                    "country": "DOM",
+                    "name": "Carla TOLENTINO"
+                },
+                {
+                    "country": "USA",
+                    "name": "Kaycie TANIMOTO"
+                },
+                {
+                    "winner": "Carla TOLENTINO"
+                }
+            ],
+            [
+                {
+                    "country": "DOM",
+                    "name": "Adriana DE LEON"
+                },
+                {
+                    "country": "DOM",
+                    "name": "Raimeli CELESTEN"
+                },
+                {
+                    "winner": "Raimeli CELESTEN"
+                }
+            ],
+            [
+                {
+                    "country": "DOM",
+                    "name": "Carla TOLENTINO"
+                },
+                {
+                    "country": "DOM",
+                    "name": "Yarelis LUCAS"
+                },
+                {
+                    "winner": "Carla TOLENTINO"
+                }
+            ],
+            [
+                {
+                    "country": "DOM",
+                    "name": "Raimeli CELESTEN"
+                }
+            ],
+            [
+                {
+                    "country": "DOM",
+                    "name": "Carla TOLENTINO"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Raimeli CELESTEN",
+            "Carla TOLENTINO"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "COL",
+                    "name": "Manuela CRESPO"
+                },
+                {
+                    "country": "DOM",
+                    "name": "Yarelis LUCAS"
+                },
+                {
+                    "winner": "Manuela CRESPO"
+                }
+            ],
+            [
+                {
+                    "country": "PAN",
+                    "name": "Nemesis CANDELO"
+                },
+                {
+                    "country": "DOM",
+                    "name": "Raimeli CELESTEN"
+                },
+                {
+                    "winner": "Nemesis CANDELO"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "COL",
+                    "name": "Manuela CRESPO"
+                },
+                {
+                    "country": "PAN",
+                    "name": "Nemesis CANDELO"
+                }
+            ]
+        ],
+        "final_winner": "Nemesis CANDELO"
+    }
+}

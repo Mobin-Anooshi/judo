@@ -1,0 +1,170 @@
+{
+    "POOL A": {
+        "round 1-1": [
+            [
+                {
+                    "country": "UZB",
+                    "name": "Mushtariybegim AFSALOVA"
+                },
+                {
+                    "country": "KAZ",
+                    "name": "Dalila KOKOBAYEVA"
+                }
+            ]
+        ],
+        "final_winner": "Mushtariybegim AFSALOVA"
+    },
+    "POOL B": {
+        "round 1-1": [
+            [
+                {
+                    "country": "UZB",
+                    "name": "Kristina SIMKOVA"
+                },
+                {
+                    "country": "UZB",
+                    "name": "Shoira AMINOVA"
+                }
+            ]
+        ],
+        "final_winner": "Shoira AMINOVA"
+    },
+    "POOL C": {
+        "round 1-1": [
+            [
+                {
+                    "country": "KAZ",
+                    "name": "Tomiris YERGALI"
+                },
+                {
+                    "country": "UZB",
+                    "name": "Sarvinoz RAFKATOVA"
+                }
+            ]
+        ],
+        "final_winner": "Tomiris YERGALI"
+    },
+    "POOL D": {
+        "round 1-1": [
+            [
+                {
+                    "country": "KAZ",
+                    "name": "Amina FAIZULINA"
+                },
+                {
+                    "country": "UZB",
+                    "name": "Madina ABRAROVA"
+                }
+            ]
+        ],
+        "final_winner": "Madina ABRAROVA"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "KAZ",
+                    "name": "Dalila KOKOBAYEVA"
+                }
+            ],
+            [
+                {
+                    "country": "UZB",
+                    "name": "Sarvinoz RAFKATOVA"
+                },
+                {
+                    "country": "KAZ",
+                    "name": "Amina FAIZULINA"
+                },
+                {
+                    "winner": "Sarvinoz RAFKATOVA"
+                }
+            ],
+            [
+                {
+                    "country": "KAZ",
+                    "name": "Dalila KOKOBAYEVA"
+                },
+                {
+                    "country": "UZB",
+                    "name": "Madina ABRAROVA"
+                },
+                {
+                    "winner": "Madina ABRAROVA"
+                }
+            ],
+            [
+                {
+                    "country": "UZB",
+                    "name": "Sarvinoz RAFKATOVA"
+                },
+                {
+                    "country": "UZB",
+                    "name": "Shoira AMINOVA"
+                },
+                {
+                    "winner": "Sarvinoz RAFKATOVA"
+                }
+            ],
+            [
+                {
+                    "country": "UZB",
+                    "name": "Madina ABRAROVA"
+                }
+            ],
+            [
+                {
+                    "country": "UZB",
+                    "name": "Sarvinoz RAFKATOVA"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Madina ABRAROVA",
+            "Sarvinoz RAFKATOVA"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "UZB",
+                    "name": "Mushtariybegim AFSALOVA"
+                },
+                {
+                    "country": "UZB",
+                    "name": "Shoira AMINOVA"
+                },
+                {
+                    "winner": "Mushtariybegim AFSALOVA"
+                }
+            ],
+            [
+                {
+                    "country": "KAZ",
+                    "name": "Tomiris YERGALI"
+                },
+                {
+                    "country": "UZB",
+                    "name": "Madina ABRAROVA"
+                },
+                {
+                    "winner": "Tomiris YERGALI"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "UZB",
+                    "name": "Mushtariybegim AFSALOVA"
+                },
+                {
+                    "country": "KAZ",
+                    "name": "Tomiris YERGALI"
+                }
+            ]
+        ],
+        "final_winner": "Mushtariybegim AFSALOVA"
+    }
+}

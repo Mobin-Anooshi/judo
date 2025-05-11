@@ -1,0 +1,261 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Laura FERREIRA"
+                },
+                {
+                    "winner": "Laura FERREIRA"
+                }
+            ],
+            [
+                {
+                    "country": "VEN",
+                    "name": "Maria GIMENEZ"
+                },
+                {
+                    "winner": "Maria GIMENEZ"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Laura FERREIRA"
+                },
+                {
+                    "country": "VEN",
+                    "name": "Maria GIMENEZ"
+                }
+            ]
+        ],
+        "final_winner": "Laura FERREIRA"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CAN",
+                    "name": "Emilija Ema TESANOVIC"
+                },
+                {
+                    "winner": "Emilija Ema TESANOVIC"
+                }
+            ],
+            [
+                {
+                    "country": "CHI",
+                    "name": "Javiera CARRASCO"
+                },
+                {
+                    "winner": "Javiera CARRASCO"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "CAN",
+                    "name": "Emilija Ema TESANOVIC"
+                },
+                {
+                    "country": "CHI",
+                    "name": "Javiera CARRASCO"
+                }
+            ]
+        ],
+        "final_winner": "Emilija Ema TESANOVIC"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Amanda ARRAES"
+                },
+                {
+                    "winner": "Amanda ARRAES"
+                }
+            ],
+            [
+                {
+                    "country": "PER",
+                    "name": "Noemi HUAYHUAMEZA"
+                },
+                {
+                    "country": "ARG",
+                    "name": "Jacqueline OLMOS"
+                },
+                {
+                    "winner": "Noemi HUAYHUAMEZA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Amanda ARRAES"
+                },
+                {
+                    "country": "PER",
+                    "name": "Noemi HUAYHUAMEZA"
+                }
+            ]
+        ],
+        "final_winner": "Amanda ARRAES"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "COL",
+                    "name": "Diana PALACIO"
+                },
+                {
+                    "winner": "Diana PALACIO"
+                }
+            ],
+            [
+                {
+                    "country": "MEX",
+                    "name": "Josseline CLEMENT"
+                },
+                {
+                    "winner": "Josseline CLEMENT"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "COL",
+                    "name": "Diana PALACIO"
+                },
+                {
+                    "country": "MEX",
+                    "name": "Josseline CLEMENT"
+                }
+            ]
+        ],
+        "final_winner": "Diana PALACIO"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "VEN",
+                    "name": "Maria GIMENEZ"
+                },
+                {
+                    "country": "CHI",
+                    "name": "Javiera CARRASCO"
+                },
+                {
+                    "winner": "Maria GIMENEZ"
+                }
+            ],
+            [
+                {
+                    "country": "PER",
+                    "name": "Noemi HUAYHUAMEZA"
+                },
+                {
+                    "country": "MEX",
+                    "name": "Josseline CLEMENT"
+                },
+                {
+                    "winner": "Josseline CLEMENT"
+                }
+            ],
+            [
+                {
+                    "country": "VEN",
+                    "name": "Maria GIMENEZ"
+                },
+                {
+                    "country": "COL",
+                    "name": "Diana PALACIO"
+                },
+                {
+                    "winner": "Diana PALACIO"
+                }
+            ],
+            [
+                {
+                    "country": "MEX",
+                    "name": "Josseline CLEMENT"
+                },
+                {
+                    "country": "CAN",
+                    "name": "Emilija Ema TESANOVIC"
+                },
+                {
+                    "winner": "Josseline CLEMENT"
+                }
+            ],
+            [
+                {
+                    "country": "COL",
+                    "name": "Diana PALACIO"
+                }
+            ],
+            [
+                {
+                    "country": "MEX",
+                    "name": "Josseline CLEMENT"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Diana PALACIO",
+            "Josseline CLEMENT"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Laura FERREIRA"
+                },
+                {
+                    "country": "CAN",
+                    "name": "Emilija Ema TESANOVIC"
+                },
+                {
+                    "winner": "Laura FERREIRA"
+                }
+            ],
+            [
+                {
+                    "country": "BRA",
+                    "name": "Amanda ARRAES"
+                },
+                {
+                    "country": "COL",
+                    "name": "Diana PALACIO"
+                },
+                {
+                    "winner": "Amanda ARRAES"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Laura FERREIRA"
+                },
+                {
+                    "country": "BRA",
+                    "name": "Amanda ARRAES"
+                }
+            ]
+        ],
+        "final_winner": "Laura FERREIRA"
+    }
+}

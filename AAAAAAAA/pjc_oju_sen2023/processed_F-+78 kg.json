@@ -1,0 +1,141 @@
+{
+    "POOL A": {
+        "round 1-1": [],
+        "final_winner": "Beatriz SOUZA"
+    },
+    "POOL B": {
+        "round 1-1": [
+            [
+                {
+                    "country": "VEN",
+                    "name": "Amarantha URDANETA"
+                },
+                {
+                    "country": "COL",
+                    "name": "Brigitte CARABALI"
+                }
+            ]
+        ],
+        "final_winner": "Brigitte CARABALI"
+    },
+    "POOL C": {
+        "round 1-1": [],
+        "final_winner": "Sydnee ANDREWS"
+    },
+    "POOL D": {
+        "round 1-1": [
+            [
+                {
+                    "country": "CUB",
+                    "name": "Idalys ORTIZ"
+                },
+                {
+                    "country": "TTO",
+                    "name": "Gabriella WOOD"
+                }
+            ]
+        ],
+        "final_winner": "Idalys ORTIZ"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "VEN",
+                    "name": "Amarantha URDANETA"
+                }
+            ],
+            [
+                {
+                    "country": "TTO",
+                    "name": "Gabriella WOOD"
+                }
+            ],
+            [
+                {
+                    "country": "VEN",
+                    "name": "Amarantha URDANETA"
+                },
+                {
+                    "country": "NZL",
+                    "name": "Sydnee ANDREWS"
+                },
+                {
+                    "winner": "Sydnee ANDREWS"
+                }
+            ],
+            [
+                {
+                    "country": "TTO",
+                    "name": "Gabriella WOOD"
+                },
+                {
+                    "country": "COL",
+                    "name": "Brigitte CARABALI"
+                },
+                {
+                    "winner": "Brigitte CARABALI"
+                }
+            ],
+            [
+                {
+                    "country": "NZL",
+                    "name": "Sydnee ANDREWS"
+                }
+            ],
+            [
+                {
+                    "country": "COL",
+                    "name": "Brigitte CARABALI"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Sydnee ANDREWS",
+            "Brigitte CARABALI"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Beatriz SOUZA"
+                },
+                {
+                    "country": "COL",
+                    "name": "Brigitte CARABALI"
+                },
+                {
+                    "winner": "Beatriz SOUZA"
+                }
+            ],
+            [
+                {
+                    "country": "NZL",
+                    "name": "Sydnee ANDREWS"
+                },
+                {
+                    "country": "CUB",
+                    "name": "Idalys ORTIZ"
+                },
+                {
+                    "winner": "Idalys ORTIZ"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Beatriz SOUZA"
+                },
+                {
+                    "country": "CUB",
+                    "name": "Idalys ORTIZ"
+                }
+            ]
+        ],
+        "final_winner": "Beatriz SOUZA"
+    }
+}

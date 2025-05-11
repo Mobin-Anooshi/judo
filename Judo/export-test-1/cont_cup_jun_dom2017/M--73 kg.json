@@ -1,0 +1,140 @@
+{
+    "POOL A": {
+        "round 1-1": [
+            [
+                {
+                    "country": "PUR",
+                    "name": "Michael RUIZ"
+                },
+                {
+                    "country": "DOM",
+                    "name": "Marcos PERALTA"
+                }
+            ]
+        ],
+        "final_winner": "Michael RUIZ"
+    },
+    "POOL B": {
+        "round 1-1": [
+            [
+                {
+                    "country": "DOM",
+                    "name": "Manuel SEVERINO GIRON"
+                },
+                {
+                    "country": "HUN",
+                    "name": "Botond TOTH"
+                }
+            ]
+        ],
+        "final_winner": "Manuel SEVERINO GIRON"
+    },
+    "POOL C": {
+        "round 1-1": [],
+        "final_winner": "Rivera JAIME"
+    },
+    "POOL D": {
+        "round 1-1": [
+            [
+                {
+                    "country": "DOM",
+                    "name": "Jose DE LOS SANTOS"
+                },
+                {
+                    "country": "CRO",
+                    "name": "Timo GOBEC"
+                }
+            ]
+        ],
+        "final_winner": "Jose DE LOS SANTOS"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "HUN",
+                    "name": "Botond TOTH"
+                },
+                {
+                    "country": "PUR",
+                    "name": "Rivera JAIME"
+                },
+                {
+                    "winner": "Botond TOTH"
+                }
+            ],
+            [
+                {
+                    "country": "CRO",
+                    "name": "Timo GOBEC"
+                },
+                {
+                    "country": "DOM",
+                    "name": "Manuel SEVERINO GIRON"
+                },
+                {
+                    "winner": "Manuel SEVERINO GIRON"
+                }
+            ],
+            [
+                {
+                    "country": "HUN",
+                    "name": "Botond TOTH"
+                }
+            ],
+            [
+                {
+                    "country": "DOM",
+                    "name": "Manuel SEVERINO GIRON"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Botond TOTH",
+            "Manuel SEVERINO GIRON"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "PUR",
+                    "name": "Michael RUIZ"
+                },
+                {
+                    "country": "DOM",
+                    "name": "Manuel SEVERINO GIRON"
+                },
+                {
+                    "winner": "Michael RUIZ"
+                }
+            ],
+            [
+                {
+                    "country": "PUR",
+                    "name": "Rivera JAIME"
+                },
+                {
+                    "country": "DOM",
+                    "name": "Jose DE LOS SANTOS"
+                },
+                {
+                    "winner": "Jose DE LOS SANTOS"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "PUR",
+                    "name": "Michael RUIZ"
+                },
+                {
+                    "country": "DOM",
+                    "name": "Jose DE LOS SANTOS"
+                }
+            ]
+        ],
+        "final_winner": "Michael RUIZ"
+    }
+}

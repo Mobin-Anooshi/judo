@@ -1,0 +1,68 @@
+{
+    "ROUND 1": {
+        "round 1-2": [
+            [
+                {
+                    "country": "MRI",
+                    "name": "Priscilla MORAND"
+                },
+                {
+                    "country": "SEN",
+                    "name": "Diakhou Sene SONKO"
+                },
+                {
+                    "winner": "Priscilla MORAND"
+                }
+            ],
+            [
+                {
+                    "country": "BDI",
+                    "name": "Signoline KANYAMUNEZA"
+                },
+                {
+                    "country": "CIV",
+                    "name": "Maimouna DIARRASSOUBA"
+                },
+                {
+                    "winner": "Signoline KANYAMUNEZA"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Priscilla MORAND",
+            "Signoline KANYAMUNEZA"
+        ]
+    },
+    "REPECHAGE": {
+        "round 1-1": [
+            [
+                {
+                    "country": "SEN",
+                    "name": "Diakhou Sene SONKO"
+                },
+                {
+                    "country": "CIV",
+                    "name": "Maimouna DIARRASSOUBA"
+                },
+                {
+                    "winner": "Maimouna DIARRASSOUBA"
+                }
+            ],
+            [
+                {
+                    "country": "CIV",
+                    "name": "Maimouna DIARRASSOUBA"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Maimouna DIARRASSOUBA"
+        ]
+    },
+    "FINALS": {
+        "round 1-1": [],
+        "final_winners": [
+            "Signoline KANYAMUNEZA"
+        ]
+    }
+}

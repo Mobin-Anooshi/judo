@@ -1,0 +1,261 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Beatriz FREITAS"
+                },
+                {
+                    "winner": "Beatriz FREITAS"
+                }
+            ],
+            [
+                {
+                    "country": "CHI",
+                    "name": "Adela ESPINOZA"
+                },
+                {
+                    "winner": "Adela ESPINOZA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Beatriz FREITAS"
+                },
+                {
+                    "country": "CHI",
+                    "name": "Adela ESPINOZA"
+                }
+            ]
+        ],
+        "final_winner": "Beatriz FREITAS"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "PER",
+                    "name": "Yumiko TANABE"
+                },
+                {
+                    "winner": "Yumiko TANABE"
+                }
+            ],
+            [
+                {
+                    "country": "USA",
+                    "name": "Katherine HRUBES"
+                },
+                {
+                    "winner": "Katherine HRUBES"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "PER",
+                    "name": "Yumiko TANABE"
+                },
+                {
+                    "country": "USA",
+                    "name": "Katherine HRUBES"
+                }
+            ]
+        ],
+        "final_winner": "Katherine HRUBES"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CUB",
+                    "name": "Gorguet MAIDELINES"
+                },
+                {
+                    "winner": "Gorguet MAIDELINES"
+                }
+            ],
+            []
+        ],
+        "round 1-1": [],
+        "final_winner": "Gorguet MAIDELINES"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Eliza RAMOS"
+                },
+                {
+                    "winner": "Eliza RAMOS"
+                }
+            ],
+            [
+                {
+                    "country": "COL",
+                    "name": "Gueyler Andrea COLMENARES"
+                },
+                {
+                    "winner": "Gueyler Andrea COLMENARES"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Eliza RAMOS"
+                },
+                {
+                    "country": "COL",
+                    "name": "Gueyler Andrea COLMENARES"
+                }
+            ]
+        ],
+        "final_winner": "Eliza RAMOS"
+    },
+    "REPECHAGE": {
+        "round 1-4": [
+            [
+                {
+                    "country": "CHI",
+                    "name": "Adela ESPINOZA"
+                },
+                {
+                    "winner": "Adela ESPINOZA"
+                }
+            ],
+            [
+                {
+                    "country": "PER",
+                    "name": "Yumiko TANABE"
+                },
+                {
+                    "winner": "Yumiko TANABE"
+                }
+            ],
+            [],
+            [
+                {
+                    "country": "COL",
+                    "name": "Gueyler Andrea COLMENARES"
+                },
+                {
+                    "winner": "Gueyler Andrea COLMENARES"
+                }
+            ]
+        ],
+        "round 1-2": [
+            [
+                {
+                    "country": "CHI",
+                    "name": "Adela ESPINOZA"
+                },
+                {
+                    "country": "PER",
+                    "name": "Yumiko TANABE"
+                },
+                {
+                    "winner": "Yumiko TANABE"
+                }
+            ],
+            [
+                {
+                    "country": "COL",
+                    "name": "Gueyler Andrea COLMENARES"
+                }
+            ],
+            [
+                {
+                    "country": "PER",
+                    "name": "Yumiko TANABE"
+                },
+                {
+                    "country": "CUB",
+                    "name": "Gorguet MAIDELINES"
+                },
+                {
+                    "winner": "Yumiko TANABE"
+                }
+            ],
+            [
+                {
+                    "country": "COL",
+                    "name": "Gueyler Andrea COLMENARES"
+                },
+                {
+                    "country": "USA",
+                    "name": "Katherine HRUBES"
+                },
+                {
+                    "winner": "Katherine HRUBES"
+                }
+            ],
+            [
+                {
+                    "country": "PER",
+                    "name": "Yumiko TANABE"
+                }
+            ],
+            [
+                {
+                    "country": "USA",
+                    "name": "Katherine HRUBES"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Yumiko TANABE",
+            "Katherine HRUBES"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Beatriz FREITAS"
+                },
+                {
+                    "country": "USA",
+                    "name": "Katherine HRUBES"
+                },
+                {
+                    "winner": "Beatriz FREITAS"
+                }
+            ],
+            [
+                {
+                    "country": "CUB",
+                    "name": "Gorguet MAIDELINES"
+                },
+                {
+                    "country": "BRA",
+                    "name": "Eliza RAMOS"
+                },
+                {
+                    "winner": "Eliza RAMOS"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Beatriz FREITAS"
+                },
+                {
+                    "country": "BRA",
+                    "name": "Eliza RAMOS"
+                }
+            ]
+        ],
+        "final_winner": "Eliza RAMOS"
+    }
+}

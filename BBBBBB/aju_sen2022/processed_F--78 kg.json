@@ -1,0 +1,159 @@
+{
+    "POOL A": {
+        "round 1-1": [],
+        "final_winner": "Hafsa YATIM"
+    },
+    "POOL B": {
+        "round 1-1": [
+            [
+                {
+                    "country": "CMR",
+                    "name": "Ayuk Otay ARREY SOPHINA"
+                },
+                {
+                    "country": "ALG",
+                    "name": "Louiza ICHALLAL"
+                }
+            ]
+        ],
+        "final_winner": "Ayuk Otay ARREY SOPHINA"
+    },
+    "POOL C": {
+        "round 1-1": [
+            [
+                {
+                    "country": "ALG",
+                    "name": "Kaouthar OUALLAL"
+                },
+                {
+                    "country": "RSA",
+                    "name": "Katja LANG"
+                }
+            ]
+        ],
+        "final_winner": "Kaouthar OUALLAL"
+    },
+    "POOL D": {
+        "round 1-1": [
+            [
+                {
+                    "country": "CIV",
+                    "name": "Fatim FOFANA"
+                },
+                {
+                    "country": "CMR",
+                    "name": "Georgika Wesly DJENGUE MOUNE"
+                }
+            ]
+        ],
+        "final_winner": "Georgika Wesly DJENGUE MOUNE"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ALG",
+                    "name": "Louiza ICHALLAL"
+                }
+            ],
+            [
+                {
+                    "country": "RSA",
+                    "name": "Katja LANG"
+                },
+                {
+                    "country": "CIV",
+                    "name": "Fatim FOFANA"
+                },
+                {
+                    "winner": "Katja LANG"
+                }
+            ],
+            [
+                {
+                    "country": "ALG",
+                    "name": "Louiza ICHALLAL"
+                },
+                {
+                    "country": "CMR",
+                    "name": "Georgika Wesly DJENGUE MOUNE"
+                },
+                {
+                    "winner": "Georgika Wesly DJENGUE MOUNE"
+                }
+            ],
+            [
+                {
+                    "country": "RSA",
+                    "name": "Katja LANG"
+                },
+                {
+                    "country": "MAR",
+                    "name": "Hafsa YATIM"
+                },
+                {
+                    "winner": "Hafsa YATIM"
+                }
+            ],
+            [
+                {
+                    "country": "CMR",
+                    "name": "Georgika Wesly DJENGUE MOUNE"
+                }
+            ],
+            [
+                {
+                    "country": "MAR",
+                    "name": "Hafsa YATIM"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Georgika Wesly DJENGUE MOUNE",
+            "Hafsa YATIM"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "MAR",
+                    "name": "Hafsa YATIM"
+                },
+                {
+                    "country": "CMR",
+                    "name": "Ayuk Otay ARREY SOPHINA"
+                },
+                {
+                    "winner": "Ayuk Otay ARREY SOPHINA"
+                }
+            ],
+            [
+                {
+                    "country": "ALG",
+                    "name": "Kaouthar OUALLAL"
+                },
+                {
+                    "country": "CMR",
+                    "name": "Georgika Wesly DJENGUE MOUNE"
+                },
+                {
+                    "winner": "Kaouthar OUALLAL"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "CMR",
+                    "name": "Ayuk Otay ARREY SOPHINA"
+                },
+                {
+                    "country": "ALG",
+                    "name": "Kaouthar OUALLAL"
+                }
+            ]
+        ],
+        "final_winner": "Kaouthar OUALLAL"
+    }
+}

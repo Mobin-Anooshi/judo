@@ -1,0 +1,177 @@
+{
+    "POOL A": {
+        "round 1-1": [
+            [
+                {
+                    "country": "TPE",
+                    "name": "Yu-jing LIN"
+                },
+                {
+                    "country": "KAZ",
+                    "name": "Madina PARAGULGOVA"
+                }
+            ]
+        ],
+        "final_winner": "Madina PARAGULGOVA"
+    },
+    "POOL B": {
+        "round 1-1": [
+            [
+                {
+                    "country": "UZB",
+                    "name": "Mokhinsakhon KHUSANOVA"
+                },
+                {
+                    "country": "KGZ",
+                    "name": "Shakhida NARMUKHAMEDOVA"
+                }
+            ]
+        ],
+        "final_winner": "Mokhinsakhon KHUSANOVA"
+    },
+    "POOL C": {
+        "round 1-1": [
+            [
+                {
+                    "country": "KOR",
+                    "name": "Hayun KIM"
+                },
+                {
+                    "country": "IND",
+                    "name": "Sanyogita SINGH"
+                }
+            ]
+        ],
+        "final_winner": "Hayun KIM"
+    },
+    "POOL D": {
+        "round 1-1": [
+            [
+                {
+                    "country": "UZB",
+                    "name": "Shokhista ANAROVA"
+                },
+                {
+                    "country": "MGL",
+                    "name": "Nominzul DAMBADARJAA"
+                }
+            ]
+        ],
+        "final_winner": "Shokhista ANAROVA"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "TPE",
+                    "name": "Yu-jing LIN"
+                },
+                {
+                    "country": "KGZ",
+                    "name": "Shakhida NARMUKHAMEDOVA"
+                },
+                {
+                    "winner": "Yu-jing LIN"
+                }
+            ],
+            [
+                {
+                    "country": "IND",
+                    "name": "Sanyogita SINGH"
+                },
+                {
+                    "country": "MGL",
+                    "name": "Nominzul DAMBADARJAA"
+                },
+                {
+                    "winner": "Nominzul DAMBADARJAA"
+                }
+            ],
+            [
+                {
+                    "country": "TPE",
+                    "name": "Yu-jing LIN"
+                },
+                {
+                    "country": "UZB",
+                    "name": "Shokhista ANAROVA"
+                },
+                {
+                    "winner": "Yu-jing LIN"
+                }
+            ],
+            [
+                {
+                    "country": "MGL",
+                    "name": "Nominzul DAMBADARJAA"
+                },
+                {
+                    "country": "KAZ",
+                    "name": "Madina PARAGULGOVA"
+                },
+                {
+                    "winner": "Madina PARAGULGOVA"
+                }
+            ],
+            [
+                {
+                    "country": "TPE",
+                    "name": "Yu-jing LIN"
+                }
+            ],
+            [
+                {
+                    "country": "KAZ",
+                    "name": "Madina PARAGULGOVA"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Yu-jing LIN",
+            "Madina PARAGULGOVA"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "KAZ",
+                    "name": "Madina PARAGULGOVA"
+                },
+                {
+                    "country": "UZB",
+                    "name": "Mokhinsakhon KHUSANOVA"
+                },
+                {
+                    "winner": "Mokhinsakhon KHUSANOVA"
+                }
+            ],
+            [
+                {
+                    "country": "KOR",
+                    "name": "Hayun KIM"
+                },
+                {
+                    "country": "UZB",
+                    "name": "Shokhista ANAROVA"
+                },
+                {
+                    "winner": "Hayun KIM"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "UZB",
+                    "name": "Mokhinsakhon KHUSANOVA"
+                },
+                {
+                    "country": "KOR",
+                    "name": "Hayun KIM"
+                }
+            ]
+        ],
+        "final_winner": "Hayun KIM"
+    }
+}

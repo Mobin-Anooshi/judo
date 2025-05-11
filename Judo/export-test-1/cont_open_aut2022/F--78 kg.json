@@ -1,0 +1,153 @@
+{
+    "POOL A": {
+        "round 1-1": [],
+        "final_winner": "Madeleine MALONGA"
+    },
+    "POOL B": {
+        "round 1-1": [
+            [
+                {
+                    "country": "BEL",
+                    "name": "Sophie BERGER"
+                },
+                {
+                    "country": "TUR",
+                    "name": "Nurcan YILMAZ"
+                }
+            ]
+        ],
+        "final_winner": "Nurcan YILMAZ"
+    },
+    "POOL C": {
+        "round 1-1": [
+            [
+                {
+                    "country": "UZB",
+                    "name": "Iriskhon KURBANBAEVA"
+                },
+                {
+                    "country": "SLO",
+                    "name": "Metka LOBNIK"
+                }
+            ]
+        ],
+        "final_winner": "Metka LOBNIK"
+    },
+    "POOL D": {
+        "round 1-1": [
+            [
+                {
+                    "country": "KAZ",
+                    "name": "Aruna JANGELDINA"
+                },
+                {
+                    "country": "MNE",
+                    "name": "Jovana PEKOVIC"
+                }
+            ]
+        ],
+        "final_winner": "Jovana PEKOVIC"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "BEL",
+                    "name": "Sophie BERGER"
+                }
+            ],
+            [
+                {
+                    "country": "UZB",
+                    "name": "Iriskhon KURBANBAEVA"
+                },
+                {
+                    "country": "KAZ",
+                    "name": "Aruna JANGELDINA"
+                },
+                {
+                    "winner": "Iriskhon KURBANBAEVA"
+                }
+            ],
+            [
+                {
+                    "country": "BEL",
+                    "name": "Sophie BERGER"
+                },
+                {
+                    "country": "MNE",
+                    "name": "Jovana PEKOVIC"
+                },
+                {
+                    "winner": "Sophie BERGER"
+                }
+            ],
+            [
+                {
+                    "country": "UZB",
+                    "name": "Iriskhon KURBANBAEVA"
+                },
+                {
+                    "country": "TUR",
+                    "name": "Nurcan YILMAZ"
+                },
+                {
+                    "winner": "Nurcan YILMAZ"
+                }
+            ],
+            [
+                {
+                    "country": "TUR",
+                    "name": "Nurcan YILMAZ"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Iriskhon KURBANBAEVA",
+            "Sophie BERGER"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "FRA",
+                    "name": "Madeleine MALONGA"
+                },
+                {
+                    "country": "TUR",
+                    "name": "Nurcan YILMAZ"
+                },
+                {
+                    "winner": "Madeleine MALONGA"
+                }
+            ],
+            [
+                {
+                    "country": "SLO",
+                    "name": "Metka LOBNIK"
+                },
+                {
+                    "country": "MNE",
+                    "name": "Jovana PEKOVIC"
+                },
+                {
+                    "winner": "Metka LOBNIK"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "FRA",
+                    "name": "Madeleine MALONGA"
+                },
+                {
+                    "country": "SLO",
+                    "name": "Metka LOBNIK"
+                }
+            ]
+        ],
+        "final_winner": "Madeleine MALONGA"
+    }
+}

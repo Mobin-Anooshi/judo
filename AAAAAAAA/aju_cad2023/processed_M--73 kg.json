@@ -1,0 +1,129 @@
+{
+    "POOL A": {
+        "round 1-1": [],
+        "final_winner": "Reda YOUNSI"
+    },
+    "POOL B": {
+        "round 1-1": [
+            [
+                {
+                    "country": "RSA",
+                    "name": "Levon GYULINYAN"
+                },
+                {
+                    "country": "MAD",
+                    "name": "Parany Mandresy Fehezintsoa RAZAFIMPANJA"
+                }
+            ]
+        ],
+        "final_winner": "Levon GYULINYAN"
+    },
+    "POOL C": {
+        "round 1-1": [],
+        "final_winner": "Ammar ABOHASHIM"
+    },
+    "POOL D": {
+        "round 1-1": [
+            [
+                {
+                    "country": "ANG",
+                    "name": "Lucas PAULO"
+                },
+                {
+                    "country": "GAB",
+                    "name": "Francois-Tibari NGUEMA MBA"
+                }
+            ]
+        ],
+        "final_winner": "Lucas PAULO"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "MAD",
+                    "name": "Parany Mandresy Fehezintsoa RAZAFIMPANJA"
+                }
+            ],
+            [
+                {
+                    "country": "GAB",
+                    "name": "Francois-Tibari NGUEMA MBA"
+                }
+            ],
+            [
+                {
+                    "country": "MAD",
+                    "name": "Parany Mandresy Fehezintsoa RAZAFIMPANJA"
+                },
+                {
+                    "country": "ANG",
+                    "name": "Lucas PAULO"
+                },
+                {
+                    "winner": "Parany Mandresy Fehezintsoa RAZAFIMPANJA"
+                }
+            ],
+            [
+                {
+                    "country": "GAB",
+                    "name": "Francois-Tibari NGUEMA MBA"
+                },
+                {
+                    "country": "RSA",
+                    "name": "Levon GYULINYAN"
+                },
+                {
+                    "winner": "Francois-Tibari NGUEMA MBA"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Parany Mandresy Fehezintsoa RAZAFIMPANJA",
+            "Francois-Tibari NGUEMA MBA"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ALG",
+                    "name": "Reda YOUNSI"
+                },
+                {
+                    "country": "RSA",
+                    "name": "Levon GYULINYAN"
+                },
+                {
+                    "winner": "Reda YOUNSI"
+                }
+            ],
+            [
+                {
+                    "country": "EGY",
+                    "name": "Ammar ABOHASHIM"
+                },
+                {
+                    "country": "ANG",
+                    "name": "Lucas PAULO"
+                },
+                {
+                    "winner": "Ammar ABOHASHIM"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "ALG",
+                    "name": "Reda YOUNSI"
+                },
+                {
+                    "country": "EGY",
+                    "name": "Ammar ABOHASHIM"
+                }
+            ]
+        ],
+        "final_winner": "Ammar ABOHASHIM"
+    }
+}

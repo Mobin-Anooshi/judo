@@ -1,0 +1,261 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "KGZ",
+                    "name": "Emirkhan ZHOLDOSHKAZIEV"
+                },
+                {
+                    "winner": "Emirkhan ZHOLDOSHKAZIEV"
+                }
+            ],
+            [
+                {
+                    "country": "IND",
+                    "name": "Yash VIJAYRAN"
+                },
+                {
+                    "country": "KOR",
+                    "name": "Dusan BAEK"
+                },
+                {
+                    "winner": "Dusan BAEK"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "KGZ",
+                    "name": "Emirkhan ZHOLDOSHKAZIEV"
+                },
+                {
+                    "country": "KOR",
+                    "name": "Dusan BAEK"
+                }
+            ]
+        ],
+        "final_winner": "Emirkhan ZHOLDOSHKAZIEV"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "IRI",
+                    "name": "Amir Abbas MOVAHED"
+                },
+                {
+                    "winner": "Amir Abbas MOVAHED"
+                }
+            ],
+            [
+                {
+                    "country": "TPE",
+                    "name": "Cheng-Wei HUANG"
+                },
+                {
+                    "winner": "Cheng-Wei HUANG"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "IRI",
+                    "name": "Amir Abbas MOVAHED"
+                },
+                {
+                    "country": "TPE",
+                    "name": "Cheng-Wei HUANG"
+                }
+            ]
+        ],
+        "final_winner": "Amir Abbas MOVAHED"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "KAZ",
+                    "name": "Zhantilek NURTILEPULY"
+                },
+                {
+                    "winner": "Zhantilek NURTILEPULY"
+                }
+            ],
+            [
+                {
+                    "country": "IRI",
+                    "name": "Mohammadmahdi MAZLOOMLAPVANDANI"
+                },
+                {
+                    "winner": "Mohammadmahdi MAZLOOMLAPVANDANI"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "KAZ",
+                    "name": "Zhantilek NURTILEPULY"
+                },
+                {
+                    "country": "IRI",
+                    "name": "Mohammadmahdi MAZLOOMLAPVANDANI"
+                }
+            ]
+        ],
+        "final_winner": "Zhantilek NURTILEPULY"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "UZB",
+                    "name": "Fazliddin RAFIKOV"
+                },
+                {
+                    "winner": "Fazliddin RAFIKOV"
+                }
+            ],
+            [
+                {
+                    "country": "TJK",
+                    "name": "Ahmad TABAROV"
+                },
+                {
+                    "winner": "Ahmad TABAROV"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "UZB",
+                    "name": "Fazliddin RAFIKOV"
+                },
+                {
+                    "country": "TJK",
+                    "name": "Ahmad TABAROV"
+                }
+            ]
+        ],
+        "final_winner": "Fazliddin RAFIKOV"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "KOR",
+                    "name": "Dusan BAEK"
+                },
+                {
+                    "country": "TPE",
+                    "name": "Cheng-Wei HUANG"
+                },
+                {
+                    "winner": "Cheng-Wei HUANG"
+                }
+            ],
+            [
+                {
+                    "country": "IRI",
+                    "name": "Mohammadmahdi MAZLOOMLAPVANDANI"
+                },
+                {
+                    "country": "TJK",
+                    "name": "Ahmad TABAROV"
+                },
+                {
+                    "winner": "Mohammadmahdi MAZLOOMLAPVANDANI"
+                }
+            ],
+            [
+                {
+                    "country": "TPE",
+                    "name": "Cheng-Wei HUANG"
+                },
+                {
+                    "country": "KAZ",
+                    "name": "Zhantilek NURTILEPULY"
+                },
+                {
+                    "winner": "Cheng-Wei HUANG"
+                }
+            ],
+            [
+                {
+                    "country": "IRI",
+                    "name": "Mohammadmahdi MAZLOOMLAPVANDANI"
+                },
+                {
+                    "country": "IRI",
+                    "name": "Amir Abbas MOVAHED"
+                },
+                {
+                    "winner": "Mohammadmahdi MAZLOOMLAPVANDANI"
+                }
+            ],
+            [
+                {
+                    "country": "TPE",
+                    "name": "Cheng-Wei HUANG"
+                }
+            ],
+            [
+                {
+                    "country": "IRI",
+                    "name": "Mohammadmahdi MAZLOOMLAPVANDANI"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Cheng-Wei HUANG",
+            "Mohammadmahdi MAZLOOMLAPVANDANI"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "KGZ",
+                    "name": "Emirkhan ZHOLDOSHKAZIEV"
+                },
+                {
+                    "country": "IRI",
+                    "name": "Amir Abbas MOVAHED"
+                },
+                {
+                    "winner": "Emirkhan ZHOLDOSHKAZIEV"
+                }
+            ],
+            [
+                {
+                    "country": "KAZ",
+                    "name": "Zhantilek NURTILEPULY"
+                },
+                {
+                    "country": "UZB",
+                    "name": "Fazliddin RAFIKOV"
+                },
+                {
+                    "winner": "Fazliddin RAFIKOV"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "KGZ",
+                    "name": "Emirkhan ZHOLDOSHKAZIEV"
+                },
+                {
+                    "country": "UZB",
+                    "name": "Fazliddin RAFIKOV"
+                }
+            ]
+        ],
+        "final_winner": "Emirkhan ZHOLDOSHKAZIEV"
+    }
+}

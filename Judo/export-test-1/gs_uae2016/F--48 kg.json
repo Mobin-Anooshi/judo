@@ -1,0 +1,153 @@
+{
+    "POOL A": {
+        "round 1-1": [],
+        "final_winner": "Urantsetseg MUNKHBAT"
+    },
+    "POOL B": {
+        "round 1-1": [
+            [
+                {
+                    "country": "SRB",
+                    "name": "Milica NIKOLIC"
+                },
+                {
+                    "country": "BRA",
+                    "name": "Nathalia BRIGIDA"
+                }
+            ]
+        ],
+        "final_winner": "Milica NIKOLIC"
+    },
+    "POOL C": {
+        "round 1-1": [
+            [
+                {
+                    "country": "KAZ",
+                    "name": "Otgontsetseg GALBADRAKH"
+                },
+                {
+                    "country": "FRA",
+                    "name": "Sephora CORCHER"
+                }
+            ]
+        ],
+        "final_winner": "Otgontsetseg GALBADRAKH"
+    },
+    "POOL D": {
+        "round 1-1": [
+            [
+                {
+                    "country": "ESP",
+                    "name": "Julia FIGUEROA"
+                },
+                {
+                    "country": "FRA",
+                    "name": "Cheyenne MOUNIER"
+                }
+            ]
+        ],
+        "final_winner": "Julia FIGUEROA"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Nathalia BRIGIDA"
+                }
+            ],
+            [
+                {
+                    "country": "FRA",
+                    "name": "Sephora CORCHER"
+                },
+                {
+                    "country": "FRA",
+                    "name": "Cheyenne MOUNIER"
+                },
+                {
+                    "winner": "Sephora CORCHER"
+                }
+            ],
+            [
+                {
+                    "country": "BRA",
+                    "name": "Nathalia BRIGIDA"
+                },
+                {
+                    "country": "ESP",
+                    "name": "Julia FIGUEROA"
+                },
+                {
+                    "winner": "Nathalia BRIGIDA"
+                }
+            ],
+            [
+                {
+                    "country": "FRA",
+                    "name": "Sephora CORCHER"
+                },
+                {
+                    "country": "MGL",
+                    "name": "Urantsetseg MUNKHBAT"
+                },
+                {
+                    "winner": "Urantsetseg MUNKHBAT"
+                }
+            ],
+            [
+                {
+                    "country": "MGL",
+                    "name": "Urantsetseg MUNKHBAT"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Sephora CORCHER",
+            "Nathalia BRIGIDA"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "MGL",
+                    "name": "Urantsetseg MUNKHBAT"
+                },
+                {
+                    "country": "SRB",
+                    "name": "Milica NIKOLIC"
+                },
+                {
+                    "winner": "Milica NIKOLIC"
+                }
+            ],
+            [
+                {
+                    "country": "KAZ",
+                    "name": "Otgontsetseg GALBADRAKH"
+                },
+                {
+                    "country": "ESP",
+                    "name": "Julia FIGUEROA"
+                },
+                {
+                    "winner": "Otgontsetseg GALBADRAKH"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "SRB",
+                    "name": "Milica NIKOLIC"
+                },
+                {
+                    "country": "KAZ",
+                    "name": "Otgontsetseg GALBADRAKH"
+                }
+            ]
+        ],
+        "final_winner": "Otgontsetseg GALBADRAKH"
+    }
+}

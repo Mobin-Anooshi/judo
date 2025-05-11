@@ -1,0 +1,177 @@
+{
+    "POOL A": {
+        "round 1-1": [
+            [
+                {
+                    "country": "NZL",
+                    "name": "Alexander BROWN"
+                },
+                {
+                    "country": "KSA",
+                    "name": "Saleh ALBELADI"
+                }
+            ]
+        ],
+        "final_winner": "Saleh ALBELADI"
+    },
+    "POOL B": {
+        "round 1-1": [
+            [
+                {
+                    "country": "AUS",
+                    "name": "Carstens BEYERS"
+                },
+                {
+                    "country": "HKG",
+                    "name": "Tsz Hei CHIU"
+                }
+            ]
+        ],
+        "final_winner": "Carstens BEYERS"
+    },
+    "POOL C": {
+        "round 1-1": [
+            [
+                {
+                    "country": "AUS",
+                    "name": "Lucas VLADICH-MCKENZIE"
+                },
+                {
+                    "country": "THA",
+                    "name": "Ekkaphop SUKMUANG"
+                }
+            ]
+        ],
+        "final_winner": "Lucas VLADICH-MCKENZIE"
+    },
+    "POOL D": {
+        "round 1-1": [
+            [
+                {
+                    "country": "TPE",
+                    "name": "Nian-Ting WU"
+                },
+                {
+                    "country": "KSA",
+                    "name": "Fahad ALHAWSAH"
+                }
+            ]
+        ],
+        "final_winner": "Nian-Ting WU"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "NZL",
+                    "name": "Alexander BROWN"
+                },
+                {
+                    "country": "HKG",
+                    "name": "Tsz Hei CHIU"
+                },
+                {
+                    "winner": "Alexander BROWN"
+                }
+            ],
+            [
+                {
+                    "country": "THA",
+                    "name": "Ekkaphop SUKMUANG"
+                },
+                {
+                    "country": "KSA",
+                    "name": "Fahad ALHAWSAH"
+                },
+                {
+                    "winner": "Fahad ALHAWSAH"
+                }
+            ],
+            [
+                {
+                    "country": "NZL",
+                    "name": "Alexander BROWN"
+                },
+                {
+                    "country": "TPE",
+                    "name": "Nian-Ting WU"
+                },
+                {
+                    "winner": "Nian-Ting WU"
+                }
+            ],
+            [
+                {
+                    "country": "KSA",
+                    "name": "Fahad ALHAWSAH"
+                },
+                {
+                    "country": "KSA",
+                    "name": "Saleh ALBELADI"
+                },
+                {
+                    "winner": "Saleh ALBELADI"
+                }
+            ],
+            [
+                {
+                    "country": "TPE",
+                    "name": "Nian-Ting WU"
+                }
+            ],
+            [
+                {
+                    "country": "KSA",
+                    "name": "Saleh ALBELADI"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Nian-Ting WU",
+            "Saleh ALBELADI"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "KSA",
+                    "name": "Saleh ALBELADI"
+                },
+                {
+                    "country": "AUS",
+                    "name": "Carstens BEYERS"
+                },
+                {
+                    "winner": "Carstens BEYERS"
+                }
+            ],
+            [
+                {
+                    "country": "AUS",
+                    "name": "Lucas VLADICH-MCKENZIE"
+                },
+                {
+                    "country": "TPE",
+                    "name": "Nian-Ting WU"
+                },
+                {
+                    "winner": "Lucas VLADICH-MCKENZIE"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "AUS",
+                    "name": "Carstens BEYERS"
+                },
+                {
+                    "country": "AUS",
+                    "name": "Lucas VLADICH-MCKENZIE"
+                }
+            ]
+        ],
+        "final_winner": "Carstens BEYERS"
+    }
+}

@@ -1,0 +1,265 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CUB",
+                    "name": "Arnaes ODELIN GARCIA"
+                },
+                {
+                    "winner": "Arnaes ODELIN GARCIA"
+                }
+            ],
+            [
+                {
+                    "country": "VEN",
+                    "name": "Kady CABEZO"
+                },
+                {
+                    "country": "DOM",
+                    "name": "Elianna URIBE SANCHEZ"
+                },
+                {
+                    "winner": "Kady CABEZO"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "CUB",
+                    "name": "Arnaes ODELIN GARCIA"
+                },
+                {
+                    "country": "VEN",
+                    "name": "Kady CABEZO"
+                }
+            ]
+        ],
+        "final_winner": "Arnaes ODELIN GARCIA"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "COL",
+                    "name": "Maria VILLALBA"
+                },
+                {
+                    "winner": "Maria VILLALBA"
+                }
+            ],
+            [
+                {
+                    "country": "MEX",
+                    "name": "Renata ORTIZ"
+                },
+                {
+                    "winner": "Renata ORTIZ"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "COL",
+                    "name": "Maria VILLALBA"
+                },
+                {
+                    "country": "MEX",
+                    "name": "Renata ORTIZ"
+                }
+            ]
+        ],
+        "final_winner": "Maria VILLALBA"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "DOM",
+                    "name": "Ana ROSA"
+                },
+                {
+                    "winner": "Ana ROSA"
+                }
+            ],
+            [
+                {
+                    "country": "HAI",
+                    "name": "Sabiana ANESTOR"
+                },
+                {
+                    "country": "USA",
+                    "name": "Leana NELSON"
+                },
+                {
+                    "winner": "Sabiana ANESTOR"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "DOM",
+                    "name": "Ana ROSA"
+                },
+                {
+                    "country": "HAI",
+                    "name": "Sabiana ANESTOR"
+                }
+            ]
+        ],
+        "final_winner": "Ana ROSA"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "PAN",
+                    "name": "Kristine JIMENEZ"
+                },
+                {
+                    "winner": "Kristine JIMENEZ"
+                }
+            ],
+            [
+                {
+                    "country": "ECU",
+                    "name": "Astrid GAVIDIA"
+                },
+                {
+                    "winner": "Astrid GAVIDIA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "PAN",
+                    "name": "Kristine JIMENEZ"
+                },
+                {
+                    "country": "ECU",
+                    "name": "Astrid GAVIDIA"
+                }
+            ]
+        ],
+        "final_winner": "Astrid GAVIDIA"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "VEN",
+                    "name": "Kady CABEZO"
+                },
+                {
+                    "country": "MEX",
+                    "name": "Renata ORTIZ"
+                },
+                {
+                    "winner": "Kady CABEZO"
+                }
+            ],
+            [
+                {
+                    "country": "HAI",
+                    "name": "Sabiana ANESTOR"
+                },
+                {
+                    "country": "PAN",
+                    "name": "Kristine JIMENEZ"
+                },
+                {
+                    "winner": "Kristine JIMENEZ"
+                }
+            ],
+            [
+                {
+                    "country": "VEN",
+                    "name": "Kady CABEZO"
+                },
+                {
+                    "country": "ECU",
+                    "name": "Astrid GAVIDIA"
+                },
+                {
+                    "winner": "Astrid GAVIDIA"
+                }
+            ],
+            [
+                {
+                    "country": "PAN",
+                    "name": "Kristine JIMENEZ"
+                },
+                {
+                    "country": "COL",
+                    "name": "Maria VILLALBA"
+                },
+                {
+                    "winner": "Maria VILLALBA"
+                }
+            ],
+            [
+                {
+                    "country": "ECU",
+                    "name": "Astrid GAVIDIA"
+                }
+            ],
+            [
+                {
+                    "country": "COL",
+                    "name": "Maria VILLALBA"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Astrid GAVIDIA",
+            "Maria VILLALBA"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CUB",
+                    "name": "Arnaes ODELIN GARCIA"
+                },
+                {
+                    "country": "COL",
+                    "name": "Maria VILLALBA"
+                },
+                {
+                    "winner": "Arnaes ODELIN GARCIA"
+                }
+            ],
+            [
+                {
+                    "country": "DOM",
+                    "name": "Ana ROSA"
+                },
+                {
+                    "country": "ECU",
+                    "name": "Astrid GAVIDIA"
+                },
+                {
+                    "winner": "Ana ROSA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "CUB",
+                    "name": "Arnaes ODELIN GARCIA"
+                },
+                {
+                    "country": "DOM",
+                    "name": "Ana ROSA"
+                }
+            ]
+        ],
+        "final_winner": "Arnaes ODELIN GARCIA"
+    }
+}

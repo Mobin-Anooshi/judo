@@ -1,0 +1,141 @@
+{
+    "POOL A": {
+        "round 1-1": [],
+        "final_winner": "Sofia FIORA"
+    },
+    "POOL B": {
+        "round 1-1": [
+            [
+                {
+                    "country": "ECU",
+                    "name": "Aracelly BARRIONUEVO"
+                },
+                {
+                    "country": "COL",
+                    "name": "Maria Alejandra MORA"
+                }
+            ]
+        ],
+        "final_winner": "Aracelly BARRIONUEVO"
+    },
+    "POOL C": {
+        "round 1-1": [],
+        "final_winner": "Judith GONZALEZ"
+    },
+    "POOL D": {
+        "round 1-1": [
+            [
+                {
+                    "country": "USA",
+                    "name": "Malia SOBERANO"
+                },
+                {
+                    "country": "ARG",
+                    "name": "Valentina ALAMO"
+                }
+            ]
+        ],
+        "final_winner": "Valentina ALAMO"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "COL",
+                    "name": "Maria Alejandra MORA"
+                }
+            ],
+            [
+                {
+                    "country": "USA",
+                    "name": "Malia SOBERANO"
+                }
+            ],
+            [
+                {
+                    "country": "COL",
+                    "name": "Maria Alejandra MORA"
+                },
+                {
+                    "country": "ARG",
+                    "name": "Valentina ALAMO"
+                },
+                {
+                    "winner": "Valentina ALAMO"
+                }
+            ],
+            [
+                {
+                    "country": "USA",
+                    "name": "Malia SOBERANO"
+                },
+                {
+                    "country": "ARG",
+                    "name": "Sofia FIORA"
+                },
+                {
+                    "winner": "Sofia FIORA"
+                }
+            ],
+            [
+                {
+                    "country": "ARG",
+                    "name": "Valentina ALAMO"
+                }
+            ],
+            [
+                {
+                    "country": "ARG",
+                    "name": "Sofia FIORA"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Valentina ALAMO",
+            "Sofia FIORA"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ARG",
+                    "name": "Sofia FIORA"
+                },
+                {
+                    "country": "ECU",
+                    "name": "Aracelly BARRIONUEVO"
+                },
+                {
+                    "winner": "Aracelly BARRIONUEVO"
+                }
+            ],
+            [
+                {
+                    "country": "CHI",
+                    "name": "Judith GONZALEZ"
+                },
+                {
+                    "country": "ARG",
+                    "name": "Valentina ALAMO"
+                },
+                {
+                    "winner": "Judith GONZALEZ"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "ECU",
+                    "name": "Aracelly BARRIONUEVO"
+                },
+                {
+                    "country": "CHI",
+                    "name": "Judith GONZALEZ"
+                }
+            ]
+        ],
+        "final_winner": "Aracelly BARRIONUEVO"
+    }
+}

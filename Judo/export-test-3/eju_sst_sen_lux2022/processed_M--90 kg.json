@@ -1,0 +1,87 @@
+{
+    "POOL A": {
+        "round 1-3": [
+            [
+                {
+                    "country": "LIE",
+                    "name": "Raphael SCHWENDINGER"
+                },
+                {
+                    "country": "ISL",
+                    "name": "Skarphedinn HJALTASON"
+                },
+                {
+                    "winner": "Raphael SCHWENDINGER"
+                }
+            ],
+            [
+                {
+                    "country": "LIE",
+                    "name": "Raphael SCHWENDINGER"
+                },
+                {
+                    "country": "FRO",
+                    "name": "Joan Petur PETERSEN"
+                },
+                {
+                    "winner": "Joan Petur PETERSEN"
+                }
+            ],
+            [
+                {
+                    "country": "ISL",
+                    "name": "Skarphedinn HJALTASON"
+                },
+                {
+                    "country": "FRO",
+                    "name": "Joan Petur PETERSEN"
+                },
+                {
+                    "winner": "Skarphedinn HJALTASON"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Raphael SCHWENDINGER",
+            "Skarphedinn HJALTASON"
+        ]
+    },
+    "POOL B": {
+        "round 1-1": [],
+        "final_winners": [
+            "Egill BLONDAL"
+        ]
+    },
+    "REPECHAGE": {
+        "round 1-1": [
+            [
+                {
+                    "country": "ISL",
+                    "name": "Skarphedinn HJALTASON"
+                },
+                {
+                    "country": "MLT",
+                    "name": "Valerian OGBAIDZE"
+                },
+                {
+                    "winner": "Valerian OGBAIDZE"
+                }
+            ],
+            [
+                {
+                    "country": "MLT",
+                    "name": "Valerian OGBAIDZE"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Valerian OGBAIDZE"
+        ]
+    },
+    "FINALS": {
+        "round 1-1": [],
+        "final_winners": [
+            "Egill BLONDAL"
+        ]
+    }
+}

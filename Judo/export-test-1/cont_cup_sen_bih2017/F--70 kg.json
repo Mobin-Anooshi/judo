@@ -1,0 +1,299 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "MNE",
+                    "name": "Jovana PEKOVIC"
+                },
+                {
+                    "winner": "Jovana PEKOVIC"
+                }
+            ],
+            [
+                {
+                    "country": "POL",
+                    "name": "Aleksandra JABLONSKA"
+                },
+                {
+                    "winner": "Aleksandra JABLONSKA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "MNE",
+                    "name": "Jovana PEKOVIC"
+                },
+                {
+                    "country": "POL",
+                    "name": "Aleksandra JABLONSKA"
+                }
+            ]
+        ],
+        "final_winner": "Jovana PEKOVIC"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "BIH",
+                    "name": "Jelena TOPIC"
+                },
+                {
+                    "winner": "Jelena TOPIC"
+                }
+            ],
+            [
+                {
+                    "country": "BEL",
+                    "name": "Sophie BERGER"
+                },
+                {
+                    "winner": "Sophie BERGER"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "BIH",
+                    "name": "Jelena TOPIC"
+                },
+                {
+                    "country": "BEL",
+                    "name": "Sophie BERGER"
+                }
+            ]
+        ],
+        "final_winner": "Sophie BERGER"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "FRA",
+                    "name": "Gwenaelle VIARD"
+                },
+                {
+                    "winner": "Gwenaelle VIARD"
+                }
+            ],
+            [
+                {
+                    "country": "BIH",
+                    "name": "Danica JURIC"
+                },
+                {
+                    "country": "HUN",
+                    "name": "Renata LORINC"
+                },
+                {
+                    "winner": "Renata LORINC"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "FRA",
+                    "name": "Gwenaelle VIARD"
+                },
+                {
+                    "country": "HUN",
+                    "name": "Renata LORINC"
+                }
+            ]
+        ],
+        "final_winner": "Gwenaelle VIARD"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ITA",
+                    "name": "Agnese PICCOLI"
+                },
+                {
+                    "winner": "Agnese PICCOLI"
+                }
+            ],
+            [
+                {
+                    "country": "SLO",
+                    "name": "Zala PECOLER"
+                },
+                {
+                    "winner": "Zala PECOLER"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "ITA",
+                    "name": "Agnese PICCOLI"
+                },
+                {
+                    "country": "SLO",
+                    "name": "Zala PECOLER"
+                }
+            ]
+        ],
+        "final_winner": "Zala PECOLER"
+    },
+    "REPECHAGE": {
+        "round 1-4": [
+            [
+                {
+                    "country": "POL",
+                    "name": "Aleksandra JABLONSKA"
+                },
+                {
+                    "winner": "Aleksandra JABLONSKA"
+                }
+            ],
+            [
+                {
+                    "country": "BIH",
+                    "name": "Jelena TOPIC"
+                },
+                {
+                    "winner": "Jelena TOPIC"
+                }
+            ],
+            [
+                {
+                    "country": "HUN",
+                    "name": "Renata LORINC"
+                },
+                {
+                    "winner": "Renata LORINC"
+                }
+            ],
+            [
+                {
+                    "country": "ITA",
+                    "name": "Agnese PICCOLI"
+                },
+                {
+                    "winner": "Agnese PICCOLI"
+                }
+            ]
+        ],
+        "round 1-2": [
+            [
+                {
+                    "country": "POL",
+                    "name": "Aleksandra JABLONSKA"
+                },
+                {
+                    "country": "BIH",
+                    "name": "Jelena TOPIC"
+                },
+                {
+                    "winner": "Aleksandra JABLONSKA"
+                }
+            ],
+            [
+                {
+                    "country": "HUN",
+                    "name": "Renata LORINC"
+                },
+                {
+                    "country": "ITA",
+                    "name": "Agnese PICCOLI"
+                },
+                {
+                    "winner": "Renata LORINC"
+                }
+            ],
+            [
+                {
+                    "country": "POL",
+                    "name": "Aleksandra JABLONSKA"
+                },
+                {
+                    "country": "SLO",
+                    "name": "Zala PECOLER"
+                },
+                {
+                    "winner": "Aleksandra JABLONSKA"
+                }
+            ],
+            [
+                {
+                    "country": "HUN",
+                    "name": "Renata LORINC"
+                },
+                {
+                    "country": "BEL",
+                    "name": "Sophie BERGER"
+                },
+                {
+                    "winner": "Sophie BERGER"
+                }
+            ],
+            [
+                {
+                    "country": "POL",
+                    "name": "Aleksandra JABLONSKA"
+                }
+            ],
+            [
+                {
+                    "country": "BEL",
+                    "name": "Sophie BERGER"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Aleksandra JABLONSKA",
+            "Sophie BERGER"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "MNE",
+                    "name": "Jovana PEKOVIC"
+                },
+                {
+                    "country": "BEL",
+                    "name": "Sophie BERGER"
+                },
+                {
+                    "winner": "Jovana PEKOVIC"
+                }
+            ],
+            [
+                {
+                    "country": "FRA",
+                    "name": "Gwenaelle VIARD"
+                },
+                {
+                    "country": "SLO",
+                    "name": "Zala PECOLER"
+                },
+                {
+                    "winner": "Gwenaelle VIARD"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "MNE",
+                    "name": "Jovana PEKOVIC"
+                },
+                {
+                    "country": "FRA",
+                    "name": "Gwenaelle VIARD"
+                }
+            ]
+        ],
+        "final_winner": "Jovana PEKOVIC"
+    }
+}

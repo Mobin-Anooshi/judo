@@ -1,0 +1,268 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ITA",
+                    "name": "Elisa ADRASTI"
+                },
+                {
+                    "winner": "Elisa ADRASTI"
+                }
+            ],
+            [
+                {
+                    "country": "TUR",
+                    "name": "Rabia ERCENGIZ"
+                },
+                {
+                    "winner": "Rabia ERCENGIZ"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "ITA",
+                    "name": "Elisa ADRASTI"
+                },
+                {
+                    "country": "TUR",
+                    "name": "Rabia ERCENGIZ"
+                }
+            ],
+            [
+                {
+                    "country": "ITA",
+                    "name": "Elisa ADRASTI"
+                }
+            ]
+        ]
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "AZE",
+                    "name": "Shahla BABAYEVA"
+                },
+                {
+                    "winner": "Shahla BABAYEVA"
+                }
+            ],
+            [
+                {
+                    "country": "CYP",
+                    "name": "Vasiliki KOURRI"
+                },
+                {
+                    "winner": "Vasiliki KOURRI"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "AZE",
+                    "name": "Shahla BABAYEVA"
+                },
+                {
+                    "country": "CYP",
+                    "name": "Vasiliki KOURRI"
+                }
+            ],
+            [
+                {
+                    "country": "CYP",
+                    "name": "Vasiliki KOURRI"
+                }
+            ]
+        ]
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "BUL",
+                    "name": "Tsvetelina TSVETANOVA"
+                },
+                {
+                    "winner": "Tsvetelina TSVETANOVA"
+                }
+            ],
+            [
+                {
+                    "country": "TUR",
+                    "name": "Cicek AKYUZ"
+                },
+                {
+                    "winner": "Cicek AKYUZ"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "BUL",
+                    "name": "Tsvetelina TSVETANOVA"
+                },
+                {
+                    "country": "TUR",
+                    "name": "Cicek AKYUZ"
+                }
+            ],
+            [
+                {
+                    "country": "TUR",
+                    "name": "Cicek AKYUZ"
+                }
+            ]
+        ]
+    },
+    "POOL D": {
+        "round 1-2": [
+            [],
+            [
+                {
+                    "country": "TUR",
+                    "name": "Duygu TOPCU"
+                },
+                {
+                    "winner": "Duygu TOPCU"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "TUR",
+                    "name": "Duygu TOPCU"
+                }
+            ]
+        ]
+    },
+    "REPECHAGE": {
+        "round 1-4": [
+            [
+                {
+                    "country": "TUR",
+                    "name": "Rabia ERCENGIZ"
+                },
+                {
+                    "winner": "Rabia ERCENGIZ"
+                }
+            ],
+            [
+                {
+                    "country": "AZE",
+                    "name": "Shahla BABAYEVA"
+                },
+                {
+                    "winner": "Shahla BABAYEVA"
+                }
+            ],
+            [
+                {
+                    "country": "BUL",
+                    "name": "Tsvetelina TSVETANOVA"
+                },
+                {
+                    "winner": "Tsvetelina TSVETANOVA"
+                }
+            ],
+            []
+        ],
+        "round 1-2": [
+            [
+                {
+                    "country": "TUR",
+                    "name": "Rabia ERCENGIZ"
+                },
+                {
+                    "country": "AZE",
+                    "name": "Shahla BABAYEVA"
+                }
+            ],
+            [
+                {
+                    "country": "BUL",
+                    "name": "Tsvetelina TSVETANOVA"
+                }
+            ],
+            [
+                {
+                    "country": "TUR",
+                    "name": "Rabia ERCENGIZ"
+                },
+                {
+                    "country": "TUR",
+                    "name": "Duygu TOPCU"
+                }
+            ],
+            [
+                {
+                    "country": "BUL",
+                    "name": "Tsvetelina TSVETANOVA"
+                },
+                {
+                    "country": "ITA",
+                    "name": "Elisa ADRASTI"
+                }
+            ],
+            [
+                {
+                    "country": "TUR",
+                    "name": "Rabia ERCENGIZ"
+                }
+            ]
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ITA",
+                    "name": "Elisa ADRASTI"
+                },
+                {
+                    "country": "CYP",
+                    "name": "Vasiliki KOURRI"
+                },
+                {
+                    "winner": "Vasiliki KOURRI"
+                }
+            ],
+            [
+                {
+                    "country": "TUR",
+                    "name": "Cicek AKYUZ"
+                },
+                {
+                    "country": "TUR",
+                    "name": "Duygu TOPCU"
+                },
+                {
+                    "winner": "Cicek AKYUZ"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "CYP",
+                    "name": "Vasiliki KOURRI"
+                },
+                {
+                    "country": "TUR",
+                    "name": "Cicek AKYUZ"
+                }
+            ],
+            [
+                {
+                    "country": "TUR",
+                    "name": "Cicek AKYUZ"
+                }
+            ]
+        ]
+    }
+}

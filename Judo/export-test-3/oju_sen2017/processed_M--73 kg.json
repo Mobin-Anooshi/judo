@@ -1,0 +1,87 @@
+{
+    "POOL A": {
+        "round 1-3": [
+            [
+                {
+                    "country": "NCL",
+                    "name": "Vincent BURANI"
+                },
+                {
+                    "country": "PNG",
+                    "name": "Kinsley VUI"
+                },
+                {
+                    "winner": "Vincent BURANI"
+                }
+            ],
+            [
+                {
+                    "country": "NCL",
+                    "name": "Vincent BURANI"
+                },
+                {
+                    "country": "NZL",
+                    "name": "Finn BROWN"
+                },
+                {
+                    "winner": "Finn BROWN"
+                }
+            ],
+            [
+                {
+                    "country": "PNG",
+                    "name": "Kinsley VUI"
+                },
+                {
+                    "country": "NZL",
+                    "name": "Finn BROWN"
+                },
+                {
+                    "winner": "Finn BROWN"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Vincent BURANI",
+            "Finn BROWN"
+        ]
+    },
+    "POOL B": {
+        "round 1-1": [],
+        "final_winners": [
+            "Jake BENSTED"
+        ]
+    },
+    "REPECHAGE": {
+        "round 1-1": [
+            [
+                {
+                    "country": "NCL",
+                    "name": "Vincent BURANI"
+                },
+                {
+                    "country": "NZL",
+                    "name": "Ryan JEFFERY"
+                },
+                {
+                    "winner": "Vincent BURANI"
+                }
+            ],
+            [
+                {
+                    "country": "NCL",
+                    "name": "Vincent BURANI"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Vincent BURANI"
+        ]
+    },
+    "FINALS": {
+        "round 1-1": [],
+        "final_winners": [
+            "Jake BENSTED"
+        ]
+    }
+}

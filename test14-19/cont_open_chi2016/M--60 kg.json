@@ -1,0 +1,266 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "BEL",
+                    "name": "Senne WYNS"
+                },
+                {
+                    "winner": "Senne WYNS"
+                }
+            ],
+            [
+                {
+                    "country": "CHI",
+                    "name": "Joaquin ALVARADO"
+                },
+                {
+                    "winner": "Joaquin ALVARADO"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "BEL",
+                    "name": "Senne WYNS"
+                },
+                {
+                    "country": "CHI",
+                    "name": "Joaquin ALVARADO"
+                }
+            ],
+            [
+                {
+                    "country": "BEL",
+                    "name": "Senne WYNS"
+                }
+            ]
+        ]
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "PER",
+                    "name": "Yerson MEJIA HOLGADO"
+                },
+                {
+                    "winner": "Yerson MEJIA HOLGADO"
+                }
+            ],
+            [
+                {
+                    "country": "CHI",
+                    "name": "Kobe CHAVEZ"
+                },
+                {
+                    "winner": "Kobe CHAVEZ"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "PER",
+                    "name": "Yerson MEJIA HOLGADO"
+                },
+                {
+                    "country": "CHI",
+                    "name": "Kobe CHAVEZ"
+                }
+            ],
+            [
+                {
+                    "country": "PER",
+                    "name": "Yerson MEJIA HOLGADO"
+                }
+            ]
+        ]
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ARG",
+                    "name": "Jose luis GALVAN"
+                },
+                {
+                    "winner": "Jose luis GALVAN"
+                }
+            ],
+            [
+                {
+                    "country": "CHI",
+                    "name": "Hugo VERA"
+                },
+                {
+                    "winner": "Hugo VERA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "ARG",
+                    "name": "Jose luis GALVAN"
+                },
+                {
+                    "country": "CHI",
+                    "name": "Hugo VERA"
+                }
+            ],
+            [
+                {
+                    "country": "ARG",
+                    "name": "Jose luis GALVAN"
+                }
+            ]
+        ]
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CHI",
+                    "name": "Juan HERRERA"
+                },
+                {
+                    "winner": "Juan HERRERA"
+                }
+            ],
+            [
+                {
+                    "country": "PER",
+                    "name": "Dilmer CALLE MOROCHO"
+                },
+                {
+                    "winner": "Dilmer CALLE MOROCHO"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "CHI",
+                    "name": "Juan HERRERA"
+                },
+                {
+                    "country": "PER",
+                    "name": "Dilmer CALLE MOROCHO"
+                }
+            ],
+            [
+                {
+                    "country": "PER",
+                    "name": "Dilmer CALLE MOROCHO"
+                }
+            ]
+        ]
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CHI",
+                    "name": "Joaquin ALVARADO"
+                },
+                {
+                    "country": "CHI",
+                    "name": "Kobe CHAVEZ"
+                }
+            ],
+            [
+                {
+                    "country": "CHI",
+                    "name": "Hugo VERA"
+                },
+                {
+                    "country": "CHI",
+                    "name": "Juan HERRERA"
+                }
+            ],
+            [
+                {
+                    "country": "CHI",
+                    "name": "Joaquin ALVARADO"
+                },
+                {
+                    "country": "ARG",
+                    "name": "Jose luis GALVAN"
+                }
+            ],
+            [
+                {
+                    "country": "CHI",
+                    "name": "Juan HERRERA"
+                },
+                {
+                    "country": "PER",
+                    "name": "Yerson MEJIA HOLGADO"
+                }
+            ],
+            [
+                {
+                    "country": "ARG",
+                    "name": "Jose luis GALVAN"
+                }
+            ],
+            [
+                {
+                    "country": "PER",
+                    "name": "Yerson MEJIA HOLGADO"
+                }
+            ]
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "BEL",
+                    "name": "Senne WYNS"
+                },
+                {
+                    "country": "PER",
+                    "name": "Yerson MEJIA HOLGADO"
+                },
+                {
+                    "winner": "Senne WYNS"
+                }
+            ],
+            [
+                {
+                    "country": "ARG",
+                    "name": "Jose luis GALVAN"
+                },
+                {
+                    "country": "PER",
+                    "name": "Dilmer CALLE MOROCHO"
+                },
+                {
+                    "winner": "Dilmer CALLE MOROCHO"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "BEL",
+                    "name": "Senne WYNS"
+                },
+                {
+                    "country": "PER",
+                    "name": "Dilmer CALLE MOROCHO"
+                }
+            ],
+            [
+                {
+                    "country": "BEL",
+                    "name": "Senne WYNS"
+                }
+            ]
+        ]
+    }
+}

@@ -1,0 +1,275 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "KOR",
+                    "name": "Jonghoon WON"
+                },
+                {
+                    "winner": "Jonghoon WON"
+                }
+            ],
+            [
+                {
+                    "country": "JPN",
+                    "name": "Daiki TANII"
+                },
+                {
+                    "winner": "Daiki TANII"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "KOR",
+                    "name": "Jonghoon WON"
+                },
+                {
+                    "country": "JPN",
+                    "name": "Daiki TANII"
+                }
+            ],
+            [
+                {
+                    "country": "KOR",
+                    "name": "Jonghoon WON"
+                }
+            ]
+        ]
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "TPE",
+                    "name": "Yi chih HONG"
+                },
+                {
+                    "winner": "Yi chih HONG"
+                }
+            ],
+            [
+                {
+                    "country": "TPE",
+                    "name": "Guan Zhi LU"
+                },
+                {
+                    "country": "KOR",
+                    "name": "Gyeongjun KIM"
+                },
+                {
+                    "winner": "Gyeongjun KIM"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "TPE",
+                    "name": "Yi chih HONG"
+                },
+                {
+                    "country": "KOR",
+                    "name": "Gyeongjun KIM"
+                }
+            ],
+            [
+                {
+                    "country": "TPE",
+                    "name": "Yi chih HONG"
+                }
+            ]
+        ]
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "KOR",
+                    "name": "Leehyun KIM"
+                },
+                {
+                    "winner": "Leehyun KIM"
+                }
+            ],
+            [
+                {
+                    "country": "TPE",
+                    "name": "Cheng-hsuan LIN"
+                },
+                {
+                    "winner": "Cheng-hsuan LIN"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "KOR",
+                    "name": "Leehyun KIM"
+                },
+                {
+                    "country": "TPE",
+                    "name": "Cheng-hsuan LIN"
+                }
+            ],
+            [
+                {
+                    "country": "KOR",
+                    "name": "Leehyun KIM"
+                }
+            ]
+        ]
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "USA",
+                    "name": "L.A. SMITH III"
+                },
+                {
+                    "winner": "L.A. SMITH III"
+                }
+            ],
+            [
+                {
+                    "country": "TPE",
+                    "name": "Han-chien TSENG"
+                },
+                {
+                    "country": "KOR",
+                    "name": "Seongjun KIM"
+                },
+                {
+                    "winner": "Seongjun KIM"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "USA",
+                    "name": "L.A. SMITH III"
+                },
+                {
+                    "country": "KOR",
+                    "name": "Seongjun KIM"
+                }
+            ],
+            [
+                {
+                    "country": "USA",
+                    "name": "L.A. SMITH III"
+                }
+            ]
+        ]
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "JPN",
+                    "name": "Daiki TANII"
+                },
+                {
+                    "country": "KOR",
+                    "name": "Gyeongjun KIM"
+                }
+            ],
+            [
+                {
+                    "country": "TPE",
+                    "name": "Cheng-hsuan LIN"
+                },
+                {
+                    "country": "KOR",
+                    "name": "Seongjun KIM"
+                }
+            ],
+            [
+                {
+                    "country": "JPN",
+                    "name": "Daiki TANII"
+                },
+                {
+                    "country": "Vote",
+                    "name": "USA"
+                },
+                {
+                    "country": "L.A. SMITH III",
+                    "name": "Vote"
+                }
+            ],
+            [
+                {
+                    "country": "TPE",
+                    "name": "Cheng-hsuan LIN"
+                },
+                {
+                    "country": "Vote",
+                    "name": "TPE"
+                },
+                {
+                    "country": "Yi chih HONG",
+                    "name": "Vote"
+                }
+            ],
+            []
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "KOR",
+                    "name": "Jonghoon WON"
+                },
+                {
+                    "country": "Vote",
+                    "name": "TPE"
+                },
+                {
+                    "country": "Yi chih HONG",
+                    "name": "Vote"
+                },
+                {
+                    "winner": "Jonghoon WON"
+                }
+            ],
+            [
+                {
+                    "country": "KOR",
+                    "name": "Leehyun KIM"
+                },
+                {
+                    "country": "USA",
+                    "name": "L.A. SMITH III"
+                },
+                {
+                    "winner": "Leehyun KIM"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "KOR",
+                    "name": "Jonghoon WON"
+                },
+                {
+                    "country": "KOR",
+                    "name": "Leehyun KIM"
+                }
+            ],
+            [
+                {
+                    "country": "KOR",
+                    "name": "Jonghoon WON"
+                }
+            ]
+        ]
+    }
+}

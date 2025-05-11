@@ -1,0 +1,177 @@
+{
+    "POOL A": {
+        "round 1-1": [
+            [
+                {
+                    "country": "MRI",
+                    "name": "Priscilla MORAND"
+                },
+                {
+                    "country": "CAN",
+                    "name": "Kylee ESPARBES"
+                }
+            ]
+        ],
+        "final_winner": "Priscilla MORAND"
+    },
+    "POOL B": {
+        "round 1-1": [
+            [
+                {
+                    "country": "CAN",
+                    "name": "Heidi QUACH"
+                },
+                {
+                    "country": "USA",
+                    "name": "Malia MANIBOG"
+                }
+            ]
+        ],
+        "final_winner": "Heidi QUACH"
+    },
+    "POOL C": {
+        "round 1-1": [
+            [
+                {
+                    "country": "GAB",
+                    "name": "Virginia AYMARD"
+                },
+                {
+                    "country": "CAN",
+                    "name": "Angelina MCCRISTALL"
+                }
+            ]
+        ],
+        "final_winner": "Virginia AYMARD"
+    },
+    "POOL D": {
+        "round 1-1": [
+            [
+                {
+                    "country": "GUA",
+                    "name": "Jacqueline SOLIS"
+                },
+                {
+                    "country": "CAN",
+                    "name": "Marie-Lune TURMEL"
+                }
+            ]
+        ],
+        "final_winner": "Marie-Lune TURMEL"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CAN",
+                    "name": "Kylee ESPARBES"
+                },
+                {
+                    "country": "USA",
+                    "name": "Malia MANIBOG"
+                },
+                {
+                    "winner": "Malia MANIBOG"
+                }
+            ],
+            [
+                {
+                    "country": "CAN",
+                    "name": "Angelina MCCRISTALL"
+                },
+                {
+                    "country": "GUA",
+                    "name": "Jacqueline SOLIS"
+                },
+                {
+                    "winner": "Jacqueline SOLIS"
+                }
+            ],
+            [
+                {
+                    "country": "USA",
+                    "name": "Malia MANIBOG"
+                },
+                {
+                    "country": "CAN",
+                    "name": "Marie-Lune TURMEL"
+                },
+                {
+                    "winner": "Marie-Lune TURMEL"
+                }
+            ],
+            [
+                {
+                    "country": "GUA",
+                    "name": "Jacqueline SOLIS"
+                },
+                {
+                    "country": "MRI",
+                    "name": "Priscilla MORAND"
+                },
+                {
+                    "winner": "Priscilla MORAND"
+                }
+            ],
+            [
+                {
+                    "country": "CAN",
+                    "name": "Marie-Lune TURMEL"
+                }
+            ],
+            [
+                {
+                    "country": "MRI",
+                    "name": "Priscilla MORAND"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Marie-Lune TURMEL",
+            "Priscilla MORAND"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "MRI",
+                    "name": "Priscilla MORAND"
+                },
+                {
+                    "country": "CAN",
+                    "name": "Heidi QUACH"
+                },
+                {
+                    "winner": "Heidi QUACH"
+                }
+            ],
+            [
+                {
+                    "country": "GAB",
+                    "name": "Virginia AYMARD"
+                },
+                {
+                    "country": "CAN",
+                    "name": "Marie-Lune TURMEL"
+                },
+                {
+                    "winner": "Virginia AYMARD"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "CAN",
+                    "name": "Heidi QUACH"
+                },
+                {
+                    "country": "GAB",
+                    "name": "Virginia AYMARD"
+                }
+            ]
+        ],
+        "final_winner": "Heidi QUACH"
+    }
+}

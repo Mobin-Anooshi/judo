@@ -1,0 +1,269 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ARG",
+                    "name": "Emmanuel LUCENTI"
+                },
+                {
+                    "winner": "Emmanuel LUCENTI"
+                }
+            ],
+            [
+                {
+                    "country": "ECU",
+                    "name": "Edisson VIVERO"
+                },
+                {
+                    "country": "USA",
+                    "name": "Ramzi DEEK"
+                },
+                {
+                    "winner": "Edisson VIVERO"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "ARG",
+                    "name": "Emmanuel LUCENTI"
+                },
+                {
+                    "country": "ECU",
+                    "name": "Edisson VIVERO"
+                }
+            ]
+        ],
+        "final_winner": "Emmanuel LUCENTI"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Leandro GUILHEIRO"
+                },
+                {
+                    "winner": "Leandro GUILHEIRO"
+                }
+            ],
+            [
+                {
+                    "country": "CUB",
+                    "name": "Jorge MARTINEZ"
+                },
+                {
+                    "country": "URU",
+                    "name": "Rodrigo GAMOU"
+                },
+                {
+                    "winner": "Jorge MARTINEZ"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Leandro GUILHEIRO"
+                },
+                {
+                    "country": "CUB",
+                    "name": "Jorge MARTINEZ"
+                }
+            ]
+        ],
+        "final_winner": "Leandro GUILHEIRO"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "PER",
+                    "name": "Luis Eduardo ANGELES SOTELO"
+                },
+                {
+                    "winner": "Luis Eduardo ANGELES SOTELO"
+                }
+            ],
+            [
+                {
+                    "country": "URU",
+                    "name": "Federico BURGOS"
+                },
+                {
+                    "winner": "Federico BURGOS"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "PER",
+                    "name": "Luis Eduardo ANGELES SOTELO"
+                },
+                {
+                    "country": "URU",
+                    "name": "Federico BURGOS"
+                }
+            ]
+        ],
+        "final_winner": "Luis Eduardo ANGELES SOTELO"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "URU",
+                    "name": "Alain APRAHAMIAN"
+                },
+                {
+                    "winner": "Alain APRAHAMIAN"
+                }
+            ],
+            [
+                {
+                    "country": "USA",
+                    "name": "Alex JACOBSON"
+                },
+                {
+                    "country": "CAN",
+                    "name": "Solomon CHORAN"
+                },
+                {
+                    "winner": "Alex JACOBSON"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "URU",
+                    "name": "Alain APRAHAMIAN"
+                },
+                {
+                    "country": "USA",
+                    "name": "Alex JACOBSON"
+                }
+            ]
+        ],
+        "final_winner": "Alain APRAHAMIAN"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ECU",
+                    "name": "Edisson VIVERO"
+                },
+                {
+                    "country": "CUB",
+                    "name": "Jorge MARTINEZ"
+                },
+                {
+                    "winner": "Jorge MARTINEZ"
+                }
+            ],
+            [
+                {
+                    "country": "URU",
+                    "name": "Federico BURGOS"
+                },
+                {
+                    "country": "USA",
+                    "name": "Alex JACOBSON"
+                },
+                {
+                    "winner": "Federico BURGOS"
+                }
+            ],
+            [
+                {
+                    "country": "CUB",
+                    "name": "Jorge MARTINEZ"
+                },
+                {
+                    "country": "PER",
+                    "name": "Luis Eduardo ANGELES SOTELO"
+                },
+                {
+                    "winner": "Jorge MARTINEZ"
+                }
+            ],
+            [
+                {
+                    "country": "URU",
+                    "name": "Federico BURGOS"
+                },
+                {
+                    "country": "BRA",
+                    "name": "Leandro GUILHEIRO"
+                },
+                {
+                    "winner": "Leandro GUILHEIRO"
+                }
+            ],
+            [
+                {
+                    "country": "CUB",
+                    "name": "Jorge MARTINEZ"
+                }
+            ],
+            [
+                {
+                    "country": "BRA",
+                    "name": "Leandro GUILHEIRO"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Jorge MARTINEZ",
+            "Leandro GUILHEIRO"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ARG",
+                    "name": "Emmanuel LUCENTI"
+                },
+                {
+                    "country": "BRA",
+                    "name": "Leandro GUILHEIRO"
+                },
+                {
+                    "winner": "Emmanuel LUCENTI"
+                }
+            ],
+            [
+                {
+                    "country": "PER",
+                    "name": "Luis Eduardo ANGELES SOTELO"
+                },
+                {
+                    "country": "URU",
+                    "name": "Alain APRAHAMIAN"
+                },
+                {
+                    "winner": "Alain APRAHAMIAN"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "ARG",
+                    "name": "Emmanuel LUCENTI"
+                },
+                {
+                    "country": "URU",
+                    "name": "Alain APRAHAMIAN"
+                }
+            ]
+        ],
+        "final_winner": "Emmanuel LUCENTI"
+    }
+}

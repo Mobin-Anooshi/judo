@@ -1,0 +1,227 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "HUN",
+                    "name": "Gergely NERPEL"
+                },
+                {
+                    "winner": "Gergely NERPEL"
+                }
+            ],
+            []
+        ],
+        "round 1-1": [],
+        "final_winner": "Gergely NERPEL"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "TPE",
+                    "name": "Chin-Cheng WU"
+                },
+                {
+                    "winner": "Chin-Cheng WU"
+                }
+            ],
+            [
+                {
+                    "country": "UAE",
+                    "name": "Issa ALBADRI"
+                },
+                {
+                    "winner": "Issa ALBADRI"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "TPE",
+                    "name": "Chin-Cheng WU"
+                },
+                {
+                    "country": "UAE",
+                    "name": "Issa ALBADRI"
+                }
+            ]
+        ],
+        "final_winner": "Chin-Cheng WU"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "AUS",
+                    "name": "Rhys ALLAN"
+                },
+                {
+                    "winner": "Rhys ALLAN"
+                }
+            ],
+            []
+        ],
+        "round 1-1": [],
+        "final_winner": "Rhys ALLAN"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "TJK",
+                    "name": "Ganijon GANIEV"
+                },
+                {
+                    "winner": "Ganijon GANIEV"
+                }
+            ],
+            [
+                {
+                    "country": "KSA",
+                    "name": "Jawad SARDIDI"
+                },
+                {
+                    "winner": "Jawad SARDIDI"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "TJK",
+                    "name": "Ganijon GANIEV"
+                },
+                {
+                    "country": "KSA",
+                    "name": "Jawad SARDIDI"
+                }
+            ]
+        ],
+        "final_winner": "Jawad SARDIDI"
+    },
+    "REPECHAGE": {
+        "round 1-4": [
+            [],
+            [
+                {
+                    "country": "UAE",
+                    "name": "Issa ALBADRI"
+                },
+                {
+                    "winner": "Issa ALBADRI"
+                }
+            ],
+            [],
+            [
+                {
+                    "country": "TJK",
+                    "name": "Ganijon GANIEV"
+                },
+                {
+                    "winner": "Ganijon GANIEV"
+                }
+            ]
+        ],
+        "round 1-2": [
+            [
+                {
+                    "country": "UAE",
+                    "name": "Issa ALBADRI"
+                }
+            ],
+            [
+                {
+                    "country": "TJK",
+                    "name": "Ganijon GANIEV"
+                }
+            ],
+            [
+                {
+                    "country": "UAE",
+                    "name": "Issa ALBADRI"
+                },
+                {
+                    "country": "KSA",
+                    "name": "Jawad SARDIDI"
+                },
+                {
+                    "winner": "Jawad SARDIDI"
+                }
+            ],
+            [
+                {
+                    "country": "TJK",
+                    "name": "Ganijon GANIEV"
+                },
+                {
+                    "country": "TPE",
+                    "name": "Chin-Cheng WU"
+                },
+                {
+                    "winner": "Chin-Cheng WU"
+                }
+            ],
+            [
+                {
+                    "country": "KSA",
+                    "name": "Jawad SARDIDI"
+                }
+            ],
+            [
+                {
+                    "country": "TPE",
+                    "name": "Chin-Cheng WU"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Jawad SARDIDI",
+            "Chin-Cheng WU"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "HUN",
+                    "name": "Gergely NERPEL"
+                },
+                {
+                    "country": "TPE",
+                    "name": "Chin-Cheng WU"
+                },
+                {
+                    "winner": "Gergely NERPEL"
+                }
+            ],
+            [
+                {
+                    "country": "AUS",
+                    "name": "Rhys ALLAN"
+                },
+                {
+                    "country": "KSA",
+                    "name": "Jawad SARDIDI"
+                },
+                {
+                    "winner": "Rhys ALLAN"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "HUN",
+                    "name": "Gergely NERPEL"
+                },
+                {
+                    "country": "AUS",
+                    "name": "Rhys ALLAN"
+                }
+            ]
+        ],
+        "final_winner": "Rhys ALLAN"
+    }
+}

@@ -1,0 +1,68 @@
+{
+    "ROUND 1": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ANG",
+                    "name": "Yola PIEDADE"
+                },
+                {
+                    "country": "ANG",
+                    "name": "Juliana MIGUEL"
+                },
+                {
+                    "winner": "Yola PIEDADE"
+                }
+            ],
+            [
+                {
+                    "country": "ANG",
+                    "name": "Jemima MUENGO"
+                },
+                {
+                    "country": "STP",
+                    "name": "Lidia PONTES"
+                },
+                {
+                    "winner": "Jemima MUENGO"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Yola PIEDADE",
+            "Jemima MUENGO"
+        ]
+    },
+    "REPECHAGE": {
+        "round 1-1": [
+            [
+                {
+                    "country": "ANG",
+                    "name": "Juliana MIGUEL"
+                },
+                {
+                    "country": "STP",
+                    "name": "Lidia PONTES"
+                },
+                {
+                    "winner": "Juliana MIGUEL"
+                }
+            ],
+            [
+                {
+                    "country": "ANG",
+                    "name": "Juliana MIGUEL"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Juliana MIGUEL"
+        ]
+    },
+    "FINALS": {
+        "round 1-1": [],
+        "final_winners": [
+            "Yola PIEDADE"
+        ]
+    }
+}

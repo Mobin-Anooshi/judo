@@ -1,0 +1,68 @@
+{
+    "ROUND 1": {
+        "round 1-2": [
+            [
+                {
+                    "country": "AUS",
+                    "name": "Anthony KOUROS"
+                },
+                {
+                    "country": "GUM",
+                    "name": "Joshter ANDREW"
+                },
+                {
+                    "winner": "Anthony KOUROS"
+                }
+            ],
+            [
+                {
+                    "country": "NZL",
+                    "name": "Alex RIVETT"
+                },
+                {
+                    "country": "NCL",
+                    "name": "William FAYARD"
+                },
+                {
+                    "winner": "William FAYARD"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Anthony KOUROS",
+            "William FAYARD"
+        ]
+    },
+    "REPECHAGE": {
+        "round 1-1": [
+            [
+                {
+                    "country": "GUM",
+                    "name": "Joshter ANDREW"
+                },
+                {
+                    "country": "NZL",
+                    "name": "Alex RIVETT"
+                },
+                {
+                    "winner": "Alex RIVETT"
+                }
+            ],
+            [
+                {
+                    "country": "NZL",
+                    "name": "Alex RIVETT"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Alex RIVETT"
+        ]
+    },
+    "FINALS": {
+        "round 1-1": [],
+        "final_winners": [
+            "Anthony KOUROS"
+        ]
+    }
+}

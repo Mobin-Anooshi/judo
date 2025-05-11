@@ -1,0 +1,221 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "TUR",
+                    "name": "Zilan ERTEM"
+                },
+                {
+                    "winner": "Zilan ERTEM"
+                }
+            ],
+            []
+        ],
+        "round 1-1": [],
+        "final_winner": "Zilan ERTEM"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "RUS",
+                    "name": "Sofiia BELASH"
+                },
+                {
+                    "winner": "Sofiia BELASH"
+                }
+            ],
+            [
+                {
+                    "country": "ITA",
+                    "name": "Sofia SANTILLO"
+                },
+                {
+                    "winner": "Sofia SANTILLO"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "RUS",
+                    "name": "Sofiia BELASH"
+                },
+                {
+                    "country": "ITA",
+                    "name": "Sofia SANTILLO"
+                }
+            ]
+        ],
+        "final_winner": "Sofiia BELASH"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "UKR",
+                    "name": "Sofiia SPYTSYNA"
+                },
+                {
+                    "winner": "Sofiia SPYTSYNA"
+                }
+            ],
+            []
+        ],
+        "round 1-1": [],
+        "final_winner": "Sofiia SPYTSYNA"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "RUS",
+                    "name": "Polina IAKOVENKO"
+                },
+                {
+                    "winner": "Polina IAKOVENKO"
+                }
+            ],
+            [
+                {
+                    "country": "TUR",
+                    "name": "Begumnaz DOGRUYOL"
+                },
+                {
+                    "winner": "Begumnaz DOGRUYOL"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "RUS",
+                    "name": "Polina IAKOVENKO"
+                },
+                {
+                    "country": "TUR",
+                    "name": "Begumnaz DOGRUYOL"
+                }
+            ]
+        ],
+        "final_winner": "Polina IAKOVENKO"
+    },
+    "REPECHAGE": {
+        "round 1-4": [
+            [],
+            [
+                {
+                    "country": "ITA",
+                    "name": "Sofia SANTILLO"
+                },
+                {
+                    "winner": "Sofia SANTILLO"
+                }
+            ],
+            [],
+            [
+                {
+                    "country": "TUR",
+                    "name": "Begumnaz DOGRUYOL"
+                },
+                {
+                    "winner": "Begumnaz DOGRUYOL"
+                }
+            ]
+        ],
+        "round 1-2": [
+            [
+                {
+                    "country": "ITA",
+                    "name": "Sofia SANTILLO"
+                }
+            ],
+            [
+                {
+                    "country": "TUR",
+                    "name": "Begumnaz DOGRUYOL"
+                }
+            ],
+            [
+                {
+                    "country": "ITA",
+                    "name": "Sofia SANTILLO"
+                },
+                {
+                    "country": "UKR",
+                    "name": "Sofiia SPYTSYNA"
+                },
+                {
+                    "winner": "Sofia SANTILLO"
+                }
+            ],
+            [
+                {
+                    "country": "TUR",
+                    "name": "Begumnaz DOGRUYOL"
+                },
+                {
+                    "country": "TUR",
+                    "name": "Zilan ERTEM"
+                },
+                {
+                    "winner": "Zilan ERTEM"
+                }
+            ],
+            [
+                {
+                    "country": "TUR",
+                    "name": "Zilan ERTEM"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Begumnaz DOGRUYOL",
+            "Sofia SANTILLO"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "TUR",
+                    "name": "Zilan ERTEM"
+                },
+                {
+                    "country": "RUS",
+                    "name": "Sofiia BELASH"
+                },
+                {
+                    "winner": "Sofiia BELASH"
+                }
+            ],
+            [
+                {
+                    "country": "UKR",
+                    "name": "Sofiia SPYTSYNA"
+                },
+                {
+                    "country": "RUS",
+                    "name": "Polina IAKOVENKO"
+                },
+                {
+                    "winner": "Polina IAKOVENKO"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "RUS",
+                    "name": "Sofiia BELASH"
+                },
+                {
+                    "country": "RUS",
+                    "name": "Polina IAKOVENKO"
+                }
+            ]
+        ],
+        "final_winner": "Polina IAKOVENKO"
+    }
+}

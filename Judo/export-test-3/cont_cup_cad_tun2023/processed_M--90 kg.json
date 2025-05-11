@@ -1,0 +1,68 @@
+{
+    "ROUND 1": {
+        "round 1-2": [
+            [
+                {
+                    "country": "KSA",
+                    "name": "Mohammed ALMALKI"
+                },
+                {
+                    "country": "ALG",
+                    "name": "Ahmed Sami BOUYACOUB"
+                },
+                {
+                    "winner": "Ahmed Sami BOUYACOUB"
+                }
+            ],
+            [
+                {
+                    "country": "BIH",
+                    "name": "Hrvoje KNEZOVIC"
+                },
+                {
+                    "country": "TUN",
+                    "name": "Seifedine MAAMOURI"
+                },
+                {
+                    "winner": "Hrvoje KNEZOVIC"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Ahmed Sami BOUYACOUB",
+            "Hrvoje KNEZOVIC"
+        ]
+    },
+    "REPECHAGE": {
+        "round 1-1": [
+            [
+                {
+                    "country": "KSA",
+                    "name": "Mohammed ALMALKI"
+                },
+                {
+                    "country": "TUN",
+                    "name": "Seifedine MAAMOURI"
+                },
+                {
+                    "winner": "Seifedine MAAMOURI"
+                }
+            ],
+            [
+                {
+                    "country": "TUN",
+                    "name": "Seifedine MAAMOURI"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Seifedine MAAMOURI"
+        ]
+    },
+    "FINALS": {
+        "round 1-1": [],
+        "final_winners": [
+            "Ahmed Sami BOUYACOUB"
+        ]
+    }
+}

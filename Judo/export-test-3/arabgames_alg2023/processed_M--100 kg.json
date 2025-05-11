@@ -1,0 +1,68 @@
+{
+    "ROUND 1": {
+        "round 1-2": [
+            [
+                {
+                    "country": "TUN",
+                    "name": "Koussay BEN GHARES"
+                },
+                {
+                    "country": "IRQ",
+                    "name": "Ali ALZAIDI"
+                },
+                {
+                    "winner": "Koussay BEN GHARES"
+                }
+            ],
+            [
+                {
+                    "country": "ALG",
+                    "name": "Mustapha Yasser BOUAMAR"
+                },
+                {
+                    "country": "ALG",
+                    "name": "Redha LAMRI"
+                },
+                {
+                    "winner": "Mustapha Yasser BOUAMAR"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Koussay BEN GHARES",
+            "Mustapha Yasser BOUAMAR"
+        ]
+    },
+    "REPECHAGE": {
+        "round 1-1": [
+            [
+                {
+                    "country": "IRQ",
+                    "name": "Ali ALZAIDI"
+                },
+                {
+                    "country": "ALG",
+                    "name": "Redha LAMRI"
+                },
+                {
+                    "winner": "Redha LAMRI"
+                }
+            ],
+            [
+                {
+                    "country": "ALG",
+                    "name": "Redha LAMRI"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Redha LAMRI"
+        ]
+    },
+    "FINALS": {
+        "round 1-1": [],
+        "final_winners": [
+            "Mustapha Yasser BOUAMAR"
+        ]
+    }
+}

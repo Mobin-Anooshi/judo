@@ -1,0 +1,68 @@
+{
+    "ROUND 1": {
+        "round 1-2": [
+            [
+                {
+                    "country": "USA",
+                    "name": "Matthew KOCH"
+                },
+                {
+                    "country": "ESA",
+                    "name": "Diego MENDEZ"
+                },
+                {
+                    "winner": "Matthew KOCH"
+                }
+            ],
+            [
+                {
+                    "country": "CUW",
+                    "name": "Danchelo PICUS"
+                },
+                {
+                    "country": "GUA",
+                    "name": "Jahi CUNNINGHAM"
+                },
+                {
+                    "winner": "Jahi CUNNINGHAM"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Matthew KOCH",
+            "Jahi CUNNINGHAM"
+        ]
+    },
+    "REPECHAGE": {
+        "round 1-1": [
+            [
+                {
+                    "country": "ESA",
+                    "name": "Diego MENDEZ"
+                },
+                {
+                    "country": "CUW",
+                    "name": "Danchelo PICUS"
+                },
+                {
+                    "winner": "Danchelo PICUS"
+                }
+            ],
+            [
+                {
+                    "country": "CUW",
+                    "name": "Danchelo PICUS"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Danchelo PICUS"
+        ]
+    },
+    "FINALS": {
+        "round 1-1": [],
+        "final_winners": [
+            "Matthew KOCH"
+        ]
+    }
+}

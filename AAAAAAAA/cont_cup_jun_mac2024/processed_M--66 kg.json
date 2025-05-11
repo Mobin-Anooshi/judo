@@ -1,0 +1,177 @@
+{
+    "POOL A": {
+        "round 1-1": [
+            [
+                {
+                    "country": "AUS",
+                    "name": "Timeo TOURNIER"
+                },
+                {
+                    "country": "MGL",
+                    "name": "Bilguuntuguldur MUNKHBAT"
+                }
+            ]
+        ],
+        "final_winner": "Timeo TOURNIER"
+    },
+    "POOL B": {
+        "round 1-1": [
+            [
+                {
+                    "country": "AUS",
+                    "name": "Hassan AL-BAGHDADI"
+                },
+                {
+                    "country": "KOR",
+                    "name": "Joonhyun LEE"
+                }
+            ]
+        ],
+        "final_winner": "Joonhyun LEE"
+    },
+    "POOL C": {
+        "round 1-1": [
+            [
+                {
+                    "country": "AUS",
+                    "name": "Angus CORMACK"
+                },
+                {
+                    "country": "AUS",
+                    "name": "Ryan PARK"
+                }
+            ]
+        ],
+        "final_winner": "Ryan PARK"
+    },
+    "POOL D": {
+        "round 1-1": [
+            [
+                {
+                    "country": "MGL",
+                    "name": "Dalaibaatar ZORIGMANDAKH"
+                },
+                {
+                    "country": "AUS",
+                    "name": "Ethan TAI TIN"
+                }
+            ]
+        ],
+        "final_winner": "Dalaibaatar ZORIGMANDAKH"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "MGL",
+                    "name": "Bilguuntuguldur MUNKHBAT"
+                },
+                {
+                    "country": "AUS",
+                    "name": "Hassan AL-BAGHDADI"
+                },
+                {
+                    "winner": "Hassan AL-BAGHDADI"
+                }
+            ],
+            [
+                {
+                    "country": "AUS",
+                    "name": "Angus CORMACK"
+                },
+                {
+                    "country": "AUS",
+                    "name": "Ethan TAI TIN"
+                },
+                {
+                    "winner": "Angus CORMACK"
+                }
+            ],
+            [
+                {
+                    "country": "AUS",
+                    "name": "Hassan AL-BAGHDADI"
+                },
+                {
+                    "country": "AUS",
+                    "name": "Ryan PARK"
+                },
+                {
+                    "winner": "Ryan PARK"
+                }
+            ],
+            [
+                {
+                    "country": "AUS",
+                    "name": "Angus CORMACK"
+                },
+                {
+                    "country": "AUS",
+                    "name": "Timeo TOURNIER"
+                },
+                {
+                    "winner": "Timeo TOURNIER"
+                }
+            ],
+            [
+                {
+                    "country": "AUS",
+                    "name": "Ryan PARK"
+                }
+            ],
+            [
+                {
+                    "country": "AUS",
+                    "name": "Timeo TOURNIER"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Ryan PARK",
+            "Timeo TOURNIER"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "AUS",
+                    "name": "Timeo TOURNIER"
+                },
+                {
+                    "country": "KOR",
+                    "name": "Joonhyun LEE"
+                },
+                {
+                    "winner": "Joonhyun LEE"
+                }
+            ],
+            [
+                {
+                    "country": "AUS",
+                    "name": "Ryan PARK"
+                },
+                {
+                    "country": "MGL",
+                    "name": "Dalaibaatar ZORIGMANDAKH"
+                },
+                {
+                    "winner": "Dalaibaatar ZORIGMANDAKH"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "KOR",
+                    "name": "Joonhyun LEE"
+                },
+                {
+                    "country": "MGL",
+                    "name": "Dalaibaatar ZORIGMANDAKH"
+                }
+            ]
+        ],
+        "final_winner": "Joonhyun LEE"
+    }
+}

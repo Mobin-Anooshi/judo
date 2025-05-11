@@ -1,0 +1,177 @@
+{
+    "POOL A": {
+        "round 1-1": [
+            [
+                {
+                    "country": "CYP",
+                    "name": "Zanet MICHAELIDOU"
+                },
+                {
+                    "country": "EGY",
+                    "name": "Aya GABALLA"
+                }
+            ]
+        ],
+        "final_winner": "Zanet MICHAELIDOU"
+    },
+    "POOL B": {
+        "round 1-1": [
+            [
+                {
+                    "country": "ALG",
+                    "name": "Bouchra Belinda SADI"
+                },
+                {
+                    "country": "TUN",
+                    "name": "Arij AKKAB"
+                }
+            ]
+        ],
+        "final_winner": "Arij AKKAB"
+    },
+    "POOL C": {
+        "round 1-1": [
+            [
+                {
+                    "country": "ALG",
+                    "name": "Lyna MOHAMEDI"
+                },
+                {
+                    "country": "LTU",
+                    "name": "Nida KAZLAUSKAITE"
+                }
+            ]
+        ],
+        "final_winner": "Lyna MOHAMEDI"
+    },
+    "POOL D": {
+        "round 1-1": [
+            [
+                {
+                    "country": "ALG",
+                    "name": "Feriel HAMMAD"
+                },
+                {
+                    "country": "TUN",
+                    "name": "Arwa TRABELSI"
+                }
+            ]
+        ],
+        "final_winner": "Arwa TRABELSI"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "EGY",
+                    "name": "Aya GABALLA"
+                },
+                {
+                    "country": "ALG",
+                    "name": "Bouchra Belinda SADI"
+                },
+                {
+                    "winner": "Aya GABALLA"
+                }
+            ],
+            [
+                {
+                    "country": "LTU",
+                    "name": "Nida KAZLAUSKAITE"
+                },
+                {
+                    "country": "ALG",
+                    "name": "Feriel HAMMAD"
+                },
+                {
+                    "winner": "Nida KAZLAUSKAITE"
+                }
+            ],
+            [
+                {
+                    "country": "EGY",
+                    "name": "Aya GABALLA"
+                },
+                {
+                    "country": "TUN",
+                    "name": "Arwa TRABELSI"
+                },
+                {
+                    "winner": "Aya GABALLA"
+                }
+            ],
+            [
+                {
+                    "country": "LTU",
+                    "name": "Nida KAZLAUSKAITE"
+                },
+                {
+                    "country": "CYP",
+                    "name": "Zanet MICHAELIDOU"
+                },
+                {
+                    "winner": "Zanet MICHAELIDOU"
+                }
+            ],
+            [
+                {
+                    "country": "EGY",
+                    "name": "Aya GABALLA"
+                }
+            ],
+            [
+                {
+                    "country": "CYP",
+                    "name": "Zanet MICHAELIDOU"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Aya GABALLA",
+            "Zanet MICHAELIDOU"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CYP",
+                    "name": "Zanet MICHAELIDOU"
+                },
+                {
+                    "country": "TUN",
+                    "name": "Arij AKKAB"
+                },
+                {
+                    "winner": "Arij AKKAB"
+                }
+            ],
+            [
+                {
+                    "country": "ALG",
+                    "name": "Lyna MOHAMEDI"
+                },
+                {
+                    "country": "TUN",
+                    "name": "Arwa TRABELSI"
+                },
+                {
+                    "winner": "Lyna MOHAMEDI"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "TUN",
+                    "name": "Arij AKKAB"
+                },
+                {
+                    "country": "ALG",
+                    "name": "Lyna MOHAMEDI"
+                }
+            ]
+        ],
+        "final_winner": "Arij AKKAB"
+    }
+}

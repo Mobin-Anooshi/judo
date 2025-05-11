@@ -1,0 +1,87 @@
+{
+    "POOL A": {
+        "round 1-3": [
+            [
+                {
+                    "country": "MAR",
+                    "name": "Marwa BEKMANI"
+                },
+                {
+                    "country": "POR",
+                    "name": "Rita LOURENCO"
+                },
+                {
+                    "winner": "Marwa BEKMANI"
+                }
+            ],
+            [
+                {
+                    "country": "MAR",
+                    "name": "Marwa BEKMANI"
+                },
+                {
+                    "country": "POR",
+                    "name": "Clara MARTINS"
+                },
+                {
+                    "winner": "Clara MARTINS"
+                }
+            ],
+            [
+                {
+                    "country": "POR",
+                    "name": "Rita LOURENCO"
+                },
+                {
+                    "country": "POR",
+                    "name": "Clara MARTINS"
+                },
+                {
+                    "winner": "Rita LOURENCO"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Rita LOURENCO",
+            "Clara MARTINS"
+        ]
+    },
+    "POOL B": {
+        "round 1-1": [],
+        "final_winners": [
+            "Abir BOUAZZAOUI"
+        ]
+    },
+    "REPECHAGE": {
+        "round 1-1": [
+            [
+                {
+                    "country": "POR",
+                    "name": "Clara MARTINS"
+                },
+                {
+                    "country": "FRA",
+                    "name": "Imene DEGHNOUCHE"
+                },
+                {
+                    "winner": "Clara MARTINS"
+                }
+            ],
+            [
+                {
+                    "country": "POR",
+                    "name": "Clara MARTINS"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Clara MARTINS"
+        ]
+    },
+    "FINALS": {
+        "round 1-1": [],
+        "final_winners": [
+            "Rita LOURENCO"
+        ]
+    }
+}

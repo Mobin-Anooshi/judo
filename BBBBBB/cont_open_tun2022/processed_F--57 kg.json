@@ -1,0 +1,281 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "USA",
+                    "name": "Mariah HOLGUIN"
+                },
+                {
+                    "winner": "Mariah HOLGUIN"
+                }
+            ],
+            [
+                {
+                    "country": "ALG",
+                    "name": "Nesrine BOUDJEMIL"
+                },
+                {
+                    "country": "TUN",
+                    "name": "Chaima SIDAOUI"
+                },
+                {
+                    "winner": "Nesrine BOUDJEMIL"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "USA",
+                    "name": "Mariah HOLGUIN"
+                },
+                {
+                    "country": "ALG",
+                    "name": "Nesrine BOUDJEMIL"
+                }
+            ]
+        ],
+        "final_winner": "Nesrine BOUDJEMIL"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "USA",
+                    "name": "Tasha CANCELA"
+                },
+                {
+                    "country": "TUN",
+                    "name": "Saida HALWESS"
+                },
+                {
+                    "winner": "Tasha CANCELA"
+                }
+            ],
+            [
+                {
+                    "country": "FRA",
+                    "name": "Fatiha MOUSSA"
+                },
+                {
+                    "country": "TUN",
+                    "name": "Marwa CHAMKHI"
+                },
+                {
+                    "winner": "Fatiha MOUSSA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "USA",
+                    "name": "Tasha CANCELA"
+                },
+                {
+                    "country": "FRA",
+                    "name": "Fatiha MOUSSA"
+                }
+            ]
+        ],
+        "final_winner": "Fatiha MOUSSA"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ALG",
+                    "name": "Yamina HALATA"
+                },
+                {
+                    "winner": "Yamina HALATA"
+                }
+            ],
+            [
+                {
+                    "country": "TUN",
+                    "name": "Nouha HAJRI"
+                },
+                {
+                    "country": "FRA",
+                    "name": "Manon BURNEL"
+                },
+                {
+                    "winner": "Nouha HAJRI"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "ALG",
+                    "name": "Yamina HALATA"
+                },
+                {
+                    "country": "TUN",
+                    "name": "Nouha HAJRI"
+                }
+            ]
+        ],
+        "final_winner": "Yamina HALATA"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "MAR",
+                    "name": "Yousra EL BOUHAIRI"
+                },
+                {
+                    "country": "TUN",
+                    "name": "Amira TRABELSI"
+                },
+                {
+                    "winner": "Yousra EL BOUHAIRI"
+                }
+            ],
+            [
+                {
+                    "country": "NZL",
+                    "name": "Qona CHRISTIE"
+                },
+                {
+                    "country": "TUN",
+                    "name": "Sarra DHAOUADI"
+                },
+                {
+                    "winner": "Qona CHRISTIE"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "MAR",
+                    "name": "Yousra EL BOUHAIRI"
+                },
+                {
+                    "country": "NZL",
+                    "name": "Qona CHRISTIE"
+                }
+            ]
+        ],
+        "final_winner": "Qona CHRISTIE"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "USA",
+                    "name": "Mariah HOLGUIN"
+                },
+                {
+                    "country": "USA",
+                    "name": "Tasha CANCELA"
+                },
+                {
+                    "winner": "Mariah HOLGUIN"
+                }
+            ],
+            [
+                {
+                    "country": "TUN",
+                    "name": "Nouha HAJRI"
+                },
+                {
+                    "country": "MAR",
+                    "name": "Yousra EL BOUHAIRI"
+                },
+                {
+                    "winner": "Nouha HAJRI"
+                }
+            ],
+            [
+                {
+                    "country": "USA",
+                    "name": "Mariah HOLGUIN"
+                },
+                {
+                    "country": "NZL",
+                    "name": "Qona CHRISTIE"
+                },
+                {
+                    "winner": "Qona CHRISTIE"
+                }
+            ],
+            [
+                {
+                    "country": "TUN",
+                    "name": "Nouha HAJRI"
+                },
+                {
+                    "country": "FRA",
+                    "name": "Fatiha MOUSSA"
+                },
+                {
+                    "winner": "Fatiha MOUSSA"
+                }
+            ],
+            [
+                {
+                    "country": "NZL",
+                    "name": "Qona CHRISTIE"
+                }
+            ],
+            [
+                {
+                    "country": "FRA",
+                    "name": "Fatiha MOUSSA"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Qona CHRISTIE",
+            "Fatiha MOUSSA"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ALG",
+                    "name": "Nesrine BOUDJEMIL"
+                },
+                {
+                    "country": "FRA",
+                    "name": "Fatiha MOUSSA"
+                },
+                {
+                    "winner": "Nesrine BOUDJEMIL"
+                }
+            ],
+            [
+                {
+                    "country": "ALG",
+                    "name": "Yamina HALATA"
+                },
+                {
+                    "country": "NZL",
+                    "name": "Qona CHRISTIE"
+                },
+                {
+                    "winner": "Yamina HALATA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "ALG",
+                    "name": "Nesrine BOUDJEMIL"
+                },
+                {
+                    "country": "ALG",
+                    "name": "Yamina HALATA"
+                }
+            ]
+        ],
+        "final_winner": "Yamina HALATA"
+    }
+}

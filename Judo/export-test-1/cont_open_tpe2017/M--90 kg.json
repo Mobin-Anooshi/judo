@@ -1,0 +1,135 @@
+{
+    "POOL A": {
+        "round 1-1": [],
+        "final_winner": "Yu Ming LIAO"
+    },
+    "POOL B": {
+        "round 1-1": [
+            [
+                {
+                    "country": "TPE",
+                    "name": "Fong shun CHEN"
+                },
+                {
+                    "country": "KOR",
+                    "name": "Woosung LIM"
+                }
+            ]
+        ],
+        "final_winner": "Woosung LIM"
+    },
+    "POOL C": {
+        "round 1-1": [],
+        "final_winner": "Che wei HSIEH"
+    },
+    "POOL D": {
+        "round 1-1": [
+            [
+                {
+                    "country": "KSA",
+                    "name": "Abdalkarim ALBISHI"
+                },
+                {
+                    "country": "KUW",
+                    "name": "Ghanam ALDIKAN"
+                }
+            ]
+        ],
+        "final_winner": "Ghanam ALDIKAN"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "TPE",
+                    "name": "Fong shun CHEN"
+                }
+            ],
+            [
+                {
+                    "country": "KSA",
+                    "name": "Abdalkarim ALBISHI"
+                }
+            ],
+            [
+                {
+                    "country": "TPE",
+                    "name": "Fong shun CHEN"
+                },
+                {
+                    "country": "TPE",
+                    "name": "Che wei HSIEH"
+                },
+                {
+                    "winner": "Fong shun CHEN"
+                }
+            ],
+            [
+                {
+                    "country": "KSA",
+                    "name": "Abdalkarim ALBISHI"
+                },
+                {
+                    "country": "TPE",
+                    "name": "Yu Ming LIAO"
+                },
+                {
+                    "winner": "Yu Ming LIAO"
+                }
+            ],
+            [
+                {
+                    "country": "TPE",
+                    "name": "Yu Ming LIAO"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Abdalkarim ALBISHI",
+            "Fong shun CHEN"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "TPE",
+                    "name": "Yu Ming LIAO"
+                },
+                {
+                    "country": "KOR",
+                    "name": "Woosung LIM"
+                },
+                {
+                    "winner": "Woosung LIM"
+                }
+            ],
+            [
+                {
+                    "country": "TPE",
+                    "name": "Che wei HSIEH"
+                },
+                {
+                    "country": "KUW",
+                    "name": "Ghanam ALDIKAN"
+                },
+                {
+                    "winner": "Ghanam ALDIKAN"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "KOR",
+                    "name": "Woosung LIM"
+                },
+                {
+                    "country": "KUW",
+                    "name": "Ghanam ALDIKAN"
+                }
+            ]
+        ],
+        "final_winner": "Woosung LIM"
+    }
+}

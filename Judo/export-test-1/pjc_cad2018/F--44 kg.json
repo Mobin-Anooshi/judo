@@ -1,0 +1,221 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "VEN",
+                    "name": "Maria GIMENEZ"
+                },
+                {
+                    "winner": "Maria GIMENEZ"
+                }
+            ],
+            []
+        ],
+        "round 1-1": [],
+        "final_winner": "Maria GIMENEZ"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Leticia MENINO"
+                },
+                {
+                    "winner": "Leticia MENINO"
+                }
+            ],
+            [
+                {
+                    "country": "ECU",
+                    "name": "DORIS LOPEZ"
+                },
+                {
+                    "winner": "DORIS LOPEZ"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Leticia MENINO"
+                },
+                {
+                    "country": "ECU",
+                    "name": "DORIS LOPEZ"
+                }
+            ]
+        ],
+        "final_winner": "Leticia MENINO"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ARG",
+                    "name": "Mikaela ROJAS"
+                },
+                {
+                    "winner": "Mikaela ROJAS"
+                }
+            ],
+            []
+        ],
+        "round 1-1": [],
+        "final_winner": "Mikaela ROJAS"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CAN",
+                    "name": "Kimiko KAMSTRA"
+                },
+                {
+                    "winner": "Kimiko KAMSTRA"
+                }
+            ],
+            [
+                {
+                    "country": "USA",
+                    "name": "Anat TSYRLIN"
+                },
+                {
+                    "winner": "Anat TSYRLIN"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "CAN",
+                    "name": "Kimiko KAMSTRA"
+                },
+                {
+                    "country": "USA",
+                    "name": "Anat TSYRLIN"
+                }
+            ]
+        ],
+        "final_winner": "Anat TSYRLIN"
+    },
+    "REPECHAGE": {
+        "round 1-4": [
+            [],
+            [
+                {
+                    "country": "ECU",
+                    "name": "DORIS LOPEZ"
+                },
+                {
+                    "winner": "DORIS LOPEZ"
+                }
+            ],
+            [],
+            [
+                {
+                    "country": "CAN",
+                    "name": "Kimiko KAMSTRA"
+                },
+                {
+                    "winner": "Kimiko KAMSTRA"
+                }
+            ]
+        ],
+        "round 1-2": [
+            [
+                {
+                    "country": "ECU",
+                    "name": "DORIS LOPEZ"
+                }
+            ],
+            [
+                {
+                    "country": "CAN",
+                    "name": "Kimiko KAMSTRA"
+                }
+            ],
+            [
+                {
+                    "country": "ECU",
+                    "name": "DORIS LOPEZ"
+                },
+                {
+                    "country": "USA",
+                    "name": "Anat TSYRLIN"
+                },
+                {
+                    "winner": "DORIS LOPEZ"
+                }
+            ],
+            [
+                {
+                    "country": "CAN",
+                    "name": "Kimiko KAMSTRA"
+                },
+                {
+                    "country": "BRA",
+                    "name": "Leticia MENINO"
+                },
+                {
+                    "winner": "Leticia MENINO"
+                }
+            ],
+            [
+                {
+                    "country": "BRA",
+                    "name": "Leticia MENINO"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Kimiko KAMSTRA",
+            "DORIS LOPEZ"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "VEN",
+                    "name": "Maria GIMENEZ"
+                },
+                {
+                    "country": "BRA",
+                    "name": "Leticia MENINO"
+                },
+                {
+                    "winner": "Maria GIMENEZ"
+                }
+            ],
+            [
+                {
+                    "country": "ARG",
+                    "name": "Mikaela ROJAS"
+                },
+                {
+                    "country": "USA",
+                    "name": "Anat TSYRLIN"
+                },
+                {
+                    "winner": "Mikaela ROJAS"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "VEN",
+                    "name": "Maria GIMENEZ"
+                },
+                {
+                    "country": "ARG",
+                    "name": "Mikaela ROJAS"
+                }
+            ]
+        ],
+        "final_winner": "Maria GIMENEZ"
+    }
+}

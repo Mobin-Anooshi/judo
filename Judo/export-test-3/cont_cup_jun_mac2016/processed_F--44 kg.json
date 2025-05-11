@@ -1,0 +1,90 @@
+{
+    "ROUND 1": {
+        "round 1-2": [
+            [
+                {
+                    "country": "MAC",
+                    "name": "Ka cheng LAO"
+                },
+                {
+                    "country": "Vote",
+                    "name": "TPE"
+                },
+                {
+                    "country": "Hsiao Chu KAO",
+                    "name": "Vote"
+                },
+                {
+                    "winner": "Vote"
+                }
+            ],
+            [
+                {
+                    "country": "TPE",
+                    "name": "Tsai-chi CHO"
+                },
+                {
+                    "country": "Vote",
+                    "name": "MAC"
+                },
+                {
+                    "country": "Ka i CHAN",
+                    "name": "Vote"
+                },
+                {
+                    "winner": "Tsai-chi CHO"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Tsai-chi CHO"
+        ]
+    },
+    "REPECHAGE": {
+        "round 1-1": [
+            [
+                {
+                    "country": "MAC",
+                    "name": "Ka cheng LAO"
+                },
+                {
+                    "country": "Vote",
+                    "name": "TPE"
+                },
+                {
+                    "country": "Tsai-chi CHO",
+                    "name": "Vote"
+                },
+                {
+                    "winner": "Ka cheng LAO"
+                }
+            ],
+            []
+        ],
+        "final_winners": []
+    },
+    "FINALS": {
+        "round 1-1": [
+            [
+                {
+                    "country": "TPE",
+                    "name": "Hsiao Chu KAO"
+                },
+                {
+                    "country": "Vote",
+                    "name": "MAC"
+                },
+                {
+                    "country": "Ka i CHAN",
+                    "name": "Vote"
+                },
+                {
+                    "winner": "Hsiao Chu KAO"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Hsiao Chu KAO"
+        ]
+    }
+}

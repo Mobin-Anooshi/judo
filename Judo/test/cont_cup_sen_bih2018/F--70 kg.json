@@ -1,0 +1,274 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "FRA",
+                    "name": "Margaux PINOT"
+                },
+                {
+                    "winner": "Margaux PINOT"
+                }
+            ],
+            []
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "FRA",
+                    "name": "Margaux PINOT"
+                }
+            ]
+        ]
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "HUN",
+                    "name": "Renata LORINC"
+                },
+                {
+                    "winner": "Renata LORINC"
+                }
+            ],
+            [
+                {
+                    "country": "BIH",
+                    "name": "Adela PISMO"
+                },
+                {
+                    "winner": "Adela PISMO"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "HUN",
+                    "name": "Renata LORINC"
+                },
+                {
+                    "country": "BIH",
+                    "name": "Adela PISMO"
+                }
+            ],
+            [
+                {
+                    "country": "HUN",
+                    "name": "Renata LORINC"
+                }
+            ]
+        ]
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "NOR",
+                    "name": "Cecilie BOLANDER"
+                },
+                {
+                    "winner": "Cecilie BOLANDER"
+                }
+            ],
+            [
+                {
+                    "country": "GBR",
+                    "name": "Rachael HAWKES"
+                },
+                {
+                    "winner": "Rachael HAWKES"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "NOR",
+                    "name": "Cecilie BOLANDER"
+                },
+                {
+                    "country": "GBR",
+                    "name": "Rachael HAWKES"
+                }
+            ],
+            [
+                {
+                    "country": "GBR",
+                    "name": "Rachael HAWKES"
+                }
+            ]
+        ]
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "SRB",
+                    "name": "Katarina DENIC"
+                },
+                {
+                    "winner": "Katarina DENIC"
+                }
+            ],
+            [
+                {
+                    "country": "CRO",
+                    "name": "Andela VIOLIC"
+                },
+                {
+                    "winner": "Andela VIOLIC"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "SRB",
+                    "name": "Katarina DENIC"
+                },
+                {
+                    "country": "CRO",
+                    "name": "Andela VIOLIC"
+                }
+            ],
+            [
+                {
+                    "country": "CRO",
+                    "name": "Andela VIOLIC"
+                }
+            ]
+        ]
+    },
+    "REPECHAGE": {
+        "round 1-4": [
+            [],
+            [
+                {
+                    "country": "BIH",
+                    "name": "Adela PISMO"
+                },
+                {
+                    "winner": "Adela PISMO"
+                }
+            ],
+            [
+                {
+                    "country": "NOR",
+                    "name": "Cecilie BOLANDER"
+                },
+                {
+                    "winner": "Cecilie BOLANDER"
+                }
+            ],
+            [
+                {
+                    "country": "SRB",
+                    "name": "Katarina DENIC"
+                },
+                {
+                    "winner": "Katarina DENIC"
+                }
+            ]
+        ],
+        "round 1-2": [
+            [
+                {
+                    "country": "BIH",
+                    "name": "Adela PISMO"
+                }
+            ],
+            [
+                {
+                    "country": "NOR",
+                    "name": "Cecilie BOLANDER"
+                },
+                {
+                    "country": "SRB",
+                    "name": "Katarina DENIC"
+                }
+            ],
+            [
+                {
+                    "country": "BIH",
+                    "name": "Adela PISMO"
+                },
+                {
+                    "country": "CRO",
+                    "name": "Andela VIOLIC"
+                }
+            ],
+            [
+                {
+                    "country": "NOR",
+                    "name": "Cecilie BOLANDER"
+                },
+                {
+                    "country": "HUN",
+                    "name": "Renata LORINC"
+                }
+            ],
+            [
+                {
+                    "country": "CRO",
+                    "name": "Andela VIOLIC"
+                }
+            ],
+            [
+                {
+                    "country": "NOR",
+                    "name": "Cecilie BOLANDER"
+                }
+            ]
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "FRA",
+                    "name": "Margaux PINOT"
+                },
+                {
+                    "country": "HUN",
+                    "name": "Renata LORINC"
+                },
+                {
+                    "winner": "Margaux PINOT"
+                }
+            ],
+            [
+                {
+                    "country": "GBR",
+                    "name": "Rachael HAWKES"
+                },
+                {
+                    "country": "CRO",
+                    "name": "Andela VIOLIC"
+                },
+                {
+                    "winner": "Rachael HAWKES"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "FRA",
+                    "name": "Margaux PINOT"
+                },
+                {
+                    "country": "GBR",
+                    "name": "Rachael HAWKES"
+                }
+            ],
+            [
+                {
+                    "country": "FRA",
+                    "name": "Margaux PINOT"
+                }
+            ]
+        ]
+    }
+}

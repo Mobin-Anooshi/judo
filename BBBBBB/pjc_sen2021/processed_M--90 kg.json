@@ -1,0 +1,261 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Rafael MACEDO"
+                },
+                {
+                    "winner": "Rafael MACEDO"
+                }
+            ],
+            [
+                {
+                    "country": "PAN",
+                    "name": "Jose Luis ORTEGA MENDOZA"
+                },
+                {
+                    "country": "COL",
+                    "name": "Santiago GARZON DIAZ"
+                },
+                {
+                    "winner": "Santiago GARZON DIAZ"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Rafael MACEDO"
+                },
+                {
+                    "country": "COL",
+                    "name": "Santiago GARZON DIAZ"
+                }
+            ]
+        ],
+        "final_winner": "Rafael MACEDO"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "PER",
+                    "name": "Yuta GALARRETA"
+                },
+                {
+                    "winner": "Yuta GALARRETA"
+                }
+            ],
+            [
+                {
+                    "country": "COL",
+                    "name": "Francisco BALANTA"
+                },
+                {
+                    "winner": "Francisco BALANTA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "PER",
+                    "name": "Yuta GALARRETA"
+                },
+                {
+                    "country": "COL",
+                    "name": "Francisco BALANTA"
+                }
+            ]
+        ],
+        "final_winner": "Yuta GALARRETA"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "USA",
+                    "name": "Colton BROWN"
+                },
+                {
+                    "winner": "Colton BROWN"
+                }
+            ],
+            [
+                {
+                    "country": "MEX",
+                    "name": "Victor OCHOA"
+                },
+                {
+                    "winner": "Victor OCHOA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "USA",
+                    "name": "Colton BROWN"
+                },
+                {
+                    "country": "MEX",
+                    "name": "Victor OCHOA"
+                }
+            ]
+        ],
+        "final_winner": "Colton BROWN"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "DOM",
+                    "name": "Robert FLORENTINO"
+                },
+                {
+                    "winner": "Robert FLORENTINO"
+                }
+            ],
+            [
+                {
+                    "country": "PER",
+                    "name": "Daryl YAMAMOTO"
+                },
+                {
+                    "winner": "Daryl YAMAMOTO"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "DOM",
+                    "name": "Robert FLORENTINO"
+                },
+                {
+                    "country": "PER",
+                    "name": "Daryl YAMAMOTO"
+                }
+            ]
+        ],
+        "final_winner": "Robert FLORENTINO"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "COL",
+                    "name": "Santiago GARZON DIAZ"
+                },
+                {
+                    "country": "COL",
+                    "name": "Francisco BALANTA"
+                },
+                {
+                    "winner": "Francisco BALANTA"
+                }
+            ],
+            [
+                {
+                    "country": "MEX",
+                    "name": "Victor OCHOA"
+                },
+                {
+                    "country": "PER",
+                    "name": "Daryl YAMAMOTO"
+                },
+                {
+                    "winner": "Daryl YAMAMOTO"
+                }
+            ],
+            [
+                {
+                    "country": "COL",
+                    "name": "Francisco BALANTA"
+                },
+                {
+                    "country": "USA",
+                    "name": "Colton BROWN"
+                },
+                {
+                    "winner": "Francisco BALANTA"
+                }
+            ],
+            [
+                {
+                    "country": "PER",
+                    "name": "Daryl YAMAMOTO"
+                },
+                {
+                    "country": "PER",
+                    "name": "Yuta GALARRETA"
+                },
+                {
+                    "winner": "Yuta GALARRETA"
+                }
+            ],
+            [
+                {
+                    "country": "COL",
+                    "name": "Francisco BALANTA"
+                }
+            ],
+            [
+                {
+                    "country": "PER",
+                    "name": "Yuta GALARRETA"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Francisco BALANTA",
+            "Yuta GALARRETA"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Rafael MACEDO"
+                },
+                {
+                    "country": "PER",
+                    "name": "Yuta GALARRETA"
+                },
+                {
+                    "winner": "Rafael MACEDO"
+                }
+            ],
+            [
+                {
+                    "country": "USA",
+                    "name": "Colton BROWN"
+                },
+                {
+                    "country": "DOM",
+                    "name": "Robert FLORENTINO"
+                },
+                {
+                    "winner": "Robert FLORENTINO"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Rafael MACEDO"
+                },
+                {
+                    "country": "DOM",
+                    "name": "Robert FLORENTINO"
+                }
+            ]
+        ],
+        "final_winner": "Robert FLORENTINO"
+    }
+}

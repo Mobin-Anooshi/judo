@@ -1,0 +1,135 @@
+{
+    "POOL A": {
+        "round 1-1": [],
+        "final_winner": "Estefania GARCIA"
+    },
+    "POOL B": {
+        "round 1-1": [
+            [
+                {
+                    "country": "CHI",
+                    "name": "Kacidy BARRA"
+                },
+                {
+                    "country": "BOL",
+                    "name": "Anette AGUILAR"
+                }
+            ]
+        ],
+        "final_winner": "Anette AGUILAR"
+    },
+    "POOL C": {
+        "round 1-1": [
+            [
+                {
+                    "country": "USA",
+                    "name": "Alisha GALLES"
+                },
+                {
+                    "country": "ARG",
+                    "name": "Gimena LAFFEUILLADE"
+                }
+            ]
+        ],
+        "final_winner": "Alisha GALLES"
+    },
+    "POOL D": {
+        "round 1-1": [],
+        "final_winner": "Gabriella MORAES"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CHI",
+                    "name": "Kacidy BARRA"
+                }
+            ],
+            [
+                {
+                    "country": "ARG",
+                    "name": "Gimena LAFFEUILLADE"
+                }
+            ],
+            [
+                {
+                    "country": "CHI",
+                    "name": "Kacidy BARRA"
+                },
+                {
+                    "country": "USA",
+                    "name": "Alisha GALLES"
+                },
+                {
+                    "winner": "Alisha GALLES"
+                }
+            ],
+            [
+                {
+                    "country": "ARG",
+                    "name": "Gimena LAFFEUILLADE"
+                },
+                {
+                    "country": "BOL",
+                    "name": "Anette AGUILAR"
+                },
+                {
+                    "winner": "Gimena LAFFEUILLADE"
+                }
+            ],
+            [
+                {
+                    "country": "USA",
+                    "name": "Alisha GALLES"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Gimena LAFFEUILLADE",
+            "Alisha GALLES"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ECU",
+                    "name": "Estefania GARCIA"
+                },
+                {
+                    "country": "BOL",
+                    "name": "Anette AGUILAR"
+                },
+                {
+                    "winner": "Estefania GARCIA"
+                }
+            ],
+            [
+                {
+                    "country": "USA",
+                    "name": "Alisha GALLES"
+                },
+                {
+                    "country": "BRA",
+                    "name": "Gabriella MORAES"
+                },
+                {
+                    "winner": "Gabriella MORAES"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "ECU",
+                    "name": "Estefania GARCIA"
+                },
+                {
+                    "country": "BRA",
+                    "name": "Gabriella MORAES"
+                }
+            ]
+        ],
+        "final_winner": "Estefania GARCIA"
+    }
+}

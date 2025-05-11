@@ -1,0 +1,68 @@
+{
+    "ROUND 1": {
+        "round 1-2": [
+            [
+                {
+                    "country": "USA",
+                    "name": "Andrew WILLIAMS"
+                },
+                {
+                    "country": "MEX",
+                    "name": "Julian GUTIERREZ"
+                },
+                {
+                    "winner": "Andrew WILLIAMS"
+                }
+            ],
+            [
+                {
+                    "country": "USA",
+                    "name": "Daniel PAVLOV"
+                },
+                {
+                    "country": "ECU",
+                    "name": "Junior ANGULO"
+                },
+                {
+                    "winner": "Junior ANGULO"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Andrew WILLIAMS",
+            "Junior ANGULO"
+        ]
+    },
+    "REPECHAGE": {
+        "round 1-1": [
+            [
+                {
+                    "country": "MEX",
+                    "name": "Julian GUTIERREZ"
+                },
+                {
+                    "country": "USA",
+                    "name": "Daniel PAVLOV"
+                },
+                {
+                    "winner": "Daniel PAVLOV"
+                }
+            ],
+            [
+                {
+                    "country": "USA",
+                    "name": "Daniel PAVLOV"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Daniel PAVLOV"
+        ]
+    },
+    "FINALS": {
+        "round 1-1": [],
+        "final_winners": [
+            "Junior ANGULO"
+        ]
+    }
+}

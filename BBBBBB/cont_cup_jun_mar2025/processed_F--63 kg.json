@@ -1,0 +1,135 @@
+{
+    "POOL A": {
+        "round 1-1": [],
+        "final_winner": "Himanshi TOKAS"
+    },
+    "POOL B": {
+        "round 1-1": [
+            [
+                {
+                    "country": "MAR",
+                    "name": "Aya MAROUAN"
+                },
+                {
+                    "country": "MAR",
+                    "name": "Amina ABBOUCHA"
+                }
+            ]
+        ],
+        "final_winner": "Amina ABBOUCHA"
+    },
+    "POOL C": {
+        "round 1-1": [],
+        "final_winner": "Nour EL FAQRI"
+    },
+    "POOL D": {
+        "round 1-1": [
+            [
+                {
+                    "country": "MAR",
+                    "name": "Marwa HADRI"
+                },
+                {
+                    "country": "GRE",
+                    "name": "Anna PAPASTERGIOU"
+                }
+            ]
+        ],
+        "final_winner": "Anna PAPASTERGIOU"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "MAR",
+                    "name": "Aya MAROUAN"
+                }
+            ],
+            [
+                {
+                    "country": "MAR",
+                    "name": "Marwa HADRI"
+                }
+            ],
+            [
+                {
+                    "country": "MAR",
+                    "name": "Aya MAROUAN"
+                },
+                {
+                    "country": "GRE",
+                    "name": "Anna PAPASTERGIOU"
+                },
+                {
+                    "winner": "Anna PAPASTERGIOU"
+                }
+            ],
+            [
+                {
+                    "country": "MAR",
+                    "name": "Marwa HADRI"
+                },
+                {
+                    "country": "MAR",
+                    "name": "Amina ABBOUCHA"
+                },
+                {
+                    "winner": "Marwa HADRI"
+                }
+            ],
+            [
+                {
+                    "country": "GRE",
+                    "name": "Anna PAPASTERGIOU"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Marwa HADRI",
+            "Anna PAPASTERGIOU"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "IND",
+                    "name": "Himanshi TOKAS"
+                },
+                {
+                    "country": "MAR",
+                    "name": "Amina ABBOUCHA"
+                },
+                {
+                    "winner": "Himanshi TOKAS"
+                }
+            ],
+            [
+                {
+                    "country": "MAR",
+                    "name": "Nour EL FAQRI"
+                },
+                {
+                    "country": "GRE",
+                    "name": "Anna PAPASTERGIOU"
+                },
+                {
+                    "winner": "Nour EL FAQRI"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "IND",
+                    "name": "Himanshi TOKAS"
+                },
+                {
+                    "country": "MAR",
+                    "name": "Nour EL FAQRI"
+                }
+            ]
+        ],
+        "final_winner": "Himanshi TOKAS"
+    }
+}

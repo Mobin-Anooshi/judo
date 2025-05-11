@@ -1,0 +1,68 @@
+{
+    "ROUND 1": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ANG",
+                    "name": "Catarina PEDRO"
+                },
+                {
+                    "country": "ANG",
+                    "name": "Suzana ALVARO"
+                },
+                {
+                    "winner": "Catarina PEDRO"
+                }
+            ],
+            [
+                {
+                    "country": "ANG",
+                    "name": "Isabel QUEQUE"
+                },
+                {
+                    "country": "ANG",
+                    "name": "Melcleiny DOS SANTOS"
+                },
+                {
+                    "winner": "Isabel QUEQUE"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Catarina PEDRO",
+            "Isabel QUEQUE"
+        ]
+    },
+    "REPECHAGE": {
+        "round 1-1": [
+            [
+                {
+                    "country": "ANG",
+                    "name": "Suzana ALVARO"
+                },
+                {
+                    "country": "ANG",
+                    "name": "Melcleiny DOS SANTOS"
+                },
+                {
+                    "winner": "Melcleiny DOS SANTOS"
+                }
+            ],
+            [
+                {
+                    "country": "ANG",
+                    "name": "Melcleiny DOS SANTOS"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Melcleiny DOS SANTOS"
+        ]
+    },
+    "FINALS": {
+        "round 1-1": [],
+        "final_winners": [
+            "Catarina PEDRO"
+        ]
+    }
+}

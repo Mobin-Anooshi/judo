@@ -1,0 +1,213 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "KOR",
+                    "name": "SANG WON HWANG"
+                },
+                {
+                    "winner": "SANG WON HWANG"
+                }
+            ],
+            [
+                {
+                    "country": "MGL",
+                    "name": "Nyamdash GANBAT"
+                },
+                {
+                    "winner": "Nyamdash GANBAT"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "KOR",
+                    "name": "SANG WON HWANG"
+                },
+                {
+                    "country": "MGL",
+                    "name": "Nyamdash GANBAT"
+                }
+            ]
+        ],
+        "final_winner": "Nyamdash GANBAT"
+    },
+    "POOL B": {
+        "round 1-1": [],
+        "final_winner": "Kong kin tristen taylor CHOW"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "KOR",
+                    "name": "Gyeong Mok KIM"
+                },
+                {
+                    "winner": "Gyeong Mok KIM"
+                }
+            ],
+            [
+                {
+                    "country": "HKG",
+                    "name": "Shing Yung CHOI"
+                },
+                {
+                    "winner": "Shing Yung CHOI"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "KOR",
+                    "name": "Gyeong Mok KIM"
+                },
+                {
+                    "country": "HKG",
+                    "name": "Shing Yung CHOI"
+                }
+            ]
+        ],
+        "final_winner": "Gyeong Mok KIM"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "TPE",
+                    "name": "Chun Te LIEN"
+                },
+                {
+                    "winner": "Chun Te LIEN"
+                }
+            ],
+            [
+                {
+                    "country": "CHN",
+                    "name": "CHAOGELA BAOYIN"
+                },
+                {
+                    "winner": "CHAOGELA BAOYIN"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "TPE",
+                    "name": "Chun Te LIEN"
+                },
+                {
+                    "country": "CHN",
+                    "name": "CHAOGELA BAOYIN"
+                }
+            ]
+        ],
+        "final_winner": "CHAOGELA BAOYIN"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "KOR",
+                    "name": "SANG WON HWANG"
+                }
+            ],
+            [
+                {
+                    "country": "HKG",
+                    "name": "Shing Yung CHOI"
+                },
+                {
+                    "country": "TPE",
+                    "name": "Chun Te LIEN"
+                },
+                {
+                    "winner": "Chun Te LIEN"
+                }
+            ],
+            [
+                {
+                    "country": "KOR",
+                    "name": "SANG WON HWANG"
+                },
+                {
+                    "country": "KOR",
+                    "name": "Gyeong Mok KIM"
+                },
+                {
+                    "winner": "SANG WON HWANG"
+                }
+            ],
+            [
+                {
+                    "country": "TPE",
+                    "name": "Chun Te LIEN"
+                },
+                {
+                    "country": "HKG",
+                    "name": "Kong kin tristen taylor CHOW"
+                },
+                {
+                    "winner": "Chun Te LIEN"
+                }
+            ],
+            [
+                {
+                    "country": "TPE",
+                    "name": "Chun Te LIEN"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Chun Te LIEN",
+            "SANG WON HWANG"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "MGL",
+                    "name": "Nyamdash GANBAT"
+                },
+                {
+                    "country": "HKG",
+                    "name": "Kong kin tristen taylor CHOW"
+                },
+                {
+                    "winner": "Nyamdash GANBAT"
+                }
+            ],
+            [
+                {
+                    "country": "KOR",
+                    "name": "Gyeong Mok KIM"
+                },
+                {
+                    "country": "CHN",
+                    "name": "CHAOGELA BAOYIN"
+                },
+                {
+                    "winner": "CHAOGELA BAOYIN"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "MGL",
+                    "name": "Nyamdash GANBAT"
+                },
+                {
+                    "country": "CHN",
+                    "name": "CHAOGELA BAOYIN"
+                }
+            ]
+        ],
+        "final_winner": "Nyamdash GANBAT"
+    }
+}

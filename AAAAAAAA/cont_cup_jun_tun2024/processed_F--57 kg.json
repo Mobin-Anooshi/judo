@@ -1,0 +1,153 @@
+{
+    "POOL A": {
+        "round 1-1": [],
+        "final_winner": "Chaima SIDAOUI"
+    },
+    "POOL B": {
+        "round 1-1": [
+            [
+                {
+                    "country": "ALG",
+                    "name": "Hala ZERROUK"
+                },
+                {
+                    "country": "TUN",
+                    "name": "Marwa CHAMKHI"
+                }
+            ]
+        ],
+        "final_winner": "Marwa CHAMKHI"
+    },
+    "POOL C": {
+        "round 1-1": [
+            [
+                {
+                    "country": "TUN",
+                    "name": "Mariem JMOUR"
+                },
+                {
+                    "country": "LTU",
+                    "name": "Deimante CESLAUSKAITE"
+                }
+            ]
+        ],
+        "final_winner": "Mariem JMOUR"
+    },
+    "POOL D": {
+        "round 1-1": [
+            [
+                {
+                    "country": "TUN",
+                    "name": "Amira TRABELSI"
+                },
+                {
+                    "country": "ALG",
+                    "name": "Bouchra BACH SAIS"
+                }
+            ]
+        ],
+        "final_winner": "Amira TRABELSI"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ALG",
+                    "name": "Hala ZERROUK"
+                }
+            ],
+            [
+                {
+                    "country": "LTU",
+                    "name": "Deimante CESLAUSKAITE"
+                },
+                {
+                    "country": "ALG",
+                    "name": "Bouchra BACH SAIS"
+                },
+                {
+                    "winner": "Bouchra BACH SAIS"
+                }
+            ],
+            [
+                {
+                    "country": "ALG",
+                    "name": "Hala ZERROUK"
+                },
+                {
+                    "country": "TUN",
+                    "name": "Amira TRABELSI"
+                },
+                {
+                    "winner": "Hala ZERROUK"
+                }
+            ],
+            [
+                {
+                    "country": "ALG",
+                    "name": "Bouchra BACH SAIS"
+                },
+                {
+                    "country": "TUN",
+                    "name": "Marwa CHAMKHI"
+                },
+                {
+                    "winner": "Marwa CHAMKHI"
+                }
+            ],
+            [
+                {
+                    "country": "TUN",
+                    "name": "Marwa CHAMKHI"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Bouchra BACH SAIS",
+            "Hala ZERROUK"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "TUN",
+                    "name": "Chaima SIDAOUI"
+                },
+                {
+                    "country": "TUN",
+                    "name": "Marwa CHAMKHI"
+                },
+                {
+                    "winner": "Chaima SIDAOUI"
+                }
+            ],
+            [
+                {
+                    "country": "TUN",
+                    "name": "Mariem JMOUR"
+                },
+                {
+                    "country": "TUN",
+                    "name": "Amira TRABELSI"
+                },
+                {
+                    "winner": "Mariem JMOUR"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "TUN",
+                    "name": "Chaima SIDAOUI"
+                },
+                {
+                    "country": "TUN",
+                    "name": "Mariem JMOUR"
+                }
+            ]
+        ],
+        "final_winner": "Chaima SIDAOUI"
+    }
+}

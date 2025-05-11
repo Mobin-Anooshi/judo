@@ -1,0 +1,281 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "PER",
+                    "name": "Alonso WONG"
+                },
+                {
+                    "winner": "Alonso WONG"
+                }
+            ],
+            [
+                {
+                    "country": "COL",
+                    "name": "Andres SANDOVAL"
+                },
+                {
+                    "country": "ARG",
+                    "name": "Tomas SOSA"
+                },
+                {
+                    "winner": "Andres SANDOVAL"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "PER",
+                    "name": "Alonso WONG"
+                },
+                {
+                    "country": "COL",
+                    "name": "Andres SANDOVAL"
+                }
+            ]
+        ],
+        "final_winner": "Alonso WONG"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "COL",
+                    "name": "Arkangel BARBOZA"
+                },
+                {
+                    "country": "BRA",
+                    "name": "Vinicius ARDINA"
+                },
+                {
+                    "winner": "Vinicius ARDINA"
+                }
+            ],
+            [
+                {
+                    "country": "MEX",
+                    "name": "Eduardo ARAUJO"
+                },
+                {
+                    "country": "URU",
+                    "name": "Agustin GORRIZ"
+                },
+                {
+                    "winner": "Eduardo ARAUJO"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Vinicius ARDINA"
+                },
+                {
+                    "country": "MEX",
+                    "name": "Eduardo ARAUJO"
+                }
+            ]
+        ],
+        "final_winner": "Vinicius ARDINA"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "MEX",
+                    "name": "Gilberto CARDOSO"
+                },
+                {
+                    "winner": "Gilberto CARDOSO"
+                }
+            ],
+            [
+                {
+                    "country": "CHI",
+                    "name": "Juan Pablo VEGA"
+                },
+                {
+                    "country": "PER",
+                    "name": "Sebastian OTINIANO"
+                },
+                {
+                    "winner": "Juan Pablo VEGA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "MEX",
+                    "name": "Gilberto CARDOSO"
+                },
+                {
+                    "country": "CHI",
+                    "name": "Juan Pablo VEGA"
+                }
+            ]
+        ],
+        "final_winner": "Gilberto CARDOSO"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Jeferson SANTOS JUNIOR"
+                },
+                {
+                    "country": "ARG",
+                    "name": "Karim ADARVEZ"
+                },
+                {
+                    "winner": "Jeferson SANTOS JUNIOR"
+                }
+            ],
+            [
+                {
+                    "country": "IRL",
+                    "name": "Joshua GREEN"
+                },
+                {
+                    "country": "PER",
+                    "name": "Aldair BARTHE CHIRRINOS"
+                },
+                {
+                    "winner": "Joshua GREEN"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Jeferson SANTOS JUNIOR"
+                },
+                {
+                    "country": "IRL",
+                    "name": "Joshua GREEN"
+                }
+            ]
+        ],
+        "final_winner": "Jeferson SANTOS JUNIOR"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "COL",
+                    "name": "Andres SANDOVAL"
+                },
+                {
+                    "country": "MEX",
+                    "name": "Eduardo ARAUJO"
+                },
+                {
+                    "winner": "Andres SANDOVAL"
+                }
+            ],
+            [
+                {
+                    "country": "CHI",
+                    "name": "Juan Pablo VEGA"
+                },
+                {
+                    "country": "IRL",
+                    "name": "Joshua GREEN"
+                },
+                {
+                    "winner": "Joshua GREEN"
+                }
+            ],
+            [
+                {
+                    "country": "COL",
+                    "name": "Andres SANDOVAL"
+                },
+                {
+                    "country": "MEX",
+                    "name": "Gilberto CARDOSO"
+                },
+                {
+                    "winner": "Gilberto CARDOSO"
+                }
+            ],
+            [
+                {
+                    "country": "IRL",
+                    "name": "Joshua GREEN"
+                },
+                {
+                    "country": "BRA",
+                    "name": "Vinicius ARDINA"
+                },
+                {
+                    "winner": "Vinicius ARDINA"
+                }
+            ],
+            [
+                {
+                    "country": "MEX",
+                    "name": "Gilberto CARDOSO"
+                }
+            ],
+            [
+                {
+                    "country": "BRA",
+                    "name": "Vinicius ARDINA"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Gilberto CARDOSO",
+            "Vinicius ARDINA"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "PER",
+                    "name": "Alonso WONG"
+                },
+                {
+                    "country": "BRA",
+                    "name": "Vinicius ARDINA"
+                },
+                {
+                    "winner": "Alonso WONG"
+                }
+            ],
+            [
+                {
+                    "country": "MEX",
+                    "name": "Gilberto CARDOSO"
+                },
+                {
+                    "country": "BRA",
+                    "name": "Jeferson SANTOS JUNIOR"
+                },
+                {
+                    "winner": "Jeferson SANTOS JUNIOR"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "PER",
+                    "name": "Alonso WONG"
+                },
+                {
+                    "country": "BRA",
+                    "name": "Jeferson SANTOS JUNIOR"
+                }
+            ]
+        ],
+        "final_winner": "Alonso WONG"
+    }
+}

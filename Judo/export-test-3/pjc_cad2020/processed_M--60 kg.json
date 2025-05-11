@@ -1,0 +1,68 @@
+{
+    "ROUND 1": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ECU",
+                    "name": "Kevin AYALA"
+                },
+                {
+                    "country": "PAR",
+                    "name": "Marcelo VICENTINI"
+                },
+                {
+                    "winner": "Kevin AYALA"
+                }
+            ],
+            [
+                {
+                    "country": "USA",
+                    "name": "Joshua YANG"
+                },
+                {
+                    "country": "MEX",
+                    "name": "Jose QUINTA"
+                },
+                {
+                    "winner": "Joshua YANG"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Kevin AYALA",
+            "Joshua YANG"
+        ]
+    },
+    "REPECHAGE": {
+        "round 1-1": [
+            [
+                {
+                    "country": "PAR",
+                    "name": "Marcelo VICENTINI"
+                },
+                {
+                    "country": "MEX",
+                    "name": "Jose QUINTA"
+                },
+                {
+                    "winner": "Marcelo VICENTINI"
+                }
+            ],
+            [
+                {
+                    "country": "PAR",
+                    "name": "Marcelo VICENTINI"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Marcelo VICENTINI"
+        ]
+    },
+    "FINALS": {
+        "round 1-1": [],
+        "final_winners": [
+            "Kevin AYALA"
+        ]
+    }
+}

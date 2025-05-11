@@ -1,0 +1,295 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ECU",
+                    "name": "Bryan GARBOA"
+                },
+                {
+                    "winner": "Bryan GARBOA"
+                }
+            ],
+            [
+                {
+                    "country": "PER",
+                    "name": "Josue FUENTES MEJIA"
+                },
+                {
+                    "winner": "Josue FUENTES MEJIA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "ECU",
+                    "name": "Bryan GARBOA"
+                },
+                {
+                    "country": "PER",
+                    "name": "Josue FUENTES MEJIA"
+                }
+            ]
+        ],
+        "final_winner": "Bryan GARBOA"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "PER",
+                    "name": "Jose Carlos NARVAEZ"
+                },
+                {
+                    "winner": "Jose Carlos NARVAEZ"
+                }
+            ],
+            [
+                {
+                    "country": "CHI",
+                    "name": "Lucas FERNANDEZ"
+                },
+                {
+                    "winner": "Lucas FERNANDEZ"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "PER",
+                    "name": "Jose Carlos NARVAEZ"
+                },
+                {
+                    "country": "CHI",
+                    "name": "Lucas FERNANDEZ"
+                }
+            ]
+        ],
+        "final_winner": "Jose Carlos NARVAEZ"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "MEX",
+                    "name": "Santiago CARDOSO"
+                },
+                {
+                    "winner": "Santiago CARDOSO"
+                }
+            ],
+            [
+                {
+                    "country": "PER",
+                    "name": "Erick SARAZA NASHNATE"
+                },
+                {
+                    "winner": "Erick SARAZA NASHNATE"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "MEX",
+                    "name": "Santiago CARDOSO"
+                },
+                {
+                    "country": "PER",
+                    "name": "Erick SARAZA NASHNATE"
+                }
+            ]
+        ],
+        "final_winner": "Santiago CARDOSO"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "MEX",
+                    "name": "Jose QUINTA"
+                },
+                {
+                    "winner": "Jose QUINTA"
+                }
+            ],
+            [
+                {
+                    "country": "LBN",
+                    "name": "Marcel VICENTINI"
+                },
+                {
+                    "winner": "Marcel VICENTINI"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "MEX",
+                    "name": "Jose QUINTA"
+                },
+                {
+                    "country": "LBN",
+                    "name": "Marcel VICENTINI"
+                }
+            ]
+        ],
+        "final_winner": "Jose QUINTA"
+    },
+    "REPECHAGE": {
+        "round 1-4": [
+            [
+                {
+                    "country": "PER",
+                    "name": "Josue FUENTES MEJIA"
+                },
+                {
+                    "winner": "Josue FUENTES MEJIA"
+                }
+            ],
+            [
+                {
+                    "country": "CHI",
+                    "name": "Lucas FERNANDEZ"
+                },
+                {
+                    "winner": "Lucas FERNANDEZ"
+                }
+            ],
+            [
+                {
+                    "country": "PER",
+                    "name": "Erick SARAZA NASHNATE"
+                },
+                {
+                    "winner": "Erick SARAZA NASHNATE"
+                }
+            ],
+            [
+                {
+                    "country": "LBN",
+                    "name": "Marcel VICENTINI"
+                },
+                {
+                    "winner": "Marcel VICENTINI"
+                }
+            ]
+        ],
+        "round 1-2": [
+            [
+                {
+                    "country": "PER",
+                    "name": "Josue FUENTES MEJIA"
+                },
+                {
+                    "country": "CHI",
+                    "name": "Lucas FERNANDEZ"
+                },
+                {
+                    "winner": "Lucas FERNANDEZ"
+                }
+            ],
+            [
+                {
+                    "country": "PER",
+                    "name": "Erick SARAZA NASHNATE"
+                },
+                {
+                    "country": "LBN",
+                    "name": "Marcel VICENTINI"
+                },
+                {
+                    "winner": "Marcel VICENTINI"
+                }
+            ],
+            [
+                {
+                    "country": "CHI",
+                    "name": "Lucas FERNANDEZ"
+                },
+                {
+                    "country": "MEX",
+                    "name": "Jose QUINTA"
+                },
+                {
+                    "winner": "Lucas FERNANDEZ"
+                }
+            ],
+            [
+                {
+                    "country": "LBN",
+                    "name": "Marcel VICENTINI"
+                },
+                {
+                    "country": "PER",
+                    "name": "Jose Carlos NARVAEZ"
+                },
+                {
+                    "winner": "Jose Carlos NARVAEZ"
+                }
+            ],
+            [
+                {
+                    "country": "CHI",
+                    "name": "Lucas FERNANDEZ"
+                }
+            ],
+            [
+                {
+                    "country": "PER",
+                    "name": "Jose Carlos NARVAEZ"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Lucas FERNANDEZ",
+            "Jose Carlos NARVAEZ"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ECU",
+                    "name": "Bryan GARBOA"
+                },
+                {
+                    "country": "PER",
+                    "name": "Jose Carlos NARVAEZ"
+                },
+                {
+                    "winner": "Bryan GARBOA"
+                }
+            ],
+            [
+                {
+                    "country": "MEX",
+                    "name": "Santiago CARDOSO"
+                },
+                {
+                    "country": "MEX",
+                    "name": "Jose QUINTA"
+                },
+                {
+                    "winner": "Santiago CARDOSO"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "ECU",
+                    "name": "Bryan GARBOA"
+                },
+                {
+                    "country": "MEX",
+                    "name": "Santiago CARDOSO"
+                }
+            ]
+        ],
+        "final_winner": "Bryan GARBOA"
+    }
+}

@@ -1,0 +1,285 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "JPN",
+                    "name": "Aaron WOLF"
+                },
+                {
+                    "winner": "Aaron WOLF"
+                }
+            ],
+            [
+                {
+                    "country": "UAE",
+                    "name": "Ivan REMARENCO"
+                },
+                {
+                    "country": "QAT",
+                    "name": "Reda NAFWA"
+                },
+                {
+                    "winner": "Ivan REMARENCO"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "JPN",
+                    "name": "Aaron WOLF"
+                },
+                {
+                    "country": "UAE",
+                    "name": "Ivan REMARENCO"
+                }
+            ]
+        ],
+        "final_winner": "Aaron WOLF"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CHN",
+                    "name": "ERIHEMUBATU"
+                },
+                {
+                    "country": "KUW",
+                    "name": "Abdullah TALEB"
+                },
+                {
+                    "winner": "ERIHEMUBATU"
+                }
+            ],
+            [
+                {
+                    "country": "PAK",
+                    "name": "Shah Hussain SHAH"
+                },
+                {
+                    "country": "FIJ",
+                    "name": "Tevita TAKAYAWA"
+                },
+                {
+                    "winner": "Shah Hussain SHAH"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "CHN",
+                    "name": "ERIHEMUBATU"
+                },
+                {
+                    "country": "PAK",
+                    "name": "Shah Hussain SHAH"
+                }
+            ]
+        ],
+        "final_winner": "ERIHEMUBATU"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "UZB",
+                    "name": "Mukhammadkarim KHURRAMOV"
+                },
+                {
+                    "country": "NZL",
+                    "name": "Jason KOSTER"
+                },
+                {
+                    "winner": "Mukhammadkarim KHURRAMOV"
+                }
+            ],
+            [
+                {
+                    "country": "KAZ",
+                    "name": "Aibek SERIKBAYEV"
+                },
+                {
+                    "country": "IRI",
+                    "name": "Ali PARHIZGAR"
+                },
+                {
+                    "winner": "Aibek SERIKBAYEV"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "UZB",
+                    "name": "Mukhammadkarim KHURRAMOV"
+                },
+                {
+                    "country": "KAZ",
+                    "name": "Aibek SERIKBAYEV"
+                }
+            ]
+        ],
+        "final_winner": "Mukhammadkarim KHURRAMOV"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "AUS",
+                    "name": "Kayhan OZCICEK-TAKAGI"
+                },
+                {
+                    "country": "TJK",
+                    "name": "Mansur RAHMON"
+                },
+                {
+                    "winner": "Kayhan OZCICEK-TAKAGI"
+                }
+            ],
+            [
+                {
+                    "country": "UZB",
+                    "name": "Muzaffarbek TUROBOYEV"
+                },
+                {
+                    "country": "TKM",
+                    "name": "Yashyuzak ASHIROV"
+                },
+                {
+                    "winner": "Muzaffarbek TUROBOYEV"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "AUS",
+                    "name": "Kayhan OZCICEK-TAKAGI"
+                },
+                {
+                    "country": "UZB",
+                    "name": "Muzaffarbek TUROBOYEV"
+                }
+            ]
+        ],
+        "final_winner": "Muzaffarbek TUROBOYEV"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "UAE",
+                    "name": "Ivan REMARENCO"
+                },
+                {
+                    "country": "PAK",
+                    "name": "Shah Hussain SHAH"
+                },
+                {
+                    "winner": "Ivan REMARENCO"
+                }
+            ],
+            [
+                {
+                    "country": "KAZ",
+                    "name": "Aibek SERIKBAYEV"
+                },
+                {
+                    "country": "AUS",
+                    "name": "Kayhan OZCICEK-TAKAGI"
+                },
+                {
+                    "winner": "Kayhan OZCICEK-TAKAGI"
+                }
+            ],
+            [
+                {
+                    "country": "UAE",
+                    "name": "Ivan REMARENCO"
+                },
+                {
+                    "country": "UZB",
+                    "name": "Muzaffarbek TUROBOYEV"
+                },
+                {
+                    "winner": "Muzaffarbek TUROBOYEV"
+                }
+            ],
+            [
+                {
+                    "country": "AUS",
+                    "name": "Kayhan OZCICEK-TAKAGI"
+                },
+                {
+                    "country": "CHN",
+                    "name": "ERIHEMUBATU"
+                },
+                {
+                    "winner": "ERIHEMUBATU"
+                }
+            ],
+            [
+                {
+                    "country": "UZB",
+                    "name": "Muzaffarbek TUROBOYEV"
+                }
+            ],
+            [
+                {
+                    "country": "CHN",
+                    "name": "ERIHEMUBATU"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Muzaffarbek TUROBOYEV",
+            "ERIHEMUBATU"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "JPN",
+                    "name": "Aaron WOLF"
+                },
+                {
+                    "country": "CHN",
+                    "name": "ERIHEMUBATU"
+                },
+                {
+                    "winner": "Aaron WOLF"
+                }
+            ],
+            [
+                {
+                    "country": "UZB",
+                    "name": "Mukhammadkarim KHURRAMOV"
+                },
+                {
+                    "country": "UZB",
+                    "name": "Muzaffarbek TUROBOYEV"
+                },
+                {
+                    "winner": "Mukhammadkarim KHURRAMOV"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "JPN",
+                    "name": "Aaron WOLF"
+                },
+                {
+                    "country": "UZB",
+                    "name": "Mukhammadkarim KHURRAMOV"
+                }
+            ]
+        ],
+        "final_winner": "Aaron WOLF"
+    }
+}

@@ -1,0 +1,281 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "DOM",
+                    "name": "Medickson DEL ORBE CORTORREAL"
+                },
+                {
+                    "winner": "Medickson DEL ORBE CORTORREAL"
+                }
+            ],
+            [
+                {
+                    "country": "VEN",
+                    "name": "Jonhelius PATETE"
+                },
+                {
+                    "country": "ESA",
+                    "name": "Gustavo Eduardo LOPEZ AGUILERA"
+                },
+                {
+                    "winner": "Jonhelius PATETE"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "DOM",
+                    "name": "Medickson DEL ORBE CORTORREAL"
+                },
+                {
+                    "country": "VEN",
+                    "name": "Jonhelius PATETE"
+                }
+            ]
+        ],
+        "final_winner": "Medickson DEL ORBE CORTORREAL"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ARG",
+                    "name": "Tomas MORALES"
+                },
+                {
+                    "country": "USA",
+                    "name": "Emiliano SAUCEDO GOLDSCHMIED"
+                },
+                {
+                    "winner": "Tomas MORALES"
+                }
+            ],
+            [
+                {
+                    "country": "NZL",
+                    "name": "Maarten DE RIDDER"
+                },
+                {
+                    "country": "DOM",
+                    "name": "Carlos ARIAS"
+                },
+                {
+                    "winner": "Carlos ARIAS"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "ARG",
+                    "name": "Tomas MORALES"
+                },
+                {
+                    "country": "DOM",
+                    "name": "Carlos ARIAS"
+                }
+            ]
+        ],
+        "final_winner": "Tomas MORALES"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "MEX",
+                    "name": "Samuel AYALA"
+                },
+                {
+                    "winner": "Samuel AYALA"
+                }
+            ],
+            [
+                {
+                    "country": "DOM",
+                    "name": "Albis Jose CASTRO MATOS"
+                },
+                {
+                    "country": "COL",
+                    "name": "Alexander BORJA"
+                },
+                {
+                    "winner": "Alexander BORJA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "MEX",
+                    "name": "Samuel AYALA"
+                },
+                {
+                    "country": "COL",
+                    "name": "Alexander BORJA"
+                }
+            ]
+        ],
+        "final_winner": "Samuel AYALA"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "USA",
+                    "name": "Kell BERLINER"
+                },
+                {
+                    "country": "DOM",
+                    "name": "Carlos MERCEDES"
+                },
+                {
+                    "winner": "Kell BERLINER"
+                }
+            ],
+            [
+                {
+                    "country": "URU",
+                    "name": "Alain APRAHAMIAN"
+                },
+                {
+                    "country": "CAN",
+                    "name": "Jeremie BLAIN"
+                },
+                {
+                    "winner": "Jeremie BLAIN"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "USA",
+                    "name": "Kell BERLINER"
+                },
+                {
+                    "country": "CAN",
+                    "name": "Jeremie BLAIN"
+                }
+            ]
+        ],
+        "final_winner": "Kell BERLINER"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "VEN",
+                    "name": "Jonhelius PATETE"
+                },
+                {
+                    "country": "DOM",
+                    "name": "Carlos ARIAS"
+                },
+                {
+                    "winner": "Jonhelius PATETE"
+                }
+            ],
+            [
+                {
+                    "country": "COL",
+                    "name": "Alexander BORJA"
+                },
+                {
+                    "country": "CAN",
+                    "name": "Jeremie BLAIN"
+                },
+                {
+                    "winner": "Alexander BORJA"
+                }
+            ],
+            [
+                {
+                    "country": "VEN",
+                    "name": "Jonhelius PATETE"
+                },
+                {
+                    "country": "MEX",
+                    "name": "Samuel AYALA"
+                },
+                {
+                    "winner": "Samuel AYALA"
+                }
+            ],
+            [
+                {
+                    "country": "COL",
+                    "name": "Alexander BORJA"
+                },
+                {
+                    "country": "ARG",
+                    "name": "Tomas MORALES"
+                },
+                {
+                    "winner": "Tomas MORALES"
+                }
+            ],
+            [
+                {
+                    "country": "MEX",
+                    "name": "Samuel AYALA"
+                }
+            ],
+            [
+                {
+                    "country": "ARG",
+                    "name": "Tomas MORALES"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Samuel AYALA",
+            "Tomas MORALES"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "DOM",
+                    "name": "Medickson DEL ORBE CORTORREAL"
+                },
+                {
+                    "country": "ARG",
+                    "name": "Tomas MORALES"
+                },
+                {
+                    "winner": "Medickson DEL ORBE CORTORREAL"
+                }
+            ],
+            [
+                {
+                    "country": "MEX",
+                    "name": "Samuel AYALA"
+                },
+                {
+                    "country": "USA",
+                    "name": "Kell BERLINER"
+                },
+                {
+                    "winner": "Kell BERLINER"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "DOM",
+                    "name": "Medickson DEL ORBE CORTORREAL"
+                },
+                {
+                    "country": "USA",
+                    "name": "Kell BERLINER"
+                }
+            ]
+        ],
+        "final_winner": "Medickson DEL ORBE CORTORREAL"
+    }
+}

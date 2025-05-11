@@ -1,0 +1,87 @@
+{
+    "POOL A": {
+        "round 1-3": [
+            [
+                {
+                    "country": "ANG",
+                    "name": "Eldimira SEGUNDA"
+                },
+                {
+                    "country": "BUR",
+                    "name": "N. Cherifa COULIBALY"
+                },
+                {
+                    "winner": "Eldimira SEGUNDA"
+                }
+            ],
+            [
+                {
+                    "country": "ANG",
+                    "name": "Eldimira SEGUNDA"
+                },
+                {
+                    "country": "CIV",
+                    "name": "Massissira OUATTARA"
+                },
+                {
+                    "winner": "Massissira OUATTARA"
+                }
+            ],
+            [
+                {
+                    "country": "BUR",
+                    "name": "N. Cherifa COULIBALY"
+                },
+                {
+                    "country": "CIV",
+                    "name": "Massissira OUATTARA"
+                },
+                {
+                    "winner": "N. Cherifa COULIBALY"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Eldimira SEGUNDA",
+            "N. Cherifa COULIBALY"
+        ]
+    },
+    "POOL B": {
+        "round 1-1": [],
+        "final_winners": [
+            "Madinatou SAKA AMINOU"
+        ]
+    },
+    "REPECHAGE": {
+        "round 1-1": [
+            [
+                {
+                    "country": "BUR",
+                    "name": "N. Cherifa COULIBALY"
+                },
+                {
+                    "country": "CIV",
+                    "name": "Zansho Massita KONE"
+                },
+                {
+                    "winner": "N. Cherifa COULIBALY"
+                }
+            ],
+            [
+                {
+                    "country": "BUR",
+                    "name": "N. Cherifa COULIBALY"
+                }
+            ]
+        ],
+        "final_winners": [
+            "N. Cherifa COULIBALY"
+        ]
+    },
+    "FINALS": {
+        "round 1-1": [],
+        "final_winners": [
+            "Eldimira SEGUNDA"
+        ]
+    }
+}

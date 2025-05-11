@@ -1,0 +1,206 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ITA",
+                    "name": "Luca GASPARRINI"
+                },
+                {
+                    "winner": "Luca GASPARRINI"
+                }
+            ],
+            [
+                {
+                    "country": "CZE",
+                    "name": "Rudolf JANISCH"
+                },
+                {
+                    "winner": "Rudolf JANISCH"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "ITA",
+                    "name": "Luca GASPARRINI"
+                },
+                {
+                    "country": "CZE",
+                    "name": "Rudolf JANISCH"
+                }
+            ]
+        ],
+        "final_winner": "Luca GASPARRINI"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "FRA",
+                    "name": "Jeremy HERMELIN"
+                },
+                {
+                    "winner": "Jeremy HERMELIN"
+                }
+            ],
+            [
+                {
+                    "country": "HUN",
+                    "name": "Gergely Buda SZOLLOSI"
+                },
+                {
+                    "winner": "Gergely Buda SZOLLOSI"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "FRA",
+                    "name": "Jeremy HERMELIN"
+                },
+                {
+                    "country": "HUN",
+                    "name": "Gergely Buda SZOLLOSI"
+                }
+            ]
+        ],
+        "final_winner": "Jeremy HERMELIN"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "HUN",
+                    "name": "Bence DUDAS"
+                },
+                {
+                    "winner": "Bence DUDAS"
+                }
+            ],
+            [
+                {
+                    "country": "TJK",
+                    "name": "Hamza SHARIPOV"
+                },
+                {
+                    "winner": "Hamza SHARIPOV"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "HUN",
+                    "name": "Bence DUDAS"
+                },
+                {
+                    "country": "TJK",
+                    "name": "Hamza SHARIPOV"
+                }
+            ],
+            []
+        ]
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ROU",
+                    "name": "Toni MANDACHE"
+                },
+                {
+                    "country": "ITA",
+                    "name": "Alberto FAILLA"
+                },
+                {
+                    "winner": "Toni MANDACHE"
+                }
+            ],
+            [
+                {
+                    "country": "GER",
+                    "name": "Daniel REIMER"
+                },
+                {
+                    "winner": "Daniel REIMER"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "ROU",
+                    "name": "Toni MANDACHE"
+                },
+                {
+                    "country": "GER",
+                    "name": "Daniel REIMER"
+                }
+            ],
+            []
+        ]
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CZE",
+                    "name": "Rudolf JANISCH"
+                },
+                {
+                    "country": "HUN",
+                    "name": "Gergely Buda SZOLLOSI"
+                },
+                {
+                    "winner": "Gergely Buda SZOLLOSI"
+                }
+            ],
+            [],
+            [
+                {
+                    "country": "HUN",
+                    "name": "Gergely Buda SZOLLOSI"
+                }
+            ],
+            [
+                {
+                    "country": "ITA",
+                    "name": "Luca GASPARRINI"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Gergely Buda SZOLLOSI"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ITA",
+                    "name": "Luca GASPARRINI"
+                },
+                {
+                    "country": "FRA",
+                    "name": "Jeremy HERMELIN"
+                },
+                {
+                    "winner": "Jeremy HERMELIN"
+                }
+            ],
+            []
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "FRA",
+                    "name": "Jeremy HERMELIN"
+                }
+            ],
+            []
+        ]
+    }
+}

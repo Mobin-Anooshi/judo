@@ -1,0 +1,68 @@
+{
+    "ROUND 1": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CYP",
+                    "name": "Sofia ASVESTA"
+                },
+                {
+                    "country": "BEL",
+                    "name": "Ellen SALENS"
+                },
+                {
+                    "winner": "Ellen SALENS"
+                }
+            ],
+            [
+                {
+                    "country": "ESP",
+                    "name": "Marina CASTELLO DIEZ"
+                },
+                {
+                    "country": "ITA",
+                    "name": "Eleonora CRESCINI"
+                },
+                {
+                    "winner": "Marina CASTELLO DIEZ"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Ellen SALENS",
+            "Marina CASTELLO DIEZ"
+        ]
+    },
+    "REPECHAGE": {
+        "round 1-1": [
+            [
+                {
+                    "country": "CYP",
+                    "name": "Sofia ASVESTA"
+                },
+                {
+                    "country": "ITA",
+                    "name": "Eleonora CRESCINI"
+                },
+                {
+                    "winner": "Sofia ASVESTA"
+                }
+            ],
+            [
+                {
+                    "country": "CYP",
+                    "name": "Sofia ASVESTA"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Sofia ASVESTA"
+        ]
+    },
+    "FINALS": {
+        "round 1-1": [],
+        "final_winners": [
+            "Marina CASTELLO DIEZ"
+        ]
+    }
+}

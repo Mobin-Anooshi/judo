@@ -1,0 +1,257 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "AZE",
+                    "name": "Ilgar MUSHKIYEV"
+                },
+                {
+                    "winner": "Ilgar MUSHKIYEV"
+                }
+            ],
+            [
+                {
+                    "country": "UZB",
+                    "name": "Doniyor SULTANBAEV"
+                },
+                {
+                    "winner": "Doniyor SULTANBAEV"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "AZE",
+                    "name": "Ilgar MUSHKIYEV"
+                },
+                {
+                    "country": "UZB",
+                    "name": "Doniyor SULTANBAEV"
+                }
+            ]
+        ],
+        "final_winner": "Ilgar MUSHKIYEV"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "RUS",
+                    "name": "Albert OGUZOV"
+                },
+                {
+                    "winner": "Albert OGUZOV"
+                }
+            ],
+            [
+                {
+                    "country": "AZE",
+                    "name": "Davud MAMMADSOY"
+                },
+                {
+                    "winner": "Davud MAMMADSOY"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "RUS",
+                    "name": "Albert OGUZOV"
+                },
+                {
+                    "country": "AZE",
+                    "name": "Davud MAMMADSOY"
+                }
+            ]
+        ],
+        "final_winner": "Albert OGUZOV"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "JPN",
+                    "name": "Yuma OSHIMA"
+                },
+                {
+                    "winner": "Yuma OSHIMA"
+                }
+            ],
+            [
+                {
+                    "country": "RUS",
+                    "name": "Sayan KHERTEK"
+                },
+                {
+                    "winner": "Sayan KHERTEK"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "JPN",
+                    "name": "Yuma OSHIMA"
+                },
+                {
+                    "country": "RUS",
+                    "name": "Sayan KHERTEK"
+                }
+            ]
+        ],
+        "final_winner": "Yuma OSHIMA"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "RUS",
+                    "name": "Islam YASHUEV"
+                },
+                {
+                    "winner": "Islam YASHUEV"
+                }
+            ],
+            [
+                {
+                    "country": "RUS",
+                    "name": "Dmitriy KULIKOV"
+                },
+                {
+                    "winner": "Dmitriy KULIKOV"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "RUS",
+                    "name": "Islam YASHUEV"
+                },
+                {
+                    "country": "RUS",
+                    "name": "Dmitriy KULIKOV"
+                }
+            ]
+        ],
+        "final_winner": "Dmitriy KULIKOV"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "UZB",
+                    "name": "Doniyor SULTANBAEV"
+                },
+                {
+                    "country": "AZE",
+                    "name": "Davud MAMMADSOY"
+                },
+                {
+                    "winner": "Davud MAMMADSOY"
+                }
+            ],
+            [
+                {
+                    "country": "RUS",
+                    "name": "Sayan KHERTEK"
+                },
+                {
+                    "country": "RUS",
+                    "name": "Islam YASHUEV"
+                },
+                {
+                    "winner": "Sayan KHERTEK"
+                }
+            ],
+            [
+                {
+                    "country": "AZE",
+                    "name": "Davud MAMMADSOY"
+                },
+                {
+                    "country": "RUS",
+                    "name": "Dmitriy KULIKOV"
+                },
+                {
+                    "winner": "Davud MAMMADSOY"
+                }
+            ],
+            [
+                {
+                    "country": "RUS",
+                    "name": "Sayan KHERTEK"
+                },
+                {
+                    "country": "AZE",
+                    "name": "Ilgar MUSHKIYEV"
+                },
+                {
+                    "winner": "Ilgar MUSHKIYEV"
+                }
+            ],
+            [
+                {
+                    "country": "AZE",
+                    "name": "Davud MAMMADSOY"
+                }
+            ],
+            [
+                {
+                    "country": "AZE",
+                    "name": "Ilgar MUSHKIYEV"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Davud MAMMADSOY",
+            "Ilgar MUSHKIYEV"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "AZE",
+                    "name": "Ilgar MUSHKIYEV"
+                },
+                {
+                    "country": "RUS",
+                    "name": "Albert OGUZOV"
+                },
+                {
+                    "winner": "Albert OGUZOV"
+                }
+            ],
+            [
+                {
+                    "country": "JPN",
+                    "name": "Yuma OSHIMA"
+                },
+                {
+                    "country": "RUS",
+                    "name": "Dmitriy KULIKOV"
+                },
+                {
+                    "winner": "Yuma OSHIMA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "RUS",
+                    "name": "Albert OGUZOV"
+                },
+                {
+                    "country": "JPN",
+                    "name": "Yuma OSHIMA"
+                }
+            ]
+        ],
+        "final_winner": "Yuma OSHIMA"
+    }
+}

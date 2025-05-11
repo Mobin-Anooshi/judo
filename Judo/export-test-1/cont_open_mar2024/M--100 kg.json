@@ -1,0 +1,159 @@
+{
+    "POOL A": {
+        "round 1-1": [],
+        "final_winner": "Libasse NDIAYE"
+    },
+    "POOL B": {
+        "round 1-1": [
+            [
+                {
+                    "country": "MAR",
+                    "name": "Ayman EL AZZOUZI"
+                },
+                {
+                    "country": "UGA",
+                    "name": "Charles MWANGUSHYA"
+                }
+            ]
+        ],
+        "final_winner": "Ayman EL AZZOUZI"
+    },
+    "POOL C": {
+        "round 1-1": [
+            [
+                {
+                    "country": "FRA",
+                    "name": "Francis DAMIER"
+                },
+                {
+                    "country": "MAR",
+                    "name": "Amine ELAZZOUZI"
+                }
+            ]
+        ],
+        "final_winner": "Francis DAMIER"
+    },
+    "POOL D": {
+        "round 1-1": [
+            [
+                {
+                    "country": "GBR",
+                    "name": "Matthew SEXTON"
+                },
+                {
+                    "country": "MAR",
+                    "name": "Haytam BENYAHIA"
+                }
+            ]
+        ],
+        "final_winner": "Matthew SEXTON"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "UGA",
+                    "name": "Charles MWANGUSHYA"
+                }
+            ],
+            [
+                {
+                    "country": "MAR",
+                    "name": "Amine ELAZZOUZI"
+                },
+                {
+                    "country": "MAR",
+                    "name": "Haytam BENYAHIA"
+                },
+                {
+                    "winner": "Haytam BENYAHIA"
+                }
+            ],
+            [
+                {
+                    "country": "UGA",
+                    "name": "Charles MWANGUSHYA"
+                },
+                {
+                    "country": "GBR",
+                    "name": "Matthew SEXTON"
+                },
+                {
+                    "winner": "Matthew SEXTON"
+                }
+            ],
+            [
+                {
+                    "country": "MAR",
+                    "name": "Haytam BENYAHIA"
+                },
+                {
+                    "country": "MAR",
+                    "name": "Ayman EL AZZOUZI"
+                },
+                {
+                    "winner": "Haytam BENYAHIA"
+                }
+            ],
+            [
+                {
+                    "country": "GBR",
+                    "name": "Matthew SEXTON"
+                }
+            ],
+            [
+                {
+                    "country": "MAR",
+                    "name": "Haytam BENYAHIA"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Matthew SEXTON",
+            "Haytam BENYAHIA"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "SEN",
+                    "name": "Libasse NDIAYE"
+                },
+                {
+                    "country": "MAR",
+                    "name": "Ayman EL AZZOUZI"
+                },
+                {
+                    "winner": "Libasse NDIAYE"
+                }
+            ],
+            [
+                {
+                    "country": "FRA",
+                    "name": "Francis DAMIER"
+                },
+                {
+                    "country": "GBR",
+                    "name": "Matthew SEXTON"
+                },
+                {
+                    "winner": "Francis DAMIER"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "SEN",
+                    "name": "Libasse NDIAYE"
+                },
+                {
+                    "country": "FRA",
+                    "name": "Francis DAMIER"
+                }
+            ]
+        ],
+        "final_winner": "Francis DAMIER"
+    }
+}

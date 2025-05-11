@@ -1,0 +1,141 @@
+{
+    "POOL A": {
+        "round 1-1": [],
+        "final_winner": "Andy LOPEZ"
+    },
+    "POOL B": {
+        "round 1-1": [
+            [
+                {
+                    "country": "PUR",
+                    "name": "De jesus JEAN"
+                },
+                {
+                    "country": "PUR",
+                    "name": "Manuel ALCALA"
+                }
+            ]
+        ],
+        "final_winner": "Manuel ALCALA"
+    },
+    "POOL C": {
+        "round 1-1": [
+            [
+                {
+                    "country": "PUR",
+                    "name": "Gabriel SINGUL"
+                },
+                {
+                    "country": "PUR",
+                    "name": "Anthony PAGAN"
+                }
+            ]
+        ],
+        "final_winner": "Gabriel SINGUL"
+    },
+    "POOL D": {
+        "round 1-1": [],
+        "final_winner": "Yazet SEPULVEDA"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "PUR",
+                    "name": "De jesus JEAN"
+                }
+            ],
+            [
+                {
+                    "country": "PUR",
+                    "name": "Anthony PAGAN"
+                }
+            ],
+            [
+                {
+                    "country": "PUR",
+                    "name": "De jesus JEAN"
+                },
+                {
+                    "country": "PUR",
+                    "name": "Gabriel SINGUL"
+                },
+                {
+                    "winner": "Gabriel SINGUL"
+                }
+            ],
+            [
+                {
+                    "country": "PUR",
+                    "name": "Anthony PAGAN"
+                },
+                {
+                    "country": "PUR",
+                    "name": "Manuel ALCALA"
+                },
+                {
+                    "winner": "Manuel ALCALA"
+                }
+            ],
+            [
+                {
+                    "country": "PUR",
+                    "name": "Gabriel SINGUL"
+                }
+            ],
+            [
+                {
+                    "country": "PUR",
+                    "name": "Manuel ALCALA"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Gabriel SINGUL",
+            "Manuel ALCALA"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "PUR",
+                    "name": "Andy LOPEZ"
+                },
+                {
+                    "country": "PUR",
+                    "name": "Manuel ALCALA"
+                },
+                {
+                    "winner": "Andy LOPEZ"
+                }
+            ],
+            [
+                {
+                    "country": "PUR",
+                    "name": "Gabriel SINGUL"
+                },
+                {
+                    "country": "PUR",
+                    "name": "Yazet SEPULVEDA"
+                },
+                {
+                    "winner": "Yazet SEPULVEDA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "PUR",
+                    "name": "Andy LOPEZ"
+                },
+                {
+                    "country": "PUR",
+                    "name": "Yazet SEPULVEDA"
+                }
+            ]
+        ],
+        "final_winner": "Andy LOPEZ"
+    }
+}

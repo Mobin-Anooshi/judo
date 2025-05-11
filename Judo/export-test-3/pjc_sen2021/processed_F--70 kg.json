@@ -1,0 +1,68 @@
+{
+    "ROUND 1": {
+        "round 1-2": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Ellen FRONER"
+                },
+                {
+                    "country": "MEX",
+                    "name": "Marcela GARCIA"
+                },
+                {
+                    "winner": "Ellen FRONER"
+                }
+            ],
+            [
+                {
+                    "country": "USA",
+                    "name": "Chantal WRIGHT"
+                },
+                {
+                    "country": "ECU",
+                    "name": "Celinda COROZO"
+                },
+                {
+                    "winner": "Celinda COROZO"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Ellen FRONER",
+            "Celinda COROZO"
+        ]
+    },
+    "REPECHAGE": {
+        "round 1-1": [
+            [
+                {
+                    "country": "MEX",
+                    "name": "Marcela GARCIA"
+                },
+                {
+                    "country": "USA",
+                    "name": "Chantal WRIGHT"
+                },
+                {
+                    "winner": "Chantal WRIGHT"
+                }
+            ],
+            [
+                {
+                    "country": "USA",
+                    "name": "Chantal WRIGHT"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Chantal WRIGHT"
+        ]
+    },
+    "FINALS": {
+        "round 1-1": [],
+        "final_winners": [
+            "Ellen FRONER"
+        ]
+    }
+}

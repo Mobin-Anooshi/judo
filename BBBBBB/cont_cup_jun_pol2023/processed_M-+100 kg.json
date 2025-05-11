@@ -1,0 +1,303 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "POL",
+                    "name": "Grzegorz TERESINSKI"
+                },
+                {
+                    "winner": "Grzegorz TERESINSKI"
+                }
+            ],
+            [
+                {
+                    "country": "POL",
+                    "name": "Milosz KLOS"
+                },
+                {
+                    "country": "FRA",
+                    "name": "Georgi DADIANI"
+                },
+                {
+                    "winner": "Georgi DADIANI"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "POL",
+                    "name": "Grzegorz TERESINSKI"
+                },
+                {
+                    "country": "FRA",
+                    "name": "Georgi DADIANI"
+                }
+            ]
+        ],
+        "final_winner": "Grzegorz TERESINSKI"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "LAT",
+                    "name": "Janis STRAZDINS"
+                },
+                {
+                    "winner": "Janis STRAZDINS"
+                }
+            ],
+            [
+                {
+                    "country": "TUR",
+                    "name": "Tunahan TUTAR"
+                },
+                {
+                    "winner": "Tunahan TUTAR"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "LAT",
+                    "name": "Janis STRAZDINS"
+                },
+                {
+                    "country": "TUR",
+                    "name": "Tunahan TUTAR"
+                }
+            ]
+        ],
+        "final_winner": "Tunahan TUTAR"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "POL",
+                    "name": "Jakub SORDYL"
+                },
+                {
+                    "winner": "Jakub SORDYL"
+                }
+            ],
+            [
+                {
+                    "country": "TUR",
+                    "name": "Recep ERGIN"
+                },
+                {
+                    "winner": "Recep ERGIN"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "POL",
+                    "name": "Jakub SORDYL"
+                },
+                {
+                    "country": "TUR",
+                    "name": "Recep ERGIN"
+                }
+            ]
+        ],
+        "final_winner": "Jakub SORDYL"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "AZE",
+                    "name": "Kanan NASIBOV"
+                },
+                {
+                    "winner": "Kanan NASIBOV"
+                }
+            ],
+            [
+                {
+                    "country": "POL",
+                    "name": "Wiktor JANKOWSKI"
+                },
+                {
+                    "country": "TUR",
+                    "name": "Mehmet Emin COLAKCIVI"
+                },
+                {
+                    "winner": "Wiktor JANKOWSKI"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "AZE",
+                    "name": "Kanan NASIBOV"
+                },
+                {
+                    "country": "POL",
+                    "name": "Wiktor JANKOWSKI"
+                }
+            ]
+        ],
+        "final_winner": "Kanan NASIBOV"
+    },
+    "REPECHAGE": {
+        "round 1-4": [
+            [
+                {
+                    "country": "FRA",
+                    "name": "Georgi DADIANI"
+                },
+                {
+                    "winner": "Georgi DADIANI"
+                }
+            ],
+            [
+                {
+                    "country": "LAT",
+                    "name": "Janis STRAZDINS"
+                },
+                {
+                    "winner": "Janis STRAZDINS"
+                }
+            ],
+            [
+                {
+                    "country": "TUR",
+                    "name": "Recep ERGIN"
+                },
+                {
+                    "winner": "Recep ERGIN"
+                }
+            ],
+            [
+                {
+                    "country": "POL",
+                    "name": "Wiktor JANKOWSKI"
+                },
+                {
+                    "winner": "Wiktor JANKOWSKI"
+                }
+            ]
+        ],
+        "round 1-2": [
+            [
+                {
+                    "country": "FRA",
+                    "name": "Georgi DADIANI"
+                },
+                {
+                    "country": "LAT",
+                    "name": "Janis STRAZDINS"
+                },
+                {
+                    "winner": "Janis STRAZDINS"
+                }
+            ],
+            [
+                {
+                    "country": "TUR",
+                    "name": "Recep ERGIN"
+                },
+                {
+                    "country": "POL",
+                    "name": "Wiktor JANKOWSKI"
+                },
+                {
+                    "winner": "Recep ERGIN"
+                }
+            ],
+            [
+                {
+                    "country": "LAT",
+                    "name": "Janis STRAZDINS"
+                },
+                {
+                    "country": "AZE",
+                    "name": "Kanan NASIBOV"
+                },
+                {
+                    "winner": "Kanan NASIBOV"
+                }
+            ],
+            [
+                {
+                    "country": "TUR",
+                    "name": "Recep ERGIN"
+                },
+                {
+                    "country": "TUR",
+                    "name": "Tunahan TUTAR"
+                },
+                {
+                    "winner": "Recep ERGIN"
+                }
+            ],
+            [
+                {
+                    "country": "AZE",
+                    "name": "Kanan NASIBOV"
+                }
+            ],
+            [
+                {
+                    "country": "TUR",
+                    "name": "Recep ERGIN"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Kanan NASIBOV",
+            "Recep ERGIN"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "POL",
+                    "name": "Grzegorz TERESINSKI"
+                },
+                {
+                    "country": "TUR",
+                    "name": "Tunahan TUTAR"
+                },
+                {
+                    "winner": "Grzegorz TERESINSKI"
+                }
+            ],
+            [
+                {
+                    "country": "POL",
+                    "name": "Jakub SORDYL"
+                },
+                {
+                    "country": "AZE",
+                    "name": "Kanan NASIBOV"
+                },
+                {
+                    "winner": "Jakub SORDYL"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "POL",
+                    "name": "Grzegorz TERESINSKI"
+                },
+                {
+                    "country": "POL",
+                    "name": "Jakub SORDYL"
+                }
+            ]
+        ],
+        "final_winner": "Grzegorz TERESINSKI"
+    }
+}

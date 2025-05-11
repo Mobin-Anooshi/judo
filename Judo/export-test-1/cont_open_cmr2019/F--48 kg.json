@@ -1,0 +1,141 @@
+{
+    "POOL A": {
+        "round 1-1": [],
+        "final_winner": "Marusa STANGAR"
+    },
+    "POOL B": {
+        "round 1-1": [
+            [
+                {
+                    "country": "MRI",
+                    "name": "Priscilla MORAND"
+                },
+                {
+                    "country": "CMR",
+                    "name": "Philomene BATA"
+                }
+            ]
+        ],
+        "final_winner": "Priscilla MORAND"
+    },
+    "POOL C": {
+        "round 1-1": [],
+        "final_winner": "Aisha GURBANLI"
+    },
+    "POOL D": {
+        "round 1-1": [
+            [
+                {
+                    "country": "AZE",
+                    "name": "Leyla ALIYEVA"
+                },
+                {
+                    "country": "NGR",
+                    "name": "Fatima BASHIR"
+                }
+            ]
+        ],
+        "final_winner": "Leyla ALIYEVA"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CMR",
+                    "name": "Philomene BATA"
+                }
+            ],
+            [
+                {
+                    "country": "NGR",
+                    "name": "Fatima BASHIR"
+                }
+            ],
+            [
+                {
+                    "country": "CMR",
+                    "name": "Philomene BATA"
+                },
+                {
+                    "country": "AZE",
+                    "name": "Aisha GURBANLI"
+                },
+                {
+                    "winner": "Aisha GURBANLI"
+                }
+            ],
+            [
+                {
+                    "country": "NGR",
+                    "name": "Fatima BASHIR"
+                },
+                {
+                    "country": "MRI",
+                    "name": "Priscilla MORAND"
+                },
+                {
+                    "winner": "Priscilla MORAND"
+                }
+            ],
+            [
+                {
+                    "country": "AZE",
+                    "name": "Aisha GURBANLI"
+                }
+            ],
+            [
+                {
+                    "country": "MRI",
+                    "name": "Priscilla MORAND"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Aisha GURBANLI",
+            "Priscilla MORAND"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "SLO",
+                    "name": "Marusa STANGAR"
+                },
+                {
+                    "country": "MRI",
+                    "name": "Priscilla MORAND"
+                },
+                {
+                    "winner": "Marusa STANGAR"
+                }
+            ],
+            [
+                {
+                    "country": "AZE",
+                    "name": "Aisha GURBANLI"
+                },
+                {
+                    "country": "AZE",
+                    "name": "Leyla ALIYEVA"
+                },
+                {
+                    "winner": "Leyla ALIYEVA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "SLO",
+                    "name": "Marusa STANGAR"
+                },
+                {
+                    "country": "AZE",
+                    "name": "Leyla ALIYEVA"
+                }
+            ]
+        ],
+        "final_winner": "Leyla ALIYEVA"
+    }
+}

@@ -1,0 +1,261 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "PUR",
+                    "name": "Lorena LORENZO"
+                },
+                {
+                    "winner": "Lorena LORENZO"
+                }
+            ],
+            [
+                {
+                    "country": "USA",
+                    "name": "Cameron MILLER"
+                },
+                {
+                    "winner": "Cameron MILLER"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "PUR",
+                    "name": "Lorena LORENZO"
+                },
+                {
+                    "country": "USA",
+                    "name": "Cameron MILLER"
+                }
+            ]
+        ],
+        "final_winner": "Lorena LORENZO"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "USA",
+                    "name": "Noran ELMAHROUKEY"
+                },
+                {
+                    "winner": "Noran ELMAHROUKEY"
+                }
+            ],
+            [
+                {
+                    "country": "CAN",
+                    "name": "Tami GOTO"
+                },
+                {
+                    "winner": "Tami GOTO"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "USA",
+                    "name": "Noran ELMAHROUKEY"
+                },
+                {
+                    "country": "CAN",
+                    "name": "Tami GOTO"
+                }
+            ]
+        ],
+        "final_winner": "Tami GOTO"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CAN",
+                    "name": "Cecilia Marie MEDILO"
+                },
+                {
+                    "winner": "Cecilia Marie MEDILO"
+                }
+            ],
+            [
+                {
+                    "country": "BAH",
+                    "name": "Alisha SMITH"
+                },
+                {
+                    "country": "USA",
+                    "name": "Victoria GONCALVES"
+                },
+                {
+                    "winner": "Victoria GONCALVES"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "CAN",
+                    "name": "Cecilia Marie MEDILO"
+                },
+                {
+                    "country": "USA",
+                    "name": "Victoria GONCALVES"
+                }
+            ]
+        ],
+        "final_winner": "Cecilia Marie MEDILO"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "PUR",
+                    "name": "Alishannette ZENON"
+                },
+                {
+                    "winner": "Alishannette ZENON"
+                }
+            ],
+            [
+                {
+                    "country": "USA",
+                    "name": "Naurishell LA PAZ PEREZ"
+                },
+                {
+                    "winner": "Naurishell LA PAZ PEREZ"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "PUR",
+                    "name": "Alishannette ZENON"
+                },
+                {
+                    "country": "USA",
+                    "name": "Naurishell LA PAZ PEREZ"
+                }
+            ]
+        ],
+        "final_winner": "Alishannette ZENON"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "USA",
+                    "name": "Cameron MILLER"
+                },
+                {
+                    "country": "USA",
+                    "name": "Noran ELMAHROUKEY"
+                },
+                {
+                    "winner": "Noran ELMAHROUKEY"
+                }
+            ],
+            [
+                {
+                    "country": "USA",
+                    "name": "Victoria GONCALVES"
+                },
+                {
+                    "country": "USA",
+                    "name": "Naurishell LA PAZ PEREZ"
+                },
+                {
+                    "winner": "Victoria GONCALVES"
+                }
+            ],
+            [
+                {
+                    "country": "USA",
+                    "name": "Noran ELMAHROUKEY"
+                },
+                {
+                    "country": "PUR",
+                    "name": "Alishannette ZENON"
+                },
+                {
+                    "winner": "Alishannette ZENON"
+                }
+            ],
+            [
+                {
+                    "country": "USA",
+                    "name": "Victoria GONCALVES"
+                },
+                {
+                    "country": "CAN",
+                    "name": "Tami GOTO"
+                },
+                {
+                    "winner": "Victoria GONCALVES"
+                }
+            ],
+            [
+                {
+                    "country": "PUR",
+                    "name": "Alishannette ZENON"
+                }
+            ],
+            [
+                {
+                    "country": "USA",
+                    "name": "Victoria GONCALVES"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Alishannette ZENON",
+            "Victoria GONCALVES"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "PUR",
+                    "name": "Lorena LORENZO"
+                },
+                {
+                    "country": "CAN",
+                    "name": "Tami GOTO"
+                },
+                {
+                    "winner": "Lorena LORENZO"
+                }
+            ],
+            [
+                {
+                    "country": "CAN",
+                    "name": "Cecilia Marie MEDILO"
+                },
+                {
+                    "country": "PUR",
+                    "name": "Alishannette ZENON"
+                },
+                {
+                    "winner": "Cecilia Marie MEDILO"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "PUR",
+                    "name": "Lorena LORENZO"
+                },
+                {
+                    "country": "CAN",
+                    "name": "Cecilia Marie MEDILO"
+                }
+            ]
+        ],
+        "final_winner": "Cecilia Marie MEDILO"
+    }
+}

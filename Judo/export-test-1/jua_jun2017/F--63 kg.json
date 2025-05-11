@@ -1,0 +1,177 @@
+{
+    "POOL A": {
+        "round 1-1": [
+            [
+                {
+                    "country": "MGL",
+                    "name": "Davaasuren MUNKHBAT"
+                },
+                {
+                    "country": "IND",
+                    "name": "Inunganbi TAKHELLAMBAM"
+                }
+            ]
+        ],
+        "final_winner": "Davaasuren MUNKHBAT"
+    },
+    "POOL B": {
+        "round 1-1": [
+            [
+                {
+                    "country": "KAZ",
+                    "name": "Akniyet TURDAN"
+                },
+                {
+                    "country": "KGZ",
+                    "name": "Kumushai SOSKEEVA"
+                }
+            ]
+        ],
+        "final_winner": "Akniyet TURDAN"
+    },
+    "POOL C": {
+        "round 1-1": [
+            [
+                {
+                    "country": "UZB",
+                    "name": "Khojinsa KOMOLDINOVA"
+                },
+                {
+                    "country": "KOR",
+                    "name": "Heeju HAN"
+                }
+            ]
+        ],
+        "final_winner": "Heeju HAN"
+    },
+    "POOL D": {
+        "round 1-1": [
+            [
+                {
+                    "country": "TPE",
+                    "name": "Yu Ching CHENG"
+                },
+                {
+                    "country": "JPN",
+                    "name": "Natsuki TOMI"
+                }
+            ]
+        ],
+        "final_winner": "Natsuki TOMI"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "IND",
+                    "name": "Inunganbi TAKHELLAMBAM"
+                },
+                {
+                    "country": "KGZ",
+                    "name": "Kumushai SOSKEEVA"
+                },
+                {
+                    "winner": "Inunganbi TAKHELLAMBAM"
+                }
+            ],
+            [
+                {
+                    "country": "UZB",
+                    "name": "Khojinsa KOMOLDINOVA"
+                },
+                {
+                    "country": "TPE",
+                    "name": "Yu Ching CHENG"
+                },
+                {
+                    "winner": "Yu Ching CHENG"
+                }
+            ],
+            [
+                {
+                    "country": "IND",
+                    "name": "Inunganbi TAKHELLAMBAM"
+                },
+                {
+                    "country": "JPN",
+                    "name": "Natsuki TOMI"
+                },
+                {
+                    "winner": "Natsuki TOMI"
+                }
+            ],
+            [
+                {
+                    "country": "TPE",
+                    "name": "Yu Ching CHENG"
+                },
+                {
+                    "country": "KAZ",
+                    "name": "Akniyet TURDAN"
+                },
+                {
+                    "winner": "Yu Ching CHENG"
+                }
+            ],
+            [
+                {
+                    "country": "JPN",
+                    "name": "Natsuki TOMI"
+                }
+            ],
+            [
+                {
+                    "country": "TPE",
+                    "name": "Yu Ching CHENG"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Natsuki TOMI",
+            "Yu Ching CHENG"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "MGL",
+                    "name": "Davaasuren MUNKHBAT"
+                },
+                {
+                    "country": "KAZ",
+                    "name": "Akniyet TURDAN"
+                },
+                {
+                    "winner": "Davaasuren MUNKHBAT"
+                }
+            ],
+            [
+                {
+                    "country": "KOR",
+                    "name": "Heeju HAN"
+                },
+                {
+                    "country": "JPN",
+                    "name": "Natsuki TOMI"
+                },
+                {
+                    "winner": "Heeju HAN"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "MGL",
+                    "name": "Davaasuren MUNKHBAT"
+                },
+                {
+                    "country": "KOR",
+                    "name": "Heeju HAN"
+                }
+            ]
+        ],
+        "final_winner": "Heeju HAN"
+    }
+}

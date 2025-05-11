@@ -1,0 +1,87 @@
+{
+    "POOL A": {
+        "round 1-3": [
+            [
+                {
+                    "country": "ANG",
+                    "name": "Jose ZENGUELE"
+                },
+                {
+                    "country": "ANG",
+                    "name": "Antonio LOPES"
+                },
+                {
+                    "winner": "Jose ZENGUELE"
+                }
+            ],
+            [
+                {
+                    "country": "ANG",
+                    "name": "Jose ZENGUELE"
+                },
+                {
+                    "country": "ANG",
+                    "name": "Fernando SICONDO"
+                },
+                {
+                    "winner": "Fernando SICONDO"
+                }
+            ],
+            [
+                {
+                    "country": "ANG",
+                    "name": "Antonio LOPES"
+                },
+                {
+                    "country": "ANG",
+                    "name": "Fernando SICONDO"
+                },
+                {
+                    "winner": "Antonio LOPES"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Antonio LOPES",
+            "Fernando SICONDO"
+        ]
+    },
+    "POOL B": {
+        "round 1-1": [],
+        "final_winners": [
+            "Willian De Jesus CARLOS"
+        ]
+    },
+    "REPECHAGE": {
+        "round 1-1": [
+            [
+                {
+                    "country": "ANG",
+                    "name": "Antonio LOPES"
+                },
+                {
+                    "country": "ANG",
+                    "name": "Adelino KALUHAMUE"
+                },
+                {
+                    "winner": "Antonio LOPES"
+                }
+            ],
+            [
+                {
+                    "country": "ANG",
+                    "name": "Antonio LOPES"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Antonio LOPES"
+        ]
+    },
+    "FINALS": {
+        "round 1-1": [],
+        "final_winners": [
+            "Fernando SICONDO"
+        ]
+    }
+}

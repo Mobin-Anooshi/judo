@@ -1,0 +1,304 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "AUT",
+                    "name": "Hubert ILLMER"
+                },
+                {
+                    "winner": "Hubert ILLMER"
+                }
+            ],
+            [
+                {
+                    "country": "ITA",
+                    "name": "Francesco BASSO"
+                },
+                {
+                    "winner": "Francesco BASSO"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "AUT",
+                    "name": "Hubert ILLMER"
+                },
+                {
+                    "country": "ITA",
+                    "name": "Francesco BASSO"
+                }
+            ],
+            [
+                {
+                    "country": "ITA",
+                    "name": "Francesco BASSO"
+                }
+            ]
+        ]
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ARM",
+                    "name": "Erik SAGHATELYAN"
+                },
+                {
+                    "winner": "Erik SAGHATELYAN"
+                }
+            ],
+            [
+                {
+                    "country": "NED",
+                    "name": "Joes SCHELL"
+                },
+                {
+                    "winner": "Joes SCHELL"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "ARM",
+                    "name": "Erik SAGHATELYAN"
+                },
+                {
+                    "country": "NED",
+                    "name": "Joes SCHELL"
+                }
+            ],
+            [
+                {
+                    "country": "NED",
+                    "name": "Joes SCHELL"
+                }
+            ]
+        ]
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ROU",
+                    "name": "Bogdan PETRE"
+                },
+                {
+                    "winner": "Bogdan PETRE"
+                }
+            ],
+            [
+                {
+                    "country": "AZE",
+                    "name": "Azhdar BAGHIROV"
+                },
+                {
+                    "winner": "Azhdar BAGHIROV"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "ROU",
+                    "name": "Bogdan PETRE"
+                },
+                {
+                    "country": "AZE",
+                    "name": "Azhdar BAGHIROV"
+                }
+            ],
+            [
+                {
+                    "country": "ROU",
+                    "name": "Bogdan PETRE"
+                }
+            ]
+        ]
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "GEO",
+                    "name": "Giorgi BADUASHVILI"
+                },
+                {
+                    "winner": "Giorgi BADUASHVILI"
+                }
+            ],
+            [
+                {
+                    "country": "HUN",
+                    "name": "Noel BOTOS"
+                },
+                {
+                    "winner": "Noel BOTOS"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "GEO",
+                    "name": "Giorgi BADUASHVILI"
+                },
+                {
+                    "country": "HUN",
+                    "name": "Noel BOTOS"
+                }
+            ],
+            [
+                {
+                    "country": "GEO",
+                    "name": "Giorgi BADUASHVILI"
+                }
+            ]
+        ]
+    },
+    "REPECHAGE": {
+        "round 1-4": [
+            [
+                {
+                    "country": "AUT",
+                    "name": "Hubert ILLMER"
+                },
+                {
+                    "winner": "Hubert ILLMER"
+                }
+            ],
+            [
+                {
+                    "country": "ARM",
+                    "name": "Erik SAGHATELYAN"
+                },
+                {
+                    "winner": "Erik SAGHATELYAN"
+                }
+            ],
+            [
+                {
+                    "country": "AZE",
+                    "name": "Azhdar BAGHIROV"
+                },
+                {
+                    "winner": "Azhdar BAGHIROV"
+                }
+            ],
+            [
+                {
+                    "country": "HUN",
+                    "name": "Noel BOTOS"
+                },
+                {
+                    "winner": "Noel BOTOS"
+                }
+            ]
+        ],
+        "round 1-2": [
+            [
+                {
+                    "country": "AUT",
+                    "name": "Hubert ILLMER"
+                },
+                {
+                    "country": "ARM",
+                    "name": "Erik SAGHATELYAN"
+                }
+            ],
+            [
+                {
+                    "country": "AZE",
+                    "name": "Azhdar BAGHIROV"
+                },
+                {
+                    "country": "HUN",
+                    "name": "Noel BOTOS"
+                }
+            ],
+            [
+                {
+                    "country": "ARM",
+                    "name": "Erik SAGHATELYAN"
+                },
+                {
+                    "country": "GEO",
+                    "name": "Giorgi BADUASHVILI"
+                }
+            ],
+            [
+                {
+                    "country": "AZE",
+                    "name": "Azhdar BAGHIROV"
+                },
+                {
+                    "country": "NED",
+                    "name": "Joes SCHELL"
+                }
+            ],
+            [
+                {
+                    "country": "GEO",
+                    "name": "Giorgi BADUASHVILI"
+                }
+            ],
+            [
+                {
+                    "country": "NED",
+                    "name": "Joes SCHELL"
+                }
+            ]
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ITA",
+                    "name": "Francesco BASSO"
+                },
+                {
+                    "country": "NED",
+                    "name": "Joes SCHELL"
+                },
+                {
+                    "winner": "Francesco BASSO"
+                }
+            ],
+            [
+                {
+                    "country": "ROU",
+                    "name": "Bogdan PETRE"
+                },
+                {
+                    "country": "GEO",
+                    "name": "Giorgi BADUASHVILI"
+                },
+                {
+                    "winner": "Bogdan PETRE"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "ITA",
+                    "name": "Francesco BASSO"
+                },
+                {
+                    "country": "ROU",
+                    "name": "Bogdan PETRE"
+                }
+            ],
+            [
+                {
+                    "country": "ROU",
+                    "name": "Bogdan PETRE"
+                }
+            ]
+        ]
+    }
+}

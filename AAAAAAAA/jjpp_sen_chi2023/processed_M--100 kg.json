@@ -1,0 +1,269 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Leonardo GONCALVES"
+                },
+                {
+                    "winner": "Leonardo GONCALVES"
+                }
+            ],
+            [
+                {
+                    "country": "PER",
+                    "name": "Daryl YAMAMOTO"
+                },
+                {
+                    "country": "CUB",
+                    "name": "Liester CARDONA"
+                },
+                {
+                    "winner": "Liester CARDONA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Leonardo GONCALVES"
+                },
+                {
+                    "country": "CUB",
+                    "name": "Liester CARDONA"
+                }
+            ]
+        ],
+        "final_winner": "Leonardo GONCALVES"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CAN",
+                    "name": "Shady ELNAHAS"
+                },
+                {
+                    "winner": "Shady ELNAHAS"
+                }
+            ],
+            [
+                {
+                    "country": "USA",
+                    "name": "Nathaniel KEEVE"
+                },
+                {
+                    "country": "ARG",
+                    "name": "Ivo DARGOLTZ"
+                },
+                {
+                    "winner": "Nathaniel KEEVE"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "CAN",
+                    "name": "Shady ELNAHAS"
+                },
+                {
+                    "country": "USA",
+                    "name": "Nathaniel KEEVE"
+                }
+            ]
+        ],
+        "final_winner": "Shady ELNAHAS"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CHI",
+                    "name": "Thomas BRICENO"
+                },
+                {
+                    "winner": "Thomas BRICENO"
+                }
+            ],
+            [
+                {
+                    "country": "ECU",
+                    "name": "Junior ANGULO"
+                },
+                {
+                    "winner": "Junior ANGULO"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "CHI",
+                    "name": "Thomas BRICENO"
+                },
+                {
+                    "country": "ECU",
+                    "name": "Junior ANGULO"
+                }
+            ]
+        ],
+        "final_winner": "Thomas BRICENO"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "COL",
+                    "name": "Francisco BALANTA"
+                },
+                {
+                    "winner": "Francisco BALANTA"
+                }
+            ],
+            [
+                {
+                    "country": "MEX",
+                    "name": "Alexis ESQUIVEL"
+                },
+                {
+                    "country": "BRA",
+                    "name": "Kayo SANTOS"
+                },
+                {
+                    "winner": "Kayo SANTOS"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "COL",
+                    "name": "Francisco BALANTA"
+                },
+                {
+                    "country": "BRA",
+                    "name": "Kayo SANTOS"
+                }
+            ]
+        ],
+        "final_winner": "Kayo SANTOS"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CUB",
+                    "name": "Liester CARDONA"
+                },
+                {
+                    "country": "USA",
+                    "name": "Nathaniel KEEVE"
+                },
+                {
+                    "winner": "Liester CARDONA"
+                }
+            ],
+            [
+                {
+                    "country": "ECU",
+                    "name": "Junior ANGULO"
+                },
+                {
+                    "country": "COL",
+                    "name": "Francisco BALANTA"
+                },
+                {
+                    "winner": "Francisco BALANTA"
+                }
+            ],
+            [
+                {
+                    "country": "CUB",
+                    "name": "Liester CARDONA"
+                },
+                {
+                    "country": "BRA",
+                    "name": "Kayo SANTOS"
+                },
+                {
+                    "winner": "Kayo SANTOS"
+                }
+            ],
+            [
+                {
+                    "country": "COL",
+                    "name": "Francisco BALANTA"
+                },
+                {
+                    "country": "BRA",
+                    "name": "Leonardo GONCALVES"
+                },
+                {
+                    "winner": "Francisco BALANTA"
+                }
+            ],
+            [
+                {
+                    "country": "BRA",
+                    "name": "Kayo SANTOS"
+                }
+            ],
+            [
+                {
+                    "country": "COL",
+                    "name": "Francisco BALANTA"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Kayo SANTOS",
+            "Francisco BALANTA"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Leonardo GONCALVES"
+                },
+                {
+                    "country": "CAN",
+                    "name": "Shady ELNAHAS"
+                },
+                {
+                    "winner": "Shady ELNAHAS"
+                }
+            ],
+            [
+                {
+                    "country": "CHI",
+                    "name": "Thomas BRICENO"
+                },
+                {
+                    "country": "BRA",
+                    "name": "Kayo SANTOS"
+                },
+                {
+                    "winner": "Thomas BRICENO"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "CAN",
+                    "name": "Shady ELNAHAS"
+                },
+                {
+                    "country": "CHI",
+                    "name": "Thomas BRICENO"
+                }
+            ]
+        ],
+        "final_winner": "Shady ELNAHAS"
+    }
+}

@@ -1,0 +1,87 @@
+{
+    "POOL A": {
+        "round 1-3": [
+            [
+                {
+                    "country": "NZL",
+                    "name": "Moira DE VILLIERS"
+                },
+                {
+                    "country": "NZL",
+                    "name": "Hayley MACKEY"
+                },
+                {
+                    "winner": "Moira DE VILLIERS"
+                }
+            ],
+            [
+                {
+                    "country": "NZL",
+                    "name": "Moira DE VILLIERS"
+                },
+                {
+                    "country": "SLO",
+                    "name": "Metka LOBNIK"
+                },
+                {
+                    "winner": "Metka LOBNIK"
+                }
+            ],
+            [
+                {
+                    "country": "NZL",
+                    "name": "Hayley MACKEY"
+                },
+                {
+                    "country": "SLO",
+                    "name": "Metka LOBNIK"
+                },
+                {
+                    "winner": "Metka LOBNIK"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Moira DE VILLIERS",
+            "Metka LOBNIK"
+        ]
+    },
+    "POOL B": {
+        "round 1-1": [],
+        "final_winners": [
+            "Anna Monta OLEK"
+        ]
+    },
+    "REPECHAGE": {
+        "round 1-1": [
+            [
+                {
+                    "country": "NZL",
+                    "name": "Moira DE VILLIERS"
+                },
+                {
+                    "country": "THA",
+                    "name": "Ikumi OEDA"
+                },
+                {
+                    "winner": "Moira DE VILLIERS"
+                }
+            ],
+            [
+                {
+                    "country": "NZL",
+                    "name": "Moira DE VILLIERS"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Moira DE VILLIERS"
+        ]
+    },
+    "FINALS": {
+        "round 1-1": [],
+        "final_winners": [
+            "Anna Monta OLEK"
+        ]
+    }
+}

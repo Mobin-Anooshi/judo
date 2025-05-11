@@ -1,0 +1,285 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "SEN",
+                    "name": "Abderahmane DIAO"
+                },
+                {
+                    "winner": "Abderahmane DIAO"
+                }
+            ],
+            [
+                {
+                    "country": "CIV",
+                    "name": "Ibrahim Aziz Nurbakhsh KONE"
+                },
+                {
+                    "country": "GHA",
+                    "name": "Dallas AWENYESE"
+                },
+                {
+                    "winner": "Dallas AWENYESE"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "SEN",
+                    "name": "Abderahmane DIAO"
+                },
+                {
+                    "country": "GHA",
+                    "name": "Dallas AWENYESE"
+                }
+            ]
+        ],
+        "final_winner": "Abderahmane DIAO"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "GUI",
+                    "name": "Abdoulaye MILLIMONO"
+                },
+                {
+                    "country": "MLI",
+                    "name": "Koman DOUMBIA"
+                },
+                {
+                    "winner": "Abdoulaye MILLIMONO"
+                }
+            ],
+            [
+                {
+                    "country": "GAB",
+                    "name": "Paul KIBIKAI"
+                },
+                {
+                    "country": "CIV",
+                    "name": "Gbai Aristide GBOGOU"
+                },
+                {
+                    "winner": "Paul KIBIKAI"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "GUI",
+                    "name": "Abdoulaye MILLIMONO"
+                },
+                {
+                    "country": "GAB",
+                    "name": "Paul KIBIKAI"
+                }
+            ]
+        ],
+        "final_winner": "Abdoulaye MILLIMONO"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CMR",
+                    "name": "Kevin BUDAIN"
+                },
+                {
+                    "country": "CIV",
+                    "name": "Olatounde Mohamed Moctar MONTEIROU"
+                },
+                {
+                    "winner": "Olatounde Mohamed Moctar MONTEIROU"
+                }
+            ],
+            [
+                {
+                    "country": "COD",
+                    "name": "Cedrick KALONGA"
+                },
+                {
+                    "country": "MLI",
+                    "name": "Mohamed THERA"
+                },
+                {
+                    "winner": "Cedrick KALONGA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "CIV",
+                    "name": "Olatounde Mohamed Moctar MONTEIROU"
+                },
+                {
+                    "country": "COD",
+                    "name": "Cedrick KALONGA"
+                }
+            ]
+        ],
+        "final_winner": "Cedrick KALONGA"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "SEN",
+                    "name": "Ryan DACOSTA"
+                },
+                {
+                    "country": "GHA",
+                    "name": "Eleazer DODOO"
+                },
+                {
+                    "winner": "Ryan DACOSTA"
+                }
+            ],
+            [
+                {
+                    "country": "MNE",
+                    "name": "Srdjan MRVALJEVIC"
+                },
+                {
+                    "country": "CIV",
+                    "name": "Gbolake Cedric GUEDE"
+                },
+                {
+                    "winner": "Srdjan MRVALJEVIC"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "SEN",
+                    "name": "Ryan DACOSTA"
+                },
+                {
+                    "country": "MNE",
+                    "name": "Srdjan MRVALJEVIC"
+                }
+            ]
+        ],
+        "final_winner": "Ryan DACOSTA"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "GHA",
+                    "name": "Dallas AWENYESE"
+                },
+                {
+                    "country": "GAB",
+                    "name": "Paul KIBIKAI"
+                },
+                {
+                    "winner": "Paul KIBIKAI"
+                }
+            ],
+            [
+                {
+                    "country": "CIV",
+                    "name": "Olatounde Mohamed Moctar MONTEIROU"
+                },
+                {
+                    "country": "MNE",
+                    "name": "Srdjan MRVALJEVIC"
+                },
+                {
+                    "winner": "Srdjan MRVALJEVIC"
+                }
+            ],
+            [
+                {
+                    "country": "GAB",
+                    "name": "Paul KIBIKAI"
+                },
+                {
+                    "country": "COD",
+                    "name": "Cedrick KALONGA"
+                },
+                {
+                    "winner": "Paul KIBIKAI"
+                }
+            ],
+            [
+                {
+                    "country": "MNE",
+                    "name": "Srdjan MRVALJEVIC"
+                },
+                {
+                    "country": "GUI",
+                    "name": "Abdoulaye MILLIMONO"
+                },
+                {
+                    "winner": "Srdjan MRVALJEVIC"
+                }
+            ],
+            [
+                {
+                    "country": "GAB",
+                    "name": "Paul KIBIKAI"
+                }
+            ],
+            [
+                {
+                    "country": "MNE",
+                    "name": "Srdjan MRVALJEVIC"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Paul KIBIKAI",
+            "Srdjan MRVALJEVIC"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "SEN",
+                    "name": "Abderahmane DIAO"
+                },
+                {
+                    "country": "GUI",
+                    "name": "Abdoulaye MILLIMONO"
+                },
+                {
+                    "winner": "Abderahmane DIAO"
+                }
+            ],
+            [
+                {
+                    "country": "COD",
+                    "name": "Cedrick KALONGA"
+                },
+                {
+                    "country": "SEN",
+                    "name": "Ryan DACOSTA"
+                },
+                {
+                    "winner": "Ryan DACOSTA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "SEN",
+                    "name": "Abderahmane DIAO"
+                },
+                {
+                    "country": "SEN",
+                    "name": "Ryan DACOSTA"
+                }
+            ]
+        ],
+        "final_winner": "Ryan DACOSTA"
+    }
+}

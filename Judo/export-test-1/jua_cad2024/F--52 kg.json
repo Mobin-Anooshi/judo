@@ -1,0 +1,177 @@
+{
+    "POOL A": {
+        "round 1-1": [
+            [
+                {
+                    "country": "KOR",
+                    "name": "Yumi SHIN"
+                },
+                {
+                    "country": "KGZ",
+                    "name": "Samira DZHAROVA"
+                }
+            ]
+        ],
+        "final_winner": "Yumi SHIN"
+    },
+    "POOL B": {
+        "round 1-1": [
+            [
+                {
+                    "country": "KOR",
+                    "name": "Jiho BAEK"
+                },
+                {
+                    "country": "KAZ",
+                    "name": "Kira KHEGAY"
+                }
+            ]
+        ],
+        "final_winner": "Jiho BAEK"
+    },
+    "POOL C": {
+        "round 1-1": [
+            [
+                {
+                    "country": "KAZ",
+                    "name": "Zhanaiym MARATBEK"
+                },
+                {
+                    "country": "MGL",
+                    "name": "Nandin-Erdene OYUN-ERDENE"
+                }
+            ]
+        ],
+        "final_winner": "Nandin-Erdene OYUN-ERDENE"
+    },
+    "POOL D": {
+        "round 1-1": [
+            [
+                {
+                    "country": "UZB",
+                    "name": "Nigina UMIRZAKOVA"
+                },
+                {
+                    "country": "TPE",
+                    "name": "Yu-En TU"
+                }
+            ]
+        ],
+        "final_winner": "Nigina UMIRZAKOVA"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "KGZ",
+                    "name": "Samira DZHAROVA"
+                },
+                {
+                    "country": "KAZ",
+                    "name": "Kira KHEGAY"
+                },
+                {
+                    "winner": "Kira KHEGAY"
+                }
+            ],
+            [
+                {
+                    "country": "KAZ",
+                    "name": "Zhanaiym MARATBEK"
+                },
+                {
+                    "country": "TPE",
+                    "name": "Yu-En TU"
+                },
+                {
+                    "winner": "Zhanaiym MARATBEK"
+                }
+            ],
+            [
+                {
+                    "country": "KAZ",
+                    "name": "Kira KHEGAY"
+                },
+                {
+                    "country": "MGL",
+                    "name": "Nandin-Erdene OYUN-ERDENE"
+                },
+                {
+                    "winner": "Kira KHEGAY"
+                }
+            ],
+            [
+                {
+                    "country": "KAZ",
+                    "name": "Zhanaiym MARATBEK"
+                },
+                {
+                    "country": "KOR",
+                    "name": "Jiho BAEK"
+                },
+                {
+                    "winner": "Zhanaiym MARATBEK"
+                }
+            ],
+            [
+                {
+                    "country": "KAZ",
+                    "name": "Kira KHEGAY"
+                }
+            ],
+            [
+                {
+                    "country": "KAZ",
+                    "name": "Zhanaiym MARATBEK"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Kira KHEGAY",
+            "Zhanaiym MARATBEK"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "KOR",
+                    "name": "Yumi SHIN"
+                },
+                {
+                    "country": "KOR",
+                    "name": "Jiho BAEK"
+                },
+                {
+                    "winner": "Yumi SHIN"
+                }
+            ],
+            [
+                {
+                    "country": "MGL",
+                    "name": "Nandin-Erdene OYUN-ERDENE"
+                },
+                {
+                    "country": "UZB",
+                    "name": "Nigina UMIRZAKOVA"
+                },
+                {
+                    "winner": "Nigina UMIRZAKOVA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "KOR",
+                    "name": "Yumi SHIN"
+                },
+                {
+                    "country": "UZB",
+                    "name": "Nigina UMIRZAKOVA"
+                }
+            ]
+        ],
+        "final_winner": "Yumi SHIN"
+    }
+}

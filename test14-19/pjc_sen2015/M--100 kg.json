@@ -1,0 +1,282 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CUB",
+                    "name": "Jose ARMENTEROS"
+                },
+                {
+                    "winner": "Jose ARMENTEROS"
+                }
+            ],
+            [
+                {
+                    "country": "URU",
+                    "name": "Manuel BUENO"
+                },
+                {
+                    "country": "COL",
+                    "name": "Camilo CASTANO"
+                },
+                {
+                    "winner": "Camilo CASTANO"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "CUB",
+                    "name": "Jose ARMENTEROS"
+                },
+                {
+                    "country": "COL",
+                    "name": "Camilo CASTANO"
+                }
+            ],
+            [
+                {
+                    "country": "CUB",
+                    "name": "Jose ARMENTEROS"
+                }
+            ]
+        ]
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "MEX",
+                    "name": "Sergio GARCIA"
+                },
+                {
+                    "winner": "Sergio GARCIA"
+                }
+            ],
+            [
+                {
+                    "country": "ARG",
+                    "name": "Hector CAMPOS"
+                },
+                {
+                    "country": "PER",
+                    "name": "Frank ALVARADO"
+                },
+                {
+                    "winner": "Hector CAMPOS"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "MEX",
+                    "name": "Sergio GARCIA"
+                },
+                {
+                    "country": "ARG",
+                    "name": "Hector CAMPOS"
+                }
+            ],
+            [
+                {
+                    "country": "ARG",
+                    "name": "Hector CAMPOS"
+                }
+            ]
+        ]
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Luciano CORREA"
+                },
+                {
+                    "winner": "Luciano CORREA"
+                }
+            ],
+            [
+                {
+                    "country": "USA",
+                    "name": "Ajax TADEHARA"
+                },
+                {
+                    "country": "URU",
+                    "name": "Pablo APRAHAMIAN"
+                },
+                {
+                    "winner": "Pablo APRAHAMIAN"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Luciano CORREA"
+                },
+                {
+                    "country": "URU",
+                    "name": "Pablo APRAHAMIAN"
+                }
+            ],
+            [
+                {
+                    "country": "BRA",
+                    "name": "Luciano CORREA"
+                }
+            ]
+        ]
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CAN",
+                    "name": "Kyle REYES"
+                },
+                {
+                    "winner": "Kyle REYES"
+                }
+            ],
+            [
+                {
+                    "country": "CAN",
+                    "name": "Marc DESCHENES"
+                },
+                {
+                    "country": "TTO",
+                    "name": "Christopher GEORGE"
+                },
+                {
+                    "winner": "Christopher GEORGE"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "CAN",
+                    "name": "Kyle REYES"
+                },
+                {
+                    "country": "TTO",
+                    "name": "Christopher GEORGE"
+                }
+            ],
+            [
+                {
+                    "country": "CAN",
+                    "name": "Kyle REYES"
+                }
+            ]
+        ]
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "COL",
+                    "name": "Camilo CASTANO"
+                },
+                {
+                    "country": "MEX",
+                    "name": "Sergio GARCIA"
+                }
+            ],
+            [
+                {
+                    "country": "URU",
+                    "name": "Pablo APRAHAMIAN"
+                },
+                {
+                    "country": "TTO",
+                    "name": "Christopher GEORGE"
+                }
+            ],
+            [
+                {
+                    "country": "MEX",
+                    "name": "Sergio GARCIA"
+                },
+                {
+                    "country": "CAN",
+                    "name": "Kyle REYES"
+                }
+            ],
+            [
+                {
+                    "country": "TTO",
+                    "name": "Christopher GEORGE"
+                },
+                {
+                    "country": "ARG",
+                    "name": "Hector CAMPOS"
+                }
+            ],
+            [
+                {
+                    "country": "CAN",
+                    "name": "Kyle REYES"
+                }
+            ],
+            [
+                {
+                    "country": "ARG",
+                    "name": "Hector CAMPOS"
+                }
+            ]
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CUB",
+                    "name": "Jose ARMENTEROS"
+                },
+                {
+                    "country": "ARG",
+                    "name": "Hector CAMPOS"
+                },
+                {
+                    "winner": "Jose ARMENTEROS"
+                }
+            ],
+            [
+                {
+                    "country": "BRA",
+                    "name": "Luciano CORREA"
+                },
+                {
+                    "country": "CAN",
+                    "name": "Kyle REYES"
+                },
+                {
+                    "winner": "Luciano CORREA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "CUB",
+                    "name": "Jose ARMENTEROS"
+                },
+                {
+                    "country": "BRA",
+                    "name": "Luciano CORREA"
+                }
+            ],
+            [
+                {
+                    "country": "CUB",
+                    "name": "Jose ARMENTEROS"
+                }
+            ]
+        ]
+    }
+}

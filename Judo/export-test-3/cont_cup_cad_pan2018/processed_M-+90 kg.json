@@ -1,0 +1,68 @@
+{
+    "ROUND 1": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ARG",
+                    "name": "Alejo BURGOS"
+                },
+                {
+                    "country": "CHI",
+                    "name": "Jose CONTRERAS"
+                },
+                {
+                    "winner": "Alejo BURGOS"
+                }
+            ],
+            [
+                {
+                    "country": "MEX",
+                    "name": "Omar SILVA"
+                },
+                {
+                    "country": "MEX",
+                    "name": "Julian GUTIERREZ"
+                },
+                {
+                    "winner": "Omar SILVA"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Alejo BURGOS",
+            "Omar SILVA"
+        ]
+    },
+    "REPECHAGE": {
+        "round 1-1": [
+            [
+                {
+                    "country": "CHI",
+                    "name": "Jose CONTRERAS"
+                },
+                {
+                    "country": "MEX",
+                    "name": "Julian GUTIERREZ"
+                },
+                {
+                    "winner": "Julian GUTIERREZ"
+                }
+            ],
+            [
+                {
+                    "country": "MEX",
+                    "name": "Julian GUTIERREZ"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Julian GUTIERREZ"
+        ]
+    },
+    "FINALS": {
+        "round 1-1": [],
+        "final_winners": [
+            "Alejo BURGOS"
+        ]
+    }
+}

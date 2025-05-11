@@ -1,0 +1,277 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ZAM",
+                    "name": "Simon ZULU"
+                },
+                {
+                    "winner": "Simon ZULU"
+                }
+            ],
+            [
+                {
+                    "country": "LBA",
+                    "name": "Mustafa BEN ISSA"
+                },
+                {
+                    "country": "NIG",
+                    "name": "Salifou ABDOULFATAOU"
+                },
+                {
+                    "winner": "Mustafa BEN ISSA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "ZAM",
+                    "name": "Simon ZULU"
+                },
+                {
+                    "country": "LBA",
+                    "name": "Mustafa BEN ISSA"
+                }
+            ]
+        ],
+        "final_winner": "Simon ZULU"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "MAW",
+                    "name": "Chikondi Samuel KATHEWERA"
+                },
+                {
+                    "country": "NIG",
+                    "name": "Zakaye Ganda ABDOULSALAM"
+                },
+                {
+                    "winner": "Zakaye Ganda ABDOULSALAM"
+                }
+            ],
+            [
+                {
+                    "country": "NIG",
+                    "name": "Moussa YAHAYA"
+                },
+                {
+                    "country": "NIG",
+                    "name": "Issa Abdouramane BOUWEY"
+                },
+                {
+                    "winner": "Issa Abdouramane BOUWEY"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "NIG",
+                    "name": "Zakaye Ganda ABDOULSALAM"
+                },
+                {
+                    "country": "NIG",
+                    "name": "Issa Abdouramane BOUWEY"
+                }
+            ]
+        ],
+        "final_winner": "Zakaye Ganda ABDOULSALAM"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CIV",
+                    "name": "Daouda DABONE"
+                },
+                {
+                    "winner": "Daouda DABONE"
+                }
+            ],
+            [
+                {
+                    "country": "NIG",
+                    "name": "Souleymane SEIBOU KANGAYE"
+                },
+                {
+                    "country": "KEN",
+                    "name": "Kevin NYIMANA"
+                },
+                {
+                    "winner": "Kevin NYIMANA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "CIV",
+                    "name": "Daouda DABONE"
+                },
+                {
+                    "country": "KEN",
+                    "name": "Kevin NYIMANA"
+                }
+            ]
+        ],
+        "final_winner": "Daouda DABONE"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "NIG",
+                    "name": "Ridouane IDRISSA SALEY"
+                },
+                {
+                    "winner": "Ridouane IDRISSA SALEY"
+                }
+            ],
+            [
+                {
+                    "country": "NIG",
+                    "name": "Moctar ALLASSANE"
+                },
+                {
+                    "country": "DJI",
+                    "name": "Abdallah HASSAN"
+                },
+                {
+                    "winner": "Moctar ALLASSANE"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "NIG",
+                    "name": "Ridouane IDRISSA SALEY"
+                },
+                {
+                    "country": "NIG",
+                    "name": "Moctar ALLASSANE"
+                }
+            ]
+        ],
+        "final_winner": "Moctar ALLASSANE"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "LBA",
+                    "name": "Mustafa BEN ISSA"
+                },
+                {
+                    "country": "NIG",
+                    "name": "Issa Abdouramane BOUWEY"
+                },
+                {
+                    "winner": "Mustafa BEN ISSA"
+                }
+            ],
+            [
+                {
+                    "country": "KEN",
+                    "name": "Kevin NYIMANA"
+                },
+                {
+                    "country": "NIG",
+                    "name": "Ridouane IDRISSA SALEY"
+                },
+                {
+                    "winner": "Kevin NYIMANA"
+                }
+            ],
+            [
+                {
+                    "country": "LBA",
+                    "name": "Mustafa BEN ISSA"
+                },
+                {
+                    "country": "NIG",
+                    "name": "Moctar ALLASSANE"
+                },
+                {
+                    "winner": "Mustafa BEN ISSA"
+                }
+            ],
+            [
+                {
+                    "country": "KEN",
+                    "name": "Kevin NYIMANA"
+                },
+                {
+                    "country": "NIG",
+                    "name": "Zakaye Ganda ABDOULSALAM"
+                },
+                {
+                    "winner": "Kevin NYIMANA"
+                }
+            ],
+            [
+                {
+                    "country": "LBA",
+                    "name": "Mustafa BEN ISSA"
+                }
+            ],
+            [
+                {
+                    "country": "KEN",
+                    "name": "Kevin NYIMANA"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Mustafa BEN ISSA",
+            "Kevin NYIMANA"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ZAM",
+                    "name": "Simon ZULU"
+                },
+                {
+                    "country": "NIG",
+                    "name": "Zakaye Ganda ABDOULSALAM"
+                },
+                {
+                    "winner": "Simon ZULU"
+                }
+            ],
+            [
+                {
+                    "country": "CIV",
+                    "name": "Daouda DABONE"
+                },
+                {
+                    "country": "NIG",
+                    "name": "Moctar ALLASSANE"
+                },
+                {
+                    "winner": "Daouda DABONE"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "ZAM",
+                    "name": "Simon ZULU"
+                },
+                {
+                    "country": "CIV",
+                    "name": "Daouda DABONE"
+                }
+            ]
+        ],
+        "final_winner": "Simon ZULU"
+    }
+}

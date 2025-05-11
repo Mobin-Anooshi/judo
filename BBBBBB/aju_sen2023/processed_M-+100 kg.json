@@ -1,0 +1,277 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "SEN",
+                    "name": "Mbagnick NDIAYE"
+                },
+                {
+                    "winner": "Mbagnick NDIAYE"
+                }
+            ],
+            [
+                {
+                    "country": "CMR",
+                    "name": "Daniel MEPOUI ANONG"
+                },
+                {
+                    "country": "RSA",
+                    "name": "David STOCKIGT"
+                },
+                {
+                    "winner": "Daniel MEPOUI ANONG"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "SEN",
+                    "name": "Mbagnick NDIAYE"
+                },
+                {
+                    "country": "CMR",
+                    "name": "Daniel MEPOUI ANONG"
+                }
+            ]
+        ],
+        "final_winner": "Mbagnick NDIAYE"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "TUN",
+                    "name": "Wahib HDIOUECH"
+                },
+                {
+                    "country": "SEY",
+                    "name": "Dominic DUGASSE"
+                },
+                {
+                    "winner": "Wahib HDIOUECH"
+                }
+            ],
+            [
+                {
+                    "country": "MAR",
+                    "name": "Mohammed LAHBOUB"
+                },
+                {
+                    "country": "COD",
+                    "name": "Clement MUSUMADI"
+                },
+                {
+                    "winner": "Mohammed LAHBOUB"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "TUN",
+                    "name": "Wahib HDIOUECH"
+                },
+                {
+                    "country": "MAR",
+                    "name": "Mohammed LAHBOUB"
+                }
+            ]
+        ],
+        "final_winner": "Mohammed LAHBOUB"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ANG",
+                    "name": "Piter DA SILVA"
+                },
+                {
+                    "winner": "Piter DA SILVA"
+                }
+            ],
+            [
+                {
+                    "country": "GBS",
+                    "name": "Bubacar MANE"
+                },
+                {
+                    "country": "KEN",
+                    "name": "Kalvin AFUDE"
+                },
+                {
+                    "winner": "Bubacar MANE"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "ANG",
+                    "name": "Piter DA SILVA"
+                },
+                {
+                    "country": "GBS",
+                    "name": "Bubacar MANE"
+                }
+            ]
+        ],
+        "final_winner": "Bubacar MANE"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "GUI",
+                    "name": "Moustapha FOFANA"
+                },
+                {
+                    "winner": "Moustapha FOFANA"
+                }
+            ],
+            [
+                {
+                    "country": "ALG",
+                    "name": "Mohamed El Mehdi LILI"
+                },
+                {
+                    "country": "MRI",
+                    "name": "Sebastien PERRINNE"
+                },
+                {
+                    "winner": "Mohamed El Mehdi LILI"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "GUI",
+                    "name": "Moustapha FOFANA"
+                },
+                {
+                    "country": "ALG",
+                    "name": "Mohamed El Mehdi LILI"
+                }
+            ]
+        ],
+        "final_winner": "Mohamed El Mehdi LILI"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CMR",
+                    "name": "Daniel MEPOUI ANONG"
+                },
+                {
+                    "country": "TUN",
+                    "name": "Wahib HDIOUECH"
+                },
+                {
+                    "winner": "Wahib HDIOUECH"
+                }
+            ],
+            [
+                {
+                    "country": "ANG",
+                    "name": "Piter DA SILVA"
+                },
+                {
+                    "country": "GUI",
+                    "name": "Moustapha FOFANA"
+                },
+                {
+                    "winner": "Piter DA SILVA"
+                }
+            ],
+            [
+                {
+                    "country": "TUN",
+                    "name": "Wahib HDIOUECH"
+                },
+                {
+                    "country": "ALG",
+                    "name": "Mohamed El Mehdi LILI"
+                },
+                {
+                    "winner": "Mohamed El Mehdi LILI"
+                }
+            ],
+            [
+                {
+                    "country": "ANG",
+                    "name": "Piter DA SILVA"
+                },
+                {
+                    "country": "MAR",
+                    "name": "Mohammed LAHBOUB"
+                },
+                {
+                    "winner": "Mohammed LAHBOUB"
+                }
+            ],
+            [
+                {
+                    "country": "ALG",
+                    "name": "Mohamed El Mehdi LILI"
+                }
+            ],
+            [
+                {
+                    "country": "MAR",
+                    "name": "Mohammed LAHBOUB"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Mohamed El Mehdi LILI",
+            "Mohammed LAHBOUB"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "SEN",
+                    "name": "Mbagnick NDIAYE"
+                },
+                {
+                    "country": "MAR",
+                    "name": "Mohammed LAHBOUB"
+                },
+                {
+                    "winner": "Mbagnick NDIAYE"
+                }
+            ],
+            [
+                {
+                    "country": "GBS",
+                    "name": "Bubacar MANE"
+                },
+                {
+                    "country": "ALG",
+                    "name": "Mohamed El Mehdi LILI"
+                },
+                {
+                    "winner": "Bubacar MANE"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "SEN",
+                    "name": "Mbagnick NDIAYE"
+                },
+                {
+                    "country": "GBS",
+                    "name": "Bubacar MANE"
+                }
+            ]
+        ],
+        "final_winner": "Mbagnick NDIAYE"
+    }
+}

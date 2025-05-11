@@ -1,0 +1,261 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "POL",
+                    "name": "Oliwia ONYSK"
+                },
+                {
+                    "winner": "Oliwia ONYSK"
+                }
+            ],
+            []
+        ],
+        "round 1-1": [],
+        "final_winner": "Oliwia ONYSK"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "NED",
+                    "name": "Vera WANDEL"
+                },
+                {
+                    "winner": "Vera WANDEL"
+                }
+            ],
+            [
+                {
+                    "country": "LTU",
+                    "name": "Angelina CIKOVKINA"
+                },
+                {
+                    "winner": "Angelina CIKOVKINA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "NED",
+                    "name": "Vera WANDEL"
+                },
+                {
+                    "country": "LTU",
+                    "name": "Angelina CIKOVKINA"
+                }
+            ]
+        ],
+        "final_winner": "Vera WANDEL"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "BUL",
+                    "name": "Aleksa GEORGIEVA"
+                },
+                {
+                    "winner": "Aleksa GEORGIEVA"
+                }
+            ],
+            [
+                {
+                    "country": "SVK",
+                    "name": "Patricia TOMANKOVA"
+                },
+                {
+                    "winner": "Patricia TOMANKOVA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "BUL",
+                    "name": "Aleksa GEORGIEVA"
+                },
+                {
+                    "country": "SVK",
+                    "name": "Patricia TOMANKOVA"
+                }
+            ]
+        ],
+        "final_winner": "Patricia TOMANKOVA"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "AZE",
+                    "name": "Leyla DAMIROVA"
+                },
+                {
+                    "winner": "Leyla DAMIROVA"
+                }
+            ],
+            [
+                {
+                    "country": "LTU",
+                    "name": "Migle BUSAUSKAITE"
+                },
+                {
+                    "winner": "Migle BUSAUSKAITE"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "AZE",
+                    "name": "Leyla DAMIROVA"
+                },
+                {
+                    "country": "LTU",
+                    "name": "Migle BUSAUSKAITE"
+                }
+            ]
+        ],
+        "final_winner": "Leyla DAMIROVA"
+    },
+    "REPECHAGE": {
+        "round 1-4": [
+            [],
+            [
+                {
+                    "country": "LTU",
+                    "name": "Angelina CIKOVKINA"
+                },
+                {
+                    "winner": "Angelina CIKOVKINA"
+                }
+            ],
+            [
+                {
+                    "country": "BUL",
+                    "name": "Aleksa GEORGIEVA"
+                },
+                {
+                    "winner": "Aleksa GEORGIEVA"
+                }
+            ],
+            [
+                {
+                    "country": "LTU",
+                    "name": "Migle BUSAUSKAITE"
+                },
+                {
+                    "winner": "Migle BUSAUSKAITE"
+                }
+            ]
+        ],
+        "round 1-2": [
+            [
+                {
+                    "country": "LTU",
+                    "name": "Angelina CIKOVKINA"
+                }
+            ],
+            [
+                {
+                    "country": "BUL",
+                    "name": "Aleksa GEORGIEVA"
+                },
+                {
+                    "country": "LTU",
+                    "name": "Migle BUSAUSKAITE"
+                },
+                {
+                    "winner": "Aleksa GEORGIEVA"
+                }
+            ],
+            [
+                {
+                    "country": "LTU",
+                    "name": "Angelina CIKOVKINA"
+                },
+                {
+                    "country": "AZE",
+                    "name": "Leyla DAMIROVA"
+                },
+                {
+                    "winner": "Leyla DAMIROVA"
+                }
+            ],
+            [
+                {
+                    "country": "BUL",
+                    "name": "Aleksa GEORGIEVA"
+                },
+                {
+                    "country": "POL",
+                    "name": "Oliwia ONYSK"
+                },
+                {
+                    "winner": "Aleksa GEORGIEVA"
+                }
+            ],
+            [
+                {
+                    "country": "AZE",
+                    "name": "Leyla DAMIROVA"
+                }
+            ],
+            [
+                {
+                    "country": "BUL",
+                    "name": "Aleksa GEORGIEVA"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Leyla DAMIROVA",
+            "Aleksa GEORGIEVA"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "POL",
+                    "name": "Oliwia ONYSK"
+                },
+                {
+                    "country": "NED",
+                    "name": "Vera WANDEL"
+                },
+                {
+                    "winner": "Vera WANDEL"
+                }
+            ],
+            [
+                {
+                    "country": "SVK",
+                    "name": "Patricia TOMANKOVA"
+                },
+                {
+                    "country": "AZE",
+                    "name": "Leyla DAMIROVA"
+                },
+                {
+                    "winner": "Patricia TOMANKOVA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "NED",
+                    "name": "Vera WANDEL"
+                },
+                {
+                    "country": "SVK",
+                    "name": "Patricia TOMANKOVA"
+                }
+            ]
+        ],
+        "final_winner": "Patricia TOMANKOVA"
+    }
+}

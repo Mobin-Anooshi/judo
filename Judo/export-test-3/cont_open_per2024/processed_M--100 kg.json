@@ -1,0 +1,68 @@
+{
+    "ROUND 1": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ARG",
+                    "name": "Ivo DARGOLTZ"
+                },
+                {
+                    "country": "ESA",
+                    "name": "Juan Diego TURCIOS"
+                },
+                {
+                    "winner": "Juan Diego TURCIOS"
+                }
+            ],
+            [
+                {
+                    "country": "USA",
+                    "name": "Tokuzo TAKAHASHI"
+                },
+                {
+                    "country": "USA",
+                    "name": "Jared CAUSSE"
+                },
+                {
+                    "winner": "Jared CAUSSE"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Juan Diego TURCIOS",
+            "Jared CAUSSE"
+        ]
+    },
+    "REPECHAGE": {
+        "round 1-1": [
+            [
+                {
+                    "country": "ARG",
+                    "name": "Ivo DARGOLTZ"
+                },
+                {
+                    "country": "USA",
+                    "name": "Tokuzo TAKAHASHI"
+                },
+                {
+                    "winner": "Ivo DARGOLTZ"
+                }
+            ],
+            [
+                {
+                    "country": "ARG",
+                    "name": "Ivo DARGOLTZ"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Ivo DARGOLTZ"
+        ]
+    },
+    "FINALS": {
+        "round 1-1": [],
+        "final_winners": [
+            "Juan Diego TURCIOS"
+        ]
+    }
+}

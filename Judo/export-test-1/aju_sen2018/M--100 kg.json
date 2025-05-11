@@ -1,0 +1,177 @@
+{
+    "POOL A": {
+        "round 1-1": [
+            [
+                {
+                    "country": "EGY",
+                    "name": "Ramadan DARWISH"
+                },
+                {
+                    "country": "MLI",
+                    "name": "Ayouba TRAORE"
+                }
+            ]
+        ],
+        "final_winner": "Ramadan DARWISH"
+    },
+    "POOL B": {
+        "round 1-1": [
+            [
+                {
+                    "country": "TUN",
+                    "name": "Anis BEN KHALED"
+                },
+                {
+                    "country": "ALG",
+                    "name": "Billel BELHIMER"
+                }
+            ]
+        ],
+        "final_winner": "Anis BEN KHALED"
+    },
+    "POOL C": {
+        "round 1-1": [
+            [
+                {
+                    "country": "ALG",
+                    "name": "Lyes BOUYACOUB"
+                },
+                {
+                    "country": "MRI",
+                    "name": "Hansley ADONIS"
+                }
+            ]
+        ],
+        "final_winner": "Lyes BOUYACOUB"
+    },
+    "POOL D": {
+        "round 1-1": [
+            [
+                {
+                    "country": "CIV",
+                    "name": "Koffi Kreme KOBENA"
+                },
+                {
+                    "country": "BUR",
+                    "name": "Nestor PALM"
+                }
+            ]
+        ],
+        "final_winner": "Koffi Kreme KOBENA"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "MLI",
+                    "name": "Ayouba TRAORE"
+                },
+                {
+                    "country": "ALG",
+                    "name": "Billel BELHIMER"
+                },
+                {
+                    "winner": "Billel BELHIMER"
+                }
+            ],
+            [
+                {
+                    "country": "MRI",
+                    "name": "Hansley ADONIS"
+                },
+                {
+                    "country": "BUR",
+                    "name": "Nestor PALM"
+                },
+                {
+                    "winner": "Hansley ADONIS"
+                }
+            ],
+            [
+                {
+                    "country": "ALG",
+                    "name": "Billel BELHIMER"
+                },
+                {
+                    "country": "CIV",
+                    "name": "Koffi Kreme KOBENA"
+                },
+                {
+                    "winner": "Billel BELHIMER"
+                }
+            ],
+            [
+                {
+                    "country": "MRI",
+                    "name": "Hansley ADONIS"
+                },
+                {
+                    "country": "TUN",
+                    "name": "Anis BEN KHALED"
+                },
+                {
+                    "winner": "Anis BEN KHALED"
+                }
+            ],
+            [
+                {
+                    "country": "ALG",
+                    "name": "Billel BELHIMER"
+                }
+            ],
+            [
+                {
+                    "country": "TUN",
+                    "name": "Anis BEN KHALED"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Billel BELHIMER",
+            "Anis BEN KHALED"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "EGY",
+                    "name": "Ramadan DARWISH"
+                },
+                {
+                    "country": "TUN",
+                    "name": "Anis BEN KHALED"
+                },
+                {
+                    "winner": "Ramadan DARWISH"
+                }
+            ],
+            [
+                {
+                    "country": "ALG",
+                    "name": "Lyes BOUYACOUB"
+                },
+                {
+                    "country": "CIV",
+                    "name": "Koffi Kreme KOBENA"
+                },
+                {
+                    "winner": "Lyes BOUYACOUB"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "EGY",
+                    "name": "Ramadan DARWISH"
+                },
+                {
+                    "country": "ALG",
+                    "name": "Lyes BOUYACOUB"
+                }
+            ]
+        ],
+        "final_winner": "Ramadan DARWISH"
+    }
+}

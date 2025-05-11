@@ -1,0 +1,274 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "MEX",
+                    "name": "Samuel AYALA"
+                },
+                {
+                    "winner": "Samuel AYALA"
+                }
+            ],
+            [
+                {
+                    "country": "ESA",
+                    "name": "Gustavo Eduardo LOPEZ AGUILERA"
+                },
+                {
+                    "country": "BRA",
+                    "name": "Caio BRIGIDA"
+                },
+                {
+                    "winner": "Caio BRIGIDA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "MEX",
+                    "name": "Samuel AYALA"
+                },
+                {
+                    "country": "BRA",
+                    "name": "Caio BRIGIDA"
+                }
+            ],
+            [
+                {
+                    "country": "BRA",
+                    "name": "Caio BRIGIDA"
+                }
+            ]
+        ]
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "URU",
+                    "name": "Alain APRAHAMIAN"
+                },
+                {
+                    "winner": "Alain APRAHAMIAN"
+                }
+            ],
+            [
+                {
+                    "country": "PER",
+                    "name": "Javier SAAVEDRA"
+                },
+                {
+                    "winner": "Javier SAAVEDRA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "URU",
+                    "name": "Alain APRAHAMIAN"
+                },
+                {
+                    "country": "PER",
+                    "name": "Javier SAAVEDRA"
+                }
+            ],
+            [
+                {
+                    "country": "URU",
+                    "name": "Alain APRAHAMIAN"
+                }
+            ]
+        ]
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ARG",
+                    "name": "Tomas MORALES"
+                },
+                {
+                    "winner": "Tomas MORALES"
+                }
+            ],
+            [
+                {
+                    "country": "URU",
+                    "name": "Rodrigo GAMOU"
+                },
+                {
+                    "country": "PER",
+                    "name": "Benjamin GALARRETA"
+                },
+                {
+                    "winner": "Rodrigo GAMOU"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "ARG",
+                    "name": "Tomas MORALES"
+                },
+                {
+                    "country": "URU",
+                    "name": "Rodrigo GAMOU"
+                }
+            ],
+            [
+                {
+                    "country": "ARG",
+                    "name": "Tomas MORALES"
+                }
+            ]
+        ]
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ARG",
+                    "name": "Agustin GIL"
+                },
+                {
+                    "winner": "Agustin GIL"
+                }
+            ],
+            [
+                {
+                    "country": "IRL",
+                    "name": "Bearach GLEESON"
+                },
+                {
+                    "winner": "Bearach GLEESON"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "ARG",
+                    "name": "Agustin GIL"
+                },
+                {
+                    "country": "IRL",
+                    "name": "Bearach GLEESON"
+                }
+            ],
+            [
+                {
+                    "country": "ARG",
+                    "name": "Agustin GIL"
+                }
+            ]
+        ]
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "MEX",
+                    "name": "Samuel AYALA"
+                },
+                {
+                    "country": "PER",
+                    "name": "Javier SAAVEDRA"
+                }
+            ],
+            [
+                {
+                    "country": "URU",
+                    "name": "Rodrigo GAMOU"
+                },
+                {
+                    "country": "IRL",
+                    "name": "Bearach GLEESON"
+                }
+            ],
+            [
+                {
+                    "country": "MEX",
+                    "name": "Samuel AYALA"
+                },
+                {
+                    "country": "ARG",
+                    "name": "Agustin GIL"
+                }
+            ],
+            [
+                {
+                    "country": "URU",
+                    "name": "Rodrigo GAMOU"
+                },
+                {
+                    "country": "BRA",
+                    "name": "Caio BRIGIDA"
+                }
+            ],
+            [
+                {
+                    "country": "MEX",
+                    "name": "Samuel AYALA"
+                }
+            ],
+            [
+                {
+                    "country": "BRA",
+                    "name": "Caio BRIGIDA"
+                }
+            ]
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Caio BRIGIDA"
+                },
+                {
+                    "country": "URU",
+                    "name": "Alain APRAHAMIAN"
+                },
+                {
+                    "winner": "Alain APRAHAMIAN"
+                }
+            ],
+            [
+                {
+                    "country": "ARG",
+                    "name": "Tomas MORALES"
+                },
+                {
+                    "country": "ARG",
+                    "name": "Agustin GIL"
+                },
+                {
+                    "winner": "Tomas MORALES"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "URU",
+                    "name": "Alain APRAHAMIAN"
+                },
+                {
+                    "country": "ARG",
+                    "name": "Tomas MORALES"
+                }
+            ],
+            [
+                {
+                    "country": "ARG",
+                    "name": "Tomas MORALES"
+                }
+            ]
+        ]
+    }
+}

@@ -1,0 +1,159 @@
+{
+    "POOL A": {
+        "round 1-1": [],
+        "final_winner": "Lea SCHMID"
+    },
+    "POOL B": {
+        "round 1-1": [
+            [
+                {
+                    "country": "FRA",
+                    "name": "Lou Anne BRUSTEL"
+                },
+                {
+                    "country": "NZL",
+                    "name": "Hayley MACKEY"
+                }
+            ]
+        ],
+        "final_winner": "Lou Anne BRUSTEL"
+    },
+    "POOL C": {
+        "round 1-1": [
+            [
+                {
+                    "country": "GBR",
+                    "name": "Rachel TYTLER"
+                },
+                {
+                    "country": "AUT",
+                    "name": "Marlene HUNGER"
+                }
+            ]
+        ],
+        "final_winner": "Rachel TYTLER"
+    },
+    "POOL D": {
+        "round 1-1": [
+            [
+                {
+                    "country": "CAN",
+                    "name": "Coralie GODBOUT"
+                },
+                {
+                    "country": "NZL",
+                    "name": "Moira DE VILLIERS"
+                }
+            ]
+        ],
+        "final_winner": "Moira DE VILLIERS"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "NZL",
+                    "name": "Hayley MACKEY"
+                }
+            ],
+            [
+                {
+                    "country": "AUT",
+                    "name": "Marlene HUNGER"
+                },
+                {
+                    "country": "CAN",
+                    "name": "Coralie GODBOUT"
+                },
+                {
+                    "winner": "Coralie GODBOUT"
+                }
+            ],
+            [
+                {
+                    "country": "NZL",
+                    "name": "Hayley MACKEY"
+                },
+                {
+                    "country": "NZL",
+                    "name": "Moira DE VILLIERS"
+                },
+                {
+                    "winner": "Moira DE VILLIERS"
+                }
+            ],
+            [
+                {
+                    "country": "CAN",
+                    "name": "Coralie GODBOUT"
+                },
+                {
+                    "country": "FRA",
+                    "name": "Lou Anne BRUSTEL"
+                },
+                {
+                    "winner": "Coralie GODBOUT"
+                }
+            ],
+            [
+                {
+                    "country": "NZL",
+                    "name": "Moira DE VILLIERS"
+                }
+            ],
+            [
+                {
+                    "country": "CAN",
+                    "name": "Coralie GODBOUT"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Moira DE VILLIERS",
+            "Coralie GODBOUT"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "GER",
+                    "name": "Lea SCHMID"
+                },
+                {
+                    "country": "FRA",
+                    "name": "Lou Anne BRUSTEL"
+                },
+                {
+                    "winner": "Lea SCHMID"
+                }
+            ],
+            [
+                {
+                    "country": "GBR",
+                    "name": "Rachel TYTLER"
+                },
+                {
+                    "country": "NZL",
+                    "name": "Moira DE VILLIERS"
+                },
+                {
+                    "winner": "Rachel TYTLER"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "GER",
+                    "name": "Lea SCHMID"
+                },
+                {
+                    "country": "GBR",
+                    "name": "Rachel TYTLER"
+                }
+            ]
+        ],
+        "final_winner": "Lea SCHMID"
+    }
+}

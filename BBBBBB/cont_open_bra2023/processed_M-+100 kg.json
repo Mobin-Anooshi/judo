@@ -1,0 +1,159 @@
+{
+    "POOL A": {
+        "round 1-1": [],
+        "final_winner": "Francisco SOLIS"
+    },
+    "POOL B": {
+        "round 1-1": [
+            [
+                {
+                    "country": "JAM",
+                    "name": "Steven MOORE"
+                },
+                {
+                    "country": "BRA",
+                    "name": "Robson OLIVEIRA"
+                }
+            ]
+        ],
+        "final_winner": "Robson OLIVEIRA"
+    },
+    "POOL C": {
+        "round 1-1": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Juscelino NASCIMENTO"
+                },
+                {
+                    "country": "BRA",
+                    "name": "Gabriel DE ARRUDA"
+                }
+            ]
+        ],
+        "final_winner": "Juscelino NASCIMENTO"
+    },
+    "POOL D": {
+        "round 1-1": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Gabriel DOS SANTOS"
+                },
+                {
+                    "country": "BRA",
+                    "name": "Geraldo COSTA"
+                }
+            ]
+        ],
+        "final_winner": "Gabriel DOS SANTOS"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "JAM",
+                    "name": "Steven MOORE"
+                }
+            ],
+            [
+                {
+                    "country": "BRA",
+                    "name": "Gabriel DE ARRUDA"
+                },
+                {
+                    "country": "BRA",
+                    "name": "Geraldo COSTA"
+                },
+                {
+                    "winner": "Gabriel DE ARRUDA"
+                }
+            ],
+            [
+                {
+                    "country": "JAM",
+                    "name": "Steven MOORE"
+                },
+                {
+                    "country": "BRA",
+                    "name": "Gabriel DOS SANTOS"
+                },
+                {
+                    "winner": "Gabriel DOS SANTOS"
+                }
+            ],
+            [
+                {
+                    "country": "BRA",
+                    "name": "Gabriel DE ARRUDA"
+                },
+                {
+                    "country": "BRA",
+                    "name": "Robson OLIVEIRA"
+                },
+                {
+                    "winner": "Robson OLIVEIRA"
+                }
+            ],
+            [
+                {
+                    "country": "BRA",
+                    "name": "Gabriel DOS SANTOS"
+                }
+            ],
+            [
+                {
+                    "country": "BRA",
+                    "name": "Robson OLIVEIRA"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Gabriel DOS SANTOS",
+            "Robson OLIVEIRA"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CHI",
+                    "name": "Francisco SOLIS"
+                },
+                {
+                    "country": "BRA",
+                    "name": "Robson OLIVEIRA"
+                },
+                {
+                    "winner": "Francisco SOLIS"
+                }
+            ],
+            [
+                {
+                    "country": "BRA",
+                    "name": "Juscelino NASCIMENTO"
+                },
+                {
+                    "country": "BRA",
+                    "name": "Gabriel DOS SANTOS"
+                },
+                {
+                    "winner": "Juscelino NASCIMENTO"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "CHI",
+                    "name": "Francisco SOLIS"
+                },
+                {
+                    "country": "BRA",
+                    "name": "Juscelino NASCIMENTO"
+                }
+            ]
+        ],
+        "final_winner": "Juscelino NASCIMENTO"
+    }
+}

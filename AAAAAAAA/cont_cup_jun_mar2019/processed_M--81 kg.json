@@ -1,0 +1,141 @@
+{
+    "POOL A": {
+        "round 1-1": [],
+        "final_winner": "Amir KOURAYCHI"
+    },
+    "POOL B": {
+        "round 1-1": [
+            [
+                {
+                    "country": "MAR",
+                    "name": "Anas BELASSASSI"
+                },
+                {
+                    "country": "SEN",
+                    "name": "Souleymane KAMBAYE"
+                }
+            ]
+        ],
+        "final_winner": "Anas BELASSASSI"
+    },
+    "POOL C": {
+        "round 1-1": [],
+        "final_winner": "Hamza KABDANI"
+    },
+    "POOL D": {
+        "round 1-1": [
+            [
+                {
+                    "country": "MAR",
+                    "name": "Anwar ZRHARI"
+                },
+                {
+                    "country": "POR",
+                    "name": "Francisco ROVIRA"
+                }
+            ]
+        ],
+        "final_winner": "Anwar ZRHARI"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "SEN",
+                    "name": "Souleymane KAMBAYE"
+                }
+            ],
+            [
+                {
+                    "country": "POR",
+                    "name": "Francisco ROVIRA"
+                }
+            ],
+            [
+                {
+                    "country": "SEN",
+                    "name": "Souleymane KAMBAYE"
+                },
+                {
+                    "country": "MAR",
+                    "name": "Anwar ZRHARI"
+                },
+                {
+                    "winner": "Anwar ZRHARI"
+                }
+            ],
+            [
+                {
+                    "country": "POR",
+                    "name": "Francisco ROVIRA"
+                },
+                {
+                    "country": "TUN",
+                    "name": "Amir KOURAYCHI"
+                },
+                {
+                    "winner": "Amir KOURAYCHI"
+                }
+            ],
+            [
+                {
+                    "country": "MAR",
+                    "name": "Anwar ZRHARI"
+                }
+            ],
+            [
+                {
+                    "country": "TUN",
+                    "name": "Amir KOURAYCHI"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Anwar ZRHARI",
+            "Amir KOURAYCHI"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "TUN",
+                    "name": "Amir KOURAYCHI"
+                },
+                {
+                    "country": "MAR",
+                    "name": "Anas BELASSASSI"
+                },
+                {
+                    "winner": "Anas BELASSASSI"
+                }
+            ],
+            [
+                {
+                    "country": "MAR",
+                    "name": "Hamza KABDANI"
+                },
+                {
+                    "country": "MAR",
+                    "name": "Anwar ZRHARI"
+                },
+                {
+                    "winner": "Hamza KABDANI"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "MAR",
+                    "name": "Anas BELASSASSI"
+                },
+                {
+                    "country": "MAR",
+                    "name": "Hamza KABDANI"
+                }
+            ]
+        ],
+        "final_winner": "Hamza KABDANI"
+    }
+}

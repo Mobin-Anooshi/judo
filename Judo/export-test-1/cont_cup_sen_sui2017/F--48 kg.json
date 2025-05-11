@@ -1,0 +1,243 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "FIN",
+                    "name": "Marianne KOSONEN"
+                },
+                {
+                    "winner": "Marianne KOSONEN"
+                }
+            ],
+            []
+        ],
+        "round 1-1": [],
+        "final_winner": "Marianne KOSONEN"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "FRA",
+                    "name": "Milene WOJCIAK"
+                },
+                {
+                    "winner": "Milene WOJCIAK"
+                }
+            ],
+            [
+                {
+                    "country": "BEL",
+                    "name": "Ellen SALENS"
+                },
+                {
+                    "winner": "Ellen SALENS"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "FRA",
+                    "name": "Milene WOJCIAK"
+                },
+                {
+                    "country": "BEL",
+                    "name": "Ellen SALENS"
+                }
+            ]
+        ],
+        "final_winner": "Ellen SALENS"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "GER",
+                    "name": "Lisanne STURM"
+                },
+                {
+                    "winner": "Lisanne STURM"
+                }
+            ],
+            [
+                {
+                    "country": "ITA",
+                    "name": "Alessia RITIENI"
+                },
+                {
+                    "winner": "Alessia RITIENI"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "GER",
+                    "name": "Lisanne STURM"
+                },
+                {
+                    "country": "ITA",
+                    "name": "Alessia RITIENI"
+                }
+            ]
+        ],
+        "final_winner": "Alessia RITIENI"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "NED",
+                    "name": "Suzanne ZEGERS"
+                },
+                {
+                    "winner": "Suzanne ZEGERS"
+                }
+            ],
+            [
+                {
+                    "country": "AUT",
+                    "name": "Sarah WIESENHOFER"
+                },
+                {
+                    "winner": "Sarah WIESENHOFER"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "NED",
+                    "name": "Suzanne ZEGERS"
+                },
+                {
+                    "country": "AUT",
+                    "name": "Sarah WIESENHOFER"
+                }
+            ]
+        ],
+        "final_winner": "Suzanne ZEGERS"
+    },
+    "REPECHAGE": {
+        "round 1-4": [
+            [],
+            [
+                {
+                    "country": "FRA",
+                    "name": "Milene WOJCIAK"
+                },
+                {
+                    "winner": "Milene WOJCIAK"
+                }
+            ],
+            [
+                {
+                    "country": "GER",
+                    "name": "Lisanne STURM"
+                },
+                {
+                    "winner": "Lisanne STURM"
+                }
+            ],
+            [
+                {
+                    "country": "AUT",
+                    "name": "Sarah WIESENHOFER"
+                },
+                {
+                    "winner": "Sarah WIESENHOFER"
+                }
+            ]
+        ],
+        "round 1-2": [
+            [],
+            [
+                {
+                    "country": "GER",
+                    "name": "Lisanne STURM"
+                },
+                {
+                    "country": "AUT",
+                    "name": "Sarah WIESENHOFER"
+                },
+                {
+                    "winner": "Sarah WIESENHOFER"
+                }
+            ],
+            [
+                {
+                    "country": "NED",
+                    "name": "Suzanne ZEGERS"
+                }
+            ],
+            [
+                {
+                    "country": "AUT",
+                    "name": "Sarah WIESENHOFER"
+                },
+                {
+                    "country": "FIN",
+                    "name": "Marianne KOSONEN"
+                },
+                {
+                    "winner": "Marianne KOSONEN"
+                }
+            ],
+            [
+                {
+                    "country": "FIN",
+                    "name": "Marianne KOSONEN"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Sarah WIESENHOFER",
+            "Suzanne ZEGERS"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "FIN",
+                    "name": "Marianne KOSONEN"
+                },
+                {
+                    "country": "BEL",
+                    "name": "Ellen SALENS"
+                },
+                {
+                    "winner": "Ellen SALENS"
+                }
+            ],
+            [
+                {
+                    "country": "ITA",
+                    "name": "Alessia RITIENI"
+                },
+                {
+                    "country": "NED",
+                    "name": "Suzanne ZEGERS"
+                },
+                {
+                    "winner": "Alessia RITIENI"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "BEL",
+                    "name": "Ellen SALENS"
+                },
+                {
+                    "country": "ITA",
+                    "name": "Alessia RITIENI"
+                }
+            ]
+        ],
+        "final_winner": "Alessia RITIENI"
+    }
+}

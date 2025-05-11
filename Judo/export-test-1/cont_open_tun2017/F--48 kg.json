@@ -1,0 +1,177 @@
+{
+    "POOL A": {
+        "round 1-1": [
+            [
+                {
+                    "country": "TUN",
+                    "name": "Olfa SAOUDI"
+                },
+                {
+                    "country": "MAR",
+                    "name": "Aziza CHAKIR"
+                }
+            ]
+        ],
+        "final_winner": "Olfa SAOUDI"
+    },
+    "POOL B": {
+        "round 1-1": [
+            [
+                {
+                    "country": "ESP",
+                    "name": "Cristina CASAS"
+                },
+                {
+                    "country": "ITA",
+                    "name": "Elisa ADRASTI"
+                }
+            ]
+        ],
+        "final_winner": "Cristina CASAS"
+    },
+    "POOL C": {
+        "round 1-1": [
+            [
+                {
+                    "country": "ESP",
+                    "name": "Cinta GARCIA MESA"
+                },
+                {
+                    "country": "TUN",
+                    "name": "Sirine BEN GHOULA"
+                }
+            ]
+        ],
+        "final_winner": "Cinta GARCIA MESA"
+    },
+    "POOL D": {
+        "round 1-1": [
+            [
+                {
+                    "country": "FRA",
+                    "name": "Sephora CORCHER"
+                },
+                {
+                    "country": "TUN",
+                    "name": "Oumaima BEDIOUI"
+                }
+            ]
+        ],
+        "final_winner": "Sephora CORCHER"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "MAR",
+                    "name": "Aziza CHAKIR"
+                },
+                {
+                    "country": "ITA",
+                    "name": "Elisa ADRASTI"
+                },
+                {
+                    "winner": "Aziza CHAKIR"
+                }
+            ],
+            [
+                {
+                    "country": "TUN",
+                    "name": "Sirine BEN GHOULA"
+                },
+                {
+                    "country": "TUN",
+                    "name": "Oumaima BEDIOUI"
+                },
+                {
+                    "winner": "Oumaima BEDIOUI"
+                }
+            ],
+            [
+                {
+                    "country": "MAR",
+                    "name": "Aziza CHAKIR"
+                },
+                {
+                    "country": "FRA",
+                    "name": "Sephora CORCHER"
+                },
+                {
+                    "winner": "Sephora CORCHER"
+                }
+            ],
+            [
+                {
+                    "country": "TUN",
+                    "name": "Oumaima BEDIOUI"
+                },
+                {
+                    "country": "ESP",
+                    "name": "Cristina CASAS"
+                },
+                {
+                    "winner": "Cristina CASAS"
+                }
+            ],
+            [
+                {
+                    "country": "FRA",
+                    "name": "Sephora CORCHER"
+                }
+            ],
+            [
+                {
+                    "country": "ESP",
+                    "name": "Cristina CASAS"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Sephora CORCHER",
+            "Cristina CASAS"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "TUN",
+                    "name": "Olfa SAOUDI"
+                },
+                {
+                    "country": "ESP",
+                    "name": "Cristina CASAS"
+                },
+                {
+                    "winner": "Olfa SAOUDI"
+                }
+            ],
+            [
+                {
+                    "country": "ESP",
+                    "name": "Cinta GARCIA MESA"
+                },
+                {
+                    "country": "FRA",
+                    "name": "Sephora CORCHER"
+                },
+                {
+                    "winner": "Cinta GARCIA MESA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "TUN",
+                    "name": "Olfa SAOUDI"
+                },
+                {
+                    "country": "ESP",
+                    "name": "Cinta GARCIA MESA"
+                }
+            ]
+        ],
+        "final_winner": "Olfa SAOUDI"
+    }
+}

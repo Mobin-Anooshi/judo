@@ -1,0 +1,277 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ISR",
+                    "name": "Gili COHEN"
+                },
+                {
+                    "winner": "Gili COHEN"
+                }
+            ],
+            [
+                {
+                    "country": "TUR",
+                    "name": "Irem KORKMAZ"
+                },
+                {
+                    "country": "AZE",
+                    "name": "Nazakat AZIZOVA"
+                },
+                {
+                    "winner": "Nazakat AZIZOVA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "ISR",
+                    "name": "Gili COHEN"
+                },
+                {
+                    "country": "AZE",
+                    "name": "Nazakat AZIZOVA"
+                }
+            ]
+        ],
+        "final_winner": "Gili COHEN"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "KAZ",
+                    "name": "Aigunim TUITEKOVA"
+                },
+                {
+                    "country": "TUR",
+                    "name": "Damla CALISKAN"
+                },
+                {
+                    "winner": "Damla CALISKAN"
+                }
+            ],
+            [
+                {
+                    "country": "UZB",
+                    "name": "Diyora KELDIYOROVA"
+                },
+                {
+                    "country": "CHN",
+                    "name": "Ben LIU"
+                },
+                {
+                    "winner": "Diyora KELDIYOROVA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "TUR",
+                    "name": "Damla CALISKAN"
+                },
+                {
+                    "country": "UZB",
+                    "name": "Diyora KELDIYOROVA"
+                }
+            ]
+        ],
+        "final_winner": "Diyora KELDIYOROVA"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "KOS",
+                    "name": "Distria KRASNIQI"
+                },
+                {
+                    "winner": "Distria KRASNIQI"
+                }
+            ],
+            [
+                {
+                    "country": "ISR",
+                    "name": "Ariel BEZALEL"
+                },
+                {
+                    "country": "TUR",
+                    "name": "Busra OZDEK"
+                },
+                {
+                    "winner": "Ariel BEZALEL"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "KOS",
+                    "name": "Distria KRASNIQI"
+                },
+                {
+                    "country": "ISR",
+                    "name": "Ariel BEZALEL"
+                }
+            ]
+        ],
+        "final_winner": "Distria KRASNIQI"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CRO",
+                    "name": "Tena SIKIC"
+                },
+                {
+                    "winner": "Tena SIKIC"
+                }
+            ],
+            [
+                {
+                    "country": "TPE",
+                    "name": "Chin-Ying CHEN"
+                },
+                {
+                    "country": "TUR",
+                    "name": "Merve TAS"
+                },
+                {
+                    "winner": "Merve TAS"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "CRO",
+                    "name": "Tena SIKIC"
+                },
+                {
+                    "country": "TUR",
+                    "name": "Merve TAS"
+                }
+            ]
+        ],
+        "final_winner": "Merve TAS"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "AZE",
+                    "name": "Nazakat AZIZOVA"
+                },
+                {
+                    "country": "TUR",
+                    "name": "Damla CALISKAN"
+                },
+                {
+                    "winner": "Nazakat AZIZOVA"
+                }
+            ],
+            [
+                {
+                    "country": "ISR",
+                    "name": "Ariel BEZALEL"
+                },
+                {
+                    "country": "CRO",
+                    "name": "Tena SIKIC"
+                },
+                {
+                    "winner": "Ariel BEZALEL"
+                }
+            ],
+            [
+                {
+                    "country": "AZE",
+                    "name": "Nazakat AZIZOVA"
+                },
+                {
+                    "country": "TUR",
+                    "name": "Merve TAS"
+                },
+                {
+                    "winner": "Nazakat AZIZOVA"
+                }
+            ],
+            [
+                {
+                    "country": "ISR",
+                    "name": "Ariel BEZALEL"
+                },
+                {
+                    "country": "UZB",
+                    "name": "Diyora KELDIYOROVA"
+                },
+                {
+                    "winner": "Ariel BEZALEL"
+                }
+            ],
+            [
+                {
+                    "country": "AZE",
+                    "name": "Nazakat AZIZOVA"
+                }
+            ],
+            [
+                {
+                    "country": "ISR",
+                    "name": "Ariel BEZALEL"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Nazakat AZIZOVA",
+            "Ariel BEZALEL"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ISR",
+                    "name": "Gili COHEN"
+                },
+                {
+                    "country": "UZB",
+                    "name": "Diyora KELDIYOROVA"
+                },
+                {
+                    "winner": "Gili COHEN"
+                }
+            ],
+            [
+                {
+                    "country": "KOS",
+                    "name": "Distria KRASNIQI"
+                },
+                {
+                    "country": "TUR",
+                    "name": "Merve TAS"
+                },
+                {
+                    "winner": "Distria KRASNIQI"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "ISR",
+                    "name": "Gili COHEN"
+                },
+                {
+                    "country": "KOS",
+                    "name": "Distria KRASNIQI"
+                }
+            ]
+        ],
+        "final_winner": "Distria KRASNIQI"
+    }
+}

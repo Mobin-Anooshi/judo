@@ -1,0 +1,273 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ARG",
+                    "name": "Victoria DELVECCHIO"
+                },
+                {
+                    "winner": "Victoria DELVECCHIO"
+                }
+            ],
+            [
+                {
+                    "country": "MEX",
+                    "name": "Julieta PEREZ"
+                },
+                {
+                    "country": "COL",
+                    "name": "Marisol RUIZ"
+                },
+                {
+                    "winner": "Julieta PEREZ"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "ARG",
+                    "name": "Victoria DELVECCHIO"
+                },
+                {
+                    "country": "MEX",
+                    "name": "Julieta PEREZ"
+                }
+            ]
+        ],
+        "final_winner": "Victoria DELVECCHIO"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "DOM",
+                    "name": "Katherine OTANO PINA"
+                },
+                {
+                    "winner": "Katherine OTANO PINA"
+                }
+            ],
+            [
+                {
+                    "country": "ARG",
+                    "name": "Lucia CANTERO"
+                },
+                {
+                    "country": "COL",
+                    "name": "Tania MURILLO"
+                },
+                {
+                    "winner": "Lucia CANTERO"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "DOM",
+                    "name": "Katherine OTANO PINA"
+                },
+                {
+                    "country": "ARG",
+                    "name": "Lucia CANTERO"
+                }
+            ]
+        ],
+        "final_winner": "Lucia CANTERO"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Eduarda ROSA"
+                },
+                {
+                    "winner": "Eduarda ROSA"
+                }
+            ],
+            [
+                {
+                    "country": "COL",
+                    "name": "Karen MURILLO"
+                },
+                {
+                    "country": "MEX",
+                    "name": "Katia CASTILLO"
+                },
+                {
+                    "winner": "Katia CASTILLO"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Eduarda ROSA"
+                },
+                {
+                    "country": "MEX",
+                    "name": "Katia CASTILLO"
+                }
+            ]
+        ],
+        "final_winner": "Eduarda ROSA"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "PER",
+                    "name": "Yumiko TANABE"
+                },
+                {
+                    "winner": "Yumiko TANABE"
+                }
+            ],
+            [
+                {
+                    "country": "CRC",
+                    "name": "Diana BRENES"
+                },
+                {
+                    "country": "CHI",
+                    "name": "Camila LAGOS"
+                },
+                {
+                    "winner": "Diana BRENES"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "PER",
+                    "name": "Yumiko TANABE"
+                },
+                {
+                    "country": "CRC",
+                    "name": "Diana BRENES"
+                }
+            ]
+        ],
+        "final_winner": "Diana BRENES"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "MEX",
+                    "name": "Julieta PEREZ"
+                },
+                {
+                    "country": "DOM",
+                    "name": "Katherine OTANO PINA"
+                },
+                {
+                    "winner": "Julieta PEREZ"
+                }
+            ],
+            [
+                {
+                    "country": "MEX",
+                    "name": "Katia CASTILLO"
+                },
+                {
+                    "country": "PER",
+                    "name": "Yumiko TANABE"
+                },
+                {
+                    "winner": "Katia CASTILLO"
+                }
+            ],
+            [
+                {
+                    "country": "MEX",
+                    "name": "Julieta PEREZ"
+                },
+                {
+                    "country": "CRC",
+                    "name": "Diana BRENES"
+                },
+                {
+                    "winner": "Diana BRENES"
+                }
+            ],
+            [
+                {
+                    "country": "MEX",
+                    "name": "Katia CASTILLO"
+                },
+                {
+                    "country": "ARG",
+                    "name": "Victoria DELVECCHIO"
+                },
+                {
+                    "winner": "Katia CASTILLO"
+                }
+            ],
+            [
+                {
+                    "country": "CRC",
+                    "name": "Diana BRENES"
+                }
+            ],
+            [
+                {
+                    "country": "MEX",
+                    "name": "Katia CASTILLO"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Diana BRENES",
+            "Katia CASTILLO"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ARG",
+                    "name": "Victoria DELVECCHIO"
+                },
+                {
+                    "country": "ARG",
+                    "name": "Lucia CANTERO"
+                },
+                {
+                    "winner": "Lucia CANTERO"
+                }
+            ],
+            [
+                {
+                    "country": "BRA",
+                    "name": "Eduarda ROSA"
+                },
+                {
+                    "country": "CRC",
+                    "name": "Diana BRENES"
+                },
+                {
+                    "winner": "Eduarda ROSA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "ARG",
+                    "name": "Lucia CANTERO"
+                },
+                {
+                    "country": "BRA",
+                    "name": "Eduarda ROSA"
+                }
+            ]
+        ],
+        "final_winner": "Eduarda ROSA"
+    }
+}

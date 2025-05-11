@@ -1,0 +1,177 @@
+{
+    "POOL A": {
+        "round 1-1": [
+            [
+                {
+                    "country": "KAZ",
+                    "name": "Daryn BEISKHANOV"
+                },
+                {
+                    "country": "UZB",
+                    "name": "Abdulloh KHUDOYOROV"
+                }
+            ]
+        ],
+        "final_winner": "Daryn BEISKHANOV"
+    },
+    "POOL B": {
+        "round 1-1": [
+            [
+                {
+                    "country": "UZB",
+                    "name": "Makhmudjon MAKHSUDOV"
+                },
+                {
+                    "country": "KGZ",
+                    "name": "Emirkhan ZHOLDOSHKAZIEV"
+                }
+            ]
+        ],
+        "final_winner": "Makhmudjon MAKHSUDOV"
+    },
+    "POOL C": {
+        "round 1-1": [
+            [
+                {
+                    "country": "KAZ",
+                    "name": "Miras ZHALELOV"
+                },
+                {
+                    "country": "UZB",
+                    "name": "Azamat RAVSHANOV"
+                }
+            ]
+        ],
+        "final_winner": "Miras ZHALELOV"
+    },
+    "POOL D": {
+        "round 1-1": [
+            [
+                {
+                    "country": "AIN",
+                    "name": "Yahor KUKHARENKA"
+                },
+                {
+                    "country": "KGZ",
+                    "name": "Orozbek ALMAZBEKOV"
+                }
+            ]
+        ],
+        "final_winner": "Yahor KUKHARENKA"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "UZB",
+                    "name": "Abdulloh KHUDOYOROV"
+                },
+                {
+                    "country": "KGZ",
+                    "name": "Emirkhan ZHOLDOSHKAZIEV"
+                },
+                {
+                    "winner": "Abdulloh KHUDOYOROV"
+                }
+            ],
+            [
+                {
+                    "country": "UZB",
+                    "name": "Azamat RAVSHANOV"
+                },
+                {
+                    "country": "KGZ",
+                    "name": "Orozbek ALMAZBEKOV"
+                },
+                {
+                    "winner": "Orozbek ALMAZBEKOV"
+                }
+            ],
+            [
+                {
+                    "country": "UZB",
+                    "name": "Abdulloh KHUDOYOROV"
+                },
+                {
+                    "country": "KAZ",
+                    "name": "Miras ZHALELOV"
+                },
+                {
+                    "winner": "Abdulloh KHUDOYOROV"
+                }
+            ],
+            [
+                {
+                    "country": "KGZ",
+                    "name": "Orozbek ALMAZBEKOV"
+                },
+                {
+                    "country": "UZB",
+                    "name": "Makhmudjon MAKHSUDOV"
+                },
+                {
+                    "winner": "Orozbek ALMAZBEKOV"
+                }
+            ],
+            [
+                {
+                    "country": "UZB",
+                    "name": "Abdulloh KHUDOYOROV"
+                }
+            ],
+            [
+                {
+                    "country": "KGZ",
+                    "name": "Orozbek ALMAZBEKOV"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Abdulloh KHUDOYOROV",
+            "Orozbek ALMAZBEKOV"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "KAZ",
+                    "name": "Daryn BEISKHANOV"
+                },
+                {
+                    "country": "UZB",
+                    "name": "Makhmudjon MAKHSUDOV"
+                },
+                {
+                    "winner": "Daryn BEISKHANOV"
+                }
+            ],
+            [
+                {
+                    "country": "KAZ",
+                    "name": "Miras ZHALELOV"
+                },
+                {
+                    "country": "AIN",
+                    "name": "Yahor KUKHARENKA"
+                },
+                {
+                    "winner": "Yahor KUKHARENKA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "KAZ",
+                    "name": "Daryn BEISKHANOV"
+                },
+                {
+                    "country": "AIN",
+                    "name": "Yahor KUKHARENKA"
+                }
+            ]
+        ],
+        "final_winner": "Yahor KUKHARENKA"
+    }
+}

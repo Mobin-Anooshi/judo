@@ -1,0 +1,177 @@
+{
+    "POOL A": {
+        "round 1-1": [
+            [
+                {
+                    "country": "USA",
+                    "name": "Leilani AKIYAMA"
+                },
+                {
+                    "country": "PER",
+                    "name": "Ariana CORNEJO"
+                }
+            ]
+        ],
+        "final_winner": "Leilani AKIYAMA"
+    },
+    "POOL B": {
+        "round 1-1": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Danielle OLIVEIRA"
+                },
+                {
+                    "country": "USA",
+                    "name": "Savannah STACEY"
+                }
+            ]
+        ],
+        "final_winner": "Danielle OLIVEIRA"
+    },
+    "POOL C": {
+        "round 1-1": [
+            [
+                {
+                    "country": "USA",
+                    "name": "Alisha GALLES"
+                },
+                {
+                    "country": "BRA",
+                    "name": "Cynthia SILVA"
+                }
+            ]
+        ],
+        "final_winner": "Alisha GALLES"
+    },
+    "POOL D": {
+        "round 1-1": [
+            [
+                {
+                    "country": "CHI",
+                    "name": "Karina ORELLANA"
+                },
+                {
+                    "country": "PER",
+                    "name": "Marisel VIVANCO CARDENAS"
+                }
+            ]
+        ],
+        "final_winner": "Karina ORELLANA"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "PER",
+                    "name": "Ariana CORNEJO"
+                },
+                {
+                    "country": "USA",
+                    "name": "Savannah STACEY"
+                },
+                {
+                    "winner": "Savannah STACEY"
+                }
+            ],
+            [
+                {
+                    "country": "BRA",
+                    "name": "Cynthia SILVA"
+                },
+                {
+                    "country": "PER",
+                    "name": "Marisel VIVANCO CARDENAS"
+                },
+                {
+                    "winner": "Cynthia SILVA"
+                }
+            ],
+            [
+                {
+                    "country": "USA",
+                    "name": "Savannah STACEY"
+                },
+                {
+                    "country": "CHI",
+                    "name": "Karina ORELLANA"
+                },
+                {
+                    "winner": "Karina ORELLANA"
+                }
+            ],
+            [
+                {
+                    "country": "BRA",
+                    "name": "Cynthia SILVA"
+                },
+                {
+                    "country": "BRA",
+                    "name": "Danielle OLIVEIRA"
+                },
+                {
+                    "winner": "Danielle OLIVEIRA"
+                }
+            ],
+            [
+                {
+                    "country": "CHI",
+                    "name": "Karina ORELLANA"
+                }
+            ],
+            [
+                {
+                    "country": "BRA",
+                    "name": "Danielle OLIVEIRA"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Karina ORELLANA",
+            "Danielle OLIVEIRA"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "USA",
+                    "name": "Leilani AKIYAMA"
+                },
+                {
+                    "country": "BRA",
+                    "name": "Danielle OLIVEIRA"
+                },
+                {
+                    "winner": "Leilani AKIYAMA"
+                }
+            ],
+            [
+                {
+                    "country": "USA",
+                    "name": "Alisha GALLES"
+                },
+                {
+                    "country": "CHI",
+                    "name": "Karina ORELLANA"
+                },
+                {
+                    "winner": "Alisha GALLES"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "USA",
+                    "name": "Leilani AKIYAMA"
+                },
+                {
+                    "country": "USA",
+                    "name": "Alisha GALLES"
+                }
+            ]
+        ],
+        "final_winner": "Alisha GALLES"
+    }
+}

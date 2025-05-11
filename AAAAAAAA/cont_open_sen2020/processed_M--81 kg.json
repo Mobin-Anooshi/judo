@@ -1,0 +1,141 @@
+{
+    "POOL A": {
+        "round 1-1": [],
+        "final_winner": "Alain APRAHAMIAN"
+    },
+    "POOL B": {
+        "round 1-1": [
+            [
+                {
+                    "country": "SEN",
+                    "name": "Saliou NDIAYE"
+                },
+                {
+                    "country": "MLI",
+                    "name": "Mohamed THERA"
+                }
+            ]
+        ],
+        "final_winner": "Saliou NDIAYE"
+    },
+    "POOL C": {
+        "round 1-1": [],
+        "final_winner": "Terence KOUAMBA"
+    },
+    "POOL D": {
+        "round 1-1": [
+            [
+                {
+                    "country": "SEN",
+                    "name": "Abo Landing DIATTA"
+                },
+                {
+                    "country": "SEN",
+                    "name": "Abdoulaye Dieng MBOUP"
+                }
+            ]
+        ],
+        "final_winner": "Abo Landing DIATTA"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "MLI",
+                    "name": "Mohamed THERA"
+                }
+            ],
+            [
+                {
+                    "country": "SEN",
+                    "name": "Abdoulaye Dieng MBOUP"
+                }
+            ],
+            [
+                {
+                    "country": "MLI",
+                    "name": "Mohamed THERA"
+                },
+                {
+                    "country": "SEN",
+                    "name": "Abo Landing DIATTA"
+                },
+                {
+                    "winner": "Abo Landing DIATTA"
+                }
+            ],
+            [
+                {
+                    "country": "SEN",
+                    "name": "Abdoulaye Dieng MBOUP"
+                },
+                {
+                    "country": "URU",
+                    "name": "Alain APRAHAMIAN"
+                },
+                {
+                    "winner": "Alain APRAHAMIAN"
+                }
+            ],
+            [
+                {
+                    "country": "SEN",
+                    "name": "Abo Landing DIATTA"
+                }
+            ],
+            [
+                {
+                    "country": "URU",
+                    "name": "Alain APRAHAMIAN"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Abo Landing DIATTA",
+            "Alain APRAHAMIAN"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "URU",
+                    "name": "Alain APRAHAMIAN"
+                },
+                {
+                    "country": "SEN",
+                    "name": "Saliou NDIAYE"
+                },
+                {
+                    "winner": "Saliou NDIAYE"
+                }
+            ],
+            [
+                {
+                    "country": "GAB",
+                    "name": "Terence KOUAMBA"
+                },
+                {
+                    "country": "SEN",
+                    "name": "Abo Landing DIATTA"
+                },
+                {
+                    "winner": "Terence KOUAMBA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "SEN",
+                    "name": "Saliou NDIAYE"
+                },
+                {
+                    "country": "GAB",
+                    "name": "Terence KOUAMBA"
+                }
+            ]
+        ],
+        "final_winner": "Saliou NDIAYE"
+    }
+}

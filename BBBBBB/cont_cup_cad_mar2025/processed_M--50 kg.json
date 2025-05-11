@@ -1,0 +1,159 @@
+{
+    "POOL A": {
+        "round 1-1": [],
+        "final_winner": "Enzo PENEZ"
+    },
+    "POOL B": {
+        "round 1-1": [
+            [
+                {
+                    "country": "MAR",
+                    "name": "Yassine ZIZI"
+                },
+                {
+                    "country": "MAR",
+                    "name": "Ayman BAAZIZ"
+                }
+            ]
+        ],
+        "final_winner": "Yassine ZIZI"
+    },
+    "POOL C": {
+        "round 1-1": [
+            [
+                {
+                    "country": "MAR",
+                    "name": "Othmane LAHJOUJI"
+                },
+                {
+                    "country": "KUW",
+                    "name": "Abdulwahab ALSHAMMARI"
+                }
+            ]
+        ],
+        "final_winner": "Othmane LAHJOUJI"
+    },
+    "POOL D": {
+        "round 1-1": [
+            [
+                {
+                    "country": "PLE",
+                    "name": "Jacob ALFAJARE"
+                },
+                {
+                    "country": "MAR",
+                    "name": "Marouane EL AMMARI"
+                }
+            ]
+        ],
+        "final_winner": "Marouane EL AMMARI"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "MAR",
+                    "name": "Ayman BAAZIZ"
+                }
+            ],
+            [
+                {
+                    "country": "KUW",
+                    "name": "Abdulwahab ALSHAMMARI"
+                },
+                {
+                    "country": "PLE",
+                    "name": "Jacob ALFAJARE"
+                },
+                {
+                    "winner": "Abdulwahab ALSHAMMARI"
+                }
+            ],
+            [
+                {
+                    "country": "MAR",
+                    "name": "Ayman BAAZIZ"
+                },
+                {
+                    "country": "MAR",
+                    "name": "Othmane LAHJOUJI"
+                },
+                {
+                    "winner": "Othmane LAHJOUJI"
+                }
+            ],
+            [
+                {
+                    "country": "KUW",
+                    "name": "Abdulwahab ALSHAMMARI"
+                },
+                {
+                    "country": "MAR",
+                    "name": "Yassine ZIZI"
+                },
+                {
+                    "winner": "Abdulwahab ALSHAMMARI"
+                }
+            ],
+            [
+                {
+                    "country": "MAR",
+                    "name": "Othmane LAHJOUJI"
+                }
+            ],
+            [
+                {
+                    "country": "KUW",
+                    "name": "Abdulwahab ALSHAMMARI"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Othmane LAHJOUJI",
+            "Abdulwahab ALSHAMMARI"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "FRA",
+                    "name": "Enzo PENEZ"
+                },
+                {
+                    "country": "MAR",
+                    "name": "Yassine ZIZI"
+                },
+                {
+                    "winner": "Enzo PENEZ"
+                }
+            ],
+            [
+                {
+                    "country": "MAR",
+                    "name": "Othmane LAHJOUJI"
+                },
+                {
+                    "country": "MAR",
+                    "name": "Marouane EL AMMARI"
+                },
+                {
+                    "winner": "Marouane EL AMMARI"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "FRA",
+                    "name": "Enzo PENEZ"
+                },
+                {
+                    "country": "MAR",
+                    "name": "Marouane EL AMMARI"
+                }
+            ]
+        ],
+        "final_winner": "Enzo PENEZ"
+    }
+}

@@ -1,0 +1,159 @@
+{
+    "POOL A": {
+        "round 1-1": [],
+        "final_winner": "Mohamed Sofiane BELREKAA"
+    },
+    "POOL B": {
+        "round 1-1": [
+            [
+                {
+                    "country": "ALG",
+                    "name": "Samir MOULLA"
+                },
+                {
+                    "country": "TUN",
+                    "name": "Mohamed BEN ZID"
+                }
+            ]
+        ],
+        "final_winner": "Samir MOULLA"
+    },
+    "POOL C": {
+        "round 1-1": [
+            [
+                {
+                    "country": "ALG",
+                    "name": "Mohamed El Mehdi LILI"
+                },
+                {
+                    "country": "ALG",
+                    "name": "Abdelkader FETOUH"
+                }
+            ]
+        ],
+        "final_winner": "Mohamed El Mehdi LILI"
+    },
+    "POOL D": {
+        "round 1-1": [
+            [
+                {
+                    "country": "CYP",
+                    "name": "Giannis ANTONIOU"
+                },
+                {
+                    "country": "ALG",
+                    "name": "Anouar Abdelkader Hichem HACHED"
+                }
+            ]
+        ],
+        "final_winner": "Giannis ANTONIOU"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "TUN",
+                    "name": "Mohamed BEN ZID"
+                }
+            ],
+            [
+                {
+                    "country": "ALG",
+                    "name": "Abdelkader FETOUH"
+                },
+                {
+                    "country": "ALG",
+                    "name": "Anouar Abdelkader Hichem HACHED"
+                },
+                {
+                    "winner": "Abdelkader FETOUH"
+                }
+            ],
+            [
+                {
+                    "country": "TUN",
+                    "name": "Mohamed BEN ZID"
+                },
+                {
+                    "country": "ALG",
+                    "name": "Mohamed El Mehdi LILI"
+                },
+                {
+                    "winner": "Mohamed El Mehdi LILI"
+                }
+            ],
+            [
+                {
+                    "country": "ALG",
+                    "name": "Abdelkader FETOUH"
+                },
+                {
+                    "country": "ALG",
+                    "name": "Samir MOULLA"
+                },
+                {
+                    "winner": "Samir MOULLA"
+                }
+            ],
+            [
+                {
+                    "country": "ALG",
+                    "name": "Mohamed El Mehdi LILI"
+                }
+            ],
+            [
+                {
+                    "country": "ALG",
+                    "name": "Samir MOULLA"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Mohamed El Mehdi LILI",
+            "Samir MOULLA"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ALG",
+                    "name": "Mohamed Sofiane BELREKAA"
+                },
+                {
+                    "country": "ALG",
+                    "name": "Samir MOULLA"
+                },
+                {
+                    "winner": "Mohamed Sofiane BELREKAA"
+                }
+            ],
+            [
+                {
+                    "country": "ALG",
+                    "name": "Mohamed El Mehdi LILI"
+                },
+                {
+                    "country": "CYP",
+                    "name": "Giannis ANTONIOU"
+                },
+                {
+                    "winner": "Giannis ANTONIOU"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "ALG",
+                    "name": "Mohamed Sofiane BELREKAA"
+                },
+                {
+                    "country": "CYP",
+                    "name": "Giannis ANTONIOU"
+                }
+            ]
+        ],
+        "final_winner": "Mohamed Sofiane BELREKAA"
+    }
+}

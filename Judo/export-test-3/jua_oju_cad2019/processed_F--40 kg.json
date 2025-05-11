@@ -1,0 +1,68 @@
+{
+    "ROUND 1": {
+        "round 1-2": [
+            [
+                {
+                    "country": "TPE",
+                    "name": "Ni CHUNG"
+                },
+                {
+                    "country": "IND",
+                    "name": "Priya PRIYA"
+                },
+                {
+                    "winner": "Ni CHUNG"
+                }
+            ],
+            [
+                {
+                    "country": "KAZ",
+                    "name": "Alima ZHUMAGALIYEVA"
+                },
+                {
+                    "country": "MGL",
+                    "name": "Ariunzaya ENKHBAATAR"
+                },
+                {
+                    "winner": "Alima ZHUMAGALIYEVA"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Ni CHUNG",
+            "Alima ZHUMAGALIYEVA"
+        ]
+    },
+    "REPECHAGE": {
+        "round 1-1": [
+            [
+                {
+                    "country": "IND",
+                    "name": "Priya PRIYA"
+                },
+                {
+                    "country": "MGL",
+                    "name": "Ariunzaya ENKHBAATAR"
+                },
+                {
+                    "winner": "Priya PRIYA"
+                }
+            ],
+            [
+                {
+                    "country": "IND",
+                    "name": "Priya PRIYA"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Priya PRIYA"
+        ]
+    },
+    "FINALS": {
+        "round 1-1": [],
+        "final_winners": [
+            "Alima ZHUMAGALIYEVA"
+        ]
+    }
+}

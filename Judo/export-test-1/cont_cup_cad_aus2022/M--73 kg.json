@@ -1,0 +1,263 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "KSA",
+                    "name": "Abdulmalik MAIMANI"
+                },
+                {
+                    "winner": "Abdulmalik MAIMANI"
+                }
+            ],
+            [
+                {
+                    "country": "AUS",
+                    "name": "Dimitrios GIANTSIOS"
+                },
+                {
+                    "winner": "Dimitrios GIANTSIOS"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "KSA",
+                    "name": "Abdulmalik MAIMANI"
+                },
+                {
+                    "country": "AUS",
+                    "name": "Dimitrios GIANTSIOS"
+                }
+            ]
+        ],
+        "final_winner": "Abdulmalik MAIMANI"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "NZL",
+                    "name": "Keir BEAMAN"
+                },
+                {
+                    "winner": "Keir BEAMAN"
+                }
+            ],
+            [
+                {
+                    "country": "AUS",
+                    "name": "Bailey EAMES"
+                },
+                {
+                    "winner": "Bailey EAMES"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "NZL",
+                    "name": "Keir BEAMAN"
+                },
+                {
+                    "country": "AUS",
+                    "name": "Bailey EAMES"
+                }
+            ]
+        ],
+        "final_winner": "Bailey EAMES"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "AUS",
+                    "name": "Keishin OCHI"
+                },
+                {
+                    "winner": "Keishin OCHI"
+                }
+            ],
+            [
+                {
+                    "country": "AUS",
+                    "name": "Lucas GARDINER"
+                },
+                {
+                    "winner": "Lucas GARDINER"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "AUS",
+                    "name": "Keishin OCHI"
+                },
+                {
+                    "country": "AUS",
+                    "name": "Lucas GARDINER"
+                }
+            ]
+        ],
+        "final_winner": "Keishin OCHI"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "AUS",
+                    "name": "Nicholas MCCLIFTY"
+                },
+                {
+                    "winner": "Nicholas MCCLIFTY"
+                }
+            ],
+            [
+                {
+                    "country": "HKG",
+                    "name": "Pak Hin NG"
+                },
+                {
+                    "winner": "Pak Hin NG"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "AUS",
+                    "name": "Nicholas MCCLIFTY"
+                },
+                {
+                    "country": "HKG",
+                    "name": "Pak Hin NG"
+                }
+            ]
+        ],
+        "final_winner": "Nicholas MCCLIFTY"
+    },
+    "REPECHAGE": {
+        "round 1-4": [
+            [],
+            [],
+            [],
+            []
+        ],
+        "round 1-2": [
+            [
+                {
+                    "country": "AUS",
+                    "name": "Dimitrios GIANTSIOS"
+                },
+                {
+                    "country": "NZL",
+                    "name": "Keir BEAMAN"
+                },
+                {
+                    "winner": "Dimitrios GIANTSIOS"
+                }
+            ],
+            [
+                {
+                    "country": "AUS",
+                    "name": "Lucas GARDINER"
+                },
+                {
+                    "country": "HKG",
+                    "name": "Pak Hin NG"
+                },
+                {
+                    "winner": "Pak Hin NG"
+                }
+            ],
+            [
+                {
+                    "country": "AUS",
+                    "name": "Dimitrios GIANTSIOS"
+                },
+                {
+                    "country": "AUS",
+                    "name": "Nicholas MCCLIFTY"
+                },
+                {
+                    "winner": "Dimitrios GIANTSIOS"
+                }
+            ],
+            [
+                {
+                    "country": "HKG",
+                    "name": "Pak Hin NG"
+                },
+                {
+                    "country": "AUS",
+                    "name": "Bailey EAMES"
+                },
+                {
+                    "winner": "Pak Hin NG"
+                }
+            ],
+            [
+                {
+                    "country": "AUS",
+                    "name": "Dimitrios GIANTSIOS"
+                }
+            ],
+            [
+                {
+                    "country": "HKG",
+                    "name": "Pak Hin NG"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Dimitrios GIANTSIOS",
+            "Pak Hin NG"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "KSA",
+                    "name": "Abdulmalik MAIMANI"
+                },
+                {
+                    "country": "AUS",
+                    "name": "Bailey EAMES"
+                },
+                {
+                    "winner": "Abdulmalik MAIMANI"
+                }
+            ],
+            [
+                {
+                    "country": "AUS",
+                    "name": "Keishin OCHI"
+                },
+                {
+                    "country": "AUS",
+                    "name": "Nicholas MCCLIFTY"
+                },
+                {
+                    "winner": "Keishin OCHI"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "KSA",
+                    "name": "Abdulmalik MAIMANI"
+                },
+                {
+                    "country": "AUS",
+                    "name": "Keishin OCHI"
+                }
+            ]
+        ],
+        "final_winner": "Abdulmalik MAIMANI"
+    }
+}

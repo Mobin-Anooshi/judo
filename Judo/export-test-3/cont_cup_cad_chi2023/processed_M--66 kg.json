@@ -1,0 +1,68 @@
+{
+    "ROUND 1": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CHI",
+                    "name": "Fabricio MEYER"
+                },
+                {
+                    "country": "CHI",
+                    "name": "Juan LEIVA"
+                },
+                {
+                    "winner": "Fabricio MEYER"
+                }
+            ],
+            [
+                {
+                    "country": "CHI",
+                    "name": "Lucas ZAMBRA"
+                },
+                {
+                    "country": "CHI",
+                    "name": "Felipe GUAJARDO"
+                },
+                {
+                    "winner": "Felipe GUAJARDO"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Fabricio MEYER",
+            "Felipe GUAJARDO"
+        ]
+    },
+    "REPECHAGE": {
+        "round 1-1": [
+            [
+                {
+                    "country": "CHI",
+                    "name": "Juan LEIVA"
+                },
+                {
+                    "country": "CHI",
+                    "name": "Lucas ZAMBRA"
+                },
+                {
+                    "winner": "Juan LEIVA"
+                }
+            ],
+            [
+                {
+                    "country": "CHI",
+                    "name": "Juan LEIVA"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Juan LEIVA"
+        ]
+    },
+    "FINALS": {
+        "round 1-1": [],
+        "final_winners": [
+            "Fabricio MEYER"
+        ]
+    }
+}

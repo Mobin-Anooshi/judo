@@ -1,0 +1,141 @@
+{
+    "POOL A": {
+        "round 1-1": [],
+        "final_winner": "Sofia BELATTAR"
+    },
+    "POOL B": {
+        "round 1-1": [
+            [
+                {
+                    "country": "NED",
+                    "name": "Dagmar VAN WONDEREN"
+                },
+                {
+                    "country": "MAR",
+                    "name": "Wafaa HADRI"
+                }
+            ]
+        ],
+        "final_winner": "Dagmar VAN WONDEREN"
+    },
+    "POOL C": {
+        "round 1-1": [],
+        "final_winner": "Florine SOULA"
+    },
+    "POOL D": {
+        "round 1-1": [
+            [
+                {
+                    "country": "CRC",
+                    "name": "Diana BRENES"
+                },
+                {
+                    "country": "MAR",
+                    "name": "Nassma ESSATOURI"
+                }
+            ]
+        ],
+        "final_winner": "Diana BRENES"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "MAR",
+                    "name": "Wafaa HADRI"
+                }
+            ],
+            [
+                {
+                    "country": "MAR",
+                    "name": "Nassma ESSATOURI"
+                }
+            ],
+            [
+                {
+                    "country": "MAR",
+                    "name": "Wafaa HADRI"
+                },
+                {
+                    "country": "CRC",
+                    "name": "Diana BRENES"
+                },
+                {
+                    "winner": "Diana BRENES"
+                }
+            ],
+            [
+                {
+                    "country": "MAR",
+                    "name": "Nassma ESSATOURI"
+                },
+                {
+                    "country": "NED",
+                    "name": "Dagmar VAN WONDEREN"
+                },
+                {
+                    "winner": "Dagmar VAN WONDEREN"
+                }
+            ],
+            [
+                {
+                    "country": "CRC",
+                    "name": "Diana BRENES"
+                }
+            ],
+            [
+                {
+                    "country": "NED",
+                    "name": "Dagmar VAN WONDEREN"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Diana BRENES",
+            "Dagmar VAN WONDEREN"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "MAR",
+                    "name": "Sofia BELATTAR"
+                },
+                {
+                    "country": "NED",
+                    "name": "Dagmar VAN WONDEREN"
+                },
+                {
+                    "winner": "Sofia BELATTAR"
+                }
+            ],
+            [
+                {
+                    "country": "FRA",
+                    "name": "Florine SOULA"
+                },
+                {
+                    "country": "CRC",
+                    "name": "Diana BRENES"
+                },
+                {
+                    "winner": "Florine SOULA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "MAR",
+                    "name": "Sofia BELATTAR"
+                },
+                {
+                    "country": "FRA",
+                    "name": "Florine SOULA"
+                }
+            ]
+        ],
+        "final_winner": "Florine SOULA"
+    }
+}

@@ -1,0 +1,205 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "TPE",
+                    "name": "Yu syuan LIN"
+                },
+                {
+                    "winner": "Yu syuan LIN"
+                }
+            ],
+            [
+                {
+                    "country": "MAC",
+                    "name": "Ka cheng LAO"
+                },
+                {
+                    "winner": "Ka cheng LAO"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "TPE",
+                    "name": "Yu syuan LIN"
+                },
+                {
+                    "country": "MAC",
+                    "name": "Ka cheng LAO"
+                }
+            ]
+        ],
+        "final_winner": "Yu syuan LIN"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [],
+            [
+                {
+                    "country": "TPE",
+                    "name": "Hui-chieh CHEN"
+                },
+                {
+                    "winner": "Hui-chieh CHEN"
+                }
+            ]
+        ],
+        "round 1-1": [],
+        "final_winner": "Hui-chieh CHEN"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "MAC",
+                    "name": "Cheng I LEI"
+                },
+                {
+                    "winner": "Cheng I LEI"
+                }
+            ],
+            [
+                {
+                    "country": "TPE",
+                    "name": "Ya-ting SUNG"
+                },
+                {
+                    "winner": "Ya-ting SUNG"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "MAC",
+                    "name": "Cheng I LEI"
+                },
+                {
+                    "country": "TPE",
+                    "name": "Ya-ting SUNG"
+                }
+            ]
+        ],
+        "final_winner": "Ya-ting SUNG"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "TPE",
+                    "name": "Shiao-chu KAO"
+                },
+                {
+                    "winner": "Shiao-chu KAO"
+                }
+            ],
+            []
+        ],
+        "round 1-1": [],
+        "final_winner": "Shiao-chu KAO"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "MAC",
+                    "name": "Ka cheng LAO"
+                }
+            ],
+            [
+                {
+                    "country": "MAC",
+                    "name": "Cheng I LEI"
+                }
+            ],
+            [
+                {
+                    "country": "MAC",
+                    "name": "Ka cheng LAO"
+                },
+                {
+                    "country": "TPE",
+                    "name": "Ya-ting SUNG"
+                },
+                {
+                    "winner": "Ya-ting SUNG"
+                }
+            ],
+            [
+                {
+                    "country": "MAC",
+                    "name": "Cheng I LEI"
+                },
+                {
+                    "country": "TPE",
+                    "name": "Hui-chieh CHEN"
+                },
+                {
+                    "winner": "Hui-chieh CHEN"
+                }
+            ],
+            [
+                {
+                    "country": "TPE",
+                    "name": "Ya-ting SUNG"
+                }
+            ],
+            [
+                {
+                    "country": "TPE",
+                    "name": "Hui-chieh CHEN"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Ya-ting SUNG",
+            "Hui-chieh CHEN"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "TPE",
+                    "name": "Yu syuan LIN"
+                },
+                {
+                    "country": "TPE",
+                    "name": "Hui-chieh CHEN"
+                },
+                {
+                    "winner": "Yu syuan LIN"
+                }
+            ],
+            [
+                {
+                    "country": "TPE",
+                    "name": "Ya-ting SUNG"
+                },
+                {
+                    "country": "TPE",
+                    "name": "Shiao-chu KAO"
+                },
+                {
+                    "winner": "Shiao-chu KAO"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "TPE",
+                    "name": "Yu syuan LIN"
+                },
+                {
+                    "country": "TPE",
+                    "name": "Shiao-chu KAO"
+                }
+            ]
+        ],
+        "final_winner": "Yu syuan LIN"
+    }
+}

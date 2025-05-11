@@ -1,0 +1,159 @@
+{
+    "POOL A": {
+        "round 1-1": [
+            [
+                {
+                    "country": "AUS",
+                    "name": "Uros NIKOLIC"
+                },
+                {
+                    "country": "AUS",
+                    "name": "Jacob MCMULLEN"
+                }
+            ]
+        ],
+        "final_winner": "Uros NIKOLIC"
+    },
+    "POOL B": {
+        "round 1-1": [
+            [
+                {
+                    "country": "HKG",
+                    "name": "Kwok Wing LEE"
+                },
+                {
+                    "country": "AUS",
+                    "name": "Matthew PEPPAS"
+                }
+            ]
+        ],
+        "final_winner": "Kwok Wing LEE"
+    },
+    "POOL C": {
+        "round 1-1": [],
+        "final_winner": "Cameron LEISHMAN"
+    },
+    "POOL D": {
+        "round 1-1": [
+            [
+                {
+                    "country": "AUS",
+                    "name": "Sam FARRINGTON"
+                },
+                {
+                    "country": "AUS",
+                    "name": "Benjamin SPINKS"
+                }
+            ]
+        ],
+        "final_winner": "Sam FARRINGTON"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "AUS",
+                    "name": "Jacob MCMULLEN"
+                },
+                {
+                    "country": "AUS",
+                    "name": "Matthew PEPPAS"
+                },
+                {
+                    "winner": "Matthew PEPPAS"
+                }
+            ],
+            [
+                {
+                    "country": "AUS",
+                    "name": "Benjamin SPINKS"
+                }
+            ],
+            [
+                {
+                    "country": "AUS",
+                    "name": "Matthew PEPPAS"
+                },
+                {
+                    "country": "AUS",
+                    "name": "Sam FARRINGTON"
+                },
+                {
+                    "winner": "Sam FARRINGTON"
+                }
+            ],
+            [
+                {
+                    "country": "AUS",
+                    "name": "Benjamin SPINKS"
+                },
+                {
+                    "country": "HKG",
+                    "name": "Kwok Wing LEE"
+                },
+                {
+                    "winner": "Kwok Wing LEE"
+                }
+            ],
+            [
+                {
+                    "country": "AUS",
+                    "name": "Sam FARRINGTON"
+                }
+            ],
+            [
+                {
+                    "country": "HKG",
+                    "name": "Kwok Wing LEE"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Sam FARRINGTON",
+            "Kwok Wing LEE"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "AUS",
+                    "name": "Uros NIKOLIC"
+                },
+                {
+                    "country": "HKG",
+                    "name": "Kwok Wing LEE"
+                },
+                {
+                    "winner": "Uros NIKOLIC"
+                }
+            ],
+            [
+                {
+                    "country": "AUS",
+                    "name": "Cameron LEISHMAN"
+                },
+                {
+                    "country": "AUS",
+                    "name": "Sam FARRINGTON"
+                },
+                {
+                    "winner": "Cameron LEISHMAN"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "AUS",
+                    "name": "Uros NIKOLIC"
+                },
+                {
+                    "country": "AUS",
+                    "name": "Cameron LEISHMAN"
+                }
+            ]
+        ],
+        "final_winner": "Uros NIKOLIC"
+    }
+}

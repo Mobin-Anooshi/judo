@@ -1,0 +1,68 @@
+{
+    "ROUND 1": {
+        "round 1-2": [
+            [
+                {
+                    "country": "EST",
+                    "name": "Kabriel KIRNA"
+                },
+                {
+                    "country": "GBR",
+                    "name": "Daniel EDE"
+                },
+                {
+                    "winner": "Kabriel KIRNA"
+                }
+            ],
+            [
+                {
+                    "country": "LAT",
+                    "name": "Janis STRAZDINS"
+                },
+                {
+                    "country": "LTU",
+                    "name": "Lukas PAULAUSKAS"
+                },
+                {
+                    "winner": "Janis STRAZDINS"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Kabriel KIRNA",
+            "Janis STRAZDINS"
+        ]
+    },
+    "REPECHAGE": {
+        "round 1-1": [
+            [
+                {
+                    "country": "GBR",
+                    "name": "Daniel EDE"
+                },
+                {
+                    "country": "LTU",
+                    "name": "Lukas PAULAUSKAS"
+                },
+                {
+                    "winner": "Daniel EDE"
+                }
+            ],
+            [
+                {
+                    "country": "GBR",
+                    "name": "Daniel EDE"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Daniel EDE"
+        ]
+    },
+    "FINALS": {
+        "round 1-1": [],
+        "final_winners": [
+            "Janis STRAZDINS"
+        ]
+    }
+}

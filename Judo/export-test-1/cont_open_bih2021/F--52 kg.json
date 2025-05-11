@@ -1,0 +1,273 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "FRA",
+                    "name": "Anais MOSDIER"
+                },
+                {
+                    "winner": "Anais MOSDIER"
+                }
+            ],
+            [
+                {
+                    "country": "NED",
+                    "name": "Rachel VAN DE MEEBERG"
+                },
+                {
+                    "country": "MNE",
+                    "name": "Ivana MILOVIC"
+                },
+                {
+                    "winner": "Rachel VAN DE MEEBERG"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "FRA",
+                    "name": "Anais MOSDIER"
+                },
+                {
+                    "country": "NED",
+                    "name": "Rachel VAN DE MEEBERG"
+                }
+            ]
+        ],
+        "final_winner": "Anais MOSDIER"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ITA",
+                    "name": "Giulia PIERUCCI"
+                },
+                {
+                    "winner": "Giulia PIERUCCI"
+                }
+            ],
+            [
+                {
+                    "country": "BIH",
+                    "name": "Mila PETROVIC"
+                },
+                {
+                    "country": "GBR",
+                    "name": "Chloe ROBYNS-LANDRICOMBE"
+                },
+                {
+                    "winner": "Chloe ROBYNS-LANDRICOMBE"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "ITA",
+                    "name": "Giulia PIERUCCI"
+                },
+                {
+                    "country": "GBR",
+                    "name": "Chloe ROBYNS-LANDRICOMBE"
+                }
+            ]
+        ],
+        "final_winner": "Giulia PIERUCCI"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "FRA",
+                    "name": "Leonie GONZALEZ"
+                },
+                {
+                    "winner": "Leonie GONZALEZ"
+                }
+            ],
+            [
+                {
+                    "country": "GBR",
+                    "name": "Kirsty MARSH"
+                },
+                {
+                    "country": "BIH",
+                    "name": "Amina CRNCALO"
+                },
+                {
+                    "winner": "Kirsty MARSH"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "FRA",
+                    "name": "Leonie GONZALEZ"
+                },
+                {
+                    "country": "GBR",
+                    "name": "Kirsty MARSH"
+                }
+            ]
+        ],
+        "final_winner": "Leonie GONZALEZ"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "HUN",
+                    "name": "Emoke KNETIG"
+                },
+                {
+                    "winner": "Emoke KNETIG"
+                }
+            ],
+            [
+                {
+                    "country": "SUI",
+                    "name": "Manon MONNARD"
+                },
+                {
+                    "country": "FRA",
+                    "name": "Julie WEILL DIT MOREY"
+                },
+                {
+                    "winner": "Julie WEILL DIT MOREY"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "HUN",
+                    "name": "Emoke KNETIG"
+                },
+                {
+                    "country": "FRA",
+                    "name": "Julie WEILL DIT MOREY"
+                }
+            ]
+        ],
+        "final_winner": "Emoke KNETIG"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "NED",
+                    "name": "Rachel VAN DE MEEBERG"
+                },
+                {
+                    "country": "GBR",
+                    "name": "Chloe ROBYNS-LANDRICOMBE"
+                },
+                {
+                    "winner": "Rachel VAN DE MEEBERG"
+                }
+            ],
+            [
+                {
+                    "country": "GBR",
+                    "name": "Kirsty MARSH"
+                },
+                {
+                    "country": "FRA",
+                    "name": "Julie WEILL DIT MOREY"
+                },
+                {
+                    "winner": "Julie WEILL DIT MOREY"
+                }
+            ],
+            [
+                {
+                    "country": "NED",
+                    "name": "Rachel VAN DE MEEBERG"
+                },
+                {
+                    "country": "HUN",
+                    "name": "Emoke KNETIG"
+                },
+                {
+                    "winner": "Emoke KNETIG"
+                }
+            ],
+            [
+                {
+                    "country": "FRA",
+                    "name": "Julie WEILL DIT MOREY"
+                },
+                {
+                    "country": "ITA",
+                    "name": "Giulia PIERUCCI"
+                },
+                {
+                    "winner": "Julie WEILL DIT MOREY"
+                }
+            ],
+            [
+                {
+                    "country": "HUN",
+                    "name": "Emoke KNETIG"
+                }
+            ],
+            [
+                {
+                    "country": "FRA",
+                    "name": "Julie WEILL DIT MOREY"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Emoke KNETIG",
+            "Julie WEILL DIT MOREY"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "FRA",
+                    "name": "Anais MOSDIER"
+                },
+                {
+                    "country": "ITA",
+                    "name": "Giulia PIERUCCI"
+                },
+                {
+                    "winner": "Anais MOSDIER"
+                }
+            ],
+            [
+                {
+                    "country": "FRA",
+                    "name": "Leonie GONZALEZ"
+                },
+                {
+                    "country": "HUN",
+                    "name": "Emoke KNETIG"
+                },
+                {
+                    "winner": "Leonie GONZALEZ"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "FRA",
+                    "name": "Anais MOSDIER"
+                },
+                {
+                    "country": "FRA",
+                    "name": "Leonie GONZALEZ"
+                }
+            ]
+        ],
+        "final_winner": "Leonie GONZALEZ"
+    }
+}

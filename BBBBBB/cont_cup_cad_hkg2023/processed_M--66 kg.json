@@ -1,0 +1,159 @@
+{
+    "POOL A": {
+        "round 1-1": [
+            [
+                {
+                    "country": "KSA",
+                    "name": "Hamad ALKHALDI"
+                },
+                {
+                    "country": "HKG",
+                    "name": "Wing Yat YEUNG"
+                }
+            ]
+        ],
+        "final_winner": "Hamad ALKHALDI"
+    },
+    "POOL B": {
+        "round 1-1": [],
+        "final_winner": "Abdulaziz FAIRAQ"
+    },
+    "POOL C": {
+        "round 1-1": [
+            [
+                {
+                    "country": "NZL",
+                    "name": "Conrad HYNES"
+                },
+                {
+                    "country": "MGL",
+                    "name": "Dalaibaatar ZORIGMANDAKH"
+                }
+            ]
+        ],
+        "final_winner": "Dalaibaatar ZORIGMANDAKH"
+    },
+    "POOL D": {
+        "round 1-1": [
+            [
+                {
+                    "country": "MAC",
+                    "name": "U Ngai TONG"
+                },
+                {
+                    "country": "KSA",
+                    "name": "Saad ALZAHRANI"
+                }
+            ]
+        ],
+        "final_winner": "Saad ALZAHRANI"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "HKG",
+                    "name": "Wing Yat YEUNG"
+                }
+            ],
+            [
+                {
+                    "country": "NZL",
+                    "name": "Conrad HYNES"
+                },
+                {
+                    "country": "MAC",
+                    "name": "U Ngai TONG"
+                },
+                {
+                    "winner": "Conrad HYNES"
+                }
+            ],
+            [
+                {
+                    "country": "HKG",
+                    "name": "Wing Yat YEUNG"
+                },
+                {
+                    "country": "KSA",
+                    "name": "Saad ALZAHRANI"
+                },
+                {
+                    "winner": "Saad ALZAHRANI"
+                }
+            ],
+            [
+                {
+                    "country": "NZL",
+                    "name": "Conrad HYNES"
+                },
+                {
+                    "country": "KSA",
+                    "name": "Hamad ALKHALDI"
+                },
+                {
+                    "winner": "Hamad ALKHALDI"
+                }
+            ],
+            [
+                {
+                    "country": "KSA",
+                    "name": "Saad ALZAHRANI"
+                }
+            ],
+            [
+                {
+                    "country": "KSA",
+                    "name": "Hamad ALKHALDI"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Saad ALZAHRANI",
+            "Hamad ALKHALDI"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "KSA",
+                    "name": "Hamad ALKHALDI"
+                },
+                {
+                    "country": "KSA",
+                    "name": "Abdulaziz FAIRAQ"
+                },
+                {
+                    "winner": "Abdulaziz FAIRAQ"
+                }
+            ],
+            [
+                {
+                    "country": "MGL",
+                    "name": "Dalaibaatar ZORIGMANDAKH"
+                },
+                {
+                    "country": "KSA",
+                    "name": "Saad ALZAHRANI"
+                },
+                {
+                    "winner": "Dalaibaatar ZORIGMANDAKH"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "KSA",
+                    "name": "Abdulaziz FAIRAQ"
+                },
+                {
+                    "country": "MGL",
+                    "name": "Dalaibaatar ZORIGMANDAKH"
+                }
+            ]
+        ],
+        "final_winner": "Abdulaziz FAIRAQ"
+    }
+}

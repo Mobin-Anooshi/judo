@@ -1,0 +1,277 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ITA",
+                    "name": "Erica SIMONETTI"
+                },
+                {
+                    "winner": "Erica SIMONETTI"
+                }
+            ],
+            [
+                {
+                    "country": "GEO",
+                    "name": "Nino PAPIDZE"
+                },
+                {
+                    "country": "BEL",
+                    "name": "Gabrielle BOUVIER"
+                },
+                {
+                    "winner": "Gabrielle BOUVIER"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "ITA",
+                    "name": "Erica SIMONETTI"
+                },
+                {
+                    "country": "BEL",
+                    "name": "Gabrielle BOUVIER"
+                }
+            ]
+        ],
+        "final_winner": "Erica SIMONETTI"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "NED",
+                    "name": "Paulien SWEERS"
+                },
+                {
+                    "country": "POL",
+                    "name": "Wiktoria LIS"
+                },
+                {
+                    "winner": "Paulien SWEERS"
+                }
+            ],
+            [
+                {
+                    "country": "ITA",
+                    "name": "Tiziana MARINI"
+                },
+                {
+                    "country": "SLO",
+                    "name": "Tara JANJIC"
+                },
+                {
+                    "winner": "Tiziana MARINI"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "NED",
+                    "name": "Paulien SWEERS"
+                },
+                {
+                    "country": "ITA",
+                    "name": "Tiziana MARINI"
+                }
+            ]
+        ],
+        "final_winner": "Paulien SWEERS"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CRO",
+                    "name": "Tina RADIC"
+                },
+                {
+                    "winner": "Tina RADIC"
+                }
+            ],
+            [
+                {
+                    "country": "SLO",
+                    "name": "Urska TORKAR"
+                },
+                {
+                    "country": "SRB",
+                    "name": "Anastasija BOGDANOVIC"
+                },
+                {
+                    "winner": "Urska TORKAR"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "CRO",
+                    "name": "Tina RADIC"
+                },
+                {
+                    "country": "SLO",
+                    "name": "Urska TORKAR"
+                }
+            ]
+        ],
+        "final_winner": "Tina RADIC"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "NED",
+                    "name": "Carmen DIJKSTRA"
+                },
+                {
+                    "winner": "Carmen DIJKSTRA"
+                }
+            ],
+            [
+                {
+                    "country": "ITA",
+                    "name": "Alessia GIORDANO"
+                },
+                {
+                    "country": "MNE",
+                    "name": "Jovana MRVALJEVIC"
+                },
+                {
+                    "winner": "Alessia GIORDANO"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "NED",
+                    "name": "Carmen DIJKSTRA"
+                },
+                {
+                    "country": "ITA",
+                    "name": "Alessia GIORDANO"
+                }
+            ]
+        ],
+        "final_winner": "Carmen DIJKSTRA"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "BEL",
+                    "name": "Gabrielle BOUVIER"
+                },
+                {
+                    "country": "ITA",
+                    "name": "Tiziana MARINI"
+                },
+                {
+                    "winner": "Tiziana MARINI"
+                }
+            ],
+            [
+                {
+                    "country": "SLO",
+                    "name": "Urska TORKAR"
+                },
+                {
+                    "country": "ITA",
+                    "name": "Alessia GIORDANO"
+                },
+                {
+                    "winner": "Urska TORKAR"
+                }
+            ],
+            [
+                {
+                    "country": "ITA",
+                    "name": "Tiziana MARINI"
+                },
+                {
+                    "country": "CRO",
+                    "name": "Tina RADIC"
+                },
+                {
+                    "winner": "Tiziana MARINI"
+                }
+            ],
+            [
+                {
+                    "country": "SLO",
+                    "name": "Urska TORKAR"
+                },
+                {
+                    "country": "NED",
+                    "name": "Paulien SWEERS"
+                },
+                {
+                    "winner": "Paulien SWEERS"
+                }
+            ],
+            [
+                {
+                    "country": "ITA",
+                    "name": "Tiziana MARINI"
+                }
+            ],
+            [
+                {
+                    "country": "NED",
+                    "name": "Paulien SWEERS"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Tiziana MARINI",
+            "Paulien SWEERS"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ITA",
+                    "name": "Erica SIMONETTI"
+                },
+                {
+                    "country": "NED",
+                    "name": "Paulien SWEERS"
+                },
+                {
+                    "winner": "Erica SIMONETTI"
+                }
+            ],
+            [
+                {
+                    "country": "CRO",
+                    "name": "Tina RADIC"
+                },
+                {
+                    "country": "NED",
+                    "name": "Carmen DIJKSTRA"
+                },
+                {
+                    "winner": "Carmen DIJKSTRA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "ITA",
+                    "name": "Erica SIMONETTI"
+                },
+                {
+                    "country": "NED",
+                    "name": "Carmen DIJKSTRA"
+                }
+            ]
+        ],
+        "final_winner": "Erica SIMONETTI"
+    }
+}

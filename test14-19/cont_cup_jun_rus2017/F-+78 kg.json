@@ -1,0 +1,244 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "RUS",
+                    "name": "Anna GUSHCHINA"
+                },
+                {
+                    "winner": "Anna GUSHCHINA"
+                }
+            ],
+            []
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "RUS",
+                    "name": "Anna GUSHCHINA"
+                }
+            ]
+        ]
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "NED",
+                    "name": "Merel BARKMAN"
+                },
+                {
+                    "winner": "Merel BARKMAN"
+                }
+            ],
+            [
+                {
+                    "country": "RUS",
+                    "name": "Evgeniia BOGDANOVA"
+                },
+                {
+                    "winner": "Evgeniia BOGDANOVA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "NED",
+                    "name": "Merel BARKMAN"
+                },
+                {
+                    "country": "RUS",
+                    "name": "Evgeniia BOGDANOVA"
+                }
+            ],
+            [
+                {
+                    "country": "NED",
+                    "name": "Merel BARKMAN"
+                }
+            ]
+        ]
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "RUS",
+                    "name": "Aleksandra KHOMYN"
+                },
+                {
+                    "winner": "Aleksandra KHOMYN"
+                }
+            ],
+            []
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "RUS",
+                    "name": "Aleksandra KHOMYN"
+                }
+            ]
+        ]
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "RUS",
+                    "name": "Sofiia PIROGOVA"
+                },
+                {
+                    "winner": "Sofiia PIROGOVA"
+                }
+            ],
+            [
+                {
+                    "country": "FRA",
+                    "name": "Rauhiti VERNAUDON"
+                },
+                {
+                    "winner": "Rauhiti VERNAUDON"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "RUS",
+                    "name": "Sofiia PIROGOVA"
+                },
+                {
+                    "country": "FRA",
+                    "name": "Rauhiti VERNAUDON"
+                }
+            ],
+            [
+                {
+                    "country": "RUS",
+                    "name": "Sofiia PIROGOVA"
+                }
+            ]
+        ]
+    },
+    "REPECHAGE": {
+        "round 1-4": [
+            [],
+            [
+                {
+                    "country": "RUS",
+                    "name": "Evgeniia BOGDANOVA"
+                },
+                {
+                    "winner": "Evgeniia BOGDANOVA"
+                }
+            ],
+            [],
+            [
+                {
+                    "country": "FRA",
+                    "name": "Rauhiti VERNAUDON"
+                },
+                {
+                    "winner": "Rauhiti VERNAUDON"
+                }
+            ]
+        ],
+        "round 1-2": [
+            [
+                {
+                    "country": "RUS",
+                    "name": "Evgeniia BOGDANOVA"
+                }
+            ],
+            [
+                {
+                    "country": "FRA",
+                    "name": "Rauhiti VERNAUDON"
+                }
+            ],
+            [
+                {
+                    "country": "RUS",
+                    "name": "Evgeniia BOGDANOVA"
+                },
+                {
+                    "country": "RUS",
+                    "name": "Aleksandra KHOMYN"
+                }
+            ],
+            [
+                {
+                    "country": "FRA",
+                    "name": "Rauhiti VERNAUDON"
+                },
+                {
+                    "country": "NED",
+                    "name": "Merel BARKMAN"
+                }
+            ],
+            [
+                {
+                    "country": "RUS",
+                    "name": "Aleksandra KHOMYN"
+                }
+            ],
+            [
+                {
+                    "country": "NED",
+                    "name": "Merel BARKMAN"
+                }
+            ]
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "RUS",
+                    "name": "Anna GUSHCHINA"
+                },
+                {
+                    "country": "NED",
+                    "name": "Merel BARKMAN"
+                },
+                {
+                    "winner": "Anna GUSHCHINA"
+                }
+            ],
+            [
+                {
+                    "country": "RUS",
+                    "name": "Aleksandra KHOMYN"
+                },
+                {
+                    "country": "RUS",
+                    "name": "Sofiia PIROGOVA"
+                },
+                {
+                    "winner": "Sofiia PIROGOVA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "RUS",
+                    "name": "Anna GUSHCHINA"
+                },
+                {
+                    "country": "RUS",
+                    "name": "Sofiia PIROGOVA"
+                }
+            ],
+            [
+                {
+                    "country": "RUS",
+                    "name": "Anna GUSHCHINA"
+                }
+            ]
+        ]
+    }
+}

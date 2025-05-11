@@ -1,0 +1,135 @@
+{
+    "POOL A": {
+        "round 1-1": [],
+        "final_winner": "Jeremy PICARD"
+    },
+    "POOL B": {
+        "round 1-1": [
+            [
+                {
+                    "country": "TGA",
+                    "name": "Sailosi EALELEI"
+                },
+                {
+                    "country": "SAM",
+                    "name": "Derek SUA"
+                }
+            ]
+        ],
+        "final_winner": "Sailosi EALELEI"
+    },
+    "POOL C": {
+        "round 1-1": [],
+        "final_winner": "Samasona TEVAEARAI"
+    },
+    "POOL D": {
+        "round 1-1": [
+            [
+                {
+                    "country": "NCL",
+                    "name": "Teva GOURIOU"
+                },
+                {
+                    "country": "SOL",
+                    "name": "Max MAETOLOA"
+                }
+            ]
+        ],
+        "final_winner": "Teva GOURIOU"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "SAM",
+                    "name": "Derek SUA"
+                }
+            ],
+            [
+                {
+                    "country": "SOL",
+                    "name": "Max MAETOLOA"
+                }
+            ],
+            [
+                {
+                    "country": "SAM",
+                    "name": "Derek SUA"
+                },
+                {
+                    "country": "PYF",
+                    "name": "Samasona TEVAEARAI"
+                },
+                {
+                    "winner": "Derek SUA"
+                }
+            ],
+            [
+                {
+                    "country": "SOL",
+                    "name": "Max MAETOLOA"
+                },
+                {
+                    "country": "TGA",
+                    "name": "Sailosi EALELEI"
+                },
+                {
+                    "winner": "Sailosi EALELEI"
+                }
+            ],
+            [
+                {
+                    "country": "TGA",
+                    "name": "Sailosi EALELEI"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Max MAETOLOA",
+            "Derek SUA"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "PYF",
+                    "name": "Jeremy PICARD"
+                },
+                {
+                    "country": "TGA",
+                    "name": "Sailosi EALELEI"
+                },
+                {
+                    "winner": "Jeremy PICARD"
+                }
+            ],
+            [
+                {
+                    "country": "PYF",
+                    "name": "Samasona TEVAEARAI"
+                },
+                {
+                    "country": "NCL",
+                    "name": "Teva GOURIOU"
+                },
+                {
+                    "winner": "Teva GOURIOU"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "PYF",
+                    "name": "Jeremy PICARD"
+                },
+                {
+                    "country": "NCL",
+                    "name": "Teva GOURIOU"
+                }
+            ]
+        ],
+        "final_winner": "Jeremy PICARD"
+    }
+}

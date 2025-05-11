@@ -1,0 +1,257 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "JPN",
+                    "name": "Hifumi ABE"
+                },
+                {
+                    "winner": "Hifumi ABE"
+                }
+            ],
+            [
+                {
+                    "country": "AZE",
+                    "name": "Iskandar TALISHINSKI"
+                },
+                {
+                    "winner": "Iskandar TALISHINSKI"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "JPN",
+                    "name": "Hifumi ABE"
+                },
+                {
+                    "country": "AZE",
+                    "name": "Iskandar TALISHINSKI"
+                }
+            ]
+        ],
+        "final_winner": "Hifumi ABE"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "RUS",
+                    "name": "Abdula ABDULZHALILOV"
+                },
+                {
+                    "winner": "Abdula ABDULZHALILOV"
+                }
+            ],
+            [
+                {
+                    "country": "JPN",
+                    "name": "Sho TATEYAMA"
+                },
+                {
+                    "winner": "Sho TATEYAMA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "RUS",
+                    "name": "Abdula ABDULZHALILOV"
+                },
+                {
+                    "country": "JPN",
+                    "name": "Sho TATEYAMA"
+                }
+            ]
+        ],
+        "final_winner": "Sho TATEYAMA"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "RUS",
+                    "name": "Yakub SHAMILOV"
+                },
+                {
+                    "winner": "Yakub SHAMILOV"
+                }
+            ],
+            [
+                {
+                    "country": "RUS",
+                    "name": "Denis LAVRENTIEV"
+                },
+                {
+                    "winner": "Denis LAVRENTIEV"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "RUS",
+                    "name": "Yakub SHAMILOV"
+                },
+                {
+                    "country": "RUS",
+                    "name": "Denis LAVRENTIEV"
+                }
+            ]
+        ],
+        "final_winner": "Yakub SHAMILOV"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "RUS",
+                    "name": "Anzaur ARDANOV"
+                },
+                {
+                    "winner": "Anzaur ARDANOV"
+                }
+            ],
+            [
+                {
+                    "country": "AZE",
+                    "name": "Vugar SHIRINLI"
+                },
+                {
+                    "winner": "Vugar SHIRINLI"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "RUS",
+                    "name": "Anzaur ARDANOV"
+                },
+                {
+                    "country": "AZE",
+                    "name": "Vugar SHIRINLI"
+                }
+            ]
+        ],
+        "final_winner": "Anzaur ARDANOV"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "AZE",
+                    "name": "Iskandar TALISHINSKI"
+                },
+                {
+                    "country": "RUS",
+                    "name": "Abdula ABDULZHALILOV"
+                },
+                {
+                    "winner": "Abdula ABDULZHALILOV"
+                }
+            ],
+            [
+                {
+                    "country": "RUS",
+                    "name": "Denis LAVRENTIEV"
+                },
+                {
+                    "country": "AZE",
+                    "name": "Vugar SHIRINLI"
+                },
+                {
+                    "winner": "Denis LAVRENTIEV"
+                }
+            ],
+            [
+                {
+                    "country": "RUS",
+                    "name": "Abdula ABDULZHALILOV"
+                },
+                {
+                    "country": "RUS",
+                    "name": "Yakub SHAMILOV"
+                },
+                {
+                    "winner": "Yakub SHAMILOV"
+                }
+            ],
+            [
+                {
+                    "country": "RUS",
+                    "name": "Denis LAVRENTIEV"
+                },
+                {
+                    "country": "JPN",
+                    "name": "Sho TATEYAMA"
+                },
+                {
+                    "winner": "Sho TATEYAMA"
+                }
+            ],
+            [
+                {
+                    "country": "RUS",
+                    "name": "Yakub SHAMILOV"
+                }
+            ],
+            [
+                {
+                    "country": "JPN",
+                    "name": "Sho TATEYAMA"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Yakub SHAMILOV",
+            "Sho TATEYAMA"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "JPN",
+                    "name": "Hifumi ABE"
+                },
+                {
+                    "country": "JPN",
+                    "name": "Sho TATEYAMA"
+                },
+                {
+                    "winner": "Hifumi ABE"
+                }
+            ],
+            [
+                {
+                    "country": "RUS",
+                    "name": "Yakub SHAMILOV"
+                },
+                {
+                    "country": "RUS",
+                    "name": "Anzaur ARDANOV"
+                },
+                {
+                    "winner": "Anzaur ARDANOV"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "JPN",
+                    "name": "Hifumi ABE"
+                },
+                {
+                    "country": "RUS",
+                    "name": "Anzaur ARDANOV"
+                }
+            ]
+        ],
+        "final_winner": "Hifumi ABE"
+    }
+}

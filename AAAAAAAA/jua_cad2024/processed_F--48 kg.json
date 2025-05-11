@@ -1,0 +1,177 @@
+{
+    "POOL A": {
+        "round 1-1": [
+            [
+                {
+                    "country": "UZB",
+                    "name": "Zuhra ALIMOVA"
+                },
+                {
+                    "country": "MGL",
+                    "name": "Ariuntsetseg SUKH"
+                }
+            ]
+        ],
+        "final_winner": "Ariuntsetseg SUKH"
+    },
+    "POOL B": {
+        "round 1-1": [
+            [
+                {
+                    "country": "KGZ",
+                    "name": "Milena BORUBOLOTOVA"
+                },
+                {
+                    "country": "JOR",
+                    "name": "Rama ALKHALAILEH"
+                }
+            ]
+        ],
+        "final_winner": "Rama ALKHALAILEH"
+    },
+    "POOL C": {
+        "round 1-1": [
+            [
+                {
+                    "country": "UZB",
+                    "name": "Nargiza DUSTMAMTOVA"
+                },
+                {
+                    "country": "KOR",
+                    "name": "Haneul YU"
+                }
+            ]
+        ],
+        "final_winner": "Haneul YU"
+    },
+    "POOL D": {
+        "round 1-1": [
+            [
+                {
+                    "country": "KAZ",
+                    "name": "Symbat TAGAY"
+                },
+                {
+                    "country": "TPE",
+                    "name": "Lebake GUMU"
+                }
+            ]
+        ],
+        "final_winner": "Symbat TAGAY"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "UZB",
+                    "name": "Zuhra ALIMOVA"
+                },
+                {
+                    "country": "KGZ",
+                    "name": "Milena BORUBOLOTOVA"
+                },
+                {
+                    "winner": "Zuhra ALIMOVA"
+                }
+            ],
+            [
+                {
+                    "country": "UZB",
+                    "name": "Nargiza DUSTMAMTOVA"
+                },
+                {
+                    "country": "TPE",
+                    "name": "Lebake GUMU"
+                },
+                {
+                    "winner": "Nargiza DUSTMAMTOVA"
+                }
+            ],
+            [
+                {
+                    "country": "UZB",
+                    "name": "Zuhra ALIMOVA"
+                },
+                {
+                    "country": "KAZ",
+                    "name": "Symbat TAGAY"
+                },
+                {
+                    "winner": "Symbat TAGAY"
+                }
+            ],
+            [
+                {
+                    "country": "UZB",
+                    "name": "Nargiza DUSTMAMTOVA"
+                },
+                {
+                    "country": "JOR",
+                    "name": "Rama ALKHALAILEH"
+                },
+                {
+                    "winner": "Nargiza DUSTMAMTOVA"
+                }
+            ],
+            [
+                {
+                    "country": "KAZ",
+                    "name": "Symbat TAGAY"
+                }
+            ],
+            [
+                {
+                    "country": "UZB",
+                    "name": "Nargiza DUSTMAMTOVA"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Symbat TAGAY",
+            "Nargiza DUSTMAMTOVA"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "MGL",
+                    "name": "Ariuntsetseg SUKH"
+                },
+                {
+                    "country": "JOR",
+                    "name": "Rama ALKHALAILEH"
+                },
+                {
+                    "winner": "Ariuntsetseg SUKH"
+                }
+            ],
+            [
+                {
+                    "country": "KOR",
+                    "name": "Haneul YU"
+                },
+                {
+                    "country": "KAZ",
+                    "name": "Symbat TAGAY"
+                },
+                {
+                    "winner": "Haneul YU"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "MGL",
+                    "name": "Ariuntsetseg SUKH"
+                },
+                {
+                    "country": "KOR",
+                    "name": "Haneul YU"
+                }
+            ]
+        ],
+        "final_winner": "Ariuntsetseg SUKH"
+    }
+}

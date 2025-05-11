@@ -1,0 +1,159 @@
+{
+    "POOL A": {
+        "round 1-1": [],
+        "final_winner": "Vanessa CHALA"
+    },
+    "POOL B": {
+        "round 1-1": [
+            [
+                {
+                    "country": "CHI",
+                    "name": "Karina VENEGAS"
+                },
+                {
+                    "country": "CHI",
+                    "name": "Adela ESPINOZA"
+                }
+            ]
+        ],
+        "final_winner": "Karina VENEGAS"
+    },
+    "POOL C": {
+        "round 1-1": [
+            [
+                {
+                    "country": "COL",
+                    "name": "Brenda OLAYA"
+                },
+                {
+                    "country": "CHI",
+                    "name": "Zunilda CHAVEZ PINANGO"
+                }
+            ]
+        ],
+        "final_winner": "Brenda OLAYA"
+    },
+    "POOL D": {
+        "round 1-1": [
+            [
+                {
+                    "country": "PUR",
+                    "name": "Sairy COLON"
+                },
+                {
+                    "country": "CHI",
+                    "name": "Vaythiare CARRASCO"
+                }
+            ]
+        ],
+        "final_winner": "Sairy COLON"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CHI",
+                    "name": "Adela ESPINOZA"
+                }
+            ],
+            [
+                {
+                    "country": "CHI",
+                    "name": "Zunilda CHAVEZ PINANGO"
+                },
+                {
+                    "country": "CHI",
+                    "name": "Vaythiare CARRASCO"
+                },
+                {
+                    "winner": "Zunilda CHAVEZ PINANGO"
+                }
+            ],
+            [
+                {
+                    "country": "CHI",
+                    "name": "Adela ESPINOZA"
+                },
+                {
+                    "country": "PUR",
+                    "name": "Sairy COLON"
+                },
+                {
+                    "winner": "Sairy COLON"
+                }
+            ],
+            [
+                {
+                    "country": "CHI",
+                    "name": "Zunilda CHAVEZ PINANGO"
+                },
+                {
+                    "country": "CHI",
+                    "name": "Karina VENEGAS"
+                },
+                {
+                    "winner": "Karina VENEGAS"
+                }
+            ],
+            [
+                {
+                    "country": "PUR",
+                    "name": "Sairy COLON"
+                }
+            ],
+            [
+                {
+                    "country": "CHI",
+                    "name": "Karina VENEGAS"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Sairy COLON",
+            "Karina VENEGAS"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ECU",
+                    "name": "Vanessa CHALA"
+                },
+                {
+                    "country": "CHI",
+                    "name": "Karina VENEGAS"
+                },
+                {
+                    "winner": "Vanessa CHALA"
+                }
+            ],
+            [
+                {
+                    "country": "COL",
+                    "name": "Brenda OLAYA"
+                },
+                {
+                    "country": "PUR",
+                    "name": "Sairy COLON"
+                },
+                {
+                    "winner": "Brenda OLAYA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "ECU",
+                    "name": "Vanessa CHALA"
+                },
+                {
+                    "country": "COL",
+                    "name": "Brenda OLAYA"
+                }
+            ]
+        ],
+        "final_winner": "Vanessa CHALA"
+    }
+}

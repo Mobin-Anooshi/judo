@@ -1,0 +1,261 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "DOM",
+                    "name": "Moira MORILLO"
+                },
+                {
+                    "winner": "Moira MORILLO"
+                }
+            ],
+            [
+                {
+                    "country": "DOM",
+                    "name": "Omaria RAMIREZ"
+                },
+                {
+                    "country": "HAI",
+                    "name": "Katiana DEVIL"
+                },
+                {
+                    "winner": "Omaria RAMIREZ"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "DOM",
+                    "name": "Moira MORILLO"
+                },
+                {
+                    "country": "DOM",
+                    "name": "Omaria RAMIREZ"
+                }
+            ]
+        ],
+        "final_winner": "Moira MORILLO"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "GBR",
+                    "name": "Sarah BARRITT"
+                },
+                {
+                    "winner": "Sarah BARRITT"
+                }
+            ],
+            [
+                {
+                    "country": "USA",
+                    "name": "Gusmary GARCIA SAVIGNE"
+                },
+                {
+                    "winner": "Gusmary GARCIA SAVIGNE"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "GBR",
+                    "name": "Sarah BARRITT"
+                },
+                {
+                    "country": "USA",
+                    "name": "Gusmary GARCIA SAVIGNE"
+                }
+            ]
+        ],
+        "final_winner": "Gusmary GARCIA SAVIGNE"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "VEN",
+                    "name": "Amarantha URDANETA"
+                },
+                {
+                    "winner": "Amarantha URDANETA"
+                }
+            ],
+            [
+                {
+                    "country": "COL",
+                    "name": "Brigitte CARABALI"
+                },
+                {
+                    "winner": "Brigitte CARABALI"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "VEN",
+                    "name": "Amarantha URDANETA"
+                },
+                {
+                    "country": "COL",
+                    "name": "Brigitte CARABALI"
+                }
+            ]
+        ],
+        "final_winner": "Amarantha URDANETA"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "USA",
+                    "name": "Mackenzie WILLIAMS"
+                },
+                {
+                    "winner": "Mackenzie WILLIAMS"
+                }
+            ],
+            [
+                {
+                    "country": "PUR",
+                    "name": "Ettelimay RAMOS SERRANO"
+                },
+                {
+                    "winner": "Ettelimay RAMOS SERRANO"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "USA",
+                    "name": "Mackenzie WILLIAMS"
+                },
+                {
+                    "country": "PUR",
+                    "name": "Ettelimay RAMOS SERRANO"
+                }
+            ]
+        ],
+        "final_winner": "Mackenzie WILLIAMS"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "DOM",
+                    "name": "Omaria RAMIREZ"
+                },
+                {
+                    "country": "GBR",
+                    "name": "Sarah BARRITT"
+                },
+                {
+                    "winner": "Omaria RAMIREZ"
+                }
+            ],
+            [
+                {
+                    "country": "COL",
+                    "name": "Brigitte CARABALI"
+                },
+                {
+                    "country": "PUR",
+                    "name": "Ettelimay RAMOS SERRANO"
+                },
+                {
+                    "winner": "Brigitte CARABALI"
+                }
+            ],
+            [
+                {
+                    "country": "DOM",
+                    "name": "Omaria RAMIREZ"
+                },
+                {
+                    "country": "VEN",
+                    "name": "Amarantha URDANETA"
+                },
+                {
+                    "winner": "Amarantha URDANETA"
+                }
+            ],
+            [
+                {
+                    "country": "COL",
+                    "name": "Brigitte CARABALI"
+                },
+                {
+                    "country": "USA",
+                    "name": "Gusmary GARCIA SAVIGNE"
+                },
+                {
+                    "winner": "Brigitte CARABALI"
+                }
+            ],
+            [
+                {
+                    "country": "VEN",
+                    "name": "Amarantha URDANETA"
+                }
+            ],
+            [
+                {
+                    "country": "COL",
+                    "name": "Brigitte CARABALI"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Amarantha URDANETA",
+            "Brigitte CARABALI"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "DOM",
+                    "name": "Moira MORILLO"
+                },
+                {
+                    "country": "USA",
+                    "name": "Gusmary GARCIA SAVIGNE"
+                },
+                {
+                    "winner": "Moira MORILLO"
+                }
+            ],
+            [
+                {
+                    "country": "VEN",
+                    "name": "Amarantha URDANETA"
+                },
+                {
+                    "country": "USA",
+                    "name": "Mackenzie WILLIAMS"
+                },
+                {
+                    "winner": "Mackenzie WILLIAMS"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "DOM",
+                    "name": "Moira MORILLO"
+                },
+                {
+                    "country": "USA",
+                    "name": "Mackenzie WILLIAMS"
+                }
+            ]
+        ],
+        "final_winner": "Moira MORILLO"
+    }
+}

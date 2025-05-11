@@ -1,0 +1,177 @@
+{
+    "POOL A": {
+        "round 1-1": [
+            [
+                {
+                    "country": "CRO",
+                    "name": "Tina RADIC"
+                },
+                {
+                    "country": "SLO",
+                    "name": "Tara JANJIC"
+                }
+            ]
+        ],
+        "final_winner": "Tina RADIC"
+    },
+    "POOL B": {
+        "round 1-1": [
+            [
+                {
+                    "country": "BIH",
+                    "name": "Lana BJELICA"
+                },
+                {
+                    "country": "ROU",
+                    "name": "Thalia CASTELLANO NARINO"
+                }
+            ]
+        ],
+        "final_winner": "Thalia CASTELLANO NARINO"
+    },
+    "POOL C": {
+        "round 1-1": [
+            [
+                {
+                    "country": "BIH",
+                    "name": "Sara MARIC"
+                },
+                {
+                    "country": "ROU",
+                    "name": "Daria TUDORACHE"
+                }
+            ]
+        ],
+        "final_winner": "Sara MARIC"
+    },
+    "POOL D": {
+        "round 1-1": [
+            [
+                {
+                    "country": "ROU",
+                    "name": "Paula PASTIU"
+                },
+                {
+                    "country": "SLO",
+                    "name": "Urska TORKAR"
+                }
+            ]
+        ],
+        "final_winner": "Urska TORKAR"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "SLO",
+                    "name": "Tara JANJIC"
+                },
+                {
+                    "country": "BIH",
+                    "name": "Lana BJELICA"
+                },
+                {
+                    "winner": "Lana BJELICA"
+                }
+            ],
+            [
+                {
+                    "country": "ROU",
+                    "name": "Daria TUDORACHE"
+                },
+                {
+                    "country": "ROU",
+                    "name": "Paula PASTIU"
+                },
+                {
+                    "winner": "Daria TUDORACHE"
+                }
+            ],
+            [
+                {
+                    "country": "BIH",
+                    "name": "Lana BJELICA"
+                },
+                {
+                    "country": "BIH",
+                    "name": "Sara MARIC"
+                },
+                {
+                    "winner": "Lana BJELICA"
+                }
+            ],
+            [
+                {
+                    "country": "ROU",
+                    "name": "Daria TUDORACHE"
+                },
+                {
+                    "country": "ROU",
+                    "name": "Thalia CASTELLANO NARINO"
+                },
+                {
+                    "winner": "Thalia CASTELLANO NARINO"
+                }
+            ],
+            [
+                {
+                    "country": "BIH",
+                    "name": "Lana BJELICA"
+                }
+            ],
+            [
+                {
+                    "country": "ROU",
+                    "name": "Thalia CASTELLANO NARINO"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Lana BJELICA",
+            "Thalia CASTELLANO NARINO"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CRO",
+                    "name": "Tina RADIC"
+                },
+                {
+                    "country": "ROU",
+                    "name": "Thalia CASTELLANO NARINO"
+                },
+                {
+                    "winner": "Tina RADIC"
+                }
+            ],
+            [
+                {
+                    "country": "BIH",
+                    "name": "Sara MARIC"
+                },
+                {
+                    "country": "SLO",
+                    "name": "Urska TORKAR"
+                },
+                {
+                    "winner": "Urska TORKAR"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "CRO",
+                    "name": "Tina RADIC"
+                },
+                {
+                    "country": "SLO",
+                    "name": "Urska TORKAR"
+                }
+            ]
+        ],
+        "final_winner": "Tina RADIC"
+    }
+}

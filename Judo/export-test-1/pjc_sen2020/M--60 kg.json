@@ -1,0 +1,159 @@
+{
+    "POOL A": {
+        "round 1-1": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Eric TAKABATAKE"
+                },
+                {
+                    "country": "MEX",
+                    "name": "Moises ROSADO"
+                }
+            ]
+        ],
+        "final_winner": "Eric TAKABATAKE"
+    },
+    "POOL B": {
+        "round 1-1": [
+            [
+                {
+                    "country": "ECU",
+                    "name": "Steven MOROCHO"
+                },
+                {
+                    "country": "PER",
+                    "name": "Dilmer CALLE MOROCHO"
+                }
+            ]
+        ],
+        "final_winner": "Steven MOROCHO"
+    },
+    "POOL C": {
+        "round 1-1": [
+            [
+                {
+                    "country": "ECU",
+                    "name": "Lenin PRECIADO"
+                },
+                {
+                    "country": "PER",
+                    "name": "Alexander RAMIREZ"
+                }
+            ]
+        ],
+        "final_winner": "Lenin PRECIADO"
+    },
+    "POOL D": {
+        "round 1-1": [],
+        "final_winner": "Adonis DIAZ"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "MEX",
+                    "name": "Moises ROSADO"
+                },
+                {
+                    "country": "PER",
+                    "name": "Dilmer CALLE MOROCHO"
+                },
+                {
+                    "winner": "Dilmer CALLE MOROCHO"
+                }
+            ],
+            [
+                {
+                    "country": "PER",
+                    "name": "Alexander RAMIREZ"
+                }
+            ],
+            [
+                {
+                    "country": "PER",
+                    "name": "Dilmer CALLE MOROCHO"
+                },
+                {
+                    "country": "ECU",
+                    "name": "Lenin PRECIADO"
+                },
+                {
+                    "winner": "Lenin PRECIADO"
+                }
+            ],
+            [
+                {
+                    "country": "PER",
+                    "name": "Alexander RAMIREZ"
+                },
+                {
+                    "country": "ECU",
+                    "name": "Steven MOROCHO"
+                },
+                {
+                    "winner": "Steven MOROCHO"
+                }
+            ],
+            [
+                {
+                    "country": "ECU",
+                    "name": "Lenin PRECIADO"
+                }
+            ],
+            [
+                {
+                    "country": "ECU",
+                    "name": "Steven MOROCHO"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Lenin PRECIADO",
+            "Steven MOROCHO"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Eric TAKABATAKE"
+                },
+                {
+                    "country": "ECU",
+                    "name": "Steven MOROCHO"
+                },
+                {
+                    "winner": "Eric TAKABATAKE"
+                }
+            ],
+            [
+                {
+                    "country": "ECU",
+                    "name": "Lenin PRECIADO"
+                },
+                {
+                    "country": "USA",
+                    "name": "Adonis DIAZ"
+                },
+                {
+                    "winner": "Adonis DIAZ"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Eric TAKABATAKE"
+                },
+                {
+                    "country": "USA",
+                    "name": "Adonis DIAZ"
+                }
+            ]
+        ],
+        "final_winner": "Eric TAKABATAKE"
+    }
+}

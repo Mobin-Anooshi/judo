@@ -1,0 +1,68 @@
+{
+    "ROUND 1": {
+        "round 1-2": [
+            [
+                {
+                    "country": "MAR",
+                    "name": "Mohammed LAHBOUB"
+                },
+                {
+                    "country": "UAE",
+                    "name": "Mansour ABDULRAHMAN"
+                },
+                {
+                    "winner": "Mohammed LAHBOUB"
+                }
+            ],
+            [
+                {
+                    "country": "ALG",
+                    "name": "Mohamed El Mehdi LILI"
+                },
+                {
+                    "country": "JOR",
+                    "name": "Hussein AYYAL SALMAN"
+                },
+                {
+                    "winner": "Mohamed El Mehdi LILI"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Mohammed LAHBOUB",
+            "Mohamed El Mehdi LILI"
+        ]
+    },
+    "REPECHAGE": {
+        "round 1-1": [
+            [
+                {
+                    "country": "UAE",
+                    "name": "Mansour ABDULRAHMAN"
+                },
+                {
+                    "country": "JOR",
+                    "name": "Hussein AYYAL SALMAN"
+                },
+                {
+                    "winner": "Hussein AYYAL SALMAN"
+                }
+            ],
+            [
+                {
+                    "country": "JOR",
+                    "name": "Hussein AYYAL SALMAN"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Hussein AYYAL SALMAN"
+        ]
+    },
+    "FINALS": {
+        "round 1-1": [],
+        "final_winners": [
+            "Mohamed El Mehdi LILI"
+        ]
+    }
+}

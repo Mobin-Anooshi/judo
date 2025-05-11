@@ -1,0 +1,261 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ALG",
+                    "name": "Sonia ASSELAH"
+                },
+                {
+                    "winner": "Sonia ASSELAH"
+                }
+            ],
+            [
+                {
+                    "country": "ALG",
+                    "name": "Nermine GRAOUA"
+                },
+                {
+                    "country": "ZIM",
+                    "name": "Christi-Rose PRETORIUS"
+                },
+                {
+                    "winner": "Christi-Rose PRETORIUS"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "ALG",
+                    "name": "Sonia ASSELAH"
+                },
+                {
+                    "country": "ZIM",
+                    "name": "Christi-Rose PRETORIUS"
+                }
+            ]
+        ],
+        "final_winner": "Sonia ASSELAH"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ALG",
+                    "name": "Meroua MAMMERI"
+                },
+                {
+                    "winner": "Meroua MAMMERI"
+                }
+            ],
+            [
+                {
+                    "country": "SEN",
+                    "name": "Georgette SAGNA"
+                },
+                {
+                    "winner": "Georgette SAGNA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "ALG",
+                    "name": "Meroua MAMMERI"
+                },
+                {
+                    "country": "SEN",
+                    "name": "Georgette SAGNA"
+                }
+            ]
+        ],
+        "final_winner": "Georgette SAGNA"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "SEN",
+                    "name": "Monica SAGNA"
+                },
+                {
+                    "winner": "Monica SAGNA"
+                }
+            ],
+            [
+                {
+                    "country": "ALG",
+                    "name": "Yousra MECHEBBEK"
+                },
+                {
+                    "winner": "Yousra MECHEBBEK"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "SEN",
+                    "name": "Monica SAGNA"
+                },
+                {
+                    "country": "ALG",
+                    "name": "Yousra MECHEBBEK"
+                }
+            ]
+        ],
+        "final_winner": "Monica SAGNA"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "TUN",
+                    "name": "Sarra MZOUGUI"
+                },
+                {
+                    "winner": "Sarra MZOUGUI"
+                }
+            ],
+            [
+                {
+                    "country": "TUN",
+                    "name": "Zeineb TROUDI"
+                },
+                {
+                    "winner": "Zeineb TROUDI"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "TUN",
+                    "name": "Sarra MZOUGUI"
+                },
+                {
+                    "country": "TUN",
+                    "name": "Zeineb TROUDI"
+                }
+            ]
+        ],
+        "final_winner": "Sarra MZOUGUI"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ZIM",
+                    "name": "Christi-Rose PRETORIUS"
+                },
+                {
+                    "country": "ALG",
+                    "name": "Meroua MAMMERI"
+                },
+                {
+                    "winner": "Christi-Rose PRETORIUS"
+                }
+            ],
+            [
+                {
+                    "country": "ALG",
+                    "name": "Yousra MECHEBBEK"
+                },
+                {
+                    "country": "TUN",
+                    "name": "Zeineb TROUDI"
+                },
+                {
+                    "winner": "Yousra MECHEBBEK"
+                }
+            ],
+            [
+                {
+                    "country": "ZIM",
+                    "name": "Christi-Rose PRETORIUS"
+                },
+                {
+                    "country": "SEN",
+                    "name": "Monica SAGNA"
+                },
+                {
+                    "winner": "Monica SAGNA"
+                }
+            ],
+            [
+                {
+                    "country": "ALG",
+                    "name": "Yousra MECHEBBEK"
+                },
+                {
+                    "country": "SEN",
+                    "name": "Georgette SAGNA"
+                },
+                {
+                    "winner": "Georgette SAGNA"
+                }
+            ],
+            [
+                {
+                    "country": "SEN",
+                    "name": "Monica SAGNA"
+                }
+            ],
+            [
+                {
+                    "country": "SEN",
+                    "name": "Georgette SAGNA"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Monica SAGNA",
+            "Georgette SAGNA"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ALG",
+                    "name": "Sonia ASSELAH"
+                },
+                {
+                    "country": "SEN",
+                    "name": "Georgette SAGNA"
+                },
+                {
+                    "winner": "Sonia ASSELAH"
+                }
+            ],
+            [
+                {
+                    "country": "SEN",
+                    "name": "Monica SAGNA"
+                },
+                {
+                    "country": "TUN",
+                    "name": "Sarra MZOUGUI"
+                },
+                {
+                    "winner": "Sarra MZOUGUI"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "ALG",
+                    "name": "Sonia ASSELAH"
+                },
+                {
+                    "country": "TUN",
+                    "name": "Sarra MZOUGUI"
+                }
+            ]
+        ],
+        "final_winner": "Sarra MZOUGUI"
+    }
+}

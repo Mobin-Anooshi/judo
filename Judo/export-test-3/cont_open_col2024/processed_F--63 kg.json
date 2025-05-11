@@ -1,0 +1,68 @@
+{
+    "ROUND 1": {
+        "round 1-2": [
+            [
+                {
+                    "country": "USA",
+                    "name": "Sara GOLDEN"
+                },
+                {
+                    "country": "COL",
+                    "name": "Ingrid CHOCO"
+                },
+                {
+                    "winner": "Sara GOLDEN"
+                }
+            ],
+            [
+                {
+                    "country": "COL",
+                    "name": "Cindy MERA"
+                },
+                {
+                    "country": "CHI",
+                    "name": "Marcela ALFARO"
+                },
+                {
+                    "winner": "Cindy MERA"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Sara GOLDEN",
+            "Cindy MERA"
+        ]
+    },
+    "REPECHAGE": {
+        "round 1-1": [
+            [
+                {
+                    "country": "COL",
+                    "name": "Ingrid CHOCO"
+                },
+                {
+                    "country": "CHI",
+                    "name": "Marcela ALFARO"
+                },
+                {
+                    "winner": "Marcela ALFARO"
+                }
+            ],
+            [
+                {
+                    "country": "CHI",
+                    "name": "Marcela ALFARO"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Marcela ALFARO"
+        ]
+    },
+    "FINALS": {
+        "round 1-1": [],
+        "final_winners": [
+            "Cindy MERA"
+        ]
+    }
+}

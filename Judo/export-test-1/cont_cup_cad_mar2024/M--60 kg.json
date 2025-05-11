@@ -1,0 +1,177 @@
+{
+    "POOL A": {
+        "round 1-1": [
+            [
+                {
+                    "country": "MAR",
+                    "name": "Ilias IJIOUI"
+                },
+                {
+                    "country": "MAR",
+                    "name": "Youness IZEM"
+                }
+            ]
+        ],
+        "final_winner": "Ilias IJIOUI"
+    },
+    "POOL B": {
+        "round 1-1": [
+            [
+                {
+                    "country": "MAR",
+                    "name": "Amjad KARDOUD"
+                },
+                {
+                    "country": "MAR",
+                    "name": "Amine BOURANJA"
+                }
+            ]
+        ],
+        "final_winner": "Amine BOURANJA"
+    },
+    "POOL C": {
+        "round 1-1": [
+            [
+                {
+                    "country": "SLO",
+                    "name": "Karim VEINHANDL"
+                },
+                {
+                    "country": "MAR",
+                    "name": "Abderrahmane LAMBARRAA"
+                }
+            ]
+        ],
+        "final_winner": "Abderrahmane LAMBARRAA"
+    },
+    "POOL D": {
+        "round 1-1": [
+            [
+                {
+                    "country": "MAR",
+                    "name": "Mehdi EL AOUAD"
+                },
+                {
+                    "country": "MAR",
+                    "name": "Yahya NASIME"
+                }
+            ]
+        ],
+        "final_winner": "Mehdi EL AOUAD"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "MAR",
+                    "name": "Youness IZEM"
+                },
+                {
+                    "country": "MAR",
+                    "name": "Amjad KARDOUD"
+                },
+                {
+                    "winner": "Amjad KARDOUD"
+                }
+            ],
+            [
+                {
+                    "country": "SLO",
+                    "name": "Karim VEINHANDL"
+                },
+                {
+                    "country": "MAR",
+                    "name": "Yahya NASIME"
+                },
+                {
+                    "winner": "Karim VEINHANDL"
+                }
+            ],
+            [
+                {
+                    "country": "MAR",
+                    "name": "Amjad KARDOUD"
+                },
+                {
+                    "country": "MAR",
+                    "name": "Abderrahmane LAMBARRAA"
+                },
+                {
+                    "winner": "Abderrahmane LAMBARRAA"
+                }
+            ],
+            [
+                {
+                    "country": "SLO",
+                    "name": "Karim VEINHANDL"
+                },
+                {
+                    "country": "MAR",
+                    "name": "Amine BOURANJA"
+                },
+                {
+                    "winner": "Amine BOURANJA"
+                }
+            ],
+            [
+                {
+                    "country": "MAR",
+                    "name": "Abderrahmane LAMBARRAA"
+                }
+            ],
+            [
+                {
+                    "country": "MAR",
+                    "name": "Amine BOURANJA"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Abderrahmane LAMBARRAA",
+            "Amine BOURANJA"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "MAR",
+                    "name": "Ilias IJIOUI"
+                },
+                {
+                    "country": "MAR",
+                    "name": "Amine BOURANJA"
+                },
+                {
+                    "winner": "Ilias IJIOUI"
+                }
+            ],
+            [
+                {
+                    "country": "MAR",
+                    "name": "Abderrahmane LAMBARRAA"
+                },
+                {
+                    "country": "MAR",
+                    "name": "Mehdi EL AOUAD"
+                },
+                {
+                    "winner": "Mehdi EL AOUAD"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "MAR",
+                    "name": "Ilias IJIOUI"
+                },
+                {
+                    "country": "MAR",
+                    "name": "Mehdi EL AOUAD"
+                }
+            ]
+        ],
+        "final_winner": "Ilias IJIOUI"
+    }
+}

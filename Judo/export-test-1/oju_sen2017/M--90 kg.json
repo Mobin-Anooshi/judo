@@ -1,0 +1,159 @@
+{
+    "POOL A": {
+        "round 1-1": [],
+        "final_winner": "Sebastian TEMESI"
+    },
+    "POOL B": {
+        "round 1-1": [
+            [
+                {
+                    "country": "NCL",
+                    "name": "Claude OBRIAN CRETIN"
+                },
+                {
+                    "country": "NZL",
+                    "name": "Ockert STEYN"
+                }
+            ]
+        ],
+        "final_winner": "Claude OBRIAN CRETIN"
+    },
+    "POOL C": {
+        "round 1-1": [
+            [
+                {
+                    "country": "AUS",
+                    "name": "Diego de souza BARRETO"
+                },
+                {
+                    "country": "VAN",
+                    "name": "Nicolas MONVOISIN"
+                }
+            ]
+        ],
+        "final_winner": "Diego de souza BARRETO"
+    },
+    "POOL D": {
+        "round 1-1": [
+            [
+                {
+                    "country": "NCL",
+                    "name": "Teva GOURIOU"
+                },
+                {
+                    "country": "FIJ",
+                    "name": "Josateki NAULU"
+                }
+            ]
+        ],
+        "final_winner": "Teva GOURIOU"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "NZL",
+                    "name": "Ockert STEYN"
+                }
+            ],
+            [
+                {
+                    "country": "VAN",
+                    "name": "Nicolas MONVOISIN"
+                },
+                {
+                    "country": "FIJ",
+                    "name": "Josateki NAULU"
+                },
+                {
+                    "winner": "Josateki NAULU"
+                }
+            ],
+            [
+                {
+                    "country": "NZL",
+                    "name": "Ockert STEYN"
+                },
+                {
+                    "country": "AUS",
+                    "name": "Diego de souza BARRETO"
+                },
+                {
+                    "winner": "Diego de souza BARRETO"
+                }
+            ],
+            [
+                {
+                    "country": "FIJ",
+                    "name": "Josateki NAULU"
+                },
+                {
+                    "country": "NCL",
+                    "name": "Claude OBRIAN CRETIN"
+                },
+                {
+                    "winner": "Josateki NAULU"
+                }
+            ],
+            [
+                {
+                    "country": "AUS",
+                    "name": "Diego de souza BARRETO"
+                }
+            ],
+            [
+                {
+                    "country": "FIJ",
+                    "name": "Josateki NAULU"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Diego de souza BARRETO",
+            "Josateki NAULU"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "AUS",
+                    "name": "Sebastian TEMESI"
+                },
+                {
+                    "country": "NCL",
+                    "name": "Claude OBRIAN CRETIN"
+                },
+                {
+                    "winner": "Sebastian TEMESI"
+                }
+            ],
+            [
+                {
+                    "country": "AUS",
+                    "name": "Diego de souza BARRETO"
+                },
+                {
+                    "country": "NCL",
+                    "name": "Teva GOURIOU"
+                },
+                {
+                    "winner": "Teva GOURIOU"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "AUS",
+                    "name": "Sebastian TEMESI"
+                },
+                {
+                    "country": "NCL",
+                    "name": "Teva GOURIOU"
+                }
+            ]
+        ],
+        "final_winner": "Sebastian TEMESI"
+    }
+}

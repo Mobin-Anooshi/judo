@@ -1,0 +1,177 @@
+{
+    "POOL A": {
+        "round 1-1": [
+            [
+                {
+                    "country": "TUN",
+                    "name": "Zeineb TROUDI"
+                },
+                {
+                    "country": "ALG",
+                    "name": "Razene Yasmine YOUSFI"
+                }
+            ]
+        ],
+        "final_winner": "Zeineb TROUDI"
+    },
+    "POOL B": {
+        "round 1-1": [
+            [
+                {
+                    "country": "MAR",
+                    "name": "Taouab ABOULIZZA"
+                },
+                {
+                    "country": "TUN",
+                    "name": "Cherifa SABBAGH"
+                }
+            ]
+        ],
+        "final_winner": "Cherifa SABBAGH"
+    },
+    "POOL C": {
+        "round 1-1": [
+            [
+                {
+                    "country": "ALG",
+                    "name": "Nermine GRAOUA"
+                },
+                {
+                    "country": "TUN",
+                    "name": "Wala CHERNI"
+                }
+            ]
+        ],
+        "final_winner": "Wala CHERNI"
+    },
+    "POOL D": {
+        "round 1-1": [
+            [
+                {
+                    "country": "ALG",
+                    "name": "Meroua MAMMERI"
+                },
+                {
+                    "country": "TUN",
+                    "name": "Siwar BEN ZID"
+                }
+            ]
+        ],
+        "final_winner": "Meroua MAMMERI"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ALG",
+                    "name": "Razene Yasmine YOUSFI"
+                },
+                {
+                    "country": "MAR",
+                    "name": "Taouab ABOULIZZA"
+                },
+                {
+                    "winner": "Razene Yasmine YOUSFI"
+                }
+            ],
+            [
+                {
+                    "country": "ALG",
+                    "name": "Nermine GRAOUA"
+                },
+                {
+                    "country": "TUN",
+                    "name": "Siwar BEN ZID"
+                },
+                {
+                    "winner": "Nermine GRAOUA"
+                }
+            ],
+            [
+                {
+                    "country": "ALG",
+                    "name": "Razene Yasmine YOUSFI"
+                },
+                {
+                    "country": "TUN",
+                    "name": "Wala CHERNI"
+                },
+                {
+                    "winner": "Wala CHERNI"
+                }
+            ],
+            [
+                {
+                    "country": "ALG",
+                    "name": "Nermine GRAOUA"
+                },
+                {
+                    "country": "TUN",
+                    "name": "Cherifa SABBAGH"
+                },
+                {
+                    "winner": "Cherifa SABBAGH"
+                }
+            ],
+            [
+                {
+                    "country": "TUN",
+                    "name": "Wala CHERNI"
+                }
+            ],
+            [
+                {
+                    "country": "TUN",
+                    "name": "Cherifa SABBAGH"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Wala CHERNI",
+            "Cherifa SABBAGH"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "TUN",
+                    "name": "Zeineb TROUDI"
+                },
+                {
+                    "country": "TUN",
+                    "name": "Cherifa SABBAGH"
+                },
+                {
+                    "winner": "Zeineb TROUDI"
+                }
+            ],
+            [
+                {
+                    "country": "TUN",
+                    "name": "Wala CHERNI"
+                },
+                {
+                    "country": "ALG",
+                    "name": "Meroua MAMMERI"
+                },
+                {
+                    "winner": "Meroua MAMMERI"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "TUN",
+                    "name": "Zeineb TROUDI"
+                },
+                {
+                    "country": "ALG",
+                    "name": "Meroua MAMMERI"
+                }
+            ]
+        ],
+        "final_winner": "Meroua MAMMERI"
+    }
+}

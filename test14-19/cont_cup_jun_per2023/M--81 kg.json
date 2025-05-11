@@ -1,0 +1,172 @@
+{
+    "POOL A": {
+        "round 1-1": [
+            [
+                {
+                    "country": "MEX",
+                    "name": "Enders JUAREZ"
+                }
+            ]
+        ]
+    },
+    "POOL B": {
+        "round 1-1": [
+            [
+                {
+                    "country": "PER",
+                    "name": "Rhances MIERES"
+                },
+                {
+                    "country": "PER",
+                    "name": "Jorge SUAREZ"
+                }
+            ],
+            [
+                {
+                    "country": "PER",
+                    "name": "Rhances MIERES"
+                }
+            ]
+        ]
+    },
+    "POOL C": {
+        "round 1-1": [
+            [
+                {
+                    "country": "VEN",
+                    "name": "Luis PARICHE"
+                },
+                {
+                    "country": "PER",
+                    "name": "Sebastian BENITES"
+                }
+            ],
+            [
+                {
+                    "country": "VEN",
+                    "name": "Luis PARICHE"
+                }
+            ]
+        ]
+    },
+    "POOL D": {
+        "round 1-1": [
+            [
+                {
+                    "country": "PAR",
+                    "name": "Diego NOGUERA"
+                },
+                {
+                    "country": "PER",
+                    "name": "Joshua RAMIRES"
+                }
+            ],
+            [
+                {
+                    "country": "PAR",
+                    "name": "Diego NOGUERA"
+                }
+            ]
+        ]
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "PER",
+                    "name": "Jorge SUAREZ"
+                }
+            ],
+            [
+                {
+                    "country": "PER",
+                    "name": "Sebastian BENITES"
+                },
+                {
+                    "country": "PER",
+                    "name": "Joshua RAMIRES"
+                }
+            ],
+            [
+                {
+                    "country": "PER",
+                    "name": "Jorge SUAREZ"
+                },
+                {
+                    "country": "PAR",
+                    "name": "Diego NOGUERA"
+                }
+            ],
+            [
+                {
+                    "country": "PER",
+                    "name": "Sebastian BENITES"
+                },
+                {
+                    "country": "PER",
+                    "name": "Rhances MIERES"
+                }
+            ],
+            [
+                {
+                    "country": "PAR",
+                    "name": "Diego NOGUERA"
+                }
+            ],
+            [
+                {
+                    "country": "PER",
+                    "name": "Sebastian BENITES"
+                }
+            ]
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "MEX",
+                    "name": "Enders JUAREZ"
+                },
+                {
+                    "country": "PER",
+                    "name": "Rhances MIERES"
+                },
+                {
+                    "winner": "Enders JUAREZ"
+                }
+            ],
+            [
+                {
+                    "country": "VEN",
+                    "name": "Luis PARICHE"
+                },
+                {
+                    "country": "PAR",
+                    "name": "Diego NOGUERA"
+                },
+                {
+                    "winner": "Luis PARICHE"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "MEX",
+                    "name": "Enders JUAREZ"
+                },
+                {
+                    "country": "VEN",
+                    "name": "Luis PARICHE"
+                }
+            ],
+            [
+                {
+                    "country": "VEN",
+                    "name": "Luis PARICHE"
+                }
+            ]
+        ]
+    }
+}

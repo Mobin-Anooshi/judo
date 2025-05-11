@@ -1,0 +1,274 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ROU",
+                    "name": "Daniel NATEA"
+                },
+                {
+                    "winner": "Daniel NATEA"
+                }
+            ],
+            [
+                {
+                    "country": "SLO",
+                    "name": "Vito DRAGIC"
+                },
+                {
+                    "country": "BRA",
+                    "name": "Joao CESARINO"
+                },
+                {
+                    "winner": "Joao CESARINO"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "ROU",
+                    "name": "Daniel NATEA"
+                },
+                {
+                    "country": "BRA",
+                    "name": "Joao CESARINO"
+                }
+            ],
+            [
+                {
+                    "country": "ROU",
+                    "name": "Daniel NATEA"
+                }
+            ]
+        ]
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "RUS",
+                    "name": "Soslan BOSTANOV"
+                },
+                {
+                    "winner": "Soslan BOSTANOV"
+                }
+            ],
+            [
+                {
+                    "country": "CZE",
+                    "name": "Michal HORAK"
+                },
+                {
+                    "winner": "Michal HORAK"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "RUS",
+                    "name": "Soslan BOSTANOV"
+                },
+                {
+                    "country": "CZE",
+                    "name": "Michal HORAK"
+                }
+            ],
+            [
+                {
+                    "country": "RUS",
+                    "name": "Soslan BOSTANOV"
+                }
+            ]
+        ]
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "David MOURA"
+                },
+                {
+                    "winner": "David MOURA"
+                }
+            ],
+            [
+                {
+                    "country": "RUS",
+                    "name": "Anton BRACHEV"
+                },
+                {
+                    "country": "ROU",
+                    "name": "Mircea CROITORU"
+                },
+                {
+                    "winner": "Anton BRACHEV"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "David MOURA"
+                },
+                {
+                    "country": "RUS",
+                    "name": "Anton BRACHEV"
+                }
+            ],
+            [
+                {
+                    "country": "RUS",
+                    "name": "Anton BRACHEV"
+                }
+            ]
+        ]
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "BLR",
+                    "name": "Aliaksandr VAKHAVIAK"
+                },
+                {
+                    "winner": "Aliaksandr VAKHAVIAK"
+                }
+            ],
+            [
+                {
+                    "country": "FRA",
+                    "name": "Nabil ZALAGH"
+                },
+                {
+                    "winner": "Nabil ZALAGH"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "BLR",
+                    "name": "Aliaksandr VAKHAVIAK"
+                },
+                {
+                    "country": "FRA",
+                    "name": "Nabil ZALAGH"
+                }
+            ],
+            [
+                {
+                    "country": "BLR",
+                    "name": "Aliaksandr VAKHAVIAK"
+                }
+            ]
+        ]
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Joao CESARINO"
+                },
+                {
+                    "country": "CZE",
+                    "name": "Michal HORAK"
+                }
+            ],
+            [
+                {
+                    "country": "BRA",
+                    "name": "David MOURA"
+                },
+                {
+                    "country": "FRA",
+                    "name": "Nabil ZALAGH"
+                }
+            ],
+            [
+                {
+                    "country": "CZE",
+                    "name": "Michal HORAK"
+                },
+                {
+                    "country": "RUS",
+                    "name": "Anton BRACHEV"
+                }
+            ],
+            [
+                {
+                    "country": "BRA",
+                    "name": "David MOURA"
+                },
+                {
+                    "country": "RUS",
+                    "name": "Soslan BOSTANOV"
+                }
+            ],
+            [
+                {
+                    "country": "CZE",
+                    "name": "Michal HORAK"
+                }
+            ],
+            [
+                {
+                    "country": "BRA",
+                    "name": "David MOURA"
+                }
+            ]
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ROU",
+                    "name": "Daniel NATEA"
+                },
+                {
+                    "country": "RUS",
+                    "name": "Soslan BOSTANOV"
+                },
+                {
+                    "winner": "Daniel NATEA"
+                }
+            ],
+            [
+                {
+                    "country": "RUS",
+                    "name": "Anton BRACHEV"
+                },
+                {
+                    "country": "BLR",
+                    "name": "Aliaksandr VAKHAVIAK"
+                },
+                {
+                    "winner": "Aliaksandr VAKHAVIAK"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "ROU",
+                    "name": "Daniel NATEA"
+                },
+                {
+                    "country": "BLR",
+                    "name": "Aliaksandr VAKHAVIAK"
+                }
+            ],
+            [
+                {
+                    "country": "ROU",
+                    "name": "Daniel NATEA"
+                }
+            ]
+        ]
+    }
+}

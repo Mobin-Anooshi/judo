@@ -1,0 +1,222 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "GBS",
+                    "name": "Taciana CESAR"
+                },
+                {
+                    "winner": "Taciana CESAR"
+                }
+            ],
+            [
+                {
+                    "country": "MRI",
+                    "name": "Laetitia LOUMEAU"
+                },
+                {
+                    "winner": "Laetitia LOUMEAU"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "GBS",
+                    "name": "Taciana CESAR"
+                },
+                {
+                    "country": "MRI",
+                    "name": "Laetitia LOUMEAU"
+                }
+            ],
+            [
+                {
+                    "country": "GBS",
+                    "name": "Taciana CESAR"
+                }
+            ]
+        ]
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "MRI",
+                    "name": "Priscilla MORAND"
+                },
+                {
+                    "winner": "Priscilla MORAND"
+                }
+            ],
+            []
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "MRI",
+                    "name": "Priscilla MORAND"
+                }
+            ]
+        ]
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "MAD",
+                    "name": "Asaramanitra RATIARISON"
+                },
+                {
+                    "winner": "Asaramanitra RATIARISON"
+                }
+            ],
+            []
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "MAD",
+                    "name": "Asaramanitra RATIARISON"
+                }
+            ]
+        ]
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ECU",
+                    "name": "Diana COBOS"
+                },
+                {
+                    "winner": "Diana COBOS"
+                }
+            ],
+            [
+                {
+                    "country": "MRI",
+                    "name": "Aniella COLET"
+                },
+                {
+                    "winner": "Aniella COLET"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "ECU",
+                    "name": "Diana COBOS"
+                },
+                {
+                    "country": "MRI",
+                    "name": "Aniella COLET"
+                }
+            ],
+            [
+                {
+                    "country": "ECU",
+                    "name": "Diana COBOS"
+                }
+            ]
+        ]
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "MRI",
+                    "name": "Laetitia LOUMEAU"
+                }
+            ],
+            [
+                {
+                    "country": "MRI",
+                    "name": "Aniella COLET"
+                }
+            ],
+            [
+                {
+                    "country": "MRI",
+                    "name": "Laetitia LOUMEAU"
+                },
+                {
+                    "country": "MAD",
+                    "name": "Asaramanitra RATIARISON"
+                }
+            ],
+            [
+                {
+                    "country": "MRI",
+                    "name": "Aniella COLET"
+                },
+                {
+                    "country": "MRI",
+                    "name": "Priscilla MORAND"
+                }
+            ],
+            [
+                {
+                    "country": "MAD",
+                    "name": "Asaramanitra RATIARISON"
+                }
+            ],
+            [
+                {
+                    "country": "MRI",
+                    "name": "Priscilla MORAND"
+                }
+            ]
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "GBS",
+                    "name": "Taciana CESAR"
+                },
+                {
+                    "country": "MRI",
+                    "name": "Priscilla MORAND"
+                },
+                {
+                    "winner": "Taciana CESAR"
+                }
+            ],
+            [
+                {
+                    "country": "MAD",
+                    "name": "Asaramanitra RATIARISON"
+                },
+                {
+                    "country": "ECU",
+                    "name": "Diana COBOS"
+                },
+                {
+                    "winner": "Diana COBOS"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "GBS",
+                    "name": "Taciana CESAR"
+                },
+                {
+                    "country": "ECU",
+                    "name": "Diana COBOS"
+                }
+            ],
+            [
+                {
+                    "country": "GBS",
+                    "name": "Taciana CESAR"
+                }
+            ]
+        ]
+    }
+}

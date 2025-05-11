@@ -1,0 +1,274 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "SLO",
+                    "name": "Vanessa Asja HERIC"
+                },
+                {
+                    "winner": "Vanessa Asja HERIC"
+                }
+            ],
+            []
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "SLO",
+                    "name": "Vanessa Asja HERIC"
+                }
+            ]
+        ]
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ITA",
+                    "name": "Rachele PARIS"
+                },
+                {
+                    "winner": "Rachele PARIS"
+                }
+            ],
+            [
+                {
+                    "country": "FRA",
+                    "name": "Bintibe LANG"
+                },
+                {
+                    "winner": "Bintibe LANG"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "ITA",
+                    "name": "Rachele PARIS"
+                },
+                {
+                    "country": "FRA",
+                    "name": "Bintibe LANG"
+                }
+            ],
+            [
+                {
+                    "country": "FRA",
+                    "name": "Bintibe LANG"
+                }
+            ]
+        ]
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "FRA",
+                    "name": "Celia CANCAN"
+                },
+                {
+                    "winner": "Celia CANCAN"
+                }
+            ],
+            [
+                {
+                    "country": "ITA",
+                    "name": "Cinzia CAPONETTO"
+                },
+                {
+                    "winner": "Cinzia CAPONETTO"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "FRA",
+                    "name": "Celia CANCAN"
+                },
+                {
+                    "country": "ITA",
+                    "name": "Cinzia CAPONETTO"
+                }
+            ],
+            [
+                {
+                    "country": "FRA",
+                    "name": "Celia CANCAN"
+                }
+            ]
+        ]
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "NED",
+                    "name": "Julia DEKKER"
+                },
+                {
+                    "winner": "Julia DEKKER"
+                }
+            ],
+            [
+                {
+                    "country": "SLO",
+                    "name": "Eva ZALAZNIK"
+                },
+                {
+                    "winner": "Eva ZALAZNIK"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "NED",
+                    "name": "Julia DEKKER"
+                },
+                {
+                    "country": "SLO",
+                    "name": "Eva ZALAZNIK"
+                }
+            ],
+            [
+                {
+                    "country": "NED",
+                    "name": "Julia DEKKER"
+                }
+            ]
+        ]
+    },
+    "REPECHAGE": {
+        "round 1-4": [
+            [],
+            [
+                {
+                    "country": "ITA",
+                    "name": "Rachele PARIS"
+                },
+                {
+                    "winner": "Rachele PARIS"
+                }
+            ],
+            [
+                {
+                    "country": "ITA",
+                    "name": "Cinzia CAPONETTO"
+                },
+                {
+                    "winner": "Cinzia CAPONETTO"
+                }
+            ],
+            [
+                {
+                    "country": "SLO",
+                    "name": "Eva ZALAZNIK"
+                },
+                {
+                    "winner": "Eva ZALAZNIK"
+                }
+            ]
+        ],
+        "round 1-2": [
+            [
+                {
+                    "country": "ITA",
+                    "name": "Rachele PARIS"
+                }
+            ],
+            [
+                {
+                    "country": "ITA",
+                    "name": "Cinzia CAPONETTO"
+                },
+                {
+                    "country": "SLO",
+                    "name": "Eva ZALAZNIK"
+                }
+            ],
+            [
+                {
+                    "country": "ITA",
+                    "name": "Rachele PARIS"
+                },
+                {
+                    "country": "FRA",
+                    "name": "Celia CANCAN"
+                }
+            ],
+            [
+                {
+                    "country": "ITA",
+                    "name": "Cinzia CAPONETTO"
+                },
+                {
+                    "country": "SLO",
+                    "name": "Vanessa Asja HERIC"
+                }
+            ],
+            [
+                {
+                    "country": "FRA",
+                    "name": "Celia CANCAN"
+                }
+            ],
+            [
+                {
+                    "country": "SLO",
+                    "name": "Vanessa Asja HERIC"
+                }
+            ]
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "SLO",
+                    "name": "Vanessa Asja HERIC"
+                },
+                {
+                    "country": "FRA",
+                    "name": "Bintibe LANG"
+                },
+                {
+                    "winner": "Bintibe LANG"
+                }
+            ],
+            [
+                {
+                    "country": "FRA",
+                    "name": "Celia CANCAN"
+                },
+                {
+                    "country": "NED",
+                    "name": "Julia DEKKER"
+                },
+                {
+                    "winner": "Julia DEKKER"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "FRA",
+                    "name": "Bintibe LANG"
+                },
+                {
+                    "country": "NED",
+                    "name": "Julia DEKKER"
+                }
+            ],
+            [
+                {
+                    "country": "NED",
+                    "name": "Julia DEKKER"
+                }
+            ]
+        ]
+    }
+}

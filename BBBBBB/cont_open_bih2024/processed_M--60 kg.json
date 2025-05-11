@@ -1,0 +1,177 @@
+{
+    "POOL A": {
+        "round 1-1": [
+            [
+                {
+                    "country": "HUN",
+                    "name": "David NAJI"
+                },
+                {
+                    "country": "SRB",
+                    "name": "Rastko ANDJELOVIC"
+                }
+            ]
+        ],
+        "final_winner": "David NAJI"
+    },
+    "POOL B": {
+        "round 1-1": [
+            [
+                {
+                    "country": "ROU",
+                    "name": "Andrei ANGHEL"
+                },
+                {
+                    "country": "SLO",
+                    "name": "David STARKEL"
+                }
+            ]
+        ],
+        "final_winner": "David STARKEL"
+    },
+    "POOL C": {
+        "round 1-1": [
+            [
+                {
+                    "country": "HUN",
+                    "name": "Csanad FECZKO"
+                },
+                {
+                    "country": "BUL",
+                    "name": "Hristo HRISTOV"
+                }
+            ]
+        ],
+        "final_winner": "Csanad FECZKO"
+    },
+    "POOL D": {
+        "round 1-1": [
+            [
+                {
+                    "country": "IJF",
+                    "name": "Vladimir ULIANOV"
+                },
+                {
+                    "country": "IJF",
+                    "name": "Sergei BOGOSLOVSKIKH"
+                }
+            ]
+        ],
+        "final_winner": "Sergei BOGOSLOVSKIKH"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "SRB",
+                    "name": "Rastko ANDJELOVIC"
+                },
+                {
+                    "country": "ROU",
+                    "name": "Andrei ANGHEL"
+                },
+                {
+                    "winner": "Rastko ANDJELOVIC"
+                }
+            ],
+            [
+                {
+                    "country": "BUL",
+                    "name": "Hristo HRISTOV"
+                },
+                {
+                    "country": "IJF",
+                    "name": "Vladimir ULIANOV"
+                },
+                {
+                    "winner": "Vladimir ULIANOV"
+                }
+            ],
+            [
+                {
+                    "country": "SRB",
+                    "name": "Rastko ANDJELOVIC"
+                },
+                {
+                    "country": "IJF",
+                    "name": "Sergei BOGOSLOVSKIKH"
+                },
+                {
+                    "winner": "Sergei BOGOSLOVSKIKH"
+                }
+            ],
+            [
+                {
+                    "country": "IJF",
+                    "name": "Vladimir ULIANOV"
+                },
+                {
+                    "country": "SLO",
+                    "name": "David STARKEL"
+                },
+                {
+                    "winner": "David STARKEL"
+                }
+            ],
+            [
+                {
+                    "country": "IJF",
+                    "name": "Sergei BOGOSLOVSKIKH"
+                }
+            ],
+            [
+                {
+                    "country": "SLO",
+                    "name": "David STARKEL"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Sergei BOGOSLOVSKIKH",
+            "David STARKEL"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "HUN",
+                    "name": "David NAJI"
+                },
+                {
+                    "country": "SLO",
+                    "name": "David STARKEL"
+                },
+                {
+                    "winner": "David NAJI"
+                }
+            ],
+            [
+                {
+                    "country": "HUN",
+                    "name": "Csanad FECZKO"
+                },
+                {
+                    "country": "IJF",
+                    "name": "Sergei BOGOSLOVSKIKH"
+                },
+                {
+                    "winner": "Csanad FECZKO"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "HUN",
+                    "name": "David NAJI"
+                },
+                {
+                    "country": "HUN",
+                    "name": "Csanad FECZKO"
+                }
+            ]
+        ],
+        "final_winner": "Csanad FECZKO"
+    }
+}

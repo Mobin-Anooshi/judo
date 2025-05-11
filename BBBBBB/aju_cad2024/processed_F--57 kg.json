@@ -1,0 +1,273 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ANG",
+                    "name": "Yola PIEDADE"
+                },
+                {
+                    "winner": "Yola PIEDADE"
+                }
+            ],
+            [
+                {
+                    "country": "EGY",
+                    "name": "Mariam SOLIMAN"
+                },
+                {
+                    "country": "CMR",
+                    "name": "Blessing Morane TABOULA DJUIYEP"
+                },
+                {
+                    "winner": "Mariam SOLIMAN"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "ANG",
+                    "name": "Yola PIEDADE"
+                },
+                {
+                    "country": "EGY",
+                    "name": "Mariam SOLIMAN"
+                }
+            ]
+        ],
+        "final_winner": "Mariam SOLIMAN"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "RSA",
+                    "name": "Klara VAHRMEIJER"
+                },
+                {
+                    "country": "GAB",
+                    "name": "Jennifer Darlia KOUMBA LEKIKA"
+                },
+                {
+                    "winner": "Klara VAHRMEIJER"
+                }
+            ],
+            [
+                {
+                    "country": "CMR",
+                    "name": "Audrey HARANGA HAMAN"
+                },
+                {
+                    "winner": "Audrey HARANGA HAMAN"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "RSA",
+                    "name": "Klara VAHRMEIJER"
+                },
+                {
+                    "country": "CMR",
+                    "name": "Audrey HARANGA HAMAN"
+                }
+            ]
+        ],
+        "final_winner": "Audrey HARANGA HAMAN"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "TOG",
+                    "name": "Akou A. Kekeli NOUWOKLO"
+                },
+                {
+                    "winner": "Akou A. Kekeli NOUWOKLO"
+                }
+            ],
+            [
+                {
+                    "country": "BDI",
+                    "name": "Monia NISHIMWE"
+                },
+                {
+                    "country": "ANG",
+                    "name": "Edna CALUNGA"
+                },
+                {
+                    "winner": "Edna CALUNGA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "TOG",
+                    "name": "Akou A. Kekeli NOUWOKLO"
+                },
+                {
+                    "country": "ANG",
+                    "name": "Edna CALUNGA"
+                }
+            ]
+        ],
+        "final_winner": "Edna CALUNGA"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CAF",
+                    "name": "Jennifer WESSETHON"
+                },
+                {
+                    "winner": "Jennifer WESSETHON"
+                }
+            ],
+            [
+                {
+                    "country": "CMR",
+                    "name": "Adelaide Samuelle BINDELI BADJECK"
+                },
+                {
+                    "country": "BUR",
+                    "name": "Assita BERTHE"
+                },
+                {
+                    "winner": "Assita BERTHE"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "CAF",
+                    "name": "Jennifer WESSETHON"
+                },
+                {
+                    "country": "BUR",
+                    "name": "Assita BERTHE"
+                }
+            ]
+        ],
+        "final_winner": "Assita BERTHE"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ANG",
+                    "name": "Yola PIEDADE"
+                },
+                {
+                    "country": "RSA",
+                    "name": "Klara VAHRMEIJER"
+                },
+                {
+                    "winner": "Yola PIEDADE"
+                }
+            ],
+            [
+                {
+                    "country": "TOG",
+                    "name": "Akou A. Kekeli NOUWOKLO"
+                },
+                {
+                    "country": "CAF",
+                    "name": "Jennifer WESSETHON"
+                },
+                {
+                    "winner": "Jennifer WESSETHON"
+                }
+            ],
+            [
+                {
+                    "country": "ANG",
+                    "name": "Yola PIEDADE"
+                },
+                {
+                    "country": "BUR",
+                    "name": "Assita BERTHE"
+                },
+                {
+                    "winner": "Yola PIEDADE"
+                }
+            ],
+            [
+                {
+                    "country": "CAF",
+                    "name": "Jennifer WESSETHON"
+                },
+                {
+                    "country": "CMR",
+                    "name": "Audrey HARANGA HAMAN"
+                },
+                {
+                    "winner": "Audrey HARANGA HAMAN"
+                }
+            ],
+            [
+                {
+                    "country": "ANG",
+                    "name": "Yola PIEDADE"
+                }
+            ],
+            [
+                {
+                    "country": "CMR",
+                    "name": "Audrey HARANGA HAMAN"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Yola PIEDADE",
+            "Audrey HARANGA HAMAN"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "EGY",
+                    "name": "Mariam SOLIMAN"
+                },
+                {
+                    "country": "CMR",
+                    "name": "Audrey HARANGA HAMAN"
+                },
+                {
+                    "winner": "Mariam SOLIMAN"
+                }
+            ],
+            [
+                {
+                    "country": "ANG",
+                    "name": "Edna CALUNGA"
+                },
+                {
+                    "country": "BUR",
+                    "name": "Assita BERTHE"
+                },
+                {
+                    "winner": "Edna CALUNGA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "EGY",
+                    "name": "Mariam SOLIMAN"
+                },
+                {
+                    "country": "ANG",
+                    "name": "Edna CALUNGA"
+                }
+            ]
+        ],
+        "final_winner": "Edna CALUNGA"
+    }
+}

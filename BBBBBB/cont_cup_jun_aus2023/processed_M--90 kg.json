@@ -1,0 +1,129 @@
+{
+    "POOL A": {
+        "round 1-1": [],
+        "final_winner": "Ilan CLOETE"
+    },
+    "POOL B": {
+        "round 1-1": [
+            [
+                {
+                    "country": "NZL",
+                    "name": "Alexander BROWN"
+                },
+                {
+                    "country": "INA",
+                    "name": "Muhammad Altila ALFARIDZI"
+                }
+            ]
+        ],
+        "final_winner": "Muhammad Altila ALFARIDZI"
+    },
+    "POOL C": {
+        "round 1-1": [],
+        "final_winner": "Lincoln TOMLIN"
+    },
+    "POOL D": {
+        "round 1-1": [
+            [
+                {
+                    "country": "AUS",
+                    "name": "Robert GIRDWOOD"
+                },
+                {
+                    "country": "KOR",
+                    "name": "Jinwoo KIM"
+                }
+            ]
+        ],
+        "final_winner": "Jinwoo KIM"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "NZL",
+                    "name": "Alexander BROWN"
+                }
+            ],
+            [
+                {
+                    "country": "AUS",
+                    "name": "Robert GIRDWOOD"
+                }
+            ],
+            [
+                {
+                    "country": "NZL",
+                    "name": "Alexander BROWN"
+                },
+                {
+                    "country": "AUS",
+                    "name": "Lincoln TOMLIN"
+                },
+                {
+                    "winner": "Alexander BROWN"
+                }
+            ],
+            [
+                {
+                    "country": "AUS",
+                    "name": "Robert GIRDWOOD"
+                },
+                {
+                    "country": "INA",
+                    "name": "Muhammad Altila ALFARIDZI"
+                },
+                {
+                    "winner": "Robert GIRDWOOD"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Alexander BROWN",
+            "Robert GIRDWOOD"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "AUS",
+                    "name": "Ilan CLOETE"
+                },
+                {
+                    "country": "INA",
+                    "name": "Muhammad Altila ALFARIDZI"
+                },
+                {
+                    "winner": "Ilan CLOETE"
+                }
+            ],
+            [
+                {
+                    "country": "AUS",
+                    "name": "Lincoln TOMLIN"
+                },
+                {
+                    "country": "KOR",
+                    "name": "Jinwoo KIM"
+                },
+                {
+                    "winner": "Jinwoo KIM"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "AUS",
+                    "name": "Ilan CLOETE"
+                },
+                {
+                    "country": "KOR",
+                    "name": "Jinwoo KIM"
+                }
+            ]
+        ],
+        "final_winner": "Ilan CLOETE"
+    }
+}

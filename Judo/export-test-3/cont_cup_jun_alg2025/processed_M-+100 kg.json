@@ -1,0 +1,87 @@
+{
+    "POOL A": {
+        "round 1-3": [
+            [
+                {
+                    "country": "ALG",
+                    "name": "Mohamed Amokrane SEBKI"
+                },
+                {
+                    "country": "ALG",
+                    "name": "Abderrahmane OUASTI"
+                },
+                {
+                    "winner": "Mohamed Amokrane SEBKI"
+                }
+            ],
+            [
+                {
+                    "country": "ALG",
+                    "name": "Mohamed Amokrane SEBKI"
+                },
+                {
+                    "country": "ALG",
+                    "name": "Lokmane BOUHEDOUF"
+                },
+                {
+                    "winner": "Lokmane BOUHEDOUF"
+                }
+            ],
+            [
+                {
+                    "country": "ALG",
+                    "name": "Abderrahmane OUASTI"
+                },
+                {
+                    "country": "ALG",
+                    "name": "Lokmane BOUHEDOUF"
+                },
+                {
+                    "winner": "Lokmane BOUHEDOUF"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Mohamed Amokrane SEBKI",
+            "Lokmane BOUHEDOUF"
+        ]
+    },
+    "POOL B": {
+        "round 1-1": [],
+        "final_winners": [
+            "Mohamed Cherif DAHMANI"
+        ]
+    },
+    "REPECHAGE": {
+        "round 1-1": [
+            [
+                {
+                    "country": "ALG",
+                    "name": "Lokmane BOUHEDOUF"
+                },
+                {
+                    "country": "TUN",
+                    "name": "Adem KOUKI"
+                },
+                {
+                    "winner": "Adem KOUKI"
+                }
+            ],
+            [
+                {
+                    "country": "TUN",
+                    "name": "Adem KOUKI"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Adem KOUKI"
+        ]
+    },
+    "FINALS": {
+        "round 1-1": [],
+        "final_winners": [
+            "Mohamed Amokrane SEBKI"
+        ]
+    }
+}

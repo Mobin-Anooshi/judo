@@ -1,0 +1,285 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Samanta SOARES"
+                },
+                {
+                    "winner": "Samanta SOARES"
+                }
+            ],
+            [
+                {
+                    "country": "BRA",
+                    "name": "Melina SCARDUA"
+                },
+                {
+                    "country": "CZE",
+                    "name": "Alice MATEJCKOVA"
+                },
+                {
+                    "winner": "Alice MATEJCKOVA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Samanta SOARES"
+                },
+                {
+                    "country": "CZE",
+                    "name": "Alice MATEJCKOVA"
+                }
+            ]
+        ],
+        "final_winner": "Samanta SOARES"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "KAZ",
+                    "name": "Zarina RAIFOVA"
+                },
+                {
+                    "country": "POL",
+                    "name": "Paulina PRZYCZYNA"
+                },
+                {
+                    "winner": "Zarina RAIFOVA"
+                }
+            ],
+            [
+                {
+                    "country": "ISR",
+                    "name": "Yarden MAYERSOHN"
+                },
+                {
+                    "country": "LTU",
+                    "name": "Migle Julija DUDENAITE"
+                },
+                {
+                    "winner": "Yarden MAYERSOHN"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "KAZ",
+                    "name": "Zarina RAIFOVA"
+                },
+                {
+                    "country": "ISR",
+                    "name": "Yarden MAYERSOHN"
+                }
+            ]
+        ],
+        "final_winner": "Yarden MAYERSOHN"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "NED",
+                    "name": "Larissa GROENWOLD"
+                },
+                {
+                    "country": "POL",
+                    "name": "Paula KULAGA"
+                },
+                {
+                    "winner": "Larissa GROENWOLD"
+                }
+            ],
+            [
+                {
+                    "country": "MAR",
+                    "name": "Doha MOUIZERH"
+                },
+                {
+                    "country": "TUR",
+                    "name": "Cagri GUZELSOY"
+                },
+                {
+                    "winner": "Cagri GUZELSOY"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "NED",
+                    "name": "Larissa GROENWOLD"
+                },
+                {
+                    "country": "TUR",
+                    "name": "Cagri GUZELSOY"
+                }
+            ]
+        ],
+        "final_winner": "Larissa GROENWOLD"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "FRA",
+                    "name": "Christelle GARRY"
+                },
+                {
+                    "country": "GBR",
+                    "name": "Emma REID"
+                },
+                {
+                    "winner": "Emma REID"
+                }
+            ],
+            [
+                {
+                    "country": "POL",
+                    "name": "Beata PACUT-KLOCZKO"
+                },
+                {
+                    "country": "UKR",
+                    "name": "Hanna ANTYKALO"
+                },
+                {
+                    "winner": "Beata PACUT-KLOCZKO"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "GBR",
+                    "name": "Emma REID"
+                },
+                {
+                    "country": "POL",
+                    "name": "Beata PACUT-KLOCZKO"
+                }
+            ]
+        ],
+        "final_winner": "Beata PACUT-KLOCZKO"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CZE",
+                    "name": "Alice MATEJCKOVA"
+                },
+                {
+                    "country": "KAZ",
+                    "name": "Zarina RAIFOVA"
+                },
+                {
+                    "winner": "Zarina RAIFOVA"
+                }
+            ],
+            [
+                {
+                    "country": "TUR",
+                    "name": "Cagri GUZELSOY"
+                },
+                {
+                    "country": "GBR",
+                    "name": "Emma REID"
+                },
+                {
+                    "winner": "Cagri GUZELSOY"
+                }
+            ],
+            [
+                {
+                    "country": "KAZ",
+                    "name": "Zarina RAIFOVA"
+                },
+                {
+                    "country": "NED",
+                    "name": "Larissa GROENWOLD"
+                },
+                {
+                    "winner": "Zarina RAIFOVA"
+                }
+            ],
+            [
+                {
+                    "country": "TUR",
+                    "name": "Cagri GUZELSOY"
+                },
+                {
+                    "country": "ISR",
+                    "name": "Yarden MAYERSOHN"
+                },
+                {
+                    "winner": "Yarden MAYERSOHN"
+                }
+            ],
+            [
+                {
+                    "country": "KAZ",
+                    "name": "Zarina RAIFOVA"
+                }
+            ],
+            [
+                {
+                    "country": "ISR",
+                    "name": "Yarden MAYERSOHN"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Zarina RAIFOVA",
+            "Yarden MAYERSOHN"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Samanta SOARES"
+                },
+                {
+                    "country": "ISR",
+                    "name": "Yarden MAYERSOHN"
+                },
+                {
+                    "winner": "Samanta SOARES"
+                }
+            ],
+            [
+                {
+                    "country": "NED",
+                    "name": "Larissa GROENWOLD"
+                },
+                {
+                    "country": "POL",
+                    "name": "Beata PACUT-KLOCZKO"
+                },
+                {
+                    "winner": "Beata PACUT-KLOCZKO"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Samanta SOARES"
+                },
+                {
+                    "country": "POL",
+                    "name": "Beata PACUT-KLOCZKO"
+                }
+            ]
+        ],
+        "final_winner": "Samanta SOARES"
+    }
+}

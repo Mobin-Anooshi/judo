@@ -1,0 +1,241 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [],
+            []
+        ],
+        "round 1-1": [
+            []
+        ]
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CRO",
+                    "name": "Katarina KRISTO"
+                },
+                {
+                    "winner": "Katarina KRISTO"
+                }
+            ],
+            [
+                {
+                    "country": "TUN",
+                    "name": "Mariem KHLIFI"
+                },
+                {
+                    "winner": "Mariem KHLIFI"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "CRO",
+                    "name": "Katarina KRISTO"
+                },
+                {
+                    "country": "TUN",
+                    "name": "Mariem KHLIFI"
+                }
+            ],
+            [
+                {
+                    "country": "TUN",
+                    "name": "Mariem KHLIFI"
+                }
+            ]
+        ]
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CRO",
+                    "name": "Lucija BABIC"
+                },
+                {
+                    "winner": "Lucija BABIC"
+                }
+            ],
+            [
+                {
+                    "country": "ALG",
+                    "name": "Rania DJEBARNI"
+                },
+                {
+                    "winner": "Rania DJEBARNI"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "CRO",
+                    "name": "Lucija BABIC"
+                },
+                {
+                    "country": "ALG",
+                    "name": "Rania DJEBARNI"
+                }
+            ],
+            [
+                {
+                    "country": "CRO",
+                    "name": "Lucija BABIC"
+                }
+            ]
+        ]
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CRO",
+                    "name": "Lara KLIBA"
+                },
+                {
+                    "winner": "Lara KLIBA"
+                }
+            ],
+            [
+                {
+                    "country": "TUN",
+                    "name": "Hasna ZAYATI"
+                },
+                {
+                    "winner": "Hasna ZAYATI"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "CRO",
+                    "name": "Lara KLIBA"
+                },
+                {
+                    "country": "TUN",
+                    "name": "Hasna ZAYATI"
+                }
+            ],
+            [
+                {
+                    "country": "CRO",
+                    "name": "Lara KLIBA"
+                }
+            ]
+        ]
+    },
+    "REPECHAGE": {
+        "round 1-4": [
+            [],
+            [
+                {
+                    "country": "CRO",
+                    "name": "Katarina KRISTO"
+                },
+                {
+                    "winner": "Katarina KRISTO"
+                }
+            ],
+            [
+                {
+                    "country": "ALG",
+                    "name": "Rania DJEBARNI"
+                },
+                {
+                    "winner": "Rania DJEBARNI"
+                }
+            ],
+            [
+                {
+                    "country": "TUN",
+                    "name": "Hasna ZAYATI"
+                },
+                {
+                    "winner": "Hasna ZAYATI"
+                }
+            ]
+        ],
+        "round 1-2": [
+            [
+                {
+                    "country": "CRO",
+                    "name": "Katarina KRISTO"
+                }
+            ],
+            [
+                {
+                    "country": "ALG",
+                    "name": "Rania DJEBARNI"
+                },
+                {
+                    "country": "TUN",
+                    "name": "Hasna ZAYATI"
+                }
+            ],
+            [
+                {
+                    "country": "CRO",
+                    "name": "Katarina KRISTO"
+                },
+                {
+                    "country": "CRO",
+                    "name": "Lara KLIBA"
+                }
+            ],
+            [
+                {
+                    "country": "ALG",
+                    "name": "Rania DJEBARNI"
+                }
+            ]
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "TUN",
+                    "name": "Mariem KHLIFI"
+                },
+                {
+                    "winner": "Mariem KHLIFI"
+                }
+            ],
+            [
+                {
+                    "country": "CRO",
+                    "name": "Lucija BABIC"
+                },
+                {
+                    "country": "CRO",
+                    "name": "Lara KLIBA"
+                },
+                {
+                    "winner": "Lucija BABIC"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "TUN",
+                    "name": "Mariem KHLIFI"
+                },
+                {
+                    "country": "CRO",
+                    "name": "Lucija BABIC"
+                }
+            ],
+            [
+                {
+                    "country": "TUN",
+                    "name": "Mariem KHLIFI"
+                }
+            ]
+        ]
+    }
+}

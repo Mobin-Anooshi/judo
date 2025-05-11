@@ -1,0 +1,289 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Maria Suelen ALTHEMAN"
+                },
+                {
+                    "country": "UKR",
+                    "name": "Vasylyna KYRYCHENKO"
+                },
+                {
+                    "winner": "Maria Suelen ALTHEMAN"
+                }
+            ],
+            [
+                {
+                    "country": "ITA",
+                    "name": "Elisa MARCHIO"
+                },
+                {
+                    "country": "POL",
+                    "name": "Wiktoria LIS"
+                },
+                {
+                    "winner": "Wiktoria LIS"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Maria Suelen ALTHEMAN"
+                },
+                {
+                    "country": "POL",
+                    "name": "Wiktoria LIS"
+                }
+            ]
+        ],
+        "final_winner": "Maria Suelen ALTHEMAN"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "POL",
+                    "name": "Anna ZALECZNA"
+                },
+                {
+                    "country": "CRO",
+                    "name": "Helena VUKOVIC"
+                },
+                {
+                    "winner": "Anna ZALECZNA"
+                }
+            ],
+            [
+                {
+                    "country": "JPN",
+                    "name": "Hikaru KODAMA"
+                },
+                {
+                    "country": "PER",
+                    "name": "Yuliana Vanessa BOLIVAR GONZALEZ"
+                },
+                {
+                    "winner": "Hikaru KODAMA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "POL",
+                    "name": "Anna ZALECZNA"
+                },
+                {
+                    "country": "JPN",
+                    "name": "Hikaru KODAMA"
+                }
+            ]
+        ],
+        "final_winner": "Hikaru KODAMA"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "HUN",
+                    "name": "Mercedesz SZIGETVARI"
+                },
+                {
+                    "country": "CRO",
+                    "name": "Katarina Lucija VUKOVIC"
+                },
+                {
+                    "winner": "Mercedesz SZIGETVARI"
+                }
+            ],
+            [
+                {
+                    "country": "CZE",
+                    "name": "Marketa PAULUSOVA"
+                },
+                {
+                    "country": "POL",
+                    "name": "Kinga WOLSZCZAK"
+                },
+                {
+                    "winner": "Marketa PAULUSOVA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "HUN",
+                    "name": "Mercedesz SZIGETVARI"
+                },
+                {
+                    "country": "CZE",
+                    "name": "Marketa PAULUSOVA"
+                }
+            ]
+        ],
+        "final_winner": "Marketa PAULUSOVA"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "FRA",
+                    "name": "Lea FONTAINE"
+                },
+                {
+                    "country": "UKR",
+                    "name": "Khrystyna HOMAN"
+                },
+                {
+                    "winner": "Lea FONTAINE"
+                }
+            ],
+            [
+                {
+                    "country": "MGL",
+                    "name": "Gandiimaa ERDENEBILEG"
+                },
+                {
+                    "country": "AUT",
+                    "name": "Maria HOELLWART"
+                },
+                {
+                    "winner": "Gandiimaa ERDENEBILEG"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "FRA",
+                    "name": "Lea FONTAINE"
+                },
+                {
+                    "country": "MGL",
+                    "name": "Gandiimaa ERDENEBILEG"
+                }
+            ]
+        ],
+        "final_winner": "Lea FONTAINE"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "POL",
+                    "name": "Wiktoria LIS"
+                },
+                {
+                    "country": "POL",
+                    "name": "Anna ZALECZNA"
+                },
+                {
+                    "winner": "Anna ZALECZNA"
+                }
+            ],
+            [
+                {
+                    "country": "HUN",
+                    "name": "Mercedesz SZIGETVARI"
+                },
+                {
+                    "country": "MGL",
+                    "name": "Gandiimaa ERDENEBILEG"
+                },
+                {
+                    "winner": "Mercedesz SZIGETVARI"
+                }
+            ],
+            [
+                {
+                    "country": "POL",
+                    "name": "Anna ZALECZNA"
+                },
+                {
+                    "country": "CZE",
+                    "name": "Marketa PAULUSOVA"
+                },
+                {
+                    "winner": "Anna ZALECZNA"
+                }
+            ],
+            [
+                {
+                    "country": "HUN",
+                    "name": "Mercedesz SZIGETVARI"
+                },
+                {
+                    "country": "JPN",
+                    "name": "Hikaru KODAMA"
+                },
+                {
+                    "winner": "Hikaru KODAMA"
+                }
+            ],
+            [
+                {
+                    "country": "POL",
+                    "name": "Anna ZALECZNA"
+                }
+            ],
+            [
+                {
+                    "country": "JPN",
+                    "name": "Hikaru KODAMA"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Anna ZALECZNA",
+            "Hikaru KODAMA"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Maria Suelen ALTHEMAN"
+                },
+                {
+                    "country": "JPN",
+                    "name": "Hikaru KODAMA"
+                },
+                {
+                    "winner": "Maria Suelen ALTHEMAN"
+                }
+            ],
+            [
+                {
+                    "country": "CZE",
+                    "name": "Marketa PAULUSOVA"
+                },
+                {
+                    "country": "FRA",
+                    "name": "Lea FONTAINE"
+                },
+                {
+                    "winner": "Lea FONTAINE"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Maria Suelen ALTHEMAN"
+                },
+                {
+                    "country": "FRA",
+                    "name": "Lea FONTAINE"
+                }
+            ]
+        ],
+        "final_winner": "Maria Suelen ALTHEMAN"
+    }
+}

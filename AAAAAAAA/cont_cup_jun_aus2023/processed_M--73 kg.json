@@ -1,0 +1,273 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "GBR",
+                    "name": "Luke DAVIES"
+                },
+                {
+                    "winner": "Luke DAVIES"
+                }
+            ],
+            [
+                {
+                    "country": "AUS",
+                    "name": "Alexander VASILYEV"
+                },
+                {
+                    "country": "AUS",
+                    "name": "Thomas CRAMP"
+                },
+                {
+                    "winner": "Thomas CRAMP"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "GBR",
+                    "name": "Luke DAVIES"
+                },
+                {
+                    "country": "AUS",
+                    "name": "Thomas CRAMP"
+                }
+            ]
+        ],
+        "final_winner": "Luke DAVIES"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "AUS",
+                    "name": "Lucas GARDINER"
+                },
+                {
+                    "country": "AUS",
+                    "name": "Dimitrios GIANTSIOS"
+                },
+                {
+                    "winner": "Dimitrios GIANTSIOS"
+                }
+            ],
+            [
+                {
+                    "country": "AUS",
+                    "name": "Seth LEAVER"
+                },
+                {
+                    "winner": "Seth LEAVER"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "AUS",
+                    "name": "Dimitrios GIANTSIOS"
+                },
+                {
+                    "country": "AUS",
+                    "name": "Seth LEAVER"
+                }
+            ]
+        ],
+        "final_winner": "Dimitrios GIANTSIOS"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "AUS",
+                    "name": "Nicholas MCCLIFTY"
+                },
+                {
+                    "winner": "Nicholas MCCLIFTY"
+                }
+            ],
+            [
+                {
+                    "country": "AUS",
+                    "name": "Warrick PEDLEY"
+                },
+                {
+                    "country": "NZL",
+                    "name": "Zack LEVY"
+                },
+                {
+                    "winner": "Zack LEVY"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "AUS",
+                    "name": "Nicholas MCCLIFTY"
+                },
+                {
+                    "country": "NZL",
+                    "name": "Zack LEVY"
+                }
+            ]
+        ],
+        "final_winner": "Nicholas MCCLIFTY"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "AUS",
+                    "name": "Keishin OCHI"
+                },
+                {
+                    "winner": "Keishin OCHI"
+                }
+            ],
+            [
+                {
+                    "country": "AUS",
+                    "name": "Caspar DE LARGIE D'ALTON"
+                },
+                {
+                    "country": "AUS",
+                    "name": "Kimi JOST"
+                },
+                {
+                    "winner": "Kimi JOST"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "AUS",
+                    "name": "Keishin OCHI"
+                },
+                {
+                    "country": "AUS",
+                    "name": "Kimi JOST"
+                }
+            ]
+        ],
+        "final_winner": "Keishin OCHI"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "AUS",
+                    "name": "Thomas CRAMP"
+                },
+                {
+                    "country": "AUS",
+                    "name": "Seth LEAVER"
+                },
+                {
+                    "winner": "Thomas CRAMP"
+                }
+            ],
+            [
+                {
+                    "country": "NZL",
+                    "name": "Zack LEVY"
+                },
+                {
+                    "country": "AUS",
+                    "name": "Kimi JOST"
+                },
+                {
+                    "winner": "Kimi JOST"
+                }
+            ],
+            [
+                {
+                    "country": "AUS",
+                    "name": "Thomas CRAMP"
+                },
+                {
+                    "country": "AUS",
+                    "name": "Nicholas MCCLIFTY"
+                },
+                {
+                    "winner": "Thomas CRAMP"
+                }
+            ],
+            [
+                {
+                    "country": "AUS",
+                    "name": "Kimi JOST"
+                },
+                {
+                    "country": "AUS",
+                    "name": "Dimitrios GIANTSIOS"
+                },
+                {
+                    "winner": "Dimitrios GIANTSIOS"
+                }
+            ],
+            [
+                {
+                    "country": "AUS",
+                    "name": "Thomas CRAMP"
+                }
+            ],
+            [
+                {
+                    "country": "AUS",
+                    "name": "Dimitrios GIANTSIOS"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Thomas CRAMP",
+            "Dimitrios GIANTSIOS"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "GBR",
+                    "name": "Luke DAVIES"
+                },
+                {
+                    "country": "AUS",
+                    "name": "Dimitrios GIANTSIOS"
+                },
+                {
+                    "winner": "Luke DAVIES"
+                }
+            ],
+            [
+                {
+                    "country": "AUS",
+                    "name": "Nicholas MCCLIFTY"
+                },
+                {
+                    "country": "AUS",
+                    "name": "Keishin OCHI"
+                },
+                {
+                    "winner": "Keishin OCHI"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "GBR",
+                    "name": "Luke DAVIES"
+                },
+                {
+                    "country": "AUS",
+                    "name": "Keishin OCHI"
+                }
+            ]
+        ],
+        "final_winner": "Luke DAVIES"
+    }
+}

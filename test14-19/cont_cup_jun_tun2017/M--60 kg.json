@@ -1,0 +1,244 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "TUN",
+                    "name": "Moneam MEJRI"
+                },
+                {
+                    "winner": "Moneam MEJRI"
+                }
+            ],
+            []
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "TUN",
+                    "name": "Moneam MEJRI"
+                }
+            ]
+        ]
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "KSA",
+                    "name": "Mutaz KHAWJAH"
+                },
+                {
+                    "winner": "Mutaz KHAWJAH"
+                }
+            ],
+            [
+                {
+                    "country": "ALG",
+                    "name": "Rafik Mehdi TIRRIRI"
+                },
+                {
+                    "winner": "Rafik Mehdi TIRRIRI"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "KSA",
+                    "name": "Mutaz KHAWJAH"
+                },
+                {
+                    "country": "ALG",
+                    "name": "Rafik Mehdi TIRRIRI"
+                }
+            ],
+            [
+                {
+                    "country": "ALG",
+                    "name": "Rafik Mehdi TIRRIRI"
+                }
+            ]
+        ]
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "KSA",
+                    "name": "Abdalziz KHERED"
+                },
+                {
+                    "winner": "Abdalziz KHERED"
+                }
+            ],
+            []
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "KSA",
+                    "name": "Abdalziz KHERED"
+                }
+            ]
+        ]
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ROU",
+                    "name": "Lehel ORBAN"
+                },
+                {
+                    "winner": "Lehel ORBAN"
+                }
+            ],
+            [
+                {
+                    "country": "BLR",
+                    "name": "Mikita SHERSHAN"
+                },
+                {
+                    "winner": "Mikita SHERSHAN"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "ROU",
+                    "name": "Lehel ORBAN"
+                },
+                {
+                    "country": "BLR",
+                    "name": "Mikita SHERSHAN"
+                }
+            ],
+            [
+                {
+                    "country": "ROU",
+                    "name": "Lehel ORBAN"
+                }
+            ]
+        ]
+    },
+    "REPECHAGE": {
+        "round 1-4": [
+            [],
+            [
+                {
+                    "country": "KSA",
+                    "name": "Mutaz KHAWJAH"
+                },
+                {
+                    "winner": "Mutaz KHAWJAH"
+                }
+            ],
+            [],
+            [
+                {
+                    "country": "BLR",
+                    "name": "Mikita SHERSHAN"
+                },
+                {
+                    "winner": "Mikita SHERSHAN"
+                }
+            ]
+        ],
+        "round 1-2": [
+            [
+                {
+                    "country": "KSA",
+                    "name": "Mutaz KHAWJAH"
+                }
+            ],
+            [
+                {
+                    "country": "BLR",
+                    "name": "Mikita SHERSHAN"
+                }
+            ],
+            [
+                {
+                    "country": "KSA",
+                    "name": "Mutaz KHAWJAH"
+                },
+                {
+                    "country": "KSA",
+                    "name": "Abdalziz KHERED"
+                }
+            ],
+            [
+                {
+                    "country": "BLR",
+                    "name": "Mikita SHERSHAN"
+                },
+                {
+                    "country": "ALG",
+                    "name": "Rafik Mehdi TIRRIRI"
+                }
+            ],
+            [
+                {
+                    "country": "KSA",
+                    "name": "Abdalziz KHERED"
+                }
+            ],
+            [
+                {
+                    "country": "ALG",
+                    "name": "Rafik Mehdi TIRRIRI"
+                }
+            ]
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "TUN",
+                    "name": "Moneam MEJRI"
+                },
+                {
+                    "country": "ALG",
+                    "name": "Rafik Mehdi TIRRIRI"
+                },
+                {
+                    "winner": "Moneam MEJRI"
+                }
+            ],
+            [
+                {
+                    "country": "KSA",
+                    "name": "Abdalziz KHERED"
+                },
+                {
+                    "country": "ROU",
+                    "name": "Lehel ORBAN"
+                },
+                {
+                    "winner": "Lehel ORBAN"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "TUN",
+                    "name": "Moneam MEJRI"
+                },
+                {
+                    "country": "ROU",
+                    "name": "Lehel ORBAN"
+                }
+            ],
+            [
+                {
+                    "country": "ROU",
+                    "name": "Lehel ORBAN"
+                }
+            ]
+        ]
+    }
+}

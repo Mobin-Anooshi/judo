@@ -1,0 +1,295 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Kayo SANTOS"
+                },
+                {
+                    "winner": "Kayo SANTOS"
+                }
+            ],
+            [
+                {
+                    "country": "ECU",
+                    "name": "Henrry PADILLA"
+                },
+                {
+                    "winner": "Henrry PADILLA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Kayo SANTOS"
+                },
+                {
+                    "country": "ECU",
+                    "name": "Henrry PADILLA"
+                }
+            ]
+        ],
+        "final_winner": "Kayo SANTOS"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CHI",
+                    "name": "Franco ARISMENDI"
+                },
+                {
+                    "winner": "Franco ARISMENDI"
+                }
+            ],
+            [
+                {
+                    "country": "CAN",
+                    "name": "Owen MACUMBER"
+                },
+                {
+                    "winner": "Owen MACUMBER"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "CHI",
+                    "name": "Franco ARISMENDI"
+                },
+                {
+                    "country": "CAN",
+                    "name": "Owen MACUMBER"
+                }
+            ]
+        ],
+        "final_winner": "Franco ARISMENDI"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CAN",
+                    "name": "Amr ABD ELREHIM"
+                },
+                {
+                    "winner": "Amr ABD ELREHIM"
+                }
+            ],
+            [
+                {
+                    "country": "GUA",
+                    "name": "Alejandro MORALES"
+                },
+                {
+                    "winner": "Alejandro MORALES"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "CAN",
+                    "name": "Amr ABD ELREHIM"
+                },
+                {
+                    "country": "GUA",
+                    "name": "Alejandro MORALES"
+                }
+            ]
+        ],
+        "final_winner": "Amr ABD ELREHIM"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "VEN",
+                    "name": "Juan DIAZ"
+                },
+                {
+                    "winner": "Juan DIAZ"
+                }
+            ],
+            [
+                {
+                    "country": "COL",
+                    "name": "Jhon Jairo HENAO"
+                },
+                {
+                    "winner": "Jhon Jairo HENAO"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "VEN",
+                    "name": "Juan DIAZ"
+                },
+                {
+                    "country": "COL",
+                    "name": "Jhon Jairo HENAO"
+                }
+            ]
+        ],
+        "final_winner": "Juan DIAZ"
+    },
+    "REPECHAGE": {
+        "round 1-4": [
+            [
+                {
+                    "country": "ECU",
+                    "name": "Henrry PADILLA"
+                },
+                {
+                    "winner": "Henrry PADILLA"
+                }
+            ],
+            [
+                {
+                    "country": "CAN",
+                    "name": "Owen MACUMBER"
+                },
+                {
+                    "winner": "Owen MACUMBER"
+                }
+            ],
+            [
+                {
+                    "country": "GUA",
+                    "name": "Alejandro MORALES"
+                },
+                {
+                    "winner": "Alejandro MORALES"
+                }
+            ],
+            [
+                {
+                    "country": "COL",
+                    "name": "Jhon Jairo HENAO"
+                },
+                {
+                    "winner": "Jhon Jairo HENAO"
+                }
+            ]
+        ],
+        "round 1-2": [
+            [
+                {
+                    "country": "ECU",
+                    "name": "Henrry PADILLA"
+                },
+                {
+                    "country": "CAN",
+                    "name": "Owen MACUMBER"
+                },
+                {
+                    "winner": "Owen MACUMBER"
+                }
+            ],
+            [
+                {
+                    "country": "GUA",
+                    "name": "Alejandro MORALES"
+                },
+                {
+                    "country": "COL",
+                    "name": "Jhon Jairo HENAO"
+                },
+                {
+                    "winner": "Alejandro MORALES"
+                }
+            ],
+            [
+                {
+                    "country": "CAN",
+                    "name": "Owen MACUMBER"
+                },
+                {
+                    "country": "VEN",
+                    "name": "Juan DIAZ"
+                },
+                {
+                    "winner": "Juan DIAZ"
+                }
+            ],
+            [
+                {
+                    "country": "GUA",
+                    "name": "Alejandro MORALES"
+                },
+                {
+                    "country": "CHI",
+                    "name": "Franco ARISMENDI"
+                },
+                {
+                    "winner": "Franco ARISMENDI"
+                }
+            ],
+            [
+                {
+                    "country": "VEN",
+                    "name": "Juan DIAZ"
+                }
+            ],
+            [
+                {
+                    "country": "CHI",
+                    "name": "Franco ARISMENDI"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Juan DIAZ",
+            "Franco ARISMENDI"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Kayo SANTOS"
+                },
+                {
+                    "country": "CHI",
+                    "name": "Franco ARISMENDI"
+                },
+                {
+                    "winner": "Kayo SANTOS"
+                }
+            ],
+            [
+                {
+                    "country": "CAN",
+                    "name": "Amr ABD ELREHIM"
+                },
+                {
+                    "country": "VEN",
+                    "name": "Juan DIAZ"
+                },
+                {
+                    "winner": "Amr ABD ELREHIM"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Kayo SANTOS"
+                },
+                {
+                    "country": "CAN",
+                    "name": "Amr ABD ELREHIM"
+                }
+            ]
+        ],
+        "final_winner": "Kayo SANTOS"
+    }
+}

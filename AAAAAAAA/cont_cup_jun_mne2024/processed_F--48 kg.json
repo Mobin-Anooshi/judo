@@ -1,0 +1,159 @@
+{
+    "POOL A": {
+        "round 1-1": [],
+        "final_winner": "Heidi QUACH"
+    },
+    "POOL B": {
+        "round 1-1": [
+            [
+                {
+                    "country": "TUR",
+                    "name": "Elif KIRT"
+                },
+                {
+                    "country": "GRE",
+                    "name": "Maria Eleni GOGUA"
+                }
+            ]
+        ],
+        "final_winner": "Maria Eleni GOGUA"
+    },
+    "POOL C": {
+        "round 1-1": [
+            [
+                {
+                    "country": "CAN",
+                    "name": "Marie-Lune TURMEL"
+                },
+                {
+                    "country": "MNE",
+                    "name": "Marija SIMIC"
+                }
+            ]
+        ],
+        "final_winner": "Marie-Lune TURMEL"
+    },
+    "POOL D": {
+        "round 1-1": [
+            [
+                {
+                    "country": "GBR",
+                    "name": "Summer SHAW"
+                },
+                {
+                    "country": "TUR",
+                    "name": "Zeynep Betul SARIKAYA"
+                }
+            ]
+        ],
+        "final_winner": "Summer SHAW"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "TUR",
+                    "name": "Elif KIRT"
+                }
+            ],
+            [
+                {
+                    "country": "MNE",
+                    "name": "Marija SIMIC"
+                },
+                {
+                    "country": "TUR",
+                    "name": "Zeynep Betul SARIKAYA"
+                },
+                {
+                    "winner": "Marija SIMIC"
+                }
+            ],
+            [
+                {
+                    "country": "TUR",
+                    "name": "Elif KIRT"
+                },
+                {
+                    "country": "GBR",
+                    "name": "Summer SHAW"
+                },
+                {
+                    "winner": "Summer SHAW"
+                }
+            ],
+            [
+                {
+                    "country": "MNE",
+                    "name": "Marija SIMIC"
+                },
+                {
+                    "country": "CAN",
+                    "name": "Heidi QUACH"
+                },
+                {
+                    "winner": "Heidi QUACH"
+                }
+            ],
+            [
+                {
+                    "country": "GBR",
+                    "name": "Summer SHAW"
+                }
+            ],
+            [
+                {
+                    "country": "CAN",
+                    "name": "Heidi QUACH"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Summer SHAW",
+            "Heidi QUACH"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CAN",
+                    "name": "Heidi QUACH"
+                },
+                {
+                    "country": "GRE",
+                    "name": "Maria Eleni GOGUA"
+                },
+                {
+                    "winner": "Maria Eleni GOGUA"
+                }
+            ],
+            [
+                {
+                    "country": "CAN",
+                    "name": "Marie-Lune TURMEL"
+                },
+                {
+                    "country": "GBR",
+                    "name": "Summer SHAW"
+                },
+                {
+                    "winner": "Marie-Lune TURMEL"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "GRE",
+                    "name": "Maria Eleni GOGUA"
+                },
+                {
+                    "country": "CAN",
+                    "name": "Marie-Lune TURMEL"
+                }
+            ]
+        ],
+        "final_winner": "Marie-Lune TURMEL"
+    }
+}

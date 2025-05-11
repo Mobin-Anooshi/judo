@@ -1,0 +1,141 @@
+{
+    "POOL A": {
+        "round 1-1": [],
+        "final_winner": "Rochele NUNES"
+    },
+    "POOL B": {
+        "round 1-1": [
+            [
+                {
+                    "country": "DOM",
+                    "name": "Moira MORILLO"
+                },
+                {
+                    "country": "ECU",
+                    "name": "Marlin VIVEROS"
+                }
+            ]
+        ],
+        "final_winner": "Marlin VIVEROS"
+    },
+    "POOL C": {
+        "round 1-1": [],
+        "final_winner": "Nina CUTRO-KELLY"
+    },
+    "POOL D": {
+        "round 1-1": [
+            [
+                {
+                    "country": "USA",
+                    "name": "Mackenzie WILLIAMS"
+                },
+                {
+                    "country": "BRA",
+                    "name": "Istelina SILVA"
+                }
+            ]
+        ],
+        "final_winner": "Istelina SILVA"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "DOM",
+                    "name": "Moira MORILLO"
+                }
+            ],
+            [
+                {
+                    "country": "USA",
+                    "name": "Mackenzie WILLIAMS"
+                }
+            ],
+            [
+                {
+                    "country": "DOM",
+                    "name": "Moira MORILLO"
+                },
+                {
+                    "country": "BRA",
+                    "name": "Istelina SILVA"
+                },
+                {
+                    "winner": "Istelina SILVA"
+                }
+            ],
+            [
+                {
+                    "country": "USA",
+                    "name": "Mackenzie WILLIAMS"
+                },
+                {
+                    "country": "ECU",
+                    "name": "Marlin VIVEROS"
+                },
+                {
+                    "winner": "Marlin VIVEROS"
+                }
+            ],
+            [
+                {
+                    "country": "BRA",
+                    "name": "Istelina SILVA"
+                }
+            ],
+            [
+                {
+                    "country": "ECU",
+                    "name": "Marlin VIVEROS"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Istelina SILVA",
+            "Marlin VIVEROS"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Rochele NUNES"
+                },
+                {
+                    "country": "ECU",
+                    "name": "Marlin VIVEROS"
+                },
+                {
+                    "winner": "Rochele NUNES"
+                }
+            ],
+            [
+                {
+                    "country": "USA",
+                    "name": "Nina CUTRO-KELLY"
+                },
+                {
+                    "country": "BRA",
+                    "name": "Istelina SILVA"
+                },
+                {
+                    "winner": "Nina CUTRO-KELLY"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Rochele NUNES"
+                },
+                {
+                    "country": "USA",
+                    "name": "Nina CUTRO-KELLY"
+                }
+            ]
+        ],
+        "final_winner": "Rochele NUNES"
+    }
+}

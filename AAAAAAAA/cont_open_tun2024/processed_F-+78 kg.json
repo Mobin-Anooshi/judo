@@ -1,0 +1,177 @@
+{
+    "POOL A": {
+        "round 1-1": [
+            [
+                {
+                    "country": "TUN",
+                    "name": "Sarra MZOUGUI"
+                },
+                {
+                    "country": "LTU",
+                    "name": "Justina KMIELIAUSKAITE"
+                }
+            ]
+        ],
+        "final_winner": "Sarra MZOUGUI"
+    },
+    "POOL B": {
+        "round 1-1": [
+            [
+                {
+                    "country": "TUN",
+                    "name": "Zeineb TROUDI"
+                },
+                {
+                    "country": "GBR",
+                    "name": "Sarah BARRITT"
+                }
+            ]
+        ],
+        "final_winner": "Zeineb TROUDI"
+    },
+    "POOL C": {
+        "round 1-1": [
+            [
+                {
+                    "country": "POL",
+                    "name": "Kinga WOLSZCZAK"
+                },
+                {
+                    "country": "ALG",
+                    "name": "Nermine GRAOUA"
+                }
+            ]
+        ],
+        "final_winner": "Kinga WOLSZCZAK"
+    },
+    "POOL D": {
+        "round 1-1": [
+            [
+                {
+                    "country": "NED",
+                    "name": "Carmen DIJKSTRA"
+                },
+                {
+                    "country": "ALG",
+                    "name": "Yousra MECHEBBEK"
+                }
+            ]
+        ],
+        "final_winner": "Carmen DIJKSTRA"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "LTU",
+                    "name": "Justina KMIELIAUSKAITE"
+                },
+                {
+                    "country": "GBR",
+                    "name": "Sarah BARRITT"
+                },
+                {
+                    "winner": "Justina KMIELIAUSKAITE"
+                }
+            ],
+            [
+                {
+                    "country": "ALG",
+                    "name": "Nermine GRAOUA"
+                },
+                {
+                    "country": "ALG",
+                    "name": "Yousra MECHEBBEK"
+                },
+                {
+                    "winner": "Yousra MECHEBBEK"
+                }
+            ],
+            [
+                {
+                    "country": "LTU",
+                    "name": "Justina KMIELIAUSKAITE"
+                },
+                {
+                    "country": "POL",
+                    "name": "Kinga WOLSZCZAK"
+                },
+                {
+                    "winner": "Kinga WOLSZCZAK"
+                }
+            ],
+            [
+                {
+                    "country": "ALG",
+                    "name": "Yousra MECHEBBEK"
+                },
+                {
+                    "country": "TUN",
+                    "name": "Zeineb TROUDI"
+                },
+                {
+                    "winner": "Zeineb TROUDI"
+                }
+            ],
+            [
+                {
+                    "country": "POL",
+                    "name": "Kinga WOLSZCZAK"
+                }
+            ],
+            [
+                {
+                    "country": "TUN",
+                    "name": "Zeineb TROUDI"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Kinga WOLSZCZAK",
+            "Zeineb TROUDI"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "TUN",
+                    "name": "Sarra MZOUGUI"
+                },
+                {
+                    "country": "TUN",
+                    "name": "Zeineb TROUDI"
+                },
+                {
+                    "winner": "Sarra MZOUGUI"
+                }
+            ],
+            [
+                {
+                    "country": "POL",
+                    "name": "Kinga WOLSZCZAK"
+                },
+                {
+                    "country": "NED",
+                    "name": "Carmen DIJKSTRA"
+                },
+                {
+                    "winner": "Carmen DIJKSTRA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "TUN",
+                    "name": "Sarra MZOUGUI"
+                },
+                {
+                    "country": "NED",
+                    "name": "Carmen DIJKSTRA"
+                }
+            ]
+        ],
+        "final_winner": "Sarra MZOUGUI"
+    }
+}

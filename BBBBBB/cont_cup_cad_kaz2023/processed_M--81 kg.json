@@ -1,0 +1,289 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "KAZ",
+                    "name": "Dosbol BALGABAY"
+                },
+                {
+                    "country": "LAT",
+                    "name": "Jelisejs BUMAZKINS"
+                },
+                {
+                    "winner": "Dosbol BALGABAY"
+                }
+            ],
+            [
+                {
+                    "country": "UZB",
+                    "name": "Kamronbek JUMABOEV"
+                },
+                {
+                    "country": "KAZ",
+                    "name": "Zhassulan SAIIN"
+                },
+                {
+                    "winner": "Zhassulan SAIIN"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "KAZ",
+                    "name": "Dosbol BALGABAY"
+                },
+                {
+                    "country": "KAZ",
+                    "name": "Zhassulan SAIIN"
+                }
+            ]
+        ],
+        "final_winner": "Dosbol BALGABAY"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "KAZ",
+                    "name": "Madiyar TLEUKHAN"
+                },
+                {
+                    "country": "UZB",
+                    "name": "Mustafo YUNUSOV"
+                },
+                {
+                    "winner": "Mustafo YUNUSOV"
+                }
+            ],
+            [
+                {
+                    "country": "KGZ",
+                    "name": "Daniiar MELISOV"
+                },
+                {
+                    "country": "UZB",
+                    "name": "Botir YULDASHEV"
+                },
+                {
+                    "winner": "Botir YULDASHEV"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "UZB",
+                    "name": "Mustafo YUNUSOV"
+                },
+                {
+                    "country": "UZB",
+                    "name": "Botir YULDASHEV"
+                }
+            ]
+        ],
+        "final_winner": "Botir YULDASHEV"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "KAZ",
+                    "name": "Rassul MUKHUM"
+                },
+                {
+                    "country": "KGZ",
+                    "name": "Iskhak SAPARALIEV"
+                },
+                {
+                    "winner": "Rassul MUKHUM"
+                }
+            ],
+            [
+                {
+                    "country": "KAZ",
+                    "name": "Alisher SERIK"
+                },
+                {
+                    "country": "UZB",
+                    "name": "Bekhruzbek RUSTAMBOEV"
+                },
+                {
+                    "winner": "Bekhruzbek RUSTAMBOEV"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "KAZ",
+                    "name": "Rassul MUKHUM"
+                },
+                {
+                    "country": "UZB",
+                    "name": "Bekhruzbek RUSTAMBOEV"
+                }
+            ]
+        ],
+        "final_winner": "Rassul MUKHUM"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "UZB",
+                    "name": "Abror NURMANOV"
+                },
+                {
+                    "country": "KAZ",
+                    "name": "Dinnur KOREGEN"
+                },
+                {
+                    "winner": "Abror NURMANOV"
+                }
+            ],
+            [
+                {
+                    "country": "TJK",
+                    "name": "Jahongir NOROV"
+                },
+                {
+                    "country": "UZB",
+                    "name": "Muhammadali SADULLAEV"
+                },
+                {
+                    "winner": "Jahongir NOROV"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "UZB",
+                    "name": "Abror NURMANOV"
+                },
+                {
+                    "country": "TJK",
+                    "name": "Jahongir NOROV"
+                }
+            ]
+        ],
+        "final_winner": "Abror NURMANOV"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "KAZ",
+                    "name": "Zhassulan SAIIN"
+                },
+                {
+                    "country": "UZB",
+                    "name": "Mustafo YUNUSOV"
+                },
+                {
+                    "winner": "Zhassulan SAIIN"
+                }
+            ],
+            [
+                {
+                    "country": "UZB",
+                    "name": "Bekhruzbek RUSTAMBOEV"
+                },
+                {
+                    "country": "TJK",
+                    "name": "Jahongir NOROV"
+                },
+                {
+                    "winner": "Bekhruzbek RUSTAMBOEV"
+                }
+            ],
+            [
+                {
+                    "country": "KAZ",
+                    "name": "Zhassulan SAIIN"
+                },
+                {
+                    "country": "KAZ",
+                    "name": "Rassul MUKHUM"
+                },
+                {
+                    "winner": "Rassul MUKHUM"
+                }
+            ],
+            [
+                {
+                    "country": "UZB",
+                    "name": "Bekhruzbek RUSTAMBOEV"
+                },
+                {
+                    "country": "UZB",
+                    "name": "Botir YULDASHEV"
+                },
+                {
+                    "winner": "Bekhruzbek RUSTAMBOEV"
+                }
+            ],
+            [
+                {
+                    "country": "KAZ",
+                    "name": "Rassul MUKHUM"
+                }
+            ],
+            [
+                {
+                    "country": "UZB",
+                    "name": "Bekhruzbek RUSTAMBOEV"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Rassul MUKHUM",
+            "Bekhruzbek RUSTAMBOEV"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "KAZ",
+                    "name": "Dosbol BALGABAY"
+                },
+                {
+                    "country": "UZB",
+                    "name": "Botir YULDASHEV"
+                },
+                {
+                    "winner": "Dosbol BALGABAY"
+                }
+            ],
+            [
+                {
+                    "country": "KAZ",
+                    "name": "Rassul MUKHUM"
+                },
+                {
+                    "country": "UZB",
+                    "name": "Abror NURMANOV"
+                },
+                {
+                    "winner": "Abror NURMANOV"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "KAZ",
+                    "name": "Dosbol BALGABAY"
+                },
+                {
+                    "country": "UZB",
+                    "name": "Abror NURMANOV"
+                }
+            ]
+        ],
+        "final_winner": "Dosbol BALGABAY"
+    }
+}

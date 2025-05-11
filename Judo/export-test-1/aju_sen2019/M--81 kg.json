@@ -1,0 +1,285 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "EGY",
+                    "name": "Mohamed ABDELAAL"
+                },
+                {
+                    "country": "MLI",
+                    "name": "Lassana NIARE"
+                },
+                {
+                    "winner": "Mohamed ABDELAAL"
+                }
+            ],
+            [
+                {
+                    "country": "MRI",
+                    "name": "Jason BIJOU"
+                },
+                {
+                    "winner": "Jason BIJOU"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "EGY",
+                    "name": "Mohamed ABDELAAL"
+                },
+                {
+                    "country": "MRI",
+                    "name": "Jason BIJOU"
+                }
+            ]
+        ],
+        "final_winner": "Mohamed ABDELAAL"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "EGY",
+                    "name": "Abdelrahman MOHAMED"
+                },
+                {
+                    "country": "TOG",
+                    "name": "Sacha DENANYOH"
+                },
+                {
+                    "winner": "Abdelrahman MOHAMED"
+                }
+            ],
+            [
+                {
+                    "country": "GAB",
+                    "name": "Terence KOUAMBA"
+                },
+                {
+                    "country": "CMR",
+                    "name": "Franck BELL NGINDJEL"
+                },
+                {
+                    "winner": "Franck BELL NGINDJEL"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "EGY",
+                    "name": "Abdelrahman MOHAMED"
+                },
+                {
+                    "country": "CMR",
+                    "name": "Franck BELL NGINDJEL"
+                }
+            ]
+        ],
+        "final_winner": "Abdelrahman MOHAMED"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "MAR",
+                    "name": "Achraf MOUTII"
+                },
+                {
+                    "country": "CIV",
+                    "name": "Nandjo YAPI"
+                },
+                {
+                    "winner": "Achraf MOUTII"
+                }
+            ],
+            [
+                {
+                    "country": "ALG",
+                    "name": "Youcef Mokhtar ZALLAT"
+                },
+                {
+                    "country": "RSA",
+                    "name": "Daniel BOSMAN"
+                },
+                {
+                    "winner": "Youcef Mokhtar ZALLAT"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "MAR",
+                    "name": "Achraf MOUTII"
+                },
+                {
+                    "country": "ALG",
+                    "name": "Youcef Mokhtar ZALLAT"
+                }
+            ]
+        ],
+        "final_winner": "Achraf MOUTII"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "TUN",
+                    "name": "Abdelaziz BEN AMMAR"
+                },
+                {
+                    "country": "MOZ",
+                    "name": "Uricson MACHACANE"
+                },
+                {
+                    "winner": "Abdelaziz BEN AMMAR"
+                }
+            ],
+            [
+                {
+                    "country": "COD",
+                    "name": "Kalonji MBUYI"
+                },
+                {
+                    "country": "MRI",
+                    "name": "Joachim ANDRE"
+                },
+                {
+                    "winner": "Kalonji MBUYI"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "TUN",
+                    "name": "Abdelaziz BEN AMMAR"
+                },
+                {
+                    "country": "COD",
+                    "name": "Kalonji MBUYI"
+                }
+            ]
+        ],
+        "final_winner": "Abdelaziz BEN AMMAR"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "MRI",
+                    "name": "Jason BIJOU"
+                },
+                {
+                    "country": "CMR",
+                    "name": "Franck BELL NGINDJEL"
+                },
+                {
+                    "winner": "Franck BELL NGINDJEL"
+                }
+            ],
+            [
+                {
+                    "country": "ALG",
+                    "name": "Youcef Mokhtar ZALLAT"
+                },
+                {
+                    "country": "COD",
+                    "name": "Kalonji MBUYI"
+                },
+                {
+                    "winner": "Youcef Mokhtar ZALLAT"
+                }
+            ],
+            [
+                {
+                    "country": "CMR",
+                    "name": "Franck BELL NGINDJEL"
+                },
+                {
+                    "country": "MAR",
+                    "name": "Achraf MOUTII"
+                },
+                {
+                    "winner": "Achraf MOUTII"
+                }
+            ],
+            [
+                {
+                    "country": "ALG",
+                    "name": "Youcef Mokhtar ZALLAT"
+                },
+                {
+                    "country": "EGY",
+                    "name": "Abdelrahman MOHAMED"
+                },
+                {
+                    "winner": "Abdelrahman MOHAMED"
+                }
+            ],
+            [
+                {
+                    "country": "MAR",
+                    "name": "Achraf MOUTII"
+                }
+            ],
+            [
+                {
+                    "country": "EGY",
+                    "name": "Abdelrahman MOHAMED"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Achraf MOUTII",
+            "Abdelrahman MOHAMED"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "EGY",
+                    "name": "Mohamed ABDELAAL"
+                },
+                {
+                    "country": "EGY",
+                    "name": "Abdelrahman MOHAMED"
+                },
+                {
+                    "winner": "Mohamed ABDELAAL"
+                }
+            ],
+            [
+                {
+                    "country": "MAR",
+                    "name": "Achraf MOUTII"
+                },
+                {
+                    "country": "TUN",
+                    "name": "Abdelaziz BEN AMMAR"
+                },
+                {
+                    "winner": "Abdelaziz BEN AMMAR"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "EGY",
+                    "name": "Mohamed ABDELAAL"
+                },
+                {
+                    "country": "TUN",
+                    "name": "Abdelaziz BEN AMMAR"
+                }
+            ]
+        ],
+        "final_winner": "Mohamed ABDELAAL"
+    }
+}

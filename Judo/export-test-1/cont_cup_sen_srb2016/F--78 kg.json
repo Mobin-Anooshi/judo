@@ -1,0 +1,221 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "HUN",
+                    "name": "Evelin SALANKI"
+                },
+                {
+                    "winner": "Evelin SALANKI"
+                }
+            ],
+            []
+        ],
+        "round 1-1": [],
+        "final_winner": "Evelin SALANKI"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CRO",
+                    "name": "Ivana MARANIC"
+                },
+                {
+                    "winner": "Ivana MARANIC"
+                }
+            ],
+            [
+                {
+                    "country": "BIH",
+                    "name": "Sabina HARACIC"
+                },
+                {
+                    "winner": "Sabina HARACIC"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "CRO",
+                    "name": "Ivana MARANIC"
+                },
+                {
+                    "country": "BIH",
+                    "name": "Sabina HARACIC"
+                }
+            ]
+        ],
+        "final_winner": "Ivana MARANIC"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ITA",
+                    "name": "Melora ROSETTA"
+                },
+                {
+                    "winner": "Melora ROSETTA"
+                }
+            ],
+            [
+                {
+                    "country": "CRO",
+                    "name": "Karla PRODAN"
+                },
+                {
+                    "winner": "Karla PRODAN"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "ITA",
+                    "name": "Melora ROSETTA"
+                },
+                {
+                    "country": "CRO",
+                    "name": "Karla PRODAN"
+                }
+            ]
+        ],
+        "final_winner": "Melora ROSETTA"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "RUS",
+                    "name": "Antonina SHMELEVA"
+                },
+                {
+                    "winner": "Antonina SHMELEVA"
+                }
+            ],
+            []
+        ],
+        "round 1-1": [],
+        "final_winner": "Antonina SHMELEVA"
+    },
+    "REPECHAGE": {
+        "round 1-4": [
+            [],
+            [
+                {
+                    "country": "BIH",
+                    "name": "Sabina HARACIC"
+                },
+                {
+                    "winner": "Sabina HARACIC"
+                }
+            ],
+            [
+                {
+                    "country": "CRO",
+                    "name": "Karla PRODAN"
+                },
+                {
+                    "winner": "Karla PRODAN"
+                }
+            ],
+            []
+        ],
+        "round 1-2": [
+            [
+                {
+                    "country": "BIH",
+                    "name": "Sabina HARACIC"
+                }
+            ],
+            [
+                {
+                    "country": "CRO",
+                    "name": "Karla PRODAN"
+                }
+            ],
+            [
+                {
+                    "country": "BIH",
+                    "name": "Sabina HARACIC"
+                },
+                {
+                    "country": "ITA",
+                    "name": "Melora ROSETTA"
+                },
+                {
+                    "winner": "Melora ROSETTA"
+                }
+            ],
+            [
+                {
+                    "country": "CRO",
+                    "name": "Karla PRODAN"
+                },
+                {
+                    "country": "CRO",
+                    "name": "Ivana MARANIC"
+                },
+                {
+                    "winner": "Karla PRODAN"
+                }
+            ],
+            [
+                {
+                    "country": "ITA",
+                    "name": "Melora ROSETTA"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Karla PRODAN",
+            "Melora ROSETTA"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "HUN",
+                    "name": "Evelin SALANKI"
+                },
+                {
+                    "country": "CRO",
+                    "name": "Ivana MARANIC"
+                },
+                {
+                    "winner": "Evelin SALANKI"
+                }
+            ],
+            [
+                {
+                    "country": "ITA",
+                    "name": "Melora ROSETTA"
+                },
+                {
+                    "country": "RUS",
+                    "name": "Antonina SHMELEVA"
+                },
+                {
+                    "winner": "Antonina SHMELEVA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "HUN",
+                    "name": "Evelin SALANKI"
+                },
+                {
+                    "country": "RUS",
+                    "name": "Antonina SHMELEVA"
+                }
+            ]
+        ],
+        "final_winner": "Antonina SHMELEVA"
+    }
+}

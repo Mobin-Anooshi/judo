@@ -1,0 +1,87 @@
+{
+    "POOL A": {
+        "round 1-3": [
+            [
+                {
+                    "country": "PER",
+                    "name": "Johana VALDIVIEZO"
+                },
+                {
+                    "country": "PER",
+                    "name": "Romina BALTAZAR"
+                },
+                {
+                    "winner": "Johana VALDIVIEZO"
+                }
+            ],
+            [
+                {
+                    "country": "PER",
+                    "name": "Johana VALDIVIEZO"
+                },
+                {
+                    "country": "CRC",
+                    "name": "Jimena ARCE LACAYO"
+                },
+                {
+                    "winner": "Jimena ARCE LACAYO"
+                }
+            ],
+            [
+                {
+                    "country": "PER",
+                    "name": "Romina BALTAZAR"
+                },
+                {
+                    "country": "CRC",
+                    "name": "Jimena ARCE LACAYO"
+                },
+                {
+                    "winner": "Romina BALTAZAR"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Romina BALTAZAR",
+            "Jimena ARCE LACAYO"
+        ]
+    },
+    "POOL B": {
+        "round 1-1": [],
+        "final_winners": [
+            "Audreys PACHECO"
+        ]
+    },
+    "REPECHAGE": {
+        "round 1-1": [
+            [
+                {
+                    "country": "PER",
+                    "name": "Romina BALTAZAR"
+                },
+                {
+                    "country": "PER",
+                    "name": "Luciana JULCA"
+                },
+                {
+                    "winner": "Luciana JULCA"
+                }
+            ],
+            [
+                {
+                    "country": "PER",
+                    "name": "Luciana JULCA"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Luciana JULCA"
+        ]
+    },
+    "FINALS": {
+        "round 1-1": [],
+        "final_winners": [
+            "Audreys PACHECO"
+        ]
+    }
+}

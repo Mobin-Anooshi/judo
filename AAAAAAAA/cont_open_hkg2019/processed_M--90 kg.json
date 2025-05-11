@@ -1,0 +1,159 @@
+{
+    "POOL A": {
+        "round 1-1": [],
+        "final_winner": "Antony JOUBERT"
+    },
+    "POOL B": {
+        "round 1-1": [
+            [
+                {
+                    "country": "KOR",
+                    "name": "Wijin LEE"
+                },
+                {
+                    "country": "MGL",
+                    "name": "Erdenebadrakh OTGONBAATAR"
+                }
+            ]
+        ],
+        "final_winner": "Wijin LEE"
+    },
+    "POOL C": {
+        "round 1-1": [
+            [
+                {
+                    "country": "FRA",
+                    "name": "Loris TASSIER"
+                },
+                {
+                    "country": "KOR",
+                    "name": "Mujae lee"
+                }
+            ]
+        ],
+        "final_winner": "Loris TASSIER"
+    },
+    "POOL D": {
+        "round 1-1": [
+            [
+                {
+                    "country": "HKG",
+                    "name": "Ying Ki TAM"
+                },
+                {
+                    "country": "KOR",
+                    "name": "Namhoon LEE"
+                }
+            ]
+        ],
+        "final_winner": "Namhoon LEE"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "MGL",
+                    "name": "Erdenebadrakh OTGONBAATAR"
+                }
+            ],
+            [
+                {
+                    "country": "KOR",
+                    "name": "Mujae lee"
+                },
+                {
+                    "country": "HKG",
+                    "name": "Ying Ki TAM"
+                },
+                {
+                    "winner": "Mujae lee"
+                }
+            ],
+            [
+                {
+                    "country": "MGL",
+                    "name": "Erdenebadrakh OTGONBAATAR"
+                },
+                {
+                    "country": "FRA",
+                    "name": "Loris TASSIER"
+                },
+                {
+                    "winner": "Loris TASSIER"
+                }
+            ],
+            [
+                {
+                    "country": "KOR",
+                    "name": "Mujae lee"
+                },
+                {
+                    "country": "FRA",
+                    "name": "Antony JOUBERT"
+                },
+                {
+                    "winner": "Antony JOUBERT"
+                }
+            ],
+            [
+                {
+                    "country": "FRA",
+                    "name": "Loris TASSIER"
+                }
+            ],
+            [
+                {
+                    "country": "FRA",
+                    "name": "Antony JOUBERT"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Loris TASSIER",
+            "Antony JOUBERT"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "FRA",
+                    "name": "Antony JOUBERT"
+                },
+                {
+                    "country": "KOR",
+                    "name": "Wijin LEE"
+                },
+                {
+                    "winner": "Wijin LEE"
+                }
+            ],
+            [
+                {
+                    "country": "FRA",
+                    "name": "Loris TASSIER"
+                },
+                {
+                    "country": "KOR",
+                    "name": "Namhoon LEE"
+                },
+                {
+                    "winner": "Namhoon LEE"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "KOR",
+                    "name": "Wijin LEE"
+                },
+                {
+                    "country": "KOR",
+                    "name": "Namhoon LEE"
+                }
+            ]
+        ],
+        "final_winner": "Wijin LEE"
+    }
+}

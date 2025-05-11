@@ -1,0 +1,153 @@
+{
+    "POOL A": {
+        "round 1-1": [],
+        "final_winner": "Sofia BELATTAR"
+    },
+    "POOL B": {
+        "round 1-1": [
+            [
+                {
+                    "country": "CMR",
+                    "name": "Helene WEZEU DOMBEU"
+                },
+                {
+                    "country": "RSA",
+                    "name": "Jasmine MARTIN"
+                }
+            ]
+        ],
+        "final_winner": "Helene WEZEU DOMBEU"
+    },
+    "POOL C": {
+        "round 1-1": [
+            [
+                {
+                    "country": "TUN",
+                    "name": "Meriem BJAOUI"
+                },
+                {
+                    "country": "RSA",
+                    "name": "Leanco STANS"
+                }
+            ]
+        ],
+        "final_winner": "Meriem BJAOUI"
+    },
+    "POOL D": {
+        "round 1-1": [
+            [
+                {
+                    "country": "ALG",
+                    "name": "Amina BELKADI"
+                },
+                {
+                    "country": "MRI",
+                    "name": "Kimberley JEAN PIERRE"
+                }
+            ]
+        ],
+        "final_winner": "Amina BELKADI"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "RSA",
+                    "name": "Jasmine MARTIN"
+                }
+            ],
+            [
+                {
+                    "country": "RSA",
+                    "name": "Leanco STANS"
+                },
+                {
+                    "country": "MRI",
+                    "name": "Kimberley JEAN PIERRE"
+                },
+                {
+                    "winner": "Kimberley JEAN PIERRE"
+                }
+            ],
+            [
+                {
+                    "country": "RSA",
+                    "name": "Jasmine MARTIN"
+                },
+                {
+                    "country": "TUN",
+                    "name": "Meriem BJAOUI"
+                },
+                {
+                    "winner": "Jasmine MARTIN"
+                }
+            ],
+            [
+                {
+                    "country": "MRI",
+                    "name": "Kimberley JEAN PIERRE"
+                },
+                {
+                    "country": "CMR",
+                    "name": "Helene WEZEU DOMBEU"
+                },
+                {
+                    "winner": "Helene WEZEU DOMBEU"
+                }
+            ],
+            [
+                {
+                    "country": "CMR",
+                    "name": "Helene WEZEU DOMBEU"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Kimberley JEAN PIERRE",
+            "Jasmine MARTIN"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "MAR",
+                    "name": "Sofia BELATTAR"
+                },
+                {
+                    "country": "CMR",
+                    "name": "Helene WEZEU DOMBEU"
+                },
+                {
+                    "winner": "Sofia BELATTAR"
+                }
+            ],
+            [
+                {
+                    "country": "TUN",
+                    "name": "Meriem BJAOUI"
+                },
+                {
+                    "country": "ALG",
+                    "name": "Amina BELKADI"
+                },
+                {
+                    "winner": "Amina BELKADI"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "MAR",
+                    "name": "Sofia BELATTAR"
+                },
+                {
+                    "country": "ALG",
+                    "name": "Amina BELKADI"
+                }
+            ]
+        ],
+        "final_winner": "Amina BELKADI"
+    }
+}

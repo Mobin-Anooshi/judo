@@ -1,0 +1,285 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CIV",
+                    "name": "Koffi Kreme KOBENA"
+                },
+                {
+                    "winner": "Koffi Kreme KOBENA"
+                }
+            ],
+            [
+                {
+                    "country": "MTN",
+                    "name": "Abdoul NDONGO"
+                },
+                {
+                    "country": "EGY",
+                    "name": "Karim IBRAHIM"
+                },
+                {
+                    "winner": "Karim IBRAHIM"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "CIV",
+                    "name": "Koffi Kreme KOBENA"
+                },
+                {
+                    "country": "EGY",
+                    "name": "Karim IBRAHIM"
+                }
+            ]
+        ],
+        "final_winner": "Karim IBRAHIM"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ALG",
+                    "name": "Abdellah FALA"
+                },
+                {
+                    "country": "COD",
+                    "name": "Yannick MBUYI KONGOLO"
+                },
+                {
+                    "winner": "Abdellah FALA"
+                }
+            ],
+            [
+                {
+                    "country": "BEN",
+                    "name": "Celtus DOSSOU YOVO"
+                },
+                {
+                    "country": "MLI",
+                    "name": "Ousmane DIALLO"
+                },
+                {
+                    "winner": "Ousmane DIALLO"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "ALG",
+                    "name": "Abdellah FALA"
+                },
+                {
+                    "country": "MLI",
+                    "name": "Ousmane DIALLO"
+                }
+            ]
+        ],
+        "final_winner": "Abdellah FALA"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "TUN",
+                    "name": "Koussay BEN GHARES"
+                },
+                {
+                    "country": "EGY",
+                    "name": "Hady HUSSEIN"
+                },
+                {
+                    "winner": "Koussay BEN GHARES"
+                }
+            ],
+            [
+                {
+                    "country": "SEY",
+                    "name": "Alexander QUILINDO"
+                },
+                {
+                    "country": "IJF",
+                    "name": "Charly MOKILI"
+                },
+                {
+                    "winner": "Charly MOKILI"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "TUN",
+                    "name": "Koussay BEN GHARES"
+                },
+                {
+                    "country": "IJF",
+                    "name": "Charly MOKILI"
+                }
+            ]
+        ],
+        "final_winner": "Koussay BEN GHARES"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CMR",
+                    "name": "Franck Ulrick TAHMAN ZAN"
+                },
+                {
+                    "country": "RSA",
+                    "name": "Lwazi MAPITIZA"
+                },
+                {
+                    "winner": "Franck Ulrick TAHMAN ZAN"
+                }
+            ],
+            [
+                {
+                    "country": "AJU",
+                    "name": "Ismael CORREIA"
+                },
+                {
+                    "country": "GHA",
+                    "name": "Waheed DODOO"
+                },
+                {
+                    "winner": "Ismael CORREIA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "CMR",
+                    "name": "Franck Ulrick TAHMAN ZAN"
+                },
+                {
+                    "country": "AJU",
+                    "name": "Ismael CORREIA"
+                }
+            ]
+        ],
+        "final_winner": "Franck Ulrick TAHMAN ZAN"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CIV",
+                    "name": "Koffi Kreme KOBENA"
+                },
+                {
+                    "country": "MLI",
+                    "name": "Ousmane DIALLO"
+                },
+                {
+                    "winner": "Koffi Kreme KOBENA"
+                }
+            ],
+            [
+                {
+                    "country": "IJF",
+                    "name": "Charly MOKILI"
+                },
+                {
+                    "country": "AJU",
+                    "name": "Ismael CORREIA"
+                },
+                {
+                    "winner": "Ismael CORREIA"
+                }
+            ],
+            [
+                {
+                    "country": "CIV",
+                    "name": "Koffi Kreme KOBENA"
+                },
+                {
+                    "country": "CMR",
+                    "name": "Franck Ulrick TAHMAN ZAN"
+                },
+                {
+                    "winner": "Koffi Kreme KOBENA"
+                }
+            ],
+            [
+                {
+                    "country": "AJU",
+                    "name": "Ismael CORREIA"
+                },
+                {
+                    "country": "EGY",
+                    "name": "Karim IBRAHIM"
+                },
+                {
+                    "winner": "Karim IBRAHIM"
+                }
+            ],
+            [
+                {
+                    "country": "CIV",
+                    "name": "Koffi Kreme KOBENA"
+                }
+            ],
+            [
+                {
+                    "country": "EGY",
+                    "name": "Karim IBRAHIM"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Koffi Kreme KOBENA",
+            "Karim IBRAHIM"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "EGY",
+                    "name": "Karim IBRAHIM"
+                },
+                {
+                    "country": "ALG",
+                    "name": "Abdellah FALA"
+                },
+                {
+                    "winner": "Abdellah FALA"
+                }
+            ],
+            [
+                {
+                    "country": "TUN",
+                    "name": "Koussay BEN GHARES"
+                },
+                {
+                    "country": "CMR",
+                    "name": "Franck Ulrick TAHMAN ZAN"
+                },
+                {
+                    "winner": "Koussay BEN GHARES"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "ALG",
+                    "name": "Abdellah FALA"
+                },
+                {
+                    "country": "TUN",
+                    "name": "Koussay BEN GHARES"
+                }
+            ]
+        ],
+        "final_winner": "Koussay BEN GHARES"
+    }
+}

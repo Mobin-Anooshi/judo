@@ -1,0 +1,141 @@
+{
+    "POOL A": {
+        "round 1-1": [],
+        "final_winner": "Abdellah REMOUCHE"
+    },
+    "POOL B": {
+        "round 1-1": [
+            [
+                {
+                    "country": "EGY",
+                    "name": "Zeyad AYMAN"
+                },
+                {
+                    "country": "RSA",
+                    "name": "Christiaan GILIOMEE"
+                }
+            ]
+        ],
+        "final_winner": "Zeyad AYMAN"
+    },
+    "POOL C": {
+        "round 1-1": [
+            [
+                {
+                    "country": "EGY",
+                    "name": "Fares SOBHY"
+                },
+                {
+                    "country": "TUN",
+                    "name": "Ramzi HOSNI"
+                }
+            ]
+        ],
+        "final_winner": "Fares SOBHY"
+    },
+    "POOL D": {
+        "round 1-1": [],
+        "final_winner": "MOHAMED AMINE SALAH AIECH"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "RSA",
+                    "name": "Christiaan GILIOMEE"
+                }
+            ],
+            [
+                {
+                    "country": "TUN",
+                    "name": "Ramzi HOSNI"
+                }
+            ],
+            [
+                {
+                    "country": "RSA",
+                    "name": "Christiaan GILIOMEE"
+                },
+                {
+                    "country": "ALG",
+                    "name": "MOHAMED AMINE SALAH AIECH"
+                },
+                {
+                    "winner": "MOHAMED AMINE SALAH AIECH"
+                }
+            ],
+            [
+                {
+                    "country": "TUN",
+                    "name": "Ramzi HOSNI"
+                },
+                {
+                    "country": "ALG",
+                    "name": "Abdellah REMOUCHE"
+                },
+                {
+                    "winner": "Abdellah REMOUCHE"
+                }
+            ],
+            [
+                {
+                    "country": "ALG",
+                    "name": "MOHAMED AMINE SALAH AIECH"
+                }
+            ],
+            [
+                {
+                    "country": "ALG",
+                    "name": "Abdellah REMOUCHE"
+                }
+            ]
+        ],
+        "final_winners": [
+            "MOHAMED AMINE SALAH AIECH",
+            "Abdellah REMOUCHE"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ALG",
+                    "name": "Abdellah REMOUCHE"
+                },
+                {
+                    "country": "EGY",
+                    "name": "Zeyad AYMAN"
+                },
+                {
+                    "winner": "Zeyad AYMAN"
+                }
+            ],
+            [
+                {
+                    "country": "EGY",
+                    "name": "Fares SOBHY"
+                },
+                {
+                    "country": "ALG",
+                    "name": "MOHAMED AMINE SALAH AIECH"
+                },
+                {
+                    "winner": "Fares SOBHY"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "EGY",
+                    "name": "Zeyad AYMAN"
+                },
+                {
+                    "country": "EGY",
+                    "name": "Fares SOBHY"
+                }
+            ]
+        ],
+        "final_winner": "Fares SOBHY"
+    }
+}

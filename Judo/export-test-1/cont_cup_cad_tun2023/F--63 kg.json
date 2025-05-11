@@ -1,0 +1,261 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "EGY",
+                    "name": "Sagda GHONIM"
+                },
+                {
+                    "winner": "Sagda GHONIM"
+                }
+            ],
+            [
+                {
+                    "country": "ALG",
+                    "name": "Hadjer ARRAS"
+                },
+                {
+                    "country": "TUN",
+                    "name": "Minyar CHERNI"
+                },
+                {
+                    "winner": "Hadjer ARRAS"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "EGY",
+                    "name": "Sagda GHONIM"
+                },
+                {
+                    "country": "ALG",
+                    "name": "Hadjer ARRAS"
+                }
+            ]
+        ],
+        "final_winner": "Sagda GHONIM"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "TUN",
+                    "name": "Ons ROMDHANI"
+                },
+                {
+                    "winner": "Ons ROMDHANI"
+                }
+            ],
+            [
+                {
+                    "country": "BIH",
+                    "name": "Amina Merjem HEBIB"
+                },
+                {
+                    "winner": "Amina Merjem HEBIB"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "TUN",
+                    "name": "Ons ROMDHANI"
+                },
+                {
+                    "country": "BIH",
+                    "name": "Amina Merjem HEBIB"
+                }
+            ]
+        ],
+        "final_winner": "Amina Merjem HEBIB"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "BIH",
+                    "name": "Korina DZIDIC"
+                },
+                {
+                    "winner": "Korina DZIDIC"
+                }
+            ],
+            [
+                {
+                    "country": "TUN",
+                    "name": "Hayet AYED"
+                },
+                {
+                    "winner": "Hayet AYED"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "BIH",
+                    "name": "Korina DZIDIC"
+                },
+                {
+                    "country": "TUN",
+                    "name": "Hayet AYED"
+                }
+            ]
+        ],
+        "final_winner": "Hayet AYED"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "TUN",
+                    "name": "Alaa FESSI"
+                },
+                {
+                    "winner": "Alaa FESSI"
+                }
+            ],
+            [
+                {
+                    "country": "GRE",
+                    "name": "Anna PAPASTERGIOU"
+                },
+                {
+                    "winner": "Anna PAPASTERGIOU"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "TUN",
+                    "name": "Alaa FESSI"
+                },
+                {
+                    "country": "GRE",
+                    "name": "Anna PAPASTERGIOU"
+                }
+            ]
+        ],
+        "final_winner": "Alaa FESSI"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ALG",
+                    "name": "Hadjer ARRAS"
+                },
+                {
+                    "country": "TUN",
+                    "name": "Ons ROMDHANI"
+                },
+                {
+                    "winner": "Ons ROMDHANI"
+                }
+            ],
+            [
+                {
+                    "country": "BIH",
+                    "name": "Korina DZIDIC"
+                },
+                {
+                    "country": "GRE",
+                    "name": "Anna PAPASTERGIOU"
+                },
+                {
+                    "winner": "Korina DZIDIC"
+                }
+            ],
+            [
+                {
+                    "country": "TUN",
+                    "name": "Ons ROMDHANI"
+                },
+                {
+                    "country": "TUN",
+                    "name": "Hayet AYED"
+                },
+                {
+                    "winner": "Ons ROMDHANI"
+                }
+            ],
+            [
+                {
+                    "country": "BIH",
+                    "name": "Korina DZIDIC"
+                },
+                {
+                    "country": "EGY",
+                    "name": "Sagda GHONIM"
+                },
+                {
+                    "winner": "Korina DZIDIC"
+                }
+            ],
+            [
+                {
+                    "country": "TUN",
+                    "name": "Ons ROMDHANI"
+                }
+            ],
+            [
+                {
+                    "country": "BIH",
+                    "name": "Korina DZIDIC"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Ons ROMDHANI",
+            "Korina DZIDIC"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "EGY",
+                    "name": "Sagda GHONIM"
+                },
+                {
+                    "country": "BIH",
+                    "name": "Amina Merjem HEBIB"
+                },
+                {
+                    "winner": "Amina Merjem HEBIB"
+                }
+            ],
+            [
+                {
+                    "country": "TUN",
+                    "name": "Hayet AYED"
+                },
+                {
+                    "country": "TUN",
+                    "name": "Alaa FESSI"
+                },
+                {
+                    "winner": "Alaa FESSI"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "BIH",
+                    "name": "Amina Merjem HEBIB"
+                },
+                {
+                    "country": "TUN",
+                    "name": "Alaa FESSI"
+                }
+            ]
+        ],
+        "final_winner": "Alaa FESSI"
+    }
+}

@@ -1,0 +1,278 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CAN",
+                    "name": "Antoine BOUCHARD"
+                },
+                {
+                    "winner": "Antoine BOUCHARD"
+                }
+            ],
+            [
+                {
+                    "country": "ARG",
+                    "name": "Matteo ETCHECHURY"
+                },
+                {
+                    "country": "BRA",
+                    "name": "Daniel CARGNIN"
+                },
+                {
+                    "winner": "Daniel CARGNIN"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "CAN",
+                    "name": "Antoine BOUCHARD"
+                },
+                {
+                    "country": "BRA",
+                    "name": "Daniel CARGNIN"
+                }
+            ],
+            [
+                {
+                    "country": "BRA",
+                    "name": "Daniel CARGNIN"
+                }
+            ]
+        ]
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "COL",
+                    "name": "Andres SANDOVAL"
+                },
+                {
+                    "winner": "Andres SANDOVAL"
+                }
+            ],
+            [
+                {
+                    "country": "CHI",
+                    "name": "Juan Pablo VEGA"
+                },
+                {
+                    "winner": "Juan Pablo VEGA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "COL",
+                    "name": "Andres SANDOVAL"
+                },
+                {
+                    "country": "CHI",
+                    "name": "Juan Pablo VEGA"
+                }
+            ],
+            [
+                {
+                    "country": "COL",
+                    "name": "Andres SANDOVAL"
+                }
+            ]
+        ]
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CUB",
+                    "name": "Magdiel ESTRADA"
+                },
+                {
+                    "winner": "Magdiel ESTRADA"
+                }
+            ],
+            [
+                {
+                    "country": "DOM",
+                    "name": "Antonio TORNAL"
+                },
+                {
+                    "country": "VEN",
+                    "name": "Sergio MATTEY"
+                },
+                {
+                    "winner": "Antonio TORNAL"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "CUB",
+                    "name": "Magdiel ESTRADA"
+                },
+                {
+                    "country": "DOM",
+                    "name": "Antonio TORNAL"
+                }
+            ],
+            [
+                {
+                    "country": "DOM",
+                    "name": "Antonio TORNAL"
+                }
+            ]
+        ]
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "MEX",
+                    "name": "Gilberto CARDOSO"
+                },
+                {
+                    "winner": "Gilberto CARDOSO"
+                }
+            ],
+            [
+                {
+                    "country": "USA",
+                    "name": "Jack YONEZUKA"
+                },
+                {
+                    "country": "BRA",
+                    "name": "Gabriel FALCAO"
+                },
+                {
+                    "winner": "Gabriel FALCAO"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "MEX",
+                    "name": "Gilberto CARDOSO"
+                },
+                {
+                    "country": "BRA",
+                    "name": "Gabriel FALCAO"
+                }
+            ],
+            [
+                {
+                    "country": "BRA",
+                    "name": "Gabriel FALCAO"
+                }
+            ]
+        ]
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CAN",
+                    "name": "Antoine BOUCHARD"
+                },
+                {
+                    "country": "CHI",
+                    "name": "Juan Pablo VEGA"
+                }
+            ],
+            [
+                {
+                    "country": "CUB",
+                    "name": "Magdiel ESTRADA"
+                },
+                {
+                    "country": "MEX",
+                    "name": "Gilberto CARDOSO"
+                }
+            ],
+            [
+                {
+                    "country": "CAN",
+                    "name": "Antoine BOUCHARD"
+                },
+                {
+                    "country": "DOM",
+                    "name": "Antonio TORNAL"
+                }
+            ],
+            [
+                {
+                    "country": "MEX",
+                    "name": "Gilberto CARDOSO"
+                },
+                {
+                    "country": "COL",
+                    "name": "Andres SANDOVAL"
+                }
+            ],
+            [
+                {
+                    "country": "CAN",
+                    "name": "Antoine BOUCHARD"
+                }
+            ],
+            [
+                {
+                    "country": "MEX",
+                    "name": "Gilberto CARDOSO"
+                }
+            ]
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Daniel CARGNIN"
+                },
+                {
+                    "country": "COL",
+                    "name": "Andres SANDOVAL"
+                },
+                {
+                    "winner": "Daniel CARGNIN"
+                }
+            ],
+            [
+                {
+                    "country": "DOM",
+                    "name": "Antonio TORNAL"
+                },
+                {
+                    "country": "BRA",
+                    "name": "Gabriel FALCAO"
+                },
+                {
+                    "winner": "Gabriel FALCAO"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Daniel CARGNIN"
+                },
+                {
+                    "country": "BRA",
+                    "name": "Gabriel FALCAO"
+                }
+            ],
+            [
+                {
+                    "country": "BRA",
+                    "name": "Gabriel FALCAO"
+                }
+            ]
+        ]
+    }
+}

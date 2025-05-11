@@ -1,0 +1,265 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "USA",
+                    "name": "Shavon GONZALEZ"
+                },
+                {
+                    "winner": "Shavon GONZALEZ"
+                }
+            ],
+            [
+                {
+                    "country": "IJF",
+                    "name": "Hanna SITNIK"
+                },
+                {
+                    "country": "TUN",
+                    "name": "Aya GUIZENI"
+                },
+                {
+                    "winner": "Hanna SITNIK"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "USA",
+                    "name": "Shavon GONZALEZ"
+                },
+                {
+                    "country": "IJF",
+                    "name": "Hanna SITNIK"
+                }
+            ]
+        ],
+        "final_winner": "Shavon GONZALEZ"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "GRE",
+                    "name": "Alexandra PAPAGIANNAKI"
+                },
+                {
+                    "winner": "Alexandra PAPAGIANNAKI"
+                }
+            ],
+            [
+                {
+                    "country": "BOT",
+                    "name": "Neo NOGAMPE"
+                },
+                {
+                    "winner": "Neo NOGAMPE"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "GRE",
+                    "name": "Alexandra PAPAGIANNAKI"
+                },
+                {
+                    "country": "BOT",
+                    "name": "Neo NOGAMPE"
+                }
+            ]
+        ],
+        "final_winner": "Alexandra PAPAGIANNAKI"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "MAR",
+                    "name": "Yasmine HARISS"
+                },
+                {
+                    "winner": "Yasmine HARISS"
+                }
+            ],
+            [
+                {
+                    "country": "EST",
+                    "name": "Gayane POGOSYAN"
+                },
+                {
+                    "country": "GBR",
+                    "name": "Paige KEANE"
+                },
+                {
+                    "winner": "Gayane POGOSYAN"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "MAR",
+                    "name": "Yasmine HARISS"
+                },
+                {
+                    "country": "EST",
+                    "name": "Gayane POGOSYAN"
+                }
+            ]
+        ],
+        "final_winner": "Gayane POGOSYAN"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "TUN",
+                    "name": "Aya HAMDI"
+                },
+                {
+                    "winner": "Aya HAMDI"
+                }
+            ],
+            [
+                {
+                    "country": "ALG",
+                    "name": "Chanez ALIOUANE"
+                },
+                {
+                    "winner": "Chanez ALIOUANE"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "TUN",
+                    "name": "Aya HAMDI"
+                },
+                {
+                    "country": "ALG",
+                    "name": "Chanez ALIOUANE"
+                }
+            ]
+        ],
+        "final_winner": "Chanez ALIOUANE"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "IJF",
+                    "name": "Hanna SITNIK"
+                },
+                {
+                    "country": "BOT",
+                    "name": "Neo NOGAMPE"
+                },
+                {
+                    "winner": "Hanna SITNIK"
+                }
+            ],
+            [
+                {
+                    "country": "MAR",
+                    "name": "Yasmine HARISS"
+                },
+                {
+                    "country": "TUN",
+                    "name": "Aya HAMDI"
+                },
+                {
+                    "winner": "Yasmine HARISS"
+                }
+            ],
+            [
+                {
+                    "country": "IJF",
+                    "name": "Hanna SITNIK"
+                },
+                {
+                    "country": "EST",
+                    "name": "Gayane POGOSYAN"
+                },
+                {
+                    "winner": "Hanna SITNIK"
+                }
+            ],
+            [
+                {
+                    "country": "MAR",
+                    "name": "Yasmine HARISS"
+                },
+                {
+                    "country": "USA",
+                    "name": "Shavon GONZALEZ"
+                },
+                {
+                    "winner": "Yasmine HARISS"
+                }
+            ],
+            [
+                {
+                    "country": "IJF",
+                    "name": "Hanna SITNIK"
+                }
+            ],
+            [
+                {
+                    "country": "MAR",
+                    "name": "Yasmine HARISS"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Hanna SITNIK",
+            "Yasmine HARISS"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "USA",
+                    "name": "Shavon GONZALEZ"
+                },
+                {
+                    "country": "GRE",
+                    "name": "Alexandra PAPAGIANNAKI"
+                },
+                {
+                    "winner": "Alexandra PAPAGIANNAKI"
+                }
+            ],
+            [
+                {
+                    "country": "EST",
+                    "name": "Gayane POGOSYAN"
+                },
+                {
+                    "country": "ALG",
+                    "name": "Chanez ALIOUANE"
+                },
+                {
+                    "winner": "Chanez ALIOUANE"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "GRE",
+                    "name": "Alexandra PAPAGIANNAKI"
+                },
+                {
+                    "country": "ALG",
+                    "name": "Chanez ALIOUANE"
+                }
+            ]
+        ],
+        "final_winner": "Alexandra PAPAGIANNAKI"
+    }
+}

@@ -1,0 +1,285 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "SLO",
+                    "name": "Vito DRAGIC"
+                },
+                {
+                    "winner": "Vito DRAGIC"
+                }
+            ],
+            [
+                {
+                    "country": "UKR",
+                    "name": "Nodar MACHUTADZE"
+                },
+                {
+                    "country": "AUS",
+                    "name": "Liam PARK"
+                },
+                {
+                    "winner": "Nodar MACHUTADZE"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "SLO",
+                    "name": "Vito DRAGIC"
+                },
+                {
+                    "country": "UKR",
+                    "name": "Nodar MACHUTADZE"
+                }
+            ]
+        ],
+        "final_winner": "Vito DRAGIC"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ITA",
+                    "name": "Sylvain Lorenzo AGRO"
+                },
+                {
+                    "country": "GBR",
+                    "name": "Wesley GREENIDGE"
+                },
+                {
+                    "winner": "Sylvain Lorenzo AGRO"
+                }
+            ],
+            [
+                {
+                    "country": "SRB",
+                    "name": "Igor VRACAR"
+                },
+                {
+                    "country": "FRA",
+                    "name": "Cedric CAILLON"
+                },
+                {
+                    "winner": "Cedric CAILLON"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "ITA",
+                    "name": "Sylvain Lorenzo AGRO"
+                },
+                {
+                    "country": "FRA",
+                    "name": "Cedric CAILLON"
+                }
+            ]
+        ],
+        "final_winner": "Sylvain Lorenzo AGRO"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "GER",
+                    "name": "Yvo WITASSEK"
+                },
+                {
+                    "country": "GBR",
+                    "name": "Christopher SHERRINGTON"
+                },
+                {
+                    "winner": "Yvo WITASSEK"
+                }
+            ],
+            [
+                {
+                    "country": "UKR",
+                    "name": "Andrii KOLESNYK"
+                },
+                {
+                    "country": "SRB",
+                    "name": "Goran PRGONJIC"
+                },
+                {
+                    "winner": "Andrii KOLESNYK"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "GER",
+                    "name": "Yvo WITASSEK"
+                },
+                {
+                    "country": "UKR",
+                    "name": "Andrii KOLESNYK"
+                }
+            ]
+        ],
+        "final_winner": "Yvo WITASSEK"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "BEL",
+                    "name": "Yves NDAO"
+                },
+                {
+                    "country": "POL",
+                    "name": "Wojciech KORDYALIK"
+                },
+                {
+                    "winner": "Yves NDAO"
+                }
+            ],
+            [
+                {
+                    "country": "TUR",
+                    "name": "Munir ERTUG"
+                },
+                {
+                    "country": "SRB",
+                    "name": "Vladimir GAJIC"
+                },
+                {
+                    "winner": "Munir ERTUG"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "BEL",
+                    "name": "Yves NDAO"
+                },
+                {
+                    "country": "TUR",
+                    "name": "Munir ERTUG"
+                }
+            ]
+        ],
+        "final_winner": "Munir ERTUG"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "UKR",
+                    "name": "Nodar MACHUTADZE"
+                },
+                {
+                    "country": "FRA",
+                    "name": "Cedric CAILLON"
+                },
+                {
+                    "winner": "Cedric CAILLON"
+                }
+            ],
+            [
+                {
+                    "country": "UKR",
+                    "name": "Andrii KOLESNYK"
+                },
+                {
+                    "country": "BEL",
+                    "name": "Yves NDAO"
+                },
+                {
+                    "winner": "Andrii KOLESNYK"
+                }
+            ],
+            [
+                {
+                    "country": "FRA",
+                    "name": "Cedric CAILLON"
+                },
+                {
+                    "country": "GER",
+                    "name": "Yvo WITASSEK"
+                },
+                {
+                    "winner": "Cedric CAILLON"
+                }
+            ],
+            [
+                {
+                    "country": "UKR",
+                    "name": "Andrii KOLESNYK"
+                },
+                {
+                    "country": "ITA",
+                    "name": "Sylvain Lorenzo AGRO"
+                },
+                {
+                    "winner": "Sylvain Lorenzo AGRO"
+                }
+            ],
+            [
+                {
+                    "country": "FRA",
+                    "name": "Cedric CAILLON"
+                }
+            ],
+            [
+                {
+                    "country": "ITA",
+                    "name": "Sylvain Lorenzo AGRO"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Cedric CAILLON",
+            "Sylvain Lorenzo AGRO"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "SLO",
+                    "name": "Vito DRAGIC"
+                },
+                {
+                    "country": "ITA",
+                    "name": "Sylvain Lorenzo AGRO"
+                },
+                {
+                    "winner": "Vito DRAGIC"
+                }
+            ],
+            [
+                {
+                    "country": "GER",
+                    "name": "Yvo WITASSEK"
+                },
+                {
+                    "country": "TUR",
+                    "name": "Munir ERTUG"
+                },
+                {
+                    "winner": "Munir ERTUG"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "SLO",
+                    "name": "Vito DRAGIC"
+                },
+                {
+                    "country": "TUR",
+                    "name": "Munir ERTUG"
+                }
+            ]
+        ],
+        "final_winner": "Vito DRAGIC"
+    }
+}

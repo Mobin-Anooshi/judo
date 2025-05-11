@@ -1,0 +1,177 @@
+{
+    "POOL A": {
+        "round 1-1": [
+            [
+                {
+                    "country": "HKG",
+                    "name": "Kwok Wing LEE"
+                },
+                {
+                    "country": "AUS",
+                    "name": "Cody GURNEY"
+                }
+            ]
+        ],
+        "final_winner": "Kwok Wing LEE"
+    },
+    "POOL B": {
+        "round 1-1": [
+            [
+                {
+                    "country": "AUS",
+                    "name": "Alexander VASILYEV"
+                },
+                {
+                    "country": "USA",
+                    "name": "Tomo NAITO"
+                }
+            ]
+        ],
+        "final_winner": "Tomo NAITO"
+    },
+    "POOL C": {
+        "round 1-1": [
+            [
+                {
+                    "country": "AUS",
+                    "name": "Luke PRESS"
+                },
+                {
+                    "country": "ARG",
+                    "name": "Ivan FERREYRA"
+                }
+            ]
+        ],
+        "final_winner": "Ivan FERREYRA"
+    },
+    "POOL D": {
+        "round 1-1": [
+            [
+                {
+                    "country": "AUS",
+                    "name": "Keishin OCHI"
+                },
+                {
+                    "country": "NZL",
+                    "name": "Matthew WOODS"
+                }
+            ]
+        ],
+        "final_winner": "Keishin OCHI"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "AUS",
+                    "name": "Cody GURNEY"
+                },
+                {
+                    "country": "AUS",
+                    "name": "Alexander VASILYEV"
+                },
+                {
+                    "winner": "Alexander VASILYEV"
+                }
+            ],
+            [
+                {
+                    "country": "AUS",
+                    "name": "Luke PRESS"
+                },
+                {
+                    "country": "NZL",
+                    "name": "Matthew WOODS"
+                },
+                {
+                    "winner": "Luke PRESS"
+                }
+            ],
+            [
+                {
+                    "country": "AUS",
+                    "name": "Alexander VASILYEV"
+                },
+                {
+                    "country": "ARG",
+                    "name": "Ivan FERREYRA"
+                },
+                {
+                    "winner": "Ivan FERREYRA"
+                }
+            ],
+            [
+                {
+                    "country": "AUS",
+                    "name": "Luke PRESS"
+                },
+                {
+                    "country": "USA",
+                    "name": "Tomo NAITO"
+                },
+                {
+                    "winner": "Tomo NAITO"
+                }
+            ],
+            [
+                {
+                    "country": "ARG",
+                    "name": "Ivan FERREYRA"
+                }
+            ],
+            [
+                {
+                    "country": "USA",
+                    "name": "Tomo NAITO"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Ivan FERREYRA",
+            "Tomo NAITO"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "HKG",
+                    "name": "Kwok Wing LEE"
+                },
+                {
+                    "country": "USA",
+                    "name": "Tomo NAITO"
+                },
+                {
+                    "winner": "Kwok Wing LEE"
+                }
+            ],
+            [
+                {
+                    "country": "ARG",
+                    "name": "Ivan FERREYRA"
+                },
+                {
+                    "country": "AUS",
+                    "name": "Keishin OCHI"
+                },
+                {
+                    "winner": "Keishin OCHI"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "HKG",
+                    "name": "Kwok Wing LEE"
+                },
+                {
+                    "country": "AUS",
+                    "name": "Keishin OCHI"
+                }
+            ]
+        ],
+        "final_winner": "Keishin OCHI"
+    }
+}

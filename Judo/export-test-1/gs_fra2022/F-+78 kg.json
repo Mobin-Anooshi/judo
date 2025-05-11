@@ -1,0 +1,281 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Beatriz SOUZA"
+                },
+                {
+                    "winner": "Beatriz SOUZA"
+                }
+            ],
+            [
+                {
+                    "country": "GER",
+                    "name": "Renee LUCHT"
+                },
+                {
+                    "country": "JPN",
+                    "name": "Wakaba TOMITA"
+                },
+                {
+                    "winner": "Wakaba TOMITA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Beatriz SOUZA"
+                },
+                {
+                    "country": "JPN",
+                    "name": "Wakaba TOMITA"
+                }
+            ]
+        ],
+        "final_winner": "Wakaba TOMITA"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "FRA",
+                    "name": "Lea FONTAINE"
+                },
+                {
+                    "country": "MGL",
+                    "name": "Adiyasuren AMARSAIKHAN"
+                },
+                {
+                    "winner": "Lea FONTAINE"
+                }
+            ],
+            [
+                {
+                    "country": "FRA",
+                    "name": "Julia TOLOFUA"
+                },
+                {
+                    "country": "ALG",
+                    "name": "Meroua MAMMERI"
+                },
+                {
+                    "winner": "Julia TOLOFUA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "FRA",
+                    "name": "Lea FONTAINE"
+                },
+                {
+                    "country": "FRA",
+                    "name": "Julia TOLOFUA"
+                }
+            ]
+        ],
+        "final_winner": "Julia TOLOFUA"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "FRA",
+                    "name": "Romane DICKO"
+                },
+                {
+                    "winner": "Romane DICKO"
+                }
+            ],
+            [
+                {
+                    "country": "ALG",
+                    "name": "Sonia ASSELAH"
+                },
+                {
+                    "country": "CUB",
+                    "name": "Thalia NARINO CASTELLANO"
+                },
+                {
+                    "winner": "Sonia ASSELAH"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "FRA",
+                    "name": "Romane DICKO"
+                },
+                {
+                    "country": "ALG",
+                    "name": "Sonia ASSELAH"
+                }
+            ]
+        ],
+        "final_winner": "Romane DICKO"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "TUN",
+                    "name": "Nihel CHEIKH ROUHOU"
+                },
+                {
+                    "country": "FRA",
+                    "name": "Coralie HAYME"
+                },
+                {
+                    "winner": "Nihel CHEIKH ROUHOU"
+                }
+            ],
+            [
+                {
+                    "country": "KOR",
+                    "name": "Hayun KIM"
+                },
+                {
+                    "country": "USA",
+                    "name": "Mackenzie WILLIAMS"
+                },
+                {
+                    "winner": "Hayun KIM"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "TUN",
+                    "name": "Nihel CHEIKH ROUHOU"
+                },
+                {
+                    "country": "KOR",
+                    "name": "Hayun KIM"
+                }
+            ]
+        ],
+        "final_winner": "Hayun KIM"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Beatriz SOUZA"
+                },
+                {
+                    "country": "FRA",
+                    "name": "Lea FONTAINE"
+                },
+                {
+                    "winner": "Lea FONTAINE"
+                }
+            ],
+            [
+                {
+                    "country": "ALG",
+                    "name": "Sonia ASSELAH"
+                },
+                {
+                    "country": "TUN",
+                    "name": "Nihel CHEIKH ROUHOU"
+                },
+                {
+                    "winner": "Nihel CHEIKH ROUHOU"
+                }
+            ],
+            [
+                {
+                    "country": "FRA",
+                    "name": "Lea FONTAINE"
+                },
+                {
+                    "country": "KOR",
+                    "name": "Hayun KIM"
+                },
+                {
+                    "winner": "Hayun KIM"
+                }
+            ],
+            [
+                {
+                    "country": "TUN",
+                    "name": "Nihel CHEIKH ROUHOU"
+                },
+                {
+                    "country": "FRA",
+                    "name": "Julia TOLOFUA"
+                },
+                {
+                    "winner": "Julia TOLOFUA"
+                }
+            ],
+            [
+                {
+                    "country": "KOR",
+                    "name": "Hayun KIM"
+                }
+            ],
+            [
+                {
+                    "country": "FRA",
+                    "name": "Julia TOLOFUA"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Hayun KIM",
+            "Julia TOLOFUA"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "JPN",
+                    "name": "Wakaba TOMITA"
+                },
+                {
+                    "country": "FRA",
+                    "name": "Julia TOLOFUA"
+                },
+                {
+                    "winner": "Wakaba TOMITA"
+                }
+            ],
+            [
+                {
+                    "country": "FRA",
+                    "name": "Romane DICKO"
+                },
+                {
+                    "country": "KOR",
+                    "name": "Hayun KIM"
+                },
+                {
+                    "winner": "Romane DICKO"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "JPN",
+                    "name": "Wakaba TOMITA"
+                },
+                {
+                    "country": "FRA",
+                    "name": "Romane DICKO"
+                }
+            ]
+        ],
+        "final_winner": "Wakaba TOMITA"
+    }
+}

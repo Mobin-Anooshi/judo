@@ -1,0 +1,68 @@
+{
+    "ROUND 1": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ALG",
+                    "name": "Billel YAGOUBI"
+                },
+                {
+                    "country": "BDI",
+                    "name": "Joslin IRAKOZE"
+                },
+                {
+                    "winner": "Billel YAGOUBI"
+                }
+            ],
+            [
+                {
+                    "country": "EGY",
+                    "name": "Moustafa FEKRY"
+                },
+                {
+                    "country": "GAB",
+                    "name": "Joseph Hawin MEMGUINONGO"
+                },
+                {
+                    "winner": "Moustafa FEKRY"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Billel YAGOUBI",
+            "Moustafa FEKRY"
+        ]
+    },
+    "REPECHAGE": {
+        "round 1-1": [
+            [
+                {
+                    "country": "BDI",
+                    "name": "Joslin IRAKOZE"
+                },
+                {
+                    "country": "GAB",
+                    "name": "Joseph Hawin MEMGUINONGO"
+                },
+                {
+                    "winner": "Joslin IRAKOZE"
+                }
+            ],
+            [
+                {
+                    "country": "BDI",
+                    "name": "Joslin IRAKOZE"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Joslin IRAKOZE"
+        ]
+    },
+    "FINALS": {
+        "round 1-1": [],
+        "final_winners": [
+            "Billel YAGOUBI"
+        ]
+    }
+}

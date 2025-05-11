@@ -1,0 +1,159 @@
+{
+    "POOL A": {
+        "round 1-1": [],
+        "final_winner": "Jur SPIJKERS"
+    },
+    "POOL B": {
+        "round 1-1": [
+            [
+                {
+                    "country": "GBR",
+                    "name": "Wesley GREENIDGE"
+                },
+                {
+                    "country": "ITA",
+                    "name": "Nicola BECCHETTI"
+                }
+            ]
+        ],
+        "final_winner": "Wesley GREENIDGE"
+    },
+    "POOL C": {
+        "round 1-1": [
+            [
+                {
+                    "country": "ESP",
+                    "name": "Irinel Vasile CHELARU GRIGORAS"
+                },
+                {
+                    "country": "GBR",
+                    "name": "Adam HALL"
+                }
+            ]
+        ],
+        "final_winner": "Irinel Vasile CHELARU GRIGORAS"
+    },
+    "POOL D": {
+        "round 1-1": [
+            [
+                {
+                    "country": "FRA",
+                    "name": "Renaud CARRIERE"
+                },
+                {
+                    "country": "GBR",
+                    "name": "Neil SCHOFIELD"
+                }
+            ]
+        ],
+        "final_winner": "Renaud CARRIERE"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ITA",
+                    "name": "Nicola BECCHETTI"
+                }
+            ],
+            [
+                {
+                    "country": "GBR",
+                    "name": "Adam HALL"
+                },
+                {
+                    "country": "GBR",
+                    "name": "Neil SCHOFIELD"
+                },
+                {
+                    "winner": "Adam HALL"
+                }
+            ],
+            [
+                {
+                    "country": "ITA",
+                    "name": "Nicola BECCHETTI"
+                },
+                {
+                    "country": "FRA",
+                    "name": "Renaud CARRIERE"
+                },
+                {
+                    "winner": "Renaud CARRIERE"
+                }
+            ],
+            [
+                {
+                    "country": "GBR",
+                    "name": "Adam HALL"
+                },
+                {
+                    "country": "GBR",
+                    "name": "Wesley GREENIDGE"
+                },
+                {
+                    "winner": "Adam HALL"
+                }
+            ],
+            [
+                {
+                    "country": "FRA",
+                    "name": "Renaud CARRIERE"
+                }
+            ],
+            [
+                {
+                    "country": "GBR",
+                    "name": "Adam HALL"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Renaud CARRIERE",
+            "Adam HALL"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "NED",
+                    "name": "Jur SPIJKERS"
+                },
+                {
+                    "country": "GBR",
+                    "name": "Wesley GREENIDGE"
+                },
+                {
+                    "winner": "Jur SPIJKERS"
+                }
+            ],
+            [
+                {
+                    "country": "ESP",
+                    "name": "Irinel Vasile CHELARU GRIGORAS"
+                },
+                {
+                    "country": "FRA",
+                    "name": "Renaud CARRIERE"
+                },
+                {
+                    "winner": "Irinel Vasile CHELARU GRIGORAS"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "NED",
+                    "name": "Jur SPIJKERS"
+                },
+                {
+                    "country": "ESP",
+                    "name": "Irinel Vasile CHELARU GRIGORAS"
+                }
+            ]
+        ],
+        "final_winner": "Jur SPIJKERS"
+    }
+}

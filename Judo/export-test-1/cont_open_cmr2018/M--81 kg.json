@@ -1,0 +1,237 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ROU",
+                    "name": "Vlad VISAN"
+                },
+                {
+                    "winner": "Vlad VISAN"
+                }
+            ],
+            []
+        ],
+        "round 1-1": [],
+        "final_winner": "Vlad VISAN"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CMR",
+                    "name": "Willy Marvel NGOUOZEU MOYO"
+                },
+                {
+                    "winner": "Willy Marvel NGOUOZEU MOYO"
+                }
+            ],
+            [
+                {
+                    "country": "CMR",
+                    "name": "Armel TOTOUM BOGNE"
+                },
+                {
+                    "country": "CMR",
+                    "name": "Jose DAISSALA KORENAM DAKOLE JUNIOR"
+                },
+                {
+                    "winner": "Armel TOTOUM BOGNE"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "CMR",
+                    "name": "Willy Marvel NGOUOZEU MOYO"
+                },
+                {
+                    "country": "CMR",
+                    "name": "Armel TOTOUM BOGNE"
+                }
+            ]
+        ],
+        "final_winner": "Armel TOTOUM BOGNE"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "GAB",
+                    "name": "Terence KOUAMBA"
+                },
+                {
+                    "winner": "Terence KOUAMBA"
+                }
+            ],
+            [
+                {
+                    "country": "CMR",
+                    "name": "Franck Xavier TADJUKA FONTSOP"
+                },
+                {
+                    "country": "CMR",
+                    "name": "Aldo Gildas KWUSSEU TCHANA"
+                },
+                {
+                    "winner": "Franck Xavier TADJUKA FONTSOP"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "GAB",
+                    "name": "Terence KOUAMBA"
+                },
+                {
+                    "country": "CMR",
+                    "name": "Franck Xavier TADJUKA FONTSOP"
+                }
+            ]
+        ],
+        "final_winner": "Terence KOUAMBA"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "SEN",
+                    "name": "Abo Landing DIATTA"
+                },
+                {
+                    "winner": "Abo Landing DIATTA"
+                }
+            ],
+            [
+                {
+                    "country": "CHA",
+                    "name": "Djonwe PIERRE"
+                },
+                {
+                    "country": "CMR",
+                    "name": "Blaise Techwi TAGYEM"
+                },
+                {
+                    "winner": "Blaise Techwi TAGYEM"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "SEN",
+                    "name": "Abo Landing DIATTA"
+                },
+                {
+                    "country": "CMR",
+                    "name": "Blaise Techwi TAGYEM"
+                }
+            ]
+        ],
+        "final_winner": "Abo Landing DIATTA"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CMR",
+                    "name": "Willy Marvel NGOUOZEU MOYO"
+                }
+            ],
+            [
+                {
+                    "country": "CMR",
+                    "name": "Franck Xavier TADJUKA FONTSOP"
+                },
+                {
+                    "country": "CMR",
+                    "name": "Blaise Techwi TAGYEM"
+                },
+                {
+                    "winner": "Franck Xavier TADJUKA FONTSOP"
+                }
+            ],
+            [
+                {
+                    "country": "CMR",
+                    "name": "Willy Marvel NGOUOZEU MOYO"
+                },
+                {
+                    "country": "SEN",
+                    "name": "Abo Landing DIATTA"
+                },
+                {
+                    "winner": "Willy Marvel NGOUOZEU MOYO"
+                }
+            ],
+            [
+                {
+                    "country": "CMR",
+                    "name": "Franck Xavier TADJUKA FONTSOP"
+                },
+                {
+                    "country": "CMR",
+                    "name": "Armel TOTOUM BOGNE"
+                },
+                {
+                    "winner": "Armel TOTOUM BOGNE"
+                }
+            ],
+            [
+                {
+                    "country": "CMR",
+                    "name": "Armel TOTOUM BOGNE"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Franck Xavier TADJUKA FONTSOP",
+            "Willy Marvel NGOUOZEU MOYO"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ROU",
+                    "name": "Vlad VISAN"
+                },
+                {
+                    "country": "CMR",
+                    "name": "Armel TOTOUM BOGNE"
+                },
+                {
+                    "winner": "Vlad VISAN"
+                }
+            ],
+            [
+                {
+                    "country": "GAB",
+                    "name": "Terence KOUAMBA"
+                },
+                {
+                    "country": "SEN",
+                    "name": "Abo Landing DIATTA"
+                },
+                {
+                    "winner": "Terence KOUAMBA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "ROU",
+                    "name": "Vlad VISAN"
+                },
+                {
+                    "country": "GAB",
+                    "name": "Terence KOUAMBA"
+                }
+            ]
+        ],
+        "final_winner": "Vlad VISAN"
+    }
+}

@@ -1,0 +1,159 @@
+{
+    "POOL A": {
+        "round 1-1": [],
+        "final_winner": "Yuli Alma MISHINER"
+    },
+    "POOL B": {
+        "round 1-1": [
+            [
+                {
+                    "country": "CAN",
+                    "name": "Marianna KARAS"
+                },
+                {
+                    "country": "UKR",
+                    "name": "Diana SEMCHENKO"
+                }
+            ]
+        ],
+        "final_winner": "Diana SEMCHENKO"
+    },
+    "POOL C": {
+        "round 1-1": [
+            [
+                {
+                    "country": "MNE",
+                    "name": "Jovana MRVALJEVIC"
+                },
+                {
+                    "country": "MKD",
+                    "name": "Katerina ACEVSKA"
+                }
+            ]
+        ],
+        "final_winner": "Jovana MRVALJEVIC"
+    },
+    "POOL D": {
+        "round 1-1": [
+            [
+                {
+                    "country": "SLO",
+                    "name": "Tara JANJIC"
+                },
+                {
+                    "country": "ROU",
+                    "name": "Daria TUDORACHE"
+                }
+            ]
+        ],
+        "final_winner": "Daria TUDORACHE"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CAN",
+                    "name": "Marianna KARAS"
+                }
+            ],
+            [
+                {
+                    "country": "MKD",
+                    "name": "Katerina ACEVSKA"
+                },
+                {
+                    "country": "SLO",
+                    "name": "Tara JANJIC"
+                },
+                {
+                    "winner": "Tara JANJIC"
+                }
+            ],
+            [
+                {
+                    "country": "CAN",
+                    "name": "Marianna KARAS"
+                },
+                {
+                    "country": "MNE",
+                    "name": "Jovana MRVALJEVIC"
+                },
+                {
+                    "winner": "Jovana MRVALJEVIC"
+                }
+            ],
+            [
+                {
+                    "country": "SLO",
+                    "name": "Tara JANJIC"
+                },
+                {
+                    "country": "UKR",
+                    "name": "Diana SEMCHENKO"
+                },
+                {
+                    "winner": "Diana SEMCHENKO"
+                }
+            ],
+            [
+                {
+                    "country": "MNE",
+                    "name": "Jovana MRVALJEVIC"
+                }
+            ],
+            [
+                {
+                    "country": "UKR",
+                    "name": "Diana SEMCHENKO"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Jovana MRVALJEVIC",
+            "Diana SEMCHENKO"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ISR",
+                    "name": "Yuli Alma MISHINER"
+                },
+                {
+                    "country": "UKR",
+                    "name": "Diana SEMCHENKO"
+                },
+                {
+                    "winner": "Yuli Alma MISHINER"
+                }
+            ],
+            [
+                {
+                    "country": "MNE",
+                    "name": "Jovana MRVALJEVIC"
+                },
+                {
+                    "country": "ROU",
+                    "name": "Daria TUDORACHE"
+                },
+                {
+                    "winner": "Daria TUDORACHE"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "ISR",
+                    "name": "Yuli Alma MISHINER"
+                },
+                {
+                    "country": "ROU",
+                    "name": "Daria TUDORACHE"
+                }
+            ]
+        ],
+        "final_winner": "Yuli Alma MISHINER"
+    }
+}

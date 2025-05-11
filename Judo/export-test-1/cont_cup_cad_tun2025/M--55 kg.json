@@ -1,0 +1,277 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "MAR",
+                    "name": "Anas JARAF"
+                },
+                {
+                    "winner": "Anas JARAF"
+                }
+            ],
+            [
+                {
+                    "country": "LBA",
+                    "name": "Yaseen GARAHMALI"
+                },
+                {
+                    "country": "UAE",
+                    "name": "Mohamed ALNAQBI"
+                },
+                {
+                    "winner": "Yaseen GARAHMALI"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "MAR",
+                    "name": "Anas JARAF"
+                },
+                {
+                    "country": "LBA",
+                    "name": "Yaseen GARAHMALI"
+                }
+            ]
+        ],
+        "final_winner": "Yaseen GARAHMALI"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "UAE",
+                    "name": "Masoud ALMESMARI"
+                },
+                {
+                    "country": "ALG",
+                    "name": "Mossaab ABBAD"
+                },
+                {
+                    "winner": "Masoud ALMESMARI"
+                }
+            ],
+            [
+                {
+                    "country": "TUN",
+                    "name": "Majdi AMRI"
+                },
+                {
+                    "winner": "Majdi AMRI"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "UAE",
+                    "name": "Masoud ALMESMARI"
+                },
+                {
+                    "country": "TUN",
+                    "name": "Majdi AMRI"
+                }
+            ]
+        ],
+        "final_winner": "Majdi AMRI"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ALG",
+                    "name": "Aymen Sofiane BELFODIL"
+                },
+                {
+                    "winner": "Aymen Sofiane BELFODIL"
+                }
+            ],
+            [
+                {
+                    "country": "UAE",
+                    "name": "Buti ALHASHMI"
+                },
+                {
+                    "country": "TUN",
+                    "name": "Omar CHABAA"
+                },
+                {
+                    "winner": "Omar CHABAA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "ALG",
+                    "name": "Aymen Sofiane BELFODIL"
+                },
+                {
+                    "country": "TUN",
+                    "name": "Omar CHABAA"
+                }
+            ]
+        ],
+        "final_winner": "Aymen Sofiane BELFODIL"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "JOR",
+                    "name": "Almashni HAROUN"
+                },
+                {
+                    "country": "ALG",
+                    "name": "Ahmed HARAOUI"
+                },
+                {
+                    "winner": "Ahmed HARAOUI"
+                }
+            ],
+            [
+                {
+                    "country": "TUN",
+                    "name": "Rayen REGAIEG"
+                },
+                {
+                    "country": "MAR",
+                    "name": "Zakaria KOUJ"
+                },
+                {
+                    "winner": "Rayen REGAIEG"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "ALG",
+                    "name": "Ahmed HARAOUI"
+                },
+                {
+                    "country": "TUN",
+                    "name": "Rayen REGAIEG"
+                }
+            ]
+        ],
+        "final_winner": "Ahmed HARAOUI"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "MAR",
+                    "name": "Anas JARAF"
+                },
+                {
+                    "country": "UAE",
+                    "name": "Masoud ALMESMARI"
+                },
+                {
+                    "winner": "Anas JARAF"
+                }
+            ],
+            [
+                {
+                    "country": "TUN",
+                    "name": "Omar CHABAA"
+                },
+                {
+                    "country": "TUN",
+                    "name": "Rayen REGAIEG"
+                },
+                {
+                    "winner": "Rayen REGAIEG"
+                }
+            ],
+            [
+                {
+                    "country": "MAR",
+                    "name": "Anas JARAF"
+                },
+                {
+                    "country": "ALG",
+                    "name": "Ahmed HARAOUI"
+                },
+                {
+                    "winner": "Ahmed HARAOUI"
+                }
+            ],
+            [
+                {
+                    "country": "TUN",
+                    "name": "Rayen REGAIEG"
+                },
+                {
+                    "country": "TUN",
+                    "name": "Majdi AMRI"
+                },
+                {
+                    "winner": "Rayen REGAIEG"
+                }
+            ],
+            [
+                {
+                    "country": "ALG",
+                    "name": "Ahmed HARAOUI"
+                }
+            ],
+            [
+                {
+                    "country": "TUN",
+                    "name": "Rayen REGAIEG"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Ahmed HARAOUI",
+            "Rayen REGAIEG"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "LBA",
+                    "name": "Yaseen GARAHMALI"
+                },
+                {
+                    "country": "TUN",
+                    "name": "Majdi AMRI"
+                },
+                {
+                    "winner": "Yaseen GARAHMALI"
+                }
+            ],
+            [
+                {
+                    "country": "ALG",
+                    "name": "Aymen Sofiane BELFODIL"
+                },
+                {
+                    "country": "ALG",
+                    "name": "Ahmed HARAOUI"
+                },
+                {
+                    "winner": "Aymen Sofiane BELFODIL"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "LBA",
+                    "name": "Yaseen GARAHMALI"
+                },
+                {
+                    "country": "ALG",
+                    "name": "Aymen Sofiane BELFODIL"
+                }
+            ]
+        ],
+        "final_winner": "Aymen Sofiane BELFODIL"
+    }
+}

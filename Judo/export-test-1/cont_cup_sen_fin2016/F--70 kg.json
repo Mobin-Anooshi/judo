@@ -1,0 +1,227 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "FRA",
+                    "name": "Maya THOYER"
+                },
+                {
+                    "winner": "Maya THOYER"
+                }
+            ],
+            [
+                {
+                    "country": "ESP",
+                    "name": "Angela LOPEZ LOPEZ"
+                },
+                {
+                    "winner": "Angela LOPEZ LOPEZ"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "FRA",
+                    "name": "Maya THOYER"
+                },
+                {
+                    "country": "ESP",
+                    "name": "Angela LOPEZ LOPEZ"
+                }
+            ]
+        ],
+        "final_winner": "Maya THOYER"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [],
+            [
+                {
+                    "country": "FRA",
+                    "name": "Agathe DEVITRY"
+                },
+                {
+                    "winner": "Agathe DEVITRY"
+                }
+            ]
+        ],
+        "round 1-1": [],
+        "final_winner": "Agathe DEVITRY"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "SUI",
+                    "name": "Alina LENGWEILER"
+                },
+                {
+                    "winner": "Alina LENGWEILER"
+                }
+            ],
+            [
+                {
+                    "country": "FIN",
+                    "name": "Jasmine AHO"
+                },
+                {
+                    "winner": "Jasmine AHO"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "SUI",
+                    "name": "Alina LENGWEILER"
+                },
+                {
+                    "country": "FIN",
+                    "name": "Jasmine AHO"
+                }
+            ]
+        ],
+        "final_winner": "Alina LENGWEILER"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [],
+            [
+                {
+                    "country": "FRA",
+                    "name": "Jocelyne MENDY"
+                },
+                {
+                    "winner": "Jocelyne MENDY"
+                }
+            ]
+        ],
+        "round 1-1": [],
+        "final_winner": "Jocelyne MENDY"
+    },
+    "REPECHAGE": {
+        "round 1-4": [
+            [
+                {
+                    "country": "ESP",
+                    "name": "Angela LOPEZ LOPEZ"
+                },
+                {
+                    "winner": "Angela LOPEZ LOPEZ"
+                }
+            ],
+            [],
+            [
+                {
+                    "country": "FIN",
+                    "name": "Jasmine AHO"
+                },
+                {
+                    "winner": "Jasmine AHO"
+                }
+            ],
+            []
+        ],
+        "round 1-2": [
+            [
+                {
+                    "country": "ESP",
+                    "name": "Angela LOPEZ LOPEZ"
+                }
+            ],
+            [
+                {
+                    "country": "FIN",
+                    "name": "Jasmine AHO"
+                }
+            ],
+            [
+                {
+                    "country": "ESP",
+                    "name": "Angela LOPEZ LOPEZ"
+                },
+                {
+                    "country": "FRA",
+                    "name": "Jocelyne MENDY"
+                },
+                {
+                    "winner": "Jocelyne MENDY"
+                }
+            ],
+            [
+                {
+                    "country": "FIN",
+                    "name": "Jasmine AHO"
+                },
+                {
+                    "country": "FRA",
+                    "name": "Agathe DEVITRY"
+                },
+                {
+                    "winner": "Agathe DEVITRY"
+                }
+            ],
+            [
+                {
+                    "country": "FRA",
+                    "name": "Jocelyne MENDY"
+                }
+            ],
+            [
+                {
+                    "country": "FRA",
+                    "name": "Agathe DEVITRY"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Jocelyne MENDY",
+            "Agathe DEVITRY"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "FRA",
+                    "name": "Maya THOYER"
+                },
+                {
+                    "country": "FRA",
+                    "name": "Agathe DEVITRY"
+                },
+                {
+                    "winner": "Maya THOYER"
+                }
+            ],
+            [
+                {
+                    "country": "SUI",
+                    "name": "Alina LENGWEILER"
+                },
+                {
+                    "country": "FRA",
+                    "name": "Jocelyne MENDY"
+                },
+                {
+                    "winner": "Alina LENGWEILER"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "FRA",
+                    "name": "Maya THOYER"
+                },
+                {
+                    "country": "SUI",
+                    "name": "Alina LENGWEILER"
+                }
+            ]
+        ],
+        "final_winner": "Maya THOYER"
+    }
+}

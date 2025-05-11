@@ -1,0 +1,261 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ESP",
+                    "name": "Africa PUENTE LOPEZ"
+                },
+                {
+                    "winner": "Africa PUENTE LOPEZ"
+                }
+            ],
+            [
+                {
+                    "country": "AZE",
+                    "name": "Khumar GASIMZADE"
+                },
+                {
+                    "winner": "Khumar GASIMZADE"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "ESP",
+                    "name": "Africa PUENTE LOPEZ"
+                },
+                {
+                    "country": "AZE",
+                    "name": "Khumar GASIMZADE"
+                }
+            ]
+        ],
+        "final_winner": "Khumar GASIMZADE"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "GBR",
+                    "name": "Emma MCCABE"
+                },
+                {
+                    "winner": "Emma MCCABE"
+                }
+            ],
+            [
+                {
+                    "country": "ESP",
+                    "name": "Sara CARRION NAVARRO"
+                },
+                {
+                    "winner": "Sara CARRION NAVARRO"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "GBR",
+                    "name": "Emma MCCABE"
+                },
+                {
+                    "country": "ESP",
+                    "name": "Sara CARRION NAVARRO"
+                }
+            ]
+        ],
+        "final_winner": "Emma MCCABE"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ESP",
+                    "name": "Marta BEORLEGUI OSES"
+                },
+                {
+                    "winner": "Marta BEORLEGUI OSES"
+                }
+            ],
+            []
+        ],
+        "round 1-1": [],
+        "final_winner": "Marta BEORLEGUI OSES"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ESP",
+                    "name": "Valeria TORIBIO MONTERO"
+                },
+                {
+                    "winner": "Valeria TORIBIO MONTERO"
+                }
+            ],
+            [
+                {
+                    "country": "GBR",
+                    "name": "Sophie CARSON"
+                },
+                {
+                    "winner": "Sophie CARSON"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "ESP",
+                    "name": "Valeria TORIBIO MONTERO"
+                },
+                {
+                    "country": "GBR",
+                    "name": "Sophie CARSON"
+                }
+            ]
+        ],
+        "final_winner": "Valeria TORIBIO MONTERO"
+    },
+    "REPECHAGE": {
+        "round 1-4": [
+            [
+                {
+                    "country": "ESP",
+                    "name": "Africa PUENTE LOPEZ"
+                },
+                {
+                    "winner": "Africa PUENTE LOPEZ"
+                }
+            ],
+            [
+                {
+                    "country": "ESP",
+                    "name": "Sara CARRION NAVARRO"
+                },
+                {
+                    "winner": "Sara CARRION NAVARRO"
+                }
+            ],
+            [],
+            [
+                {
+                    "country": "GBR",
+                    "name": "Sophie CARSON"
+                },
+                {
+                    "winner": "Sophie CARSON"
+                }
+            ]
+        ],
+        "round 1-2": [
+            [
+                {
+                    "country": "ESP",
+                    "name": "Africa PUENTE LOPEZ"
+                },
+                {
+                    "country": "ESP",
+                    "name": "Sara CARRION NAVARRO"
+                },
+                {
+                    "winner": "Africa PUENTE LOPEZ"
+                }
+            ],
+            [
+                {
+                    "country": "GBR",
+                    "name": "Sophie CARSON"
+                }
+            ],
+            [
+                {
+                    "country": "ESP",
+                    "name": "Africa PUENTE LOPEZ"
+                },
+                {
+                    "country": "ESP",
+                    "name": "Valeria TORIBIO MONTERO"
+                },
+                {
+                    "winner": "Valeria TORIBIO MONTERO"
+                }
+            ],
+            [
+                {
+                    "country": "GBR",
+                    "name": "Sophie CARSON"
+                },
+                {
+                    "country": "GBR",
+                    "name": "Emma MCCABE"
+                },
+                {
+                    "winner": "Emma MCCABE"
+                }
+            ],
+            [
+                {
+                    "country": "ESP",
+                    "name": "Valeria TORIBIO MONTERO"
+                }
+            ],
+            [
+                {
+                    "country": "GBR",
+                    "name": "Emma MCCABE"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Valeria TORIBIO MONTERO",
+            "Emma MCCABE"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "AZE",
+                    "name": "Khumar GASIMZADE"
+                },
+                {
+                    "country": "GBR",
+                    "name": "Emma MCCABE"
+                },
+                {
+                    "winner": "Khumar GASIMZADE"
+                }
+            ],
+            [
+                {
+                    "country": "ESP",
+                    "name": "Marta BEORLEGUI OSES"
+                },
+                {
+                    "country": "ESP",
+                    "name": "Valeria TORIBIO MONTERO"
+                },
+                {
+                    "winner": "Marta BEORLEGUI OSES"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "AZE",
+                    "name": "Khumar GASIMZADE"
+                },
+                {
+                    "country": "ESP",
+                    "name": "Marta BEORLEGUI OSES"
+                }
+            ]
+        ],
+        "final_winner": "Marta BEORLEGUI OSES"
+    }
+}

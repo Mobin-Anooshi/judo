@@ -1,0 +1,277 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "POR",
+                    "name": "Rochele NUNES"
+                },
+                {
+                    "winner": "Rochele NUNES"
+                }
+            ],
+            [
+                {
+                    "country": "NZL",
+                    "name": "Sydnee ANDREWS"
+                },
+                {
+                    "country": "VEN",
+                    "name": "Amarantha URDANETA"
+                },
+                {
+                    "winner": "Amarantha URDANETA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "POR",
+                    "name": "Rochele NUNES"
+                },
+                {
+                    "country": "VEN",
+                    "name": "Amarantha URDANETA"
+                }
+            ]
+        ],
+        "final_winner": "Rochele NUNES"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "TUR",
+                    "name": "Hilal OZTURK"
+                },
+                {
+                    "country": "KSA",
+                    "name": "Tahani ALQAHTANI"
+                },
+                {
+                    "winner": "Hilal OZTURK"
+                }
+            ],
+            [
+                {
+                    "country": "ITA",
+                    "name": "Asya TAVANO"
+                },
+                {
+                    "country": "CRO",
+                    "name": "Tina RADIC"
+                },
+                {
+                    "winner": "Tina RADIC"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "TUR",
+                    "name": "Hilal OZTURK"
+                },
+                {
+                    "country": "CRO",
+                    "name": "Tina RADIC"
+                }
+            ]
+        ],
+        "final_winner": "Hilal OZTURK"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "GEO",
+                    "name": "Sophio SOMKHISHVILI"
+                },
+                {
+                    "winner": "Sophio SOMKHISHVILI"
+                }
+            ],
+            [
+                {
+                    "country": "SRB",
+                    "name": "Milica ZABIC"
+                },
+                {
+                    "country": "POL",
+                    "name": "Kinga WOLSZCZAK"
+                },
+                {
+                    "winner": "Milica ZABIC"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "GEO",
+                    "name": "Sophio SOMKHISHVILI"
+                },
+                {
+                    "country": "SRB",
+                    "name": "Milica ZABIC"
+                }
+            ]
+        ],
+        "final_winner": "Milica ZABIC"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "KAZ",
+                    "name": "Kamila BERLIKASH"
+                },
+                {
+                    "winner": "Kamila BERLIKASH"
+                }
+            ],
+            [
+                {
+                    "country": "TUR",
+                    "name": "Sebile AKBULUT"
+                },
+                {
+                    "country": "TTO",
+                    "name": "Gabriella WOOD"
+                },
+                {
+                    "winner": "Sebile AKBULUT"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "KAZ",
+                    "name": "Kamila BERLIKASH"
+                },
+                {
+                    "country": "TUR",
+                    "name": "Sebile AKBULUT"
+                }
+            ]
+        ],
+        "final_winner": "Kamila BERLIKASH"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "VEN",
+                    "name": "Amarantha URDANETA"
+                },
+                {
+                    "country": "CRO",
+                    "name": "Tina RADIC"
+                },
+                {
+                    "winner": "Tina RADIC"
+                }
+            ],
+            [
+                {
+                    "country": "GEO",
+                    "name": "Sophio SOMKHISHVILI"
+                },
+                {
+                    "country": "TUR",
+                    "name": "Sebile AKBULUT"
+                },
+                {
+                    "winner": "Sebile AKBULUT"
+                }
+            ],
+            [
+                {
+                    "country": "CRO",
+                    "name": "Tina RADIC"
+                },
+                {
+                    "country": "KAZ",
+                    "name": "Kamila BERLIKASH"
+                },
+                {
+                    "winner": "Kamila BERLIKASH"
+                }
+            ],
+            [
+                {
+                    "country": "TUR",
+                    "name": "Sebile AKBULUT"
+                },
+                {
+                    "country": "TUR",
+                    "name": "Hilal OZTURK"
+                },
+                {
+                    "winner": "Hilal OZTURK"
+                }
+            ],
+            [
+                {
+                    "country": "KAZ",
+                    "name": "Kamila BERLIKASH"
+                }
+            ],
+            [
+                {
+                    "country": "TUR",
+                    "name": "Hilal OZTURK"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Kamila BERLIKASH",
+            "Hilal OZTURK"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "POR",
+                    "name": "Rochele NUNES"
+                },
+                {
+                    "country": "TUR",
+                    "name": "Hilal OZTURK"
+                },
+                {
+                    "winner": "Rochele NUNES"
+                }
+            ],
+            [
+                {
+                    "country": "SRB",
+                    "name": "Milica ZABIC"
+                },
+                {
+                    "country": "KAZ",
+                    "name": "Kamila BERLIKASH"
+                },
+                {
+                    "winner": "Milica ZABIC"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "POR",
+                    "name": "Rochele NUNES"
+                },
+                {
+                    "country": "SRB",
+                    "name": "Milica ZABIC"
+                }
+            ]
+        ],
+        "final_winner": "Milica ZABIC"
+    }
+}

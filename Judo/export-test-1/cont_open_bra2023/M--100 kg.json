@@ -1,0 +1,261 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Andre HUMBERTO"
+                },
+                {
+                    "winner": "Andre HUMBERTO"
+                }
+            ],
+            [
+                {
+                    "country": "BRA",
+                    "name": "Jhonathan MACHADO"
+                },
+                {
+                    "winner": "Jhonathan MACHADO"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Andre HUMBERTO"
+                },
+                {
+                    "country": "BRA",
+                    "name": "Jhonathan MACHADO"
+                }
+            ]
+        ],
+        "final_winner": "Andre HUMBERTO"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Milton MIRANDA"
+                },
+                {
+                    "winner": "Milton MIRANDA"
+                }
+            ],
+            [
+                {
+                    "country": "BRA",
+                    "name": "Matheus GUIMARAES"
+                },
+                {
+                    "winner": "Matheus GUIMARAES"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Milton MIRANDA"
+                },
+                {
+                    "country": "BRA",
+                    "name": "Matheus GUIMARAES"
+                }
+            ]
+        ],
+        "final_winner": "Milton MIRANDA"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "USA",
+                    "name": "Nathaniel KEEVE"
+                },
+                {
+                    "winner": "Nathaniel KEEVE"
+                }
+            ],
+            [
+                {
+                    "country": "BRA",
+                    "name": "Luiz JUNIOR"
+                },
+                {
+                    "country": "BRA",
+                    "name": "Joao Lucas SOARES"
+                },
+                {
+                    "winner": "Joao Lucas SOARES"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "USA",
+                    "name": "Nathaniel KEEVE"
+                },
+                {
+                    "country": "BRA",
+                    "name": "Joao Lucas SOARES"
+                }
+            ]
+        ],
+        "final_winner": "Joao Lucas SOARES"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CHI",
+                    "name": "Rafael ROMO"
+                },
+                {
+                    "winner": "Rafael ROMO"
+                }
+            ],
+            [
+                {
+                    "country": "BRA",
+                    "name": "Otton DOS SANTOS"
+                },
+                {
+                    "winner": "Otton DOS SANTOS"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "CHI",
+                    "name": "Rafael ROMO"
+                },
+                {
+                    "country": "BRA",
+                    "name": "Otton DOS SANTOS"
+                }
+            ]
+        ],
+        "final_winner": "Otton DOS SANTOS"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Jhonathan MACHADO"
+                },
+                {
+                    "country": "BRA",
+                    "name": "Matheus GUIMARAES"
+                },
+                {
+                    "winner": "Jhonathan MACHADO"
+                }
+            ],
+            [
+                {
+                    "country": "USA",
+                    "name": "Nathaniel KEEVE"
+                },
+                {
+                    "country": "CHI",
+                    "name": "Rafael ROMO"
+                },
+                {
+                    "winner": "Nathaniel KEEVE"
+                }
+            ],
+            [
+                {
+                    "country": "BRA",
+                    "name": "Jhonathan MACHADO"
+                },
+                {
+                    "country": "BRA",
+                    "name": "Joao Lucas SOARES"
+                },
+                {
+                    "winner": "Jhonathan MACHADO"
+                }
+            ],
+            [
+                {
+                    "country": "USA",
+                    "name": "Nathaniel KEEVE"
+                },
+                {
+                    "country": "BRA",
+                    "name": "Milton MIRANDA"
+                },
+                {
+                    "winner": "Nathaniel KEEVE"
+                }
+            ],
+            [
+                {
+                    "country": "BRA",
+                    "name": "Jhonathan MACHADO"
+                }
+            ],
+            [
+                {
+                    "country": "USA",
+                    "name": "Nathaniel KEEVE"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Jhonathan MACHADO",
+            "Nathaniel KEEVE"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Andre HUMBERTO"
+                },
+                {
+                    "country": "BRA",
+                    "name": "Milton MIRANDA"
+                },
+                {
+                    "winner": "Andre HUMBERTO"
+                }
+            ],
+            [
+                {
+                    "country": "BRA",
+                    "name": "Joao Lucas SOARES"
+                },
+                {
+                    "country": "BRA",
+                    "name": "Otton DOS SANTOS"
+                },
+                {
+                    "winner": "Otton DOS SANTOS"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Andre HUMBERTO"
+                },
+                {
+                    "country": "BRA",
+                    "name": "Otton DOS SANTOS"
+                }
+            ]
+        ],
+        "final_winner": "Andre HUMBERTO"
+    }
+}

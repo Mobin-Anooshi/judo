@@ -1,0 +1,141 @@
+{
+    "POOL A": {
+        "round 1-1": [],
+        "final_winner": "Othmane ARBAOUI"
+    },
+    "POOL B": {
+        "round 1-1": [
+            [
+                {
+                    "country": "ALG",
+                    "name": "Mohamed Hamza KHETTOU"
+                },
+                {
+                    "country": "ALG",
+                    "name": "Nadjib-Omar KEROUCHE"
+                }
+            ]
+        ],
+        "final_winner": "Mohamed Hamza KHETTOU"
+    },
+    "POOL C": {
+        "round 1-1": [],
+        "final_winner": "Abdellah FALA"
+    },
+    "POOL D": {
+        "round 1-1": [
+            [
+                {
+                    "country": "SEN",
+                    "name": "Libasse NDIAYE"
+                },
+                {
+                    "country": "ALG",
+                    "name": "Mansour BOUNIF"
+                }
+            ]
+        ],
+        "final_winner": "Libasse NDIAYE"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ALG",
+                    "name": "Nadjib-Omar KEROUCHE"
+                }
+            ],
+            [
+                {
+                    "country": "ALG",
+                    "name": "Mansour BOUNIF"
+                }
+            ],
+            [
+                {
+                    "country": "ALG",
+                    "name": "Nadjib-Omar KEROUCHE"
+                },
+                {
+                    "country": "SEN",
+                    "name": "Libasse NDIAYE"
+                },
+                {
+                    "winner": "Libasse NDIAYE"
+                }
+            ],
+            [
+                {
+                    "country": "ALG",
+                    "name": "Mansour BOUNIF"
+                },
+                {
+                    "country": "ALG",
+                    "name": "Othmane ARBAOUI"
+                },
+                {
+                    "winner": "Othmane ARBAOUI"
+                }
+            ],
+            [
+                {
+                    "country": "SEN",
+                    "name": "Libasse NDIAYE"
+                }
+            ],
+            [
+                {
+                    "country": "ALG",
+                    "name": "Othmane ARBAOUI"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Libasse NDIAYE",
+            "Othmane ARBAOUI"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ALG",
+                    "name": "Othmane ARBAOUI"
+                },
+                {
+                    "country": "ALG",
+                    "name": "Mohamed Hamza KHETTOU"
+                },
+                {
+                    "winner": "Mohamed Hamza KHETTOU"
+                }
+            ],
+            [
+                {
+                    "country": "ALG",
+                    "name": "Abdellah FALA"
+                },
+                {
+                    "country": "SEN",
+                    "name": "Libasse NDIAYE"
+                },
+                {
+                    "winner": "Abdellah FALA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "ALG",
+                    "name": "Mohamed Hamza KHETTOU"
+                },
+                {
+                    "country": "ALG",
+                    "name": "Abdellah FALA"
+                }
+            ]
+        ],
+        "final_winner": "Mohamed Hamza KHETTOU"
+    }
+}

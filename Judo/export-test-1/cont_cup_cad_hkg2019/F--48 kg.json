@@ -1,0 +1,135 @@
+{
+    "POOL A": {
+        "round 1-1": [
+            [
+                {
+                    "country": "HKG",
+                    "name": "Yee Lam Elim CHAN"
+                },
+                {
+                    "country": "MGL",
+                    "name": "Ariunzaya ENKHBAATAR"
+                }
+            ]
+        ],
+        "final_winner": "Yee Lam Elim CHAN"
+    },
+    "POOL B": {
+        "round 1-1": [],
+        "final_winner": "Mabel NG"
+    },
+    "POOL C": {
+        "round 1-1": [
+            [
+                {
+                    "country": "SGP",
+                    "name": "Celine TAN"
+                },
+                {
+                    "country": "HKG",
+                    "name": "Lok Yi HO"
+                }
+            ]
+        ],
+        "final_winner": "Celine TAN"
+    },
+    "POOL D": {
+        "round 1-1": [],
+        "final_winner": "Seoyeon KIM"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "MGL",
+                    "name": "Ariunzaya ENKHBAATAR"
+                }
+            ],
+            [
+                {
+                    "country": "HKG",
+                    "name": "Lok Yi HO"
+                }
+            ],
+            [
+                {
+                    "country": "MGL",
+                    "name": "Ariunzaya ENKHBAATAR"
+                },
+                {
+                    "country": "SGP",
+                    "name": "Celine TAN"
+                },
+                {
+                    "winner": "Celine TAN"
+                }
+            ],
+            [
+                {
+                    "country": "HKG",
+                    "name": "Lok Yi HO"
+                },
+                {
+                    "country": "SGP",
+                    "name": "Mabel NG"
+                },
+                {
+                    "winner": "Lok Yi HO"
+                }
+            ],
+            [
+                {
+                    "country": "SGP",
+                    "name": "Celine TAN"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Lok Yi HO",
+            "Celine TAN"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "HKG",
+                    "name": "Yee Lam Elim CHAN"
+                },
+                {
+                    "country": "SGP",
+                    "name": "Mabel NG"
+                },
+                {
+                    "winner": "Yee Lam Elim CHAN"
+                }
+            ],
+            [
+                {
+                    "country": "SGP",
+                    "name": "Celine TAN"
+                },
+                {
+                    "country": "KOR",
+                    "name": "Seoyeon KIM"
+                },
+                {
+                    "winner": "Seoyeon KIM"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "HKG",
+                    "name": "Yee Lam Elim CHAN"
+                },
+                {
+                    "country": "KOR",
+                    "name": "Seoyeon KIM"
+                }
+            ]
+        ],
+        "final_winner": "Seoyeon KIM"
+    }
+}

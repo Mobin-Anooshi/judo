@@ -1,0 +1,257 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CUB",
+                    "name": "Idalys ORTIZ"
+                },
+                {
+                    "winner": "Idalys ORTIZ"
+                }
+            ],
+            [
+                {
+                    "country": "JPN",
+                    "name": "Suzuka ICHIHASHI"
+                },
+                {
+                    "winner": "Suzuka ICHIHASHI"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "CUB",
+                    "name": "Idalys ORTIZ"
+                },
+                {
+                    "country": "JPN",
+                    "name": "Suzuka ICHIHASHI"
+                }
+            ]
+        ],
+        "final_winner": "Idalys ORTIZ"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "MGL",
+                    "name": "Munkhtuya BATTULGA"
+                },
+                {
+                    "winner": "Munkhtuya BATTULGA"
+                }
+            ],
+            [
+                {
+                    "country": "MGL",
+                    "name": "Gantogos GARMAA"
+                },
+                {
+                    "winner": "Gantogos GARMAA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "MGL",
+                    "name": "Munkhtuya BATTULGA"
+                },
+                {
+                    "country": "MGL",
+                    "name": "Gantogos GARMAA"
+                }
+            ]
+        ],
+        "final_winner": "Munkhtuya BATTULGA"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "MGL",
+                    "name": "Javzmaa ODKHUU"
+                },
+                {
+                    "winner": "Javzmaa ODKHUU"
+                }
+            ],
+            [
+                {
+                    "country": "CHN",
+                    "name": "Nan LI"
+                },
+                {
+                    "winner": "Nan LI"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "MGL",
+                    "name": "Javzmaa ODKHUU"
+                },
+                {
+                    "country": "CHN",
+                    "name": "Nan LI"
+                }
+            ]
+        ],
+        "final_winner": "Javzmaa ODKHUU"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "RUS",
+                    "name": "Ekaterina SHEREMETOVA"
+                },
+                {
+                    "winner": "Ekaterina SHEREMETOVA"
+                }
+            ],
+            [
+                {
+                    "country": "MGL",
+                    "name": "Gandiimaa ERDENEBILEG"
+                },
+                {
+                    "winner": "Gandiimaa ERDENEBILEG"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "RUS",
+                    "name": "Ekaterina SHEREMETOVA"
+                },
+                {
+                    "country": "MGL",
+                    "name": "Gandiimaa ERDENEBILEG"
+                }
+            ]
+        ],
+        "final_winner": "Ekaterina SHEREMETOVA"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "JPN",
+                    "name": "Suzuka ICHIHASHI"
+                },
+                {
+                    "country": "MGL",
+                    "name": "Gantogos GARMAA"
+                },
+                {
+                    "winner": "Suzuka ICHIHASHI"
+                }
+            ],
+            [
+                {
+                    "country": "CHN",
+                    "name": "Nan LI"
+                },
+                {
+                    "country": "MGL",
+                    "name": "Gandiimaa ERDENEBILEG"
+                },
+                {
+                    "winner": "Nan LI"
+                }
+            ],
+            [
+                {
+                    "country": "JPN",
+                    "name": "Suzuka ICHIHASHI"
+                },
+                {
+                    "country": "RUS",
+                    "name": "Ekaterina SHEREMETOVA"
+                },
+                {
+                    "winner": "Suzuka ICHIHASHI"
+                }
+            ],
+            [
+                {
+                    "country": "CHN",
+                    "name": "Nan LI"
+                },
+                {
+                    "country": "MGL",
+                    "name": "Munkhtuya BATTULGA"
+                },
+                {
+                    "winner": "Munkhtuya BATTULGA"
+                }
+            ],
+            [
+                {
+                    "country": "JPN",
+                    "name": "Suzuka ICHIHASHI"
+                }
+            ],
+            [
+                {
+                    "country": "MGL",
+                    "name": "Munkhtuya BATTULGA"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Suzuka ICHIHASHI",
+            "Munkhtuya BATTULGA"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CUB",
+                    "name": "Idalys ORTIZ"
+                },
+                {
+                    "country": "MGL",
+                    "name": "Munkhtuya BATTULGA"
+                },
+                {
+                    "winner": "Idalys ORTIZ"
+                }
+            ],
+            [
+                {
+                    "country": "MGL",
+                    "name": "Javzmaa ODKHUU"
+                },
+                {
+                    "country": "RUS",
+                    "name": "Ekaterina SHEREMETOVA"
+                },
+                {
+                    "winner": "Javzmaa ODKHUU"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "CUB",
+                    "name": "Idalys ORTIZ"
+                },
+                {
+                    "country": "MGL",
+                    "name": "Javzmaa ODKHUU"
+                }
+            ]
+        ],
+        "final_winner": "Idalys ORTIZ"
+    }
+}

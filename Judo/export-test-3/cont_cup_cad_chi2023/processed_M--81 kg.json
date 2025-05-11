@@ -1,0 +1,68 @@
+{
+    "ROUND 1": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CHI",
+                    "name": "Cristobal LEIVA"
+                },
+                {
+                    "country": "CHI",
+                    "name": "Agustin VENEGAS"
+                },
+                {
+                    "winner": "Agustin VENEGAS"
+                }
+            ],
+            [
+                {
+                    "country": "CHI",
+                    "name": "Luciano JIMENEZ"
+                },
+                {
+                    "country": "CHI",
+                    "name": "Nicolas FERNANDEZ"
+                },
+                {
+                    "winner": "Nicolas FERNANDEZ"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Agustin VENEGAS",
+            "Nicolas FERNANDEZ"
+        ]
+    },
+    "REPECHAGE": {
+        "round 1-1": [
+            [
+                {
+                    "country": "CHI",
+                    "name": "Cristobal LEIVA"
+                },
+                {
+                    "country": "CHI",
+                    "name": "Luciano JIMENEZ"
+                },
+                {
+                    "winner": "Cristobal LEIVA"
+                }
+            ],
+            [
+                {
+                    "country": "CHI",
+                    "name": "Cristobal LEIVA"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Cristobal LEIVA"
+        ]
+    },
+    "FINALS": {
+        "round 1-1": [],
+        "final_winners": [
+            "Nicolas FERNANDEZ"
+        ]
+    }
+}

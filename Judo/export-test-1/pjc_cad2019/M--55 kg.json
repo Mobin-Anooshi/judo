@@ -1,0 +1,331 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CRC",
+                    "name": "Bryan BONILLA"
+                },
+                {
+                    "winner": "Bryan BONILLA"
+                }
+            ],
+            [
+                {
+                    "country": "ARG",
+                    "name": "Dylan BURZIO"
+                },
+                {
+                    "country": "ECU",
+                    "name": "Bismark DE LA CRUZ"
+                },
+                {
+                    "winner": "Bismark DE LA CRUZ"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "CRC",
+                    "name": "Bryan BONILLA"
+                },
+                {
+                    "country": "ECU",
+                    "name": "Bismark DE LA CRUZ"
+                }
+            ]
+        ],
+        "final_winner": "Bryan BONILLA"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "MEX",
+                    "name": "Jose QUINTA"
+                },
+                {
+                    "country": "VEN",
+                    "name": "Lizandro JIMENEZ"
+                },
+                {
+                    "winner": "Jose QUINTA"
+                }
+            ],
+            [
+                {
+                    "country": "CAN",
+                    "name": "Jasmin BELANGER"
+                },
+                {
+                    "country": "USA",
+                    "name": "Anakin MENDOZA"
+                },
+                {
+                    "winner": "Jasmin BELANGER"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "MEX",
+                    "name": "Jose QUINTA"
+                },
+                {
+                    "country": "CAN",
+                    "name": "Jasmin BELANGER"
+                }
+            ]
+        ],
+        "final_winner": "Jose QUINTA"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "DOM",
+                    "name": "Ramon RAMIREZ"
+                },
+                {
+                    "winner": "Ramon RAMIREZ"
+                }
+            ],
+            [
+                {
+                    "country": "BRA",
+                    "name": "Cauan MENDES"
+                },
+                {
+                    "country": "CRC",
+                    "name": "Gabriel LOPEZ"
+                },
+                {
+                    "winner": "Cauan MENDES"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "DOM",
+                    "name": "Ramon RAMIREZ"
+                },
+                {
+                    "country": "BRA",
+                    "name": "Cauan MENDES"
+                }
+            ]
+        ],
+        "final_winner": "Cauan MENDES"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "PER",
+                    "name": "Arnold PRADO"
+                },
+                {
+                    "country": "COL",
+                    "name": "Jhojan SALCEDO"
+                },
+                {
+                    "winner": "Arnold PRADO"
+                }
+            ],
+            [
+                {
+                    "country": "ARG",
+                    "name": "Yoav ABRAMSON"
+                },
+                {
+                    "country": "JAM",
+                    "name": "Johnson CHRISTOPHER"
+                },
+                {
+                    "winner": "Yoav ABRAMSON"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "PER",
+                    "name": "Arnold PRADO"
+                },
+                {
+                    "country": "ARG",
+                    "name": "Yoav ABRAMSON"
+                }
+            ]
+        ],
+        "final_winner": "Arnold PRADO"
+    },
+    "REPECHAGE": {
+        "round 1-4": [
+            [
+                {
+                    "country": "ECU",
+                    "name": "Bismark DE LA CRUZ"
+                },
+                {
+                    "winner": "Bismark DE LA CRUZ"
+                }
+            ],
+            [
+                {
+                    "country": "VEN",
+                    "name": "Lizandro JIMENEZ"
+                },
+                {
+                    "country": "CAN",
+                    "name": "Jasmin BELANGER"
+                },
+                {
+                    "winner": "Lizandro JIMENEZ"
+                }
+            ],
+            [
+                {
+                    "country": "CRC",
+                    "name": "Gabriel LOPEZ"
+                },
+                {
+                    "country": "DOM",
+                    "name": "Ramon RAMIREZ"
+                },
+                {
+                    "winner": "Gabriel LOPEZ"
+                }
+            ],
+            [
+                {
+                    "country": "COL",
+                    "name": "Jhojan SALCEDO"
+                },
+                {
+                    "country": "ARG",
+                    "name": "Yoav ABRAMSON"
+                },
+                {
+                    "winner": "Jhojan SALCEDO"
+                }
+            ]
+        ],
+        "round 1-2": [
+            [
+                {
+                    "country": "ECU",
+                    "name": "Bismark DE LA CRUZ"
+                },
+                {
+                    "country": "VEN",
+                    "name": "Lizandro JIMENEZ"
+                },
+                {
+                    "winner": "Bismark DE LA CRUZ"
+                }
+            ],
+            [
+                {
+                    "country": "CRC",
+                    "name": "Gabriel LOPEZ"
+                },
+                {
+                    "country": "COL",
+                    "name": "Jhojan SALCEDO"
+                },
+                {
+                    "winner": "Jhojan SALCEDO"
+                }
+            ],
+            [
+                {
+                    "country": "ECU",
+                    "name": "Bismark DE LA CRUZ"
+                },
+                {
+                    "country": "PER",
+                    "name": "Arnold PRADO"
+                },
+                {
+                    "winner": "Bismark DE LA CRUZ"
+                }
+            ],
+            [
+                {
+                    "country": "COL",
+                    "name": "Jhojan SALCEDO"
+                },
+                {
+                    "country": "MEX",
+                    "name": "Jose QUINTA"
+                },
+                {
+                    "winner": "Jose QUINTA"
+                }
+            ],
+            [
+                {
+                    "country": "ECU",
+                    "name": "Bismark DE LA CRUZ"
+                }
+            ],
+            [
+                {
+                    "country": "MEX",
+                    "name": "Jose QUINTA"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Bismark DE LA CRUZ",
+            "Jose QUINTA"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CRC",
+                    "name": "Bryan BONILLA"
+                },
+                {
+                    "country": "MEX",
+                    "name": "Jose QUINTA"
+                },
+                {
+                    "winner": "Bryan BONILLA"
+                }
+            ],
+            [
+                {
+                    "country": "BRA",
+                    "name": "Cauan MENDES"
+                },
+                {
+                    "country": "PER",
+                    "name": "Arnold PRADO"
+                },
+                {
+                    "winner": "Cauan MENDES"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "CRC",
+                    "name": "Bryan BONILLA"
+                },
+                {
+                    "country": "BRA",
+                    "name": "Cauan MENDES"
+                }
+            ]
+        ],
+        "final_winner": "Cauan MENDES"
+    }
+}

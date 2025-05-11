@@ -1,0 +1,239 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "DOM",
+                    "name": "Robert FLORENTINO"
+                },
+                {
+                    "winner": "Robert FLORENTINO"
+                }
+            ],
+            [
+                {
+                    "country": "PER",
+                    "name": "Yuta GALARRETA"
+                },
+                {
+                    "country": "CAN",
+                    "name": "Thomas BADAT"
+                },
+                {
+                    "winner": "Yuta GALARRETA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "DOM",
+                    "name": "Robert FLORENTINO"
+                },
+                {
+                    "country": "PER",
+                    "name": "Yuta GALARRETA"
+                }
+            ]
+        ],
+        "final_winner": "Robert FLORENTINO"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "USA",
+                    "name": "Nicholas PAVLOV"
+                },
+                {
+                    "winner": "Nicholas PAVLOV"
+                }
+            ],
+            [
+                {
+                    "country": "CRC",
+                    "name": "Stuard CHACON"
+                },
+                {
+                    "winner": "Stuard CHACON"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "USA",
+                    "name": "Nicholas PAVLOV"
+                },
+                {
+                    "country": "CRC",
+                    "name": "Stuard CHACON"
+                }
+            ]
+        ],
+        "final_winner": "Nicholas PAVLOV"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "DOM",
+                    "name": "Ivan MEDOS"
+                },
+                {
+                    "winner": "Ivan MEDOS"
+                }
+            ],
+            [
+                {
+                    "country": "BRA",
+                    "name": "Daniel ANDRADE"
+                },
+                {
+                    "country": "MEX",
+                    "name": "Victor OCHOA"
+                },
+                {
+                    "winner": "Victor OCHOA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "DOM",
+                    "name": "Ivan MEDOS"
+                },
+                {
+                    "country": "MEX",
+                    "name": "Victor OCHOA"
+                }
+            ]
+        ],
+        "final_winner": "Victor OCHOA"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "COL",
+                    "name": "Francisco BALANTA"
+                },
+                {
+                    "winner": "Francisco BALANTA"
+                }
+            ],
+            []
+        ],
+        "round 1-1": [],
+        "final_winner": "Francisco BALANTA"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "PER",
+                    "name": "Yuta GALARRETA"
+                },
+                {
+                    "country": "CRC",
+                    "name": "Stuard CHACON"
+                },
+                {
+                    "winner": "Yuta GALARRETA"
+                }
+            ],
+            [
+                {
+                    "country": "DOM",
+                    "name": "Ivan MEDOS"
+                }
+            ],
+            [
+                {
+                    "country": "PER",
+                    "name": "Yuta GALARRETA"
+                },
+                {
+                    "country": "MEX",
+                    "name": "Victor OCHOA"
+                },
+                {
+                    "winner": "Yuta GALARRETA"
+                }
+            ],
+            [
+                {
+                    "country": "DOM",
+                    "name": "Ivan MEDOS"
+                },
+                {
+                    "country": "USA",
+                    "name": "Nicholas PAVLOV"
+                },
+                {
+                    "winner": "Nicholas PAVLOV"
+                }
+            ],
+            [
+                {
+                    "country": "PER",
+                    "name": "Yuta GALARRETA"
+                }
+            ],
+            [
+                {
+                    "country": "USA",
+                    "name": "Nicholas PAVLOV"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Yuta GALARRETA",
+            "Nicholas PAVLOV"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "DOM",
+                    "name": "Robert FLORENTINO"
+                },
+                {
+                    "country": "USA",
+                    "name": "Nicholas PAVLOV"
+                },
+                {
+                    "winner": "Robert FLORENTINO"
+                }
+            ],
+            [
+                {
+                    "country": "MEX",
+                    "name": "Victor OCHOA"
+                },
+                {
+                    "country": "COL",
+                    "name": "Francisco BALANTA"
+                },
+                {
+                    "winner": "Francisco BALANTA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "DOM",
+                    "name": "Robert FLORENTINO"
+                },
+                {
+                    "country": "COL",
+                    "name": "Francisco BALANTA"
+                }
+            ]
+        ],
+        "final_winner": "Robert FLORENTINO"
+    }
+}

@@ -1,0 +1,152 @@
+{
+    "POOL A": {
+        "round 1-1": [
+            [
+                {
+                    "country": "DOM",
+                    "name": "Amaury Jose PERALTA"
+                }
+            ]
+        ]
+    },
+    "POOL B": {
+        "round 1-1": [
+            [
+                {
+                    "country": "MEX",
+                    "name": "David GOMEZ"
+                },
+                {
+                    "country": "CHI",
+                    "name": "Francisco SOLIS"
+                }
+            ],
+            [
+                {
+                    "country": "MEX",
+                    "name": "David GOMEZ"
+                }
+            ]
+        ]
+    },
+    "POOL C": {
+        "round 1-1": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Arthur BARBOZA"
+                }
+            ]
+        ]
+    },
+    "POOL D": {
+        "round 1-1": [
+            [
+                {
+                    "country": "ARG",
+                    "name": "Angel RIOS"
+                },
+                {
+                    "country": "COL",
+                    "name": "Emmanuelle ARIAS"
+                }
+            ],
+            [
+                {
+                    "country": "COL",
+                    "name": "Emmanuelle ARIAS"
+                }
+            ]
+        ]
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CHI",
+                    "name": "Francisco SOLIS"
+                }
+            ],
+            [
+                {
+                    "country": "ARG",
+                    "name": "Angel RIOS"
+                }
+            ],
+            [
+                {
+                    "country": "CHI",
+                    "name": "Francisco SOLIS"
+                },
+                {
+                    "country": "COL",
+                    "name": "Emmanuelle ARIAS"
+                }
+            ],
+            [
+                {
+                    "country": "ARG",
+                    "name": "Angel RIOS"
+                },
+                {
+                    "country": "DOM",
+                    "name": "Amaury Jose PERALTA"
+                }
+            ],
+            [
+                {
+                    "country": "DOM",
+                    "name": "Amaury Jose PERALTA"
+                }
+            ]
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "DOM",
+                    "name": "Amaury Jose PERALTA"
+                },
+                {
+                    "country": "MEX",
+                    "name": "David GOMEZ"
+                },
+                {
+                    "winner": "David GOMEZ"
+                }
+            ],
+            [
+                {
+                    "country": "BRA",
+                    "name": "Arthur BARBOZA"
+                },
+                {
+                    "country": "COL",
+                    "name": "Emmanuelle ARIAS"
+                },
+                {
+                    "winner": "Arthur BARBOZA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "MEX",
+                    "name": "David GOMEZ"
+                },
+                {
+                    "country": "BRA",
+                    "name": "Arthur BARBOZA"
+                }
+            ],
+            [
+                {
+                    "country": "BRA",
+                    "name": "Arthur BARBOZA"
+                }
+            ]
+        ]
+    }
+}

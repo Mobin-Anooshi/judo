@@ -1,0 +1,87 @@
+{
+    "POOL A": {
+        "round 1-3": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Andre SOARES"
+                },
+                {
+                    "country": "ARG",
+                    "name": "Joaquin CHANDIA"
+                },
+                {
+                    "winner": "Andre SOARES"
+                }
+            ],
+            [
+                {
+                    "country": "BRA",
+                    "name": "Andre SOARES"
+                },
+                {
+                    "country": "CAN",
+                    "name": "Wilson ELLIOT"
+                },
+                {
+                    "winner": "Wilson ELLIOT"
+                }
+            ],
+            [
+                {
+                    "country": "ARG",
+                    "name": "Joaquin CHANDIA"
+                },
+                {
+                    "country": "CAN",
+                    "name": "Wilson ELLIOT"
+                },
+                {
+                    "winner": "Wilson ELLIOT"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Andre SOARES",
+            "Wilson ELLIOT"
+        ]
+    },
+    "POOL B": {
+        "round 1-1": [],
+        "final_winners": [
+            "Francisco SOLIS"
+        ]
+    },
+    "REPECHAGE": {
+        "round 1-1": [
+            [
+                {
+                    "country": "CAN",
+                    "name": "Wilson ELLIOT"
+                },
+                {
+                    "country": "USA",
+                    "name": "Zachery NEMEC"
+                },
+                {
+                    "winner": "Zachery NEMEC"
+                }
+            ],
+            [
+                {
+                    "country": "USA",
+                    "name": "Zachery NEMEC"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Zachery NEMEC"
+        ]
+    },
+    "FINALS": {
+        "round 1-1": [],
+        "final_winners": [
+            "Francisco SOLIS"
+        ]
+    }
+}

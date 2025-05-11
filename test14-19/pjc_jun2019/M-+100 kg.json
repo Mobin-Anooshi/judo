@@ -1,0 +1,232 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CHI",
+                    "name": "Francisco SOLIS"
+                },
+                {
+                    "winner": "Francisco SOLIS"
+                }
+            ],
+            []
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "CHI",
+                    "name": "Francisco SOLIS"
+                }
+            ]
+        ]
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "USA",
+                    "name": "Eric KALAJYAN"
+                },
+                {
+                    "winner": "Eric KALAJYAN"
+                }
+            ],
+            [
+                {
+                    "country": "MEX",
+                    "name": "Ruben REYES"
+                },
+                {
+                    "winner": "Ruben REYES"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "USA",
+                    "name": "Eric KALAJYAN"
+                },
+                {
+                    "country": "MEX",
+                    "name": "Ruben REYES"
+                }
+            ],
+            [
+                {
+                    "country": "MEX",
+                    "name": "Ruben REYES"
+                }
+            ]
+        ]
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "PUR",
+                    "name": "GREG MUNIZ VAZQUEZ"
+                },
+                {
+                    "winner": "GREG MUNIZ VAZQUEZ"
+                }
+            ],
+            []
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "PUR",
+                    "name": "GREG MUNIZ VAZQUEZ"
+                }
+            ]
+        ]
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Lucas BRITO"
+                },
+                {
+                    "winner": "Lucas BRITO"
+                }
+            ],
+            [
+                {
+                    "country": "COL",
+                    "name": "Duvan NIETO"
+                },
+                {
+                    "winner": "Duvan NIETO"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Lucas BRITO"
+                },
+                {
+                    "country": "COL",
+                    "name": "Duvan NIETO"
+                }
+            ],
+            [
+                {
+                    "country": "BRA",
+                    "name": "Lucas BRITO"
+                }
+            ]
+        ]
+    },
+    "REPECHAGE": {
+        "round 1-4": [
+            [],
+            [
+                {
+                    "country": "USA",
+                    "name": "Eric KALAJYAN"
+                },
+                {
+                    "winner": "Eric KALAJYAN"
+                }
+            ],
+            [],
+            [
+                {
+                    "country": "COL",
+                    "name": "Duvan NIETO"
+                },
+                {
+                    "winner": "Duvan NIETO"
+                }
+            ]
+        ],
+        "round 1-2": [
+            [
+                {
+                    "country": "USA",
+                    "name": "Eric KALAJYAN"
+                }
+            ],
+            [
+                {
+                    "country": "COL",
+                    "name": "Duvan NIETO"
+                }
+            ],
+            [
+                {
+                    "country": "USA",
+                    "name": "Eric KALAJYAN"
+                },
+                {
+                    "country": "PUR",
+                    "name": "GREG MUNIZ VAZQUEZ"
+                }
+            ],
+            [
+                {
+                    "country": "COL",
+                    "name": "Duvan NIETO"
+                },
+                {
+                    "country": "MEX",
+                    "name": "Ruben REYES"
+                }
+            ]
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CHI",
+                    "name": "Francisco SOLIS"
+                },
+                {
+                    "country": "MEX",
+                    "name": "Ruben REYES"
+                },
+                {
+                    "winner": "Francisco SOLIS"
+                }
+            ],
+            [
+                {
+                    "country": "PUR",
+                    "name": "GREG MUNIZ VAZQUEZ"
+                },
+                {
+                    "country": "BRA",
+                    "name": "Lucas BRITO"
+                },
+                {
+                    "winner": "Lucas BRITO"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "CHI",
+                    "name": "Francisco SOLIS"
+                },
+                {
+                    "country": "BRA",
+                    "name": "Lucas BRITO"
+                }
+            ],
+            [
+                {
+                    "country": "BRA",
+                    "name": "Lucas BRITO"
+                }
+            ]
+        ]
+    }
+}

@@ -1,0 +1,177 @@
+{
+    "POOL A": {
+        "round 1-1": [
+            [
+                {
+                    "country": "ALG",
+                    "name": "Amina BELKADI"
+                },
+                {
+                    "country": "TUN",
+                    "name": "Maram JMOUR"
+                }
+            ]
+        ],
+        "final_winner": "Amina BELKADI"
+    },
+    "POOL B": {
+        "round 1-1": [
+            [
+                {
+                    "country": "SEN",
+                    "name": "Anna Siga FAYE"
+                },
+                {
+                    "country": "CAF",
+                    "name": "Nadia Matchiko GUIMENDEGO"
+                }
+            ]
+        ],
+        "final_winner": "Anna Siga FAYE"
+    },
+    "POOL C": {
+        "round 1-1": [
+            [
+                {
+                    "country": "TUN",
+                    "name": "Meriem BJAOUI"
+                },
+                {
+                    "country": "ALG",
+                    "name": "Kenza NAIT AMMAR"
+                }
+            ]
+        ],
+        "final_winner": "Meriem BJAOUI"
+    },
+    "POOL D": {
+        "round 1-1": [
+            [
+                {
+                    "country": "USA",
+                    "name": "Sara GOLDEN"
+                },
+                {
+                    "country": "TUN",
+                    "name": "Mouna MANAI"
+                }
+            ]
+        ],
+        "final_winner": "Sara GOLDEN"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "TUN",
+                    "name": "Maram JMOUR"
+                },
+                {
+                    "country": "CAF",
+                    "name": "Nadia Matchiko GUIMENDEGO"
+                },
+                {
+                    "winner": "Nadia Matchiko GUIMENDEGO"
+                }
+            ],
+            [
+                {
+                    "country": "ALG",
+                    "name": "Kenza NAIT AMMAR"
+                },
+                {
+                    "country": "TUN",
+                    "name": "Mouna MANAI"
+                },
+                {
+                    "winner": "Mouna MANAI"
+                }
+            ],
+            [
+                {
+                    "country": "CAF",
+                    "name": "Nadia Matchiko GUIMENDEGO"
+                },
+                {
+                    "country": "USA",
+                    "name": "Sara GOLDEN"
+                },
+                {
+                    "winner": "Sara GOLDEN"
+                }
+            ],
+            [
+                {
+                    "country": "TUN",
+                    "name": "Mouna MANAI"
+                },
+                {
+                    "country": "SEN",
+                    "name": "Anna Siga FAYE"
+                },
+                {
+                    "winner": "Anna Siga FAYE"
+                }
+            ],
+            [
+                {
+                    "country": "USA",
+                    "name": "Sara GOLDEN"
+                }
+            ],
+            [
+                {
+                    "country": "SEN",
+                    "name": "Anna Siga FAYE"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Sara GOLDEN",
+            "Anna Siga FAYE"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ALG",
+                    "name": "Amina BELKADI"
+                },
+                {
+                    "country": "SEN",
+                    "name": "Anna Siga FAYE"
+                },
+                {
+                    "winner": "Amina BELKADI"
+                }
+            ],
+            [
+                {
+                    "country": "TUN",
+                    "name": "Meriem BJAOUI"
+                },
+                {
+                    "country": "USA",
+                    "name": "Sara GOLDEN"
+                },
+                {
+                    "winner": "Meriem BJAOUI"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "ALG",
+                    "name": "Amina BELKADI"
+                },
+                {
+                    "country": "TUN",
+                    "name": "Meriem BJAOUI"
+                }
+            ]
+        ],
+        "final_winner": "Meriem BJAOUI"
+    }
+}

@@ -1,0 +1,268 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "RUS",
+                    "name": "Ildar IKSANOV"
+                },
+                {
+                    "winner": "Ildar IKSANOV"
+                }
+            ],
+            []
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "RUS",
+                    "name": "Ildar IKSANOV"
+                }
+            ]
+        ]
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "FRA",
+                    "name": "Tanou KEITA"
+                },
+                {
+                    "winner": "Tanou KEITA"
+                }
+            ],
+            [
+                {
+                    "country": "MAR",
+                    "name": "Mohammed LAHBOUB"
+                },
+                {
+                    "winner": "Mohammed LAHBOUB"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "FRA",
+                    "name": "Tanou KEITA"
+                },
+                {
+                    "country": "MAR",
+                    "name": "Mohammed LAHBOUB"
+                }
+            ],
+            [
+                {
+                    "country": "MAR",
+                    "name": "Mohammed LAHBOUB"
+                }
+            ]
+        ]
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "GER",
+                    "name": "Yvo WITASSEK"
+                },
+                {
+                    "winner": "Yvo WITASSEK"
+                }
+            ],
+            [
+                {
+                    "country": "ESP",
+                    "name": "Alejandro BASTERO COMESANA"
+                },
+                {
+                    "winner": "Alejandro BASTERO COMESANA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "GER",
+                    "name": "Yvo WITASSEK"
+                },
+                {
+                    "country": "ESP",
+                    "name": "Alejandro BASTERO COMESANA"
+                }
+            ],
+            [
+                {
+                    "country": "GER",
+                    "name": "Yvo WITASSEK"
+                }
+            ]
+        ]
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "GER",
+                    "name": "Ole BUTH"
+                },
+                {
+                    "winner": "Ole BUTH"
+                }
+            ],
+            [
+                {
+                    "country": "ESP",
+                    "name": "Alejandro CALVO GARCIA"
+                },
+                {
+                    "winner": "Alejandro CALVO GARCIA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "GER",
+                    "name": "Ole BUTH"
+                },
+                {
+                    "country": "ESP",
+                    "name": "Alejandro CALVO GARCIA"
+                }
+            ],
+            [
+                {
+                    "country": "GER",
+                    "name": "Ole BUTH"
+                }
+            ]
+        ]
+    },
+    "REPECHAGE": {
+        "round 1-4": [
+            [],
+            [
+                {
+                    "country": "FRA",
+                    "name": "Tanou KEITA"
+                },
+                {
+                    "winner": "Tanou KEITA"
+                }
+            ],
+            [
+                {
+                    "country": "ESP",
+                    "name": "Alejandro BASTERO COMESANA"
+                },
+                {
+                    "winner": "Alejandro BASTERO COMESANA"
+                }
+            ],
+            [
+                {
+                    "country": "ESP",
+                    "name": "Alejandro CALVO GARCIA"
+                },
+                {
+                    "winner": "Alejandro CALVO GARCIA"
+                }
+            ]
+        ],
+        "round 1-2": [
+            [
+                {
+                    "country": "FRA",
+                    "name": "Tanou KEITA"
+                }
+            ],
+            [
+                {
+                    "country": "ESP",
+                    "name": "Alejandro BASTERO COMESANA"
+                },
+                {
+                    "country": "ESP",
+                    "name": "Alejandro CALVO GARCIA"
+                }
+            ],
+            [
+                {
+                    "country": "FRA",
+                    "name": "Tanou KEITA"
+                },
+                {
+                    "country": "GER",
+                    "name": "Yvo WITASSEK"
+                }
+            ],
+            [
+                {
+                    "country": "ESP",
+                    "name": "Alejandro CALVO GARCIA"
+                },
+                {
+                    "country": "MAR",
+                    "name": "Mohammed LAHBOUB"
+                }
+            ],
+            [
+                {
+                    "country": "MAR",
+                    "name": "Mohammed LAHBOUB"
+                }
+            ]
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "RUS",
+                    "name": "Ildar IKSANOV"
+                },
+                {
+                    "country": "MAR",
+                    "name": "Mohammed LAHBOUB"
+                },
+                {
+                    "winner": "Ildar IKSANOV"
+                }
+            ],
+            [
+                {
+                    "country": "GER",
+                    "name": "Yvo WITASSEK"
+                },
+                {
+                    "country": "GER",
+                    "name": "Ole BUTH"
+                },
+                {
+                    "winner": "Ole BUTH"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "RUS",
+                    "name": "Ildar IKSANOV"
+                },
+                {
+                    "country": "GER",
+                    "name": "Ole BUTH"
+                }
+            ],
+            [
+                {
+                    "country": "GER",
+                    "name": "Ole BUTH"
+                }
+            ]
+        ]
+    }
+}

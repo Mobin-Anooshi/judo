@@ -1,0 +1,216 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "UZB",
+                    "name": "Mokhlaroyim TUKHTAMISHEVA"
+                },
+                {
+                    "winner": "Mokhlaroyim TUKHTAMISHEVA"
+                }
+            ],
+            []
+        ],
+        "round 1-1": [],
+        "final_winner": "Mokhlaroyim TUKHTAMISHEVA"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "KOR",
+                    "name": "Seeun LEE"
+                },
+                {
+                    "winner": "Seeun LEE"
+                }
+            ],
+            []
+        ],
+        "round 1-1": [],
+        "final_winner": "Seeun LEE"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "MGL",
+                    "name": "Nyam-Erdene BATSUURI"
+                },
+                {
+                    "winner": "Nyam-Erdene BATSUURI"
+                }
+            ],
+            [
+                {
+                    "country": "LBN",
+                    "name": "Natacha TARABAY"
+                },
+                {
+                    "winner": "Natacha TARABAY"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "MGL",
+                    "name": "Nyam-Erdene BATSUURI"
+                },
+                {
+                    "country": "LBN",
+                    "name": "Natacha TARABAY"
+                }
+            ]
+        ],
+        "final_winner": "Nyam-Erdene BATSUURI"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "IND",
+                    "name": "Ishroop NARANG"
+                },
+                {
+                    "winner": "Ishroop NARANG"
+                }
+            ],
+            [
+                {
+                    "country": "UZB",
+                    "name": "Shirinjon YULDOSHOVA"
+                },
+                {
+                    "winner": "Shirinjon YULDOSHOVA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "IND",
+                    "name": "Ishroop NARANG"
+                },
+                {
+                    "country": "UZB",
+                    "name": "Shirinjon YULDOSHOVA"
+                }
+            ]
+        ],
+        "final_winner": "Shirinjon YULDOSHOVA"
+    },
+    "REPECHAGE": {
+        "round 1-4": [
+            [],
+            [],
+            [
+                {
+                    "country": "LBN",
+                    "name": "Natacha TARABAY"
+                },
+                {
+                    "winner": "Natacha TARABAY"
+                }
+            ],
+            [
+                {
+                    "country": "IND",
+                    "name": "Ishroop NARANG"
+                },
+                {
+                    "winner": "Ishroop NARANG"
+                }
+            ]
+        ],
+        "round 1-2": [
+            [],
+            [
+                {
+                    "country": "LBN",
+                    "name": "Natacha TARABAY"
+                },
+                {
+                    "country": "IND",
+                    "name": "Ishroop NARANG"
+                },
+                {
+                    "winner": "Ishroop NARANG"
+                }
+            ],
+            [
+                {
+                    "country": "MGL",
+                    "name": "Nyam-Erdene BATSUURI"
+                }
+            ],
+            [
+                {
+                    "country": "IND",
+                    "name": "Ishroop NARANG"
+                },
+                {
+                    "country": "UZB",
+                    "name": "Mokhlaroyim TUKHTAMISHEVA"
+                },
+                {
+                    "winner": "Mokhlaroyim TUKHTAMISHEVA"
+                }
+            ],
+            [
+                {
+                    "country": "UZB",
+                    "name": "Mokhlaroyim TUKHTAMISHEVA"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Ishroop NARANG",
+            "Nyam-Erdene BATSUURI"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "UZB",
+                    "name": "Mokhlaroyim TUKHTAMISHEVA"
+                },
+                {
+                    "country": "KOR",
+                    "name": "Seeun LEE"
+                },
+                {
+                    "winner": "Seeun LEE"
+                }
+            ],
+            [
+                {
+                    "country": "MGL",
+                    "name": "Nyam-Erdene BATSUURI"
+                },
+                {
+                    "country": "UZB",
+                    "name": "Shirinjon YULDOSHOVA"
+                },
+                {
+                    "winner": "Shirinjon YULDOSHOVA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "KOR",
+                    "name": "Seeun LEE"
+                },
+                {
+                    "country": "UZB",
+                    "name": "Shirinjon YULDOSHOVA"
+                }
+            ]
+        ],
+        "final_winner": "Seeun LEE"
+    }
+}

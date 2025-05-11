@@ -1,0 +1,141 @@
+{
+    "POOL A": {
+        "round 1-1": [],
+        "final_winner": "Keisy PERAFAN"
+    },
+    "POOL B": {
+        "round 1-1": [
+            [
+                {
+                    "country": "GBR",
+                    "name": "Amy PLATTEN"
+                },
+                {
+                    "country": "USA",
+                    "name": "Anne SUZUKI"
+                }
+            ]
+        ],
+        "final_winner": "Amy PLATTEN"
+    },
+    "POOL C": {
+        "round 1-1": [],
+        "final_winner": "Maria Celia LABORDE"
+    },
+    "POOL D": {
+        "round 1-1": [
+            [
+                {
+                    "country": "BEL",
+                    "name": "Ellen SALENS"
+                },
+                {
+                    "country": "HKG",
+                    "name": "Ka Lee WONG"
+                }
+            ]
+        ],
+        "final_winner": "Ellen SALENS"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "USA",
+                    "name": "Anne SUZUKI"
+                }
+            ],
+            [
+                {
+                    "country": "HKG",
+                    "name": "Ka Lee WONG"
+                }
+            ],
+            [
+                {
+                    "country": "USA",
+                    "name": "Anne SUZUKI"
+                },
+                {
+                    "country": "BEL",
+                    "name": "Ellen SALENS"
+                },
+                {
+                    "winner": "Ellen SALENS"
+                }
+            ],
+            [
+                {
+                    "country": "HKG",
+                    "name": "Ka Lee WONG"
+                },
+                {
+                    "country": "ARG",
+                    "name": "Keisy PERAFAN"
+                },
+                {
+                    "winner": "Keisy PERAFAN"
+                }
+            ],
+            [
+                {
+                    "country": "BEL",
+                    "name": "Ellen SALENS"
+                }
+            ],
+            [
+                {
+                    "country": "ARG",
+                    "name": "Keisy PERAFAN"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Ellen SALENS",
+            "Keisy PERAFAN"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ARG",
+                    "name": "Keisy PERAFAN"
+                },
+                {
+                    "country": "GBR",
+                    "name": "Amy PLATTEN"
+                },
+                {
+                    "winner": "Amy PLATTEN"
+                }
+            ],
+            [
+                {
+                    "country": "USA",
+                    "name": "Maria Celia LABORDE"
+                },
+                {
+                    "country": "BEL",
+                    "name": "Ellen SALENS"
+                },
+                {
+                    "winner": "Maria Celia LABORDE"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "GBR",
+                    "name": "Amy PLATTEN"
+                },
+                {
+                    "country": "USA",
+                    "name": "Maria Celia LABORDE"
+                }
+            ]
+        ],
+        "final_winner": "Maria Celia LABORDE"
+    }
+}

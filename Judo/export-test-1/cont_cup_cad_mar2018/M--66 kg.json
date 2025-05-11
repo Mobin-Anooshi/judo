@@ -1,0 +1,261 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "AZE",
+                    "name": "Vugar TALIBOV"
+                },
+                {
+                    "winner": "Vugar TALIBOV"
+                }
+            ],
+            []
+        ],
+        "round 1-1": [],
+        "final_winner": "Vugar TALIBOV"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CYP",
+                    "name": "Panagiotis SHAKOS"
+                },
+                {
+                    "winner": "Panagiotis SHAKOS"
+                }
+            ],
+            [
+                {
+                    "country": "MAR",
+                    "name": "Hassan DOUKKALI"
+                },
+                {
+                    "winner": "Hassan DOUKKALI"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "CYP",
+                    "name": "Panagiotis SHAKOS"
+                },
+                {
+                    "country": "MAR",
+                    "name": "Hassan DOUKKALI"
+                }
+            ]
+        ],
+        "final_winner": "Panagiotis SHAKOS"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "AZE",
+                    "name": "Ordukhan MAMMADOV"
+                },
+                {
+                    "winner": "Ordukhan MAMMADOV"
+                }
+            ],
+            [
+                {
+                    "country": "ALG",
+                    "name": "Messaoud Redouane DRIS"
+                },
+                {
+                    "winner": "Messaoud Redouane DRIS"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "AZE",
+                    "name": "Ordukhan MAMMADOV"
+                },
+                {
+                    "country": "ALG",
+                    "name": "Messaoud Redouane DRIS"
+                }
+            ]
+        ],
+        "final_winner": "Messaoud Redouane DRIS"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "TUN",
+                    "name": "Aziz HARBI"
+                },
+                {
+                    "winner": "Aziz HARBI"
+                }
+            ],
+            [
+                {
+                    "country": "MAR",
+                    "name": "yasser HNICH"
+                },
+                {
+                    "winner": "yasser HNICH"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "TUN",
+                    "name": "Aziz HARBI"
+                },
+                {
+                    "country": "MAR",
+                    "name": "yasser HNICH"
+                }
+            ]
+        ],
+        "final_winner": "Aziz HARBI"
+    },
+    "REPECHAGE": {
+        "round 1-4": [
+            [],
+            [
+                {
+                    "country": "MAR",
+                    "name": "Hassan DOUKKALI"
+                },
+                {
+                    "winner": "Hassan DOUKKALI"
+                }
+            ],
+            [
+                {
+                    "country": "AZE",
+                    "name": "Ordukhan MAMMADOV"
+                },
+                {
+                    "winner": "Ordukhan MAMMADOV"
+                }
+            ],
+            [
+                {
+                    "country": "MAR",
+                    "name": "yasser HNICH"
+                },
+                {
+                    "winner": "yasser HNICH"
+                }
+            ]
+        ],
+        "round 1-2": [
+            [
+                {
+                    "country": "MAR",
+                    "name": "Hassan DOUKKALI"
+                }
+            ],
+            [
+                {
+                    "country": "AZE",
+                    "name": "Ordukhan MAMMADOV"
+                },
+                {
+                    "country": "MAR",
+                    "name": "yasser HNICH"
+                },
+                {
+                    "winner": "yasser HNICH"
+                }
+            ],
+            [
+                {
+                    "country": "MAR",
+                    "name": "Hassan DOUKKALI"
+                },
+                {
+                    "country": "ALG",
+                    "name": "Messaoud Redouane DRIS"
+                },
+                {
+                    "winner": "Messaoud Redouane DRIS"
+                }
+            ],
+            [
+                {
+                    "country": "MAR",
+                    "name": "yasser HNICH"
+                },
+                {
+                    "country": "CYP",
+                    "name": "Panagiotis SHAKOS"
+                },
+                {
+                    "winner": "Panagiotis SHAKOS"
+                }
+            ],
+            [
+                {
+                    "country": "ALG",
+                    "name": "Messaoud Redouane DRIS"
+                }
+            ],
+            [
+                {
+                    "country": "CYP",
+                    "name": "Panagiotis SHAKOS"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Messaoud Redouane DRIS",
+            "Panagiotis SHAKOS"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "AZE",
+                    "name": "Vugar TALIBOV"
+                },
+                {
+                    "country": "CYP",
+                    "name": "Panagiotis SHAKOS"
+                },
+                {
+                    "winner": "Vugar TALIBOV"
+                }
+            ],
+            [
+                {
+                    "country": "ALG",
+                    "name": "Messaoud Redouane DRIS"
+                },
+                {
+                    "country": "TUN",
+                    "name": "Aziz HARBI"
+                },
+                {
+                    "winner": "Aziz HARBI"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "AZE",
+                    "name": "Vugar TALIBOV"
+                },
+                {
+                    "country": "TUN",
+                    "name": "Aziz HARBI"
+                }
+            ]
+        ],
+        "final_winner": "Aziz HARBI"
+    }
+}

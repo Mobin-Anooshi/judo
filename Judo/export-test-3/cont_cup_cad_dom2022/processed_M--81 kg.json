@@ -1,0 +1,87 @@
+{
+    "POOL A": {
+        "round 1-3": [
+            [
+                {
+                    "country": "DOM",
+                    "name": "Jonatan LIZARDO"
+                },
+                {
+                    "country": "DOM",
+                    "name": "Victor PASCUAL"
+                },
+                {
+                    "winner": "Jonatan LIZARDO"
+                }
+            ],
+            [
+                {
+                    "country": "DOM",
+                    "name": "Jonatan LIZARDO"
+                },
+                {
+                    "country": "POR",
+                    "name": "Gustavo AMARAL"
+                },
+                {
+                    "winner": "Gustavo AMARAL"
+                }
+            ],
+            [
+                {
+                    "country": "DOM",
+                    "name": "Victor PASCUAL"
+                },
+                {
+                    "country": "POR",
+                    "name": "Gustavo AMARAL"
+                },
+                {
+                    "winner": "Gustavo AMARAL"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Jonatan LIZARDO",
+            "Gustavo AMARAL"
+        ]
+    },
+    "POOL B": {
+        "round 1-1": [],
+        "final_winners": [
+            "Manuel POLANCO"
+        ]
+    },
+    "REPECHAGE": {
+        "round 1-1": [
+            [
+                {
+                    "country": "DOM",
+                    "name": "Jonatan LIZARDO"
+                },
+                {
+                    "country": "HAI",
+                    "name": "Bentz-Evely Sadool JEAN"
+                },
+                {
+                    "winner": "Jonatan LIZARDO"
+                }
+            ],
+            [
+                {
+                    "country": "DOM",
+                    "name": "Jonatan LIZARDO"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Jonatan LIZARDO"
+        ]
+    },
+    "FINALS": {
+        "round 1-1": [],
+        "final_winners": [
+            "Gustavo AMARAL"
+        ]
+    }
+}

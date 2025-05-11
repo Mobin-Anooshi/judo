@@ -1,0 +1,68 @@
+{
+    "ROUND 1": {
+        "round 1-2": [
+            [
+                {
+                    "country": "PER",
+                    "name": "Javier SAAVEDRA"
+                },
+                {
+                    "country": "CHI",
+                    "name": "Juan Sebastian GUTIERREZ"
+                },
+                {
+                    "winner": "Javier SAAVEDRA"
+                }
+            ],
+            [
+                {
+                    "country": "PER",
+                    "name": "Benjamin GALARRETA"
+                },
+                {
+                    "country": "PER",
+                    "name": "Jorge SUAREZ"
+                },
+                {
+                    "winner": "Benjamin GALARRETA"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Javier SAAVEDRA",
+            "Benjamin GALARRETA"
+        ]
+    },
+    "REPECHAGE": {
+        "round 1-1": [
+            [
+                {
+                    "country": "CHI",
+                    "name": "Juan Sebastian GUTIERREZ"
+                },
+                {
+                    "country": "PER",
+                    "name": "Jorge SUAREZ"
+                },
+                {
+                    "winner": "Juan Sebastian GUTIERREZ"
+                }
+            ],
+            [
+                {
+                    "country": "CHI",
+                    "name": "Juan Sebastian GUTIERREZ"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Juan Sebastian GUTIERREZ"
+        ]
+    },
+    "FINALS": {
+        "round 1-1": [],
+        "final_winners": [
+            "Javier SAAVEDRA"
+        ]
+    }
+}

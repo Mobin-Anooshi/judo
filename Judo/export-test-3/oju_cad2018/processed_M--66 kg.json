@@ -1,0 +1,68 @@
+{
+    "ROUND 1": {
+        "round 1-2": [
+            [
+                {
+                    "country": "AUS",
+                    "name": "Daniel VILLANI"
+                },
+                {
+                    "country": "NCL",
+                    "name": "Ugo LANGLOIS"
+                },
+                {
+                    "winner": "Daniel VILLANI"
+                }
+            ],
+            [
+                {
+                    "country": "NZL",
+                    "name": "Dmitri GLADKIH"
+                },
+                {
+                    "country": "NCL",
+                    "name": "Kai Ming BOUCHEZ"
+                },
+                {
+                    "winner": "Kai Ming BOUCHEZ"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Daniel VILLANI",
+            "Kai Ming BOUCHEZ"
+        ]
+    },
+    "REPECHAGE": {
+        "round 1-1": [
+            [
+                {
+                    "country": "NCL",
+                    "name": "Ugo LANGLOIS"
+                },
+                {
+                    "country": "NZL",
+                    "name": "Dmitri GLADKIH"
+                },
+                {
+                    "winner": "Ugo LANGLOIS"
+                }
+            ],
+            [
+                {
+                    "country": "NCL",
+                    "name": "Ugo LANGLOIS"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Ugo LANGLOIS"
+        ]
+    },
+    "FINALS": {
+        "round 1-1": [],
+        "final_winners": [
+            "Kai Ming BOUCHEZ"
+        ]
+    }
+}

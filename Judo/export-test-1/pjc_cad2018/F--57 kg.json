@@ -1,0 +1,303 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "COL",
+                    "name": "Nikol PENCUE"
+                },
+                {
+                    "winner": "Nikol PENCUE"
+                }
+            ],
+            [
+                {
+                    "country": "ECU",
+                    "name": "LESLY VELEZ"
+                },
+                {
+                    "winner": "LESLY VELEZ"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "COL",
+                    "name": "Nikol PENCUE"
+                },
+                {
+                    "country": "ECU",
+                    "name": "LESLY VELEZ"
+                }
+            ]
+        ],
+        "final_winner": "Nikol PENCUE"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CAN",
+                    "name": "Rachel KRAPMAN"
+                },
+                {
+                    "winner": "Rachel KRAPMAN"
+                }
+            ],
+            [
+                {
+                    "country": "VEN",
+                    "name": "Marianny REBOLLEDO"
+                },
+                {
+                    "winner": "Marianny REBOLLEDO"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "CAN",
+                    "name": "Rachel KRAPMAN"
+                },
+                {
+                    "country": "VEN",
+                    "name": "Marianny REBOLLEDO"
+                }
+            ]
+        ],
+        "final_winner": "Rachel KRAPMAN"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ECU",
+                    "name": "Karla VALENCIA"
+                },
+                {
+                    "winner": "Karla VALENCIA"
+                }
+            ],
+            [
+                {
+                    "country": "ARG",
+                    "name": "Sabina SERRANO"
+                },
+                {
+                    "country": "URU",
+                    "name": "MANUELA LACUESTA"
+                },
+                {
+                    "winner": "Sabina SERRANO"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "ECU",
+                    "name": "Karla VALENCIA"
+                },
+                {
+                    "country": "ARG",
+                    "name": "Sabina SERRANO"
+                }
+            ]
+        ],
+        "final_winner": "Sabina SERRANO"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Thayane LEMOS"
+                },
+                {
+                    "winner": "Thayane LEMOS"
+                }
+            ],
+            [
+                {
+                    "country": "CAN",
+                    "name": "Sierra TANNER"
+                },
+                {
+                    "winner": "Sierra TANNER"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Thayane LEMOS"
+                },
+                {
+                    "country": "CAN",
+                    "name": "Sierra TANNER"
+                }
+            ]
+        ],
+        "final_winner": "Thayane LEMOS"
+    },
+    "REPECHAGE": {
+        "round 1-4": [
+            [
+                {
+                    "country": "ECU",
+                    "name": "LESLY VELEZ"
+                },
+                {
+                    "winner": "LESLY VELEZ"
+                }
+            ],
+            [
+                {
+                    "country": "VEN",
+                    "name": "Marianny REBOLLEDO"
+                },
+                {
+                    "winner": "Marianny REBOLLEDO"
+                }
+            ],
+            [
+                {
+                    "country": "URU",
+                    "name": "MANUELA LACUESTA"
+                },
+                {
+                    "country": "ECU",
+                    "name": "Karla VALENCIA"
+                },
+                {
+                    "winner": "MANUELA LACUESTA"
+                }
+            ],
+            [
+                {
+                    "country": "CAN",
+                    "name": "Sierra TANNER"
+                },
+                {
+                    "winner": "Sierra TANNER"
+                }
+            ]
+        ],
+        "round 1-2": [
+            [
+                {
+                    "country": "ECU",
+                    "name": "LESLY VELEZ"
+                },
+                {
+                    "country": "VEN",
+                    "name": "Marianny REBOLLEDO"
+                },
+                {
+                    "winner": "Marianny REBOLLEDO"
+                }
+            ],
+            [
+                {
+                    "country": "URU",
+                    "name": "MANUELA LACUESTA"
+                },
+                {
+                    "country": "CAN",
+                    "name": "Sierra TANNER"
+                },
+                {
+                    "winner": "Sierra TANNER"
+                }
+            ],
+            [
+                {
+                    "country": "VEN",
+                    "name": "Marianny REBOLLEDO"
+                },
+                {
+                    "country": "ARG",
+                    "name": "Sabina SERRANO"
+                },
+                {
+                    "winner": "Marianny REBOLLEDO"
+                }
+            ],
+            [
+                {
+                    "country": "CAN",
+                    "name": "Sierra TANNER"
+                },
+                {
+                    "country": "CAN",
+                    "name": "Rachel KRAPMAN"
+                },
+                {
+                    "winner": "Sierra TANNER"
+                }
+            ],
+            [
+                {
+                    "country": "VEN",
+                    "name": "Marianny REBOLLEDO"
+                }
+            ],
+            [
+                {
+                    "country": "CAN",
+                    "name": "Sierra TANNER"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Marianny REBOLLEDO",
+            "Sierra TANNER"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "COL",
+                    "name": "Nikol PENCUE"
+                },
+                {
+                    "country": "CAN",
+                    "name": "Rachel KRAPMAN"
+                },
+                {
+                    "winner": "Nikol PENCUE"
+                }
+            ],
+            [
+                {
+                    "country": "ARG",
+                    "name": "Sabina SERRANO"
+                },
+                {
+                    "country": "BRA",
+                    "name": "Thayane LEMOS"
+                },
+                {
+                    "winner": "Thayane LEMOS"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "COL",
+                    "name": "Nikol PENCUE"
+                },
+                {
+                    "country": "BRA",
+                    "name": "Thayane LEMOS"
+                }
+            ]
+        ],
+        "final_winner": "Thayane LEMOS"
+    }
+}

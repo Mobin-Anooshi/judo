@@ -1,0 +1,177 @@
+{
+    "POOL A": {
+        "round 1-1": [
+            [
+                {
+                    "country": "ALG",
+                    "name": "Nacereddine ENSAAD"
+                },
+                {
+                    "country": "ALG",
+                    "name": "Racim Aksil ATTOUT"
+                }
+            ]
+        ],
+        "final_winner": "Nacereddine ENSAAD"
+    },
+    "POOL B": {
+        "round 1-1": [
+            [
+                {
+                    "country": "ALG",
+                    "name": "Abdallah BELKADI"
+                },
+                {
+                    "country": "ALG",
+                    "name": "Mohammed Islam ARABI"
+                }
+            ]
+        ],
+        "final_winner": "Mohammed Islam ARABI"
+    },
+    "POOL C": {
+        "round 1-1": [
+            [
+                {
+                    "country": "ALG",
+                    "name": "Oussama Abdelhak HEZIL"
+                },
+                {
+                    "country": "ALG",
+                    "name": "Ilyes DJOUDI"
+                }
+            ]
+        ],
+        "final_winner": "Oussama Abdelhak HEZIL"
+    },
+    "POOL D": {
+        "round 1-1": [
+            [
+                {
+                    "country": "KSA",
+                    "name": "Saud ALZAHRANI"
+                },
+                {
+                    "country": "ALG",
+                    "name": "Amine SEKKAL"
+                }
+            ]
+        ],
+        "final_winner": "Amine SEKKAL"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ALG",
+                    "name": "Racim Aksil ATTOUT"
+                },
+                {
+                    "country": "ALG",
+                    "name": "Abdallah BELKADI"
+                },
+                {
+                    "winner": "Racim Aksil ATTOUT"
+                }
+            ],
+            [
+                {
+                    "country": "ALG",
+                    "name": "Ilyes DJOUDI"
+                },
+                {
+                    "country": "KSA",
+                    "name": "Saud ALZAHRANI"
+                },
+                {
+                    "winner": "Saud ALZAHRANI"
+                }
+            ],
+            [
+                {
+                    "country": "ALG",
+                    "name": "Racim Aksil ATTOUT"
+                },
+                {
+                    "country": "ALG",
+                    "name": "Amine SEKKAL"
+                },
+                {
+                    "winner": "Amine SEKKAL"
+                }
+            ],
+            [
+                {
+                    "country": "KSA",
+                    "name": "Saud ALZAHRANI"
+                },
+                {
+                    "country": "ALG",
+                    "name": "Nacereddine ENSAAD"
+                },
+                {
+                    "winner": "Nacereddine ENSAAD"
+                }
+            ],
+            [
+                {
+                    "country": "ALG",
+                    "name": "Amine SEKKAL"
+                }
+            ],
+            [
+                {
+                    "country": "ALG",
+                    "name": "Nacereddine ENSAAD"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Amine SEKKAL",
+            "Nacereddine ENSAAD"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ALG",
+                    "name": "Nacereddine ENSAAD"
+                },
+                {
+                    "country": "ALG",
+                    "name": "Mohammed Islam ARABI"
+                },
+                {
+                    "winner": "Mohammed Islam ARABI"
+                }
+            ],
+            [
+                {
+                    "country": "ALG",
+                    "name": "Oussama Abdelhak HEZIL"
+                },
+                {
+                    "country": "ALG",
+                    "name": "Amine SEKKAL"
+                },
+                {
+                    "winner": "Oussama Abdelhak HEZIL"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "ALG",
+                    "name": "Mohammed Islam ARABI"
+                },
+                {
+                    "country": "ALG",
+                    "name": "Oussama Abdelhak HEZIL"
+                }
+            ]
+        ],
+        "final_winner": "Oussama Abdelhak HEZIL"
+    }
+}

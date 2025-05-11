@@ -1,0 +1,93 @@
+{
+    "POOL A": {
+        "round 1-3": [
+            [
+                {
+                    "country": "UAE",
+                    "name": "Ahmed AL NAQBI"
+                },
+                {
+                    "country": "KAZ",
+                    "name": "Nursultan ZHUBATKAN"
+                },
+                {
+                    "winner": "Nursultan ZHUBATKAN"
+                }
+            ],
+            [
+                {
+                    "country": "MGL",
+                    "name": "Enkhbayar DALAITSAGAAN"
+                },
+                {
+                    "country": "KAZ",
+                    "name": "Nursultan ZHUBATKAN"
+                },
+                {
+                    "winner": "Enkhbayar DALAITSAGAAN"
+                }
+            ],
+            [
+                {
+                    "country": "UAE",
+                    "name": "Ahmed AL NAQBI"
+                },
+                {
+                    "country": "MGL",
+                    "name": "Enkhbayar DALAITSAGAAN"
+                },
+                {
+                    "winner": "Enkhbayar DALAITSAGAAN"
+                }
+            ],
+            [
+                {
+                    "country": "KAZ",
+                    "name": "Nursultan ZHUBATKAN"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Enkhbayar DALAITSAGAAN",
+            "Ahmed AL NAQBI"
+        ]
+    },
+    "POOL B": {
+        "round 1-1": [],
+        "final_winners": [
+            "Dulat AMANTAY"
+        ]
+    },
+    "REPECHAGE": {
+        "round 1-1": [
+            [
+                {
+                    "country": "KAZ",
+                    "name": "Nursultan ZHUBATKAN"
+                },
+                {
+                    "country": "TPE",
+                    "name": "Shuai LO"
+                },
+                {
+                    "winner": "Shuai LO"
+                }
+            ],
+            [
+                {
+                    "country": "TPE",
+                    "name": "Shuai LO"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Shuai LO"
+        ]
+    },
+    "FINALS": {
+        "round 1-1": [],
+        "final_winners": [
+            "Dulat AMANTAY"
+        ]
+    }
+}

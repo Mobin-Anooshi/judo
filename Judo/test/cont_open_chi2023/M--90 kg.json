@@ -1,0 +1,270 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Rafael MACEDO"
+                },
+                {
+                    "winner": "Rafael MACEDO"
+                }
+            ],
+            [
+                {
+                    "country": "CHI",
+                    "name": "Eric MUNOZ"
+                },
+                {
+                    "winner": "Eric MUNOZ"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Rafael MACEDO"
+                },
+                {
+                    "country": "CHI",
+                    "name": "Eric MUNOZ"
+                }
+            ],
+            [
+                {
+                    "country": "BRA",
+                    "name": "Rafael MACEDO"
+                }
+            ]
+        ]
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "MEX",
+                    "name": "Diego DIAZ"
+                },
+                {
+                    "winner": "Diego DIAZ"
+                }
+            ],
+            [
+                {
+                    "country": "ARG",
+                    "name": "Jeremias FERNANDEZ"
+                },
+                {
+                    "winner": "Jeremias FERNANDEZ"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "MEX",
+                    "name": "Diego DIAZ"
+                },
+                {
+                    "country": "ARG",
+                    "name": "Jeremias FERNANDEZ"
+                }
+            ],
+            [
+                {
+                    "country": "MEX",
+                    "name": "Diego DIAZ"
+                }
+            ]
+        ]
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ARG",
+                    "name": "Mariano COTO BERSIER"
+                },
+                {
+                    "winner": "Mariano COTO BERSIER"
+                }
+            ],
+            [
+                {
+                    "country": "CHI",
+                    "name": "Sebastian ESPARZA"
+                },
+                {
+                    "country": "BRA",
+                    "name": "Gustavo ASSIS"
+                },
+                {
+                    "winner": "Gustavo ASSIS"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "ARG",
+                    "name": "Mariano COTO BERSIER"
+                },
+                {
+                    "country": "BRA",
+                    "name": "Gustavo ASSIS"
+                }
+            ],
+            [
+                {
+                    "country": "BRA",
+                    "name": "Gustavo ASSIS"
+                }
+            ]
+        ]
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CHI",
+                    "name": "Daniel ARANCIBIA"
+                },
+                {
+                    "winner": "Daniel ARANCIBIA"
+                }
+            ],
+            [
+                {
+                    "country": "PAR",
+                    "name": "Angel Antonio GINI"
+                },
+                {
+                    "winner": "Angel Antonio GINI"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "CHI",
+                    "name": "Daniel ARANCIBIA"
+                },
+                {
+                    "country": "PAR",
+                    "name": "Angel Antonio GINI"
+                }
+            ],
+            [
+                {
+                    "country": "CHI",
+                    "name": "Daniel ARANCIBIA"
+                }
+            ]
+        ]
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CHI",
+                    "name": "Eric MUNOZ"
+                },
+                {
+                    "country": "ARG",
+                    "name": "Jeremias FERNANDEZ"
+                }
+            ],
+            [
+                {
+                    "country": "ARG",
+                    "name": "Mariano COTO BERSIER"
+                },
+                {
+                    "country": "PAR",
+                    "name": "Angel Antonio GINI"
+                }
+            ],
+            [
+                {
+                    "country": "ARG",
+                    "name": "Jeremias FERNANDEZ"
+                },
+                {
+                    "country": "CHI",
+                    "name": "Daniel ARANCIBIA"
+                }
+            ],
+            [
+                {
+                    "country": "ARG",
+                    "name": "Mariano COTO BERSIER"
+                },
+                {
+                    "country": "MEX",
+                    "name": "Diego DIAZ"
+                }
+            ],
+            [
+                {
+                    "country": "ARG",
+                    "name": "Jeremias FERNANDEZ"
+                }
+            ],
+            [
+                {
+                    "country": "ARG",
+                    "name": "Mariano COTO BERSIER"
+                }
+            ]
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Rafael MACEDO"
+                },
+                {
+                    "country": "MEX",
+                    "name": "Diego DIAZ"
+                },
+                {
+                    "winner": "Rafael MACEDO"
+                }
+            ],
+            [
+                {
+                    "country": "BRA",
+                    "name": "Gustavo ASSIS"
+                },
+                {
+                    "country": "CHI",
+                    "name": "Daniel ARANCIBIA"
+                },
+                {
+                    "winner": "Gustavo ASSIS"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Rafael MACEDO"
+                },
+                {
+                    "country": "BRA",
+                    "name": "Gustavo ASSIS"
+                }
+            ],
+            [
+                {
+                    "country": "BRA",
+                    "name": "Gustavo ASSIS"
+                }
+            ]
+        ]
+    }
+}

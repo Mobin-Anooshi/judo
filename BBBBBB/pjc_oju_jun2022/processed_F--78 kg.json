@@ -1,0 +1,227 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Eliza RAMOS"
+                },
+                {
+                    "winner": "Eliza RAMOS"
+                }
+            ],
+            []
+        ],
+        "round 1-1": [],
+        "final_winner": "Eliza RAMOS"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CHI",
+                    "name": "Adela ESPINOZA"
+                },
+                {
+                    "winner": "Adela ESPINOZA"
+                }
+            ],
+            [
+                {
+                    "country": "AUS",
+                    "name": "Maria SWAN"
+                },
+                {
+                    "winner": "Maria SWAN"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "CHI",
+                    "name": "Adela ESPINOZA"
+                },
+                {
+                    "country": "AUS",
+                    "name": "Maria SWAN"
+                }
+            ]
+        ],
+        "final_winner": "Maria SWAN"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Beatriz FREITAS"
+                },
+                {
+                    "winner": "Beatriz FREITAS"
+                }
+            ],
+            []
+        ],
+        "round 1-1": [],
+        "final_winner": "Beatriz FREITAS"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "USA",
+                    "name": "Crystal ACTON"
+                },
+                {
+                    "winner": "Crystal ACTON"
+                }
+            ],
+            [
+                {
+                    "country": "MEX",
+                    "name": "Jessica GOMEZ"
+                },
+                {
+                    "winner": "Jessica GOMEZ"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "USA",
+                    "name": "Crystal ACTON"
+                },
+                {
+                    "country": "MEX",
+                    "name": "Jessica GOMEZ"
+                }
+            ]
+        ],
+        "final_winner": "Jessica GOMEZ"
+    },
+    "REPECHAGE": {
+        "round 1-4": [
+            [],
+            [
+                {
+                    "country": "CHI",
+                    "name": "Adela ESPINOZA"
+                },
+                {
+                    "winner": "Adela ESPINOZA"
+                }
+            ],
+            [],
+            [
+                {
+                    "country": "USA",
+                    "name": "Crystal ACTON"
+                },
+                {
+                    "winner": "Crystal ACTON"
+                }
+            ]
+        ],
+        "round 1-2": [
+            [
+                {
+                    "country": "CHI",
+                    "name": "Adela ESPINOZA"
+                }
+            ],
+            [
+                {
+                    "country": "USA",
+                    "name": "Crystal ACTON"
+                }
+            ],
+            [
+                {
+                    "country": "CHI",
+                    "name": "Adela ESPINOZA"
+                },
+                {
+                    "country": "MEX",
+                    "name": "Jessica GOMEZ"
+                },
+                {
+                    "winner": "Jessica GOMEZ"
+                }
+            ],
+            [
+                {
+                    "country": "USA",
+                    "name": "Crystal ACTON"
+                },
+                {
+                    "country": "AUS",
+                    "name": "Maria SWAN"
+                },
+                {
+                    "winner": "Maria SWAN"
+                }
+            ],
+            [
+                {
+                    "country": "MEX",
+                    "name": "Jessica GOMEZ"
+                }
+            ],
+            [
+                {
+                    "country": "AUS",
+                    "name": "Maria SWAN"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Jessica GOMEZ",
+            "Maria SWAN"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Eliza RAMOS"
+                },
+                {
+                    "country": "AUS",
+                    "name": "Maria SWAN"
+                },
+                {
+                    "winner": "Eliza RAMOS"
+                }
+            ],
+            [
+                {
+                    "country": "BRA",
+                    "name": "Beatriz FREITAS"
+                },
+                {
+                    "country": "MEX",
+                    "name": "Jessica GOMEZ"
+                },
+                {
+                    "winner": "Beatriz FREITAS"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Eliza RAMOS"
+                },
+                {
+                    "country": "BRA",
+                    "name": "Beatriz FREITAS"
+                }
+            ]
+        ],
+        "final_winner": "Beatriz FREITAS"
+    }
+}

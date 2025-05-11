@@ -1,0 +1,177 @@
+{
+    "POOL A": {
+        "round 1-1": [
+            [
+                {
+                    "country": "USA",
+                    "name": "Daniel LIUBIMOVSKI"
+                },
+                {
+                    "country": "CAN",
+                    "name": "Franck David MOUSSIMA EWANE ELOUTI"
+                }
+            ]
+        ],
+        "final_winner": "Daniel LIUBIMOVSKI"
+    },
+    "POOL B": {
+        "round 1-1": [
+            [
+                {
+                    "country": "CUB",
+                    "name": "Zail RAMIREZ"
+                },
+                {
+                    "country": "VEN",
+                    "name": "Gustavo CANIZALEZ"
+                }
+            ]
+        ],
+        "final_winner": "Zail RAMIREZ"
+    },
+    "POOL C": {
+        "round 1-1": [
+            [
+                {
+                    "country": "COL",
+                    "name": "Christopherd GALVIS"
+                },
+                {
+                    "country": "PER",
+                    "name": "Gercy CABRERA"
+                }
+            ]
+        ],
+        "final_winner": "Christopherd GALVIS"
+    },
+    "POOL D": {
+        "round 1-1": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Gustavo MILANO"
+                },
+                {
+                    "country": "CHI",
+                    "name": "Marko FIGUEROA"
+                }
+            ]
+        ],
+        "final_winner": "Gustavo MILANO"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CAN",
+                    "name": "Franck David MOUSSIMA EWANE ELOUTI"
+                },
+                {
+                    "country": "VEN",
+                    "name": "Gustavo CANIZALEZ"
+                },
+                {
+                    "winner": "Gustavo CANIZALEZ"
+                }
+            ],
+            [
+                {
+                    "country": "PER",
+                    "name": "Gercy CABRERA"
+                },
+                {
+                    "country": "CHI",
+                    "name": "Marko FIGUEROA"
+                },
+                {
+                    "winner": "Marko FIGUEROA"
+                }
+            ],
+            [
+                {
+                    "country": "VEN",
+                    "name": "Gustavo CANIZALEZ"
+                },
+                {
+                    "country": "COL",
+                    "name": "Christopherd GALVIS"
+                },
+                {
+                    "winner": "Gustavo CANIZALEZ"
+                }
+            ],
+            [
+                {
+                    "country": "CHI",
+                    "name": "Marko FIGUEROA"
+                },
+                {
+                    "country": "USA",
+                    "name": "Daniel LIUBIMOVSKI"
+                },
+                {
+                    "winner": "Daniel LIUBIMOVSKI"
+                }
+            ],
+            [
+                {
+                    "country": "VEN",
+                    "name": "Gustavo CANIZALEZ"
+                }
+            ],
+            [
+                {
+                    "country": "USA",
+                    "name": "Daniel LIUBIMOVSKI"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Gustavo CANIZALEZ",
+            "Daniel LIUBIMOVSKI"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "USA",
+                    "name": "Daniel LIUBIMOVSKI"
+                },
+                {
+                    "country": "CUB",
+                    "name": "Zail RAMIREZ"
+                },
+                {
+                    "winner": "Zail RAMIREZ"
+                }
+            ],
+            [
+                {
+                    "country": "COL",
+                    "name": "Christopherd GALVIS"
+                },
+                {
+                    "country": "BRA",
+                    "name": "Gustavo MILANO"
+                },
+                {
+                    "winner": "Gustavo MILANO"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "CUB",
+                    "name": "Zail RAMIREZ"
+                },
+                {
+                    "country": "BRA",
+                    "name": "Gustavo MILANO"
+                }
+            ]
+        ],
+        "final_winner": "Zail RAMIREZ"
+    }
+}

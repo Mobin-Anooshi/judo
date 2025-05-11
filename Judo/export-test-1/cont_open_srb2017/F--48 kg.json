@@ -1,0 +1,177 @@
+{
+    "POOL A": {
+        "round 1-1": [
+            [
+                {
+                    "country": "ROU",
+                    "name": "Alexandra POP"
+                },
+                {
+                    "country": "HUN",
+                    "name": "Lilla ERDELYI"
+                }
+            ]
+        ],
+        "final_winner": "Alexandra POP"
+    },
+    "POOL B": {
+        "round 1-1": [
+            [
+                {
+                    "country": "ITA",
+                    "name": "Elisa ADRASTI"
+                },
+                {
+                    "country": "AZE",
+                    "name": "Gultaj MAMMADALIYEVA"
+                }
+            ]
+        ],
+        "final_winner": "Gultaj MAMMADALIYEVA"
+    },
+    "POOL C": {
+        "round 1-1": [
+            [
+                {
+                    "country": "GBR",
+                    "name": "Kelly STADDON"
+                },
+                {
+                    "country": "ROU",
+                    "name": "Krisztina TATAR"
+                }
+            ]
+        ],
+        "final_winner": "Kelly STADDON"
+    },
+    "POOL D": {
+        "round 1-1": [
+            [
+                {
+                    "country": "FIN",
+                    "name": "Marianne KOSONEN"
+                },
+                {
+                    "country": "SRB",
+                    "name": "Ivana PAVLOVIC"
+                }
+            ]
+        ],
+        "final_winner": "Marianne KOSONEN"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "HUN",
+                    "name": "Lilla ERDELYI"
+                },
+                {
+                    "country": "ITA",
+                    "name": "Elisa ADRASTI"
+                },
+                {
+                    "winner": "Elisa ADRASTI"
+                }
+            ],
+            [
+                {
+                    "country": "ROU",
+                    "name": "Krisztina TATAR"
+                },
+                {
+                    "country": "SRB",
+                    "name": "Ivana PAVLOVIC"
+                },
+                {
+                    "winner": "Krisztina TATAR"
+                }
+            ],
+            [
+                {
+                    "country": "ITA",
+                    "name": "Elisa ADRASTI"
+                },
+                {
+                    "country": "FIN",
+                    "name": "Marianne KOSONEN"
+                },
+                {
+                    "winner": "Elisa ADRASTI"
+                }
+            ],
+            [
+                {
+                    "country": "ROU",
+                    "name": "Krisztina TATAR"
+                },
+                {
+                    "country": "AZE",
+                    "name": "Gultaj MAMMADALIYEVA"
+                },
+                {
+                    "winner": "Gultaj MAMMADALIYEVA"
+                }
+            ],
+            [
+                {
+                    "country": "ITA",
+                    "name": "Elisa ADRASTI"
+                }
+            ],
+            [
+                {
+                    "country": "AZE",
+                    "name": "Gultaj MAMMADALIYEVA"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Elisa ADRASTI",
+            "Gultaj MAMMADALIYEVA"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ROU",
+                    "name": "Alexandra POP"
+                },
+                {
+                    "country": "AZE",
+                    "name": "Gultaj MAMMADALIYEVA"
+                },
+                {
+                    "winner": "Alexandra POP"
+                }
+            ],
+            [
+                {
+                    "country": "GBR",
+                    "name": "Kelly STADDON"
+                },
+                {
+                    "country": "FIN",
+                    "name": "Marianne KOSONEN"
+                },
+                {
+                    "winner": "Kelly STADDON"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "ROU",
+                    "name": "Alexandra POP"
+                },
+                {
+                    "country": "GBR",
+                    "name": "Kelly STADDON"
+                }
+            ]
+        ],
+        "final_winner": "Alexandra POP"
+    }
+}

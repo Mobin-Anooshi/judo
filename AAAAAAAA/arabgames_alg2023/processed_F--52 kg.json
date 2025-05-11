@@ -1,0 +1,141 @@
+{
+    "POOL A": {
+        "round 1-1": [],
+        "final_winner": "Soumiya IRAOUI"
+    },
+    "POOL B": {
+        "round 1-1": [
+            [
+                {
+                    "country": "LBA",
+                    "name": "Najwa BIN KOURAH"
+                },
+                {
+                    "country": "SYR",
+                    "name": "Dana KHATSHEEK"
+                }
+            ]
+        ],
+        "final_winner": "Dana KHATSHEEK"
+    },
+    "POOL C": {
+        "round 1-1": [],
+        "final_winner": "Faiza AISSAHINE"
+    },
+    "POOL D": {
+        "round 1-1": [
+            [
+                {
+                    "country": "KSA",
+                    "name": "Hessah ALMELAIKI"
+                },
+                {
+                    "country": "TUN",
+                    "name": "Rahma TIBI"
+                }
+            ]
+        ],
+        "final_winner": "Rahma TIBI"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "LBA",
+                    "name": "Najwa BIN KOURAH"
+                }
+            ],
+            [
+                {
+                    "country": "KSA",
+                    "name": "Hessah ALMELAIKI"
+                }
+            ],
+            [
+                {
+                    "country": "LBA",
+                    "name": "Najwa BIN KOURAH"
+                },
+                {
+                    "country": "TUN",
+                    "name": "Rahma TIBI"
+                },
+                {
+                    "winner": "Rahma TIBI"
+                }
+            ],
+            [
+                {
+                    "country": "KSA",
+                    "name": "Hessah ALMELAIKI"
+                },
+                {
+                    "country": "SYR",
+                    "name": "Dana KHATSHEEK"
+                },
+                {
+                    "winner": "Dana KHATSHEEK"
+                }
+            ],
+            [
+                {
+                    "country": "TUN",
+                    "name": "Rahma TIBI"
+                }
+            ],
+            [
+                {
+                    "country": "SYR",
+                    "name": "Dana KHATSHEEK"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Rahma TIBI",
+            "Dana KHATSHEEK"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "MAR",
+                    "name": "Soumiya IRAOUI"
+                },
+                {
+                    "country": "SYR",
+                    "name": "Dana KHATSHEEK"
+                },
+                {
+                    "winner": "Soumiya IRAOUI"
+                }
+            ],
+            [
+                {
+                    "country": "ALG",
+                    "name": "Faiza AISSAHINE"
+                },
+                {
+                    "country": "TUN",
+                    "name": "Rahma TIBI"
+                },
+                {
+                    "winner": "Faiza AISSAHINE"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "MAR",
+                    "name": "Soumiya IRAOUI"
+                },
+                {
+                    "country": "ALG",
+                    "name": "Faiza AISSAHINE"
+                }
+            ]
+        ],
+        "final_winner": "Soumiya IRAOUI"
+    }
+}

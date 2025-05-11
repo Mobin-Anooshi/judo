@@ -1,0 +1,68 @@
+{
+    "ROUND 1": {
+        "round 1-2": [
+            [
+                {
+                    "country": "BUL",
+                    "name": "Daniel DICHEV"
+                },
+                {
+                    "country": "TJK",
+                    "name": "Khurshed MADZHIDOV"
+                },
+                {
+                    "winner": "Daniel DICHEV"
+                }
+            ],
+            [
+                {
+                    "country": "MGL",
+                    "name": "Khangal ODBAATAR"
+                },
+                {
+                    "country": "CZE",
+                    "name": "Radek HECL"
+                },
+                {
+                    "winner": "Khangal ODBAATAR"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Daniel DICHEV",
+            "Khangal ODBAATAR"
+        ]
+    },
+    "REPECHAGE": {
+        "round 1-1": [
+            [
+                {
+                    "country": "TJK",
+                    "name": "Khurshed MADZHIDOV"
+                },
+                {
+                    "country": "CZE",
+                    "name": "Radek HECL"
+                },
+                {
+                    "winner": "Khurshed MADZHIDOV"
+                }
+            ],
+            [
+                {
+                    "country": "TJK",
+                    "name": "Khurshed MADZHIDOV"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Khurshed MADZHIDOV"
+        ]
+    },
+    "FINALS": {
+        "round 1-1": [],
+        "final_winners": [
+            "Daniel DICHEV"
+        ]
+    }
+}

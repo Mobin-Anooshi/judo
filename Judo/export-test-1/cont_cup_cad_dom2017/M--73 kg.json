@@ -1,0 +1,159 @@
+{
+    "POOL A": {
+        "round 1-1": [],
+        "final_winner": "Marcos MARTE"
+    },
+    "POOL B": {
+        "round 1-1": [
+            [
+                {
+                    "country": "HUN",
+                    "name": "Botond TOTH"
+                },
+                {
+                    "country": "PUR",
+                    "name": "Rivera JAIME"
+                }
+            ]
+        ],
+        "final_winner": "Botond TOTH"
+    },
+    "POOL C": {
+        "round 1-1": [
+            [
+                {
+                    "country": "DOM",
+                    "name": "Horacio MATOS"
+                },
+                {
+                    "country": "MEX",
+                    "name": "Oscar MARTINEZ"
+                }
+            ]
+        ],
+        "final_winner": "Oscar MARTINEZ"
+    },
+    "POOL D": {
+        "round 1-1": [
+            [
+                {
+                    "country": "DOM",
+                    "name": "Robert LORENZO GUZMAN"
+                },
+                {
+                    "country": "CRO",
+                    "name": "Timo GOBEC"
+                }
+            ]
+        ],
+        "final_winner": "Robert LORENZO GUZMAN"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "PUR",
+                    "name": "Rivera JAIME"
+                }
+            ],
+            [
+                {
+                    "country": "DOM",
+                    "name": "Horacio MATOS"
+                },
+                {
+                    "country": "CRO",
+                    "name": "Timo GOBEC"
+                },
+                {
+                    "winner": "Horacio MATOS"
+                }
+            ],
+            [
+                {
+                    "country": "PUR",
+                    "name": "Rivera JAIME"
+                },
+                {
+                    "country": "DOM",
+                    "name": "Robert LORENZO GUZMAN"
+                },
+                {
+                    "winner": "Robert LORENZO GUZMAN"
+                }
+            ],
+            [
+                {
+                    "country": "DOM",
+                    "name": "Horacio MATOS"
+                },
+                {
+                    "country": "DOM",
+                    "name": "Marcos MARTE"
+                },
+                {
+                    "winner": "Marcos MARTE"
+                }
+            ],
+            [
+                {
+                    "country": "DOM",
+                    "name": "Robert LORENZO GUZMAN"
+                }
+            ],
+            [
+                {
+                    "country": "DOM",
+                    "name": "Marcos MARTE"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Robert LORENZO GUZMAN",
+            "Marcos MARTE"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "DOM",
+                    "name": "Marcos MARTE"
+                },
+                {
+                    "country": "HUN",
+                    "name": "Botond TOTH"
+                },
+                {
+                    "winner": "Botond TOTH"
+                }
+            ],
+            [
+                {
+                    "country": "MEX",
+                    "name": "Oscar MARTINEZ"
+                },
+                {
+                    "country": "DOM",
+                    "name": "Robert LORENZO GUZMAN"
+                },
+                {
+                    "winner": "Oscar MARTINEZ"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "HUN",
+                    "name": "Botond TOTH"
+                },
+                {
+                    "country": "MEX",
+                    "name": "Oscar MARTINEZ"
+                }
+            ]
+        ],
+        "final_winner": "Botond TOTH"
+    }
+}

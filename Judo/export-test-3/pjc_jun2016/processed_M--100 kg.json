@@ -1,0 +1,68 @@
+{
+    "ROUND 1": {
+        "round 1-2": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Leonardo GONCALVES"
+                },
+                {
+                    "country": "ECU",
+                    "name": "Juan VASCONEZ"
+                },
+                {
+                    "winner": "Leonardo GONCALVES"
+                }
+            ],
+            [
+                {
+                    "country": "ARG",
+                    "name": "Alejo BURGOS"
+                },
+                {
+                    "country": "COL",
+                    "name": "Jhoan PEREZ"
+                },
+                {
+                    "winner": "Alejo BURGOS"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Leonardo GONCALVES",
+            "Alejo BURGOS"
+        ]
+    },
+    "REPECHAGE": {
+        "round 1-1": [
+            [
+                {
+                    "country": "ECU",
+                    "name": "Juan VASCONEZ"
+                },
+                {
+                    "country": "COL",
+                    "name": "Jhoan PEREZ"
+                },
+                {
+                    "winner": "Juan VASCONEZ"
+                }
+            ],
+            [
+                {
+                    "country": "ECU",
+                    "name": "Juan VASCONEZ"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Juan VASCONEZ"
+        ]
+    },
+    "FINALS": {
+        "round 1-1": [],
+        "final_winners": [
+            "Leonardo GONCALVES"
+        ]
+    }
+}

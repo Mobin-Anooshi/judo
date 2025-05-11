@@ -1,0 +1,261 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CAN",
+                    "name": "Louis KRIEBER GAGNON"
+                },
+                {
+                    "winner": "Louis KRIEBER GAGNON"
+                }
+            ],
+            [
+                {
+                    "country": "BRA",
+                    "name": "Thiago CHIODI"
+                },
+                {
+                    "country": "USA",
+                    "name": "Ruben MARTIN"
+                },
+                {
+                    "winner": "Thiago CHIODI"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "CAN",
+                    "name": "Louis KRIEBER GAGNON"
+                },
+                {
+                    "country": "BRA",
+                    "name": "Thiago CHIODI"
+                }
+            ]
+        ],
+        "final_winner": "Louis KRIEBER GAGNON"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ARG",
+                    "name": "Jose PERALTA"
+                },
+                {
+                    "winner": "Jose PERALTA"
+                }
+            ],
+            [
+                {
+                    "country": "ARG",
+                    "name": "Tomas SPIKERMANN"
+                },
+                {
+                    "winner": "Tomas SPIKERMANN"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "ARG",
+                    "name": "Jose PERALTA"
+                },
+                {
+                    "country": "ARG",
+                    "name": "Tomas SPIKERMANN"
+                }
+            ]
+        ],
+        "final_winner": "Tomas SPIKERMANN"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Gustavo ASSIS"
+                },
+                {
+                    "winner": "Gustavo ASSIS"
+                }
+            ],
+            [
+                {
+                    "country": "PER",
+                    "name": "Daryl YAMAMOTO"
+                },
+                {
+                    "winner": "Daryl YAMAMOTO"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Gustavo ASSIS"
+                },
+                {
+                    "country": "PER",
+                    "name": "Daryl YAMAMOTO"
+                }
+            ]
+        ],
+        "final_winner": "Gustavo ASSIS"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "USA",
+                    "name": "Matthew KOCH"
+                },
+                {
+                    "winner": "Matthew KOCH"
+                }
+            ],
+            [
+                {
+                    "country": "PER",
+                    "name": "Jose Luis ARROYO OSORIO"
+                },
+                {
+                    "winner": "Jose Luis ARROYO OSORIO"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "USA",
+                    "name": "Matthew KOCH"
+                },
+                {
+                    "country": "PER",
+                    "name": "Jose Luis ARROYO OSORIO"
+                }
+            ]
+        ],
+        "final_winner": "Matthew KOCH"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Thiago CHIODI"
+                },
+                {
+                    "country": "ARG",
+                    "name": "Jose PERALTA"
+                },
+                {
+                    "winner": "Thiago CHIODI"
+                }
+            ],
+            [
+                {
+                    "country": "PER",
+                    "name": "Daryl YAMAMOTO"
+                },
+                {
+                    "country": "PER",
+                    "name": "Jose Luis ARROYO OSORIO"
+                },
+                {
+                    "winner": "Daryl YAMAMOTO"
+                }
+            ],
+            [
+                {
+                    "country": "BRA",
+                    "name": "Thiago CHIODI"
+                },
+                {
+                    "country": "USA",
+                    "name": "Matthew KOCH"
+                },
+                {
+                    "winner": "Thiago CHIODI"
+                }
+            ],
+            [
+                {
+                    "country": "PER",
+                    "name": "Daryl YAMAMOTO"
+                },
+                {
+                    "country": "ARG",
+                    "name": "Tomas SPIKERMANN"
+                },
+                {
+                    "winner": "Tomas SPIKERMANN"
+                }
+            ],
+            [
+                {
+                    "country": "BRA",
+                    "name": "Thiago CHIODI"
+                }
+            ],
+            [
+                {
+                    "country": "ARG",
+                    "name": "Tomas SPIKERMANN"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Thiago CHIODI",
+            "Tomas SPIKERMANN"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CAN",
+                    "name": "Louis KRIEBER GAGNON"
+                },
+                {
+                    "country": "ARG",
+                    "name": "Tomas SPIKERMANN"
+                },
+                {
+                    "winner": "Louis KRIEBER GAGNON"
+                }
+            ],
+            [
+                {
+                    "country": "BRA",
+                    "name": "Gustavo ASSIS"
+                },
+                {
+                    "country": "USA",
+                    "name": "Matthew KOCH"
+                },
+                {
+                    "winner": "Gustavo ASSIS"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "CAN",
+                    "name": "Louis KRIEBER GAGNON"
+                },
+                {
+                    "country": "BRA",
+                    "name": "Gustavo ASSIS"
+                }
+            ]
+        ],
+        "final_winner": "Gustavo ASSIS"
+    }
+}

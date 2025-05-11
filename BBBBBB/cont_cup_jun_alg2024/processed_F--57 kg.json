@@ -1,0 +1,153 @@
+{
+    "POOL A": {
+        "round 1-1": [],
+        "final_winner": "Chaima SIDAOUI"
+    },
+    "POOL B": {
+        "round 1-1": [
+            [
+                {
+                    "country": "ALG",
+                    "name": "Malak MEDDOUR"
+                },
+                {
+                    "country": "ALG",
+                    "name": "Nourhane GHAZALI"
+                }
+            ]
+        ],
+        "final_winner": "Nourhane GHAZALI"
+    },
+    "POOL C": {
+        "round 1-1": [
+            [
+                {
+                    "country": "TUN",
+                    "name": "Mariem JMOUR"
+                },
+                {
+                    "country": "ALG",
+                    "name": "Dounia BERRAHOUAL"
+                }
+            ]
+        ],
+        "final_winner": "Mariem JMOUR"
+    },
+    "POOL D": {
+        "round 1-1": [
+            [
+                {
+                    "country": "ALG",
+                    "name": "Hala ZERROUK"
+                },
+                {
+                    "country": "ALG",
+                    "name": "Elissa KAMARIZ"
+                }
+            ]
+        ],
+        "final_winner": "Hala ZERROUK"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ALG",
+                    "name": "Malak MEDDOUR"
+                }
+            ],
+            [
+                {
+                    "country": "ALG",
+                    "name": "Dounia BERRAHOUAL"
+                },
+                {
+                    "country": "ALG",
+                    "name": "Elissa KAMARIZ"
+                },
+                {
+                    "winner": "Elissa KAMARIZ"
+                }
+            ],
+            [
+                {
+                    "country": "ALG",
+                    "name": "Malak MEDDOUR"
+                },
+                {
+                    "country": "TUN",
+                    "name": "Mariem JMOUR"
+                },
+                {
+                    "winner": "Malak MEDDOUR"
+                }
+            ],
+            [
+                {
+                    "country": "ALG",
+                    "name": "Elissa KAMARIZ"
+                },
+                {
+                    "country": "ALG",
+                    "name": "Nourhane GHAZALI"
+                },
+                {
+                    "winner": "Nourhane GHAZALI"
+                }
+            ],
+            [
+                {
+                    "country": "ALG",
+                    "name": "Nourhane GHAZALI"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Elissa KAMARIZ",
+            "Malak MEDDOUR"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "TUN",
+                    "name": "Chaima SIDAOUI"
+                },
+                {
+                    "country": "ALG",
+                    "name": "Nourhane GHAZALI"
+                },
+                {
+                    "winner": "Chaima SIDAOUI"
+                }
+            ],
+            [
+                {
+                    "country": "TUN",
+                    "name": "Mariem JMOUR"
+                },
+                {
+                    "country": "ALG",
+                    "name": "Hala ZERROUK"
+                },
+                {
+                    "winner": "Hala ZERROUK"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "TUN",
+                    "name": "Chaima SIDAOUI"
+                },
+                {
+                    "country": "ALG",
+                    "name": "Hala ZERROUK"
+                }
+            ]
+        ],
+        "final_winner": "Chaima SIDAOUI"
+    }
+}

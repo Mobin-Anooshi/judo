@@ -1,0 +1,247 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [],
+            [
+                {
+                    "country": "UZB",
+                    "name": "Anvar PARDAEV"
+                },
+                {
+                    "country": "TJK",
+                    "name": "Khushvakht IDIEV"
+                },
+                {
+                    "winner": "Anvar PARDAEV"
+                }
+            ]
+        ],
+        "round 1-1": [],
+        "final_winner": "Anvar PARDAEV"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "UZB",
+                    "name": "Abdulaziz ABDULAZIZOV"
+                },
+                {
+                    "winner": "Abdulaziz ABDULAZIZOV"
+                }
+            ],
+            [
+                {
+                    "country": "KGZ",
+                    "name": "Shakir SHAKIROV"
+                },
+                {
+                    "country": "UZB",
+                    "name": "Askarbek AVGANOV"
+                },
+                {
+                    "winner": "Askarbek AVGANOV"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "UZB",
+                    "name": "Abdulaziz ABDULAZIZOV"
+                },
+                {
+                    "country": "UZB",
+                    "name": "Askarbek AVGANOV"
+                }
+            ]
+        ],
+        "final_winner": "Askarbek AVGANOV"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "UZB",
+                    "name": "Ulugbek UROKOV"
+                },
+                {
+                    "country": "TJK",
+                    "name": "Olamafruz ABDURAHMONOV"
+                },
+                {
+                    "winner": "Ulugbek UROKOV"
+                }
+            ],
+            [
+                {
+                    "country": "UZB",
+                    "name": "Dilshod DILIEV"
+                },
+                {
+                    "winner": "Dilshod DILIEV"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "UZB",
+                    "name": "Ulugbek UROKOV"
+                },
+                {
+                    "country": "UZB",
+                    "name": "Dilshod DILIEV"
+                }
+            ]
+        ],
+        "final_winner": "Ulugbek UROKOV"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "RUS",
+                    "name": "Dmitrii KHAZIEV"
+                },
+                {
+                    "winner": "Dmitrii KHAZIEV"
+                }
+            ],
+            [
+                {
+                    "country": "KAZ",
+                    "name": "Nurbek ORTAY"
+                },
+                {
+                    "country": "UZB",
+                    "name": "Shokhboz MUMINOV"
+                },
+                {
+                    "winner": "Nurbek ORTAY"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "RUS",
+                    "name": "Dmitrii KHAZIEV"
+                },
+                {
+                    "country": "KAZ",
+                    "name": "Nurbek ORTAY"
+                }
+            ]
+        ],
+        "final_winner": "Dmitrii KHAZIEV"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "UZB",
+                    "name": "Abdulaziz ABDULAZIZOV"
+                }
+            ],
+            [
+                {
+                    "country": "UZB",
+                    "name": "Dilshod DILIEV"
+                },
+                {
+                    "country": "KAZ",
+                    "name": "Nurbek ORTAY"
+                },
+                {
+                    "winner": "Nurbek ORTAY"
+                }
+            ],
+            [
+                {
+                    "country": "UZB",
+                    "name": "Abdulaziz ABDULAZIZOV"
+                },
+                {
+                    "country": "RUS",
+                    "name": "Dmitrii KHAZIEV"
+                },
+                {
+                    "winner": "Dmitrii KHAZIEV"
+                }
+            ],
+            [
+                {
+                    "country": "KAZ",
+                    "name": "Nurbek ORTAY"
+                },
+                {
+                    "country": "UZB",
+                    "name": "Anvar PARDAEV"
+                },
+                {
+                    "winner": "Nurbek ORTAY"
+                }
+            ],
+            [
+                {
+                    "country": "RUS",
+                    "name": "Dmitrii KHAZIEV"
+                }
+            ],
+            [
+                {
+                    "country": "KAZ",
+                    "name": "Nurbek ORTAY"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Dmitrii KHAZIEV",
+            "Nurbek ORTAY"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "UZB",
+                    "name": "Anvar PARDAEV"
+                },
+                {
+                    "country": "UZB",
+                    "name": "Askarbek AVGANOV"
+                },
+                {
+                    "winner": "Askarbek AVGANOV"
+                }
+            ],
+            [
+                {
+                    "country": "UZB",
+                    "name": "Ulugbek UROKOV"
+                },
+                {
+                    "country": "RUS",
+                    "name": "Dmitrii KHAZIEV"
+                },
+                {
+                    "winner": "Ulugbek UROKOV"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "UZB",
+                    "name": "Askarbek AVGANOV"
+                },
+                {
+                    "country": "UZB",
+                    "name": "Ulugbek UROKOV"
+                }
+            ]
+        ],
+        "final_winner": "Ulugbek UROKOV"
+    }
+}

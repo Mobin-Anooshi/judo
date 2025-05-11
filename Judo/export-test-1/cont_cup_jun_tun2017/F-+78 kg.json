@@ -1,0 +1,227 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "TUN",
+                    "name": "Amani BOUKAMCHA"
+                },
+                {
+                    "winner": "Amani BOUKAMCHA"
+                }
+            ],
+            []
+        ],
+        "round 1-1": [],
+        "final_winner": "Amani BOUKAMCHA"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ALG",
+                    "name": "Meroua MAMMERI"
+                },
+                {
+                    "winner": "Meroua MAMMERI"
+                }
+            ],
+            [
+                {
+                    "country": "TUN",
+                    "name": "Siwar DHAWEDI"
+                },
+                {
+                    "winner": "Siwar DHAWEDI"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "ALG",
+                    "name": "Meroua MAMMERI"
+                },
+                {
+                    "country": "TUN",
+                    "name": "Siwar DHAWEDI"
+                }
+            ]
+        ],
+        "final_winner": "Meroua MAMMERI"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "TUN",
+                    "name": "Fatma ABIDI"
+                },
+                {
+                    "winner": "Fatma ABIDI"
+                }
+            ],
+            []
+        ],
+        "round 1-1": [],
+        "final_winner": "Fatma ABIDI"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "TUN",
+                    "name": "Yousra BEN MEHREZ"
+                },
+                {
+                    "winner": "Yousra BEN MEHREZ"
+                }
+            ],
+            [
+                {
+                    "country": "TUN",
+                    "name": "Islem LATRECH"
+                },
+                {
+                    "winner": "Islem LATRECH"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "TUN",
+                    "name": "Yousra BEN MEHREZ"
+                },
+                {
+                    "country": "TUN",
+                    "name": "Islem LATRECH"
+                }
+            ]
+        ],
+        "final_winner": "Yousra BEN MEHREZ"
+    },
+    "REPECHAGE": {
+        "round 1-4": [
+            [],
+            [
+                {
+                    "country": "TUN",
+                    "name": "Siwar DHAWEDI"
+                },
+                {
+                    "winner": "Siwar DHAWEDI"
+                }
+            ],
+            [],
+            [
+                {
+                    "country": "TUN",
+                    "name": "Islem LATRECH"
+                },
+                {
+                    "winner": "Islem LATRECH"
+                }
+            ]
+        ],
+        "round 1-2": [
+            [
+                {
+                    "country": "TUN",
+                    "name": "Siwar DHAWEDI"
+                }
+            ],
+            [
+                {
+                    "country": "TUN",
+                    "name": "Islem LATRECH"
+                }
+            ],
+            [
+                {
+                    "country": "TUN",
+                    "name": "Siwar DHAWEDI"
+                },
+                {
+                    "country": "TUN",
+                    "name": "Fatma ABIDI"
+                },
+                {
+                    "winner": "Fatma ABIDI"
+                }
+            ],
+            [
+                {
+                    "country": "TUN",
+                    "name": "Islem LATRECH"
+                },
+                {
+                    "country": "ALG",
+                    "name": "Meroua MAMMERI"
+                },
+                {
+                    "winner": "Meroua MAMMERI"
+                }
+            ],
+            [
+                {
+                    "country": "TUN",
+                    "name": "Fatma ABIDI"
+                }
+            ],
+            [
+                {
+                    "country": "ALG",
+                    "name": "Meroua MAMMERI"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Fatma ABIDI",
+            "Meroua MAMMERI"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "TUN",
+                    "name": "Amani BOUKAMCHA"
+                },
+                {
+                    "country": "ALG",
+                    "name": "Meroua MAMMERI"
+                },
+                {
+                    "winner": "Amani BOUKAMCHA"
+                }
+            ],
+            [
+                {
+                    "country": "TUN",
+                    "name": "Fatma ABIDI"
+                },
+                {
+                    "country": "TUN",
+                    "name": "Yousra BEN MEHREZ"
+                },
+                {
+                    "winner": "Yousra BEN MEHREZ"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "TUN",
+                    "name": "Amani BOUKAMCHA"
+                },
+                {
+                    "country": "TUN",
+                    "name": "Yousra BEN MEHREZ"
+                }
+            ]
+        ],
+        "final_winner": "Yousra BEN MEHREZ"
+    }
+}

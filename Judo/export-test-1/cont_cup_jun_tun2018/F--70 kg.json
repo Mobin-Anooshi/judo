@@ -1,0 +1,221 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "SLO",
+                    "name": "Zala PECOLER"
+                },
+                {
+                    "winner": "Zala PECOLER"
+                }
+            ],
+            []
+        ],
+        "round 1-1": [],
+        "final_winner": "Zala PECOLER"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "TUN",
+                    "name": "Asma HAMDI"
+                },
+                {
+                    "winner": "Asma HAMDI"
+                }
+            ],
+            [
+                {
+                    "country": "ALG",
+                    "name": "Ghozlene Amira SMARA"
+                },
+                {
+                    "winner": "Ghozlene Amira SMARA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "TUN",
+                    "name": "Asma HAMDI"
+                },
+                {
+                    "country": "ALG",
+                    "name": "Ghozlene Amira SMARA"
+                }
+            ]
+        ],
+        "final_winner": "Ghozlene Amira SMARA"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ALG",
+                    "name": "Karima KECHOUT"
+                },
+                {
+                    "winner": "Karima KECHOUT"
+                }
+            ],
+            [
+                {
+                    "country": "TUN",
+                    "name": "Rahma BAHRINI"
+                },
+                {
+                    "winner": "Rahma BAHRINI"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "ALG",
+                    "name": "Karima KECHOUT"
+                },
+                {
+                    "country": "TUN",
+                    "name": "Rahma BAHRINI"
+                }
+            ]
+        ],
+        "final_winner": "Karima KECHOUT"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [],
+            [
+                {
+                    "country": "ALG",
+                    "name": "Rania DJEBARNI"
+                },
+                {
+                    "winner": "Rania DJEBARNI"
+                }
+            ]
+        ],
+        "round 1-1": [],
+        "final_winner": "Rania DJEBARNI"
+    },
+    "REPECHAGE": {
+        "round 1-4": [
+            [],
+            [
+                {
+                    "country": "TUN",
+                    "name": "Asma HAMDI"
+                },
+                {
+                    "winner": "Asma HAMDI"
+                }
+            ],
+            [
+                {
+                    "country": "TUN",
+                    "name": "Rahma BAHRINI"
+                },
+                {
+                    "winner": "Rahma BAHRINI"
+                }
+            ],
+            []
+        ],
+        "round 1-2": [
+            [
+                {
+                    "country": "TUN",
+                    "name": "Asma HAMDI"
+                }
+            ],
+            [
+                {
+                    "country": "TUN",
+                    "name": "Rahma BAHRINI"
+                }
+            ],
+            [
+                {
+                    "country": "TUN",
+                    "name": "Asma HAMDI"
+                },
+                {
+                    "country": "ALG",
+                    "name": "Rania DJEBARNI"
+                },
+                {
+                    "winner": "Asma HAMDI"
+                }
+            ],
+            [
+                {
+                    "country": "TUN",
+                    "name": "Rahma BAHRINI"
+                },
+                {
+                    "country": "ALG",
+                    "name": "Ghozlene Amira SMARA"
+                },
+                {
+                    "winner": "Ghozlene Amira SMARA"
+                }
+            ],
+            [
+                {
+                    "country": "ALG",
+                    "name": "Ghozlene Amira SMARA"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Rahma BAHRINI",
+            "Asma HAMDI"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "SLO",
+                    "name": "Zala PECOLER"
+                },
+                {
+                    "country": "ALG",
+                    "name": "Ghozlene Amira SMARA"
+                },
+                {
+                    "winner": "Zala PECOLER"
+                }
+            ],
+            [
+                {
+                    "country": "ALG",
+                    "name": "Karima KECHOUT"
+                },
+                {
+                    "country": "ALG",
+                    "name": "Rania DJEBARNI"
+                },
+                {
+                    "winner": "Karima KECHOUT"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "SLO",
+                    "name": "Zala PECOLER"
+                },
+                {
+                    "country": "ALG",
+                    "name": "Karima KECHOUT"
+                }
+            ]
+        ],
+        "final_winner": "Zala PECOLER"
+    }
+}

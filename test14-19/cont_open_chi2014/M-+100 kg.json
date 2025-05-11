@@ -1,0 +1,216 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ECU",
+                    "name": "Freddy FIGUEROA"
+                },
+                {
+                    "winner": "Freddy FIGUEROA"
+                }
+            ],
+            []
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "ECU",
+                    "name": "Freddy FIGUEROA"
+                }
+            ]
+        ]
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "MEX",
+                    "name": "Jose CUEVAS"
+                },
+                {
+                    "winner": "Jose CUEVAS"
+                }
+            ],
+            [
+                {
+                    "country": "USA",
+                    "name": "Akbarzhan IMINOV"
+                },
+                {
+                    "winner": "Akbarzhan IMINOV"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "MEX",
+                    "name": "Jose CUEVAS"
+                },
+                {
+                    "country": "USA",
+                    "name": "Akbarzhan IMINOV"
+                }
+            ],
+            [
+                {
+                    "country": "USA",
+                    "name": "Akbarzhan IMINOV"
+                }
+            ]
+        ]
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "VEN",
+                    "name": "Pedro PINEDA"
+                },
+                {
+                    "winner": "Pedro PINEDA"
+                }
+            ],
+            [
+                {
+                    "country": "CHI",
+                    "name": "Williams GARRIDO"
+                },
+                {
+                    "winner": "Williams GARRIDO"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "VEN",
+                    "name": "Pedro PINEDA"
+                },
+                {
+                    "country": "CHI",
+                    "name": "Williams GARRIDO"
+                }
+            ],
+            [
+                {
+                    "country": "VEN",
+                    "name": "Pedro PINEDA"
+                }
+            ]
+        ]
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "URU",
+                    "name": "Ignacio CAETANO"
+                },
+                {
+                    "winner": "Ignacio CAETANO"
+                }
+            ],
+            []
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "URU",
+                    "name": "Ignacio CAETANO"
+                }
+            ]
+        ]
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "MEX",
+                    "name": "Jose CUEVAS"
+                }
+            ],
+            [
+                {
+                    "country": "CHI",
+                    "name": "Williams GARRIDO"
+                }
+            ],
+            [
+                {
+                    "country": "MEX",
+                    "name": "Jose CUEVAS"
+                },
+                {
+                    "country": "URU",
+                    "name": "Ignacio CAETANO"
+                }
+            ],
+            [
+                {
+                    "country": "CHI",
+                    "name": "Williams GARRIDO"
+                },
+                {
+                    "country": "USA",
+                    "name": "Akbarzhan IMINOV"
+                }
+            ],
+            [
+                {
+                    "country": "USA",
+                    "name": "Akbarzhan IMINOV"
+                }
+            ]
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ECU",
+                    "name": "Freddy FIGUEROA"
+                },
+                {
+                    "country": "USA",
+                    "name": "Akbarzhan IMINOV"
+                },
+                {
+                    "winner": "Freddy FIGUEROA"
+                }
+            ],
+            [
+                {
+                    "country": "VEN",
+                    "name": "Pedro PINEDA"
+                },
+                {
+                    "country": "URU",
+                    "name": "Ignacio CAETANO"
+                },
+                {
+                    "winner": "Pedro PINEDA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "ECU",
+                    "name": "Freddy FIGUEROA"
+                },
+                {
+                    "country": "VEN",
+                    "name": "Pedro PINEDA"
+                }
+            ],
+            [
+                {
+                    "country": "ECU",
+                    "name": "Freddy FIGUEROA"
+                }
+            ]
+        ]
+    }
+}

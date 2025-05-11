@@ -1,0 +1,273 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ESP",
+                    "name": "Joaquin GOMIS"
+                },
+                {
+                    "winner": "Joaquin GOMIS"
+                }
+            ],
+            [
+                {
+                    "country": "POL",
+                    "name": "Bartlomiej GARBACIK"
+                },
+                {
+                    "country": "BLR",
+                    "name": "Maksim KLIMAU"
+                },
+                {
+                    "winner": "Maksim KLIMAU"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "ESP",
+                    "name": "Joaquin GOMIS"
+                },
+                {
+                    "country": "BLR",
+                    "name": "Maksim KLIMAU"
+                }
+            ]
+        ],
+        "final_winner": "Joaquin GOMIS"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ISR",
+                    "name": "Alon RAHIMA"
+                },
+                {
+                    "winner": "Alon RAHIMA"
+                }
+            ],
+            [
+                {
+                    "country": "ITA",
+                    "name": "Daniel LOMBARDO"
+                },
+                {
+                    "country": "EST",
+                    "name": "Mark TSIRKIN"
+                },
+                {
+                    "winner": "Daniel LOMBARDO"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "ISR",
+                    "name": "Alon RAHIMA"
+                },
+                {
+                    "country": "ITA",
+                    "name": "Daniel LOMBARDO"
+                }
+            ]
+        ],
+        "final_winner": "Alon RAHIMA"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "UKR",
+                    "name": "Denys BILICHENKO"
+                },
+                {
+                    "winner": "Denys BILICHENKO"
+                }
+            ],
+            [
+                {
+                    "country": "ISR",
+                    "name": "Assaf ALMOG"
+                },
+                {
+                    "country": "POL",
+                    "name": "Adrian WALA"
+                },
+                {
+                    "winner": "Adrian WALA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "UKR",
+                    "name": "Denys BILICHENKO"
+                },
+                {
+                    "country": "POL",
+                    "name": "Adrian WALA"
+                }
+            ]
+        ],
+        "final_winner": "Adrian WALA"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "GER",
+                    "name": "Philip GRAF"
+                },
+                {
+                    "winner": "Philip GRAF"
+                }
+            ],
+            [
+                {
+                    "country": "NED",
+                    "name": "Bas KOFFIJBERG"
+                },
+                {
+                    "country": "FIN",
+                    "name": "Otto KOPONEN"
+                },
+                {
+                    "winner": "Bas KOFFIJBERG"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "GER",
+                    "name": "Philip GRAF"
+                },
+                {
+                    "country": "NED",
+                    "name": "Bas KOFFIJBERG"
+                }
+            ]
+        ],
+        "final_winner": "Philip GRAF"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "BLR",
+                    "name": "Maksim KLIMAU"
+                },
+                {
+                    "country": "ITA",
+                    "name": "Daniel LOMBARDO"
+                },
+                {
+                    "winner": "Daniel LOMBARDO"
+                }
+            ],
+            [
+                {
+                    "country": "UKR",
+                    "name": "Denys BILICHENKO"
+                },
+                {
+                    "country": "NED",
+                    "name": "Bas KOFFIJBERG"
+                },
+                {
+                    "winner": "Bas KOFFIJBERG"
+                }
+            ],
+            [
+                {
+                    "country": "ITA",
+                    "name": "Daniel LOMBARDO"
+                },
+                {
+                    "country": "POL",
+                    "name": "Adrian WALA"
+                },
+                {
+                    "winner": "Daniel LOMBARDO"
+                }
+            ],
+            [
+                {
+                    "country": "NED",
+                    "name": "Bas KOFFIJBERG"
+                },
+                {
+                    "country": "ISR",
+                    "name": "Alon RAHIMA"
+                },
+                {
+                    "winner": "Alon RAHIMA"
+                }
+            ],
+            [
+                {
+                    "country": "ITA",
+                    "name": "Daniel LOMBARDO"
+                }
+            ],
+            [
+                {
+                    "country": "ISR",
+                    "name": "Alon RAHIMA"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Daniel LOMBARDO",
+            "Alon RAHIMA"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ESP",
+                    "name": "Joaquin GOMIS"
+                },
+                {
+                    "country": "ISR",
+                    "name": "Alon RAHIMA"
+                },
+                {
+                    "winner": "Joaquin GOMIS"
+                }
+            ],
+            [
+                {
+                    "country": "POL",
+                    "name": "Adrian WALA"
+                },
+                {
+                    "country": "GER",
+                    "name": "Philip GRAF"
+                },
+                {
+                    "winner": "Philip GRAF"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "ESP",
+                    "name": "Joaquin GOMIS"
+                },
+                {
+                    "country": "GER",
+                    "name": "Philip GRAF"
+                }
+            ]
+        ],
+        "final_winner": "Joaquin GOMIS"
+    }
+}

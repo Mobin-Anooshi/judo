@@ -1,0 +1,177 @@
+{
+    "POOL A": {
+        "round 1-1": [
+            [
+                {
+                    "country": "TUR",
+                    "name": "Kayra OZDEMIR"
+                },
+                {
+                    "country": "KGZ",
+                    "name": "Dinara KHALMURZAEVA"
+                }
+            ]
+        ],
+        "final_winner": "Kayra OZDEMIR"
+    },
+    "POOL B": {
+        "round 1-1": [
+            [
+                {
+                    "country": "SEN",
+                    "name": "Monica SAGNA"
+                },
+                {
+                    "country": "KSA",
+                    "name": "Tahani ALQAHTANI"
+                }
+            ]
+        ],
+        "final_winner": "Monica SAGNA"
+    },
+    "POOL C": {
+        "round 1-1": [
+            [
+                {
+                    "country": "ALG",
+                    "name": "Sonia ASSELAH"
+                },
+                {
+                    "country": "YEM",
+                    "name": "Arwa AL YAS"
+                }
+            ]
+        ],
+        "final_winner": "Sonia ASSELAH"
+    },
+    "POOL D": {
+        "round 1-1": [
+            [
+                {
+                    "country": "TUN",
+                    "name": "Sarra MZOUGUI"
+                },
+                {
+                    "country": "UGA",
+                    "name": "Racheal BABIRYE"
+                }
+            ]
+        ],
+        "final_winner": "Sarra MZOUGUI"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "KGZ",
+                    "name": "Dinara KHALMURZAEVA"
+                },
+                {
+                    "country": "KSA",
+                    "name": "Tahani ALQAHTANI"
+                },
+                {
+                    "winner": "Dinara KHALMURZAEVA"
+                }
+            ],
+            [
+                {
+                    "country": "YEM",
+                    "name": "Arwa AL YAS"
+                },
+                {
+                    "country": "UGA",
+                    "name": "Racheal BABIRYE"
+                },
+                {
+                    "winner": "Arwa AL YAS"
+                }
+            ],
+            [
+                {
+                    "country": "KGZ",
+                    "name": "Dinara KHALMURZAEVA"
+                },
+                {
+                    "country": "TUN",
+                    "name": "Sarra MZOUGUI"
+                },
+                {
+                    "winner": "Sarra MZOUGUI"
+                }
+            ],
+            [
+                {
+                    "country": "YEM",
+                    "name": "Arwa AL YAS"
+                },
+                {
+                    "country": "SEN",
+                    "name": "Monica SAGNA"
+                },
+                {
+                    "winner": "Monica SAGNA"
+                }
+            ],
+            [
+                {
+                    "country": "TUN",
+                    "name": "Sarra MZOUGUI"
+                }
+            ],
+            [
+                {
+                    "country": "SEN",
+                    "name": "Monica SAGNA"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Sarra MZOUGUI",
+            "Monica SAGNA"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "TUR",
+                    "name": "Kayra OZDEMIR"
+                },
+                {
+                    "country": "SEN",
+                    "name": "Monica SAGNA"
+                },
+                {
+                    "winner": "Kayra OZDEMIR"
+                }
+            ],
+            [
+                {
+                    "country": "ALG",
+                    "name": "Sonia ASSELAH"
+                },
+                {
+                    "country": "TUN",
+                    "name": "Sarra MZOUGUI"
+                },
+                {
+                    "winner": "Sonia ASSELAH"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "TUR",
+                    "name": "Kayra OZDEMIR"
+                },
+                {
+                    "country": "ALG",
+                    "name": "Sonia ASSELAH"
+                }
+            ]
+        ],
+        "final_winner": "Kayra OZDEMIR"
+    }
+}

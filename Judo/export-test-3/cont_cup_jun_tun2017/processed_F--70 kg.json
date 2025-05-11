@@ -1,0 +1,68 @@
+{
+    "ROUND 1": {
+        "round 1-2": [
+            [
+                {
+                    "country": "TUN",
+                    "name": "Aya KITAR"
+                },
+                {
+                    "country": "TUN",
+                    "name": "Fatma JABBES"
+                },
+                {
+                    "winner": "Aya KITAR"
+                }
+            ],
+            [
+                {
+                    "country": "TUN",
+                    "name": "Safa JELASSI"
+                },
+                {
+                    "country": "TUN",
+                    "name": "Fatma DRIDI"
+                },
+                {
+                    "winner": "Fatma DRIDI"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Aya KITAR",
+            "Fatma DRIDI"
+        ]
+    },
+    "REPECHAGE": {
+        "round 1-1": [
+            [
+                {
+                    "country": "TUN",
+                    "name": "Fatma JABBES"
+                },
+                {
+                    "country": "TUN",
+                    "name": "Safa JELASSI"
+                },
+                {
+                    "winner": "Safa JELASSI"
+                }
+            ],
+            [
+                {
+                    "country": "TUN",
+                    "name": "Safa JELASSI"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Safa JELASSI"
+        ]
+    },
+    "FINALS": {
+        "round 1-1": [],
+        "final_winners": [
+            "Aya KITAR"
+        ]
+    }
+}

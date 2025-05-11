@@ -1,0 +1,299 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "HUN",
+                    "name": "Viktoria KISS"
+                },
+                {
+                    "winner": "Viktoria KISS"
+                }
+            ],
+            [
+                {
+                    "country": "GER",
+                    "name": "Stefanie GREGOR"
+                },
+                {
+                    "country": "NED",
+                    "name": "Mare SPONSELEE"
+                },
+                {
+                    "winner": "Mare SPONSELEE"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "HUN",
+                    "name": "Viktoria KISS"
+                },
+                {
+                    "country": "NED",
+                    "name": "Mare SPONSELEE"
+                }
+            ]
+        ],
+        "final_winner": "Viktoria KISS"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "POL",
+                    "name": "Natasza POTOK"
+                },
+                {
+                    "winner": "Natasza POTOK"
+                }
+            ],
+            [
+                {
+                    "country": "GBR",
+                    "name": "Eva EWING"
+                },
+                {
+                    "winner": "Eva EWING"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "POL",
+                    "name": "Natasza POTOK"
+                },
+                {
+                    "country": "GBR",
+                    "name": "Eva EWING"
+                }
+            ]
+        ],
+        "final_winner": "Eva EWING"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ITA",
+                    "name": "Rachele MORUZZI"
+                },
+                {
+                    "winner": "Rachele MORUZZI"
+                }
+            ],
+            [
+                {
+                    "country": "POL",
+                    "name": "Nina POTOK"
+                },
+                {
+                    "winner": "Nina POTOK"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "ITA",
+                    "name": "Rachele MORUZZI"
+                },
+                {
+                    "country": "POL",
+                    "name": "Nina POTOK"
+                }
+            ]
+        ],
+        "final_winner": "Nina POTOK"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "NED",
+                    "name": "Megan WARNERS"
+                },
+                {
+                    "winner": "Megan WARNERS"
+                }
+            ],
+            [
+                {
+                    "country": "GER",
+                    "name": "Florentine ZOCH"
+                },
+                {
+                    "winner": "Florentine ZOCH"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "NED",
+                    "name": "Megan WARNERS"
+                },
+                {
+                    "country": "GER",
+                    "name": "Florentine ZOCH"
+                }
+            ]
+        ],
+        "final_winner": "Megan WARNERS"
+    },
+    "REPECHAGE": {
+        "round 1-4": [
+            [
+                {
+                    "country": "NED",
+                    "name": "Mare SPONSELEE"
+                },
+                {
+                    "winner": "Mare SPONSELEE"
+                }
+            ],
+            [
+                {
+                    "country": "POL",
+                    "name": "Natasza POTOK"
+                },
+                {
+                    "winner": "Natasza POTOK"
+                }
+            ],
+            [
+                {
+                    "country": "ITA",
+                    "name": "Rachele MORUZZI"
+                },
+                {
+                    "winner": "Rachele MORUZZI"
+                }
+            ],
+            [
+                {
+                    "country": "GER",
+                    "name": "Florentine ZOCH"
+                },
+                {
+                    "winner": "Florentine ZOCH"
+                }
+            ]
+        ],
+        "round 1-2": [
+            [
+                {
+                    "country": "NED",
+                    "name": "Mare SPONSELEE"
+                },
+                {
+                    "country": "POL",
+                    "name": "Natasza POTOK"
+                },
+                {
+                    "winner": "Natasza POTOK"
+                }
+            ],
+            [
+                {
+                    "country": "ITA",
+                    "name": "Rachele MORUZZI"
+                },
+                {
+                    "country": "GER",
+                    "name": "Florentine ZOCH"
+                },
+                {
+                    "winner": "Rachele MORUZZI"
+                }
+            ],
+            [
+                {
+                    "country": "POL",
+                    "name": "Natasza POTOK"
+                },
+                {
+                    "country": "NED",
+                    "name": "Megan WARNERS"
+                },
+                {
+                    "winner": "Natasza POTOK"
+                }
+            ],
+            [
+                {
+                    "country": "ITA",
+                    "name": "Rachele MORUZZI"
+                },
+                {
+                    "country": "GBR",
+                    "name": "Eva EWING"
+                },
+                {
+                    "winner": "Rachele MORUZZI"
+                }
+            ],
+            [
+                {
+                    "country": "POL",
+                    "name": "Natasza POTOK"
+                }
+            ],
+            [
+                {
+                    "country": "ITA",
+                    "name": "Rachele MORUZZI"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Natasza POTOK",
+            "Rachele MORUZZI"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "HUN",
+                    "name": "Viktoria KISS"
+                },
+                {
+                    "country": "GBR",
+                    "name": "Eva EWING"
+                },
+                {
+                    "winner": "Viktoria KISS"
+                }
+            ],
+            [
+                {
+                    "country": "POL",
+                    "name": "Nina POTOK"
+                },
+                {
+                    "country": "NED",
+                    "name": "Megan WARNERS"
+                },
+                {
+                    "winner": "Nina POTOK"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "HUN",
+                    "name": "Viktoria KISS"
+                },
+                {
+                    "country": "POL",
+                    "name": "Nina POTOK"
+                }
+            ]
+        ],
+        "final_winner": "Viktoria KISS"
+    }
+}

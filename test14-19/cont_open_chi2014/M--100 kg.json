@@ -1,0 +1,278 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "MEX",
+                    "name": "Sergio GARCIA"
+                },
+                {
+                    "winner": "Sergio GARCIA"
+                }
+            ],
+            [
+                {
+                    "country": "ARG",
+                    "name": "Orlando BACCINO"
+                },
+                {
+                    "country": "CHI",
+                    "name": "Franco SUAZO"
+                },
+                {
+                    "winner": "Orlando BACCINO"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "MEX",
+                    "name": "Sergio GARCIA"
+                },
+                {
+                    "country": "ARG",
+                    "name": "Orlando BACCINO"
+                }
+            ],
+            [
+                {
+                    "country": "MEX",
+                    "name": "Sergio GARCIA"
+                }
+            ]
+        ]
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Horacio ANTUNES"
+                },
+                {
+                    "winner": "Horacio ANTUNES"
+                }
+            ],
+            [
+                {
+                    "country": "USA",
+                    "name": "Ajax TADEHARA"
+                },
+                {
+                    "winner": "Ajax TADEHARA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Horacio ANTUNES"
+                },
+                {
+                    "country": "USA",
+                    "name": "Ajax TADEHARA"
+                }
+            ],
+            [
+                {
+                    "country": "BRA",
+                    "name": "Horacio ANTUNES"
+                }
+            ]
+        ]
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "URU",
+                    "name": "Manuel BUENO"
+                },
+                {
+                    "winner": "Manuel BUENO"
+                }
+            ],
+            [
+                {
+                    "country": "CAN",
+                    "name": "Marc DESCHENES"
+                },
+                {
+                    "country": "CHI",
+                    "name": "Yeison DONOSO"
+                },
+                {
+                    "winner": "Marc DESCHENES"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "URU",
+                    "name": "Manuel BUENO"
+                },
+                {
+                    "country": "CAN",
+                    "name": "Marc DESCHENES"
+                }
+            ],
+            [
+                {
+                    "country": "CAN",
+                    "name": "Marc DESCHENES"
+                }
+            ]
+        ]
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Joao Gabriel SCHLITTLER"
+                },
+                {
+                    "winner": "Joao Gabriel SCHLITTLER"
+                }
+            ],
+            [
+                {
+                    "country": "VEN",
+                    "name": "Anthony PENA"
+                },
+                {
+                    "country": "CHI",
+                    "name": "Sergio CARRASCO"
+                },
+                {
+                    "winner": "Anthony PENA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Joao Gabriel SCHLITTLER"
+                },
+                {
+                    "country": "VEN",
+                    "name": "Anthony PENA"
+                }
+            ],
+            [
+                {
+                    "country": "BRA",
+                    "name": "Joao Gabriel SCHLITTLER"
+                }
+            ]
+        ]
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ARG",
+                    "name": "Orlando BACCINO"
+                },
+                {
+                    "country": "USA",
+                    "name": "Ajax TADEHARA"
+                }
+            ],
+            [
+                {
+                    "country": "URU",
+                    "name": "Manuel BUENO"
+                },
+                {
+                    "country": "VEN",
+                    "name": "Anthony PENA"
+                }
+            ],
+            [
+                {
+                    "country": "USA",
+                    "name": "Ajax TADEHARA"
+                },
+                {
+                    "country": "BRA",
+                    "name": "Joao Gabriel SCHLITTLER"
+                }
+            ],
+            [
+                {
+                    "country": "URU",
+                    "name": "Manuel BUENO"
+                },
+                {
+                    "country": "BRA",
+                    "name": "Horacio ANTUNES"
+                }
+            ],
+            [
+                {
+                    "country": "USA",
+                    "name": "Ajax TADEHARA"
+                }
+            ],
+            [
+                {
+                    "country": "BRA",
+                    "name": "Horacio ANTUNES"
+                }
+            ]
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "MEX",
+                    "name": "Sergio GARCIA"
+                },
+                {
+                    "country": "BRA",
+                    "name": "Horacio ANTUNES"
+                },
+                {
+                    "winner": "Sergio GARCIA"
+                }
+            ],
+            [
+                {
+                    "country": "CAN",
+                    "name": "Marc DESCHENES"
+                },
+                {
+                    "country": "BRA",
+                    "name": "Joao Gabriel SCHLITTLER"
+                },
+                {
+                    "winner": "Marc DESCHENES"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "MEX",
+                    "name": "Sergio GARCIA"
+                },
+                {
+                    "country": "CAN",
+                    "name": "Marc DESCHENES"
+                }
+            ],
+            [
+                {
+                    "country": "CAN",
+                    "name": "Marc DESCHENES"
+                }
+            ]
+        ]
+    }
+}

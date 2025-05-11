@@ -1,0 +1,93 @@
+{
+    "POOL A": {
+        "round 1-3": [
+            [
+                {
+                    "country": "MEX",
+                    "name": "Renata SANDOVAL"
+                },
+                {
+                    "country": "COL",
+                    "name": "Heydi SANTILLANA"
+                },
+                {
+                    "winner": "Renata SANDOVAL"
+                }
+            ],
+            [
+                {
+                    "country": "MEX",
+                    "name": "Renata SANDOVAL"
+                },
+                {
+                    "country": "CHI",
+                    "name": "Ignacia MAYORGA"
+                },
+                {
+                    "winner": "Ignacia MAYORGA"
+                }
+            ],
+            [
+                {
+                    "country": "COL",
+                    "name": "Heydi SANTILLANA"
+                },
+                {
+                    "country": "CHI",
+                    "name": "Ignacia MAYORGA"
+                },
+                {
+                    "winner": "Heydi SANTILLANA"
+                }
+            ],
+            [
+                {
+                    "country": "COL",
+                    "name": "Heydi SANTILLANA"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Renata SANDOVAL",
+            "Ignacia MAYORGA"
+        ]
+    },
+    "POOL B": {
+        "round 1-1": [],
+        "final_winners": [
+            "Victoria RAMIREZ PEGUERO"
+        ]
+    },
+    "REPECHAGE": {
+        "round 1-1": [
+            [
+                {
+                    "country": "CHI",
+                    "name": "Ignacia MAYORGA"
+                },
+                {
+                    "country": "PER",
+                    "name": "Zoyla NEVADO"
+                },
+                {
+                    "winner": "Ignacia MAYORGA"
+                }
+            ],
+            [
+                {
+                    "country": "CHI",
+                    "name": "Ignacia MAYORGA"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Ignacia MAYORGA"
+        ]
+    },
+    "FINALS": {
+        "round 1-1": [],
+        "final_winners": [
+            "Victoria RAMIREZ PEGUERO"
+        ]
+    }
+}

@@ -1,0 +1,265 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "FRA",
+                    "name": "Cedric REVOL"
+                },
+                {
+                    "winner": "Cedric REVOL"
+                }
+            ],
+            [
+                {
+                    "country": "NZL",
+                    "name": "Terry KUNG"
+                },
+                {
+                    "country": "SGP",
+                    "name": "Luc Aryan NG"
+                },
+                {
+                    "winner": "Luc Aryan NG"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "FRA",
+                    "name": "Cedric REVOL"
+                },
+                {
+                    "country": "SGP",
+                    "name": "Luc Aryan NG"
+                }
+            ]
+        ],
+        "final_winner": "Cedric REVOL"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "FRA",
+                    "name": "Maxime MERLIN"
+                },
+                {
+                    "winner": "Maxime MERLIN"
+                }
+            ],
+            [
+                {
+                    "country": "GER",
+                    "name": "Maximilian STANDKE"
+                },
+                {
+                    "winner": "Maximilian STANDKE"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "FRA",
+                    "name": "Maxime MERLIN"
+                },
+                {
+                    "country": "GER",
+                    "name": "Maximilian STANDKE"
+                }
+            ]
+        ],
+        "final_winner": "Maxime MERLIN"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "GBR",
+                    "name": "Samuel HALL"
+                },
+                {
+                    "winner": "Samuel HALL"
+                }
+            ],
+            [
+                {
+                    "country": "HKG",
+                    "name": "Hok Ching CHOI"
+                },
+                {
+                    "country": "MAC",
+                    "name": "Tak Chong CHEK"
+                },
+                {
+                    "winner": "Hok Ching CHOI"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "GBR",
+                    "name": "Samuel HALL"
+                },
+                {
+                    "country": "HKG",
+                    "name": "Hok Ching CHOI"
+                }
+            ]
+        ],
+        "final_winner": "Samuel HALL"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CZE",
+                    "name": "David PULKRABEK"
+                },
+                {
+                    "winner": "David PULKRABEK"
+                }
+            ],
+            [
+                {
+                    "country": "HKG",
+                    "name": "Yiu Long LAI"
+                },
+                {
+                    "winner": "Yiu Long LAI"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "CZE",
+                    "name": "David PULKRABEK"
+                },
+                {
+                    "country": "HKG",
+                    "name": "Yiu Long LAI"
+                }
+            ]
+        ],
+        "final_winner": "David PULKRABEK"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "SGP",
+                    "name": "Luc Aryan NG"
+                },
+                {
+                    "country": "GER",
+                    "name": "Maximilian STANDKE"
+                },
+                {
+                    "winner": "Maximilian STANDKE"
+                }
+            ],
+            [
+                {
+                    "country": "HKG",
+                    "name": "Hok Ching CHOI"
+                },
+                {
+                    "country": "HKG",
+                    "name": "Yiu Long LAI"
+                },
+                {
+                    "winner": "Yiu Long LAI"
+                }
+            ],
+            [
+                {
+                    "country": "GER",
+                    "name": "Maximilian STANDKE"
+                },
+                {
+                    "country": "GBR",
+                    "name": "Samuel HALL"
+                },
+                {
+                    "winner": "Samuel HALL"
+                }
+            ],
+            [
+                {
+                    "country": "HKG",
+                    "name": "Yiu Long LAI"
+                },
+                {
+                    "country": "FRA",
+                    "name": "Maxime MERLIN"
+                },
+                {
+                    "winner": "Maxime MERLIN"
+                }
+            ],
+            [
+                {
+                    "country": "GBR",
+                    "name": "Samuel HALL"
+                }
+            ],
+            [
+                {
+                    "country": "FRA",
+                    "name": "Maxime MERLIN"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Samuel HALL",
+            "Maxime MERLIN"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "FRA",
+                    "name": "Cedric REVOL"
+                },
+                {
+                    "country": "FRA",
+                    "name": "Maxime MERLIN"
+                },
+                {
+                    "winner": "Cedric REVOL"
+                }
+            ],
+            [
+                {
+                    "country": "GBR",
+                    "name": "Samuel HALL"
+                },
+                {
+                    "country": "CZE",
+                    "name": "David PULKRABEK"
+                },
+                {
+                    "winner": "David PULKRABEK"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "FRA",
+                    "name": "Cedric REVOL"
+                },
+                {
+                    "country": "CZE",
+                    "name": "David PULKRABEK"
+                }
+            ]
+        ],
+        "final_winner": "Cedric REVOL"
+    }
+}

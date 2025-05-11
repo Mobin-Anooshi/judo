@@ -1,0 +1,278 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "MEX",
+                    "name": "Edna CARRILLO"
+                },
+                {
+                    "winner": "Edna CARRILLO"
+                }
+            ],
+            [
+                {
+                    "country": "COL",
+                    "name": "Luz ALVAREZ"
+                },
+                {
+                    "country": "CAN",
+                    "name": "Erin MORGAN"
+                },
+                {
+                    "winner": "Luz ALVAREZ"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "MEX",
+                    "name": "Edna CARRILLO"
+                },
+                {
+                    "country": "COL",
+                    "name": "Luz ALVAREZ"
+                }
+            ],
+            [
+                {
+                    "country": "MEX",
+                    "name": "Edna CARRILLO"
+                }
+            ]
+        ]
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "GUA",
+                    "name": "Jacqueline SOLIS"
+                },
+                {
+                    "winner": "Jacqueline SOLIS"
+                }
+            ],
+            [
+                {
+                    "country": "ESP",
+                    "name": "Aiora ARRILLAGA"
+                },
+                {
+                    "winner": "Aiora ARRILLAGA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "GUA",
+                    "name": "Jacqueline SOLIS"
+                },
+                {
+                    "country": "ESP",
+                    "name": "Aiora ARRILLAGA"
+                }
+            ],
+            [
+                {
+                    "country": "GUA",
+                    "name": "Jacqueline SOLIS"
+                }
+            ]
+        ]
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ECU",
+                    "name": "Diana COBOS"
+                },
+                {
+                    "winner": "Diana COBOS"
+                }
+            ],
+            [
+                {
+                    "country": "USA",
+                    "name": "Ashley HEJLIK"
+                },
+                {
+                    "country": "CHI",
+                    "name": "Judith GONZALEZ"
+                },
+                {
+                    "winner": "Judith GONZALEZ"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "ECU",
+                    "name": "Diana COBOS"
+                },
+                {
+                    "country": "CHI",
+                    "name": "Judith GONZALEZ"
+                }
+            ],
+            [
+                {
+                    "country": "ECU",
+                    "name": "Diana COBOS"
+                }
+            ]
+        ]
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "POR",
+                    "name": "Leandra FREITAS"
+                },
+                {
+                    "winner": "Leandra FREITAS"
+                }
+            ],
+            [
+                {
+                    "country": "USA",
+                    "name": "Ashlyn WHITE"
+                },
+                {
+                    "country": "GUA",
+                    "name": "Evelyn SOLIS GUTIERREZ"
+                },
+                {
+                    "winner": "Ashlyn WHITE"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "POR",
+                    "name": "Leandra FREITAS"
+                },
+                {
+                    "country": "USA",
+                    "name": "Ashlyn WHITE"
+                }
+            ],
+            [
+                {
+                    "country": "POR",
+                    "name": "Leandra FREITAS"
+                }
+            ]
+        ]
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "COL",
+                    "name": "Luz ALVAREZ"
+                },
+                {
+                    "country": "ESP",
+                    "name": "Aiora ARRILLAGA"
+                }
+            ],
+            [
+                {
+                    "country": "CHI",
+                    "name": "Judith GONZALEZ"
+                },
+                {
+                    "country": "USA",
+                    "name": "Ashlyn WHITE"
+                }
+            ],
+            [
+                {
+                    "country": "ESP",
+                    "name": "Aiora ARRILLAGA"
+                },
+                {
+                    "country": "ECU",
+                    "name": "Diana COBOS"
+                }
+            ],
+            [
+                {
+                    "country": "CHI",
+                    "name": "Judith GONZALEZ"
+                },
+                {
+                    "country": "GUA",
+                    "name": "Jacqueline SOLIS"
+                }
+            ],
+            [
+                {
+                    "country": "ESP",
+                    "name": "Aiora ARRILLAGA"
+                }
+            ],
+            [
+                {
+                    "country": "GUA",
+                    "name": "Jacqueline SOLIS"
+                }
+            ]
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "MEX",
+                    "name": "Edna CARRILLO"
+                },
+                {
+                    "country": "GUA",
+                    "name": "Jacqueline SOLIS"
+                },
+                {
+                    "winner": "Edna CARRILLO"
+                }
+            ],
+            [
+                {
+                    "country": "ECU",
+                    "name": "Diana COBOS"
+                },
+                {
+                    "country": "POR",
+                    "name": "Leandra FREITAS"
+                },
+                {
+                    "winner": "Leandra FREITAS"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "MEX",
+                    "name": "Edna CARRILLO"
+                },
+                {
+                    "country": "POR",
+                    "name": "Leandra FREITAS"
+                }
+            ],
+            [
+                {
+                    "country": "MEX",
+                    "name": "Edna CARRILLO"
+                }
+            ]
+        ]
+    }
+}

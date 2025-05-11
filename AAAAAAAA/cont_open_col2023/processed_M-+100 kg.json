@@ -1,0 +1,261 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Tiago PALMINI"
+                },
+                {
+                    "winner": "Tiago PALMINI"
+                }
+            ],
+            [
+                {
+                    "country": "COL",
+                    "name": "Miguel A. VELEZ"
+                },
+                {
+                    "winner": "Miguel A. VELEZ"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Tiago PALMINI"
+                },
+                {
+                    "country": "COL",
+                    "name": "Miguel A. VELEZ"
+                }
+            ]
+        ],
+        "final_winner": "Tiago PALMINI"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Gabriel DOS SANTOS"
+                },
+                {
+                    "winner": "Gabriel DOS SANTOS"
+                }
+            ],
+            [
+                {
+                    "country": "COL",
+                    "name": "Elmer OREJUELA"
+                },
+                {
+                    "winner": "Elmer OREJUELA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Gabriel DOS SANTOS"
+                },
+                {
+                    "country": "COL",
+                    "name": "Elmer OREJUELA"
+                }
+            ]
+        ],
+        "final_winner": "Elmer OREJUELA"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "COL",
+                    "name": "Juan Camilo LANDAZURI"
+                },
+                {
+                    "winner": "Juan Camilo LANDAZURI"
+                }
+            ],
+            [
+                {
+                    "country": "USA",
+                    "name": "Victor HUYNH"
+                },
+                {
+                    "winner": "Victor HUYNH"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "COL",
+                    "name": "Juan Camilo LANDAZURI"
+                },
+                {
+                    "country": "USA",
+                    "name": "Victor HUYNH"
+                }
+            ]
+        ],
+        "final_winner": "Juan Camilo LANDAZURI"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "VEN",
+                    "name": "Luis AMEZQUITA"
+                },
+                {
+                    "winner": "Luis AMEZQUITA"
+                }
+            ],
+            [
+                {
+                    "country": "COL",
+                    "name": "Carlos GARZON"
+                },
+                {
+                    "country": "COL",
+                    "name": "Juan Pablo JARAMILLO"
+                },
+                {
+                    "winner": "Carlos GARZON"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "VEN",
+                    "name": "Luis AMEZQUITA"
+                },
+                {
+                    "country": "COL",
+                    "name": "Carlos GARZON"
+                }
+            ]
+        ],
+        "final_winner": "Luis AMEZQUITA"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "COL",
+                    "name": "Miguel A. VELEZ"
+                },
+                {
+                    "country": "BRA",
+                    "name": "Gabriel DOS SANTOS"
+                },
+                {
+                    "winner": "Miguel A. VELEZ"
+                }
+            ],
+            [
+                {
+                    "country": "USA",
+                    "name": "Victor HUYNH"
+                },
+                {
+                    "country": "COL",
+                    "name": "Carlos GARZON"
+                },
+                {
+                    "winner": "Carlos GARZON"
+                }
+            ],
+            [
+                {
+                    "country": "COL",
+                    "name": "Miguel A. VELEZ"
+                },
+                {
+                    "country": "COL",
+                    "name": "Juan Camilo LANDAZURI"
+                },
+                {
+                    "winner": "Juan Camilo LANDAZURI"
+                }
+            ],
+            [
+                {
+                    "country": "COL",
+                    "name": "Carlos GARZON"
+                },
+                {
+                    "country": "COL",
+                    "name": "Elmer OREJUELA"
+                },
+                {
+                    "winner": "Elmer OREJUELA"
+                }
+            ],
+            [
+                {
+                    "country": "COL",
+                    "name": "Juan Camilo LANDAZURI"
+                }
+            ],
+            [
+                {
+                    "country": "COL",
+                    "name": "Elmer OREJUELA"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Juan Camilo LANDAZURI",
+            "Elmer OREJUELA"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Tiago PALMINI"
+                },
+                {
+                    "country": "COL",
+                    "name": "Elmer OREJUELA"
+                },
+                {
+                    "winner": "Tiago PALMINI"
+                }
+            ],
+            [
+                {
+                    "country": "COL",
+                    "name": "Juan Camilo LANDAZURI"
+                },
+                {
+                    "country": "VEN",
+                    "name": "Luis AMEZQUITA"
+                },
+                {
+                    "winner": "Luis AMEZQUITA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Tiago PALMINI"
+                },
+                {
+                    "country": "VEN",
+                    "name": "Luis AMEZQUITA"
+                }
+            ]
+        ],
+        "final_winner": "Tiago PALMINI"
+    }
+}

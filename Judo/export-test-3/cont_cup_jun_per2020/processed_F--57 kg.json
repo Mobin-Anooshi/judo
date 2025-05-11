@@ -1,0 +1,87 @@
+{
+    "POOL A": {
+        "round 1-3": [
+            [
+                {
+                    "country": "USA",
+                    "name": "Tasha CANCELA"
+                },
+                {
+                    "country": "PER",
+                    "name": "Marian UGARTE GARCIA"
+                },
+                {
+                    "winner": "Tasha CANCELA"
+                }
+            ],
+            [
+                {
+                    "country": "USA",
+                    "name": "Tasha CANCELA"
+                },
+                {
+                    "country": "PER",
+                    "name": "Marian FLORES"
+                },
+                {
+                    "winner": "Marian FLORES"
+                }
+            ],
+            [
+                {
+                    "country": "PER",
+                    "name": "Marian UGARTE GARCIA"
+                },
+                {
+                    "country": "PER",
+                    "name": "Marian FLORES"
+                },
+                {
+                    "winner": "Marian FLORES"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Tasha CANCELA",
+            "Marian FLORES"
+        ]
+    },
+    "POOL B": {
+        "round 1-1": [],
+        "final_winners": [
+            "Kiara ARANGO"
+        ]
+    },
+    "REPECHAGE": {
+        "round 1-1": [
+            [
+                {
+                    "country": "PER",
+                    "name": "Marian FLORES"
+                },
+                {
+                    "country": "PER",
+                    "name": "Romina BALTAZAR"
+                },
+                {
+                    "winner": "Marian FLORES"
+                }
+            ],
+            [
+                {
+                    "country": "PER",
+                    "name": "Marian FLORES"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Marian FLORES"
+        ]
+    },
+    "FINALS": {
+        "round 1-1": [],
+        "final_winners": [
+            "Tasha CANCELA"
+        ]
+    }
+}

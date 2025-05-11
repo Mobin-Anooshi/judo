@@ -1,0 +1,266 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ROU",
+                    "name": "Laszlo DAVID"
+                },
+                {
+                    "winner": "Laszlo DAVID"
+                }
+            ],
+            [
+                {
+                    "country": "DOM",
+                    "name": "Omar SANTANA"
+                },
+                {
+                    "winner": "Omar SANTANA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "ROU",
+                    "name": "Laszlo DAVID"
+                },
+                {
+                    "country": "DOM",
+                    "name": "Omar SANTANA"
+                }
+            ],
+            [
+                {
+                    "country": "ROU",
+                    "name": "Laszlo DAVID"
+                }
+            ]
+        ]
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "VEN",
+                    "name": "Ronald CARDENAS"
+                },
+                {
+                    "winner": "Ronald CARDENAS"
+                }
+            ],
+            [
+                {
+                    "country": "DOM",
+                    "name": "Luis PEREZ"
+                },
+                {
+                    "winner": "Luis PEREZ"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "VEN",
+                    "name": "Ronald CARDENAS"
+                },
+                {
+                    "country": "DOM",
+                    "name": "Luis PEREZ"
+                }
+            ],
+            [
+                {
+                    "country": "VEN",
+                    "name": "Ronald CARDENAS"
+                }
+            ]
+        ]
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "MEX",
+                    "name": "Gilberto CARDOSO"
+                },
+                {
+                    "winner": "Gilberto CARDOSO"
+                }
+            ],
+            [
+                {
+                    "country": "DOM",
+                    "name": "Marcos PERALTA"
+                },
+                {
+                    "winner": "Marcos PERALTA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "MEX",
+                    "name": "Gilberto CARDOSO"
+                },
+                {
+                    "country": "DOM",
+                    "name": "Marcos PERALTA"
+                }
+            ],
+            [
+                {
+                    "country": "MEX",
+                    "name": "Gilberto CARDOSO"
+                }
+            ]
+        ]
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CAN",
+                    "name": "Sava ANTIC"
+                },
+                {
+                    "winner": "Sava ANTIC"
+                }
+            ],
+            [
+                {
+                    "country": "DOM",
+                    "name": "Stanlin RAMIREZ"
+                },
+                {
+                    "winner": "Stanlin RAMIREZ"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "CAN",
+                    "name": "Sava ANTIC"
+                },
+                {
+                    "country": "DOM",
+                    "name": "Stanlin RAMIREZ"
+                }
+            ],
+            [
+                {
+                    "country": "CAN",
+                    "name": "Sava ANTIC"
+                }
+            ]
+        ]
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "DOM",
+                    "name": "Omar SANTANA"
+                },
+                {
+                    "country": "DOM",
+                    "name": "Luis PEREZ"
+                }
+            ],
+            [
+                {
+                    "country": "DOM",
+                    "name": "Marcos PERALTA"
+                },
+                {
+                    "country": "DOM",
+                    "name": "Stanlin RAMIREZ"
+                }
+            ],
+            [
+                {
+                    "country": "DOM",
+                    "name": "Luis PEREZ"
+                },
+                {
+                    "country": "CAN",
+                    "name": "Sava ANTIC"
+                }
+            ],
+            [
+                {
+                    "country": "DOM",
+                    "name": "Marcos PERALTA"
+                },
+                {
+                    "country": "VEN",
+                    "name": "Ronald CARDENAS"
+                }
+            ],
+            [
+                {
+                    "country": "DOM",
+                    "name": "Luis PEREZ"
+                }
+            ],
+            [
+                {
+                    "country": "VEN",
+                    "name": "Ronald CARDENAS"
+                }
+            ]
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ROU",
+                    "name": "Laszlo DAVID"
+                },
+                {
+                    "country": "VEN",
+                    "name": "Ronald CARDENAS"
+                },
+                {
+                    "winner": "Laszlo DAVID"
+                }
+            ],
+            [
+                {
+                    "country": "MEX",
+                    "name": "Gilberto CARDOSO"
+                },
+                {
+                    "country": "CAN",
+                    "name": "Sava ANTIC"
+                },
+                {
+                    "winner": "Gilberto CARDOSO"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "ROU",
+                    "name": "Laszlo DAVID"
+                },
+                {
+                    "country": "MEX",
+                    "name": "Gilberto CARDOSO"
+                }
+            ],
+            [
+                {
+                    "country": "MEX",
+                    "name": "Gilberto CARDOSO"
+                }
+            ]
+        ]
+    }
+}

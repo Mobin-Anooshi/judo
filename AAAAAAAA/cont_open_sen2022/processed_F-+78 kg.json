@@ -1,0 +1,135 @@
+{
+    "POOL A": {
+        "round 1-1": [],
+        "final_winner": "Monica SAGNA"
+    },
+    "POOL B": {
+        "round 1-1": [
+            [
+                {
+                    "country": "MTN",
+                    "name": "Fatimetou SY"
+                },
+                {
+                    "country": "CIV",
+                    "name": "Marie Claude POLNEAU"
+                }
+            ]
+        ],
+        "final_winner": "Marie Claude POLNEAU"
+    },
+    "POOL C": {
+        "round 1-1": [],
+        "final_winner": "Crislayn RODRIGUES"
+    },
+    "POOL D": {
+        "round 1-1": [
+            [
+                {
+                    "country": "GBR",
+                    "name": "Sarah BARRITT"
+                },
+                {
+                    "country": "SEN",
+                    "name": "Georgette SAGNA"
+                }
+            ]
+        ],
+        "final_winner": "Georgette SAGNA"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "MTN",
+                    "name": "Fatimetou SY"
+                }
+            ],
+            [
+                {
+                    "country": "GBR",
+                    "name": "Sarah BARRITT"
+                }
+            ],
+            [
+                {
+                    "country": "MTN",
+                    "name": "Fatimetou SY"
+                },
+                {
+                    "country": "ANG",
+                    "name": "Crislayn RODRIGUES"
+                },
+                {
+                    "winner": "Crislayn RODRIGUES"
+                }
+            ],
+            [
+                {
+                    "country": "GBR",
+                    "name": "Sarah BARRITT"
+                },
+                {
+                    "country": "CIV",
+                    "name": "Marie Claude POLNEAU"
+                },
+                {
+                    "winner": "Sarah BARRITT"
+                }
+            ],
+            [
+                {
+                    "country": "ANG",
+                    "name": "Crislayn RODRIGUES"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Sarah BARRITT",
+            "Crislayn RODRIGUES"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "SEN",
+                    "name": "Monica SAGNA"
+                },
+                {
+                    "country": "CIV",
+                    "name": "Marie Claude POLNEAU"
+                },
+                {
+                    "winner": "Monica SAGNA"
+                }
+            ],
+            [
+                {
+                    "country": "ANG",
+                    "name": "Crislayn RODRIGUES"
+                },
+                {
+                    "country": "SEN",
+                    "name": "Georgette SAGNA"
+                },
+                {
+                    "winner": "Georgette SAGNA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "SEN",
+                    "name": "Monica SAGNA"
+                },
+                {
+                    "country": "SEN",
+                    "name": "Georgette SAGNA"
+                }
+            ]
+        ],
+        "final_winner": "Monica SAGNA"
+    }
+}

@@ -1,0 +1,265 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "AUS",
+                    "name": "Eoin COUGHLAN"
+                },
+                {
+                    "winner": "Eoin COUGHLAN"
+                }
+            ],
+            [
+                {
+                    "country": "KOR",
+                    "name": "Hae joo JUNG"
+                },
+                {
+                    "country": "PHI",
+                    "name": "Marco TUMAMPAD"
+                },
+                {
+                    "winner": "Hae joo JUNG"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "AUS",
+                    "name": "Eoin COUGHLAN"
+                },
+                {
+                    "country": "KOR",
+                    "name": "Hae joo JUNG"
+                }
+            ]
+        ],
+        "final_winner": "Hae joo JUNG"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "KOR",
+                    "name": "Junseong LEE"
+                },
+                {
+                    "winner": "Junseong LEE"
+                }
+            ],
+            [
+                {
+                    "country": "JPN",
+                    "name": "Taiki MATSUI"
+                },
+                {
+                    "winner": "Taiki MATSUI"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "KOR",
+                    "name": "Junseong LEE"
+                },
+                {
+                    "country": "JPN",
+                    "name": "Taiki MATSUI"
+                }
+            ]
+        ],
+        "final_winner": "Junseong LEE"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "NZL",
+                    "name": "Elliott CONNOLLY"
+                },
+                {
+                    "winner": "Elliott CONNOLLY"
+                }
+            ],
+            [
+                {
+                    "country": "VIE",
+                    "name": "Minh Quan BUI"
+                },
+                {
+                    "country": "KOR",
+                    "name": "Sangjun LEE"
+                },
+                {
+                    "winner": "Sangjun LEE"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "NZL",
+                    "name": "Elliott CONNOLLY"
+                },
+                {
+                    "country": "KOR",
+                    "name": "Sangjun LEE"
+                }
+            ]
+        ],
+        "final_winner": "Sangjun LEE"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "KOR",
+                    "name": "Young Jun LEE"
+                },
+                {
+                    "winner": "Young Jun LEE"
+                }
+            ],
+            [
+                {
+                    "country": "TPE",
+                    "name": "Shang Chin CHUANG"
+                },
+                {
+                    "winner": "Shang Chin CHUANG"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "KOR",
+                    "name": "Young Jun LEE"
+                },
+                {
+                    "country": "TPE",
+                    "name": "Shang Chin CHUANG"
+                }
+            ]
+        ],
+        "final_winner": "Young Jun LEE"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "AUS",
+                    "name": "Eoin COUGHLAN"
+                },
+                {
+                    "country": "JPN",
+                    "name": "Taiki MATSUI"
+                },
+                {
+                    "winner": "Eoin COUGHLAN"
+                }
+            ],
+            [
+                {
+                    "country": "NZL",
+                    "name": "Elliott CONNOLLY"
+                },
+                {
+                    "country": "TPE",
+                    "name": "Shang Chin CHUANG"
+                },
+                {
+                    "winner": "Shang Chin CHUANG"
+                }
+            ],
+            [
+                {
+                    "country": "AUS",
+                    "name": "Eoin COUGHLAN"
+                },
+                {
+                    "country": "KOR",
+                    "name": "Sangjun LEE"
+                },
+                {
+                    "winner": "Sangjun LEE"
+                }
+            ],
+            [
+                {
+                    "country": "TPE",
+                    "name": "Shang Chin CHUANG"
+                },
+                {
+                    "country": "KOR",
+                    "name": "Junseong LEE"
+                },
+                {
+                    "winner": "Junseong LEE"
+                }
+            ],
+            [
+                {
+                    "country": "KOR",
+                    "name": "Sangjun LEE"
+                }
+            ],
+            [
+                {
+                    "country": "KOR",
+                    "name": "Junseong LEE"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Sangjun LEE",
+            "Junseong LEE"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "KOR",
+                    "name": "Hae joo JUNG"
+                },
+                {
+                    "country": "KOR",
+                    "name": "Junseong LEE"
+                },
+                {
+                    "winner": "Hae joo JUNG"
+                }
+            ],
+            [
+                {
+                    "country": "KOR",
+                    "name": "Sangjun LEE"
+                },
+                {
+                    "country": "KOR",
+                    "name": "Young Jun LEE"
+                },
+                {
+                    "winner": "Young Jun LEE"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "KOR",
+                    "name": "Hae joo JUNG"
+                },
+                {
+                    "country": "KOR",
+                    "name": "Young Jun LEE"
+                }
+            ]
+        ],
+        "final_winner": "Hae joo JUNG"
+    }
+}

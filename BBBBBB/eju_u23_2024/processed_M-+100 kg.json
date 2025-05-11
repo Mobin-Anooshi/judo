@@ -1,0 +1,285 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "GEO",
+                    "name": "Irakli DEMETRASHVILI"
+                },
+                {
+                    "winner": "Irakli DEMETRASHVILI"
+                }
+            ],
+            [
+                {
+                    "country": "GER",
+                    "name": "Paavo PLOEHNERT"
+                },
+                {
+                    "country": "UKR",
+                    "name": "Mykola HRYBYK"
+                },
+                {
+                    "winner": "Mykola HRYBYK"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "GEO",
+                    "name": "Irakli DEMETRASHVILI"
+                },
+                {
+                    "country": "UKR",
+                    "name": "Mykola HRYBYK"
+                }
+            ]
+        ],
+        "final_winner": "Irakli DEMETRASHVILI"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ISR",
+                    "name": "Evgeny SHMACHILIN"
+                },
+                {
+                    "country": "EST",
+                    "name": "Marek-Adrian MASAK"
+                },
+                {
+                    "winner": "Marek-Adrian MASAK"
+                }
+            ],
+            [
+                {
+                    "country": "GER",
+                    "name": "Daniel UDSILAURI"
+                },
+                {
+                    "country": "SRB",
+                    "name": "Andrija STOSIC"
+                },
+                {
+                    "winner": "Daniel UDSILAURI"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "EST",
+                    "name": "Marek-Adrian MASAK"
+                },
+                {
+                    "country": "GER",
+                    "name": "Daniel UDSILAURI"
+                }
+            ]
+        ],
+        "final_winner": "Daniel UDSILAURI"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "POL",
+                    "name": "Grzegorz TERESINSKI"
+                },
+                {
+                    "country": "ROU",
+                    "name": "Darius DOBRE"
+                },
+                {
+                    "winner": "Grzegorz TERESINSKI"
+                }
+            ],
+            [
+                {
+                    "country": "EST",
+                    "name": "Karl PRIILINN TURK"
+                },
+                {
+                    "country": "GRE",
+                    "name": "Aristotelis KOUKIOTIS"
+                },
+                {
+                    "winner": "Karl PRIILINN TURK"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "POL",
+                    "name": "Grzegorz TERESINSKI"
+                },
+                {
+                    "country": "EST",
+                    "name": "Karl PRIILINN TURK"
+                }
+            ]
+        ],
+        "final_winner": "Grzegorz TERESINSKI"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "AZE",
+                    "name": "Kanan NASIBOV"
+                },
+                {
+                    "country": "GEO",
+                    "name": "Saba KARDAVA"
+                },
+                {
+                    "winner": "Kanan NASIBOV"
+                }
+            ],
+            [
+                {
+                    "country": "POL",
+                    "name": "Jakub SORDYL"
+                },
+                {
+                    "country": "NED",
+                    "name": "Jules BLOM"
+                },
+                {
+                    "winner": "Jakub SORDYL"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "AZE",
+                    "name": "Kanan NASIBOV"
+                },
+                {
+                    "country": "POL",
+                    "name": "Jakub SORDYL"
+                }
+            ]
+        ],
+        "final_winner": "Kanan NASIBOV"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "UKR",
+                    "name": "Mykola HRYBYK"
+                },
+                {
+                    "country": "EST",
+                    "name": "Marek-Adrian MASAK"
+                },
+                {
+                    "winner": "Marek-Adrian MASAK"
+                }
+            ],
+            [
+                {
+                    "country": "EST",
+                    "name": "Karl PRIILINN TURK"
+                },
+                {
+                    "country": "POL",
+                    "name": "Jakub SORDYL"
+                },
+                {
+                    "winner": "Karl PRIILINN TURK"
+                }
+            ],
+            [
+                {
+                    "country": "EST",
+                    "name": "Marek-Adrian MASAK"
+                },
+                {
+                    "country": "AZE",
+                    "name": "Kanan NASIBOV"
+                },
+                {
+                    "winner": "Marek-Adrian MASAK"
+                }
+            ],
+            [
+                {
+                    "country": "EST",
+                    "name": "Karl PRIILINN TURK"
+                },
+                {
+                    "country": "GER",
+                    "name": "Daniel UDSILAURI"
+                },
+                {
+                    "winner": "Daniel UDSILAURI"
+                }
+            ],
+            [
+                {
+                    "country": "EST",
+                    "name": "Marek-Adrian MASAK"
+                }
+            ],
+            [
+                {
+                    "country": "GER",
+                    "name": "Daniel UDSILAURI"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Marek-Adrian MASAK",
+            "Daniel UDSILAURI"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "GEO",
+                    "name": "Irakli DEMETRASHVILI"
+                },
+                {
+                    "country": "GER",
+                    "name": "Daniel UDSILAURI"
+                },
+                {
+                    "winner": "Irakli DEMETRASHVILI"
+                }
+            ],
+            [
+                {
+                    "country": "POL",
+                    "name": "Grzegorz TERESINSKI"
+                },
+                {
+                    "country": "AZE",
+                    "name": "Kanan NASIBOV"
+                },
+                {
+                    "winner": "Grzegorz TERESINSKI"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "GEO",
+                    "name": "Irakli DEMETRASHVILI"
+                },
+                {
+                    "country": "POL",
+                    "name": "Grzegorz TERESINSKI"
+                }
+            ]
+        ],
+        "final_winner": "Irakli DEMETRASHVILI"
+    }
+}

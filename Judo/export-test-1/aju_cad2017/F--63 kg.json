@@ -1,0 +1,135 @@
+{
+    "POOL A": {
+        "round 1-1": [],
+        "final_winner": "Mariem KHLIFI"
+    },
+    "POOL B": {
+        "round 1-1": [
+            [
+                {
+                    "country": "RSA",
+                    "name": "Jasmine MARTIN"
+                },
+                {
+                    "country": "EGY",
+                    "name": "Shehata AFNAN"
+                }
+            ]
+        ],
+        "final_winner": "Jasmine MARTIN"
+    },
+    "POOL C": {
+        "round 1-1": [],
+        "final_winner": "Anna Siga FAYE"
+    },
+    "POOL D": {
+        "round 1-1": [
+            [
+                {
+                    "country": "ALG",
+                    "name": "Yasmina AIT RAMDANE"
+                },
+                {
+                    "country": "EGY",
+                    "name": "Abdallah SALMA"
+                }
+            ]
+        ],
+        "final_winner": "Abdallah SALMA"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "EGY",
+                    "name": "Shehata AFNAN"
+                }
+            ],
+            [
+                {
+                    "country": "ALG",
+                    "name": "Yasmina AIT RAMDANE"
+                }
+            ],
+            [
+                {
+                    "country": "EGY",
+                    "name": "Shehata AFNAN"
+                },
+                {
+                    "country": "EGY",
+                    "name": "Abdallah SALMA"
+                },
+                {
+                    "winner": "Shehata AFNAN"
+                }
+            ],
+            [
+                {
+                    "country": "ALG",
+                    "name": "Yasmina AIT RAMDANE"
+                },
+                {
+                    "country": "RSA",
+                    "name": "Jasmine MARTIN"
+                },
+                {
+                    "winner": "Jasmine MARTIN"
+                }
+            ],
+            [
+                {
+                    "country": "RSA",
+                    "name": "Jasmine MARTIN"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Yasmina AIT RAMDANE",
+            "Shehata AFNAN"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "TUN",
+                    "name": "Mariem KHLIFI"
+                },
+                {
+                    "country": "RSA",
+                    "name": "Jasmine MARTIN"
+                },
+                {
+                    "winner": "Mariem KHLIFI"
+                }
+            ],
+            [
+                {
+                    "country": "SEN",
+                    "name": "Anna Siga FAYE"
+                },
+                {
+                    "country": "EGY",
+                    "name": "Abdallah SALMA"
+                },
+                {
+                    "winner": "Anna Siga FAYE"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "TUN",
+                    "name": "Mariem KHLIFI"
+                },
+                {
+                    "country": "SEN",
+                    "name": "Anna Siga FAYE"
+                }
+            ]
+        ],
+        "final_winner": "Mariem KHLIFI"
+    }
+}

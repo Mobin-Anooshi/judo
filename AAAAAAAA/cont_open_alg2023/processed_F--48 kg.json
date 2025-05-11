@@ -1,0 +1,177 @@
+{
+    "POOL A": {
+        "round 1-1": [
+            [
+                {
+                    "country": "TUN",
+                    "name": "Oumaima BEDIOUI"
+                },
+                {
+                    "country": "ALG",
+                    "name": "Ouahiba LARKECHE"
+                }
+            ]
+        ],
+        "final_winner": "Oumaima BEDIOUI"
+    },
+    "POOL B": {
+        "round 1-1": [
+            [
+                {
+                    "country": "MLT",
+                    "name": "Katryna ESPOSITO"
+                },
+                {
+                    "country": "ALG",
+                    "name": "Nesrine HADEL"
+                }
+            ]
+        ],
+        "final_winner": "Katryna ESPOSITO"
+    },
+    "POOL C": {
+        "round 1-1": [
+            [
+                {
+                    "country": "ALG",
+                    "name": "Imene REZZOUG"
+                },
+                {
+                    "country": "ALG",
+                    "name": "Houaria KADDOUR"
+                }
+            ]
+        ],
+        "final_winner": "Imene REZZOUG"
+    },
+    "POOL D": {
+        "round 1-1": [
+            [
+                {
+                    "country": "BDI",
+                    "name": "Signoline KANYAMUNEZA"
+                },
+                {
+                    "country": "TUN",
+                    "name": "Amira BEN AYED"
+                }
+            ]
+        ],
+        "final_winner": "Signoline KANYAMUNEZA"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ALG",
+                    "name": "Ouahiba LARKECHE"
+                },
+                {
+                    "country": "ALG",
+                    "name": "Nesrine HADEL"
+                },
+                {
+                    "winner": "Ouahiba LARKECHE"
+                }
+            ],
+            [
+                {
+                    "country": "ALG",
+                    "name": "Houaria KADDOUR"
+                },
+                {
+                    "country": "TUN",
+                    "name": "Amira BEN AYED"
+                },
+                {
+                    "winner": "Houaria KADDOUR"
+                }
+            ],
+            [
+                {
+                    "country": "ALG",
+                    "name": "Ouahiba LARKECHE"
+                },
+                {
+                    "country": "BDI",
+                    "name": "Signoline KANYAMUNEZA"
+                },
+                {
+                    "winner": "Signoline KANYAMUNEZA"
+                }
+            ],
+            [
+                {
+                    "country": "ALG",
+                    "name": "Houaria KADDOUR"
+                },
+                {
+                    "country": "MLT",
+                    "name": "Katryna ESPOSITO"
+                },
+                {
+                    "winner": "Katryna ESPOSITO"
+                }
+            ],
+            [
+                {
+                    "country": "BDI",
+                    "name": "Signoline KANYAMUNEZA"
+                }
+            ],
+            [
+                {
+                    "country": "MLT",
+                    "name": "Katryna ESPOSITO"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Signoline KANYAMUNEZA",
+            "Katryna ESPOSITO"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "TUN",
+                    "name": "Oumaima BEDIOUI"
+                },
+                {
+                    "country": "MLT",
+                    "name": "Katryna ESPOSITO"
+                },
+                {
+                    "winner": "Oumaima BEDIOUI"
+                }
+            ],
+            [
+                {
+                    "country": "ALG",
+                    "name": "Imene REZZOUG"
+                },
+                {
+                    "country": "BDI",
+                    "name": "Signoline KANYAMUNEZA"
+                },
+                {
+                    "winner": "Imene REZZOUG"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "TUN",
+                    "name": "Oumaima BEDIOUI"
+                },
+                {
+                    "country": "ALG",
+                    "name": "Imene REZZOUG"
+                }
+            ]
+        ],
+        "final_winner": "Oumaima BEDIOUI"
+    }
+}

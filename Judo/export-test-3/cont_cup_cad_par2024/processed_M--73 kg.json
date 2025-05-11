@@ -1,0 +1,68 @@
+{
+    "ROUND 1": {
+        "round 1-2": [
+            [
+                {
+                    "country": "URU",
+                    "name": "Paolo Alberto SILVA MANZI"
+                },
+                {
+                    "country": "CHI",
+                    "name": "Matias SANDOVAL"
+                },
+                {
+                    "winner": "Paolo Alberto SILVA MANZI"
+                }
+            ],
+            [
+                {
+                    "country": "ECU",
+                    "name": "Alfredo VALDIVIESO"
+                },
+                {
+                    "country": "URU",
+                    "name": "Martin BONE MALDONADO"
+                },
+                {
+                    "winner": "Alfredo VALDIVIESO"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Paolo Alberto SILVA MANZI",
+            "Alfredo VALDIVIESO"
+        ]
+    },
+    "REPECHAGE": {
+        "round 1-1": [
+            [
+                {
+                    "country": "CHI",
+                    "name": "Matias SANDOVAL"
+                },
+                {
+                    "country": "URU",
+                    "name": "Martin BONE MALDONADO"
+                },
+                {
+                    "winner": "Matias SANDOVAL"
+                }
+            ],
+            [
+                {
+                    "country": "CHI",
+                    "name": "Matias SANDOVAL"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Matias SANDOVAL"
+        ]
+    },
+    "FINALS": {
+        "round 1-1": [],
+        "final_winners": [
+            "Alfredo VALDIVIESO"
+        ]
+    }
+}

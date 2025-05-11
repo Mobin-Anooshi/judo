@@ -1,0 +1,177 @@
+{
+    "POOL A": {
+        "round 1-1": [
+            [
+                {
+                    "country": "GER",
+                    "name": "Helena GRAU"
+                },
+                {
+                    "country": "HUN",
+                    "name": "Szabina SZELECZKI"
+                }
+            ]
+        ],
+        "final_winner": "Helena GRAU"
+    },
+    "POOL B": {
+        "round 1-1": [
+            [
+                {
+                    "country": "HUN",
+                    "name": "Rebeka Rita KOSZEGI"
+                },
+                {
+                    "country": "BIH",
+                    "name": "Narin HANDAN"
+                }
+            ]
+        ],
+        "final_winner": "Rebeka Rita KOSZEGI"
+    },
+    "POOL C": {
+        "round 1-1": [
+            [
+                {
+                    "country": "POL",
+                    "name": "Natalia STOKLOSA"
+                },
+                {
+                    "country": "TUR",
+                    "name": "Melisa ARSLAN"
+                }
+            ]
+        ],
+        "final_winner": "Melisa ARSLAN"
+    },
+    "POOL D": {
+        "round 1-1": [
+            [
+                {
+                    "country": "BEL",
+                    "name": "Jente VERSTRAETEN"
+                },
+                {
+                    "country": "HUN",
+                    "name": "Fanni VASKA"
+                }
+            ]
+        ],
+        "final_winner": "Jente VERSTRAETEN"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "HUN",
+                    "name": "Szabina SZELECZKI"
+                },
+                {
+                    "country": "BIH",
+                    "name": "Narin HANDAN"
+                },
+                {
+                    "winner": "Szabina SZELECZKI"
+                }
+            ],
+            [
+                {
+                    "country": "POL",
+                    "name": "Natalia STOKLOSA"
+                },
+                {
+                    "country": "HUN",
+                    "name": "Fanni VASKA"
+                },
+                {
+                    "winner": "Natalia STOKLOSA"
+                }
+            ],
+            [
+                {
+                    "country": "HUN",
+                    "name": "Szabina SZELECZKI"
+                },
+                {
+                    "country": "TUR",
+                    "name": "Melisa ARSLAN"
+                },
+                {
+                    "winner": "Melisa ARSLAN"
+                }
+            ],
+            [
+                {
+                    "country": "POL",
+                    "name": "Natalia STOKLOSA"
+                },
+                {
+                    "country": "GER",
+                    "name": "Helena GRAU"
+                },
+                {
+                    "winner": "Helena GRAU"
+                }
+            ],
+            [
+                {
+                    "country": "TUR",
+                    "name": "Melisa ARSLAN"
+                }
+            ],
+            [
+                {
+                    "country": "GER",
+                    "name": "Helena GRAU"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Melisa ARSLAN",
+            "Helena GRAU"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "GER",
+                    "name": "Helena GRAU"
+                },
+                {
+                    "country": "HUN",
+                    "name": "Rebeka Rita KOSZEGI"
+                },
+                {
+                    "winner": "Rebeka Rita KOSZEGI"
+                }
+            ],
+            [
+                {
+                    "country": "TUR",
+                    "name": "Melisa ARSLAN"
+                },
+                {
+                    "country": "BEL",
+                    "name": "Jente VERSTRAETEN"
+                },
+                {
+                    "winner": "Jente VERSTRAETEN"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "HUN",
+                    "name": "Rebeka Rita KOSZEGI"
+                },
+                {
+                    "country": "BEL",
+                    "name": "Jente VERSTRAETEN"
+                }
+            ]
+        ],
+        "final_winner": "Rebeka Rita KOSZEGI"
+    }
+}

@@ -1,0 +1,177 @@
+{
+    "POOL A": {
+        "round 1-1": [
+            [
+                {
+                    "country": "CYP",
+                    "name": "Odysseas GEORGAKIS"
+                },
+                {
+                    "country": "SMR",
+                    "name": "Ciro BOGARI MASSINA"
+                }
+            ]
+        ],
+        "final_winner": "Odysseas GEORGAKIS"
+    },
+    "POOL B": {
+        "round 1-1": [
+            [
+                {
+                    "country": "CYP",
+                    "name": "Panagiotis SHAKOS"
+                },
+                {
+                    "country": "LUX",
+                    "name": "Claudio NUNES DOS SANTOS"
+                }
+            ]
+        ],
+        "final_winner": "Claudio NUNES DOS SANTOS"
+    },
+    "POOL C": {
+        "round 1-1": [
+            [
+                {
+                    "country": "CYP",
+                    "name": "Petros KESOV"
+                },
+                {
+                    "country": "LUX",
+                    "name": "Bilgee BAYANAA"
+                }
+            ]
+        ],
+        "final_winner": "Bilgee BAYANAA"
+    },
+    "POOL D": {
+        "round 1-1": [
+            [
+                {
+                    "country": "AND",
+                    "name": "Joaquim TOMAS"
+                },
+                {
+                    "country": "CYP",
+                    "name": "Miltiadis CHARALAMPOUS"
+                }
+            ]
+        ],
+        "final_winner": "Miltiadis CHARALAMPOUS"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "SMR",
+                    "name": "Ciro BOGARI MASSINA"
+                },
+                {
+                    "country": "CYP",
+                    "name": "Panagiotis SHAKOS"
+                },
+                {
+                    "winner": "Panagiotis SHAKOS"
+                }
+            ],
+            [
+                {
+                    "country": "CYP",
+                    "name": "Petros KESOV"
+                },
+                {
+                    "country": "AND",
+                    "name": "Joaquim TOMAS"
+                },
+                {
+                    "winner": "Joaquim TOMAS"
+                }
+            ],
+            [
+                {
+                    "country": "CYP",
+                    "name": "Panagiotis SHAKOS"
+                },
+                {
+                    "country": "CYP",
+                    "name": "Miltiadis CHARALAMPOUS"
+                },
+                {
+                    "winner": "Panagiotis SHAKOS"
+                }
+            ],
+            [
+                {
+                    "country": "AND",
+                    "name": "Joaquim TOMAS"
+                },
+                {
+                    "country": "CYP",
+                    "name": "Odysseas GEORGAKIS"
+                },
+                {
+                    "winner": "Odysseas GEORGAKIS"
+                }
+            ],
+            [
+                {
+                    "country": "CYP",
+                    "name": "Panagiotis SHAKOS"
+                }
+            ],
+            [
+                {
+                    "country": "CYP",
+                    "name": "Odysseas GEORGAKIS"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Panagiotis SHAKOS",
+            "Odysseas GEORGAKIS"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CYP",
+                    "name": "Odysseas GEORGAKIS"
+                },
+                {
+                    "country": "LUX",
+                    "name": "Claudio NUNES DOS SANTOS"
+                },
+                {
+                    "winner": "Claudio NUNES DOS SANTOS"
+                }
+            ],
+            [
+                {
+                    "country": "LUX",
+                    "name": "Bilgee BAYANAA"
+                },
+                {
+                    "country": "CYP",
+                    "name": "Miltiadis CHARALAMPOUS"
+                },
+                {
+                    "winner": "Bilgee BAYANAA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "LUX",
+                    "name": "Claudio NUNES DOS SANTOS"
+                },
+                {
+                    "country": "LUX",
+                    "name": "Bilgee BAYANAA"
+                }
+            ]
+        ],
+        "final_winner": "Claudio NUNES DOS SANTOS"
+    }
+}

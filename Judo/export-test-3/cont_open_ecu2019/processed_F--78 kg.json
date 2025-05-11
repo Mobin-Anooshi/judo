@@ -1,0 +1,68 @@
+{
+    "ROUND 1": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ECU",
+                    "name": "Vanessa CHALA"
+                },
+                {
+                    "country": "ECU",
+                    "name": "Denisse CUERO"
+                },
+                {
+                    "winner": "Vanessa CHALA"
+                }
+            ],
+            [
+                {
+                    "country": "PER",
+                    "name": "Camila FIGUEROA"
+                },
+                {
+                    "country": "ECU",
+                    "name": "Sandra RAMIREZ"
+                },
+                {
+                    "winner": "Camila FIGUEROA"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Vanessa CHALA",
+            "Camila FIGUEROA"
+        ]
+    },
+    "REPECHAGE": {
+        "round 1-1": [
+            [
+                {
+                    "country": "ECU",
+                    "name": "Denisse CUERO"
+                },
+                {
+                    "country": "ECU",
+                    "name": "Sandra RAMIREZ"
+                },
+                {
+                    "winner": "Denisse CUERO"
+                }
+            ],
+            [
+                {
+                    "country": "ECU",
+                    "name": "Denisse CUERO"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Denisse CUERO"
+        ]
+    },
+    "FINALS": {
+        "round 1-1": [],
+        "final_winners": [
+            "Vanessa CHALA"
+        ]
+    }
+}

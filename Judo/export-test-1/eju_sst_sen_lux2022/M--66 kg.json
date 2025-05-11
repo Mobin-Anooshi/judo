@@ -1,0 +1,153 @@
+{
+    "POOL A": {
+        "round 1-1": [],
+        "final_winner": "Georgios BALARJISHVILI"
+    },
+    "POOL B": {
+        "round 1-1": [
+            [
+                {
+                    "country": "CYP",
+                    "name": "Iakovos KURAULI"
+                },
+                {
+                    "country": "LIE",
+                    "name": "Tristan FREI"
+                }
+            ]
+        ],
+        "final_winner": "Tristan FREI"
+    },
+    "POOL C": {
+        "round 1-1": [
+            [
+                {
+                    "country": "ISL",
+                    "name": "Ingolfur ROGNVALDSSON"
+                },
+                {
+                    "country": "CYP",
+                    "name": "Konstantinos GEORGIOU"
+                }
+            ]
+        ],
+        "final_winner": "Konstantinos GEORGIOU"
+    },
+    "POOL D": {
+        "round 1-1": [
+            [
+                {
+                    "country": "FRO",
+                    "name": "Fridi Magnusson CARLSSON"
+                },
+                {
+                    "country": "CYP",
+                    "name": "Anastasios IOANNOU"
+                }
+            ]
+        ],
+        "final_winner": "Anastasios IOANNOU"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CYP",
+                    "name": "Iakovos KURAULI"
+                }
+            ],
+            [
+                {
+                    "country": "ISL",
+                    "name": "Ingolfur ROGNVALDSSON"
+                },
+                {
+                    "country": "FRO",
+                    "name": "Fridi Magnusson CARLSSON"
+                },
+                {
+                    "winner": "Fridi Magnusson CARLSSON"
+                }
+            ],
+            [
+                {
+                    "country": "CYP",
+                    "name": "Iakovos KURAULI"
+                },
+                {
+                    "country": "CYP",
+                    "name": "Anastasios IOANNOU"
+                },
+                {
+                    "winner": "Iakovos KURAULI"
+                }
+            ],
+            [
+                {
+                    "country": "FRO",
+                    "name": "Fridi Magnusson CARLSSON"
+                },
+                {
+                    "country": "LIE",
+                    "name": "Tristan FREI"
+                },
+                {
+                    "winner": "Tristan FREI"
+                }
+            ],
+            [
+                {
+                    "country": "LIE",
+                    "name": "Tristan FREI"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Fridi Magnusson CARLSSON",
+            "Iakovos KURAULI"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CYP",
+                    "name": "Georgios BALARJISHVILI"
+                },
+                {
+                    "country": "LIE",
+                    "name": "Tristan FREI"
+                },
+                {
+                    "winner": "Georgios BALARJISHVILI"
+                }
+            ],
+            [
+                {
+                    "country": "CYP",
+                    "name": "Konstantinos GEORGIOU"
+                },
+                {
+                    "country": "CYP",
+                    "name": "Anastasios IOANNOU"
+                },
+                {
+                    "winner": "Konstantinos GEORGIOU"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "CYP",
+                    "name": "Georgios BALARJISHVILI"
+                },
+                {
+                    "country": "CYP",
+                    "name": "Konstantinos GEORGIOU"
+                }
+            ]
+        ],
+        "final_winner": "Georgios BALARJISHVILI"
+    }
+}

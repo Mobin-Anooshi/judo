@@ -1,0 +1,68 @@
+{
+    "ROUND 1": {
+        "round 1-2": [
+            [
+                {
+                    "country": "AUS",
+                    "name": "Abigail PADUCH"
+                },
+                {
+                    "country": "AUS",
+                    "name": "Samantha CONSTANTINIDIS"
+                },
+                {
+                    "winner": "Abigail PADUCH"
+                }
+            ],
+            [
+                {
+                    "country": "AUS",
+                    "name": "Alexia HAMILTON"
+                },
+                {
+                    "country": "AUS",
+                    "name": "Francis NEWMAN"
+                },
+                {
+                    "winner": "Alexia HAMILTON"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Abigail PADUCH",
+            "Alexia HAMILTON"
+        ]
+    },
+    "REPECHAGE": {
+        "round 1-1": [
+            [
+                {
+                    "country": "AUS",
+                    "name": "Samantha CONSTANTINIDIS"
+                },
+                {
+                    "country": "AUS",
+                    "name": "Francis NEWMAN"
+                },
+                {
+                    "winner": "Francis NEWMAN"
+                }
+            ],
+            [
+                {
+                    "country": "AUS",
+                    "name": "Francis NEWMAN"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Francis NEWMAN"
+        ]
+    },
+    "FINALS": {
+        "round 1-1": [],
+        "final_winners": [
+            "Abigail PADUCH"
+        ]
+    }
+}

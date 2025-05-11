@@ -1,0 +1,246 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "USA",
+                    "name": "Yasmin ALAMIN"
+                },
+                {
+                    "winner": "Yasmin ALAMIN"
+                }
+            ],
+            [
+                {
+                    "country": "IJF",
+                    "name": "Hanna SITNIK"
+                },
+                {
+                    "country": "ALG",
+                    "name": "Louiza ICHALLAL"
+                },
+                {
+                    "winner": "Hanna SITNIK"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "USA",
+                    "name": "Yasmin ALAMIN"
+                },
+                {
+                    "country": "IJF",
+                    "name": "Hanna SITNIK"
+                }
+            ]
+        ],
+        "final_winner": "Hanna SITNIK"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "TUN",
+                    "name": "Wided RAJHID"
+                },
+                {
+                    "winner": "Wided RAJHID"
+                }
+            ],
+            [
+                {
+                    "country": "GBR",
+                    "name": "Holly DEVALL"
+                },
+                {
+                    "country": "ALG",
+                    "name": "Chanez ALIOUANE"
+                },
+                {
+                    "winner": "Holly DEVALL"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "TUN",
+                    "name": "Wided RAJHID"
+                },
+                {
+                    "country": "GBR",
+                    "name": "Holly DEVALL"
+                }
+            ]
+        ],
+        "final_winner": "Wided RAJHID"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "USA",
+                    "name": "Isabella GARRIGA"
+                },
+                {
+                    "winner": "Isabella GARRIGA"
+                }
+            ],
+            [
+                {
+                    "country": "BOT",
+                    "name": "Neo NOGAMPE"
+                },
+                {
+                    "country": "GBR",
+                    "name": "Paige KEANE"
+                }
+            ]
+        ],
+        "round 1-1": [],
+        "final_winner": "Isabella GARRIGA"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ROU",
+                    "name": "Maidelines GORGUET-VERANES"
+                },
+                {
+                    "winner": "Maidelines GORGUET-VERANES"
+                }
+            ],
+            [
+                {
+                    "country": "TUN",
+                    "name": "Aya GUIZENI"
+                },
+                {
+                    "country": "ALG",
+                    "name": "Nardjis KHACIR"
+                },
+                {
+                    "winner": "Nardjis KHACIR"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "ROU",
+                    "name": "Maidelines GORGUET-VERANES"
+                },
+                {
+                    "country": "ALG",
+                    "name": "Nardjis KHACIR"
+                }
+            ]
+        ],
+        "final_winner": "Maidelines GORGUET-VERANES"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "USA",
+                    "name": "Yasmin ALAMIN"
+                },
+                {
+                    "country": "GBR",
+                    "name": "Holly DEVALL"
+                },
+                {
+                    "winner": "Holly DEVALL"
+                }
+            ],
+            [
+                {
+                    "country": "ALG",
+                    "name": "Nardjis KHACIR"
+                }
+            ],
+            [
+                {
+                    "country": "GBR",
+                    "name": "Holly DEVALL"
+                },
+                {
+                    "country": "ROU",
+                    "name": "Maidelines GORGUET-VERANES"
+                },
+                {
+                    "winner": "Holly DEVALL"
+                }
+            ],
+            [
+                {
+                    "country": "ALG",
+                    "name": "Nardjis KHACIR"
+                },
+                {
+                    "country": "TUN",
+                    "name": "Wided RAJHID"
+                },
+                {
+                    "winner": "Nardjis KHACIR"
+                }
+            ],
+            [
+                {
+                    "country": "GBR",
+                    "name": "Holly DEVALL"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Nardjis KHACIR",
+            "Holly DEVALL"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "IJF",
+                    "name": "Hanna SITNIK"
+                },
+                {
+                    "country": "TUN",
+                    "name": "Wided RAJHID"
+                },
+                {
+                    "winner": "Hanna SITNIK"
+                }
+            ],
+            [
+                {
+                    "country": "USA",
+                    "name": "Isabella GARRIGA"
+                },
+                {
+                    "country": "ROU",
+                    "name": "Maidelines GORGUET-VERANES"
+                },
+                {
+                    "winner": "Isabella GARRIGA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "IJF",
+                    "name": "Hanna SITNIK"
+                },
+                {
+                    "country": "USA",
+                    "name": "Isabella GARRIGA"
+                }
+            ]
+        ],
+        "final_winner": "Hanna SITNIK"
+    }
+}

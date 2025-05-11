@@ -1,0 +1,87 @@
+{
+    "POOL A": {
+        "round 1-3": [
+            [
+                {
+                    "country": "KOR",
+                    "name": "Wonho CHOI"
+                },
+                {
+                    "country": "PHI",
+                    "name": "George Angelo BACLAGAN"
+                },
+                {
+                    "winner": "Wonho CHOI"
+                }
+            ],
+            [
+                {
+                    "country": "KOR",
+                    "name": "Wonho CHOI"
+                },
+                {
+                    "country": "KAZ",
+                    "name": "Bekarys SADUAKAS"
+                },
+                {
+                    "winner": "Bekarys SADUAKAS"
+                }
+            ],
+            [
+                {
+                    "country": "PHI",
+                    "name": "George Angelo BACLAGAN"
+                },
+                {
+                    "country": "KAZ",
+                    "name": "Bekarys SADUAKAS"
+                },
+                {
+                    "winner": "Bekarys SADUAKAS"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Wonho CHOI",
+            "Bekarys SADUAKAS"
+        ]
+    },
+    "POOL B": {
+        "round 1-1": [],
+        "final_winners": [
+            "Yeongjae LEE"
+        ]
+    },
+    "REPECHAGE": {
+        "round 1-1": [
+            [
+                {
+                    "country": "KOR",
+                    "name": "Wonho CHOI"
+                },
+                {
+                    "country": "TPE",
+                    "name": "Chang keng LIN"
+                },
+                {
+                    "winner": "Wonho CHOI"
+                }
+            ],
+            [
+                {
+                    "country": "KOR",
+                    "name": "Wonho CHOI"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Wonho CHOI"
+        ]
+    },
+    "FINALS": {
+        "round 1-1": [],
+        "final_winners": [
+            "Bekarys SADUAKAS"
+        ]
+    }
+}

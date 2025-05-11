@@ -1,0 +1,68 @@
+{
+    "ROUND 1": {
+        "round 1-2": [
+            [
+                {
+                    "country": "MEX",
+                    "name": "Omar SILVA"
+                },
+                {
+                    "country": "DOM",
+                    "name": "Victor BATISTA"
+                },
+                {
+                    "winner": "Omar SILVA"
+                }
+            ],
+            [
+                {
+                    "country": "DOM",
+                    "name": "Gabriel MARTE FURMET"
+                },
+                {
+                    "country": "MEX",
+                    "name": "Julian GUTIERREZ"
+                },
+                {
+                    "winner": "Julian GUTIERREZ"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Omar SILVA",
+            "Julian GUTIERREZ"
+        ]
+    },
+    "REPECHAGE": {
+        "round 1-1": [
+            [
+                {
+                    "country": "DOM",
+                    "name": "Victor BATISTA"
+                },
+                {
+                    "country": "DOM",
+                    "name": "Gabriel MARTE FURMET"
+                },
+                {
+                    "winner": "Gabriel MARTE FURMET"
+                }
+            ],
+            [
+                {
+                    "country": "DOM",
+                    "name": "Gabriel MARTE FURMET"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Gabriel MARTE FURMET"
+        ]
+    },
+    "FINALS": {
+        "round 1-1": [],
+        "final_winners": [
+            "Omar SILVA"
+        ]
+    }
+}

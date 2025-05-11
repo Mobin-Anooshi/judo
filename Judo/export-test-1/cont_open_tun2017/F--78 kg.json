@@ -1,0 +1,177 @@
+{
+    "POOL A": {
+        "round 1-1": [
+            [
+                {
+                    "country": "FRA",
+                    "name": "Samah Hawa CAMARA"
+                },
+                {
+                    "country": "ALG",
+                    "name": "Yasmine MELLOUK"
+                }
+            ]
+        ],
+        "final_winner": "Samah Hawa CAMARA"
+    },
+    "POOL B": {
+        "round 1-1": [
+            [
+                {
+                    "country": "FRA",
+                    "name": "Vanessa DUREAU"
+                },
+                {
+                    "country": "MAR",
+                    "name": "Doha MOUIZERH"
+                }
+            ]
+        ],
+        "final_winner": "Vanessa DUREAU"
+    },
+    "POOL C": {
+        "round 1-1": [
+            [
+                {
+                    "country": "TUN",
+                    "name": "Sarra MZOUGUI"
+                },
+                {
+                    "country": "FRA",
+                    "name": "Stessie BASTAREAUD"
+                }
+            ]
+        ],
+        "final_winner": "Sarra MZOUGUI"
+    },
+    "POOL D": {
+        "round 1-1": [
+            [
+                {
+                    "country": "FRA",
+                    "name": "Christelle GARRY"
+                },
+                {
+                    "country": "HUN",
+                    "name": "Evelin SALANKI"
+                }
+            ]
+        ],
+        "final_winner": "Christelle GARRY"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ALG",
+                    "name": "Yasmine MELLOUK"
+                },
+                {
+                    "country": "MAR",
+                    "name": "Doha MOUIZERH"
+                },
+                {
+                    "winner": "Yasmine MELLOUK"
+                }
+            ],
+            [
+                {
+                    "country": "FRA",
+                    "name": "Stessie BASTAREAUD"
+                },
+                {
+                    "country": "HUN",
+                    "name": "Evelin SALANKI"
+                },
+                {
+                    "winner": "Stessie BASTAREAUD"
+                }
+            ],
+            [
+                {
+                    "country": "ALG",
+                    "name": "Yasmine MELLOUK"
+                },
+                {
+                    "country": "TUN",
+                    "name": "Sarra MZOUGUI"
+                },
+                {
+                    "winner": "Sarra MZOUGUI"
+                }
+            ],
+            [
+                {
+                    "country": "FRA",
+                    "name": "Stessie BASTAREAUD"
+                },
+                {
+                    "country": "FRA",
+                    "name": "Vanessa DUREAU"
+                },
+                {
+                    "winner": "Vanessa DUREAU"
+                }
+            ],
+            [
+                {
+                    "country": "TUN",
+                    "name": "Sarra MZOUGUI"
+                }
+            ],
+            [
+                {
+                    "country": "FRA",
+                    "name": "Vanessa DUREAU"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Sarra MZOUGUI",
+            "Vanessa DUREAU"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "FRA",
+                    "name": "Samah Hawa CAMARA"
+                },
+                {
+                    "country": "FRA",
+                    "name": "Vanessa DUREAU"
+                },
+                {
+                    "winner": "Samah Hawa CAMARA"
+                }
+            ],
+            [
+                {
+                    "country": "TUN",
+                    "name": "Sarra MZOUGUI"
+                },
+                {
+                    "country": "FRA",
+                    "name": "Christelle GARRY"
+                },
+                {
+                    "winner": "Christelle GARRY"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "FRA",
+                    "name": "Samah Hawa CAMARA"
+                },
+                {
+                    "country": "FRA",
+                    "name": "Christelle GARRY"
+                }
+            ]
+        ],
+        "final_winner": "Samah Hawa CAMARA"
+    }
+}

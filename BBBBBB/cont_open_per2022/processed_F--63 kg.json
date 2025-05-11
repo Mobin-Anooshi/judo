@@ -1,0 +1,281 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Ketleyn QUADROS"
+                },
+                {
+                    "winner": "Ketleyn QUADROS"
+                }
+            ],
+            [
+                {
+                    "country": "ARG",
+                    "name": "Agustina DE LUCIA"
+                },
+                {
+                    "country": "MEX",
+                    "name": "Julieta PEREZ"
+                },
+                {
+                    "winner": "Agustina DE LUCIA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Ketleyn QUADROS"
+                },
+                {
+                    "country": "ARG",
+                    "name": "Agustina DE LUCIA"
+                }
+            ]
+        ],
+        "final_winner": "Ketleyn QUADROS"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CPV",
+                    "name": "Carolina DELGADO FRANCES"
+                },
+                {
+                    "country": "PER",
+                    "name": "Luciana JULCA"
+                },
+                {
+                    "winner": "Carolina DELGADO FRANCES"
+                }
+            ],
+            [
+                {
+                    "country": "USA",
+                    "name": "Sara GOLDEN"
+                },
+                {
+                    "country": "CHI",
+                    "name": "Allyson QUEVEDO"
+                },
+                {
+                    "winner": "Sara GOLDEN"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "CPV",
+                    "name": "Carolina DELGADO FRANCES"
+                },
+                {
+                    "country": "USA",
+                    "name": "Sara GOLDEN"
+                }
+            ]
+        ],
+        "final_winner": "Carolina DELGADO FRANCES"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "MEX",
+                    "name": "Prisca AWITI ALCARAZ"
+                },
+                {
+                    "winner": "Prisca AWITI ALCARAZ"
+                }
+            ],
+            [
+                {
+                    "country": "CHI",
+                    "name": "Constanza PEREZ"
+                },
+                {
+                    "country": "PER",
+                    "name": "Ariana CORNEJO"
+                },
+                {
+                    "winner": "Ariana CORNEJO"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "MEX",
+                    "name": "Prisca AWITI ALCARAZ"
+                },
+                {
+                    "country": "PER",
+                    "name": "Ariana CORNEJO"
+                }
+            ]
+        ],
+        "final_winner": "Prisca AWITI ALCARAZ"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "COL",
+                    "name": "Cindy MERA"
+                },
+                {
+                    "country": "ARG",
+                    "name": "Fiona CUNEO"
+                },
+                {
+                    "winner": "Fiona CUNEO"
+                }
+            ],
+            [
+                {
+                    "country": "MEX",
+                    "name": "Katia CASTILLO"
+                },
+                {
+                    "country": "CHI",
+                    "name": "Fernanda CORNEJO"
+                },
+                {
+                    "winner": "Katia CASTILLO"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "ARG",
+                    "name": "Fiona CUNEO"
+                },
+                {
+                    "country": "MEX",
+                    "name": "Katia CASTILLO"
+                }
+            ]
+        ],
+        "final_winner": "Katia CASTILLO"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ARG",
+                    "name": "Agustina DE LUCIA"
+                },
+                {
+                    "country": "USA",
+                    "name": "Sara GOLDEN"
+                },
+                {
+                    "winner": "Agustina DE LUCIA"
+                }
+            ],
+            [
+                {
+                    "country": "PER",
+                    "name": "Ariana CORNEJO"
+                },
+                {
+                    "country": "ARG",
+                    "name": "Fiona CUNEO"
+                },
+                {
+                    "winner": "Fiona CUNEO"
+                }
+            ],
+            [
+                {
+                    "country": "ARG",
+                    "name": "Agustina DE LUCIA"
+                },
+                {
+                    "country": "MEX",
+                    "name": "Katia CASTILLO"
+                },
+                {
+                    "winner": "Agustina DE LUCIA"
+                }
+            ],
+            [
+                {
+                    "country": "ARG",
+                    "name": "Fiona CUNEO"
+                },
+                {
+                    "country": "CPV",
+                    "name": "Carolina DELGADO FRANCES"
+                },
+                {
+                    "winner": "Carolina DELGADO FRANCES"
+                }
+            ],
+            [
+                {
+                    "country": "ARG",
+                    "name": "Agustina DE LUCIA"
+                }
+            ],
+            [
+                {
+                    "country": "CPV",
+                    "name": "Carolina DELGADO FRANCES"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Agustina DE LUCIA",
+            "Carolina DELGADO FRANCES"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Ketleyn QUADROS"
+                },
+                {
+                    "country": "CPV",
+                    "name": "Carolina DELGADO FRANCES"
+                },
+                {
+                    "winner": "Ketleyn QUADROS"
+                }
+            ],
+            [
+                {
+                    "country": "MEX",
+                    "name": "Prisca AWITI ALCARAZ"
+                },
+                {
+                    "country": "MEX",
+                    "name": "Katia CASTILLO"
+                },
+                {
+                    "winner": "Prisca AWITI ALCARAZ"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Ketleyn QUADROS"
+                },
+                {
+                    "country": "MEX",
+                    "name": "Prisca AWITI ALCARAZ"
+                }
+            ]
+        ],
+        "final_winner": "Prisca AWITI ALCARAZ"
+    }
+}

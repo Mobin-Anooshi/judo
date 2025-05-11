@@ -1,0 +1,232 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "SWE",
+                    "name": "Mia HERMANSSON"
+                },
+                {
+                    "winner": "Mia HERMANSSON"
+                }
+            ],
+            []
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "SWE",
+                    "name": "Mia HERMANSSON"
+                }
+            ],
+            []
+        ]
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "JPN",
+                    "name": "Aimi NOUCHI"
+                },
+                {
+                    "winner": "Aimi NOUCHI"
+                }
+            ],
+            [
+                {
+                    "country": "RUS",
+                    "name": "Diana DZHIGAROS"
+                },
+                {
+                    "winner": "Diana DZHIGAROS"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "JPN",
+                    "name": "Aimi NOUCHI"
+                },
+                {
+                    "country": "RUS",
+                    "name": "Diana DZHIGAROS"
+                }
+            ]
+        ],
+        "final_winner": "Aimi NOUCHI"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CMR",
+                    "name": "Helene WEZEU DOMBEU"
+                },
+                {
+                    "winner": "Helene WEZEU DOMBEU"
+                }
+            ],
+            [
+                {
+                    "country": "RUS",
+                    "name": "Olga KRIUKOVA"
+                },
+                {
+                    "winner": "Olga KRIUKOVA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "CMR",
+                    "name": "Helene WEZEU DOMBEU"
+                },
+                {
+                    "country": "RUS",
+                    "name": "Olga KRIUKOVA"
+                }
+            ]
+        ],
+        "final_winner": "Helene WEZEU DOMBEU"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "RUS",
+                    "name": "Daria DAVYDOVA"
+                },
+                {
+                    "winner": "Daria DAVYDOVA"
+                }
+            ],
+            [
+                {
+                    "country": "RUS",
+                    "name": "Kamila BADUROVA"
+                },
+                {
+                    "winner": "Kamila BADUROVA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "RUS",
+                    "name": "Daria DAVYDOVA"
+                },
+                {
+                    "country": "RUS",
+                    "name": "Kamila BADUROVA"
+                }
+            ]
+        ],
+        "final_winner": "Daria DAVYDOVA"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "RUS",
+                    "name": "Diana DZHIGAROS"
+                }
+            ],
+            [
+                {
+                    "country": "RUS",
+                    "name": "Olga KRIUKOVA"
+                },
+                {
+                    "country": "RUS",
+                    "name": "Kamila BADUROVA"
+                },
+                {
+                    "winner": "Olga KRIUKOVA"
+                }
+            ],
+            [
+                {
+                    "country": "RUS",
+                    "name": "Diana DZHIGAROS"
+                },
+                {
+                    "country": "CMR",
+                    "name": "Helene WEZEU DOMBEU"
+                },
+                {
+                    "winner": "Diana DZHIGAROS"
+                }
+            ],
+            [
+                {
+                    "country": "RUS",
+                    "name": "Olga KRIUKOVA"
+                },
+                {
+                    "country": "SWE",
+                    "name": "Mia HERMANSSON"
+                },
+                {
+                    "winner": "Mia HERMANSSON"
+                }
+            ],
+            [
+                {
+                    "country": "SWE",
+                    "name": "Mia HERMANSSON"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Olga KRIUKOVA",
+            "Diana DZHIGAROS"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "SWE",
+                    "name": "Mia HERMANSSON"
+                },
+                {
+                    "country": "JPN",
+                    "name": "Aimi NOUCHI"
+                },
+                {
+                    "winner": "Aimi NOUCHI"
+                }
+            ],
+            [
+                {
+                    "country": "CMR",
+                    "name": "Helene WEZEU DOMBEU"
+                },
+                {
+                    "country": "RUS",
+                    "name": "Daria DAVYDOVA"
+                },
+                {
+                    "winner": "Daria DAVYDOVA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "JPN",
+                    "name": "Aimi NOUCHI"
+                },
+                {
+                    "country": "RUS",
+                    "name": "Daria DAVYDOVA"
+                }
+            ]
+        ],
+        "final_winner": "Aimi NOUCHI"
+    }
+}

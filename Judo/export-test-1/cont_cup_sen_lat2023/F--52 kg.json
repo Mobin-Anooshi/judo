@@ -1,0 +1,303 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ITA",
+                    "name": "Alessia TEDESCHI"
+                },
+                {
+                    "winner": "Alessia TEDESCHI"
+                }
+            ],
+            [
+                {
+                    "country": "POL",
+                    "name": "Marta KURAS"
+                },
+                {
+                    "winner": "Marta KURAS"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "ITA",
+                    "name": "Alessia TEDESCHI"
+                },
+                {
+                    "country": "POL",
+                    "name": "Marta KURAS"
+                }
+            ]
+        ],
+        "final_winner": "Marta KURAS"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ITA",
+                    "name": "Valentina TOMASELLI"
+                },
+                {
+                    "winner": "Valentina TOMASELLI"
+                }
+            ],
+            [
+                {
+                    "country": "ESP",
+                    "name": "Paula LANZA CHACORIS"
+                },
+                {
+                    "winner": "Paula LANZA CHACORIS"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "ITA",
+                    "name": "Valentina TOMASELLI"
+                },
+                {
+                    "country": "ESP",
+                    "name": "Paula LANZA CHACORIS"
+                }
+            ]
+        ],
+        "final_winner": "Paula LANZA CHACORIS"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ITA",
+                    "name": "Giulia Italia DE LUCA"
+                },
+                {
+                    "winner": "Giulia Italia DE LUCA"
+                }
+            ],
+            [
+                {
+                    "country": "LAT",
+                    "name": "Evelina JAVORSKA"
+                },
+                {
+                    "country": "NED",
+                    "name": "Franka VAN DER SALM"
+                },
+                {
+                    "winner": "Franka VAN DER SALM"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "ITA",
+                    "name": "Giulia Italia DE LUCA"
+                },
+                {
+                    "country": "NED",
+                    "name": "Franka VAN DER SALM"
+                }
+            ]
+        ],
+        "final_winner": "Franka VAN DER SALM"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "SLO",
+                    "name": "Anja STANGAR"
+                },
+                {
+                    "winner": "Anja STANGAR"
+                }
+            ],
+            [
+                {
+                    "country": "GBR",
+                    "name": "Tatum KEEN"
+                },
+                {
+                    "winner": "Tatum KEEN"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "SLO",
+                    "name": "Anja STANGAR"
+                },
+                {
+                    "country": "GBR",
+                    "name": "Tatum KEEN"
+                }
+            ]
+        ],
+        "final_winner": "Anja STANGAR"
+    },
+    "REPECHAGE": {
+        "round 1-4": [
+            [
+                {
+                    "country": "ITA",
+                    "name": "Alessia TEDESCHI"
+                },
+                {
+                    "winner": "Alessia TEDESCHI"
+                }
+            ],
+            [
+                {
+                    "country": "ITA",
+                    "name": "Valentina TOMASELLI"
+                },
+                {
+                    "winner": "Valentina TOMASELLI"
+                }
+            ],
+            [
+                {
+                    "country": "LAT",
+                    "name": "Evelina JAVORSKA"
+                },
+                {
+                    "country": "ITA",
+                    "name": "Giulia Italia DE LUCA"
+                },
+                {
+                    "winner": "Giulia Italia DE LUCA"
+                }
+            ],
+            [
+                {
+                    "country": "GBR",
+                    "name": "Tatum KEEN"
+                },
+                {
+                    "winner": "Tatum KEEN"
+                }
+            ]
+        ],
+        "round 1-2": [
+            [
+                {
+                    "country": "ITA",
+                    "name": "Alessia TEDESCHI"
+                },
+                {
+                    "country": "ITA",
+                    "name": "Valentina TOMASELLI"
+                },
+                {
+                    "winner": "Alessia TEDESCHI"
+                }
+            ],
+            [
+                {
+                    "country": "ITA",
+                    "name": "Giulia Italia DE LUCA"
+                },
+                {
+                    "country": "GBR",
+                    "name": "Tatum KEEN"
+                },
+                {
+                    "winner": "Tatum KEEN"
+                }
+            ],
+            [
+                {
+                    "country": "ITA",
+                    "name": "Alessia TEDESCHI"
+                },
+                {
+                    "country": "NED",
+                    "name": "Franka VAN DER SALM"
+                },
+                {
+                    "winner": "Franka VAN DER SALM"
+                }
+            ],
+            [
+                {
+                    "country": "GBR",
+                    "name": "Tatum KEEN"
+                },
+                {
+                    "country": "ESP",
+                    "name": "Paula LANZA CHACORIS"
+                },
+                {
+                    "winner": "Tatum KEEN"
+                }
+            ],
+            [
+                {
+                    "country": "NED",
+                    "name": "Franka VAN DER SALM"
+                }
+            ],
+            [
+                {
+                    "country": "GBR",
+                    "name": "Tatum KEEN"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Franka VAN DER SALM",
+            "Tatum KEEN"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "POL",
+                    "name": "Marta KURAS"
+                },
+                {
+                    "country": "ESP",
+                    "name": "Paula LANZA CHACORIS"
+                },
+                {
+                    "winner": "Marta KURAS"
+                }
+            ],
+            [
+                {
+                    "country": "NED",
+                    "name": "Franka VAN DER SALM"
+                },
+                {
+                    "country": "SLO",
+                    "name": "Anja STANGAR"
+                },
+                {
+                    "winner": "Anja STANGAR"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "POL",
+                    "name": "Marta KURAS"
+                },
+                {
+                    "country": "SLO",
+                    "name": "Anja STANGAR"
+                }
+            ]
+        ],
+        "final_winner": "Anja STANGAR"
+    }
+}

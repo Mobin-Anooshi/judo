@@ -1,0 +1,285 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CHN",
+                    "name": "Yao XIONG"
+                },
+                {
+                    "country": "AUT",
+                    "name": "Lisa DENGG"
+                },
+                {
+                    "winner": "Yao XIONG"
+                }
+            ],
+            [
+                {
+                    "country": "USA",
+                    "name": "Jenna SCHURR"
+                },
+                {
+                    "country": "MAC",
+                    "name": "Ka cheng WONG"
+                },
+                {
+                    "winner": "Jenna SCHURR"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "CHN",
+                    "name": "Yao XIONG"
+                },
+                {
+                    "country": "USA",
+                    "name": "Jenna SCHURR"
+                }
+            ]
+        ],
+        "final_winner": "Yao XIONG"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "HKG",
+                    "name": "Ka Lee WONG"
+                },
+                {
+                    "country": "INA",
+                    "name": "Dita ANANDA"
+                },
+                {
+                    "winner": "Dita ANANDA"
+                }
+            ],
+            [
+                {
+                    "country": "AUT",
+                    "name": "Mara KRAFT"
+                },
+                {
+                    "country": "KOR",
+                    "name": "Heewon RA"
+                },
+                {
+                    "winner": "Mara KRAFT"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "INA",
+                    "name": "Dita ANANDA"
+                },
+                {
+                    "country": "AUT",
+                    "name": "Mara KRAFT"
+                }
+            ]
+        ],
+        "final_winner": "Mara KRAFT"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "AUS",
+                    "name": "Caroline HAIN"
+                },
+                {
+                    "country": "IND",
+                    "name": "Shushila Devi LIKMABAM"
+                },
+                {
+                    "winner": "Shushila Devi LIKMABAM"
+                }
+            ],
+            [
+                {
+                    "country": "MAC",
+                    "name": "Wai ian SAM"
+                },
+                {
+                    "winner": "Wai ian SAM"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "IND",
+                    "name": "Shushila Devi LIKMABAM"
+                },
+                {
+                    "country": "MAC",
+                    "name": "Wai ian SAM"
+                }
+            ]
+        ],
+        "final_winner": "Shushila Devi LIKMABAM"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "TPE",
+                    "name": "Jun-Ying GAO"
+                },
+                {
+                    "country": "INA",
+                    "name": "Afifah Raudlatul JANNAH"
+                },
+                {
+                    "winner": "Jun-Ying GAO"
+                }
+            ],
+            [
+                {
+                    "country": "AUT",
+                    "name": "Katharina TANZER"
+                },
+                {
+                    "country": "MAC",
+                    "name": "Cheng I LEI"
+                },
+                {
+                    "winner": "Katharina TANZER"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "TPE",
+                    "name": "Jun-Ying GAO"
+                },
+                {
+                    "country": "AUT",
+                    "name": "Katharina TANZER"
+                }
+            ]
+        ],
+        "final_winner": "Katharina TANZER"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "USA",
+                    "name": "Jenna SCHURR"
+                },
+                {
+                    "country": "INA",
+                    "name": "Dita ANANDA"
+                },
+                {
+                    "winner": "Dita ANANDA"
+                }
+            ],
+            [
+                {
+                    "country": "MAC",
+                    "name": "Wai ian SAM"
+                },
+                {
+                    "country": "TPE",
+                    "name": "Jun-Ying GAO"
+                },
+                {
+                    "winner": "Jun-Ying GAO"
+                }
+            ],
+            [
+                {
+                    "country": "INA",
+                    "name": "Dita ANANDA"
+                },
+                {
+                    "country": "AUT",
+                    "name": "Katharina TANZER"
+                },
+                {
+                    "winner": "Katharina TANZER"
+                }
+            ],
+            [
+                {
+                    "country": "TPE",
+                    "name": "Jun-Ying GAO"
+                },
+                {
+                    "country": "AUT",
+                    "name": "Mara KRAFT"
+                },
+                {
+                    "winner": "Jun-Ying GAO"
+                }
+            ],
+            [
+                {
+                    "country": "AUT",
+                    "name": "Katharina TANZER"
+                }
+            ],
+            [
+                {
+                    "country": "TPE",
+                    "name": "Jun-Ying GAO"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Katharina TANZER",
+            "Jun-Ying GAO"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CHN",
+                    "name": "Yao XIONG"
+                },
+                {
+                    "country": "AUT",
+                    "name": "Mara KRAFT"
+                },
+                {
+                    "winner": "Yao XIONG"
+                }
+            ],
+            [
+                {
+                    "country": "IND",
+                    "name": "Shushila Devi LIKMABAM"
+                },
+                {
+                    "country": "AUT",
+                    "name": "Katharina TANZER"
+                },
+                {
+                    "winner": "Shushila Devi LIKMABAM"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "CHN",
+                    "name": "Yao XIONG"
+                },
+                {
+                    "country": "IND",
+                    "name": "Shushila Devi LIKMABAM"
+                }
+            ]
+        ],
+        "final_winner": "Yao XIONG"
+    }
+}

@@ -1,0 +1,238 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "PER",
+                    "name": "Kiara ARANGO"
+                },
+                {
+                    "winner": "Kiara ARANGO"
+                }
+            ],
+            []
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "PER",
+                    "name": "Kiara ARANGO"
+                }
+            ]
+        ]
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "PER",
+                    "name": "Marian FLORES"
+                },
+                {
+                    "winner": "Marian FLORES"
+                }
+            ],
+            [
+                {
+                    "country": "USA",
+                    "name": "Mariah HOLGUIN"
+                },
+                {
+                    "winner": "Mariah HOLGUIN"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "PER",
+                    "name": "Marian FLORES"
+                },
+                {
+                    "country": "USA",
+                    "name": "Mariah HOLGUIN"
+                }
+            ],
+            [
+                {
+                    "country": "USA",
+                    "name": "Mariah HOLGUIN"
+                }
+            ]
+        ]
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ARG",
+                    "name": "Brisa GOMEZ"
+                },
+                {
+                    "winner": "Brisa GOMEZ"
+                }
+            ],
+            []
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "ARG",
+                    "name": "Brisa GOMEZ"
+                }
+            ]
+        ]
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "USA",
+                    "name": "Tasha CANCELA"
+                },
+                {
+                    "winner": "Tasha CANCELA"
+                }
+            ],
+            [
+                {
+                    "country": "MEX",
+                    "name": "Paulina GARNICA"
+                },
+                {
+                    "winner": "Paulina GARNICA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "USA",
+                    "name": "Tasha CANCELA"
+                },
+                {
+                    "country": "MEX",
+                    "name": "Paulina GARNICA"
+                }
+            ],
+            [
+                {
+                    "country": "USA",
+                    "name": "Tasha CANCELA"
+                }
+            ]
+        ]
+    },
+    "REPECHAGE": {
+        "round 1-4": [
+            [],
+            [
+                {
+                    "country": "PER",
+                    "name": "Marian FLORES"
+                },
+                {
+                    "winner": "Marian FLORES"
+                }
+            ],
+            [],
+            [
+                {
+                    "country": "MEX",
+                    "name": "Paulina GARNICA"
+                },
+                {
+                    "winner": "Paulina GARNICA"
+                }
+            ]
+        ],
+        "round 1-2": [
+            [
+                {
+                    "country": "PER",
+                    "name": "Marian FLORES"
+                }
+            ],
+            [
+                {
+                    "country": "MEX",
+                    "name": "Paulina GARNICA"
+                }
+            ],
+            [
+                {
+                    "country": "PER",
+                    "name": "Marian FLORES"
+                },
+                {
+                    "country": "ARG",
+                    "name": "Brisa GOMEZ"
+                }
+            ],
+            [
+                {
+                    "country": "MEX",
+                    "name": "Paulina GARNICA"
+                },
+                {
+                    "country": "PER",
+                    "name": "Kiara ARANGO"
+                }
+            ],
+            [
+                {
+                    "country": "ARG",
+                    "name": "Brisa GOMEZ"
+                }
+            ]
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "PER",
+                    "name": "Kiara ARANGO"
+                },
+                {
+                    "country": "USA",
+                    "name": "Mariah HOLGUIN"
+                },
+                {
+                    "winner": "Mariah HOLGUIN"
+                }
+            ],
+            [
+                {
+                    "country": "ARG",
+                    "name": "Brisa GOMEZ"
+                },
+                {
+                    "country": "USA",
+                    "name": "Tasha CANCELA"
+                },
+                {
+                    "winner": "Tasha CANCELA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "USA",
+                    "name": "Mariah HOLGUIN"
+                },
+                {
+                    "country": "USA",
+                    "name": "Tasha CANCELA"
+                }
+            ],
+            [
+                {
+                    "country": "USA",
+                    "name": "Mariah HOLGUIN"
+                }
+            ]
+        ]
+    }
+}

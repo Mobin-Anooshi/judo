@@ -1,0 +1,68 @@
+{
+    "ROUND 1": {
+        "round 1-2": [
+            [
+                {
+                    "country": "USA",
+                    "name": "Tokuzo TAKAHASHI"
+                },
+                {
+                    "country": "COL",
+                    "name": "Michael HERNANDEZ HENAO"
+                },
+                {
+                    "winner": "Tokuzo TAKAHASHI"
+                }
+            ],
+            [
+                {
+                    "country": "COL",
+                    "name": "Uberney SOLAQUE"
+                },
+                {
+                    "country": "PAR",
+                    "name": "Angel Antonio GINI"
+                },
+                {
+                    "winner": "Angel Antonio GINI"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Tokuzo TAKAHASHI",
+            "Angel Antonio GINI"
+        ]
+    },
+    "REPECHAGE": {
+        "round 1-1": [
+            [
+                {
+                    "country": "COL",
+                    "name": "Michael HERNANDEZ HENAO"
+                },
+                {
+                    "country": "COL",
+                    "name": "Uberney SOLAQUE"
+                },
+                {
+                    "winner": "Michael HERNANDEZ HENAO"
+                }
+            ],
+            [
+                {
+                    "country": "COL",
+                    "name": "Michael HERNANDEZ HENAO"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Michael HERNANDEZ HENAO"
+        ]
+    },
+    "FINALS": {
+        "round 1-1": [],
+        "final_winners": [
+            "Tokuzo TAKAHASHI"
+        ]
+    }
+}

@@ -1,0 +1,268 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CRO",
+                    "name": "Ivana SUTALO"
+                },
+                {
+                    "winner": "Ivana SUTALO"
+                }
+            ],
+            []
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "CRO",
+                    "name": "Ivana SUTALO"
+                }
+            ]
+        ]
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "POL",
+                    "name": "Anna ZALECZNA"
+                },
+                {
+                    "winner": "Anna ZALECZNA"
+                }
+            ],
+            [
+                {
+                    "country": "CRO",
+                    "name": "Zrinka MIOCIC"
+                },
+                {
+                    "winner": "Zrinka MIOCIC"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "POL",
+                    "name": "Anna ZALECZNA"
+                },
+                {
+                    "country": "CRO",
+                    "name": "Zrinka MIOCIC"
+                }
+            ],
+            [
+                {
+                    "country": "POL",
+                    "name": "Anna ZALECZNA"
+                }
+            ]
+        ]
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "MNE",
+                    "name": "Jovana NIKIC"
+                },
+                {
+                    "winner": "Jovana NIKIC"
+                }
+            ],
+            [
+                {
+                    "country": "CRO",
+                    "name": "Tina RADIC"
+                },
+                {
+                    "winner": "Tina RADIC"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "MNE",
+                    "name": "Jovana NIKIC"
+                },
+                {
+                    "country": "CRO",
+                    "name": "Tina RADIC"
+                }
+            ],
+            [
+                {
+                    "country": "CRO",
+                    "name": "Tina RADIC"
+                }
+            ]
+        ]
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "FRA",
+                    "name": "Anne Fatoumata M BAIRO"
+                },
+                {
+                    "winner": "Anne Fatoumata M BAIRO"
+                }
+            ],
+            [
+                {
+                    "country": "CRO",
+                    "name": "Katarina Lucija VUKOVIC"
+                },
+                {
+                    "winner": "Katarina Lucija VUKOVIC"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "FRA",
+                    "name": "Anne Fatoumata M BAIRO"
+                },
+                {
+                    "country": "CRO",
+                    "name": "Katarina Lucija VUKOVIC"
+                }
+            ],
+            [
+                {
+                    "country": "FRA",
+                    "name": "Anne Fatoumata M BAIRO"
+                }
+            ]
+        ]
+    },
+    "REPECHAGE": {
+        "round 1-4": [
+            [],
+            [
+                {
+                    "country": "CRO",
+                    "name": "Zrinka MIOCIC"
+                },
+                {
+                    "winner": "Zrinka MIOCIC"
+                }
+            ],
+            [
+                {
+                    "country": "MNE",
+                    "name": "Jovana NIKIC"
+                },
+                {
+                    "winner": "Jovana NIKIC"
+                }
+            ],
+            [
+                {
+                    "country": "CRO",
+                    "name": "Katarina Lucija VUKOVIC"
+                },
+                {
+                    "winner": "Katarina Lucija VUKOVIC"
+                }
+            ]
+        ],
+        "round 1-2": [
+            [
+                {
+                    "country": "CRO",
+                    "name": "Zrinka MIOCIC"
+                }
+            ],
+            [
+                {
+                    "country": "MNE",
+                    "name": "Jovana NIKIC"
+                },
+                {
+                    "country": "CRO",
+                    "name": "Katarina Lucija VUKOVIC"
+                }
+            ],
+            [
+                {
+                    "country": "CRO",
+                    "name": "Zrinka MIOCIC"
+                },
+                {
+                    "country": "FRA",
+                    "name": "Anne Fatoumata M BAIRO"
+                }
+            ],
+            [
+                {
+                    "country": "CRO",
+                    "name": "Katarina Lucija VUKOVIC"
+                },
+                {
+                    "country": "POL",
+                    "name": "Anna ZALECZNA"
+                }
+            ],
+            [
+                {
+                    "country": "POL",
+                    "name": "Anna ZALECZNA"
+                }
+            ]
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CRO",
+                    "name": "Ivana SUTALO"
+                },
+                {
+                    "country": "POL",
+                    "name": "Anna ZALECZNA"
+                },
+                {
+                    "winner": "Ivana SUTALO"
+                }
+            ],
+            [
+                {
+                    "country": "CRO",
+                    "name": "Tina RADIC"
+                },
+                {
+                    "country": "FRA",
+                    "name": "Anne Fatoumata M BAIRO"
+                },
+                {
+                    "winner": "Tina RADIC"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "CRO",
+                    "name": "Ivana SUTALO"
+                },
+                {
+                    "country": "CRO",
+                    "name": "Tina RADIC"
+                }
+            ],
+            [
+                {
+                    "country": "CRO",
+                    "name": "Ivana SUTALO"
+                }
+            ]
+        ]
+    }
+}

@@ -1,0 +1,68 @@
+{
+    "ROUND 1": {
+        "round 1-2": [
+            [
+                {
+                    "country": "PER",
+                    "name": "Zoyla NEVADO"
+                },
+                {
+                    "country": "CHI",
+                    "name": "Antonella VEGA"
+                },
+                {
+                    "winner": "Zoyla NEVADO"
+                }
+            ],
+            [
+                {
+                    "country": "PER",
+                    "name": "Karissa GUEVARA"
+                },
+                {
+                    "country": "COL",
+                    "name": "Karen BERMUDEZ"
+                },
+                {
+                    "winner": "Karen BERMUDEZ"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Zoyla NEVADO",
+            "Karen BERMUDEZ"
+        ]
+    },
+    "REPECHAGE": {
+        "round 1-1": [
+            [
+                {
+                    "country": "CHI",
+                    "name": "Antonella VEGA"
+                },
+                {
+                    "country": "PER",
+                    "name": "Karissa GUEVARA"
+                },
+                {
+                    "winner": "Antonella VEGA"
+                }
+            ],
+            [
+                {
+                    "country": "CHI",
+                    "name": "Antonella VEGA"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Antonella VEGA"
+        ]
+    },
+    "FINALS": {
+        "round 1-1": [],
+        "final_winners": [
+            "Karen BERMUDEZ"
+        ]
+    }
+}

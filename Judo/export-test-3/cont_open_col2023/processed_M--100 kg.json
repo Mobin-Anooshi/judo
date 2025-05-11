@@ -1,0 +1,87 @@
+{
+    "POOL A": {
+        "round 1-3": [
+            [
+                {
+                    "country": "USA",
+                    "name": "Nathaniel KEEVE"
+                },
+                {
+                    "country": "CHI",
+                    "name": "Rafael ROMO"
+                },
+                {
+                    "winner": "Nathaniel KEEVE"
+                }
+            ],
+            [
+                {
+                    "country": "USA",
+                    "name": "Nathaniel KEEVE"
+                },
+                {
+                    "country": "COL",
+                    "name": "Junior David CABEZAS QUINONES"
+                },
+                {
+                    "winner": "Junior David CABEZAS QUINONES"
+                }
+            ],
+            [
+                {
+                    "country": "CHI",
+                    "name": "Rafael ROMO"
+                },
+                {
+                    "country": "COL",
+                    "name": "Junior David CABEZAS QUINONES"
+                },
+                {
+                    "winner": "Rafael ROMO"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Rafael ROMO",
+            "Nathaniel KEEVE"
+        ]
+    },
+    "POOL B": {
+        "round 1-1": [],
+        "final_winners": [
+            "Andre HUMBERTO"
+        ]
+    },
+    "REPECHAGE": {
+        "round 1-1": [
+            [
+                {
+                    "country": "USA",
+                    "name": "Nathaniel KEEVE"
+                },
+                {
+                    "country": "VEN",
+                    "name": "Antonio RODRIGUEZ RENGEL"
+                },
+                {
+                    "winner": "Nathaniel KEEVE"
+                }
+            ],
+            [
+                {
+                    "country": "USA",
+                    "name": "Nathaniel KEEVE"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Nathaniel KEEVE"
+        ]
+    },
+    "FINALS": {
+        "round 1-1": [],
+        "final_winners": [
+            "Andre HUMBERTO"
+        ]
+    }
+}

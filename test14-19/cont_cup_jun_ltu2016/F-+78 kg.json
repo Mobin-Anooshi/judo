@@ -1,0 +1,244 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "GER",
+                    "name": "Michelle GOSCHIN"
+                },
+                {
+                    "winner": "Michelle GOSCHIN"
+                }
+            ],
+            [
+                {
+                    "country": "LTU",
+                    "name": "Justina KMIELIAUSKAITE"
+                },
+                {
+                    "winner": "Justina KMIELIAUSKAITE"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "GER",
+                    "name": "Michelle GOSCHIN"
+                },
+                {
+                    "country": "LTU",
+                    "name": "Justina KMIELIAUSKAITE"
+                }
+            ],
+            [
+                {
+                    "country": "GER",
+                    "name": "Michelle GOSCHIN"
+                }
+            ]
+        ]
+    },
+    "POOL B": {
+        "round 1-2": [
+            [],
+            [
+                {
+                    "country": "RUS",
+                    "name": "Sofiia PIROGOVA"
+                },
+                {
+                    "winner": "Sofiia PIROGOVA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "RUS",
+                    "name": "Sofiia PIROGOVA"
+                }
+            ]
+        ]
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "RUS",
+                    "name": "Anna GUSHCHINA"
+                },
+                {
+                    "winner": "Anna GUSHCHINA"
+                }
+            ],
+            []
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "RUS",
+                    "name": "Anna GUSHCHINA"
+                }
+            ]
+        ]
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "RUS",
+                    "name": "Aleksandra KHOMYN"
+                },
+                {
+                    "winner": "Aleksandra KHOMYN"
+                }
+            ],
+            [
+                {
+                    "country": "POL",
+                    "name": "Katarzyna MADAJEWSKA"
+                },
+                {
+                    "winner": "Katarzyna MADAJEWSKA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "RUS",
+                    "name": "Aleksandra KHOMYN"
+                },
+                {
+                    "country": "POL",
+                    "name": "Katarzyna MADAJEWSKA"
+                }
+            ],
+            [
+                {
+                    "country": "RUS",
+                    "name": "Aleksandra KHOMYN"
+                }
+            ]
+        ]
+    },
+    "REPECHAGE": {
+        "round 1-4": [
+            [
+                {
+                    "country": "LTU",
+                    "name": "Justina KMIELIAUSKAITE"
+                },
+                {
+                    "winner": "Justina KMIELIAUSKAITE"
+                }
+            ],
+            [],
+            [],
+            [
+                {
+                    "country": "POL",
+                    "name": "Katarzyna MADAJEWSKA"
+                },
+                {
+                    "winner": "Katarzyna MADAJEWSKA"
+                }
+            ]
+        ],
+        "round 1-2": [
+            [
+                {
+                    "country": "LTU",
+                    "name": "Justina KMIELIAUSKAITE"
+                }
+            ],
+            [
+                {
+                    "country": "POL",
+                    "name": "Katarzyna MADAJEWSKA"
+                }
+            ],
+            [
+                {
+                    "country": "LTU",
+                    "name": "Justina KMIELIAUSKAITE"
+                },
+                {
+                    "country": "RUS",
+                    "name": "Aleksandra KHOMYN"
+                }
+            ],
+            [
+                {
+                    "country": "POL",
+                    "name": "Katarzyna MADAJEWSKA"
+                },
+                {
+                    "country": "RUS",
+                    "name": "Sofiia PIROGOVA"
+                }
+            ],
+            [
+                {
+                    "country": "RUS",
+                    "name": "Aleksandra KHOMYN"
+                }
+            ],
+            [
+                {
+                    "country": "RUS",
+                    "name": "Sofiia PIROGOVA"
+                }
+            ]
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "GER",
+                    "name": "Michelle GOSCHIN"
+                },
+                {
+                    "country": "RUS",
+                    "name": "Sofiia PIROGOVA"
+                },
+                {
+                    "winner": "Michelle GOSCHIN"
+                }
+            ],
+            [
+                {
+                    "country": "RUS",
+                    "name": "Anna GUSHCHINA"
+                },
+                {
+                    "country": "RUS",
+                    "name": "Aleksandra KHOMYN"
+                },
+                {
+                    "winner": "Anna GUSHCHINA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "GER",
+                    "name": "Michelle GOSCHIN"
+                },
+                {
+                    "country": "RUS",
+                    "name": "Anna GUSHCHINA"
+                }
+            ],
+            [
+                {
+                    "country": "RUS",
+                    "name": "Anna GUSHCHINA"
+                }
+            ]
+        ]
+    }
+}

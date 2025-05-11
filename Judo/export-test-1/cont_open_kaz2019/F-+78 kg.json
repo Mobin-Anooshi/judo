@@ -1,0 +1,153 @@
+{
+    "POOL A": {
+        "round 1-1": [],
+        "final_winner": "Nazgul MARATOVA"
+    },
+    "POOL B": {
+        "round 1-1": [
+            [
+                {
+                    "country": "RUS",
+                    "name": "Sofiia PIROGOVA"
+                },
+                {
+                    "country": "KAZ",
+                    "name": "Nurganym TURSHABEK"
+                }
+            ]
+        ],
+        "final_winner": "Sofiia PIROGOVA"
+    },
+    "POOL C": {
+        "round 1-1": [
+            [
+                {
+                    "country": "KAZ",
+                    "name": "Saida KAPSALYKOVA"
+                },
+                {
+                    "country": "KOR",
+                    "name": "Da-eun PARK"
+                }
+            ]
+        ],
+        "final_winner": "Da-eun PARK"
+    },
+    "POOL D": {
+        "round 1-1": [
+            [
+                {
+                    "country": "KAZ",
+                    "name": "Akerke RAMAZANOVA"
+                },
+                {
+                    "country": "KAZ",
+                    "name": "Anel NAURAZBAYEVA"
+                }
+            ]
+        ],
+        "final_winner": "Akerke RAMAZANOVA"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "KAZ",
+                    "name": "Nurganym TURSHABEK"
+                }
+            ],
+            [
+                {
+                    "country": "KAZ",
+                    "name": "Saida KAPSALYKOVA"
+                },
+                {
+                    "country": "KAZ",
+                    "name": "Anel NAURAZBAYEVA"
+                },
+                {
+                    "winner": "Saida KAPSALYKOVA"
+                }
+            ],
+            [
+                {
+                    "country": "KAZ",
+                    "name": "Nurganym TURSHABEK"
+                },
+                {
+                    "country": "KAZ",
+                    "name": "Akerke RAMAZANOVA"
+                },
+                {
+                    "winner": "Nurganym TURSHABEK"
+                }
+            ],
+            [
+                {
+                    "country": "KAZ",
+                    "name": "Saida KAPSALYKOVA"
+                },
+                {
+                    "country": "KAZ",
+                    "name": "Nazgul MARATOVA"
+                },
+                {
+                    "winner": "Nazgul MARATOVA"
+                }
+            ],
+            [
+                {
+                    "country": "KAZ",
+                    "name": "Nazgul MARATOVA"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Saida KAPSALYKOVA",
+            "Nurganym TURSHABEK"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "KAZ",
+                    "name": "Nazgul MARATOVA"
+                },
+                {
+                    "country": "RUS",
+                    "name": "Sofiia PIROGOVA"
+                },
+                {
+                    "winner": "Sofiia PIROGOVA"
+                }
+            ],
+            [
+                {
+                    "country": "KOR",
+                    "name": "Da-eun PARK"
+                },
+                {
+                    "country": "KAZ",
+                    "name": "Akerke RAMAZANOVA"
+                },
+                {
+                    "winner": "Da-eun PARK"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "RUS",
+                    "name": "Sofiia PIROGOVA"
+                },
+                {
+                    "country": "KOR",
+                    "name": "Da-eun PARK"
+                }
+            ]
+        ],
+        "final_winner": "Da-eun PARK"
+    }
+}

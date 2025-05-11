@@ -1,0 +1,159 @@
+{
+    "POOL A": {
+        "round 1-1": [],
+        "final_winner": "Fatma ABIDI"
+    },
+    "POOL B": {
+        "round 1-1": [
+            [
+                {
+                    "country": "CIV",
+                    "name": "Marie Claude POLNEAU"
+                },
+                {
+                    "country": "RSA",
+                    "name": "Hanna ALEXANDER"
+                }
+            ]
+        ],
+        "final_winner": "Hanna ALEXANDER"
+    },
+    "POOL C": {
+        "round 1-1": [
+            [
+                {
+                    "country": "ALG",
+                    "name": "Meroua MAMMERI"
+                },
+                {
+                    "country": "EGY",
+                    "name": "Alaa MOUSSAD"
+                }
+            ]
+        ],
+        "final_winner": "Meroua MAMMERI"
+    },
+    "POOL D": {
+        "round 1-1": [
+            [
+                {
+                    "country": "SEN",
+                    "name": "Bigue NDIAYE"
+                },
+                {
+                    "country": "TUN",
+                    "name": "Siwar DHAWEDI"
+                }
+            ]
+        ],
+        "final_winner": "Siwar DHAWEDI"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CIV",
+                    "name": "Marie Claude POLNEAU"
+                }
+            ],
+            [
+                {
+                    "country": "EGY",
+                    "name": "Alaa MOUSSAD"
+                },
+                {
+                    "country": "SEN",
+                    "name": "Bigue NDIAYE"
+                },
+                {
+                    "winner": "Bigue NDIAYE"
+                }
+            ],
+            [
+                {
+                    "country": "CIV",
+                    "name": "Marie Claude POLNEAU"
+                },
+                {
+                    "country": "TUN",
+                    "name": "Siwar DHAWEDI"
+                },
+                {
+                    "winner": "Siwar DHAWEDI"
+                }
+            ],
+            [
+                {
+                    "country": "SEN",
+                    "name": "Bigue NDIAYE"
+                },
+                {
+                    "country": "RSA",
+                    "name": "Hanna ALEXANDER"
+                },
+                {
+                    "winner": "Bigue NDIAYE"
+                }
+            ],
+            [
+                {
+                    "country": "TUN",
+                    "name": "Siwar DHAWEDI"
+                }
+            ],
+            [
+                {
+                    "country": "SEN",
+                    "name": "Bigue NDIAYE"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Siwar DHAWEDI",
+            "Bigue NDIAYE"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "TUN",
+                    "name": "Fatma ABIDI"
+                },
+                {
+                    "country": "RSA",
+                    "name": "Hanna ALEXANDER"
+                },
+                {
+                    "winner": "Fatma ABIDI"
+                }
+            ],
+            [
+                {
+                    "country": "ALG",
+                    "name": "Meroua MAMMERI"
+                },
+                {
+                    "country": "TUN",
+                    "name": "Siwar DHAWEDI"
+                },
+                {
+                    "winner": "Meroua MAMMERI"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "TUN",
+                    "name": "Fatma ABIDI"
+                },
+                {
+                    "country": "ALG",
+                    "name": "Meroua MAMMERI"
+                }
+            ]
+        ],
+        "final_winner": "Fatma ABIDI"
+    }
+}

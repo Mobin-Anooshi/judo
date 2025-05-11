@@ -1,0 +1,277 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "USA",
+                    "name": "L.A. SMITH III"
+                },
+                {
+                    "winner": "L.A. SMITH III"
+                }
+            ],
+            [
+                {
+                    "country": "PHI",
+                    "name": "Shin MATSUMURA"
+                },
+                {
+                    "country": "JPN",
+                    "name": "Akihito SUDA"
+                },
+                {
+                    "winner": "Akihito SUDA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "USA",
+                    "name": "L.A. SMITH III"
+                },
+                {
+                    "country": "JPN",
+                    "name": "Akihito SUDA"
+                }
+            ]
+        ],
+        "final_winner": "Akihito SUDA"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CZE",
+                    "name": "Radek HECL"
+                },
+                {
+                    "country": "CHN",
+                    "name": "FEI XIAO"
+                },
+                {
+                    "winner": "Radek HECL"
+                }
+            ],
+            [
+                {
+                    "country": "IND",
+                    "name": "AVTAR SINGH"
+                },
+                {
+                    "country": "KOR",
+                    "name": "Seungyeob LEE"
+                },
+                {
+                    "winner": "Seungyeob LEE"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "CZE",
+                    "name": "Radek HECL"
+                },
+                {
+                    "country": "KOR",
+                    "name": "Seungyeob LEE"
+                }
+            ]
+        ],
+        "final_winner": "Seungyeob LEE"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "FIJ",
+                    "name": "Tevita TAKAYAWA"
+                },
+                {
+                    "winner": "Tevita TAKAYAWA"
+                }
+            ],
+            [
+                {
+                    "country": "THA",
+                    "name": "Wei PUYANG"
+                },
+                {
+                    "country": "FRA",
+                    "name": "Jerome LE LOUER"
+                },
+                {
+                    "winner": "Wei PUYANG"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "FIJ",
+                    "name": "Tevita TAKAYAWA"
+                },
+                {
+                    "country": "THA",
+                    "name": "Wei PUYANG"
+                }
+            ]
+        ],
+        "final_winner": "Tevita TAKAYAWA"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "AUS",
+                    "name": "Kayhan OZCICEK-TAKAGI"
+                },
+                {
+                    "winner": "Kayhan OZCICEK-TAKAGI"
+                }
+            ],
+            [
+                {
+                    "country": "CHN",
+                    "name": "Huilin LI"
+                },
+                {
+                    "country": "JPN",
+                    "name": "Naohiro TOYOTA"
+                },
+                {
+                    "winner": "Huilin LI"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "AUS",
+                    "name": "Kayhan OZCICEK-TAKAGI"
+                },
+                {
+                    "country": "CHN",
+                    "name": "Huilin LI"
+                }
+            ]
+        ],
+        "final_winner": "Kayhan OZCICEK-TAKAGI"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "USA",
+                    "name": "L.A. SMITH III"
+                },
+                {
+                    "country": "CZE",
+                    "name": "Radek HECL"
+                },
+                {
+                    "winner": "L.A. SMITH III"
+                }
+            ],
+            [
+                {
+                    "country": "THA",
+                    "name": "Wei PUYANG"
+                },
+                {
+                    "country": "CHN",
+                    "name": "Huilin LI"
+                },
+                {
+                    "winner": "Wei PUYANG"
+                }
+            ],
+            [
+                {
+                    "country": "USA",
+                    "name": "L.A. SMITH III"
+                },
+                {
+                    "country": "FIJ",
+                    "name": "Tevita TAKAYAWA"
+                },
+                {
+                    "winner": "L.A. SMITH III"
+                }
+            ],
+            [
+                {
+                    "country": "THA",
+                    "name": "Wei PUYANG"
+                },
+                {
+                    "country": "KOR",
+                    "name": "Seungyeob LEE"
+                },
+                {
+                    "winner": "Wei PUYANG"
+                }
+            ],
+            [
+                {
+                    "country": "USA",
+                    "name": "L.A. SMITH III"
+                }
+            ],
+            [
+                {
+                    "country": "THA",
+                    "name": "Wei PUYANG"
+                }
+            ]
+        ],
+        "final_winners": [
+            "L.A. SMITH III",
+            "Wei PUYANG"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "JPN",
+                    "name": "Akihito SUDA"
+                },
+                {
+                    "country": "KOR",
+                    "name": "Seungyeob LEE"
+                },
+                {
+                    "winner": "Akihito SUDA"
+                }
+            ],
+            [
+                {
+                    "country": "FIJ",
+                    "name": "Tevita TAKAYAWA"
+                },
+                {
+                    "country": "AUS",
+                    "name": "Kayhan OZCICEK-TAKAGI"
+                },
+                {
+                    "winner": "Kayhan OZCICEK-TAKAGI"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "JPN",
+                    "name": "Akihito SUDA"
+                },
+                {
+                    "country": "AUS",
+                    "name": "Kayhan OZCICEK-TAKAGI"
+                }
+            ]
+        ],
+        "final_winner": "Kayhan OZCICEK-TAKAGI"
+    }
+}

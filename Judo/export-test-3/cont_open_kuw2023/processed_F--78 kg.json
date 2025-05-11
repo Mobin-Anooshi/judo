@@ -1,0 +1,68 @@
+{
+    "ROUND 1": {
+        "round 1-2": [
+            [
+                {
+                    "country": "KOR",
+                    "name": "Juyun KIM"
+                },
+                {
+                    "country": "PHI",
+                    "name": "Justine Mae MAIN"
+                },
+                {
+                    "winner": "Juyun KIM"
+                }
+            ],
+            [
+                {
+                    "country": "IND",
+                    "name": "Indubala Devi MAIBAM"
+                },
+                {
+                    "country": "SRB",
+                    "name": "Milica CVIJIC"
+                },
+                {
+                    "winner": "Indubala Devi MAIBAM"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Juyun KIM",
+            "Indubala Devi MAIBAM"
+        ]
+    },
+    "REPECHAGE": {
+        "round 1-1": [
+            [
+                {
+                    "country": "PHI",
+                    "name": "Justine Mae MAIN"
+                },
+                {
+                    "country": "SRB",
+                    "name": "Milica CVIJIC"
+                },
+                {
+                    "winner": "Milica CVIJIC"
+                }
+            ],
+            [
+                {
+                    "country": "SRB",
+                    "name": "Milica CVIJIC"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Milica CVIJIC"
+        ]
+    },
+    "FINALS": {
+        "round 1-1": [],
+        "final_winners": [
+            "Juyun KIM"
+        ]
+    }
+}

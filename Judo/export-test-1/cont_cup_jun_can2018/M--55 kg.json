@@ -1,0 +1,295 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "USA",
+                    "name": "Jacob MORE"
+                },
+                {
+                    "winner": "Jacob MORE"
+                }
+            ],
+            [
+                {
+                    "country": "CAN",
+                    "name": "Ioan FRIZZELL"
+                },
+                {
+                    "winner": "Ioan FRIZZELL"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "USA",
+                    "name": "Jacob MORE"
+                },
+                {
+                    "country": "CAN",
+                    "name": "Ioan FRIZZELL"
+                }
+            ]
+        ],
+        "final_winner": "Jacob MORE"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CAN",
+                    "name": "Kadin CHRIST BONNELL"
+                },
+                {
+                    "winner": "Kadin CHRIST BONNELL"
+                }
+            ],
+            [
+                {
+                    "country": "CAN",
+                    "name": "Justin TREMBLAY"
+                },
+                {
+                    "winner": "Justin TREMBLAY"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "CAN",
+                    "name": "Kadin CHRIST BONNELL"
+                },
+                {
+                    "country": "CAN",
+                    "name": "Justin TREMBLAY"
+                }
+            ]
+        ],
+        "final_winner": "Justin TREMBLAY"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "MEX",
+                    "name": "Santiago CARDOSO"
+                },
+                {
+                    "winner": "Santiago CARDOSO"
+                }
+            ],
+            [
+                {
+                    "country": "CAN",
+                    "name": "Daniel MCCRISTALL"
+                },
+                {
+                    "winner": "Daniel MCCRISTALL"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "MEX",
+                    "name": "Santiago CARDOSO"
+                },
+                {
+                    "country": "CAN",
+                    "name": "Daniel MCCRISTALL"
+                }
+            ]
+        ],
+        "final_winner": "Daniel MCCRISTALL"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CAN",
+                    "name": "David TEPER"
+                },
+                {
+                    "winner": "David TEPER"
+                }
+            ],
+            [
+                {
+                    "country": "CAN",
+                    "name": "Russell CHAN"
+                },
+                {
+                    "winner": "Russell CHAN"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "CAN",
+                    "name": "David TEPER"
+                },
+                {
+                    "country": "CAN",
+                    "name": "Russell CHAN"
+                }
+            ]
+        ],
+        "final_winner": "David TEPER"
+    },
+    "REPECHAGE": {
+        "round 1-4": [
+            [
+                {
+                    "country": "CAN",
+                    "name": "Ioan FRIZZELL"
+                },
+                {
+                    "winner": "Ioan FRIZZELL"
+                }
+            ],
+            [
+                {
+                    "country": "CAN",
+                    "name": "Kadin CHRIST BONNELL"
+                },
+                {
+                    "winner": "Kadin CHRIST BONNELL"
+                }
+            ],
+            [
+                {
+                    "country": "MEX",
+                    "name": "Santiago CARDOSO"
+                },
+                {
+                    "winner": "Santiago CARDOSO"
+                }
+            ],
+            [
+                {
+                    "country": "CAN",
+                    "name": "Russell CHAN"
+                },
+                {
+                    "winner": "Russell CHAN"
+                }
+            ]
+        ],
+        "round 1-2": [
+            [
+                {
+                    "country": "CAN",
+                    "name": "Ioan FRIZZELL"
+                },
+                {
+                    "country": "CAN",
+                    "name": "Kadin CHRIST BONNELL"
+                },
+                {
+                    "winner": "Kadin CHRIST BONNELL"
+                }
+            ],
+            [
+                {
+                    "country": "MEX",
+                    "name": "Santiago CARDOSO"
+                },
+                {
+                    "country": "CAN",
+                    "name": "Russell CHAN"
+                },
+                {
+                    "winner": "Santiago CARDOSO"
+                }
+            ],
+            [
+                {
+                    "country": "CAN",
+                    "name": "Kadin CHRIST BONNELL"
+                },
+                {
+                    "country": "CAN",
+                    "name": "Daniel MCCRISTALL"
+                },
+                {
+                    "winner": "Daniel MCCRISTALL"
+                }
+            ],
+            [
+                {
+                    "country": "MEX",
+                    "name": "Santiago CARDOSO"
+                },
+                {
+                    "country": "CAN",
+                    "name": "Justin TREMBLAY"
+                },
+                {
+                    "winner": "Santiago CARDOSO"
+                }
+            ],
+            [
+                {
+                    "country": "CAN",
+                    "name": "Daniel MCCRISTALL"
+                }
+            ],
+            [
+                {
+                    "country": "MEX",
+                    "name": "Santiago CARDOSO"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Daniel MCCRISTALL",
+            "Santiago CARDOSO"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "USA",
+                    "name": "Jacob MORE"
+                },
+                {
+                    "country": "CAN",
+                    "name": "Justin TREMBLAY"
+                },
+                {
+                    "winner": "Jacob MORE"
+                }
+            ],
+            [
+                {
+                    "country": "CAN",
+                    "name": "Daniel MCCRISTALL"
+                },
+                {
+                    "country": "CAN",
+                    "name": "David TEPER"
+                },
+                {
+                    "winner": "David TEPER"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "USA",
+                    "name": "Jacob MORE"
+                },
+                {
+                    "country": "CAN",
+                    "name": "David TEPER"
+                }
+            ]
+        ],
+        "final_winner": "Jacob MORE"
+    }
+}

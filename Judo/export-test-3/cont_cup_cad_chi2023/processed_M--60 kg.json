@@ -1,0 +1,68 @@
+{
+    "ROUND 1": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CHI",
+                    "name": "Tomas ZAMUDIO"
+                },
+                {
+                    "country": "CHI",
+                    "name": "Rodrigo QUISPE"
+                },
+                {
+                    "winner": "Rodrigo QUISPE"
+                }
+            ],
+            [
+                {
+                    "country": "CHI",
+                    "name": "Lucas ROJAS"
+                },
+                {
+                    "country": "CHI",
+                    "name": "Fabio FLORES"
+                },
+                {
+                    "winner": "Lucas ROJAS"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Rodrigo QUISPE",
+            "Lucas ROJAS"
+        ]
+    },
+    "REPECHAGE": {
+        "round 1-1": [
+            [
+                {
+                    "country": "CHI",
+                    "name": "Tomas ZAMUDIO"
+                },
+                {
+                    "country": "CHI",
+                    "name": "Fabio FLORES"
+                },
+                {
+                    "winner": "Fabio FLORES"
+                }
+            ],
+            [
+                {
+                    "country": "CHI",
+                    "name": "Fabio FLORES"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Fabio FLORES"
+        ]
+    },
+    "FINALS": {
+        "round 1-1": [],
+        "final_winners": [
+            "Lucas ROJAS"
+        ]
+    }
+}

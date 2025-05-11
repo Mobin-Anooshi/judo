@@ -1,0 +1,177 @@
+{
+    "POOL A": {
+        "round 1-1": [
+            [
+                {
+                    "country": "MAR",
+                    "name": "Marouane EL AMMARI"
+                },
+                {
+                    "country": "PLE",
+                    "name": "Jacob ALFAJARE"
+                }
+            ]
+        ],
+        "final_winner": "Marouane EL AMMARI"
+    },
+    "POOL B": {
+        "round 1-1": [
+            [
+                {
+                    "country": "TUN",
+                    "name": "Youssef SOUISSI"
+                },
+                {
+                    "country": "ALG",
+                    "name": "Haithem AHMED AIAD"
+                }
+            ]
+        ],
+        "final_winner": "Haithem AHMED AIAD"
+    },
+    "POOL C": {
+        "round 1-1": [
+            [
+                {
+                    "country": "MAR",
+                    "name": "Yassine ZIZI"
+                },
+                {
+                    "country": "TUN",
+                    "name": "Mohamed Seddik LANDOLSI"
+                }
+            ]
+        ],
+        "final_winner": "Mohamed Seddik LANDOLSI"
+    },
+    "POOL D": {
+        "round 1-1": [
+            [
+                {
+                    "country": "ALG",
+                    "name": "Ala Eddine SAHRAOUI"
+                },
+                {
+                    "country": "TUN",
+                    "name": "Ayoub MIRAOUI"
+                }
+            ]
+        ],
+        "final_winner": "Ala Eddine SAHRAOUI"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "PLE",
+                    "name": "Jacob ALFAJARE"
+                },
+                {
+                    "country": "TUN",
+                    "name": "Youssef SOUISSI"
+                },
+                {
+                    "winner": "Youssef SOUISSI"
+                }
+            ],
+            [
+                {
+                    "country": "MAR",
+                    "name": "Yassine ZIZI"
+                },
+                {
+                    "country": "TUN",
+                    "name": "Ayoub MIRAOUI"
+                },
+                {
+                    "winner": "Ayoub MIRAOUI"
+                }
+            ],
+            [
+                {
+                    "country": "TUN",
+                    "name": "Youssef SOUISSI"
+                },
+                {
+                    "country": "TUN",
+                    "name": "Mohamed Seddik LANDOLSI"
+                },
+                {
+                    "winner": "Mohamed Seddik LANDOLSI"
+                }
+            ],
+            [
+                {
+                    "country": "TUN",
+                    "name": "Ayoub MIRAOUI"
+                },
+                {
+                    "country": "ALG",
+                    "name": "Haithem AHMED AIAD"
+                },
+                {
+                    "winner": "Haithem AHMED AIAD"
+                }
+            ],
+            [
+                {
+                    "country": "TUN",
+                    "name": "Mohamed Seddik LANDOLSI"
+                }
+            ],
+            [
+                {
+                    "country": "ALG",
+                    "name": "Haithem AHMED AIAD"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Mohamed Seddik LANDOLSI",
+            "Haithem AHMED AIAD"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "MAR",
+                    "name": "Marouane EL AMMARI"
+                },
+                {
+                    "country": "ALG",
+                    "name": "Haithem AHMED AIAD"
+                },
+                {
+                    "winner": "Marouane EL AMMARI"
+                }
+            ],
+            [
+                {
+                    "country": "TUN",
+                    "name": "Mohamed Seddik LANDOLSI"
+                },
+                {
+                    "country": "ALG",
+                    "name": "Ala Eddine SAHRAOUI"
+                },
+                {
+                    "winner": "Ala Eddine SAHRAOUI"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "MAR",
+                    "name": "Marouane EL AMMARI"
+                },
+                {
+                    "country": "ALG",
+                    "name": "Ala Eddine SAHRAOUI"
+                }
+            ]
+        ],
+        "final_winner": "Ala Eddine SAHRAOUI"
+    }
+}

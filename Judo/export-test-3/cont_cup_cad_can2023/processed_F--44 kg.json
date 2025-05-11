@@ -1,0 +1,68 @@
+{
+    "ROUND 1": {
+        "round 1-2": [
+            [
+                {
+                    "country": "USA",
+                    "name": "Malia MANIBOG"
+                },
+                {
+                    "country": "CAN",
+                    "name": "Katherine MACARTHUR"
+                },
+                {
+                    "winner": "Malia MANIBOG"
+                }
+            ],
+            [
+                {
+                    "country": "CAN",
+                    "name": "Maria-Magdaleina DELYE"
+                },
+                {
+                    "country": "CAN",
+                    "name": "Maya ROY"
+                },
+                {
+                    "winner": "Maria-Magdaleina DELYE"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Malia MANIBOG",
+            "Maria-Magdaleina DELYE"
+        ]
+    },
+    "REPECHAGE": {
+        "round 1-1": [
+            [
+                {
+                    "country": "CAN",
+                    "name": "Katherine MACARTHUR"
+                },
+                {
+                    "country": "CAN",
+                    "name": "Maya ROY"
+                },
+                {
+                    "winner": "Maya ROY"
+                }
+            ],
+            [
+                {
+                    "country": "CAN",
+                    "name": "Maya ROY"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Maya ROY"
+        ]
+    },
+    "FINALS": {
+        "round 1-1": [],
+        "final_winners": [
+            "Malia MANIBOG"
+        ]
+    }
+}

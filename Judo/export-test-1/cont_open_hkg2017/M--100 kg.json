@@ -1,0 +1,225 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "IRL",
+                    "name": "Benjamin FLETCHER"
+                },
+                {
+                    "winner": "Benjamin FLETCHER"
+                }
+            ],
+            [
+                {
+                    "country": "KOR",
+                    "name": "NOHYEON KIM"
+                },
+                {
+                    "winner": "NOHYEON KIM"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "IRL",
+                    "name": "Benjamin FLETCHER"
+                },
+                {
+                    "country": "KOR",
+                    "name": "NOHYEON KIM"
+                }
+            ]
+        ],
+        "final_winner": "Benjamin FLETCHER"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [],
+            [
+                {
+                    "country": "AUS",
+                    "name": "David RUSSELL"
+                },
+                {
+                    "winner": "David RUSSELL"
+                }
+            ]
+        ],
+        "round 1-1": [],
+        "final_winner": "David RUSSELL"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "AUS",
+                    "name": "Nicolas BERARD"
+                },
+                {
+                    "winner": "Nicolas BERARD"
+                }
+            ],
+            [
+                {
+                    "country": "KOR",
+                    "name": "Min Sung KIM"
+                },
+                {
+                    "winner": "Min Sung KIM"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "AUS",
+                    "name": "Nicolas BERARD"
+                },
+                {
+                    "country": "KOR",
+                    "name": "Min Sung KIM"
+                }
+            ]
+        ],
+        "final_winner": "Min Sung KIM"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "BUL",
+                    "name": "Daniel DICHEV"
+                },
+                {
+                    "winner": "Daniel DICHEV"
+                }
+            ],
+            [
+                {
+                    "country": "CZE",
+                    "name": "Radek HECL"
+                },
+                {
+                    "winner": "Radek HECL"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "BUL",
+                    "name": "Daniel DICHEV"
+                },
+                {
+                    "country": "CZE",
+                    "name": "Radek HECL"
+                }
+            ]
+        ],
+        "final_winner": "Daniel DICHEV"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "KOR",
+                    "name": "NOHYEON KIM"
+                }
+            ],
+            [
+                {
+                    "country": "AUS",
+                    "name": "Nicolas BERARD"
+                },
+                {
+                    "country": "CZE",
+                    "name": "Radek HECL"
+                },
+                {
+                    "winner": "Radek HECL"
+                }
+            ],
+            [
+                {
+                    "country": "KOR",
+                    "name": "NOHYEON KIM"
+                },
+                {
+                    "country": "BUL",
+                    "name": "Daniel DICHEV"
+                },
+                {
+                    "winner": "NOHYEON KIM"
+                }
+            ],
+            [
+                {
+                    "country": "CZE",
+                    "name": "Radek HECL"
+                },
+                {
+                    "country": "AUS",
+                    "name": "David RUSSELL"
+                },
+                {
+                    "winner": "Radek HECL"
+                }
+            ],
+            [
+                {
+                    "country": "CZE",
+                    "name": "Radek HECL"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Radek HECL",
+            "NOHYEON KIM"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "IRL",
+                    "name": "Benjamin FLETCHER"
+                },
+                {
+                    "country": "AUS",
+                    "name": "David RUSSELL"
+                },
+                {
+                    "winner": "Benjamin FLETCHER"
+                }
+            ],
+            [
+                {
+                    "country": "KOR",
+                    "name": "Min Sung KIM"
+                },
+                {
+                    "country": "BUL",
+                    "name": "Daniel DICHEV"
+                },
+                {
+                    "winner": "Min Sung KIM"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "IRL",
+                    "name": "Benjamin FLETCHER"
+                },
+                {
+                    "country": "KOR",
+                    "name": "Min Sung KIM"
+                }
+            ]
+        ],
+        "final_winner": "Benjamin FLETCHER"
+    }
+}

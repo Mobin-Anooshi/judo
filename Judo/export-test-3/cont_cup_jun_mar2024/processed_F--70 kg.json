@@ -1,0 +1,68 @@
+{
+    "ROUND 1": {
+        "round 1-2": [
+            [
+                {
+                    "country": "MAR",
+                    "name": "Nassma ESSATOURI"
+                },
+                {
+                    "country": "MAR",
+                    "name": "Samia SEMAMY"
+                },
+                {
+                    "winner": "Nassma ESSATOURI"
+                }
+            ],
+            [
+                {
+                    "country": "MAR",
+                    "name": "Malak LAKHAL"
+                },
+                {
+                    "country": "MAR",
+                    "name": "Aya SAAD"
+                },
+                {
+                    "winner": "Malak LAKHAL"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Nassma ESSATOURI",
+            "Malak LAKHAL"
+        ]
+    },
+    "REPECHAGE": {
+        "round 1-1": [
+            [
+                {
+                    "country": "MAR",
+                    "name": "Samia SEMAMY"
+                },
+                {
+                    "country": "MAR",
+                    "name": "Aya SAAD"
+                },
+                {
+                    "winner": "Aya SAAD"
+                }
+            ],
+            [
+                {
+                    "country": "MAR",
+                    "name": "Aya SAAD"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Aya SAAD"
+        ]
+    },
+    "FINALS": {
+        "round 1-1": [],
+        "final_winners": [
+            "Nassma ESSATOURI"
+        ]
+    }
+}

@@ -1,0 +1,68 @@
+{
+    "ROUND 1": {
+        "round 1-2": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Alexandre ALBANO II"
+                },
+                {
+                    "country": "USA",
+                    "name": "Daniel LIUBIMOVSKI"
+                },
+                {
+                    "winner": "Daniel LIUBIMOVSKI"
+                }
+            ],
+            [
+                {
+                    "country": "PUR",
+                    "name": "Derik RODRIGUEZ"
+                },
+                {
+                    "country": "CAN",
+                    "name": "Oleksansdr KAPLIN"
+                },
+                {
+                    "winner": "Derik RODRIGUEZ"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Daniel LIUBIMOVSKI",
+            "Derik RODRIGUEZ"
+        ]
+    },
+    "REPECHAGE": {
+        "round 1-1": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Alexandre ALBANO II"
+                },
+                {
+                    "country": "CAN",
+                    "name": "Oleksansdr KAPLIN"
+                },
+                {
+                    "winner": "Alexandre ALBANO II"
+                }
+            ],
+            [
+                {
+                    "country": "BRA",
+                    "name": "Alexandre ALBANO II"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Alexandre ALBANO II"
+        ]
+    },
+    "FINALS": {
+        "round 1-1": [],
+        "final_winners": [
+            "Daniel LIUBIMOVSKI"
+        ]
+    }
+}

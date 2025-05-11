@@ -1,0 +1,141 @@
+{
+    "POOL A": {
+        "round 1-1": [],
+        "final_winner": "Diana BRENES"
+    },
+    "POOL B": {
+        "round 1-1": [
+            [
+                {
+                    "country": "MEX",
+                    "name": "ALICIA SANMIGUEL"
+                },
+                {
+                    "country": "CAN",
+                    "name": "Allayah COPELAND"
+                }
+            ]
+        ],
+        "final_winner": "Allayah COPELAND"
+    },
+    "POOL C": {
+        "round 1-1": [],
+        "final_winner": "Anny RIBEIRO"
+    },
+    "POOL D": {
+        "round 1-1": [
+            [
+                {
+                    "country": "ECU",
+                    "name": "Alisson SUQUILANDA"
+                },
+                {
+                    "country": "VEN",
+                    "name": "Karen LEON"
+                }
+            ]
+        ],
+        "final_winner": "Karen LEON"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "MEX",
+                    "name": "ALICIA SANMIGUEL"
+                }
+            ],
+            [
+                {
+                    "country": "ECU",
+                    "name": "Alisson SUQUILANDA"
+                }
+            ],
+            [
+                {
+                    "country": "MEX",
+                    "name": "ALICIA SANMIGUEL"
+                },
+                {
+                    "country": "BRA",
+                    "name": "Anny RIBEIRO"
+                },
+                {
+                    "winner": "Anny RIBEIRO"
+                }
+            ],
+            [
+                {
+                    "country": "ECU",
+                    "name": "Alisson SUQUILANDA"
+                },
+                {
+                    "country": "CAN",
+                    "name": "Allayah COPELAND"
+                },
+                {
+                    "winner": "Allayah COPELAND"
+                }
+            ],
+            [
+                {
+                    "country": "BRA",
+                    "name": "Anny RIBEIRO"
+                }
+            ],
+            [
+                {
+                    "country": "CAN",
+                    "name": "Allayah COPELAND"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Anny RIBEIRO",
+            "Allayah COPELAND"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CRC",
+                    "name": "Diana BRENES"
+                },
+                {
+                    "country": "CAN",
+                    "name": "Allayah COPELAND"
+                },
+                {
+                    "winner": "Diana BRENES"
+                }
+            ],
+            [
+                {
+                    "country": "BRA",
+                    "name": "Anny RIBEIRO"
+                },
+                {
+                    "country": "VEN",
+                    "name": "Karen LEON"
+                },
+                {
+                    "winner": "Karen LEON"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "CRC",
+                    "name": "Diana BRENES"
+                },
+                {
+                    "country": "VEN",
+                    "name": "Karen LEON"
+                }
+            ]
+        ],
+        "final_winner": "Karen LEON"
+    }
+}

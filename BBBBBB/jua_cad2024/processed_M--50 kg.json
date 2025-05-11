@@ -1,0 +1,177 @@
+{
+    "POOL A": {
+        "round 1-1": [
+            [
+                {
+                    "country": "KSA",
+                    "name": "Abdullah ASIRI"
+                },
+                {
+                    "country": "MGL",
+                    "name": "Dorjsuren GONGOR"
+                }
+            ]
+        ],
+        "final_winner": "Dorjsuren GONGOR"
+    },
+    "POOL B": {
+        "round 1-1": [
+            [
+                {
+                    "country": "KUW",
+                    "name": "Sultan ALOTAIBI"
+                },
+                {
+                    "country": "UZB",
+                    "name": "Khushnudbek BURKHONOV"
+                }
+            ]
+        ],
+        "final_winner": "Khushnudbek BURKHONOV"
+    },
+    "POOL C": {
+        "round 1-1": [
+            [
+                {
+                    "country": "KGZ",
+                    "name": "Marsel TUMONBAEV"
+                },
+                {
+                    "country": "IRI",
+                    "name": "Amirhossein CHEGINI"
+                }
+            ]
+        ],
+        "final_winner": "Marsel TUMONBAEV"
+    },
+    "POOL D": {
+        "round 1-1": [
+            [
+                {
+                    "country": "TPE",
+                    "name": "Tsan-An CHIANG"
+                },
+                {
+                    "country": "KUW",
+                    "name": "Hasan ALRAMZI"
+                }
+            ]
+        ],
+        "final_winner": "Tsan-An CHIANG"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "KSA",
+                    "name": "Abdullah ASIRI"
+                },
+                {
+                    "country": "KUW",
+                    "name": "Sultan ALOTAIBI"
+                },
+                {
+                    "winner": "Sultan ALOTAIBI"
+                }
+            ],
+            [
+                {
+                    "country": "IRI",
+                    "name": "Amirhossein CHEGINI"
+                },
+                {
+                    "country": "KUW",
+                    "name": "Hasan ALRAMZI"
+                },
+                {
+                    "winner": "Amirhossein CHEGINI"
+                }
+            ],
+            [
+                {
+                    "country": "KUW",
+                    "name": "Sultan ALOTAIBI"
+                },
+                {
+                    "country": "KGZ",
+                    "name": "Marsel TUMONBAEV"
+                },
+                {
+                    "winner": "Marsel TUMONBAEV"
+                }
+            ],
+            [
+                {
+                    "country": "IRI",
+                    "name": "Amirhossein CHEGINI"
+                },
+                {
+                    "country": "MGL",
+                    "name": "Dorjsuren GONGOR"
+                },
+                {
+                    "winner": "Dorjsuren GONGOR"
+                }
+            ],
+            [
+                {
+                    "country": "KGZ",
+                    "name": "Marsel TUMONBAEV"
+                }
+            ],
+            [
+                {
+                    "country": "MGL",
+                    "name": "Dorjsuren GONGOR"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Marsel TUMONBAEV",
+            "Dorjsuren GONGOR"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "MGL",
+                    "name": "Dorjsuren GONGOR"
+                },
+                {
+                    "country": "UZB",
+                    "name": "Khushnudbek BURKHONOV"
+                },
+                {
+                    "winner": "Khushnudbek BURKHONOV"
+                }
+            ],
+            [
+                {
+                    "country": "KGZ",
+                    "name": "Marsel TUMONBAEV"
+                },
+                {
+                    "country": "TPE",
+                    "name": "Tsan-An CHIANG"
+                },
+                {
+                    "winner": "Tsan-An CHIANG"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "UZB",
+                    "name": "Khushnudbek BURKHONOV"
+                },
+                {
+                    "country": "TPE",
+                    "name": "Tsan-An CHIANG"
+                }
+            ]
+        ],
+        "final_winner": "Khushnudbek BURKHONOV"
+    }
+}

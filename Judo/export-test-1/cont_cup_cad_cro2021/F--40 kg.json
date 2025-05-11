@@ -1,0 +1,227 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "TUR",
+                    "name": "Zilan ERTEM"
+                },
+                {
+                    "winner": "Zilan ERTEM"
+                }
+            ],
+            []
+        ],
+        "round 1-1": [],
+        "final_winner": "Zilan ERTEM"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "FRA",
+                    "name": "Imane LIMA"
+                },
+                {
+                    "winner": "Imane LIMA"
+                }
+            ],
+            [
+                {
+                    "country": "UKR",
+                    "name": "Marharyta MIROSHNICHENKO"
+                },
+                {
+                    "winner": "Marharyta MIROSHNICHENKO"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "FRA",
+                    "name": "Imane LIMA"
+                },
+                {
+                    "country": "UKR",
+                    "name": "Marharyta MIROSHNICHENKO"
+                }
+            ]
+        ],
+        "final_winner": "Marharyta MIROSHNICHENKO"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "UKR",
+                    "name": "Anastasiia SUPERSON"
+                },
+                {
+                    "winner": "Anastasiia SUPERSON"
+                }
+            ],
+            []
+        ],
+        "round 1-1": [],
+        "final_winner": "Anastasiia SUPERSON"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ITA",
+                    "name": "Sofia SANTILLO"
+                },
+                {
+                    "winner": "Sofia SANTILLO"
+                }
+            ],
+            [
+                {
+                    "country": "HUN",
+                    "name": "Szabina SZELECZKI"
+                },
+                {
+                    "winner": "Szabina SZELECZKI"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "ITA",
+                    "name": "Sofia SANTILLO"
+                },
+                {
+                    "country": "HUN",
+                    "name": "Szabina SZELECZKI"
+                }
+            ]
+        ],
+        "final_winner": "Szabina SZELECZKI"
+    },
+    "REPECHAGE": {
+        "round 1-4": [
+            [],
+            [
+                {
+                    "country": "FRA",
+                    "name": "Imane LIMA"
+                },
+                {
+                    "winner": "Imane LIMA"
+                }
+            ],
+            [],
+            [
+                {
+                    "country": "ITA",
+                    "name": "Sofia SANTILLO"
+                },
+                {
+                    "winner": "Sofia SANTILLO"
+                }
+            ]
+        ],
+        "round 1-2": [
+            [
+                {
+                    "country": "FRA",
+                    "name": "Imane LIMA"
+                }
+            ],
+            [
+                {
+                    "country": "ITA",
+                    "name": "Sofia SANTILLO"
+                }
+            ],
+            [
+                {
+                    "country": "FRA",
+                    "name": "Imane LIMA"
+                },
+                {
+                    "country": "UKR",
+                    "name": "Anastasiia SUPERSON"
+                },
+                {
+                    "winner": "Anastasiia SUPERSON"
+                }
+            ],
+            [
+                {
+                    "country": "ITA",
+                    "name": "Sofia SANTILLO"
+                },
+                {
+                    "country": "TUR",
+                    "name": "Zilan ERTEM"
+                },
+                {
+                    "winner": "Zilan ERTEM"
+                }
+            ],
+            [
+                {
+                    "country": "UKR",
+                    "name": "Anastasiia SUPERSON"
+                }
+            ],
+            [
+                {
+                    "country": "TUR",
+                    "name": "Zilan ERTEM"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Anastasiia SUPERSON",
+            "Zilan ERTEM"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "TUR",
+                    "name": "Zilan ERTEM"
+                },
+                {
+                    "country": "UKR",
+                    "name": "Marharyta MIROSHNICHENKO"
+                },
+                {
+                    "winner": "Marharyta MIROSHNICHENKO"
+                }
+            ],
+            [
+                {
+                    "country": "UKR",
+                    "name": "Anastasiia SUPERSON"
+                },
+                {
+                    "country": "HUN",
+                    "name": "Szabina SZELECZKI"
+                },
+                {
+                    "winner": "Szabina SZELECZKI"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "UKR",
+                    "name": "Marharyta MIROSHNICHENKO"
+                },
+                {
+                    "country": "HUN",
+                    "name": "Szabina SZELECZKI"
+                }
+            ]
+        ],
+        "final_winner": "Szabina SZELECZKI"
+    }
+}

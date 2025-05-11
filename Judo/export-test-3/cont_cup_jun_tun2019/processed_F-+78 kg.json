@@ -1,0 +1,68 @@
+{
+    "ROUND 1": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ALG",
+                    "name": "Meroua MAMMERI"
+                },
+                {
+                    "country": "TUN",
+                    "name": "Fatma ABIDI"
+                },
+                {
+                    "winner": "Fatma ABIDI"
+                }
+            ],
+            [
+                {
+                    "country": "TUN",
+                    "name": "Siwar DHAWEDI"
+                },
+                {
+                    "country": "TUN",
+                    "name": "Islem LATRECH"
+                },
+                {
+                    "winner": "Islem LATRECH"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Fatma ABIDI",
+            "Islem LATRECH"
+        ]
+    },
+    "REPECHAGE": {
+        "round 1-1": [
+            [
+                {
+                    "country": "ALG",
+                    "name": "Meroua MAMMERI"
+                },
+                {
+                    "country": "TUN",
+                    "name": "Siwar DHAWEDI"
+                },
+                {
+                    "winner": "Meroua MAMMERI"
+                }
+            ],
+            [
+                {
+                    "country": "ALG",
+                    "name": "Meroua MAMMERI"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Meroua MAMMERI"
+        ]
+    },
+    "FINALS": {
+        "round 1-1": [],
+        "final_winners": [
+            "Islem LATRECH"
+        ]
+    }
+}

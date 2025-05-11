@@ -1,0 +1,164 @@
+{
+    "POOL A": {
+        "round 1-1": [
+            [
+                {
+                    "country": "ANG",
+                    "name": "Francisco BAMBI"
+                },
+                {
+                    "country": "ANG",
+                    "name": "Jaize ANTONIO"
+                }
+            ]
+        ],
+        "final_winner": "Francisco BAMBI"
+    },
+    "POOL B": {
+        "round 1-1": [
+            [
+                {
+                    "country": "ANG",
+                    "name": "Adelino KALUHAMUE"
+                },
+                {
+                    "country": "ANG",
+                    "name": "Carlos TEODORO"
+                }
+            ]
+        ],
+        "final_winner": "Carlos TEODORO"
+    },
+    "POOL C": {
+        "round 1-1": [
+            [
+                {
+                    "country": "ANG",
+                    "name": "Jose ZENGUELE"
+                },
+                {
+                    "country": "ANG",
+                    "name": "Willian De Jesus CARLOS"
+                }
+            ]
+        ],
+        "final_winner": "Jose ZENGUELE"
+    },
+    "POOL D": {
+        "round 1-1": [
+            [
+                {
+                    "country": "ANG",
+                    "name": "Lutonadio DALA"
+                },
+                {
+                    "country": "ANG",
+                    "name": "Elidio BUACA"
+                }
+            ]
+        ],
+        "final_winner": "Elidio BUACA"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ANG",
+                    "name": "Jaize ANTONIO"
+                },
+                {
+                    "country": "ANG",
+                    "name": "Adelino KALUHAMUE"
+                },
+                {
+                    "winner": "Adelino KALUHAMUE"
+                }
+            ],
+            [
+                {
+                    "country": "ANG",
+                    "name": "Willian De Jesus CARLOS"
+                },
+                {
+                    "country": "ANG",
+                    "name": "Lutonadio DALA"
+                },
+                {
+                    "winner": "Willian De Jesus CARLOS"
+                }
+            ],
+            [
+                {
+                    "country": "ANG",
+                    "name": "Adelino KALUHAMUE"
+                },
+                {
+                    "country": "ANG",
+                    "name": "Elidio BUACA"
+                },
+                {
+                    "winner": "Elidio BUACA"
+                }
+            ],
+            [
+                {
+                    "country": "ANG",
+                    "name": "Carlos TEODORO"
+                }
+            ],
+            [
+                {
+                    "country": "ANG",
+                    "name": "Elidio BUACA"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Willian De Jesus CARLOS",
+            "Elidio BUACA"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ANG",
+                    "name": "Francisco BAMBI"
+                },
+                {
+                    "country": "ANG",
+                    "name": "Carlos TEODORO"
+                },
+                {
+                    "winner": "Francisco BAMBI"
+                }
+            ],
+            [
+                {
+                    "country": "ANG",
+                    "name": "Jose ZENGUELE"
+                },
+                {
+                    "country": "ANG",
+                    "name": "Elidio BUACA"
+                },
+                {
+                    "winner": "Jose ZENGUELE"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "ANG",
+                    "name": "Francisco BAMBI"
+                },
+                {
+                    "country": "ANG",
+                    "name": "Jose ZENGUELE"
+                }
+            ]
+        ],
+        "final_winner": "Francisco BAMBI"
+    }
+}

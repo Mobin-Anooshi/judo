@@ -1,0 +1,141 @@
+{
+    "POOL A": {
+        "round 1-1": [],
+        "final_winner": "Zita Ornella BIAMI"
+    },
+    "POOL B": {
+        "round 1-1": [
+            [
+                {
+                    "country": "MAR",
+                    "name": "Nassma ESSATOURI"
+                },
+                {
+                    "country": "IJF",
+                    "name": "Daria ANTONOVA"
+                }
+            ]
+        ],
+        "final_winner": "Daria ANTONOVA"
+    },
+    "POOL C": {
+        "round 1-1": [],
+        "final_winner": "Tayla GRAUER"
+    },
+    "POOL D": {
+        "round 1-1": [
+            [
+                {
+                    "country": "LTU",
+                    "name": "Ugne PILECKAITE"
+                },
+                {
+                    "country": "MAR",
+                    "name": "Aya SAHMI LAMRANI"
+                }
+            ]
+        ],
+        "final_winner": "Ugne PILECKAITE"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "MAR",
+                    "name": "Nassma ESSATOURI"
+                }
+            ],
+            [
+                {
+                    "country": "MAR",
+                    "name": "Aya SAHMI LAMRANI"
+                }
+            ],
+            [
+                {
+                    "country": "MAR",
+                    "name": "Nassma ESSATOURI"
+                },
+                {
+                    "country": "LTU",
+                    "name": "Ugne PILECKAITE"
+                },
+                {
+                    "winner": "Ugne PILECKAITE"
+                }
+            ],
+            [
+                {
+                    "country": "MAR",
+                    "name": "Aya SAHMI LAMRANI"
+                },
+                {
+                    "country": "CMR",
+                    "name": "Zita Ornella BIAMI"
+                },
+                {
+                    "winner": "Zita Ornella BIAMI"
+                }
+            ],
+            [
+                {
+                    "country": "LTU",
+                    "name": "Ugne PILECKAITE"
+                }
+            ],
+            [
+                {
+                    "country": "CMR",
+                    "name": "Zita Ornella BIAMI"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Ugne PILECKAITE",
+            "Zita Ornella BIAMI"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CMR",
+                    "name": "Zita Ornella BIAMI"
+                },
+                {
+                    "country": "IJF",
+                    "name": "Daria ANTONOVA"
+                },
+                {
+                    "winner": "Daria ANTONOVA"
+                }
+            ],
+            [
+                {
+                    "country": "GER",
+                    "name": "Tayla GRAUER"
+                },
+                {
+                    "country": "LTU",
+                    "name": "Ugne PILECKAITE"
+                },
+                {
+                    "winner": "Tayla GRAUER"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "IJF",
+                    "name": "Daria ANTONOVA"
+                },
+                {
+                    "country": "GER",
+                    "name": "Tayla GRAUER"
+                }
+            ]
+        ],
+        "final_winner": "Tayla GRAUER"
+    }
+}

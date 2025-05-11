@@ -1,0 +1,205 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "JPN",
+                    "name": "Mamizu TSURU"
+                },
+                {
+                    "winner": "Mamizu TSURU"
+                }
+            ],
+            [
+                {
+                    "country": "IND",
+                    "name": "JYOTI"
+                },
+                {
+                    "winner": "JYOTI"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "JPN",
+                    "name": "Mamizu TSURU"
+                },
+                {
+                    "country": "IND",
+                    "name": "JYOTI"
+                }
+            ]
+        ],
+        "final_winner": "Mamizu TSURU"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [],
+            [
+                {
+                    "country": "TPE",
+                    "name": "Pei Chun YUAN"
+                },
+                {
+                    "winner": "Pei Chun YUAN"
+                }
+            ]
+        ],
+        "round 1-1": [],
+        "final_winner": "Pei Chun YUAN"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "KAZ",
+                    "name": "Moldir NARYNOVA"
+                },
+                {
+                    "winner": "Moldir NARYNOVA"
+                }
+            ],
+            []
+        ],
+        "round 1-1": [],
+        "final_winner": "Moldir NARYNOVA"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "KGZ",
+                    "name": "Kumushai SOSKEEVA"
+                },
+                {
+                    "winner": "Kumushai SOSKEEVA"
+                }
+            ],
+            [
+                {
+                    "country": "KOR",
+                    "name": "Goeun LEE"
+                },
+                {
+                    "winner": "Goeun LEE"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "KGZ",
+                    "name": "Kumushai SOSKEEVA"
+                },
+                {
+                    "country": "KOR",
+                    "name": "Goeun LEE"
+                }
+            ]
+        ],
+        "final_winner": "Goeun LEE"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "IND",
+                    "name": "JYOTI"
+                }
+            ],
+            [
+                {
+                    "country": "KGZ",
+                    "name": "Kumushai SOSKEEVA"
+                }
+            ],
+            [
+                {
+                    "country": "IND",
+                    "name": "JYOTI"
+                },
+                {
+                    "country": "KOR",
+                    "name": "Goeun LEE"
+                },
+                {
+                    "winner": "Goeun LEE"
+                }
+            ],
+            [
+                {
+                    "country": "KGZ",
+                    "name": "Kumushai SOSKEEVA"
+                },
+                {
+                    "country": "TPE",
+                    "name": "Pei Chun YUAN"
+                },
+                {
+                    "winner": "Pei Chun YUAN"
+                }
+            ],
+            [
+                {
+                    "country": "KOR",
+                    "name": "Goeun LEE"
+                }
+            ],
+            [
+                {
+                    "country": "TPE",
+                    "name": "Pei Chun YUAN"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Goeun LEE",
+            "Pei Chun YUAN"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "JPN",
+                    "name": "Mamizu TSURU"
+                },
+                {
+                    "country": "TPE",
+                    "name": "Pei Chun YUAN"
+                },
+                {
+                    "winner": "Mamizu TSURU"
+                }
+            ],
+            [
+                {
+                    "country": "KAZ",
+                    "name": "Moldir NARYNOVA"
+                },
+                {
+                    "country": "KOR",
+                    "name": "Goeun LEE"
+                },
+                {
+                    "winner": "Moldir NARYNOVA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "JPN",
+                    "name": "Mamizu TSURU"
+                },
+                {
+                    "country": "KAZ",
+                    "name": "Moldir NARYNOVA"
+                }
+            ]
+        ],
+        "final_winner": "Mamizu TSURU"
+    }
+}

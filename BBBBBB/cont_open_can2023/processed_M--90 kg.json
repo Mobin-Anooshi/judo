@@ -1,0 +1,265 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "USA",
+                    "name": "Alexander KNAUF"
+                },
+                {
+                    "winner": "Alexander KNAUF"
+                }
+            ],
+            [
+                {
+                    "country": "CAN",
+                    "name": "Nicholas HASLETT"
+                },
+                {
+                    "winner": "Nicholas HASLETT"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "USA",
+                    "name": "Alexander KNAUF"
+                },
+                {
+                    "country": "CAN",
+                    "name": "Nicholas HASLETT"
+                }
+            ]
+        ],
+        "final_winner": "Alexander KNAUF"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CAN",
+                    "name": "Guillaume GAULIN"
+                },
+                {
+                    "winner": "Guillaume GAULIN"
+                }
+            ],
+            [
+                {
+                    "country": "CAN",
+                    "name": "Alec GARAND"
+                },
+                {
+                    "country": "CAN",
+                    "name": "Lucas MACDONALD"
+                },
+                {
+                    "winner": "Alec GARAND"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "CAN",
+                    "name": "Guillaume GAULIN"
+                },
+                {
+                    "country": "CAN",
+                    "name": "Alec GARAND"
+                }
+            ]
+        ],
+        "final_winner": "Guillaume GAULIN"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CAN",
+                    "name": "Mohab ELNAHAS"
+                },
+                {
+                    "winner": "Mohab ELNAHAS"
+                }
+            ],
+            [
+                {
+                    "country": "USA",
+                    "name": "Gianni HALLAK"
+                },
+                {
+                    "country": "CAN",
+                    "name": "Faniry-Michael ANDRIAMANANA"
+                },
+                {
+                    "winner": "Faniry-Michael ANDRIAMANANA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "CAN",
+                    "name": "Mohab ELNAHAS"
+                },
+                {
+                    "country": "CAN",
+                    "name": "Faniry-Michael ANDRIAMANANA"
+                }
+            ]
+        ],
+        "final_winner": "Mohab ELNAHAS"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "USA",
+                    "name": "Davit AGHASARYAN"
+                },
+                {
+                    "winner": "Davit AGHASARYAN"
+                }
+            ],
+            [
+                {
+                    "country": "CAN",
+                    "name": "Alex MARINEAU"
+                },
+                {
+                    "winner": "Alex MARINEAU"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "USA",
+                    "name": "Davit AGHASARYAN"
+                },
+                {
+                    "country": "CAN",
+                    "name": "Alex MARINEAU"
+                }
+            ]
+        ],
+        "final_winner": "Davit AGHASARYAN"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CAN",
+                    "name": "Nicholas HASLETT"
+                },
+                {
+                    "country": "CAN",
+                    "name": "Alec GARAND"
+                },
+                {
+                    "winner": "Alec GARAND"
+                }
+            ],
+            [
+                {
+                    "country": "CAN",
+                    "name": "Faniry-Michael ANDRIAMANANA"
+                },
+                {
+                    "country": "CAN",
+                    "name": "Alex MARINEAU"
+                },
+                {
+                    "winner": "Alex MARINEAU"
+                }
+            ],
+            [
+                {
+                    "country": "CAN",
+                    "name": "Alec GARAND"
+                },
+                {
+                    "country": "USA",
+                    "name": "Davit AGHASARYAN"
+                },
+                {
+                    "winner": "Alec GARAND"
+                }
+            ],
+            [
+                {
+                    "country": "CAN",
+                    "name": "Alex MARINEAU"
+                },
+                {
+                    "country": "CAN",
+                    "name": "Guillaume GAULIN"
+                },
+                {
+                    "winner": "Guillaume GAULIN"
+                }
+            ],
+            [
+                {
+                    "country": "CAN",
+                    "name": "Alec GARAND"
+                }
+            ],
+            [
+                {
+                    "country": "CAN",
+                    "name": "Guillaume GAULIN"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Alec GARAND",
+            "Guillaume GAULIN"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "USA",
+                    "name": "Alexander KNAUF"
+                },
+                {
+                    "country": "CAN",
+                    "name": "Guillaume GAULIN"
+                },
+                {
+                    "winner": "Alexander KNAUF"
+                }
+            ],
+            [
+                {
+                    "country": "CAN",
+                    "name": "Mohab ELNAHAS"
+                },
+                {
+                    "country": "USA",
+                    "name": "Davit AGHASARYAN"
+                },
+                {
+                    "winner": "Mohab ELNAHAS"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "USA",
+                    "name": "Alexander KNAUF"
+                },
+                {
+                    "country": "CAN",
+                    "name": "Mohab ELNAHAS"
+                }
+            ]
+        ],
+        "final_winner": "Mohab ELNAHAS"
+    }
+}

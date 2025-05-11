@@ -1,0 +1,159 @@
+{
+    "POOL A": {
+        "round 1-1": [],
+        "final_winner": "Helena VUKOVIC"
+    },
+    "POOL B": {
+        "round 1-1": [
+            [
+                {
+                    "country": "ITA",
+                    "name": "Tiziana MARINI"
+                },
+                {
+                    "country": "SLO",
+                    "name": "Tara JANJIC"
+                }
+            ]
+        ],
+        "final_winner": "Tiziana MARINI"
+    },
+    "POOL C": {
+        "round 1-1": [
+            [
+                {
+                    "country": "POL",
+                    "name": "Wiktoria LIS"
+                },
+                {
+                    "country": "CRO",
+                    "name": "Ivana MARANIC"
+                }
+            ]
+        ],
+        "final_winner": "Ivana MARANIC"
+    },
+    "POOL D": {
+        "round 1-1": [
+            [
+                {
+                    "country": "GER",
+                    "name": "Melina WIEN"
+                },
+                {
+                    "country": "SLO",
+                    "name": "Urska TORKAR"
+                }
+            ]
+        ],
+        "final_winner": "Urska TORKAR"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "SLO",
+                    "name": "Tara JANJIC"
+                }
+            ],
+            [
+                {
+                    "country": "POL",
+                    "name": "Wiktoria LIS"
+                },
+                {
+                    "country": "GER",
+                    "name": "Melina WIEN"
+                },
+                {
+                    "winner": "Wiktoria LIS"
+                }
+            ],
+            [
+                {
+                    "country": "SLO",
+                    "name": "Tara JANJIC"
+                },
+                {
+                    "country": "SLO",
+                    "name": "Urska TORKAR"
+                },
+                {
+                    "winner": "Urska TORKAR"
+                }
+            ],
+            [
+                {
+                    "country": "POL",
+                    "name": "Wiktoria LIS"
+                },
+                {
+                    "country": "ITA",
+                    "name": "Tiziana MARINI"
+                },
+                {
+                    "winner": "Tiziana MARINI"
+                }
+            ],
+            [
+                {
+                    "country": "SLO",
+                    "name": "Urska TORKAR"
+                }
+            ],
+            [
+                {
+                    "country": "ITA",
+                    "name": "Tiziana MARINI"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Urska TORKAR",
+            "Tiziana MARINI"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CRO",
+                    "name": "Helena VUKOVIC"
+                },
+                {
+                    "country": "ITA",
+                    "name": "Tiziana MARINI"
+                },
+                {
+                    "winner": "Helena VUKOVIC"
+                }
+            ],
+            [
+                {
+                    "country": "CRO",
+                    "name": "Ivana MARANIC"
+                },
+                {
+                    "country": "SLO",
+                    "name": "Urska TORKAR"
+                },
+                {
+                    "winner": "Ivana MARANIC"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "CRO",
+                    "name": "Helena VUKOVIC"
+                },
+                {
+                    "country": "CRO",
+                    "name": "Ivana MARANIC"
+                }
+            ]
+        ],
+        "final_winner": "Helena VUKOVIC"
+    }
+}

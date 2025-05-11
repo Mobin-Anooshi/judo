@@ -1,0 +1,177 @@
+{
+    "POOL A": {
+        "round 1-1": [
+            [
+                {
+                    "country": "LTU",
+                    "name": "Sandra JABLONSKYTE"
+                },
+                {
+                    "country": "BLR",
+                    "name": "Maryia PIASLIAK"
+                }
+            ]
+        ],
+        "final_winner": "Sandra JABLONSKYTE"
+    },
+    "POOL B": {
+        "round 1-1": [
+            [
+                {
+                    "country": "POL",
+                    "name": "Anna ZALECZNA"
+                },
+                {
+                    "country": "FRA",
+                    "name": "Rauhiti VERNAUDON"
+                }
+            ]
+        ],
+        "final_winner": "Anna ZALECZNA"
+    },
+    "POOL C": {
+        "round 1-1": [
+            [
+                {
+                    "country": "NED",
+                    "name": "Tessie SAVELKOULS"
+                },
+                {
+                    "country": "POL",
+                    "name": "Paula KULAGA"
+                }
+            ]
+        ],
+        "final_winner": "Tessie SAVELKOULS"
+    },
+    "POOL D": {
+        "round 1-1": [
+            [
+                {
+                    "country": "LTU",
+                    "name": "Santa PAKENYTE"
+                },
+                {
+                    "country": "ESP",
+                    "name": "Patricia FERRER BARTULOS"
+                }
+            ]
+        ],
+        "final_winner": "Santa PAKENYTE"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "BLR",
+                    "name": "Maryia PIASLIAK"
+                },
+                {
+                    "country": "FRA",
+                    "name": "Rauhiti VERNAUDON"
+                },
+                {
+                    "winner": "Rauhiti VERNAUDON"
+                }
+            ],
+            [
+                {
+                    "country": "POL",
+                    "name": "Paula KULAGA"
+                },
+                {
+                    "country": "ESP",
+                    "name": "Patricia FERRER BARTULOS"
+                },
+                {
+                    "winner": "Paula KULAGA"
+                }
+            ],
+            [
+                {
+                    "country": "FRA",
+                    "name": "Rauhiti VERNAUDON"
+                },
+                {
+                    "country": "LTU",
+                    "name": "Santa PAKENYTE"
+                },
+                {
+                    "winner": "Santa PAKENYTE"
+                }
+            ],
+            [
+                {
+                    "country": "POL",
+                    "name": "Paula KULAGA"
+                },
+                {
+                    "country": "POL",
+                    "name": "Anna ZALECZNA"
+                },
+                {
+                    "winner": "Paula KULAGA"
+                }
+            ],
+            [
+                {
+                    "country": "LTU",
+                    "name": "Santa PAKENYTE"
+                }
+            ],
+            [
+                {
+                    "country": "POL",
+                    "name": "Paula KULAGA"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Santa PAKENYTE",
+            "Paula KULAGA"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "LTU",
+                    "name": "Sandra JABLONSKYTE"
+                },
+                {
+                    "country": "POL",
+                    "name": "Anna ZALECZNA"
+                },
+                {
+                    "winner": "Sandra JABLONSKYTE"
+                }
+            ],
+            [
+                {
+                    "country": "NED",
+                    "name": "Tessie SAVELKOULS"
+                },
+                {
+                    "country": "LTU",
+                    "name": "Santa PAKENYTE"
+                },
+                {
+                    "winner": "Tessie SAVELKOULS"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "LTU",
+                    "name": "Sandra JABLONSKYTE"
+                },
+                {
+                    "country": "NED",
+                    "name": "Tessie SAVELKOULS"
+                }
+            ]
+        ],
+        "final_winner": "Tessie SAVELKOULS"
+    }
+}

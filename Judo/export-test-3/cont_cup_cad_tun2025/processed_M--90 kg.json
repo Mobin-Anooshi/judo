@@ -1,0 +1,68 @@
+{
+    "ROUND 1": {
+        "round 1-2": [
+            [
+                {
+                    "country": "MAR",
+                    "name": "Yahya GUASSI"
+                },
+                {
+                    "country": "TUN",
+                    "name": "Adnen ZAYATI"
+                },
+                {
+                    "winner": "Adnen ZAYATI"
+                }
+            ],
+            [
+                {
+                    "country": "TUN",
+                    "name": "Adem LANDOLSI"
+                },
+                {
+                    "country": "TUN",
+                    "name": "Mohamed Rayen SALHI"
+                },
+                {
+                    "winner": "Mohamed Rayen SALHI"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Adnen ZAYATI",
+            "Mohamed Rayen SALHI"
+        ]
+    },
+    "REPECHAGE": {
+        "round 1-1": [
+            [
+                {
+                    "country": "MAR",
+                    "name": "Yahya GUASSI"
+                },
+                {
+                    "country": "TUN",
+                    "name": "Adem LANDOLSI"
+                },
+                {
+                    "winner": "Adem LANDOLSI"
+                }
+            ],
+            [
+                {
+                    "country": "TUN",
+                    "name": "Adem LANDOLSI"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Adem LANDOLSI"
+        ]
+    },
+    "FINALS": {
+        "round 1-1": [],
+        "final_winners": [
+            "Adnen ZAYATI"
+        ]
+    }
+}

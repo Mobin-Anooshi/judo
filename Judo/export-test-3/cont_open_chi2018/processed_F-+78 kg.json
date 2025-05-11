@@ -1,0 +1,68 @@
+{
+    "ROUND 1": {
+        "round 1-2": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Rochele NUNES"
+                },
+                {
+                    "country": "ECU",
+                    "name": "Marlin VIVEROS"
+                },
+                {
+                    "winner": "Rochele NUNES"
+                }
+            ],
+            [
+                {
+                    "country": "CHI",
+                    "name": "Josefina FUENTEALBA"
+                },
+                {
+                    "country": "USA",
+                    "name": "Mackenzie WILLIAMS"
+                },
+                {
+                    "winner": "Mackenzie WILLIAMS"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Rochele NUNES",
+            "Mackenzie WILLIAMS"
+        ]
+    },
+    "REPECHAGE": {
+        "round 1-1": [
+            [
+                {
+                    "country": "ECU",
+                    "name": "Marlin VIVEROS"
+                },
+                {
+                    "country": "CHI",
+                    "name": "Josefina FUENTEALBA"
+                },
+                {
+                    "winner": "Marlin VIVEROS"
+                }
+            ],
+            [
+                {
+                    "country": "ECU",
+                    "name": "Marlin VIVEROS"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Marlin VIVEROS"
+        ]
+    },
+    "FINALS": {
+        "round 1-1": [],
+        "final_winners": [
+            "Rochele NUNES"
+        ]
+    }
+}

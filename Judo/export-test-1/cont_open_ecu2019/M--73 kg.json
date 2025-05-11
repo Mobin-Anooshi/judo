@@ -1,0 +1,153 @@
+{
+    "POOL A": {
+        "round 1-1": [
+            [
+                {
+                    "country": "CUB",
+                    "name": "Magdiel ESTRADA"
+                },
+                {
+                    "country": "ECU",
+                    "name": "CARLOS SAMANIEGO"
+                }
+            ]
+        ],
+        "final_winner": "Magdiel ESTRADA"
+    },
+    "POOL B": {
+        "round 1-1": [],
+        "final_winner": "Gaston LAFON"
+    },
+    "POOL C": {
+        "round 1-1": [
+            [
+                {
+                    "country": "PER",
+                    "name": "Alonso WONG"
+                },
+                {
+                    "country": "ECU",
+                    "name": "Alexander MEDINA"
+                }
+            ]
+        ],
+        "final_winner": "Alonso WONG"
+    },
+    "POOL D": {
+        "round 1-1": [
+            [
+                {
+                    "country": "HAI",
+                    "name": "Philippe Abel METELLUS"
+                },
+                {
+                    "country": "CAN",
+                    "name": "Sava ANTIC"
+                }
+            ]
+        ],
+        "final_winner": "Sava ANTIC"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ECU",
+                    "name": "CARLOS SAMANIEGO"
+                }
+            ],
+            [
+                {
+                    "country": "ECU",
+                    "name": "Alexander MEDINA"
+                },
+                {
+                    "country": "HAI",
+                    "name": "Philippe Abel METELLUS"
+                },
+                {
+                    "winner": "Philippe Abel METELLUS"
+                }
+            ],
+            [
+                {
+                    "country": "ECU",
+                    "name": "CARLOS SAMANIEGO"
+                },
+                {
+                    "country": "CAN",
+                    "name": "Sava ANTIC"
+                },
+                {
+                    "winner": "CARLOS SAMANIEGO"
+                }
+            ],
+            [
+                {
+                    "country": "HAI",
+                    "name": "Philippe Abel METELLUS"
+                },
+                {
+                    "country": "PYF",
+                    "name": "Gaston LAFON"
+                },
+                {
+                    "winner": "Philippe Abel METELLUS"
+                }
+            ],
+            [
+                {
+                    "country": "HAI",
+                    "name": "Philippe Abel METELLUS"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Philippe Abel METELLUS",
+            "CARLOS SAMANIEGO"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CUB",
+                    "name": "Magdiel ESTRADA"
+                },
+                {
+                    "country": "PYF",
+                    "name": "Gaston LAFON"
+                },
+                {
+                    "winner": "Magdiel ESTRADA"
+                }
+            ],
+            [
+                {
+                    "country": "PER",
+                    "name": "Alonso WONG"
+                },
+                {
+                    "country": "CAN",
+                    "name": "Sava ANTIC"
+                },
+                {
+                    "winner": "Alonso WONG"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "CUB",
+                    "name": "Magdiel ESTRADA"
+                },
+                {
+                    "country": "PER",
+                    "name": "Alonso WONG"
+                }
+            ]
+        ],
+        "final_winner": "Magdiel ESTRADA"
+    }
+}

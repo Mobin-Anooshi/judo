@@ -1,0 +1,299 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Gustavo MILANO"
+                },
+                {
+                    "winner": "Gustavo MILANO"
+                }
+            ],
+            [
+                {
+                    "country": "ECU",
+                    "name": "Gerardo NOGALES"
+                },
+                {
+                    "country": "MEX",
+                    "name": "Christian LINARES"
+                },
+                {
+                    "winner": "Christian LINARES"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Gustavo MILANO"
+                },
+                {
+                    "country": "MEX",
+                    "name": "Christian LINARES"
+                }
+            ]
+        ],
+        "final_winner": "Gustavo MILANO"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Lucas RIBEIRO"
+                },
+                {
+                    "winner": "Lucas RIBEIRO"
+                }
+            ],
+            [
+                {
+                    "country": "ARG",
+                    "name": "Tomas QUINTEROS"
+                },
+                {
+                    "winner": "Tomas QUINTEROS"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Lucas RIBEIRO"
+                },
+                {
+                    "country": "ARG",
+                    "name": "Tomas QUINTEROS"
+                }
+            ]
+        ],
+        "final_winner": "Lucas RIBEIRO"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "VEN",
+                    "name": "Samuel CORZO"
+                },
+                {
+                    "winner": "Samuel CORZO"
+                }
+            ],
+            [
+                {
+                    "country": "ECU",
+                    "name": "Steven COLORADO"
+                },
+                {
+                    "winner": "Steven COLORADO"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "VEN",
+                    "name": "Samuel CORZO"
+                },
+                {
+                    "country": "ECU",
+                    "name": "Steven COLORADO"
+                }
+            ]
+        ],
+        "final_winner": "Samuel CORZO"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "COL",
+                    "name": "Jhon CAICEDO SINISTERRA"
+                },
+                {
+                    "winner": "Jhon CAICEDO SINISTERRA"
+                }
+            ],
+            [
+                {
+                    "country": "BRA",
+                    "name": "Joao SEGATELLE"
+                },
+                {
+                    "winner": "Joao SEGATELLE"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "COL",
+                    "name": "Jhon CAICEDO SINISTERRA"
+                },
+                {
+                    "country": "BRA",
+                    "name": "Joao SEGATELLE"
+                }
+            ]
+        ],
+        "final_winner": "Joao SEGATELLE"
+    },
+    "REPECHAGE": {
+        "round 1-4": [
+            [
+                {
+                    "country": "MEX",
+                    "name": "Christian LINARES"
+                },
+                {
+                    "winner": "Christian LINARES"
+                }
+            ],
+            [
+                {
+                    "country": "ARG",
+                    "name": "Tomas QUINTEROS"
+                },
+                {
+                    "winner": "Tomas QUINTEROS"
+                }
+            ],
+            [
+                {
+                    "country": "ECU",
+                    "name": "Steven COLORADO"
+                },
+                {
+                    "winner": "Steven COLORADO"
+                }
+            ],
+            [
+                {
+                    "country": "COL",
+                    "name": "Jhon CAICEDO SINISTERRA"
+                },
+                {
+                    "winner": "Jhon CAICEDO SINISTERRA"
+                }
+            ]
+        ],
+        "round 1-2": [
+            [
+                {
+                    "country": "MEX",
+                    "name": "Christian LINARES"
+                },
+                {
+                    "country": "ARG",
+                    "name": "Tomas QUINTEROS"
+                },
+                {
+                    "winner": "Tomas QUINTEROS"
+                }
+            ],
+            [
+                {
+                    "country": "ECU",
+                    "name": "Steven COLORADO"
+                },
+                {
+                    "country": "COL",
+                    "name": "Jhon CAICEDO SINISTERRA"
+                },
+                {
+                    "winner": "Jhon CAICEDO SINISTERRA"
+                }
+            ],
+            [
+                {
+                    "country": "ARG",
+                    "name": "Tomas QUINTEROS"
+                },
+                {
+                    "country": "VEN",
+                    "name": "Samuel CORZO"
+                },
+                {
+                    "winner": "Samuel CORZO"
+                }
+            ],
+            [
+                {
+                    "country": "COL",
+                    "name": "Jhon CAICEDO SINISTERRA"
+                },
+                {
+                    "country": "BRA",
+                    "name": "Lucas RIBEIRO"
+                },
+                {
+                    "winner": "Lucas RIBEIRO"
+                }
+            ],
+            [
+                {
+                    "country": "VEN",
+                    "name": "Samuel CORZO"
+                }
+            ],
+            [
+                {
+                    "country": "BRA",
+                    "name": "Lucas RIBEIRO"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Samuel CORZO",
+            "Lucas RIBEIRO"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Gustavo MILANO"
+                },
+                {
+                    "country": "BRA",
+                    "name": "Lucas RIBEIRO"
+                },
+                {
+                    "winner": "Gustavo MILANO"
+                }
+            ],
+            [
+                {
+                    "country": "VEN",
+                    "name": "Samuel CORZO"
+                },
+                {
+                    "country": "BRA",
+                    "name": "Joao SEGATELLE"
+                },
+                {
+                    "winner": "Joao SEGATELLE"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Gustavo MILANO"
+                },
+                {
+                    "country": "BRA",
+                    "name": "Joao SEGATELLE"
+                }
+            ]
+        ],
+        "final_winner": "Joao SEGATELLE"
+    }
+}

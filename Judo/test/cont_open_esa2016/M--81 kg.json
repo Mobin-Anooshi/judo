@@ -1,0 +1,216 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ESA",
+                    "name": "Juan Diego TURCIOS"
+                },
+                {
+                    "winner": "Juan Diego TURCIOS"
+                }
+            ],
+            []
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "ESA",
+                    "name": "Juan Diego TURCIOS"
+                }
+            ]
+        ]
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ECU",
+                    "name": "Carlos GUTIERREZ"
+                },
+                {
+                    "winner": "Carlos GUTIERREZ"
+                }
+            ],
+            [
+                {
+                    "country": "USA",
+                    "name": "Nicholas DELPOPOLO"
+                },
+                {
+                    "winner": "Nicholas DELPOPOLO"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "ECU",
+                    "name": "Carlos GUTIERREZ"
+                },
+                {
+                    "country": "USA",
+                    "name": "Nicholas DELPOPOLO"
+                }
+            ],
+            [
+                {
+                    "country": "USA",
+                    "name": "Nicholas DELPOPOLO"
+                }
+            ]
+        ]
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "GUA",
+                    "name": "Lester AVALOS VILLAFUERTE"
+                },
+                {
+                    "winner": "Lester AVALOS VILLAFUERTE"
+                }
+            ],
+            [
+                {
+                    "country": "USA",
+                    "name": "Jack HATTON"
+                },
+                {
+                    "winner": "Jack HATTON"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "GUA",
+                    "name": "Lester AVALOS VILLAFUERTE"
+                },
+                {
+                    "country": "USA",
+                    "name": "Jack HATTON"
+                }
+            ],
+            [
+                {
+                    "country": "USA",
+                    "name": "Jack HATTON"
+                }
+            ]
+        ]
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "USA",
+                    "name": "Jacob NICKEL"
+                },
+                {
+                    "winner": "Jacob NICKEL"
+                }
+            ],
+            []
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "USA",
+                    "name": "Jacob NICKEL"
+                }
+            ]
+        ]
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ECU",
+                    "name": "Carlos GUTIERREZ"
+                }
+            ],
+            [
+                {
+                    "country": "GUA",
+                    "name": "Lester AVALOS VILLAFUERTE"
+                }
+            ],
+            [
+                {
+                    "country": "ECU",
+                    "name": "Carlos GUTIERREZ"
+                },
+                {
+                    "country": "USA",
+                    "name": "Jacob NICKEL"
+                }
+            ],
+            [
+                {
+                    "country": "GUA",
+                    "name": "Lester AVALOS VILLAFUERTE"
+                },
+                {
+                    "country": "USA",
+                    "name": "Nicholas DELPOPOLO"
+                }
+            ],
+            [
+                {
+                    "country": "USA",
+                    "name": "Nicholas DELPOPOLO"
+                }
+            ]
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ESA",
+                    "name": "Juan Diego TURCIOS"
+                },
+                {
+                    "country": "USA",
+                    "name": "Nicholas DELPOPOLO"
+                },
+                {
+                    "winner": "Juan Diego TURCIOS"
+                }
+            ],
+            [
+                {
+                    "country": "USA",
+                    "name": "Jack HATTON"
+                },
+                {
+                    "country": "USA",
+                    "name": "Jacob NICKEL"
+                },
+                {
+                    "winner": "Jack HATTON"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "ESA",
+                    "name": "Juan Diego TURCIOS"
+                },
+                {
+                    "country": "USA",
+                    "name": "Jack HATTON"
+                }
+            ],
+            [
+                {
+                    "country": "USA",
+                    "name": "Jack HATTON"
+                }
+            ]
+        ]
+    }
+}

@@ -1,0 +1,277 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "IRQ",
+                    "name": "Yasir ALDAGHANI"
+                },
+                {
+                    "winner": "Yasir ALDAGHANI"
+                }
+            ],
+            [
+                {
+                    "country": "IND",
+                    "name": "Maninder MANINDER"
+                },
+                {
+                    "country": "KGZ",
+                    "name": "Rustam TURUSBEKOV"
+                },
+                {
+                    "winner": "Rustam TURUSBEKOV"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "IRQ",
+                    "name": "Yasir ALDAGHANI"
+                },
+                {
+                    "country": "KGZ",
+                    "name": "Rustam TURUSBEKOV"
+                }
+            ]
+        ],
+        "final_winner": "Rustam TURUSBEKOV"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "KAZ",
+                    "name": "Sanzhar BALGYMBEKOV"
+                },
+                {
+                    "winner": "Sanzhar BALGYMBEKOV"
+                }
+            ],
+            [
+                {
+                    "country": "KOR",
+                    "name": "Younghun KIM"
+                },
+                {
+                    "country": "HKG",
+                    "name": "Ling hon TANG"
+                },
+                {
+                    "winner": "Younghun KIM"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "KAZ",
+                    "name": "Sanzhar BALGYMBEKOV"
+                },
+                {
+                    "country": "KOR",
+                    "name": "Younghun KIM"
+                }
+            ]
+        ],
+        "final_winner": "Sanzhar BALGYMBEKOV"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "LBN",
+                    "name": "Andreas MECHLEB"
+                },
+                {
+                    "country": "KSA",
+                    "name": "Abdulelah ALBALI"
+                },
+                {
+                    "winner": "Andreas MECHLEB"
+                }
+            ],
+            [
+                {
+                    "country": "UZB",
+                    "name": "Ulugbek UROKOV"
+                },
+                {
+                    "country": "TPE",
+                    "name": "Chi feng CHANG"
+                },
+                {
+                    "winner": "Ulugbek UROKOV"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "LBN",
+                    "name": "Andreas MECHLEB"
+                },
+                {
+                    "country": "UZB",
+                    "name": "Ulugbek UROKOV"
+                }
+            ]
+        ],
+        "final_winner": "Ulugbek UROKOV"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "JPN",
+                    "name": "Daiki NAKAHASHI"
+                },
+                {
+                    "winner": "Daiki NAKAHASHI"
+                }
+            ],
+            [
+                {
+                    "country": "TJK",
+                    "name": "Shamoili JAHONGIR"
+                },
+                {
+                    "country": "IRI",
+                    "name": "Reza PARSAPOUR"
+                },
+                {
+                    "winner": "Shamoili JAHONGIR"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "JPN",
+                    "name": "Daiki NAKAHASHI"
+                },
+                {
+                    "country": "TJK",
+                    "name": "Shamoili JAHONGIR"
+                }
+            ]
+        ],
+        "final_winner": "Shamoili JAHONGIR"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "IRQ",
+                    "name": "Yasir ALDAGHANI"
+                },
+                {
+                    "country": "KOR",
+                    "name": "Younghun KIM"
+                },
+                {
+                    "winner": "Younghun KIM"
+                }
+            ],
+            [
+                {
+                    "country": "LBN",
+                    "name": "Andreas MECHLEB"
+                },
+                {
+                    "country": "JPN",
+                    "name": "Daiki NAKAHASHI"
+                },
+                {
+                    "winner": "Daiki NAKAHASHI"
+                }
+            ],
+            [
+                {
+                    "country": "KOR",
+                    "name": "Younghun KIM"
+                },
+                {
+                    "country": "TJK",
+                    "name": "Shamoili JAHONGIR"
+                },
+                {
+                    "winner": "Younghun KIM"
+                }
+            ],
+            [
+                {
+                    "country": "JPN",
+                    "name": "Daiki NAKAHASHI"
+                },
+                {
+                    "country": "KGZ",
+                    "name": "Rustam TURUSBEKOV"
+                },
+                {
+                    "winner": "Daiki NAKAHASHI"
+                }
+            ],
+            [
+                {
+                    "country": "KOR",
+                    "name": "Younghun KIM"
+                }
+            ],
+            [
+                {
+                    "country": "JPN",
+                    "name": "Daiki NAKAHASHI"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Younghun KIM",
+            "Daiki NAKAHASHI"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "KGZ",
+                    "name": "Rustam TURUSBEKOV"
+                },
+                {
+                    "country": "KAZ",
+                    "name": "Sanzhar BALGYMBEKOV"
+                },
+                {
+                    "winner": "Sanzhar BALGYMBEKOV"
+                }
+            ],
+            [
+                {
+                    "country": "UZB",
+                    "name": "Ulugbek UROKOV"
+                },
+                {
+                    "country": "TJK",
+                    "name": "Shamoili JAHONGIR"
+                },
+                {
+                    "winner": "Ulugbek UROKOV"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "KAZ",
+                    "name": "Sanzhar BALGYMBEKOV"
+                },
+                {
+                    "country": "UZB",
+                    "name": "Ulugbek UROKOV"
+                }
+            ]
+        ],
+        "final_winner": "Sanzhar BALGYMBEKOV"
+    }
+}

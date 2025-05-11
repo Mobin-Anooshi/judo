@@ -1,0 +1,141 @@
+{
+    "POOL A": {
+        "round 1-1": [],
+        "final_winner": "Ivo DARGOLTZ"
+    },
+    "POOL B": {
+        "round 1-1": [
+            [
+                {
+                    "country": "ESA",
+                    "name": "Juan Diego TURCIOS"
+                },
+                {
+                    "country": "CHI",
+                    "name": "Erik ESCRICH"
+                }
+            ]
+        ],
+        "final_winner": "Juan Diego TURCIOS"
+    },
+    "POOL C": {
+        "round 1-1": [],
+        "final_winner": "Rafael ROMO"
+    },
+    "POOL D": {
+        "round 1-1": [
+            [
+                {
+                    "country": "ECU",
+                    "name": "Junior ANGULO"
+                },
+                {
+                    "country": "COL",
+                    "name": "Jaider MORA"
+                }
+            ]
+        ],
+        "final_winner": "Junior ANGULO"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CHI",
+                    "name": "Erik ESCRICH"
+                }
+            ],
+            [
+                {
+                    "country": "COL",
+                    "name": "Jaider MORA"
+                }
+            ],
+            [
+                {
+                    "country": "CHI",
+                    "name": "Erik ESCRICH"
+                },
+                {
+                    "country": "ECU",
+                    "name": "Junior ANGULO"
+                },
+                {
+                    "winner": "Junior ANGULO"
+                }
+            ],
+            [
+                {
+                    "country": "COL",
+                    "name": "Jaider MORA"
+                },
+                {
+                    "country": "ESA",
+                    "name": "Juan Diego TURCIOS"
+                },
+                {
+                    "winner": "Juan Diego TURCIOS"
+                }
+            ],
+            [
+                {
+                    "country": "ECU",
+                    "name": "Junior ANGULO"
+                }
+            ],
+            [
+                {
+                    "country": "ESA",
+                    "name": "Juan Diego TURCIOS"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Junior ANGULO",
+            "Juan Diego TURCIOS"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ARG",
+                    "name": "Ivo DARGOLTZ"
+                },
+                {
+                    "country": "ESA",
+                    "name": "Juan Diego TURCIOS"
+                },
+                {
+                    "winner": "Ivo DARGOLTZ"
+                }
+            ],
+            [
+                {
+                    "country": "CHI",
+                    "name": "Rafael ROMO"
+                },
+                {
+                    "country": "ECU",
+                    "name": "Junior ANGULO"
+                },
+                {
+                    "winner": "Rafael ROMO"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "ARG",
+                    "name": "Ivo DARGOLTZ"
+                },
+                {
+                    "country": "CHI",
+                    "name": "Rafael ROMO"
+                }
+            ]
+        ],
+        "final_winner": "Ivo DARGOLTZ"
+    }
+}

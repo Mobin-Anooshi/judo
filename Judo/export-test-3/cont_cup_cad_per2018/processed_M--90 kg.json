@@ -1,0 +1,68 @@
+{
+    "ROUND 1": {
+        "round 1-2": [
+            [
+                {
+                    "country": "VEN",
+                    "name": "Ramses ANSELMI"
+                },
+                {
+                    "country": "PER",
+                    "name": "Alejandro MARTINEZ CUAYLA"
+                },
+                {
+                    "winner": "Ramses ANSELMI"
+                }
+            ],
+            [
+                {
+                    "country": "CHI",
+                    "name": "Franco ARISMENDI"
+                },
+                {
+                    "country": "COL",
+                    "name": "Juan Pablo ESCOBAR"
+                },
+                {
+                    "winner": "Juan Pablo ESCOBAR"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Ramses ANSELMI",
+            "Juan Pablo ESCOBAR"
+        ]
+    },
+    "REPECHAGE": {
+        "round 1-1": [
+            [
+                {
+                    "country": "PER",
+                    "name": "Alejandro MARTINEZ CUAYLA"
+                },
+                {
+                    "country": "CHI",
+                    "name": "Franco ARISMENDI"
+                },
+                {
+                    "winner": "Franco ARISMENDI"
+                }
+            ],
+            [
+                {
+                    "country": "CHI",
+                    "name": "Franco ARISMENDI"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Franco ARISMENDI"
+        ]
+    },
+    "FINALS": {
+        "round 1-1": [],
+        "final_winners": [
+            "Juan Pablo ESCOBAR"
+        ]
+    }
+}

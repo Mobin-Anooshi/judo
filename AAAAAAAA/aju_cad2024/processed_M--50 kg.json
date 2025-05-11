@@ -1,0 +1,159 @@
+{
+    "POOL A": {
+        "round 1-1": [],
+        "final_winner": "Bertrand KANA"
+    },
+    "POOL B": {
+        "round 1-1": [
+            [
+                {
+                    "country": "BDI",
+                    "name": "Arthur HAKIZIMANA"
+                },
+                {
+                    "country": "LBA",
+                    "name": "Ali EISAY"
+                }
+            ]
+        ],
+        "final_winner": "Arthur HAKIZIMANA"
+    },
+    "POOL C": {
+        "round 1-1": [
+            [
+                {
+                    "country": "CMR",
+                    "name": "Pierre Raphael NLENGUI EBOLO"
+                },
+                {
+                    "country": "EGY",
+                    "name": "Youssef IBRAHIM"
+                }
+            ]
+        ],
+        "final_winner": "Youssef IBRAHIM"
+    },
+    "POOL D": {
+        "round 1-1": [
+            [
+                {
+                    "country": "GAB",
+                    "name": "Haldryck MOUSSAVOU MOUSSADJI"
+                },
+                {
+                    "country": "CMR",
+                    "name": "Gildas Raphael Yann AMBASSA BANGMO"
+                }
+            ]
+        ],
+        "final_winner": "Gildas Raphael Yann AMBASSA BANGMO"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "LBA",
+                    "name": "Ali EISAY"
+                }
+            ],
+            [
+                {
+                    "country": "CMR",
+                    "name": "Pierre Raphael NLENGUI EBOLO"
+                },
+                {
+                    "country": "GAB",
+                    "name": "Haldryck MOUSSAVOU MOUSSADJI"
+                },
+                {
+                    "winner": "Pierre Raphael NLENGUI EBOLO"
+                }
+            ],
+            [
+                {
+                    "country": "LBA",
+                    "name": "Ali EISAY"
+                },
+                {
+                    "country": "CMR",
+                    "name": "Gildas Raphael Yann AMBASSA BANGMO"
+                },
+                {
+                    "winner": "Gildas Raphael Yann AMBASSA BANGMO"
+                }
+            ],
+            [
+                {
+                    "country": "CMR",
+                    "name": "Pierre Raphael NLENGUI EBOLO"
+                },
+                {
+                    "country": "BDI",
+                    "name": "Arthur HAKIZIMANA"
+                },
+                {
+                    "winner": "Arthur HAKIZIMANA"
+                }
+            ],
+            [
+                {
+                    "country": "CMR",
+                    "name": "Gildas Raphael Yann AMBASSA BANGMO"
+                }
+            ],
+            [
+                {
+                    "country": "BDI",
+                    "name": "Arthur HAKIZIMANA"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Gildas Raphael Yann AMBASSA BANGMO",
+            "Arthur HAKIZIMANA"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CMR",
+                    "name": "Bertrand KANA"
+                },
+                {
+                    "country": "BDI",
+                    "name": "Arthur HAKIZIMANA"
+                },
+                {
+                    "winner": "Bertrand KANA"
+                }
+            ],
+            [
+                {
+                    "country": "EGY",
+                    "name": "Youssef IBRAHIM"
+                },
+                {
+                    "country": "CMR",
+                    "name": "Gildas Raphael Yann AMBASSA BANGMO"
+                },
+                {
+                    "winner": "Youssef IBRAHIM"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "CMR",
+                    "name": "Bertrand KANA"
+                },
+                {
+                    "country": "EGY",
+                    "name": "Youssef IBRAHIM"
+                }
+            ]
+        ],
+        "final_winner": "Youssef IBRAHIM"
+    }
+}

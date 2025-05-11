@@ -1,0 +1,205 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "BLR",
+                    "name": "Maryna SLUTSKAYA"
+                },
+                {
+                    "winner": "Maryna SLUTSKAYA"
+                }
+            ],
+            []
+        ],
+        "round 1-1": [],
+        "final_winner": "Maryna SLUTSKAYA"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "POL",
+                    "name": "Anna ZALECZNA"
+                },
+                {
+                    "winner": "Anna ZALECZNA"
+                }
+            ],
+            [
+                {
+                    "country": "BRA",
+                    "name": "Camila YAMAKAWA"
+                },
+                {
+                    "winner": "Camila YAMAKAWA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "POL",
+                    "name": "Anna ZALECZNA"
+                },
+                {
+                    "country": "BRA",
+                    "name": "Camila YAMAKAWA"
+                }
+            ]
+        ],
+        "final_winner": "Camila YAMAKAWA"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "LTU",
+                    "name": "Sandra JABLONSKYTE"
+                },
+                {
+                    "winner": "Sandra JABLONSKYTE"
+                }
+            ],
+            []
+        ],
+        "round 1-1": [],
+        "final_winner": "Sandra JABLONSKYTE"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "UKR",
+                    "name": "Yelyzaveta KALANINA"
+                },
+                {
+                    "winner": "Yelyzaveta KALANINA"
+                }
+            ],
+            [
+                {
+                    "country": "BRA",
+                    "name": "Beatriz SOUZA"
+                },
+                {
+                    "winner": "Beatriz SOUZA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "UKR",
+                    "name": "Yelyzaveta KALANINA"
+                },
+                {
+                    "country": "BRA",
+                    "name": "Beatriz SOUZA"
+                }
+            ]
+        ],
+        "final_winner": "Yelyzaveta KALANINA"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "POL",
+                    "name": "Anna ZALECZNA"
+                }
+            ],
+            [
+                {
+                    "country": "BRA",
+                    "name": "Beatriz SOUZA"
+                }
+            ],
+            [
+                {
+                    "country": "POL",
+                    "name": "Anna ZALECZNA"
+                },
+                {
+                    "country": "LTU",
+                    "name": "Sandra JABLONSKYTE"
+                },
+                {
+                    "winner": "Sandra JABLONSKYTE"
+                }
+            ],
+            [
+                {
+                    "country": "BRA",
+                    "name": "Beatriz SOUZA"
+                },
+                {
+                    "country": "BRA",
+                    "name": "Camila YAMAKAWA"
+                },
+                {
+                    "winner": "Camila YAMAKAWA"
+                }
+            ],
+            [
+                {
+                    "country": "LTU",
+                    "name": "Sandra JABLONSKYTE"
+                }
+            ],
+            [
+                {
+                    "country": "BRA",
+                    "name": "Camila YAMAKAWA"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Sandra JABLONSKYTE",
+            "Camila YAMAKAWA"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "BLR",
+                    "name": "Maryna SLUTSKAYA"
+                },
+                {
+                    "country": "BRA",
+                    "name": "Camila YAMAKAWA"
+                },
+                {
+                    "winner": "Maryna SLUTSKAYA"
+                }
+            ],
+            [
+                {
+                    "country": "LTU",
+                    "name": "Sandra JABLONSKYTE"
+                },
+                {
+                    "country": "UKR",
+                    "name": "Yelyzaveta KALANINA"
+                },
+                {
+                    "winner": "Yelyzaveta KALANINA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "BLR",
+                    "name": "Maryna SLUTSKAYA"
+                },
+                {
+                    "country": "UKR",
+                    "name": "Yelyzaveta KALANINA"
+                }
+            ]
+        ],
+        "final_winner": "Yelyzaveta KALANINA"
+    }
+}

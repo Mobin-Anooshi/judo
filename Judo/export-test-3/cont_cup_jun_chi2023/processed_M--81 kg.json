@@ -1,0 +1,68 @@
+{
+    "ROUND 1": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CHI",
+                    "name": "Sebastian EGGERS"
+                },
+                {
+                    "country": "CHI",
+                    "name": "Jhoel GARCIA"
+                },
+                {
+                    "winner": "Jhoel GARCIA"
+                }
+            ],
+            [
+                {
+                    "country": "CHI",
+                    "name": "Demis GOMEZ"
+                },
+                {
+                    "country": "CHI",
+                    "name": "Brian SOTO"
+                },
+                {
+                    "winner": "Brian SOTO"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Jhoel GARCIA",
+            "Brian SOTO"
+        ]
+    },
+    "REPECHAGE": {
+        "round 1-1": [
+            [
+                {
+                    "country": "CHI",
+                    "name": "Sebastian EGGERS"
+                },
+                {
+                    "country": "CHI",
+                    "name": "Demis GOMEZ"
+                },
+                {
+                    "winner": "Demis GOMEZ"
+                }
+            ],
+            [
+                {
+                    "country": "CHI",
+                    "name": "Demis GOMEZ"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Demis GOMEZ"
+        ]
+    },
+    "FINALS": {
+        "round 1-1": [],
+        "final_winners": [
+            "Brian SOTO"
+        ]
+    }
+}

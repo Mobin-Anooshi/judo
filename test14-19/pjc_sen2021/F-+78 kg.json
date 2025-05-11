@@ -1,0 +1,153 @@
+{
+    "POOL A": {
+        "round 1-1": [
+            []
+        ]
+    },
+    "POOL B": {
+        "round 1-1": [
+            [
+                {
+                    "country": "USA",
+                    "name": "Nina CUTRO-KELLY"
+                },
+                {
+                    "country": "PER",
+                    "name": "Yuliana Vanessa BOLIVAR GONZALEZ"
+                }
+            ],
+            [
+                {
+                    "country": "USA",
+                    "name": "Nina CUTRO-KELLY"
+                }
+            ]
+        ]
+    },
+    "POOL C": {
+        "round 1-1": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Beatriz SOUZA"
+                },
+                {
+                    "country": "MEX",
+                    "name": "Priscila MARTINEZ"
+                }
+            ],
+            [
+                {
+                    "country": "BRA",
+                    "name": "Beatriz SOUZA"
+                }
+            ]
+        ]
+    },
+    "POOL D": {
+        "round 1-1": [
+            [
+                {
+                    "country": "PUR",
+                    "name": "Melissa MOJICA"
+                },
+                {
+                    "country": "NCA",
+                    "name": "Izayana MARENCO"
+                }
+            ],
+            [
+                {
+                    "country": "PUR",
+                    "name": "Melissa MOJICA"
+                }
+            ]
+        ]
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "PER",
+                    "name": "Yuliana Vanessa BOLIVAR GONZALEZ"
+                }
+            ],
+            [
+                {
+                    "country": "MEX",
+                    "name": "Priscila MARTINEZ"
+                },
+                {
+                    "country": "NCA",
+                    "name": "Izayana MARENCO"
+                }
+            ],
+            [
+                {
+                    "country": "PER",
+                    "name": "Yuliana Vanessa BOLIVAR GONZALEZ"
+                },
+                {
+                    "country": "PUR",
+                    "name": "Melissa MOJICA"
+                }
+            ],
+            [
+                {
+                    "country": "MEX",
+                    "name": "Priscila MARTINEZ"
+                }
+            ],
+            [
+                {
+                    "country": "PUR",
+                    "name": "Melissa MOJICA"
+                }
+            ]
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "USA",
+                    "name": "Nina CUTRO-KELLY"
+                },
+                {
+                    "winner": "Nina CUTRO-KELLY"
+                }
+            ],
+            [
+                {
+                    "country": "BRA",
+                    "name": "Beatriz SOUZA"
+                },
+                {
+                    "country": "PUR",
+                    "name": "Melissa MOJICA"
+                },
+                {
+                    "winner": "Beatriz SOUZA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "USA",
+                    "name": "Nina CUTRO-KELLY"
+                },
+                {
+                    "country": "BRA",
+                    "name": "Beatriz SOUZA"
+                }
+            ],
+            [
+                {
+                    "country": "BRA",
+                    "name": "Beatriz SOUZA"
+                }
+            ]
+        ]
+    }
+}

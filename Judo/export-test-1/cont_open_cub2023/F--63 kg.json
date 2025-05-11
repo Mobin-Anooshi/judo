@@ -1,0 +1,159 @@
+{
+    "POOL A": {
+        "round 1-1": [],
+        "final_winner": "Maylin DEL TORO CARVAJAL"
+    },
+    "POOL B": {
+        "round 1-1": [
+            [
+                {
+                    "country": "USA",
+                    "name": "Emily Daniela JASPE"
+                },
+                {
+                    "country": "CUB",
+                    "name": "Wendy MARTINEZ"
+                }
+            ]
+        ],
+        "final_winner": "Wendy MARTINEZ"
+    },
+    "POOL C": {
+        "round 1-1": [
+            [
+                {
+                    "country": "COL",
+                    "name": "Cindy MERA"
+                },
+                {
+                    "country": "CUB",
+                    "name": "Lorena VIEL"
+                }
+            ]
+        ],
+        "final_winner": "Cindy MERA"
+    },
+    "POOL D": {
+        "round 1-1": [
+            [
+                {
+                    "country": "CUB",
+                    "name": "Yusmari REYES LAFFITA"
+                },
+                {
+                    "country": "CUB",
+                    "name": "Jessica CASTELLANO"
+                }
+            ]
+        ],
+        "final_winner": "Yusmari REYES LAFFITA"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "USA",
+                    "name": "Emily Daniela JASPE"
+                }
+            ],
+            [
+                {
+                    "country": "CUB",
+                    "name": "Lorena VIEL"
+                },
+                {
+                    "country": "CUB",
+                    "name": "Jessica CASTELLANO"
+                },
+                {
+                    "winner": "Lorena VIEL"
+                }
+            ],
+            [
+                {
+                    "country": "USA",
+                    "name": "Emily Daniela JASPE"
+                },
+                {
+                    "country": "CUB",
+                    "name": "Yusmari REYES LAFFITA"
+                },
+                {
+                    "winner": "Yusmari REYES LAFFITA"
+                }
+            ],
+            [
+                {
+                    "country": "CUB",
+                    "name": "Lorena VIEL"
+                },
+                {
+                    "country": "CUB",
+                    "name": "Wendy MARTINEZ"
+                },
+                {
+                    "winner": "Wendy MARTINEZ"
+                }
+            ],
+            [
+                {
+                    "country": "CUB",
+                    "name": "Yusmari REYES LAFFITA"
+                }
+            ],
+            [
+                {
+                    "country": "CUB",
+                    "name": "Wendy MARTINEZ"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Yusmari REYES LAFFITA",
+            "Wendy MARTINEZ"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CUB",
+                    "name": "Maylin DEL TORO CARVAJAL"
+                },
+                {
+                    "country": "CUB",
+                    "name": "Wendy MARTINEZ"
+                },
+                {
+                    "winner": "Maylin DEL TORO CARVAJAL"
+                }
+            ],
+            [
+                {
+                    "country": "COL",
+                    "name": "Cindy MERA"
+                },
+                {
+                    "country": "CUB",
+                    "name": "Yusmari REYES LAFFITA"
+                },
+                {
+                    "winner": "Cindy MERA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "CUB",
+                    "name": "Maylin DEL TORO CARVAJAL"
+                },
+                {
+                    "country": "COL",
+                    "name": "Cindy MERA"
+                }
+            ]
+        ],
+        "final_winner": "Maylin DEL TORO CARVAJAL"
+    }
+}

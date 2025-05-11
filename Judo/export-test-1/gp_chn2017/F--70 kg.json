@@ -1,0 +1,289 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CRO",
+                    "name": "Barbara MATIC"
+                },
+                {
+                    "country": "CHN",
+                    "name": "Zi YAN"
+                },
+                {
+                    "winner": "Barbara MATIC"
+                }
+            ],
+            [
+                {
+                    "country": "BEL",
+                    "name": "Roxane TAEYMANS"
+                },
+                {
+                    "country": "MGL",
+                    "name": "Khulan BATBAATAR"
+                },
+                {
+                    "winner": "Roxane TAEYMANS"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "CRO",
+                    "name": "Barbara MATIC"
+                },
+                {
+                    "country": "BEL",
+                    "name": "Roxane TAEYMANS"
+                }
+            ]
+        ],
+        "final_winner": "Barbara MATIC"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "RUS",
+                    "name": "Alena PROKOPENKO"
+                },
+                {
+                    "country": "JPN",
+                    "name": "Naeko MAEDA"
+                },
+                {
+                    "winner": "Naeko MAEDA"
+                }
+            ],
+            [
+                {
+                    "country": "AUS",
+                    "name": "Aoife COUGHLAN"
+                },
+                {
+                    "country": "KOR",
+                    "name": "Hye Jin JEONG"
+                },
+                {
+                    "winner": "Hye Jin JEONG"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "JPN",
+                    "name": "Naeko MAEDA"
+                },
+                {
+                    "country": "KOR",
+                    "name": "Hye Jin JEONG"
+                }
+            ]
+        ],
+        "final_winner": "Naeko MAEDA"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "KOR",
+                    "name": "Seongyeon KIM"
+                },
+                {
+                    "country": "AUT",
+                    "name": "Michaela POLLERES"
+                },
+                {
+                    "winner": "Seongyeon KIM"
+                }
+            ],
+            [
+                {
+                    "country": "KAZ",
+                    "name": "Zere BEKTASKYZY"
+                },
+                {
+                    "country": "ITA",
+                    "name": "Carola PAISSONI"
+                },
+                {
+                    "winner": "Carola PAISSONI"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "KOR",
+                    "name": "Seongyeon KIM"
+                },
+                {
+                    "country": "ITA",
+                    "name": "Carola PAISSONI"
+                }
+            ]
+        ],
+        "final_winner": "Seongyeon KIM"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "HUN",
+                    "name": "Szabina GERCSAK"
+                },
+                {
+                    "country": "MGL",
+                    "name": "Badamgarav ANKHTUYA"
+                },
+                {
+                    "winner": "Szabina GERCSAK"
+                }
+            ],
+            [
+                {
+                    "country": "NED",
+                    "name": "Natascha AUSMA"
+                },
+                {
+                    "country": "RUS",
+                    "name": "Tatiana KOVALENKO"
+                },
+                {
+                    "winner": "Natascha AUSMA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "HUN",
+                    "name": "Szabina GERCSAK"
+                },
+                {
+                    "country": "NED",
+                    "name": "Natascha AUSMA"
+                }
+            ]
+        ],
+        "final_winner": "Natascha AUSMA"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "BEL",
+                    "name": "Roxane TAEYMANS"
+                },
+                {
+                    "country": "KOR",
+                    "name": "Hye Jin JEONG"
+                },
+                {
+                    "winner": "Hye Jin JEONG"
+                }
+            ],
+            [
+                {
+                    "country": "ITA",
+                    "name": "Carola PAISSONI"
+                },
+                {
+                    "country": "HUN",
+                    "name": "Szabina GERCSAK"
+                },
+                {
+                    "winner": "Szabina GERCSAK"
+                }
+            ],
+            [
+                {
+                    "country": "KOR",
+                    "name": "Hye Jin JEONG"
+                },
+                {
+                    "country": "NED",
+                    "name": "Natascha AUSMA"
+                },
+                {
+                    "winner": "Natascha AUSMA"
+                }
+            ],
+            [
+                {
+                    "country": "HUN",
+                    "name": "Szabina GERCSAK"
+                },
+                {
+                    "country": "CRO",
+                    "name": "Barbara MATIC"
+                },
+                {
+                    "winner": "Barbara MATIC"
+                }
+            ],
+            [
+                {
+                    "country": "NED",
+                    "name": "Natascha AUSMA"
+                }
+            ],
+            [
+                {
+                    "country": "CRO",
+                    "name": "Barbara MATIC"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Natascha AUSMA",
+            "Barbara MATIC"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CRO",
+                    "name": "Barbara MATIC"
+                },
+                {
+                    "country": "JPN",
+                    "name": "Naeko MAEDA"
+                },
+                {
+                    "winner": "Naeko MAEDA"
+                }
+            ],
+            [
+                {
+                    "country": "KOR",
+                    "name": "Seongyeon KIM"
+                },
+                {
+                    "country": "NED",
+                    "name": "Natascha AUSMA"
+                },
+                {
+                    "winner": "Seongyeon KIM"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "JPN",
+                    "name": "Naeko MAEDA"
+                },
+                {
+                    "country": "KOR",
+                    "name": "Seongyeon KIM"
+                }
+            ]
+        ],
+        "final_winner": "Naeko MAEDA"
+    }
+}

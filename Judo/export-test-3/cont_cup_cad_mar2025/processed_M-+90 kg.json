@@ -1,0 +1,68 @@
+{
+    "ROUND 1": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CAN",
+                    "name": "Arthur STIVENSON"
+                },
+                {
+                    "country": "MAR",
+                    "name": "Adam BENKIRANE"
+                },
+                {
+                    "winner": "Arthur STIVENSON"
+                }
+            ],
+            [
+                {
+                    "country": "KUW",
+                    "name": "Ahmad ALOBAIDAN"
+                },
+                {
+                    "country": "MAR",
+                    "name": "Yahya FAOUZI"
+                },
+                {
+                    "winner": "Ahmad ALOBAIDAN"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Arthur STIVENSON",
+            "Ahmad ALOBAIDAN"
+        ]
+    },
+    "REPECHAGE": {
+        "round 1-1": [
+            [
+                {
+                    "country": "MAR",
+                    "name": "Adam BENKIRANE"
+                },
+                {
+                    "country": "MAR",
+                    "name": "Yahya FAOUZI"
+                },
+                {
+                    "winner": "Adam BENKIRANE"
+                }
+            ],
+            [
+                {
+                    "country": "MAR",
+                    "name": "Adam BENKIRANE"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Adam BENKIRANE"
+        ]
+    },
+    "FINALS": {
+        "round 1-1": [],
+        "final_winners": [
+            "Arthur STIVENSON"
+        ]
+    }
+}

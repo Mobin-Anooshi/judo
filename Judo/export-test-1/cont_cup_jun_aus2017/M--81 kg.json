@@ -1,0 +1,178 @@
+{
+    "POOL A": {
+        "round 1-1": [
+            [],
+            [
+                {
+                    "country": "AUS",
+                    "name": "Anthony KOUROS"
+                },
+                {
+                    "country": "AUS",
+                    "name": "Frank CONSTANTINIDIS"
+                }
+            ]
+        ],
+        "final_winner": "Anthony KOUROS"
+    },
+    "POOL B": {
+        "round 1-1": [
+            [
+                {
+                    "country": "AUS",
+                    "name": "Antonio ROZIC"
+                },
+                {
+                    "country": "AUS",
+                    "name": "Nicholas GRAZIANI"
+                }
+            ]
+        ],
+        "final_winner": "Antonio ROZIC"
+    },
+    "POOL C": {
+        "round 1-1": [
+            [
+                {
+                    "country": "AUS",
+                    "name": "Baki REDZEPOSKI"
+                },
+                {
+                    "country": "AUS",
+                    "name": "Rihari IKI"
+                }
+            ]
+        ],
+        "final_winner": "Baki REDZEPOSKI"
+    },
+    "POOL D": {
+        "round 1-1": [
+            [
+                {
+                    "country": "AUS",
+                    "name": "Logan OBRIAN"
+                },
+                {
+                    "country": "AUS",
+                    "name": "Patrick TICHELAAR"
+                }
+            ]
+        ],
+        "final_winner": "Patrick TICHELAAR"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "AUS",
+                    "name": "Frank CONSTANTINIDIS"
+                },
+                {
+                    "country": "AUS",
+                    "name": "Nicholas GRAZIANI"
+                },
+                {
+                    "winner": "Frank CONSTANTINIDIS"
+                }
+            ],
+            [
+                {
+                    "country": "AUS",
+                    "name": "Rihari IKI"
+                },
+                {
+                    "country": "AUS",
+                    "name": "Logan OBRIAN"
+                },
+                {
+                    "winner": "Logan OBRIAN"
+                }
+            ],
+            [
+                {
+                    "country": "AUS",
+                    "name": "Frank CONSTANTINIDIS"
+                },
+                {
+                    "country": "AUS",
+                    "name": "Baki REDZEPOSKI"
+                },
+                {
+                    "winner": "Baki REDZEPOSKI"
+                }
+            ],
+            [
+                {
+                    "country": "AUS",
+                    "name": "Logan OBRIAN"
+                },
+                {
+                    "country": "AUS",
+                    "name": "Antonio ROZIC"
+                },
+                {
+                    "winner": "Logan OBRIAN"
+                }
+            ],
+            [
+                {
+                    "country": "AUS",
+                    "name": "Baki REDZEPOSKI"
+                }
+            ],
+            [
+                {
+                    "country": "AUS",
+                    "name": "Logan OBRIAN"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Baki REDZEPOSKI",
+            "Logan OBRIAN"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "AUS",
+                    "name": "Anthony KOUROS"
+                },
+                {
+                    "country": "AUS",
+                    "name": "Antonio ROZIC"
+                },
+                {
+                    "winner": "Anthony KOUROS"
+                }
+            ],
+            [
+                {
+                    "country": "AUS",
+                    "name": "Baki REDZEPOSKI"
+                },
+                {
+                    "country": "AUS",
+                    "name": "Patrick TICHELAAR"
+                },
+                {
+                    "winner": "Patrick TICHELAAR"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "AUS",
+                    "name": "Anthony KOUROS"
+                },
+                {
+                    "country": "AUS",
+                    "name": "Patrick TICHELAAR"
+                }
+            ]
+        ],
+        "final_winner": "Anthony KOUROS"
+    }
+}

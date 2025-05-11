@@ -1,0 +1,177 @@
+{
+    "POOL A": {
+        "round 1-1": [
+            [
+                {
+                    "country": "ALG",
+                    "name": "Nacereddine ENSAAD"
+                },
+                {
+                    "country": "RSA",
+                    "name": "Matthew OKADA"
+                }
+            ]
+        ],
+        "final_winner": "Nacereddine ENSAAD"
+    },
+    "POOL B": {
+        "round 1-1": [
+            [
+                {
+                    "country": "CMR",
+                    "name": "Ange Martial TABOULA NOUMO"
+                },
+                {
+                    "country": "MAR",
+                    "name": "Ilias JACOBS"
+                }
+            ]
+        ],
+        "final_winner": "Ilias JACOBS"
+    },
+    "POOL C": {
+        "round 1-1": [
+            [
+                {
+                    "country": "ANG",
+                    "name": "Maravilha PATI"
+                },
+                {
+                    "country": "MAD",
+                    "name": "Kevin Emilson RALEVAZAHA"
+                }
+            ]
+        ],
+        "final_winner": "Maravilha PATI"
+    },
+    "POOL D": {
+        "round 1-1": [
+            [
+                {
+                    "country": "BDI",
+                    "name": "Beleive NIYOMWUNGERE"
+                },
+                {
+                    "country": "EGY",
+                    "name": "Youssef ELKASSAR"
+                }
+            ]
+        ],
+        "final_winner": "Youssef ELKASSAR"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "RSA",
+                    "name": "Matthew OKADA"
+                },
+                {
+                    "country": "CMR",
+                    "name": "Ange Martial TABOULA NOUMO"
+                },
+                {
+                    "winner": "Ange Martial TABOULA NOUMO"
+                }
+            ],
+            [
+                {
+                    "country": "MAD",
+                    "name": "Kevin Emilson RALEVAZAHA"
+                },
+                {
+                    "country": "BDI",
+                    "name": "Beleive NIYOMWUNGERE"
+                },
+                {
+                    "winner": "Beleive NIYOMWUNGERE"
+                }
+            ],
+            [
+                {
+                    "country": "CMR",
+                    "name": "Ange Martial TABOULA NOUMO"
+                },
+                {
+                    "country": "ANG",
+                    "name": "Maravilha PATI"
+                },
+                {
+                    "winner": "Ange Martial TABOULA NOUMO"
+                }
+            ],
+            [
+                {
+                    "country": "BDI",
+                    "name": "Beleive NIYOMWUNGERE"
+                },
+                {
+                    "country": "MAR",
+                    "name": "Ilias JACOBS"
+                },
+                {
+                    "winner": "Beleive NIYOMWUNGERE"
+                }
+            ],
+            [
+                {
+                    "country": "CMR",
+                    "name": "Ange Martial TABOULA NOUMO"
+                }
+            ],
+            [
+                {
+                    "country": "BDI",
+                    "name": "Beleive NIYOMWUNGERE"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Ange Martial TABOULA NOUMO",
+            "Beleive NIYOMWUNGERE"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ALG",
+                    "name": "Nacereddine ENSAAD"
+                },
+                {
+                    "country": "MAR",
+                    "name": "Ilias JACOBS"
+                },
+                {
+                    "winner": "Nacereddine ENSAAD"
+                }
+            ],
+            [
+                {
+                    "country": "ANG",
+                    "name": "Maravilha PATI"
+                },
+                {
+                    "country": "EGY",
+                    "name": "Youssef ELKASSAR"
+                },
+                {
+                    "winner": "Youssef ELKASSAR"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "ALG",
+                    "name": "Nacereddine ENSAAD"
+                },
+                {
+                    "country": "EGY",
+                    "name": "Youssef ELKASSAR"
+                }
+            ]
+        ],
+        "final_winner": "Nacereddine ENSAAD"
+    }
+}

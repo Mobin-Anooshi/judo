@@ -1,0 +1,68 @@
+{
+    "ROUND 1": {
+        "round 1-2": [
+            [
+                {
+                    "country": "COL",
+                    "name": "Michael HERNANDEZ HENAO"
+                },
+                {
+                    "country": "DOM",
+                    "name": "Derick Manuel BURGOS ROSSO"
+                },
+                {
+                    "winner": "Michael HERNANDEZ HENAO"
+                }
+            ],
+            [
+                {
+                    "country": "CHI",
+                    "name": "Gustavo ZEPEDA"
+                },
+                {
+                    "country": "DOM",
+                    "name": "Carlos CASTILLO LESPIN"
+                },
+                {
+                    "winner": "Gustavo ZEPEDA"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Michael HERNANDEZ HENAO",
+            "Gustavo ZEPEDA"
+        ]
+    },
+    "REPECHAGE": {
+        "round 1-1": [
+            [
+                {
+                    "country": "DOM",
+                    "name": "Derick Manuel BURGOS ROSSO"
+                },
+                {
+                    "country": "DOM",
+                    "name": "Carlos CASTILLO LESPIN"
+                },
+                {
+                    "winner": "Derick Manuel BURGOS ROSSO"
+                }
+            ],
+            [
+                {
+                    "country": "DOM",
+                    "name": "Derick Manuel BURGOS ROSSO"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Derick Manuel BURGOS ROSSO"
+        ]
+    },
+    "FINALS": {
+        "round 1-1": [],
+        "final_winners": [
+            "Gustavo ZEPEDA"
+        ]
+    }
+}

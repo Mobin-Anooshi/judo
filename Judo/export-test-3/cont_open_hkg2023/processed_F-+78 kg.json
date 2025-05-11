@@ -1,0 +1,87 @@
+{
+    "POOL A": {
+        "round 1-3": [
+            [
+                {
+                    "country": "KSA",
+                    "name": "Tahani ALQAHTANI"
+                },
+                {
+                    "country": "INA",
+                    "name": "Indah PERMATASARI"
+                },
+                {
+                    "winner": "Tahani ALQAHTANI"
+                }
+            ],
+            [
+                {
+                    "country": "KSA",
+                    "name": "Tahani ALQAHTANI"
+                },
+                {
+                    "country": "FRA",
+                    "name": "Laura FUSEAU"
+                },
+                {
+                    "winner": "Laura FUSEAU"
+                }
+            ],
+            [
+                {
+                    "country": "INA",
+                    "name": "Indah PERMATASARI"
+                },
+                {
+                    "country": "FRA",
+                    "name": "Laura FUSEAU"
+                },
+                {
+                    "winner": "Indah PERMATASARI"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Indah PERMATASARI",
+            "Laura FUSEAU"
+        ]
+    },
+    "POOL B": {
+        "round 1-1": [],
+        "final_winners": [
+            "Saetbyeol PARK"
+        ]
+    },
+    "REPECHAGE": {
+        "round 1-1": [
+            [
+                {
+                    "country": "INA",
+                    "name": "Indah PERMATASARI"
+                },
+                {
+                    "country": "MAC",
+                    "name": "Qing Lam LAI"
+                },
+                {
+                    "winner": "Indah PERMATASARI"
+                }
+            ],
+            [
+                {
+                    "country": "INA",
+                    "name": "Indah PERMATASARI"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Indah PERMATASARI"
+        ]
+    },
+    "FINALS": {
+        "round 1-1": [],
+        "final_winners": [
+            "Saetbyeol PARK"
+        ]
+    }
+}

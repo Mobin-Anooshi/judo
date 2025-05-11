@@ -1,0 +1,141 @@
+{
+    "POOL A": {
+        "round 1-1": [],
+        "final_winner": "TZE NING TAN"
+    },
+    "POOL B": {
+        "round 1-1": [
+            [
+                {
+                    "country": "PHI",
+                    "name": "Nate Dwayne CONCEPCION"
+                },
+                {
+                    "country": "KOR",
+                    "name": "Changsu HAN"
+                }
+            ]
+        ],
+        "final_winner": "Changsu HAN"
+    },
+    "POOL C": {
+        "round 1-1": [
+            [
+                {
+                    "country": "PHI",
+                    "name": "Thomas Richard ARIOLA"
+                },
+                {
+                    "country": "THA",
+                    "name": "Siriwat LAOKHUM"
+                }
+            ]
+        ],
+        "final_winner": "Siriwat LAOKHUM"
+    },
+    "POOL D": {
+        "round 1-1": [],
+        "final_winner": "John Carlos ANICIETE"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "PHI",
+                    "name": "Nate Dwayne CONCEPCION"
+                }
+            ],
+            [
+                {
+                    "country": "PHI",
+                    "name": "Thomas Richard ARIOLA"
+                }
+            ],
+            [
+                {
+                    "country": "PHI",
+                    "name": "Nate Dwayne CONCEPCION"
+                },
+                {
+                    "country": "THA",
+                    "name": "Siriwat LAOKHUM"
+                },
+                {
+                    "winner": "Siriwat LAOKHUM"
+                }
+            ],
+            [
+                {
+                    "country": "PHI",
+                    "name": "Thomas Richard ARIOLA"
+                },
+                {
+                    "country": "MAS",
+                    "name": "TZE NING TAN"
+                },
+                {
+                    "winner": "TZE NING TAN"
+                }
+            ],
+            [
+                {
+                    "country": "THA",
+                    "name": "Siriwat LAOKHUM"
+                }
+            ],
+            [
+                {
+                    "country": "MAS",
+                    "name": "TZE NING TAN"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Siriwat LAOKHUM",
+            "TZE NING TAN"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "MAS",
+                    "name": "TZE NING TAN"
+                },
+                {
+                    "country": "KOR",
+                    "name": "Changsu HAN"
+                },
+                {
+                    "winner": "Changsu HAN"
+                }
+            ],
+            [
+                {
+                    "country": "THA",
+                    "name": "Siriwat LAOKHUM"
+                },
+                {
+                    "country": "PHI",
+                    "name": "John Carlos ANICIETE"
+                },
+                {
+                    "winner": "John Carlos ANICIETE"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "KOR",
+                    "name": "Changsu HAN"
+                },
+                {
+                    "country": "PHI",
+                    "name": "John Carlos ANICIETE"
+                }
+            ]
+        ],
+        "final_winner": "Changsu HAN"
+    }
+}

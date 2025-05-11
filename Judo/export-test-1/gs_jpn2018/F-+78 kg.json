@@ -1,0 +1,281 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "JPN",
+                    "name": "Sarah ASAHINA"
+                },
+                {
+                    "winner": "Sarah ASAHINA"
+                }
+            ],
+            [
+                {
+                    "country": "CRO",
+                    "name": "Ivana MARANIC"
+                },
+                {
+                    "country": "TUR",
+                    "name": "Sebile AKBULUT"
+                },
+                {
+                    "winner": "Ivana MARANIC"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "JPN",
+                    "name": "Sarah ASAHINA"
+                },
+                {
+                    "country": "CRO",
+                    "name": "Ivana MARANIC"
+                }
+            ]
+        ],
+        "final_winner": "Sarah ASAHINA"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Beatriz SOUZA"
+                },
+                {
+                    "country": "TTO",
+                    "name": "Gabriella WOOD"
+                },
+                {
+                    "winner": "Beatriz SOUZA"
+                }
+            ],
+            [
+                {
+                    "country": "JPN",
+                    "name": "Akira SONE"
+                },
+                {
+                    "country": "KOR",
+                    "name": "Mijin HAN"
+                },
+                {
+                    "winner": "Akira SONE"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Beatriz SOUZA"
+                },
+                {
+                    "country": "JPN",
+                    "name": "Akira SONE"
+                }
+            ]
+        ],
+        "final_winner": "Akira SONE"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "BIH",
+                    "name": "Larisa CERIC"
+                },
+                {
+                    "winner": "Larisa CERIC"
+                }
+            ],
+            [
+                {
+                    "country": "CHN",
+                    "name": "Yan WANG"
+                },
+                {
+                    "country": "JPN",
+                    "name": "Nami INAMORI"
+                },
+                {
+                    "winner": "Nami INAMORI"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "BIH",
+                    "name": "Larisa CERIC"
+                },
+                {
+                    "country": "JPN",
+                    "name": "Nami INAMORI"
+                }
+            ]
+        ],
+        "final_winner": "Nami INAMORI"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CUB",
+                    "name": "Idalys ORTIZ"
+                },
+                {
+                    "country": "JPN",
+                    "name": "Maya SEGAWA"
+                },
+                {
+                    "winner": "Idalys ORTIZ"
+                }
+            ],
+            [
+                {
+                    "country": "TUR",
+                    "name": "Kayra OZDEMIR"
+                },
+                {
+                    "country": "TPE",
+                    "name": "Jia Wen TSAI"
+                },
+                {
+                    "winner": "Jia Wen TSAI"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "CUB",
+                    "name": "Idalys ORTIZ"
+                },
+                {
+                    "country": "TPE",
+                    "name": "Jia Wen TSAI"
+                }
+            ]
+        ],
+        "final_winner": "Idalys ORTIZ"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CRO",
+                    "name": "Ivana MARANIC"
+                },
+                {
+                    "country": "BRA",
+                    "name": "Beatriz SOUZA"
+                },
+                {
+                    "winner": "Beatriz SOUZA"
+                }
+            ],
+            [
+                {
+                    "country": "BIH",
+                    "name": "Larisa CERIC"
+                },
+                {
+                    "country": "TPE",
+                    "name": "Jia Wen TSAI"
+                },
+                {
+                    "winner": "Larisa CERIC"
+                }
+            ],
+            [
+                {
+                    "country": "BRA",
+                    "name": "Beatriz SOUZA"
+                },
+                {
+                    "country": "JPN",
+                    "name": "Nami INAMORI"
+                },
+                {
+                    "winner": "Nami INAMORI"
+                }
+            ],
+            [
+                {
+                    "country": "BIH",
+                    "name": "Larisa CERIC"
+                },
+                {
+                    "country": "JPN",
+                    "name": "Sarah ASAHINA"
+                },
+                {
+                    "winner": "Sarah ASAHINA"
+                }
+            ],
+            [
+                {
+                    "country": "JPN",
+                    "name": "Nami INAMORI"
+                }
+            ],
+            [
+                {
+                    "country": "JPN",
+                    "name": "Sarah ASAHINA"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Nami INAMORI",
+            "Sarah ASAHINA"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "JPN",
+                    "name": "Sarah ASAHINA"
+                },
+                {
+                    "country": "JPN",
+                    "name": "Akira SONE"
+                },
+                {
+                    "winner": "Akira SONE"
+                }
+            ],
+            [
+                {
+                    "country": "JPN",
+                    "name": "Nami INAMORI"
+                },
+                {
+                    "country": "CUB",
+                    "name": "Idalys ORTIZ"
+                },
+                {
+                    "winner": "Idalys ORTIZ"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "JPN",
+                    "name": "Akira SONE"
+                },
+                {
+                    "country": "CUB",
+                    "name": "Idalys ORTIZ"
+                }
+            ]
+        ],
+        "final_winner": "Idalys ORTIZ"
+    }
+}

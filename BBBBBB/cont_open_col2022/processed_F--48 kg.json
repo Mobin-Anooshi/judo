@@ -1,0 +1,261 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ARG",
+                    "name": "Keisy PERAFAN"
+                },
+                {
+                    "winner": "Keisy PERAFAN"
+                }
+            ],
+            [
+                {
+                    "country": "COL",
+                    "name": "Maria Camila BERMUDEZ"
+                },
+                {
+                    "winner": "Maria Camila BERMUDEZ"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "ARG",
+                    "name": "Keisy PERAFAN"
+                },
+                {
+                    "country": "COL",
+                    "name": "Maria Camila BERMUDEZ"
+                }
+            ]
+        ],
+        "final_winner": "Maria Camila BERMUDEZ"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "PER",
+                    "name": "Brillith GAMARRA"
+                },
+                {
+                    "winner": "Brillith GAMARRA"
+                }
+            ],
+            [
+                {
+                    "country": "COL",
+                    "name": "Maryury URENA"
+                },
+                {
+                    "winner": "Maryury URENA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "PER",
+                    "name": "Brillith GAMARRA"
+                },
+                {
+                    "country": "COL",
+                    "name": "Maryury URENA"
+                }
+            ]
+        ],
+        "final_winner": "Brillith GAMARRA"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "MEX",
+                    "name": "Edna CARRILLO"
+                },
+                {
+                    "winner": "Edna CARRILLO"
+                }
+            ],
+            [
+                {
+                    "country": "BRA",
+                    "name": "Eduarda FRANCISCO"
+                },
+                {
+                    "country": "COL",
+                    "name": "Daniela RESTREPO"
+                },
+                {
+                    "winner": "Eduarda FRANCISCO"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "MEX",
+                    "name": "Edna CARRILLO"
+                },
+                {
+                    "country": "BRA",
+                    "name": "Eduarda FRANCISCO"
+                }
+            ]
+        ],
+        "final_winner": "Edna CARRILLO"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ECU",
+                    "name": "Luz PENA"
+                },
+                {
+                    "winner": "Luz PENA"
+                }
+            ],
+            [
+                {
+                    "country": "VEN",
+                    "name": "Maria GIMENEZ"
+                },
+                {
+                    "winner": "Maria GIMENEZ"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "ECU",
+                    "name": "Luz PENA"
+                },
+                {
+                    "country": "VEN",
+                    "name": "Maria GIMENEZ"
+                }
+            ]
+        ],
+        "final_winner": "Maria GIMENEZ"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ARG",
+                    "name": "Keisy PERAFAN"
+                },
+                {
+                    "country": "COL",
+                    "name": "Maryury URENA"
+                },
+                {
+                    "winner": "Keisy PERAFAN"
+                }
+            ],
+            [
+                {
+                    "country": "BRA",
+                    "name": "Eduarda FRANCISCO"
+                },
+                {
+                    "country": "ECU",
+                    "name": "Luz PENA"
+                },
+                {
+                    "winner": "Eduarda FRANCISCO"
+                }
+            ],
+            [
+                {
+                    "country": "ARG",
+                    "name": "Keisy PERAFAN"
+                },
+                {
+                    "country": "VEN",
+                    "name": "Maria GIMENEZ"
+                },
+                {
+                    "winner": "Maria GIMENEZ"
+                }
+            ],
+            [
+                {
+                    "country": "BRA",
+                    "name": "Eduarda FRANCISCO"
+                },
+                {
+                    "country": "COL",
+                    "name": "Maria Camila BERMUDEZ"
+                },
+                {
+                    "winner": "Eduarda FRANCISCO"
+                }
+            ],
+            [
+                {
+                    "country": "VEN",
+                    "name": "Maria GIMENEZ"
+                }
+            ],
+            [
+                {
+                    "country": "BRA",
+                    "name": "Eduarda FRANCISCO"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Maria GIMENEZ",
+            "Eduarda FRANCISCO"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "COL",
+                    "name": "Maria Camila BERMUDEZ"
+                },
+                {
+                    "country": "PER",
+                    "name": "Brillith GAMARRA"
+                },
+                {
+                    "winner": "Brillith GAMARRA"
+                }
+            ],
+            [
+                {
+                    "country": "MEX",
+                    "name": "Edna CARRILLO"
+                },
+                {
+                    "country": "VEN",
+                    "name": "Maria GIMENEZ"
+                },
+                {
+                    "winner": "Edna CARRILLO"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "PER",
+                    "name": "Brillith GAMARRA"
+                },
+                {
+                    "country": "MEX",
+                    "name": "Edna CARRILLO"
+                }
+            ]
+        ],
+        "final_winner": "Edna CARRILLO"
+    }
+}

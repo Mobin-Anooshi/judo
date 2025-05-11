@@ -1,0 +1,278 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "PER",
+                    "name": "Juan POSTIGOS"
+                },
+                {
+                    "winner": "Juan POSTIGOS"
+                }
+            ],
+            [
+                {
+                    "country": "DOM",
+                    "name": "Elmert RAMIREZ"
+                },
+                {
+                    "winner": "Elmert RAMIREZ"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "PER",
+                    "name": "Juan POSTIGOS"
+                },
+                {
+                    "country": "DOM",
+                    "name": "Elmert RAMIREZ"
+                }
+            ],
+            [
+                {
+                    "country": "PER",
+                    "name": "Juan POSTIGOS"
+                }
+            ]
+        ]
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ECU",
+                    "name": "Lenin PRECIADO"
+                },
+                {
+                    "winner": "Lenin PRECIADO"
+                }
+            ],
+            [
+                {
+                    "country": "CAN",
+                    "name": "Julien FRASCADORE"
+                },
+                {
+                    "country": "MEX",
+                    "name": "Robin JARA"
+                },
+                {
+                    "winner": "Julien FRASCADORE"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "ECU",
+                    "name": "Lenin PRECIADO"
+                },
+                {
+                    "country": "CAN",
+                    "name": "Julien FRASCADORE"
+                }
+            ],
+            [
+                {
+                    "country": "CAN",
+                    "name": "Julien FRASCADORE"
+                }
+            ]
+        ]
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CUB",
+                    "name": "Orlando POLANCO"
+                },
+                {
+                    "winner": "Orlando POLANCO"
+                }
+            ],
+            [
+                {
+                    "country": "CHI",
+                    "name": "Sebastian PEREZ"
+                },
+                {
+                    "country": "COL",
+                    "name": "Juan HERNANDEZ"
+                },
+                {
+                    "winner": "Juan HERNANDEZ"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "CUB",
+                    "name": "Orlando POLANCO"
+                },
+                {
+                    "country": "COL",
+                    "name": "Juan HERNANDEZ"
+                }
+            ],
+            [
+                {
+                    "country": "CUB",
+                    "name": "Orlando POLANCO"
+                }
+            ]
+        ]
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Willian LIMA"
+                },
+                {
+                    "winner": "Willian LIMA"
+                }
+            ],
+            [
+                {
+                    "country": "VEN",
+                    "name": "Willis GARCIA"
+                },
+                {
+                    "country": "ARG",
+                    "name": "Joaquin TOVAGLIARI"
+                },
+                {
+                    "winner": "Willis GARCIA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Willian LIMA"
+                },
+                {
+                    "country": "VEN",
+                    "name": "Willis GARCIA"
+                }
+            ],
+            [
+                {
+                    "country": "VEN",
+                    "name": "Willis GARCIA"
+                }
+            ]
+        ]
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "DOM",
+                    "name": "Elmert RAMIREZ"
+                },
+                {
+                    "country": "ECU",
+                    "name": "Lenin PRECIADO"
+                }
+            ],
+            [
+                {
+                    "country": "COL",
+                    "name": "Juan HERNANDEZ"
+                },
+                {
+                    "country": "BRA",
+                    "name": "Willian LIMA"
+                }
+            ],
+            [
+                {
+                    "country": "ECU",
+                    "name": "Lenin PRECIADO"
+                },
+                {
+                    "country": "CUB",
+                    "name": "Orlando POLANCO"
+                }
+            ],
+            [
+                {
+                    "country": "BRA",
+                    "name": "Willian LIMA"
+                },
+                {
+                    "country": "PER",
+                    "name": "Juan POSTIGOS"
+                }
+            ],
+            [
+                {
+                    "country": "CUB",
+                    "name": "Orlando POLANCO"
+                }
+            ],
+            [
+                {
+                    "country": "BRA",
+                    "name": "Willian LIMA"
+                }
+            ]
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "PER",
+                    "name": "Juan POSTIGOS"
+                },
+                {
+                    "country": "CAN",
+                    "name": "Julien FRASCADORE"
+                },
+                {
+                    "winner": "Julien FRASCADORE"
+                }
+            ],
+            [
+                {
+                    "country": "CUB",
+                    "name": "Orlando POLANCO"
+                },
+                {
+                    "country": "VEN",
+                    "name": "Willis GARCIA"
+                },
+                {
+                    "winner": "Willis GARCIA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "CAN",
+                    "name": "Julien FRASCADORE"
+                },
+                {
+                    "country": "VEN",
+                    "name": "Willis GARCIA"
+                }
+            ],
+            [
+                {
+                    "country": "VEN",
+                    "name": "Willis GARCIA"
+                }
+            ]
+        ]
+    }
+}

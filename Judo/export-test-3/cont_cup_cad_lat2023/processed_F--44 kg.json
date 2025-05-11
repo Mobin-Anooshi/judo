@@ -1,0 +1,68 @@
+{
+    "ROUND 1": {
+        "round 1-2": [
+            [
+                {
+                    "country": "DEN",
+                    "name": "Alice SLOTH HANSEN"
+                },
+                {
+                    "country": "GEO",
+                    "name": "Ana ABASHIDZE"
+                },
+                {
+                    "winner": "Alice SLOTH HANSEN"
+                }
+            ],
+            [
+                {
+                    "country": "GEO",
+                    "name": "Mariami TUMANISHVILI"
+                },
+                {
+                    "country": "POL",
+                    "name": "Sandra WALENDZIK"
+                },
+                {
+                    "winner": "Mariami TUMANISHVILI"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Alice SLOTH HANSEN",
+            "Mariami TUMANISHVILI"
+        ]
+    },
+    "REPECHAGE": {
+        "round 1-1": [
+            [
+                {
+                    "country": "GEO",
+                    "name": "Ana ABASHIDZE"
+                },
+                {
+                    "country": "POL",
+                    "name": "Sandra WALENDZIK"
+                },
+                {
+                    "winner": "Sandra WALENDZIK"
+                }
+            ],
+            [
+                {
+                    "country": "POL",
+                    "name": "Sandra WALENDZIK"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Sandra WALENDZIK"
+        ]
+    },
+    "FINALS": {
+        "round 1-1": [],
+        "final_winners": [
+            "Alice SLOTH HANSEN"
+        ]
+    }
+}

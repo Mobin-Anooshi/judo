@@ -1,0 +1,177 @@
+{
+    "POOL A": {
+        "round 1-1": [
+            [
+                {
+                    "country": "DOM",
+                    "name": "Eiraima SILVESTRE"
+                },
+                {
+                    "country": "MEX",
+                    "name": "Leslie VILLARREAL"
+                }
+            ]
+        ],
+        "final_winner": "Eiraima SILVESTRE"
+    },
+    "POOL B": {
+        "round 1-1": [
+            [
+                {
+                    "country": "PUR",
+                    "name": "Sairy COLON"
+                },
+                {
+                    "country": "CUB",
+                    "name": "Nairelis FUENTES"
+                }
+            ]
+        ],
+        "final_winner": "Sairy COLON"
+    },
+    "POOL C": {
+        "round 1-1": [
+            [
+                {
+                    "country": "ECU",
+                    "name": "Vanessa CHALA"
+                },
+                {
+                    "country": "DOM",
+                    "name": "Laura Elisa DIAZ ALBURQUERQUE"
+                }
+            ]
+        ],
+        "final_winner": "Vanessa CHALA"
+    },
+    "POOL D": {
+        "round 1-1": [
+            [
+                {
+                    "country": "CAN",
+                    "name": "Coralie GODBOUT"
+                },
+                {
+                    "country": "NCA",
+                    "name": "Keyra ORTIZ"
+                }
+            ]
+        ],
+        "final_winner": "Coralie GODBOUT"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "MEX",
+                    "name": "Leslie VILLARREAL"
+                },
+                {
+                    "country": "CUB",
+                    "name": "Nairelis FUENTES"
+                },
+                {
+                    "winner": "Nairelis FUENTES"
+                }
+            ],
+            [
+                {
+                    "country": "DOM",
+                    "name": "Laura Elisa DIAZ ALBURQUERQUE"
+                },
+                {
+                    "country": "NCA",
+                    "name": "Keyra ORTIZ"
+                },
+                {
+                    "winner": "Laura Elisa DIAZ ALBURQUERQUE"
+                }
+            ],
+            [
+                {
+                    "country": "CUB",
+                    "name": "Nairelis FUENTES"
+                },
+                {
+                    "country": "ECU",
+                    "name": "Vanessa CHALA"
+                },
+                {
+                    "winner": "Vanessa CHALA"
+                }
+            ],
+            [
+                {
+                    "country": "DOM",
+                    "name": "Laura Elisa DIAZ ALBURQUERQUE"
+                },
+                {
+                    "country": "PUR",
+                    "name": "Sairy COLON"
+                },
+                {
+                    "winner": "Sairy COLON"
+                }
+            ],
+            [
+                {
+                    "country": "ECU",
+                    "name": "Vanessa CHALA"
+                }
+            ],
+            [
+                {
+                    "country": "PUR",
+                    "name": "Sairy COLON"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Vanessa CHALA",
+            "Sairy COLON"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "DOM",
+                    "name": "Eiraima SILVESTRE"
+                },
+                {
+                    "country": "PUR",
+                    "name": "Sairy COLON"
+                },
+                {
+                    "winner": "Eiraima SILVESTRE"
+                }
+            ],
+            [
+                {
+                    "country": "ECU",
+                    "name": "Vanessa CHALA"
+                },
+                {
+                    "country": "CAN",
+                    "name": "Coralie GODBOUT"
+                },
+                {
+                    "winner": "Coralie GODBOUT"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "DOM",
+                    "name": "Eiraima SILVESTRE"
+                },
+                {
+                    "country": "CAN",
+                    "name": "Coralie GODBOUT"
+                }
+            ]
+        ],
+        "final_winner": "Eiraima SILVESTRE"
+    }
+}

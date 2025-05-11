@@ -1,0 +1,68 @@
+{
+    "ROUND 1": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CUB",
+                    "name": "Sergueis RODRIGUEZ FIGUEROA"
+                },
+                {
+                    "country": "DOM",
+                    "name": "Juan BRITO"
+                },
+                {
+                    "winner": "Sergueis RODRIGUEZ FIGUEROA"
+                }
+            ],
+            [
+                {
+                    "country": "VEN",
+                    "name": "Ramses ANSELMI"
+                },
+                {
+                    "country": "DOM",
+                    "name": "Franklin GUZMAN"
+                },
+                {
+                    "winner": "Ramses ANSELMI"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Sergueis RODRIGUEZ FIGUEROA",
+            "Ramses ANSELMI"
+        ]
+    },
+    "REPECHAGE": {
+        "round 1-1": [
+            [
+                {
+                    "country": "DOM",
+                    "name": "Juan BRITO"
+                },
+                {
+                    "country": "DOM",
+                    "name": "Franklin GUZMAN"
+                },
+                {
+                    "winner": "Franklin GUZMAN"
+                }
+            ],
+            [
+                {
+                    "country": "DOM",
+                    "name": "Franklin GUZMAN"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Franklin GUZMAN"
+        ]
+    },
+    "FINALS": {
+        "round 1-1": [],
+        "final_winners": [
+            "Sergueis RODRIGUEZ FIGUEROA"
+        ]
+    }
+}

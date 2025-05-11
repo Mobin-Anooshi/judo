@@ -1,0 +1,177 @@
+{
+    "POOL A": {
+        "round 1-1": [
+            [
+                {
+                    "country": "CUB",
+                    "name": "Liester CARDONA"
+                },
+                {
+                    "country": "BAH",
+                    "name": "Alexander STRACHAN"
+                }
+            ]
+        ],
+        "final_winner": "Liester CARDONA"
+    },
+    "POOL B": {
+        "round 1-1": [
+            [
+                {
+                    "country": "CAN",
+                    "name": "Nikola PETROVIC"
+                },
+                {
+                    "country": "DOM",
+                    "name": "Ariel LORENZO PINA"
+                }
+            ]
+        ],
+        "final_winner": "Nikola PETROVIC"
+    },
+    "POOL C": {
+        "round 1-1": [
+            [
+                {
+                    "country": "USA",
+                    "name": "Nathaniel KEEVE"
+                },
+                {
+                    "country": "VEN",
+                    "name": "Antonio RODRIGUEZ RENGEL"
+                }
+            ]
+        ],
+        "final_winner": "Nathaniel KEEVE"
+    },
+    "POOL D": {
+        "round 1-1": [
+            [
+                {
+                    "country": "MEX",
+                    "name": "Alexis ESQUIVEL"
+                },
+                {
+                    "country": "ECU",
+                    "name": "Junior ANGULO"
+                }
+            ]
+        ],
+        "final_winner": "Alexis ESQUIVEL"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "BAH",
+                    "name": "Alexander STRACHAN"
+                },
+                {
+                    "country": "DOM",
+                    "name": "Ariel LORENZO PINA"
+                },
+                {
+                    "winner": "Alexander STRACHAN"
+                }
+            ],
+            [
+                {
+                    "country": "VEN",
+                    "name": "Antonio RODRIGUEZ RENGEL"
+                },
+                {
+                    "country": "ECU",
+                    "name": "Junior ANGULO"
+                },
+                {
+                    "winner": "Junior ANGULO"
+                }
+            ],
+            [
+                {
+                    "country": "BAH",
+                    "name": "Alexander STRACHAN"
+                },
+                {
+                    "country": "MEX",
+                    "name": "Alexis ESQUIVEL"
+                },
+                {
+                    "winner": "Alexis ESQUIVEL"
+                }
+            ],
+            [
+                {
+                    "country": "ECU",
+                    "name": "Junior ANGULO"
+                },
+                {
+                    "country": "CAN",
+                    "name": "Nikola PETROVIC"
+                },
+                {
+                    "winner": "Nikola PETROVIC"
+                }
+            ],
+            [
+                {
+                    "country": "MEX",
+                    "name": "Alexis ESQUIVEL"
+                }
+            ],
+            [
+                {
+                    "country": "CAN",
+                    "name": "Nikola PETROVIC"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Alexis ESQUIVEL",
+            "Nikola PETROVIC"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CUB",
+                    "name": "Liester CARDONA"
+                },
+                {
+                    "country": "CAN",
+                    "name": "Nikola PETROVIC"
+                },
+                {
+                    "winner": "Liester CARDONA"
+                }
+            ],
+            [
+                {
+                    "country": "USA",
+                    "name": "Nathaniel KEEVE"
+                },
+                {
+                    "country": "MEX",
+                    "name": "Alexis ESQUIVEL"
+                },
+                {
+                    "winner": "Nathaniel KEEVE"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "CUB",
+                    "name": "Liester CARDONA"
+                },
+                {
+                    "country": "USA",
+                    "name": "Nathaniel KEEVE"
+                }
+            ]
+        ],
+        "final_winner": "Liester CARDONA"
+    }
+}

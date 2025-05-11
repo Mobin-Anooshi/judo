@@ -1,0 +1,87 @@
+{
+    "POOL A": {
+        "round 1-3": [
+            [
+                {
+                    "country": "MGL",
+                    "name": "Namuun GANSUKH"
+                },
+                {
+                    "country": "PHI",
+                    "name": "Lea Loren QUIMBA"
+                },
+                {
+                    "winner": "Namuun GANSUKH"
+                }
+            ],
+            [
+                {
+                    "country": "MGL",
+                    "name": "Namuun GANSUKH"
+                },
+                {
+                    "country": "HKG",
+                    "name": "Wing Nga NG"
+                },
+                {
+                    "winner": "Wing Nga NG"
+                }
+            ],
+            [
+                {
+                    "country": "PHI",
+                    "name": "Lea Loren QUIMBA"
+                },
+                {
+                    "country": "HKG",
+                    "name": "Wing Nga NG"
+                },
+                {
+                    "winner": "Lea Loren QUIMBA"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Namuun GANSUKH",
+            "Lea Loren QUIMBA"
+        ]
+    },
+    "POOL B": {
+        "round 1-1": [],
+        "final_winners": [
+            "Odontuya TSEVGEE"
+        ]
+    },
+    "REPECHAGE": {
+        "round 1-1": [
+            [
+                {
+                    "country": "PHI",
+                    "name": "Lea Loren QUIMBA"
+                },
+                {
+                    "country": "MAC",
+                    "name": "Lai Iong KUOK"
+                },
+                {
+                    "winner": "Lai Iong KUOK"
+                }
+            ],
+            [
+                {
+                    "country": "MAC",
+                    "name": "Lai Iong KUOK"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Lai Iong KUOK"
+        ]
+    },
+    "FINALS": {
+        "round 1-1": [],
+        "final_winners": [
+            "Odontuya TSEVGEE"
+        ]
+    }
+}

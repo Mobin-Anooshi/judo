@@ -1,0 +1,156 @@
+{
+    "POOL A": {
+        "round 1-1": [],
+        "final_winner": "Cristian MENDEZ"
+    },
+    "POOL B": {
+        "round 1-1": [
+            [
+                {
+                    "country": "PAN",
+                    "name": "Isaac JARAMILLO"
+                },
+                {
+                    "country": "PUR",
+                    "name": "Ian SANDOVAL"
+                }
+            ]
+        ],
+        "final_winner": "Ian SANDOVAL"
+    },
+    "POOL C": {
+        "round 1-1": [
+            [
+                {
+                    "country": "PAN",
+                    "name": "Jhodier SANCHEZ"
+                },
+                {
+                    "country": "PUR",
+                    "name": "Jake GONZALEZ"
+                }
+            ]
+        ],
+        "final_winner": "Jake GONZALEZ"
+    },
+    "POOL D": {
+        "round 1-1": [
+            [
+                {
+                    "country": "PAN",
+                    "name": "Eduardo BONILLA"
+                },
+                {
+                    "country": "PAN",
+                    "name": "Juan MORENO"
+                }
+            ]
+        ],
+        "final_winner": "Eduardo BONILLA"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "PAN",
+                    "name": "Isaac JARAMILLO"
+                }
+            ],
+            [
+                {
+                    "country": "PAN",
+                    "name": "Jhodier SANCHEZ"
+                },
+                {
+                    "country": "PAN",
+                    "name": "Juan MORENO"
+                },
+                {
+                    "winner": "Jhodier SANCHEZ"
+                }
+            ],
+            [
+                {
+                    "country": "PAN",
+                    "name": "Isaac JARAMILLO"
+                },
+                {
+                    "country": "Vote",
+                    "name": "PAN"
+                },
+                {
+                    "country": "Eduardo BONILLA",
+                    "name": "Vote"
+                },
+                {
+                    "winner": "Vote"
+                }
+            ],
+            [
+                {
+                    "country": "PAN",
+                    "name": "Jhodier SANCHEZ"
+                },
+                {
+                    "country": "Vote",
+                    "name": "PUR"
+                },
+                {
+                    "country": "Ian SANDOVAL",
+                    "name": "Vote"
+                },
+                {
+                    "winner": "Jhodier SANCHEZ"
+                }
+            ],
+            []
+        ],
+        "final_winners": [
+            "Jhodier SANCHEZ",
+            "Vote"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "PAN",
+                    "name": "Cristian MENDEZ"
+                },
+                {
+                    "country": "PUR",
+                    "name": "Ian SANDOVAL"
+                },
+                {
+                    "winner": "Cristian MENDEZ"
+                }
+            ],
+            [
+                {
+                    "country": "PUR",
+                    "name": "Jake GONZALEZ"
+                },
+                {
+                    "country": "PAN",
+                    "name": "Eduardo BONILLA"
+                },
+                {
+                    "winner": "Jake GONZALEZ"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "PAN",
+                    "name": "Cristian MENDEZ"
+                },
+                {
+                    "country": "PUR",
+                    "name": "Jake GONZALEZ"
+                }
+            ]
+        ],
+        "final_winner": "Cristian MENDEZ"
+    }
+}

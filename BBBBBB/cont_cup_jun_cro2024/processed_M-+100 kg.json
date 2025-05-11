@@ -1,0 +1,303 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "MNE",
+                    "name": "Stefan KOVINIC"
+                },
+                {
+                    "winner": "Stefan KOVINIC"
+                }
+            ],
+            [
+                {
+                    "country": "ITA",
+                    "name": "Emiliano ROSSI"
+                },
+                {
+                    "country": "CRO",
+                    "name": "Edib JAGODIC"
+                },
+                {
+                    "winner": "Emiliano ROSSI"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "MNE",
+                    "name": "Stefan KOVINIC"
+                },
+                {
+                    "country": "ITA",
+                    "name": "Emiliano ROSSI"
+                }
+            ]
+        ],
+        "final_winner": "Emiliano ROSSI"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ITA",
+                    "name": "Enzo Kevin SCOGNAMIGLIO"
+                },
+                {
+                    "winner": "Enzo Kevin SCOGNAMIGLIO"
+                }
+            ],
+            [
+                {
+                    "country": "SLO",
+                    "name": "Zan KOSTANJSEK"
+                },
+                {
+                    "winner": "Zan KOSTANJSEK"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "ITA",
+                    "name": "Enzo Kevin SCOGNAMIGLIO"
+                },
+                {
+                    "country": "SLO",
+                    "name": "Zan KOSTANJSEK"
+                }
+            ]
+        ],
+        "final_winner": "Zan KOSTANJSEK"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "FRA",
+                    "name": "Sami RAMDANI"
+                },
+                {
+                    "winner": "Sami RAMDANI"
+                }
+            ],
+            [
+                {
+                    "country": "NED",
+                    "name": "Steyn OLDENHOF"
+                },
+                {
+                    "winner": "Steyn OLDENHOF"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "FRA",
+                    "name": "Sami RAMDANI"
+                },
+                {
+                    "country": "NED",
+                    "name": "Steyn OLDENHOF"
+                }
+            ]
+        ],
+        "final_winner": "Steyn OLDENHOF"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "SRB",
+                    "name": "Mateja BOROJEVIC"
+                },
+                {
+                    "winner": "Mateja BOROJEVIC"
+                }
+            ],
+            [
+                {
+                    "country": "ITA",
+                    "name": "Francesco DI FLAVIO"
+                },
+                {
+                    "winner": "Francesco DI FLAVIO"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "SRB",
+                    "name": "Mateja BOROJEVIC"
+                },
+                {
+                    "country": "ITA",
+                    "name": "Francesco DI FLAVIO"
+                }
+            ]
+        ],
+        "final_winner": "Mateja BOROJEVIC"
+    },
+    "REPECHAGE": {
+        "round 1-4": [
+            [
+                {
+                    "country": "CRO",
+                    "name": "Edib JAGODIC"
+                },
+                {
+                    "country": "MNE",
+                    "name": "Stefan KOVINIC"
+                },
+                {
+                    "winner": "Stefan KOVINIC"
+                }
+            ],
+            [
+                {
+                    "country": "ITA",
+                    "name": "Enzo Kevin SCOGNAMIGLIO"
+                },
+                {
+                    "winner": "Enzo Kevin SCOGNAMIGLIO"
+                }
+            ],
+            [
+                {
+                    "country": "FRA",
+                    "name": "Sami RAMDANI"
+                },
+                {
+                    "winner": "Sami RAMDANI"
+                }
+            ],
+            [
+                {
+                    "country": "ITA",
+                    "name": "Francesco DI FLAVIO"
+                },
+                {
+                    "winner": "Francesco DI FLAVIO"
+                }
+            ]
+        ],
+        "round 1-2": [
+            [
+                {
+                    "country": "MNE",
+                    "name": "Stefan KOVINIC"
+                },
+                {
+                    "country": "ITA",
+                    "name": "Enzo Kevin SCOGNAMIGLIO"
+                },
+                {
+                    "winner": "Stefan KOVINIC"
+                }
+            ],
+            [
+                {
+                    "country": "FRA",
+                    "name": "Sami RAMDANI"
+                },
+                {
+                    "country": "ITA",
+                    "name": "Francesco DI FLAVIO"
+                },
+                {
+                    "winner": "Francesco DI FLAVIO"
+                }
+            ],
+            [
+                {
+                    "country": "MNE",
+                    "name": "Stefan KOVINIC"
+                },
+                {
+                    "country": "NED",
+                    "name": "Steyn OLDENHOF"
+                },
+                {
+                    "winner": "Stefan KOVINIC"
+                }
+            ],
+            [
+                {
+                    "country": "ITA",
+                    "name": "Francesco DI FLAVIO"
+                },
+                {
+                    "country": "SLO",
+                    "name": "Zan KOSTANJSEK"
+                },
+                {
+                    "winner": "Zan KOSTANJSEK"
+                }
+            ],
+            [
+                {
+                    "country": "MNE",
+                    "name": "Stefan KOVINIC"
+                }
+            ],
+            [
+                {
+                    "country": "SLO",
+                    "name": "Zan KOSTANJSEK"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Stefan KOVINIC",
+            "Zan KOSTANJSEK"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ITA",
+                    "name": "Emiliano ROSSI"
+                },
+                {
+                    "country": "SLO",
+                    "name": "Zan KOSTANJSEK"
+                },
+                {
+                    "winner": "Emiliano ROSSI"
+                }
+            ],
+            [
+                {
+                    "country": "NED",
+                    "name": "Steyn OLDENHOF"
+                },
+                {
+                    "country": "SRB",
+                    "name": "Mateja BOROJEVIC"
+                },
+                {
+                    "winner": "Mateja BOROJEVIC"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "ITA",
+                    "name": "Emiliano ROSSI"
+                },
+                {
+                    "country": "SRB",
+                    "name": "Mateja BOROJEVIC"
+                }
+            ]
+        ],
+        "final_winner": "Mateja BOROJEVIC"
+    }
+}

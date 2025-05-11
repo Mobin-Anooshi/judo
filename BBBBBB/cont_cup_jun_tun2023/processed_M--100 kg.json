@@ -1,0 +1,159 @@
+{
+    "POOL A": {
+        "round 1-1": [],
+        "final_winner": "Hady HUSSEIN"
+    },
+    "POOL B": {
+        "round 1-1": [
+            [
+                {
+                    "country": "TUN",
+                    "name": "Mohamed Aziz KAROUI"
+                },
+                {
+                    "country": "ALG",
+                    "name": "Abdellah FALA"
+                }
+            ]
+        ],
+        "final_winner": "Abdellah FALA"
+    },
+    "POOL C": {
+        "round 1-1": [
+            [
+                {
+                    "country": "ALG",
+                    "name": "Othmane ARBAOUI"
+                },
+                {
+                    "country": "TUN",
+                    "name": "Ahmed JARDAK"
+                }
+            ]
+        ],
+        "final_winner": "Othmane ARBAOUI"
+    },
+    "POOL D": {
+        "round 1-1": [
+            [
+                {
+                    "country": "SEN",
+                    "name": "Libasse NDIAYE"
+                },
+                {
+                    "country": "TUN",
+                    "name": "Ghaith CHOUAIBI"
+                }
+            ]
+        ],
+        "final_winner": "Libasse NDIAYE"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "TUN",
+                    "name": "Mohamed Aziz KAROUI"
+                }
+            ],
+            [
+                {
+                    "country": "TUN",
+                    "name": "Ahmed JARDAK"
+                },
+                {
+                    "country": "TUN",
+                    "name": "Ghaith CHOUAIBI"
+                },
+                {
+                    "winner": "Ahmed JARDAK"
+                }
+            ],
+            [
+                {
+                    "country": "TUN",
+                    "name": "Mohamed Aziz KAROUI"
+                },
+                {
+                    "country": "SEN",
+                    "name": "Libasse NDIAYE"
+                },
+                {
+                    "winner": "Libasse NDIAYE"
+                }
+            ],
+            [
+                {
+                    "country": "TUN",
+                    "name": "Ahmed JARDAK"
+                },
+                {
+                    "country": "EGY",
+                    "name": "Hady HUSSEIN"
+                },
+                {
+                    "winner": "Hady HUSSEIN"
+                }
+            ],
+            [
+                {
+                    "country": "SEN",
+                    "name": "Libasse NDIAYE"
+                }
+            ],
+            [
+                {
+                    "country": "EGY",
+                    "name": "Hady HUSSEIN"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Libasse NDIAYE",
+            "Hady HUSSEIN"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "EGY",
+                    "name": "Hady HUSSEIN"
+                },
+                {
+                    "country": "ALG",
+                    "name": "Abdellah FALA"
+                },
+                {
+                    "winner": "Abdellah FALA"
+                }
+            ],
+            [
+                {
+                    "country": "ALG",
+                    "name": "Othmane ARBAOUI"
+                },
+                {
+                    "country": "SEN",
+                    "name": "Libasse NDIAYE"
+                },
+                {
+                    "winner": "Othmane ARBAOUI"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "ALG",
+                    "name": "Abdellah FALA"
+                },
+                {
+                    "country": "ALG",
+                    "name": "Othmane ARBAOUI"
+                }
+            ]
+        ],
+        "final_winner": "Othmane ARBAOUI"
+    }
+}

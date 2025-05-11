@@ -1,0 +1,68 @@
+{
+    "ROUND 1": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CHI",
+                    "name": "Rafael ROMO"
+                },
+                {
+                    "country": "ARG",
+                    "name": "Juan ignacio PANNICCIA"
+                },
+                {
+                    "winner": "Juan ignacio PANNICCIA"
+                }
+            ],
+            [
+                {
+                    "country": "ARG",
+                    "name": "Ivo DARGOLTZ"
+                },
+                {
+                    "country": "CHI",
+                    "name": "Franco ARISMENDI"
+                },
+                {
+                    "winner": "Ivo DARGOLTZ"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Juan ignacio PANNICCIA",
+            "Ivo DARGOLTZ"
+        ]
+    },
+    "REPECHAGE": {
+        "round 1-1": [
+            [
+                {
+                    "country": "CHI",
+                    "name": "Rafael ROMO"
+                },
+                {
+                    "country": "CHI",
+                    "name": "Franco ARISMENDI"
+                },
+                {
+                    "winner": "Franco ARISMENDI"
+                }
+            ],
+            [
+                {
+                    "country": "CHI",
+                    "name": "Franco ARISMENDI"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Franco ARISMENDI"
+        ]
+    },
+    "FINALS": {
+        "round 1-1": [],
+        "final_winners": [
+            "Ivo DARGOLTZ"
+        ]
+    }
+}

@@ -1,0 +1,68 @@
+{
+    "ROUND 1": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CHI",
+                    "name": "Belen ZAPATA"
+                },
+                {
+                    "country": "CHI",
+                    "name": "Antonia GONZALEZ"
+                },
+                {
+                    "winner": "Belen ZAPATA"
+                }
+            ],
+            [
+                {
+                    "country": "CHI",
+                    "name": "Alexandra DAVILA"
+                },
+                {
+                    "country": "CHI",
+                    "name": "Valeria MERINO"
+                },
+                {
+                    "winner": "Alexandra DAVILA"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Belen ZAPATA",
+            "Alexandra DAVILA"
+        ]
+    },
+    "REPECHAGE": {
+        "round 1-1": [
+            [
+                {
+                    "country": "CHI",
+                    "name": "Antonia GONZALEZ"
+                },
+                {
+                    "country": "CHI",
+                    "name": "Valeria MERINO"
+                },
+                {
+                    "winner": "Antonia GONZALEZ"
+                }
+            ],
+            [
+                {
+                    "country": "CHI",
+                    "name": "Antonia GONZALEZ"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Antonia GONZALEZ"
+        ]
+    },
+    "FINALS": {
+        "round 1-1": [],
+        "final_winners": [
+            "Belen ZAPATA"
+        ]
+    }
+}

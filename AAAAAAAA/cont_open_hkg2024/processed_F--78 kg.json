@@ -1,0 +1,153 @@
+{
+    "POOL A": {
+        "round 1-1": [],
+        "final_winner": "Shu Huei HSU WANG"
+    },
+    "POOL B": {
+        "round 1-1": [
+            [
+                {
+                    "country": "TPE",
+                    "name": "Sin-Yi YU"
+                },
+                {
+                    "country": "AUS",
+                    "name": "Alannah JOYCE"
+                }
+            ]
+        ],
+        "final_winner": "Sin-Yi YU"
+    },
+    "POOL C": {
+        "round 1-1": [
+            [
+                {
+                    "country": "AUS",
+                    "name": "Maria SWAN"
+                },
+                {
+                    "country": "IND",
+                    "name": "Saishwari Gangaram KODACHWADKAR"
+                }
+            ]
+        ],
+        "final_winner": "Maria SWAN"
+    },
+    "POOL D": {
+        "round 1-1": [
+            [
+                {
+                    "country": "TPE",
+                    "name": "Chieh-Hsi WANG"
+                },
+                {
+                    "country": "KOR",
+                    "name": "Yunji CHAE"
+                }
+            ]
+        ],
+        "final_winner": "Chieh-Hsi WANG"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "AUS",
+                    "name": "Alannah JOYCE"
+                }
+            ],
+            [
+                {
+                    "country": "IND",
+                    "name": "Saishwari Gangaram KODACHWADKAR"
+                },
+                {
+                    "country": "KOR",
+                    "name": "Yunji CHAE"
+                },
+                {
+                    "winner": "Yunji CHAE"
+                }
+            ],
+            [
+                {
+                    "country": "AUS",
+                    "name": "Alannah JOYCE"
+                },
+                {
+                    "country": "TPE",
+                    "name": "Chieh-Hsi WANG"
+                },
+                {
+                    "winner": "Alannah JOYCE"
+                }
+            ],
+            [
+                {
+                    "country": "KOR",
+                    "name": "Yunji CHAE"
+                },
+                {
+                    "country": "TPE",
+                    "name": "Sin-Yi YU"
+                },
+                {
+                    "winner": "Yunji CHAE"
+                }
+            ],
+            [
+                {
+                    "country": "KOR",
+                    "name": "Yunji CHAE"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Yunji CHAE",
+            "Alannah JOYCE"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "TPE",
+                    "name": "Shu Huei HSU WANG"
+                },
+                {
+                    "country": "TPE",
+                    "name": "Sin-Yi YU"
+                },
+                {
+                    "winner": "Shu Huei HSU WANG"
+                }
+            ],
+            [
+                {
+                    "country": "AUS",
+                    "name": "Maria SWAN"
+                },
+                {
+                    "country": "TPE",
+                    "name": "Chieh-Hsi WANG"
+                },
+                {
+                    "winner": "Maria SWAN"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "TPE",
+                    "name": "Shu Huei HSU WANG"
+                },
+                {
+                    "country": "AUS",
+                    "name": "Maria SWAN"
+                }
+            ]
+        ],
+        "final_winner": "Maria SWAN"
+    }
+}

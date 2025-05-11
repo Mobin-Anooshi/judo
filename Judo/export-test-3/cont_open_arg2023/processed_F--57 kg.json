@@ -1,0 +1,87 @@
+{
+    "POOL A": {
+        "round 1-3": [
+            [
+                {
+                    "country": "CHI",
+                    "name": "Micaela HERNANDEZ"
+                },
+                {
+                    "country": "ARG",
+                    "name": "Jorgelina MACCHIAVELLO"
+                },
+                {
+                    "winner": "Micaela HERNANDEZ"
+                }
+            ],
+            [
+                {
+                    "country": "CHI",
+                    "name": "Micaela HERNANDEZ"
+                },
+                {
+                    "country": "CHI",
+                    "name": "Elizabeth SEGURA"
+                },
+                {
+                    "winner": "Elizabeth SEGURA"
+                }
+            ],
+            [
+                {
+                    "country": "ARG",
+                    "name": "Jorgelina MACCHIAVELLO"
+                },
+                {
+                    "country": "CHI",
+                    "name": "Elizabeth SEGURA"
+                },
+                {
+                    "winner": "Elizabeth SEGURA"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Micaela HERNANDEZ",
+            "Elizabeth SEGURA"
+        ]
+    },
+    "POOL B": {
+        "round 1-1": [],
+        "final_winners": [
+            "Brisa GOMEZ"
+        ]
+    },
+    "REPECHAGE": {
+        "round 1-1": [
+            [
+                {
+                    "country": "CHI",
+                    "name": "Elizabeth SEGURA"
+                },
+                {
+                    "country": "USA",
+                    "name": "Leana NELSON"
+                },
+                {
+                    "winner": "Elizabeth SEGURA"
+                }
+            ],
+            [
+                {
+                    "country": "CHI",
+                    "name": "Elizabeth SEGURA"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Elizabeth SEGURA"
+        ]
+    },
+    "FINALS": {
+        "round 1-1": [],
+        "final_winners": [
+            "Brisa GOMEZ"
+        ]
+    }
+}

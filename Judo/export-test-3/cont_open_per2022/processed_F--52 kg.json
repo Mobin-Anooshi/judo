@@ -1,0 +1,68 @@
+{
+    "ROUND 1": {
+        "round 1-2": [
+            [
+                {
+                    "country": "MEX",
+                    "name": "Paulina MARTINEZ"
+                },
+                {
+                    "country": "PER",
+                    "name": "Flor ZAMBRANO"
+                },
+                {
+                    "winner": "Paulina MARTINEZ"
+                }
+            ],
+            [
+                {
+                    "country": "ARG",
+                    "name": "Agustina LAHITON"
+                },
+                {
+                    "country": "CHI",
+                    "name": "Judith GONZALEZ"
+                },
+                {
+                    "winner": "Agustina LAHITON"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Paulina MARTINEZ",
+            "Agustina LAHITON"
+        ]
+    },
+    "REPECHAGE": {
+        "round 1-1": [
+            [
+                {
+                    "country": "PER",
+                    "name": "Flor ZAMBRANO"
+                },
+                {
+                    "country": "CHI",
+                    "name": "Judith GONZALEZ"
+                },
+                {
+                    "winner": "Flor ZAMBRANO"
+                }
+            ],
+            [
+                {
+                    "country": "PER",
+                    "name": "Flor ZAMBRANO"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Flor ZAMBRANO"
+        ]
+    },
+    "FINALS": {
+        "round 1-1": [],
+        "final_winners": [
+            "Paulina MARTINEZ"
+        ]
+    }
+}

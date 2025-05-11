@@ -1,0 +1,68 @@
+{
+    "ROUND 1": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CAN",
+                    "name": "Coralie GODBOUT"
+                },
+                {
+                    "country": "USA",
+                    "name": "Jayda FULP"
+                },
+                {
+                    "winner": "Coralie GODBOUT"
+                }
+            ],
+            [
+                {
+                    "country": "USA",
+                    "name": "Nicole STOUT"
+                },
+                {
+                    "country": "USA",
+                    "name": "Lotanna ONUA"
+                },
+                {
+                    "winner": "Nicole STOUT"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Coralie GODBOUT",
+            "Nicole STOUT"
+        ]
+    },
+    "REPECHAGE": {
+        "round 1-1": [
+            [
+                {
+                    "country": "USA",
+                    "name": "Jayda FULP"
+                },
+                {
+                    "country": "USA",
+                    "name": "Lotanna ONUA"
+                },
+                {
+                    "winner": "Lotanna ONUA"
+                }
+            ],
+            [
+                {
+                    "country": "USA",
+                    "name": "Lotanna ONUA"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Lotanna ONUA"
+        ]
+    },
+    "FINALS": {
+        "round 1-1": [],
+        "final_winners": [
+            "Nicole STOUT"
+        ]
+    }
+}

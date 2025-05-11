@@ -1,0 +1,87 @@
+{
+    "POOL A": {
+        "round 1-3": [
+            [
+                {
+                    "country": "MAR",
+                    "name": "Yahya GUASSI"
+                },
+                {
+                    "country": "KUW",
+                    "name": "Abdullah ALDAIHANI"
+                },
+                {
+                    "winner": "Yahya GUASSI"
+                }
+            ],
+            [
+                {
+                    "country": "MAR",
+                    "name": "Yahya GUASSI"
+                },
+                {
+                    "country": "MAR",
+                    "name": "Maihouan ZAID"
+                },
+                {
+                    "winner": "Maihouan ZAID"
+                }
+            ],
+            [
+                {
+                    "country": "KUW",
+                    "name": "Abdullah ALDAIHANI"
+                },
+                {
+                    "country": "MAR",
+                    "name": "Maihouan ZAID"
+                },
+                {
+                    "winner": "Abdullah ALDAIHANI"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Yahya GUASSI",
+            "Abdullah ALDAIHANI"
+        ]
+    },
+    "POOL B": {
+        "round 1-1": [],
+        "final_winners": [
+            "Rayen CHAANBI"
+        ]
+    },
+    "REPECHAGE": {
+        "round 1-1": [
+            [
+                {
+                    "country": "KUW",
+                    "name": "Abdullah ALDAIHANI"
+                },
+                {
+                    "country": "MAR",
+                    "name": "Zyad ELALLAM"
+                },
+                {
+                    "winner": "Abdullah ALDAIHANI"
+                }
+            ],
+            [
+                {
+                    "country": "KUW",
+                    "name": "Abdullah ALDAIHANI"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Abdullah ALDAIHANI"
+        ]
+    },
+    "FINALS": {
+        "round 1-1": [],
+        "final_winners": [
+            "Rayen CHAANBI"
+        ]
+    }
+}

@@ -1,0 +1,268 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ALG",
+                    "name": "Sabrina LARBI"
+                },
+                {
+                    "winner": "Sabrina LARBI"
+                }
+            ],
+            []
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "ALG",
+                    "name": "Sabrina LARBI"
+                }
+            ]
+        ]
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ALG",
+                    "name": "Racha Schehrazed RAMDANE"
+                },
+                {
+                    "winner": "Racha Schehrazed RAMDANE"
+                }
+            ],
+            [
+                {
+                    "country": "TUN",
+                    "name": "Jalila BEN MEHREZ"
+                },
+                {
+                    "winner": "Jalila BEN MEHREZ"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "ALG",
+                    "name": "Racha Schehrazed RAMDANE"
+                },
+                {
+                    "country": "TUN",
+                    "name": "Jalila BEN MEHREZ"
+                }
+            ],
+            [
+                {
+                    "country": "ALG",
+                    "name": "Racha Schehrazed RAMDANE"
+                }
+            ]
+        ]
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "TUN",
+                    "name": "Nouha HAJRI"
+                },
+                {
+                    "winner": "Nouha HAJRI"
+                }
+            ],
+            [
+                {
+                    "country": "ALG",
+                    "name": "Yassamine DJELLAB"
+                },
+                {
+                    "winner": "Yassamine DJELLAB"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "TUN",
+                    "name": "Nouha HAJRI"
+                },
+                {
+                    "country": "ALG",
+                    "name": "Yassamine DJELLAB"
+                }
+            ],
+            [
+                {
+                    "country": "TUN",
+                    "name": "Nouha HAJRI"
+                }
+            ]
+        ]
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "SEN",
+                    "name": "Ndeye Marie NDAO"
+                },
+                {
+                    "winner": "Ndeye Marie NDAO"
+                }
+            ],
+            [
+                {
+                    "country": "TUN",
+                    "name": "Arij AKKAB"
+                },
+                {
+                    "winner": "Arij AKKAB"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "SEN",
+                    "name": "Ndeye Marie NDAO"
+                },
+                {
+                    "country": "TUN",
+                    "name": "Arij AKKAB"
+                }
+            ],
+            [
+                {
+                    "country": "SEN",
+                    "name": "Ndeye Marie NDAO"
+                }
+            ]
+        ]
+    },
+    "REPECHAGE": {
+        "round 1-4": [
+            [],
+            [
+                {
+                    "country": "TUN",
+                    "name": "Jalila BEN MEHREZ"
+                },
+                {
+                    "winner": "Jalila BEN MEHREZ"
+                }
+            ],
+            [
+                {
+                    "country": "ALG",
+                    "name": "Yassamine DJELLAB"
+                },
+                {
+                    "winner": "Yassamine DJELLAB"
+                }
+            ],
+            [
+                {
+                    "country": "TUN",
+                    "name": "Arij AKKAB"
+                },
+                {
+                    "winner": "Arij AKKAB"
+                }
+            ]
+        ],
+        "round 1-2": [
+            [
+                {
+                    "country": "TUN",
+                    "name": "Jalila BEN MEHREZ"
+                }
+            ],
+            [
+                {
+                    "country": "ALG",
+                    "name": "Yassamine DJELLAB"
+                },
+                {
+                    "country": "TUN",
+                    "name": "Arij AKKAB"
+                }
+            ],
+            [
+                {
+                    "country": "TUN",
+                    "name": "Jalila BEN MEHREZ"
+                },
+                {
+                    "country": "SEN",
+                    "name": "Ndeye Marie NDAO"
+                }
+            ],
+            [
+                {
+                    "country": "ALG",
+                    "name": "Yassamine DJELLAB"
+                },
+                {
+                    "country": "ALG",
+                    "name": "Racha Schehrazed RAMDANE"
+                }
+            ],
+            [
+                {
+                    "country": "ALG",
+                    "name": "Racha Schehrazed RAMDANE"
+                }
+            ]
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ALG",
+                    "name": "Sabrina LARBI"
+                },
+                {
+                    "country": "ALG",
+                    "name": "Racha Schehrazed RAMDANE"
+                },
+                {
+                    "winner": "Sabrina LARBI"
+                }
+            ],
+            [
+                {
+                    "country": "TUN",
+                    "name": "Nouha HAJRI"
+                },
+                {
+                    "country": "SEN",
+                    "name": "Ndeye Marie NDAO"
+                },
+                {
+                    "winner": "Nouha HAJRI"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "ALG",
+                    "name": "Sabrina LARBI"
+                },
+                {
+                    "country": "TUN",
+                    "name": "Nouha HAJRI"
+                }
+            ],
+            [
+                {
+                    "country": "TUN",
+                    "name": "Nouha HAJRI"
+                }
+            ]
+        ]
+    }
+}

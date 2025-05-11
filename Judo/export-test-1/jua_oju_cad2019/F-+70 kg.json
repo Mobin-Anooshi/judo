@@ -1,0 +1,159 @@
+{
+    "POOL A": {
+        "round 1-1": [],
+        "final_winner": "Madina PARAGULGOVA"
+    },
+    "POOL B": {
+        "round 1-1": [
+            [
+                {
+                    "country": "KOR",
+                    "name": "Minjoo KIM"
+                },
+                {
+                    "country": "IND",
+                    "name": "Roshni Devi LAISHRAM"
+                }
+            ]
+        ],
+        "final_winner": "Minjoo KIM"
+    },
+    "POOL C": {
+        "round 1-1": [
+            [
+                {
+                    "country": "KGZ",
+                    "name": "Shakhida NARMUKHAMEDOVA"
+                },
+                {
+                    "country": "TPE",
+                    "name": "Yuan-Chi TU"
+                }
+            ]
+        ],
+        "final_winner": "Shakhida NARMUKHAMEDOVA"
+    },
+    "POOL D": {
+        "round 1-1": [
+            [
+                {
+                    "country": "KAZ",
+                    "name": "Karina TAKIYEVA"
+                },
+                {
+                    "country": "MGL",
+                    "name": "Odonchimeg ULZIIBAYAR"
+                }
+            ]
+        ],
+        "final_winner": "Karina TAKIYEVA"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "IND",
+                    "name": "Roshni Devi LAISHRAM"
+                }
+            ],
+            [
+                {
+                    "country": "TPE",
+                    "name": "Yuan-Chi TU"
+                },
+                {
+                    "country": "MGL",
+                    "name": "Odonchimeg ULZIIBAYAR"
+                },
+                {
+                    "winner": "Yuan-Chi TU"
+                }
+            ],
+            [
+                {
+                    "country": "IND",
+                    "name": "Roshni Devi LAISHRAM"
+                },
+                {
+                    "country": "KAZ",
+                    "name": "Karina TAKIYEVA"
+                },
+                {
+                    "winner": "Karina TAKIYEVA"
+                }
+            ],
+            [
+                {
+                    "country": "TPE",
+                    "name": "Yuan-Chi TU"
+                },
+                {
+                    "country": "KAZ",
+                    "name": "Madina PARAGULGOVA"
+                },
+                {
+                    "winner": "Madina PARAGULGOVA"
+                }
+            ],
+            [
+                {
+                    "country": "KAZ",
+                    "name": "Karina TAKIYEVA"
+                }
+            ],
+            [
+                {
+                    "country": "KAZ",
+                    "name": "Madina PARAGULGOVA"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Karina TAKIYEVA",
+            "Madina PARAGULGOVA"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "KAZ",
+                    "name": "Madina PARAGULGOVA"
+                },
+                {
+                    "country": "KOR",
+                    "name": "Minjoo KIM"
+                },
+                {
+                    "winner": "Minjoo KIM"
+                }
+            ],
+            [
+                {
+                    "country": "KGZ",
+                    "name": "Shakhida NARMUKHAMEDOVA"
+                },
+                {
+                    "country": "KAZ",
+                    "name": "Karina TAKIYEVA"
+                },
+                {
+                    "winner": "Shakhida NARMUKHAMEDOVA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "KOR",
+                    "name": "Minjoo KIM"
+                },
+                {
+                    "country": "KGZ",
+                    "name": "Shakhida NARMUKHAMEDOVA"
+                }
+            ]
+        ],
+        "final_winner": "Minjoo KIM"
+    }
+}

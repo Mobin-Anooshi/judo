@@ -1,0 +1,281 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "GBR",
+                    "name": "Alice SCHLESINGER"
+                },
+                {
+                    "winner": "Alice SCHLESINGER"
+                }
+            ],
+            [
+                {
+                    "country": "CAN",
+                    "name": "Catherine BEAUCHEMIN-PINARD"
+                },
+                {
+                    "country": "NED",
+                    "name": "Geke VAN DEN BERG"
+                },
+                {
+                    "winner": "Catherine BEAUCHEMIN-PINARD"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "GBR",
+                    "name": "Alice SCHLESINGER"
+                },
+                {
+                    "country": "CAN",
+                    "name": "Catherine BEAUCHEMIN-PINARD"
+                }
+            ]
+        ],
+        "final_winner": "Alice SCHLESINGER"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ESP",
+                    "name": "Cristina CABANA PEREZ"
+                },
+                {
+                    "country": "RUS",
+                    "name": "Iana POLIAKOVA"
+                },
+                {
+                    "winner": "Iana POLIAKOVA"
+                }
+            ],
+            [
+                {
+                    "country": "ESP",
+                    "name": "Isabel PUCHE"
+                },
+                {
+                    "country": "NED",
+                    "name": "Iris IWEMA"
+                },
+                {
+                    "winner": "Iris IWEMA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "RUS",
+                    "name": "Iana POLIAKOVA"
+                },
+                {
+                    "country": "NED",
+                    "name": "Iris IWEMA"
+                }
+            ]
+        ],
+        "final_winner": "Iris IWEMA"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CAN",
+                    "name": "Stefanie TREMBLAY"
+                },
+                {
+                    "winner": "Stefanie TREMBLAY"
+                }
+            ],
+            [
+                {
+                    "country": "NED",
+                    "name": "Juul FRANSSEN"
+                },
+                {
+                    "country": "BEL",
+                    "name": "Sandrine BILLIET"
+                },
+                {
+                    "winner": "Juul FRANSSEN"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "CAN",
+                    "name": "Stefanie TREMBLAY"
+                },
+                {
+                    "country": "NED",
+                    "name": "Juul FRANSSEN"
+                }
+            ]
+        ],
+        "final_winner": "Juul FRANSSEN"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "MGL",
+                    "name": "Tserennadmid TSEND-AYUSH"
+                },
+                {
+                    "country": "SRB",
+                    "name": "Jovana OBRADOVIC"
+                },
+                {
+                    "winner": "Tserennadmid TSEND-AYUSH"
+                }
+            ],
+            [
+                {
+                    "country": "NED",
+                    "name": "Sanne VERMEER"
+                },
+                {
+                    "country": "RUS",
+                    "name": "Olga KRIUKOVA"
+                },
+                {
+                    "winner": "Sanne VERMEER"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "MGL",
+                    "name": "Tserennadmid TSEND-AYUSH"
+                },
+                {
+                    "country": "NED",
+                    "name": "Sanne VERMEER"
+                }
+            ]
+        ],
+        "final_winner": "Sanne VERMEER"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CAN",
+                    "name": "Catherine BEAUCHEMIN-PINARD"
+                },
+                {
+                    "country": "RUS",
+                    "name": "Iana POLIAKOVA"
+                },
+                {
+                    "winner": "Catherine BEAUCHEMIN-PINARD"
+                }
+            ],
+            [
+                {
+                    "country": "CAN",
+                    "name": "Stefanie TREMBLAY"
+                },
+                {
+                    "country": "MGL",
+                    "name": "Tserennadmid TSEND-AYUSH"
+                },
+                {
+                    "winner": "Stefanie TREMBLAY"
+                }
+            ],
+            [
+                {
+                    "country": "CAN",
+                    "name": "Catherine BEAUCHEMIN-PINARD"
+                },
+                {
+                    "country": "NED",
+                    "name": "Sanne VERMEER"
+                },
+                {
+                    "winner": "Sanne VERMEER"
+                }
+            ],
+            [
+                {
+                    "country": "CAN",
+                    "name": "Stefanie TREMBLAY"
+                },
+                {
+                    "country": "NED",
+                    "name": "Iris IWEMA"
+                },
+                {
+                    "winner": "Stefanie TREMBLAY"
+                }
+            ],
+            [
+                {
+                    "country": "NED",
+                    "name": "Sanne VERMEER"
+                }
+            ],
+            [
+                {
+                    "country": "CAN",
+                    "name": "Stefanie TREMBLAY"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Sanne VERMEER",
+            "Stefanie TREMBLAY"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "GBR",
+                    "name": "Alice SCHLESINGER"
+                },
+                {
+                    "country": "NED",
+                    "name": "Iris IWEMA"
+                },
+                {
+                    "winner": "Alice SCHLESINGER"
+                }
+            ],
+            [
+                {
+                    "country": "NED",
+                    "name": "Juul FRANSSEN"
+                },
+                {
+                    "country": "NED",
+                    "name": "Sanne VERMEER"
+                },
+                {
+                    "winner": "Juul FRANSSEN"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "GBR",
+                    "name": "Alice SCHLESINGER"
+                },
+                {
+                    "country": "NED",
+                    "name": "Juul FRANSSEN"
+                }
+            ]
+        ],
+        "final_winner": "Juul FRANSSEN"
+    }
+}

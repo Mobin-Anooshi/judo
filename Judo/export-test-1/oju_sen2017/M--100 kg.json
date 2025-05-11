@@ -1,0 +1,141 @@
+{
+    "POOL A": {
+        "round 1-1": [],
+        "final_winner": "Tevita TAKAYAWA"
+    },
+    "POOL B": {
+        "round 1-1": [
+            [
+                {
+                    "country": "NRU",
+                    "name": "Iniki UERA"
+                },
+                {
+                    "country": "NZL",
+                    "name": "Matthew ROWLEY"
+                }
+            ]
+        ],
+        "final_winner": "Matthew ROWLEY"
+    },
+    "POOL C": {
+        "round 1-1": [
+            [
+                {
+                    "country": "NCL",
+                    "name": "David PUT"
+                },
+                {
+                    "country": "AUS",
+                    "name": "Nicolas BERARD"
+                }
+            ]
+        ],
+        "final_winner": "Nicolas BERARD"
+    },
+    "POOL D": {
+        "round 1-1": [],
+        "final_winner": "Joshua NAHI"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "NRU",
+                    "name": "Iniki UERA"
+                }
+            ],
+            [
+                {
+                    "country": "NCL",
+                    "name": "David PUT"
+                }
+            ],
+            [
+                {
+                    "country": "NRU",
+                    "name": "Iniki UERA"
+                },
+                {
+                    "country": "NZL",
+                    "name": "Joshua NAHI"
+                },
+                {
+                    "winner": "Joshua NAHI"
+                }
+            ],
+            [
+                {
+                    "country": "NCL",
+                    "name": "David PUT"
+                },
+                {
+                    "country": "FIJ",
+                    "name": "Tevita TAKAYAWA"
+                },
+                {
+                    "winner": "Tevita TAKAYAWA"
+                }
+            ],
+            [
+                {
+                    "country": "NZL",
+                    "name": "Joshua NAHI"
+                }
+            ],
+            [
+                {
+                    "country": "FIJ",
+                    "name": "Tevita TAKAYAWA"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Joshua NAHI",
+            "Tevita TAKAYAWA"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "FIJ",
+                    "name": "Tevita TAKAYAWA"
+                },
+                {
+                    "country": "NZL",
+                    "name": "Matthew ROWLEY"
+                },
+                {
+                    "winner": "Matthew ROWLEY"
+                }
+            ],
+            [
+                {
+                    "country": "AUS",
+                    "name": "Nicolas BERARD"
+                },
+                {
+                    "country": "NZL",
+                    "name": "Joshua NAHI"
+                },
+                {
+                    "winner": "Nicolas BERARD"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "NZL",
+                    "name": "Matthew ROWLEY"
+                },
+                {
+                    "country": "AUS",
+                    "name": "Nicolas BERARD"
+                }
+            ]
+        ],
+        "final_winner": "Nicolas BERARD"
+    }
+}

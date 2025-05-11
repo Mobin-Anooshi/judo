@@ -1,0 +1,141 @@
+{
+    "POOL A": {
+        "round 1-1": [],
+        "final_winner": "Jared CAUSSE"
+    },
+    "POOL B": {
+        "round 1-1": [
+            [
+                {
+                    "country": "SLO",
+                    "name": "Vid KAVNIK"
+                },
+                {
+                    "country": "CAN",
+                    "name": "Michael AKBASHEV"
+                }
+            ]
+        ],
+        "final_winner": "Vid KAVNIK"
+    },
+    "POOL C": {
+        "round 1-1": [],
+        "final_winner": "Benjamin KENDRICK"
+    },
+    "POOL D": {
+        "round 1-1": [
+            [
+                {
+                    "country": "GBR",
+                    "name": "Matthew SEXTON"
+                },
+                {
+                    "country": "CAN",
+                    "name": "Danick ROCHELEAU"
+                }
+            ]
+        ],
+        "final_winner": "Matthew SEXTON"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CAN",
+                    "name": "Michael AKBASHEV"
+                }
+            ],
+            [
+                {
+                    "country": "CAN",
+                    "name": "Danick ROCHELEAU"
+                }
+            ],
+            [
+                {
+                    "country": "CAN",
+                    "name": "Michael AKBASHEV"
+                },
+                {
+                    "country": "GBR",
+                    "name": "Matthew SEXTON"
+                },
+                {
+                    "winner": "Matthew SEXTON"
+                }
+            ],
+            [
+                {
+                    "country": "CAN",
+                    "name": "Danick ROCHELEAU"
+                },
+                {
+                    "country": "USA",
+                    "name": "Jared CAUSSE"
+                },
+                {
+                    "winner": "Jared CAUSSE"
+                }
+            ],
+            [
+                {
+                    "country": "GBR",
+                    "name": "Matthew SEXTON"
+                }
+            ],
+            [
+                {
+                    "country": "USA",
+                    "name": "Jared CAUSSE"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Matthew SEXTON",
+            "Jared CAUSSE"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "USA",
+                    "name": "Jared CAUSSE"
+                },
+                {
+                    "country": "SLO",
+                    "name": "Vid KAVNIK"
+                },
+                {
+                    "winner": "Vid KAVNIK"
+                }
+            ],
+            [
+                {
+                    "country": "CAN",
+                    "name": "Benjamin KENDRICK"
+                },
+                {
+                    "country": "GBR",
+                    "name": "Matthew SEXTON"
+                },
+                {
+                    "winner": "Benjamin KENDRICK"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "SLO",
+                    "name": "Vid KAVNIK"
+                },
+                {
+                    "country": "CAN",
+                    "name": "Benjamin KENDRICK"
+                }
+            ]
+        ],
+        "final_winner": "Vid KAVNIK"
+    }
+}

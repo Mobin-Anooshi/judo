@@ -1,0 +1,289 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "KOS",
+                    "name": "Loriana KUKA"
+                },
+                {
+                    "country": "HUN",
+                    "name": "Fanni TOTH"
+                },
+                {
+                    "winner": "Loriana KUKA"
+                }
+            ],
+            [
+                {
+                    "country": "SLO",
+                    "name": "Urska TORKAR"
+                },
+                {
+                    "country": "NED",
+                    "name": "Ilona LUCASSEN"
+                },
+                {
+                    "winner": "Ilona LUCASSEN"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "KOS",
+                    "name": "Loriana KUKA"
+                },
+                {
+                    "country": "NED",
+                    "name": "Ilona LUCASSEN"
+                }
+            ]
+        ],
+        "final_winner": "Loriana KUKA"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "GBR",
+                    "name": "Shelley LUDFORD"
+                },
+                {
+                    "country": "CRO",
+                    "name": "Brigita LJUBA"
+                },
+                {
+                    "winner": "Brigita LJUBA"
+                }
+            ],
+            [
+                {
+                    "country": "RUS",
+                    "name": "Alexandra GIMALETDINOVA"
+                },
+                {
+                    "country": "ITA",
+                    "name": "Giorgia STANGHERLIN"
+                },
+                {
+                    "winner": "Giorgia STANGHERLIN"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "CRO",
+                    "name": "Brigita LJUBA"
+                },
+                {
+                    "country": "ITA",
+                    "name": "Giorgia STANGHERLIN"
+                }
+            ]
+        ],
+        "final_winner": "Giorgia STANGHERLIN"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "RUS",
+                    "name": "Niurguiana NIKIFOROVA"
+                },
+                {
+                    "country": "BLR",
+                    "name": "Darya KANTSAVAYA"
+                },
+                {
+                    "winner": "Darya KANTSAVAYA"
+                }
+            ],
+            [
+                {
+                    "country": "CRO",
+                    "name": "Petrunjela PAVIC"
+                },
+                {
+                    "country": "BEL",
+                    "name": "Sophie BERGER"
+                },
+                {
+                    "winner": "Petrunjela PAVIC"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "BLR",
+                    "name": "Darya KANTSAVAYA"
+                },
+                {
+                    "country": "CRO",
+                    "name": "Petrunjela PAVIC"
+                }
+            ]
+        ],
+        "final_winner": "Darya KANTSAVAYA"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "POL",
+                    "name": "Paula KULAGA"
+                },
+                {
+                    "country": "GER",
+                    "name": "Christina FABER"
+                },
+                {
+                    "winner": "Christina FABER"
+                }
+            ],
+            [
+                {
+                    "country": "CZE",
+                    "name": "Alice MATEJCKOVA"
+                },
+                {
+                    "country": "ROU",
+                    "name": "Cristina SIRBULET"
+                },
+                {
+                    "winner": "Alice MATEJCKOVA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "GER",
+                    "name": "Christina FABER"
+                },
+                {
+                    "country": "CZE",
+                    "name": "Alice MATEJCKOVA"
+                }
+            ]
+        ],
+        "final_winner": "Christina FABER"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "NED",
+                    "name": "Ilona LUCASSEN"
+                },
+                {
+                    "country": "CRO",
+                    "name": "Brigita LJUBA"
+                },
+                {
+                    "winner": "Ilona LUCASSEN"
+                }
+            ],
+            [
+                {
+                    "country": "CRO",
+                    "name": "Petrunjela PAVIC"
+                },
+                {
+                    "country": "CZE",
+                    "name": "Alice MATEJCKOVA"
+                },
+                {
+                    "winner": "Petrunjela PAVIC"
+                }
+            ],
+            [
+                {
+                    "country": "NED",
+                    "name": "Ilona LUCASSEN"
+                },
+                {
+                    "country": "BLR",
+                    "name": "Darya KANTSAVAYA"
+                },
+                {
+                    "winner": "Darya KANTSAVAYA"
+                }
+            ],
+            [
+                {
+                    "country": "CRO",
+                    "name": "Petrunjela PAVIC"
+                },
+                {
+                    "country": "ITA",
+                    "name": "Giorgia STANGHERLIN"
+                },
+                {
+                    "winner": "Giorgia STANGHERLIN"
+                }
+            ],
+            [
+                {
+                    "country": "BLR",
+                    "name": "Darya KANTSAVAYA"
+                }
+            ],
+            [
+                {
+                    "country": "ITA",
+                    "name": "Giorgia STANGHERLIN"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Darya KANTSAVAYA",
+            "Giorgia STANGHERLIN"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "KOS",
+                    "name": "Loriana KUKA"
+                },
+                {
+                    "country": "ITA",
+                    "name": "Giorgia STANGHERLIN"
+                },
+                {
+                    "winner": "Loriana KUKA"
+                }
+            ],
+            [
+                {
+                    "country": "BLR",
+                    "name": "Darya KANTSAVAYA"
+                },
+                {
+                    "country": "GER",
+                    "name": "Christina FABER"
+                },
+                {
+                    "winner": "Christina FABER"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "KOS",
+                    "name": "Loriana KUKA"
+                },
+                {
+                    "country": "GER",
+                    "name": "Christina FABER"
+                }
+            ]
+        ],
+        "final_winner": "Loriana KUKA"
+    }
+}

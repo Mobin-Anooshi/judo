@@ -1,0 +1,159 @@
+{
+    "POOL A": {
+        "round 1-1": [],
+        "final_winner": "Jordon GREENBANK"
+    },
+    "POOL B": {
+        "round 1-1": [
+            [
+                {
+                    "country": "NCL",
+                    "name": "Maxime TARAMARCAZ"
+                },
+                {
+                    "country": "SOL",
+                    "name": "Jemuel JIMSON"
+                }
+            ]
+        ],
+        "final_winner": "Maxime TARAMARCAZ"
+    },
+    "POOL C": {
+        "round 1-1": [
+            [
+                {
+                    "country": "PYF",
+                    "name": "Manatoa LUCIANI"
+                },
+                {
+                    "country": "NRU",
+                    "name": "Isamaela SOLOMON"
+                }
+            ]
+        ],
+        "final_winner": "Manatoa LUCIANI"
+    },
+    "POOL D": {
+        "round 1-1": [
+            [
+                {
+                    "country": "SOL",
+                    "name": "Eliton JACK"
+                },
+                {
+                    "country": "NCL",
+                    "name": "Pierrick IDMONT"
+                }
+            ]
+        ],
+        "final_winner": "Pierrick IDMONT"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "SOL",
+                    "name": "Jemuel JIMSON"
+                }
+            ],
+            [
+                {
+                    "country": "NRU",
+                    "name": "Isamaela SOLOMON"
+                },
+                {
+                    "country": "SOL",
+                    "name": "Eliton JACK"
+                },
+                {
+                    "winner": "Isamaela SOLOMON"
+                }
+            ],
+            [
+                {
+                    "country": "SOL",
+                    "name": "Jemuel JIMSON"
+                },
+                {
+                    "country": "PYF",
+                    "name": "Manatoa LUCIANI"
+                },
+                {
+                    "winner": "Manatoa LUCIANI"
+                }
+            ],
+            [
+                {
+                    "country": "NRU",
+                    "name": "Isamaela SOLOMON"
+                },
+                {
+                    "country": "NCL",
+                    "name": "Maxime TARAMARCAZ"
+                },
+                {
+                    "winner": "Maxime TARAMARCAZ"
+                }
+            ],
+            [
+                {
+                    "country": "PYF",
+                    "name": "Manatoa LUCIANI"
+                }
+            ],
+            [
+                {
+                    "country": "NCL",
+                    "name": "Maxime TARAMARCAZ"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Manatoa LUCIANI",
+            "Maxime TARAMARCAZ"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "AUS",
+                    "name": "Jordon GREENBANK"
+                },
+                {
+                    "country": "NCL",
+                    "name": "Maxime TARAMARCAZ"
+                },
+                {
+                    "winner": "Jordon GREENBANK"
+                }
+            ],
+            [
+                {
+                    "country": "PYF",
+                    "name": "Manatoa LUCIANI"
+                },
+                {
+                    "country": "NCL",
+                    "name": "Pierrick IDMONT"
+                },
+                {
+                    "winner": "Pierrick IDMONT"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "AUS",
+                    "name": "Jordon GREENBANK"
+                },
+                {
+                    "country": "NCL",
+                    "name": "Pierrick IDMONT"
+                }
+            ]
+        ],
+        "final_winner": "Jordon GREENBANK"
+    }
+}

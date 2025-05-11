@@ -1,0 +1,87 @@
+{
+    "POOL A": {
+        "round 1-3": [
+            [
+                {
+                    "country": "AUS",
+                    "name": "Anneliese FIELDER"
+                },
+                {
+                    "country": "NZL",
+                    "name": "Steffi BURRA"
+                },
+                {
+                    "winner": "Anneliese FIELDER"
+                }
+            ],
+            [
+                {
+                    "country": "AUS",
+                    "name": "Anneliese FIELDER"
+                },
+                {
+                    "country": "NCL",
+                    "name": "Nadia LEROY"
+                },
+                {
+                    "winner": "Nadia LEROY"
+                }
+            ],
+            [
+                {
+                    "country": "NZL",
+                    "name": "Steffi BURRA"
+                },
+                {
+                    "country": "NCL",
+                    "name": "Nadia LEROY"
+                },
+                {
+                    "winner": "Steffi BURRA"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Anneliese FIELDER",
+            "Steffi BURRA"
+        ]
+    },
+    "POOL B": {
+        "round 1-1": [],
+        "final_winners": [
+            "Sophie ROBINS"
+        ]
+    },
+    "REPECHAGE": {
+        "round 1-1": [
+            [
+                {
+                    "country": "NZL",
+                    "name": "Steffi BURRA"
+                },
+                {
+                    "country": "NCL",
+                    "name": "Joy QUEMENER"
+                },
+                {
+                    "winner": "Steffi BURRA"
+                }
+            ],
+            [
+                {
+                    "country": "NZL",
+                    "name": "Steffi BURRA"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Steffi BURRA"
+        ]
+    },
+    "FINALS": {
+        "round 1-1": [],
+        "final_winners": [
+            "Sophie ROBINS"
+        ]
+    }
+}

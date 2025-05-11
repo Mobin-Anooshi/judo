@@ -1,0 +1,216 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "BEL",
+                    "name": "Thomas LISSENS"
+                },
+                {
+                    "winner": "Thomas LISSENS"
+                }
+            ],
+            []
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "BEL",
+                    "name": "Thomas LISSENS"
+                }
+            ]
+        ]
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CRC",
+                    "name": "Ian SANCHO"
+                },
+                {
+                    "winner": "Ian SANCHO"
+                }
+            ],
+            [
+                {
+                    "country": "USA",
+                    "name": "Ryan VARGAS"
+                },
+                {
+                    "winner": "Ryan VARGAS"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "CRC",
+                    "name": "Ian SANCHO"
+                },
+                {
+                    "country": "USA",
+                    "name": "Ryan VARGAS"
+                }
+            ],
+            [
+                {
+                    "country": "USA",
+                    "name": "Ryan VARGAS"
+                }
+            ]
+        ]
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "USA",
+                    "name": "Quentin COOK"
+                },
+                {
+                    "winner": "Quentin COOK"
+                }
+            ],
+            [
+                {
+                    "country": "ESA",
+                    "name": "Gustavo Eduardo LOPEZ AGUILERA"
+                },
+                {
+                    "winner": "Gustavo Eduardo LOPEZ AGUILERA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "USA",
+                    "name": "Quentin COOK"
+                },
+                {
+                    "country": "ESA",
+                    "name": "Gustavo Eduardo LOPEZ AGUILERA"
+                }
+            ],
+            [
+                {
+                    "country": "ESA",
+                    "name": "Gustavo Eduardo LOPEZ AGUILERA"
+                }
+            ]
+        ]
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CAN",
+                    "name": "Gueorgui POKLITAR"
+                },
+                {
+                    "winner": "Gueorgui POKLITAR"
+                }
+            ],
+            []
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "CAN",
+                    "name": "Gueorgui POKLITAR"
+                }
+            ]
+        ]
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CRC",
+                    "name": "Ian SANCHO"
+                }
+            ],
+            [
+                {
+                    "country": "USA",
+                    "name": "Quentin COOK"
+                }
+            ],
+            [
+                {
+                    "country": "CRC",
+                    "name": "Ian SANCHO"
+                },
+                {
+                    "country": "ESA",
+                    "name": "Gustavo Eduardo LOPEZ AGUILERA"
+                }
+            ],
+            [
+                {
+                    "country": "USA",
+                    "name": "Quentin COOK"
+                },
+                {
+                    "country": "USA",
+                    "name": "Ryan VARGAS"
+                }
+            ],
+            [
+                {
+                    "country": "USA",
+                    "name": "Ryan VARGAS"
+                }
+            ]
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "BEL",
+                    "name": "Thomas LISSENS"
+                },
+                {
+                    "country": "USA",
+                    "name": "Ryan VARGAS"
+                },
+                {
+                    "winner": "Thomas LISSENS"
+                }
+            ],
+            [
+                {
+                    "country": "ESA",
+                    "name": "Gustavo Eduardo LOPEZ AGUILERA"
+                },
+                {
+                    "country": "CAN",
+                    "name": "Gueorgui POKLITAR"
+                },
+                {
+                    "winner": "Gueorgui POKLITAR"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "BEL",
+                    "name": "Thomas LISSENS"
+                },
+                {
+                    "country": "CAN",
+                    "name": "Gueorgui POKLITAR"
+                }
+            ],
+            [
+                {
+                    "country": "BEL",
+                    "name": "Thomas LISSENS"
+                }
+            ]
+        ]
+    }
+}

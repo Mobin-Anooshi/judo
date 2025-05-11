@@ -1,0 +1,238 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "NZL",
+                    "name": "Rihari IKI"
+                },
+                {
+                    "winner": "Rihari IKI"
+                }
+            ],
+            []
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "NZL",
+                    "name": "Rihari IKI"
+                }
+            ]
+        ]
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "AUS",
+                    "name": "Frank CONSTANTINIDIS"
+                },
+                {
+                    "winner": "Frank CONSTANTINIDIS"
+                }
+            ],
+            [
+                {
+                    "country": "TJK",
+                    "name": "Faridun KHOLIKOV"
+                },
+                {
+                    "winner": "Faridun KHOLIKOV"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "AUS",
+                    "name": "Frank CONSTANTINIDIS"
+                },
+                {
+                    "country": "TJK",
+                    "name": "Faridun KHOLIKOV"
+                }
+            ],
+            [
+                {
+                    "country": "AUS",
+                    "name": "Frank CONSTANTINIDIS"
+                }
+            ]
+        ]
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "KGZ",
+                    "name": "Shakir SHAKIROV"
+                },
+                {
+                    "winner": "Shakir SHAKIROV"
+                }
+            ],
+            []
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "KGZ",
+                    "name": "Shakir SHAKIROV"
+                }
+            ]
+        ]
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "MGL",
+                    "name": "Munkh-Erdene GANTULGA"
+                },
+                {
+                    "winner": "Munkh-Erdene GANTULGA"
+                }
+            ],
+            [
+                {
+                    "country": "TPE",
+                    "name": "Chih-Yi LUO"
+                },
+                {
+                    "winner": "Chih-Yi LUO"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "MGL",
+                    "name": "Munkh-Erdene GANTULGA"
+                },
+                {
+                    "country": "TPE",
+                    "name": "Chih-Yi LUO"
+                }
+            ],
+            [
+                {
+                    "country": "MGL",
+                    "name": "Munkh-Erdene GANTULGA"
+                }
+            ]
+        ]
+    },
+    "REPECHAGE": {
+        "round 1-4": [
+            [],
+            [
+                {
+                    "country": "TJK",
+                    "name": "Faridun KHOLIKOV"
+                },
+                {
+                    "winner": "Faridun KHOLIKOV"
+                }
+            ],
+            [],
+            [
+                {
+                    "country": "TPE",
+                    "name": "Chih-Yi LUO"
+                },
+                {
+                    "winner": "Chih-Yi LUO"
+                }
+            ]
+        ],
+        "round 1-2": [
+            [
+                {
+                    "country": "TJK",
+                    "name": "Faridun KHOLIKOV"
+                }
+            ],
+            [
+                {
+                    "country": "TPE",
+                    "name": "Chih-Yi LUO"
+                }
+            ],
+            [
+                {
+                    "country": "TJK",
+                    "name": "Faridun KHOLIKOV"
+                },
+                {
+                    "country": "MGL",
+                    "name": "Munkh-Erdene GANTULGA"
+                }
+            ],
+            [
+                {
+                    "country": "TPE",
+                    "name": "Chih-Yi LUO"
+                },
+                {
+                    "country": "AUS",
+                    "name": "Frank CONSTANTINIDIS"
+                }
+            ],
+            [
+                {
+                    "country": "MGL",
+                    "name": "Munkh-Erdene GANTULGA"
+                }
+            ]
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "NZL",
+                    "name": "Rihari IKI"
+                },
+                {
+                    "country": "AUS",
+                    "name": "Frank CONSTANTINIDIS"
+                },
+                {
+                    "winner": "Rihari IKI"
+                }
+            ],
+            [
+                {
+                    "country": "KGZ",
+                    "name": "Shakir SHAKIROV"
+                },
+                {
+                    "country": "MGL",
+                    "name": "Munkh-Erdene GANTULGA"
+                },
+                {
+                    "winner": "Shakir SHAKIROV"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "NZL",
+                    "name": "Rihari IKI"
+                },
+                {
+                    "country": "KGZ",
+                    "name": "Shakir SHAKIROV"
+                }
+            ],
+            [
+                {
+                    "country": "KGZ",
+                    "name": "Shakir SHAKIROV"
+                }
+            ]
+        ]
+    }
+}

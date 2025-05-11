@@ -1,0 +1,311 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ITA",
+                    "name": "Sofia PETITTO"
+                },
+                {
+                    "winner": "Sofia PETITTO"
+                }
+            ],
+            [
+                {
+                    "country": "TUR",
+                    "name": "Ozge ANDIC"
+                },
+                {
+                    "country": "POL",
+                    "name": "Marta KURAS"
+                },
+                {
+                    "winner": "Ozge ANDIC"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "ITA",
+                    "name": "Sofia PETITTO"
+                },
+                {
+                    "country": "TUR",
+                    "name": "Ozge ANDIC"
+                }
+            ]
+        ],
+        "final_winner": "Sofia PETITTO"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "POL",
+                    "name": "Danuta MAJCHER"
+                },
+                {
+                    "winner": "Danuta MAJCHER"
+                }
+            ],
+            [
+                {
+                    "country": "BIH",
+                    "name": "Ana UJDUR"
+                },
+                {
+                    "country": "TUR",
+                    "name": "Leyla KAFKO"
+                },
+                {
+                    "winner": "Leyla KAFKO"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "POL",
+                    "name": "Danuta MAJCHER"
+                },
+                {
+                    "country": "TUR",
+                    "name": "Leyla KAFKO"
+                }
+            ]
+        ],
+        "final_winner": "Danuta MAJCHER"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "SRB",
+                    "name": "Andrea STOJADINOV"
+                },
+                {
+                    "winner": "Andrea STOJADINOV"
+                }
+            ],
+            [
+                {
+                    "country": "POL",
+                    "name": "Paulina SZLACHTA"
+                },
+                {
+                    "country": "BUL",
+                    "name": "Gergana ILIEVA"
+                },
+                {
+                    "winner": "Paulina SZLACHTA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "SRB",
+                    "name": "Andrea STOJADINOV"
+                },
+                {
+                    "country": "POL",
+                    "name": "Paulina SZLACHTA"
+                }
+            ]
+        ],
+        "final_winner": "Andrea STOJADINOV"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CAN",
+                    "name": "Virginia NEMETH"
+                },
+                {
+                    "winner": "Virginia NEMETH"
+                }
+            ],
+            [
+                {
+                    "country": "POL",
+                    "name": "Aleksandra JANECZKO"
+                },
+                {
+                    "country": "TUR",
+                    "name": "Zeliha CINCI"
+                },
+                {
+                    "winner": "Zeliha CINCI"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "CAN",
+                    "name": "Virginia NEMETH"
+                },
+                {
+                    "country": "TUR",
+                    "name": "Zeliha CINCI"
+                }
+            ]
+        ],
+        "final_winner": "Virginia NEMETH"
+    },
+    "REPECHAGE": {
+        "round 1-4": [
+            [
+                {
+                    "country": "TUR",
+                    "name": "Ozge ANDIC"
+                },
+                {
+                    "winner": "Ozge ANDIC"
+                }
+            ],
+            [
+                {
+                    "country": "TUR",
+                    "name": "Leyla KAFKO"
+                },
+                {
+                    "winner": "Leyla KAFKO"
+                }
+            ],
+            [
+                {
+                    "country": "POL",
+                    "name": "Paulina SZLACHTA"
+                },
+                {
+                    "winner": "Paulina SZLACHTA"
+                }
+            ],
+            [
+                {
+                    "country": "TUR",
+                    "name": "Zeliha CINCI"
+                },
+                {
+                    "winner": "Zeliha CINCI"
+                }
+            ]
+        ],
+        "round 1-2": [
+            [
+                {
+                    "country": "TUR",
+                    "name": "Ozge ANDIC"
+                },
+                {
+                    "country": "TUR",
+                    "name": "Leyla KAFKO"
+                },
+                {
+                    "winner": "Ozge ANDIC"
+                }
+            ],
+            [
+                {
+                    "country": "POL",
+                    "name": "Paulina SZLACHTA"
+                },
+                {
+                    "country": "TUR",
+                    "name": "Zeliha CINCI"
+                },
+                {
+                    "winner": "Paulina SZLACHTA"
+                }
+            ],
+            [
+                {
+                    "country": "TUR",
+                    "name": "Ozge ANDIC"
+                },
+                {
+                    "country": "CAN",
+                    "name": "Virginia NEMETH"
+                },
+                {
+                    "winner": "Virginia NEMETH"
+                }
+            ],
+            [
+                {
+                    "country": "POL",
+                    "name": "Paulina SZLACHTA"
+                },
+                {
+                    "country": "POL",
+                    "name": "Danuta MAJCHER"
+                },
+                {
+                    "winner": "Danuta MAJCHER"
+                }
+            ],
+            [
+                {
+                    "country": "CAN",
+                    "name": "Virginia NEMETH"
+                }
+            ],
+            [
+                {
+                    "country": "POL",
+                    "name": "Danuta MAJCHER"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Virginia NEMETH",
+            "Danuta MAJCHER"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ITA",
+                    "name": "Sofia PETITTO"
+                },
+                {
+                    "country": "POL",
+                    "name": "Danuta MAJCHER"
+                },
+                {
+                    "winner": "Sofia PETITTO"
+                }
+            ],
+            [
+                {
+                    "country": "SRB",
+                    "name": "Andrea STOJADINOV"
+                },
+                {
+                    "country": "CAN",
+                    "name": "Virginia NEMETH"
+                },
+                {
+                    "winner": "Andrea STOJADINOV"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "ITA",
+                    "name": "Sofia PETITTO"
+                },
+                {
+                    "country": "SRB",
+                    "name": "Andrea STOJADINOV"
+                }
+            ]
+        ],
+        "final_winner": "Andrea STOJADINOV"
+    }
+}

@@ -1,0 +1,159 @@
+{
+    "POOL A": {
+        "round 1-1": [
+            [
+                {
+                    "country": "UZB",
+                    "name": "Ibodatkhon AGOJONOVA"
+                },
+                {
+                    "country": "RUS",
+                    "name": "Valeriia SMIRNOVA"
+                }
+            ]
+        ],
+        "final_winner": "Ibodatkhon AGOJONOVA"
+    },
+    "POOL B": {
+        "round 1-1": [
+            [
+                {
+                    "country": "UZB",
+                    "name": "Zebo YAKUBOVA"
+                },
+                {
+                    "country": "TJK",
+                    "name": "Shohida QALANDAROVA"
+                }
+            ]
+        ],
+        "final_winner": "Shohida QALANDAROVA"
+    },
+    "POOL C": {
+        "round 1-1": [
+            [
+                {
+                    "country": "UZB",
+                    "name": "Muhlisa GANJAEVA"
+                },
+                {
+                    "country": "RUS",
+                    "name": "Daria KASHINA"
+                }
+            ]
+        ],
+        "final_winner": "Daria KASHINA"
+    },
+    "POOL D": {
+        "round 1-1": [],
+        "final_winner": "Ziregul KADYROVA"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "RUS",
+                    "name": "Valeriia SMIRNOVA"
+                },
+                {
+                    "country": "UZB",
+                    "name": "Zebo YAKUBOVA"
+                },
+                {
+                    "winner": "Valeriia SMIRNOVA"
+                }
+            ],
+            [
+                {
+                    "country": "UZB",
+                    "name": "Muhlisa GANJAEVA"
+                }
+            ],
+            [
+                {
+                    "country": "RUS",
+                    "name": "Valeriia SMIRNOVA"
+                },
+                {
+                    "country": "KGZ",
+                    "name": "Ziregul KADYROVA"
+                },
+                {
+                    "winner": "Ziregul KADYROVA"
+                }
+            ],
+            [
+                {
+                    "country": "UZB",
+                    "name": "Muhlisa GANJAEVA"
+                },
+                {
+                    "country": "UZB",
+                    "name": "Ibodatkhon AGOJONOVA"
+                },
+                {
+                    "winner": "Ibodatkhon AGOJONOVA"
+                }
+            ],
+            [
+                {
+                    "country": "KGZ",
+                    "name": "Ziregul KADYROVA"
+                }
+            ],
+            [
+                {
+                    "country": "UZB",
+                    "name": "Ibodatkhon AGOJONOVA"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Ziregul KADYROVA",
+            "Ibodatkhon AGOJONOVA"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "UZB",
+                    "name": "Ibodatkhon AGOJONOVA"
+                },
+                {
+                    "country": "TJK",
+                    "name": "Shohida QALANDAROVA"
+                },
+                {
+                    "winner": "Shohida QALANDAROVA"
+                }
+            ],
+            [
+                {
+                    "country": "RUS",
+                    "name": "Daria KASHINA"
+                },
+                {
+                    "country": "KGZ",
+                    "name": "Ziregul KADYROVA"
+                },
+                {
+                    "winner": "Daria KASHINA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "TJK",
+                    "name": "Shohida QALANDAROVA"
+                },
+                {
+                    "country": "RUS",
+                    "name": "Daria KASHINA"
+                }
+            ]
+        ],
+        "final_winner": "Daria KASHINA"
+    }
+}

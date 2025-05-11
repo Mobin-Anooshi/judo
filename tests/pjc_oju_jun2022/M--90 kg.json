@@ -1,0 +1,274 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "USA",
+                    "name": "Alexander KNAUF"
+                },
+                {
+                    "winner": "Alexander KNAUF"
+                }
+            ],
+            []
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "USA",
+                    "name": "Alexander KNAUF"
+                }
+            ]
+        ]
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "AUS",
+                    "name": "Danny VOJNIKOVICH"
+                },
+                {
+                    "winner": "Danny VOJNIKOVICH"
+                }
+            ],
+            [
+                {
+                    "country": "MEX",
+                    "name": "Jeremy OLIVARES"
+                },
+                {
+                    "winner": "Jeremy OLIVARES"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "AUS",
+                    "name": "Danny VOJNIKOVICH"
+                },
+                {
+                    "country": "MEX",
+                    "name": "Jeremy OLIVARES"
+                }
+            ],
+            [
+                {
+                    "country": "AUS",
+                    "name": "Danny VOJNIKOVICH"
+                }
+            ]
+        ]
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CHI",
+                    "name": "Leonardo GUTIERREZ"
+                },
+                {
+                    "winner": "Leonardo GUTIERREZ"
+                }
+            ],
+            [
+                {
+                    "country": "MEX",
+                    "name": "Angel GARCIA"
+                },
+                {
+                    "winner": "Angel GARCIA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "CHI",
+                    "name": "Leonardo GUTIERREZ"
+                },
+                {
+                    "country": "MEX",
+                    "name": "Angel GARCIA"
+                }
+            ],
+            [
+                {
+                    "country": "MEX",
+                    "name": "Angel GARCIA"
+                }
+            ]
+        ]
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "PER",
+                    "name": "Sebastian BENITES"
+                },
+                {
+                    "winner": "Sebastian BENITES"
+                }
+            ],
+            [
+                {
+                    "country": "BRA",
+                    "name": "Guilherme MORAIS"
+                },
+                {
+                    "winner": "Guilherme MORAIS"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "PER",
+                    "name": "Sebastian BENITES"
+                },
+                {
+                    "country": "BRA",
+                    "name": "Guilherme MORAIS"
+                }
+            ],
+            [
+                {
+                    "country": "BRA",
+                    "name": "Guilherme MORAIS"
+                }
+            ]
+        ]
+    },
+    "REPECHAGE": {
+        "round 1-4": [
+            [],
+            [
+                {
+                    "country": "MEX",
+                    "name": "Jeremy OLIVARES"
+                },
+                {
+                    "winner": "Jeremy OLIVARES"
+                }
+            ],
+            [
+                {
+                    "country": "CHI",
+                    "name": "Leonardo GUTIERREZ"
+                },
+                {
+                    "winner": "Leonardo GUTIERREZ"
+                }
+            ],
+            [
+                {
+                    "country": "PER",
+                    "name": "Sebastian BENITES"
+                },
+                {
+                    "winner": "Sebastian BENITES"
+                }
+            ]
+        ],
+        "round 1-2": [
+            [
+                {
+                    "country": "MEX",
+                    "name": "Jeremy OLIVARES"
+                }
+            ],
+            [
+                {
+                    "country": "CHI",
+                    "name": "Leonardo GUTIERREZ"
+                },
+                {
+                    "country": "PER",
+                    "name": "Sebastian BENITES"
+                }
+            ],
+            [
+                {
+                    "country": "MEX",
+                    "name": "Jeremy OLIVARES"
+                },
+                {
+                    "country": "MEX",
+                    "name": "Angel GARCIA"
+                }
+            ],
+            [
+                {
+                    "country": "CHI",
+                    "name": "Leonardo GUTIERREZ"
+                },
+                {
+                    "country": "AUS",
+                    "name": "Danny VOJNIKOVICH"
+                }
+            ],
+            [
+                {
+                    "country": "MEX",
+                    "name": "Angel GARCIA"
+                }
+            ],
+            [
+                {
+                    "country": "AUS",
+                    "name": "Danny VOJNIKOVICH"
+                }
+            ]
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "USA",
+                    "name": "Alexander KNAUF"
+                },
+                {
+                    "country": "AUS",
+                    "name": "Danny VOJNIKOVICH"
+                },
+                {
+                    "winner": "Alexander KNAUF"
+                }
+            ],
+            [
+                {
+                    "country": "MEX",
+                    "name": "Angel GARCIA"
+                },
+                {
+                    "country": "BRA",
+                    "name": "Guilherme MORAIS"
+                },
+                {
+                    "winner": "Guilherme MORAIS"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "USA",
+                    "name": "Alexander KNAUF"
+                },
+                {
+                    "country": "BRA",
+                    "name": "Guilherme MORAIS"
+                }
+            ],
+            [
+                {
+                    "country": "BRA",
+                    "name": "Guilherme MORAIS"
+                }
+            ]
+        ]
+    }
+}

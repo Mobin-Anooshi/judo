@@ -1,0 +1,312 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "VEN",
+                    "name": "Luis PARICHE"
+                },
+                {
+                    "winner": "Luis PARICHE"
+                }
+            ],
+            [
+                {
+                    "country": "CAN",
+                    "name": "Arthur KARPUKOV"
+                },
+                {
+                    "country": "BRA",
+                    "name": "Enzo TROMBINI"
+                },
+                {
+                    "winner": "Enzo TROMBINI"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "VEN",
+                    "name": "Luis PARICHE"
+                },
+                {
+                    "country": "BRA",
+                    "name": "Enzo TROMBINI"
+                }
+            ],
+            [
+                {
+                    "country": "BRA",
+                    "name": "Enzo TROMBINI"
+                }
+            ]
+        ]
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "COL",
+                    "name": "John PEREZ RUIZ"
+                },
+                {
+                    "winner": "John PEREZ RUIZ"
+                }
+            ],
+            [
+                {
+                    "country": "CHI",
+                    "name": "Demis GOMEZ"
+                },
+                {
+                    "winner": "Demis GOMEZ"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "COL",
+                    "name": "John PEREZ RUIZ"
+                },
+                {
+                    "country": "CHI",
+                    "name": "Demis GOMEZ"
+                }
+            ],
+            [
+                {
+                    "country": "COL",
+                    "name": "John PEREZ RUIZ"
+                }
+            ]
+        ]
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "USA",
+                    "name": "Dominic RODRIGUEZ"
+                },
+                {
+                    "winner": "Dominic RODRIGUEZ"
+                }
+            ],
+            [
+                {
+                    "country": "MEX",
+                    "name": "Alejandro MARTINEZ SANCHEZ"
+                },
+                {
+                    "winner": "Alejandro MARTINEZ SANCHEZ"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "USA",
+                    "name": "Dominic RODRIGUEZ"
+                },
+                {
+                    "country": "MEX",
+                    "name": "Alejandro MARTINEZ SANCHEZ"
+                }
+            ],
+            [
+                {
+                    "country": "USA",
+                    "name": "Dominic RODRIGUEZ"
+                }
+            ]
+        ]
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CAN",
+                    "name": "Tigran KRYVYTSKYI"
+                },
+                {
+                    "winner": "Tigran KRYVYTSKYI"
+                }
+            ],
+            [
+                {
+                    "country": "BRA",
+                    "name": "Luan ALMEIDA"
+                },
+                {
+                    "winner": "Luan ALMEIDA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "CAN",
+                    "name": "Tigran KRYVYTSKYI"
+                },
+                {
+                    "country": "BRA",
+                    "name": "Luan ALMEIDA"
+                }
+            ],
+            [
+                {
+                    "country": "BRA",
+                    "name": "Luan ALMEIDA"
+                }
+            ]
+        ]
+    },
+    "REPECHAGE": {
+        "round 1-4": [
+            [
+                {
+                    "country": "CAN",
+                    "name": "Arthur KARPUKOV"
+                },
+                {
+                    "country": "VEN",
+                    "name": "Luis PARICHE"
+                },
+                {
+                    "winner": "Luis PARICHE"
+                }
+            ],
+            [
+                {
+                    "country": "CHI",
+                    "name": "Demis GOMEZ"
+                },
+                {
+                    "winner": "Demis GOMEZ"
+                }
+            ],
+            [
+                {
+                    "country": "MEX",
+                    "name": "Alejandro MARTINEZ SANCHEZ"
+                },
+                {
+                    "winner": "Alejandro MARTINEZ SANCHEZ"
+                }
+            ],
+            [
+                {
+                    "country": "CAN",
+                    "name": "Tigran KRYVYTSKYI"
+                },
+                {
+                    "winner": "Tigran KRYVYTSKYI"
+                }
+            ]
+        ],
+        "round 1-2": [
+            [
+                {
+                    "country": "VEN",
+                    "name": "Luis PARICHE"
+                },
+                {
+                    "country": "CHI",
+                    "name": "Demis GOMEZ"
+                }
+            ],
+            [
+                {
+                    "country": "MEX",
+                    "name": "Alejandro MARTINEZ SANCHEZ"
+                },
+                {
+                    "country": "CAN",
+                    "name": "Tigran KRYVYTSKYI"
+                }
+            ],
+            [
+                {
+                    "country": "VEN",
+                    "name": "Luis PARICHE"
+                },
+                {
+                    "country": "BRA",
+                    "name": "Luan ALMEIDA"
+                }
+            ],
+            [
+                {
+                    "country": "CAN",
+                    "name": "Tigran KRYVYTSKYI"
+                },
+                {
+                    "country": "COL",
+                    "name": "John PEREZ RUIZ"
+                }
+            ],
+            [
+                {
+                    "country": "BRA",
+                    "name": "Luan ALMEIDA"
+                }
+            ],
+            [
+                {
+                    "country": "COL",
+                    "name": "John PEREZ RUIZ"
+                }
+            ]
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Enzo TROMBINI"
+                },
+                {
+                    "country": "COL",
+                    "name": "John PEREZ RUIZ"
+                },
+                {
+                    "winner": "Enzo TROMBINI"
+                }
+            ],
+            [
+                {
+                    "country": "USA",
+                    "name": "Dominic RODRIGUEZ"
+                },
+                {
+                    "country": "BRA",
+                    "name": "Luan ALMEIDA"
+                },
+                {
+                    "winner": "Dominic RODRIGUEZ"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Enzo TROMBINI"
+                },
+                {
+                    "country": "USA",
+                    "name": "Dominic RODRIGUEZ"
+                }
+            ],
+            [
+                {
+                    "country": "USA",
+                    "name": "Dominic RODRIGUEZ"
+                }
+            ]
+        ]
+    }
+}

@@ -1,0 +1,172 @@
+{
+    "POOL A": {
+        "round 1-1": [
+            [
+                {
+                    "country": "CUB",
+                    "name": "Alex GARCIA MENDOZA"
+                },
+                {
+                    "country": "MEX",
+                    "name": "David GOMEZ"
+                }
+            ],
+            [
+                {
+                    "country": "CUB",
+                    "name": "Alex GARCIA MENDOZA"
+                }
+            ]
+        ]
+    },
+    "POOL B": {
+        "round 1-1": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Ruan ISQUIERDO"
+                },
+                {
+                    "country": "USA",
+                    "name": "Ajax TADEHARA"
+                }
+            ],
+            [
+                {
+                    "country": "BRA",
+                    "name": "Ruan ISQUIERDO"
+                }
+            ]
+        ]
+    },
+    "POOL C": {
+        "round 1-1": [
+            [
+                {
+                    "country": "ECU",
+                    "name": "Freddy FIGUEROA"
+                },
+                {
+                    "country": "CAN",
+                    "name": "Kevin GAUTHIER"
+                }
+            ],
+            [
+                {
+                    "country": "ECU",
+                    "name": "Freddy FIGUEROA"
+                }
+            ]
+        ]
+    },
+    "POOL D": {
+        "round 1-1": [
+            [
+                {
+                    "country": "ARG",
+                    "name": "Hector CAMPOS"
+                }
+            ]
+        ]
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "MEX",
+                    "name": "David GOMEZ"
+                },
+                {
+                    "country": "USA",
+                    "name": "Ajax TADEHARA"
+                }
+            ],
+            [
+                {
+                    "country": "CAN",
+                    "name": "Kevin GAUTHIER"
+                }
+            ],
+            [
+                {
+                    "country": "USA",
+                    "name": "Ajax TADEHARA"
+                },
+                {
+                    "country": "ECU",
+                    "name": "Freddy FIGUEROA"
+                }
+            ],
+            [
+                {
+                    "country": "CAN",
+                    "name": "Kevin GAUTHIER"
+                },
+                {
+                    "country": "BRA",
+                    "name": "Ruan ISQUIERDO"
+                }
+            ],
+            [
+                {
+                    "country": "ECU",
+                    "name": "Freddy FIGUEROA"
+                }
+            ],
+            [
+                {
+                    "country": "BRA",
+                    "name": "Ruan ISQUIERDO"
+                }
+            ]
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CUB",
+                    "name": "Alex GARCIA MENDOZA"
+                },
+                {
+                    "country": "BRA",
+                    "name": "Ruan ISQUIERDO"
+                },
+                {
+                    "winner": "Alex GARCIA MENDOZA"
+                }
+            ],
+            [
+                {
+                    "country": "ECU",
+                    "name": "Freddy FIGUEROA"
+                },
+                {
+                    "country": "ARG",
+                    "name": "Hector CAMPOS"
+                },
+                {
+                    "winner": "Hector CAMPOS"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "CUB",
+                    "name": "Alex GARCIA MENDOZA"
+                },
+                {
+                    "country": "ARG",
+                    "name": "Hector CAMPOS"
+                }
+            ],
+            [
+                {
+                    "country": "CUB",
+                    "name": "Alex GARCIA MENDOZA"
+                }
+            ]
+        ]
+    }
+}

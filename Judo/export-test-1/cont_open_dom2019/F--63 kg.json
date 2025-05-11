@@ -1,0 +1,265 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ECU",
+                    "name": "Estefania GARCIA"
+                },
+                {
+                    "winner": "Estefania GARCIA"
+                }
+            ],
+            [
+                {
+                    "country": "DOM",
+                    "name": "Creymarlin VALDEZ"
+                },
+                {
+                    "country": "USA",
+                    "name": "Katherine BERNIER"
+                },
+                {
+                    "winner": "Katherine BERNIER"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "ECU",
+                    "name": "Estefania GARCIA"
+                },
+                {
+                    "country": "USA",
+                    "name": "Katherine BERNIER"
+                }
+            ]
+        ],
+        "final_winner": "Estefania GARCIA"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "DOM",
+                    "name": "Ariela SANCHEZ"
+                },
+                {
+                    "winner": "Ariela SANCHEZ"
+                }
+            ],
+            [
+                {
+                    "country": "CPV",
+                    "name": "Sandrine BILLIET"
+                },
+                {
+                    "winner": "Sandrine BILLIET"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "DOM",
+                    "name": "Ariela SANCHEZ"
+                },
+                {
+                    "country": "CPV",
+                    "name": "Sandrine BILLIET"
+                }
+            ]
+        ],
+        "final_winner": "Sandrine BILLIET"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CMR",
+                    "name": "Helene WEZEU DOMBEU"
+                },
+                {
+                    "winner": "Helene WEZEU DOMBEU"
+                }
+            ],
+            [
+                {
+                    "country": "CAN",
+                    "name": "Isabelle HARRIS"
+                },
+                {
+                    "country": "ESP",
+                    "name": "Vlada KOPNYAYEVA"
+                },
+                {
+                    "winner": "Isabelle HARRIS"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "CMR",
+                    "name": "Helene WEZEU DOMBEU"
+                },
+                {
+                    "country": "CAN",
+                    "name": "Isabelle HARRIS"
+                }
+            ]
+        ],
+        "final_winner": "Helene WEZEU DOMBEU"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "USA",
+                    "name": "Lauren DE SMIDT"
+                },
+                {
+                    "winner": "Lauren DE SMIDT"
+                }
+            ],
+            [
+                {
+                    "country": "DOM",
+                    "name": "Katherine CARVAJAL ANTIGUA"
+                },
+                {
+                    "winner": "Katherine CARVAJAL ANTIGUA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "USA",
+                    "name": "Lauren DE SMIDT"
+                },
+                {
+                    "country": "DOM",
+                    "name": "Katherine CARVAJAL ANTIGUA"
+                }
+            ]
+        ],
+        "final_winner": "Lauren DE SMIDT"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "USA",
+                    "name": "Katherine BERNIER"
+                },
+                {
+                    "country": "DOM",
+                    "name": "Ariela SANCHEZ"
+                },
+                {
+                    "winner": "Ariela SANCHEZ"
+                }
+            ],
+            [
+                {
+                    "country": "CAN",
+                    "name": "Isabelle HARRIS"
+                },
+                {
+                    "country": "DOM",
+                    "name": "Katherine CARVAJAL ANTIGUA"
+                },
+                {
+                    "winner": "Isabelle HARRIS"
+                }
+            ],
+            [
+                {
+                    "country": "DOM",
+                    "name": "Ariela SANCHEZ"
+                },
+                {
+                    "country": "USA",
+                    "name": "Lauren DE SMIDT"
+                },
+                {
+                    "winner": "Ariela SANCHEZ"
+                }
+            ],
+            [
+                {
+                    "country": "CAN",
+                    "name": "Isabelle HARRIS"
+                },
+                {
+                    "country": "CPV",
+                    "name": "Sandrine BILLIET"
+                },
+                {
+                    "winner": "Isabelle HARRIS"
+                }
+            ],
+            [
+                {
+                    "country": "DOM",
+                    "name": "Ariela SANCHEZ"
+                }
+            ],
+            [
+                {
+                    "country": "CAN",
+                    "name": "Isabelle HARRIS"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Ariela SANCHEZ",
+            "Isabelle HARRIS"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ECU",
+                    "name": "Estefania GARCIA"
+                },
+                {
+                    "country": "CPV",
+                    "name": "Sandrine BILLIET"
+                },
+                {
+                    "winner": "Estefania GARCIA"
+                }
+            ],
+            [
+                {
+                    "country": "CMR",
+                    "name": "Helene WEZEU DOMBEU"
+                },
+                {
+                    "country": "USA",
+                    "name": "Lauren DE SMIDT"
+                },
+                {
+                    "winner": "Helene WEZEU DOMBEU"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "ECU",
+                    "name": "Estefania GARCIA"
+                },
+                {
+                    "country": "CMR",
+                    "name": "Helene WEZEU DOMBEU"
+                }
+            ]
+        ],
+        "final_winner": "Estefania GARCIA"
+    }
+}

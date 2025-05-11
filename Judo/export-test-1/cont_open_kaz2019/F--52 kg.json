@@ -1,0 +1,235 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "HKG",
+                    "name": "Shuk Ki TSUI"
+                },
+                {
+                    "winner": "Shuk Ki TSUI"
+                }
+            ],
+            [
+                {
+                    "country": "RUS",
+                    "name": "Daria GRIBANOVA"
+                },
+                {
+                    "winner": "Daria GRIBANOVA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "HKG",
+                    "name": "Shuk Ki TSUI"
+                },
+                {
+                    "country": "RUS",
+                    "name": "Daria GRIBANOVA"
+                }
+            ]
+        ],
+        "final_winner": "Daria GRIBANOVA"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [],
+            [
+                {
+                    "country": "KAZ",
+                    "name": "Guldana ALMUKHANBETOVA"
+                },
+                {
+                    "winner": "Guldana ALMUKHANBETOVA"
+                }
+            ]
+        ],
+        "round 1-1": [],
+        "final_winner": "Guldana ALMUKHANBETOVA"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "KAZ",
+                    "name": "Anna KAZYULINA"
+                },
+                {
+                    "winner": "Anna KAZYULINA"
+                }
+            ],
+            [
+                {
+                    "country": "RUS",
+                    "name": "Viktoriia VASILCHENKO"
+                },
+                {
+                    "winner": "Viktoriia VASILCHENKO"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "KAZ",
+                    "name": "Anna KAZYULINA"
+                },
+                {
+                    "country": "RUS",
+                    "name": "Viktoriia VASILCHENKO"
+                }
+            ]
+        ],
+        "final_winner": "Anna KAZYULINA"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "TJK",
+                    "name": "Fazilat GULBOEVA"
+                },
+                {
+                    "winner": "Fazilat GULBOEVA"
+                }
+            ],
+            [
+                {
+                    "country": "KAZ",
+                    "name": "Dinara MUSSURMAN"
+                },
+                {
+                    "country": "KOR",
+                    "name": "Yihyeon KIM"
+                },
+                {
+                    "winner": "Yihyeon KIM"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "TJK",
+                    "name": "Fazilat GULBOEVA"
+                },
+                {
+                    "country": "KOR",
+                    "name": "Yihyeon KIM"
+                }
+            ]
+        ],
+        "final_winner": "Yihyeon KIM"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "HKG",
+                    "name": "Shuk Ki TSUI"
+                }
+            ],
+            [
+                {
+                    "country": "RUS",
+                    "name": "Viktoriia VASILCHENKO"
+                },
+                {
+                    "country": "TJK",
+                    "name": "Fazilat GULBOEVA"
+                },
+                {
+                    "winner": "Viktoriia VASILCHENKO"
+                }
+            ],
+            [
+                {
+                    "country": "HKG",
+                    "name": "Shuk Ki TSUI"
+                },
+                {
+                    "country": "KOR",
+                    "name": "Yihyeon KIM"
+                },
+                {
+                    "winner": "Yihyeon KIM"
+                }
+            ],
+            [
+                {
+                    "country": "RUS",
+                    "name": "Viktoriia VASILCHENKO"
+                },
+                {
+                    "country": "KAZ",
+                    "name": "Guldana ALMUKHANBETOVA"
+                },
+                {
+                    "winner": "Viktoriia VASILCHENKO"
+                }
+            ],
+            [
+                {
+                    "country": "KOR",
+                    "name": "Yihyeon KIM"
+                }
+            ],
+            [
+                {
+                    "country": "RUS",
+                    "name": "Viktoriia VASILCHENKO"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Yihyeon KIM",
+            "Viktoriia VASILCHENKO"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "RUS",
+                    "name": "Daria GRIBANOVA"
+                },
+                {
+                    "country": "KAZ",
+                    "name": "Guldana ALMUKHANBETOVA"
+                },
+                {
+                    "winner": "Daria GRIBANOVA"
+                }
+            ],
+            [
+                {
+                    "country": "KAZ",
+                    "name": "Anna KAZYULINA"
+                },
+                {
+                    "country": "KOR",
+                    "name": "Yihyeon KIM"
+                },
+                {
+                    "winner": "Anna KAZYULINA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "RUS",
+                    "name": "Daria GRIBANOVA"
+                },
+                {
+                    "country": "KAZ",
+                    "name": "Anna KAZYULINA"
+                }
+            ]
+        ],
+        "final_winner": "Anna KAZYULINA"
+    }
+}

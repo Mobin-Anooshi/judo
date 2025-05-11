@@ -1,0 +1,261 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "RSA",
+                    "name": "Calvin MARAIS"
+                },
+                {
+                    "winner": "Calvin MARAIS"
+                }
+            ],
+            [
+                {
+                    "country": "GAM",
+                    "name": "Amadou SOWE"
+                },
+                {
+                    "winner": "Amadou SOWE"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "RSA",
+                    "name": "Calvin MARAIS"
+                },
+                {
+                    "country": "GAM",
+                    "name": "Amadou SOWE"
+                }
+            ]
+        ],
+        "final_winner": "Amadou SOWE"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "SRB",
+                    "name": "Andrey PIROLO DEL ROSSO"
+                },
+                {
+                    "winner": "Andrey PIROLO DEL ROSSO"
+                }
+            ],
+            [
+                {
+                    "country": "LBA",
+                    "name": "Ahmed SULAYMAN"
+                },
+                {
+                    "winner": "Ahmed SULAYMAN"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "SRB",
+                    "name": "Andrey PIROLO DEL ROSSO"
+                },
+                {
+                    "country": "LBA",
+                    "name": "Ahmed SULAYMAN"
+                }
+            ]
+        ],
+        "final_winner": "Andrey PIROLO DEL ROSSO"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "GAM",
+                    "name": "Abdourahman CEESAY"
+                },
+                {
+                    "winner": "Abdourahman CEESAY"
+                }
+            ],
+            [
+                {
+                    "country": "NIG",
+                    "name": "Abdoul Kader BOUBACAR ADAMOU"
+                },
+                {
+                    "winner": "Abdoul Kader BOUBACAR ADAMOU"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "GAM",
+                    "name": "Abdourahman CEESAY"
+                },
+                {
+                    "country": "NIG",
+                    "name": "Abdoul Kader BOUBACAR ADAMOU"
+                }
+            ]
+        ],
+        "final_winner": "Abdoul Kader BOUBACAR ADAMOU"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "MTN",
+                    "name": "Boubou CAMARA"
+                },
+                {
+                    "winner": "Boubou CAMARA"
+                }
+            ],
+            [
+                {
+                    "country": "MLI",
+                    "name": "Sory SACKO"
+                },
+                {
+                    "country": "GUI",
+                    "name": "Mamadou Samba BAH"
+                },
+                {
+                    "winner": "Sory SACKO"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "MTN",
+                    "name": "Boubou CAMARA"
+                },
+                {
+                    "country": "MLI",
+                    "name": "Sory SACKO"
+                }
+            ]
+        ],
+        "final_winner": "Sory SACKO"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "RSA",
+                    "name": "Calvin MARAIS"
+                },
+                {
+                    "country": "LBA",
+                    "name": "Ahmed SULAYMAN"
+                },
+                {
+                    "winner": "Ahmed SULAYMAN"
+                }
+            ],
+            [
+                {
+                    "country": "GAM",
+                    "name": "Abdourahman CEESAY"
+                },
+                {
+                    "country": "MTN",
+                    "name": "Boubou CAMARA"
+                },
+                {
+                    "winner": "Boubou CAMARA"
+                }
+            ],
+            [
+                {
+                    "country": "LBA",
+                    "name": "Ahmed SULAYMAN"
+                },
+                {
+                    "country": "NIG",
+                    "name": "Abdoul Kader BOUBACAR ADAMOU"
+                },
+                {
+                    "winner": "Abdoul Kader BOUBACAR ADAMOU"
+                }
+            ],
+            [
+                {
+                    "country": "MTN",
+                    "name": "Boubou CAMARA"
+                },
+                {
+                    "country": "GAM",
+                    "name": "Amadou SOWE"
+                },
+                {
+                    "winner": "Amadou SOWE"
+                }
+            ],
+            [
+                {
+                    "country": "NIG",
+                    "name": "Abdoul Kader BOUBACAR ADAMOU"
+                }
+            ],
+            [
+                {
+                    "country": "GAM",
+                    "name": "Amadou SOWE"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Abdoul Kader BOUBACAR ADAMOU",
+            "Amadou SOWE"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "GAM",
+                    "name": "Amadou SOWE"
+                },
+                {
+                    "country": "SRB",
+                    "name": "Andrey PIROLO DEL ROSSO"
+                },
+                {
+                    "winner": "Andrey PIROLO DEL ROSSO"
+                }
+            ],
+            [
+                {
+                    "country": "NIG",
+                    "name": "Abdoul Kader BOUBACAR ADAMOU"
+                },
+                {
+                    "country": "MLI",
+                    "name": "Sory SACKO"
+                },
+                {
+                    "winner": "Sory SACKO"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "SRB",
+                    "name": "Andrey PIROLO DEL ROSSO"
+                },
+                {
+                    "country": "MLI",
+                    "name": "Sory SACKO"
+                }
+            ]
+        ],
+        "final_winner": "Andrey PIROLO DEL ROSSO"
+    }
+}

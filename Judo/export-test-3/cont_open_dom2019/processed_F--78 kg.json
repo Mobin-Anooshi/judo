@@ -1,0 +1,68 @@
+{
+    "ROUND 1": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ECU",
+                    "name": "Vanessa CHALA"
+                },
+                {
+                    "country": "HAI",
+                    "name": "Barbara LAMOUR"
+                },
+                {
+                    "winner": "Vanessa CHALA"
+                }
+            ],
+            [
+                {
+                    "country": "GAB",
+                    "name": "Sarah-Myriam MAZOUZ"
+                },
+                {
+                    "country": "DOM",
+                    "name": "Omaria RAMIREZ"
+                },
+                {
+                    "winner": "Sarah-Myriam MAZOUZ"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Vanessa CHALA",
+            "Sarah-Myriam MAZOUZ"
+        ]
+    },
+    "REPECHAGE": {
+        "round 1-1": [
+            [
+                {
+                    "country": "HAI",
+                    "name": "Barbara LAMOUR"
+                },
+                {
+                    "country": "DOM",
+                    "name": "Omaria RAMIREZ"
+                },
+                {
+                    "winner": "Omaria RAMIREZ"
+                }
+            ],
+            [
+                {
+                    "country": "DOM",
+                    "name": "Omaria RAMIREZ"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Omaria RAMIREZ"
+        ]
+    },
+    "FINALS": {
+        "round 1-1": [],
+        "final_winners": [
+            "Vanessa CHALA"
+        ]
+    }
+}

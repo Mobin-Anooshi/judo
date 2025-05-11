@@ -1,0 +1,270 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "COL",
+                    "name": "Yuri ALVEAR OREJUELA"
+                },
+                {
+                    "winner": "Yuri ALVEAR OREJUELA"
+                }
+            ],
+            [
+                {
+                    "country": "MEX",
+                    "name": "Andrea POO"
+                },
+                {
+                    "country": "USA",
+                    "name": "Sophia SWAIN"
+                },
+                {
+                    "winner": "Andrea POO"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "COL",
+                    "name": "Yuri ALVEAR OREJUELA"
+                },
+                {
+                    "country": "MEX",
+                    "name": "Andrea POO"
+                }
+            ],
+            [
+                {
+                    "country": "COL",
+                    "name": "Yuri ALVEAR OREJUELA"
+                }
+            ]
+        ]
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ECU",
+                    "name": "Vanessa CHALA"
+                },
+                {
+                    "winner": "Vanessa CHALA"
+                }
+            ],
+            [
+                {
+                    "country": "CAN",
+                    "name": "Alix RENAUD-ROY"
+                },
+                {
+                    "winner": "Alix RENAUD-ROY"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "ECU",
+                    "name": "Vanessa CHALA"
+                },
+                {
+                    "country": "CAN",
+                    "name": "Alix RENAUD-ROY"
+                }
+            ],
+            [
+                {
+                    "country": "CAN",
+                    "name": "Alix RENAUD-ROY"
+                }
+            ]
+        ]
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ANG",
+                    "name": "Antonia MOREIRA"
+                },
+                {
+                    "winner": "Antonia MOREIRA"
+                }
+            ],
+            [
+                {
+                    "country": "CZE",
+                    "name": "Alena EIGLOVA"
+                },
+                {
+                    "winner": "Alena EIGLOVA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "ANG",
+                    "name": "Antonia MOREIRA"
+                },
+                {
+                    "country": "CZE",
+                    "name": "Alena EIGLOVA"
+                }
+            ],
+            [
+                {
+                    "country": "ANG",
+                    "name": "Antonia MOREIRA"
+                }
+            ]
+        ]
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Nadia MERLI"
+                },
+                {
+                    "winner": "Nadia MERLI"
+                }
+            ],
+            [
+                {
+                    "country": "CAN",
+                    "name": "Monika BURGESS"
+                },
+                {
+                    "winner": "Monika BURGESS"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Nadia MERLI"
+                },
+                {
+                    "country": "CAN",
+                    "name": "Monika BURGESS"
+                }
+            ],
+            [
+                {
+                    "country": "CAN",
+                    "name": "Monika BURGESS"
+                }
+            ]
+        ]
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "MEX",
+                    "name": "Andrea POO"
+                },
+                {
+                    "country": "ECU",
+                    "name": "Vanessa CHALA"
+                }
+            ],
+            [
+                {
+                    "country": "CZE",
+                    "name": "Alena EIGLOVA"
+                },
+                {
+                    "country": "BRA",
+                    "name": "Nadia MERLI"
+                }
+            ],
+            [
+                {
+                    "country": "ECU",
+                    "name": "Vanessa CHALA"
+                },
+                {
+                    "country": "CAN",
+                    "name": "Monika BURGESS"
+                }
+            ],
+            [
+                {
+                    "country": "CZE",
+                    "name": "Alena EIGLOVA"
+                },
+                {
+                    "country": "CAN",
+                    "name": "Alix RENAUD-ROY"
+                }
+            ],
+            [
+                {
+                    "country": "ECU",
+                    "name": "Vanessa CHALA"
+                }
+            ],
+            [
+                {
+                    "country": "CAN",
+                    "name": "Alix RENAUD-ROY"
+                }
+            ]
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "COL",
+                    "name": "Yuri ALVEAR OREJUELA"
+                },
+                {
+                    "country": "CAN",
+                    "name": "Alix RENAUD-ROY"
+                },
+                {
+                    "winner": "Yuri ALVEAR OREJUELA"
+                }
+            ],
+            [
+                {
+                    "country": "ANG",
+                    "name": "Antonia MOREIRA"
+                },
+                {
+                    "country": "CAN",
+                    "name": "Monika BURGESS"
+                },
+                {
+                    "winner": "Antonia MOREIRA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "COL",
+                    "name": "Yuri ALVEAR OREJUELA"
+                },
+                {
+                    "country": "ANG",
+                    "name": "Antonia MOREIRA"
+                }
+            ],
+            [
+                {
+                    "country": "COL",
+                    "name": "Yuri ALVEAR OREJUELA"
+                }
+            ]
+        ]
+    }
+}

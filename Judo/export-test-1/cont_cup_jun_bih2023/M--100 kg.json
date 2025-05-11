@@ -1,0 +1,177 @@
+{
+    "POOL A": {
+        "round 1-1": [
+            [
+                {
+                    "country": "SLO",
+                    "name": "Gal BERTALANIC ZIZEK"
+                },
+                {
+                    "country": "TKM",
+                    "name": "Baymyrat MAJANOV"
+                }
+            ]
+        ],
+        "final_winner": "Baymyrat MAJANOV"
+    },
+    "POOL B": {
+        "round 1-1": [
+            [
+                {
+                    "country": "SRB",
+                    "name": "Ognjen DJURISIC"
+                },
+                {
+                    "country": "MNE",
+                    "name": "Petar GORANOVIC"
+                }
+            ]
+        ],
+        "final_winner": "Ognjen DJURISIC"
+    },
+    "POOL C": {
+        "round 1-1": [
+            [
+                {
+                    "country": "EST",
+                    "name": "Jakob VARES"
+                },
+                {
+                    "country": "BIH",
+                    "name": "Adnan DEMIROVIC"
+                }
+            ]
+        ],
+        "final_winner": "Jakob VARES"
+    },
+    "POOL D": {
+        "round 1-1": [
+            [
+                {
+                    "country": "MNE",
+                    "name": "Andrija MARTINOVIC"
+                },
+                {
+                    "country": "SRB",
+                    "name": "Stefan SIMIC"
+                }
+            ]
+        ],
+        "final_winner": "Stefan SIMIC"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "SLO",
+                    "name": "Gal BERTALANIC ZIZEK"
+                },
+                {
+                    "country": "MNE",
+                    "name": "Petar GORANOVIC"
+                },
+                {
+                    "winner": "Gal BERTALANIC ZIZEK"
+                }
+            ],
+            [
+                {
+                    "country": "BIH",
+                    "name": "Adnan DEMIROVIC"
+                },
+                {
+                    "country": "MNE",
+                    "name": "Andrija MARTINOVIC"
+                },
+                {
+                    "winner": "Adnan DEMIROVIC"
+                }
+            ],
+            [
+                {
+                    "country": "SLO",
+                    "name": "Gal BERTALANIC ZIZEK"
+                },
+                {
+                    "country": "SRB",
+                    "name": "Stefan SIMIC"
+                },
+                {
+                    "winner": "Stefan SIMIC"
+                }
+            ],
+            [
+                {
+                    "country": "BIH",
+                    "name": "Adnan DEMIROVIC"
+                },
+                {
+                    "country": "SRB",
+                    "name": "Ognjen DJURISIC"
+                },
+                {
+                    "winner": "Ognjen DJURISIC"
+                }
+            ],
+            [
+                {
+                    "country": "SRB",
+                    "name": "Stefan SIMIC"
+                }
+            ],
+            [
+                {
+                    "country": "SRB",
+                    "name": "Ognjen DJURISIC"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Stefan SIMIC",
+            "Ognjen DJURISIC"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "TKM",
+                    "name": "Baymyrat MAJANOV"
+                },
+                {
+                    "country": "SRB",
+                    "name": "Ognjen DJURISIC"
+                },
+                {
+                    "winner": "Baymyrat MAJANOV"
+                }
+            ],
+            [
+                {
+                    "country": "EST",
+                    "name": "Jakob VARES"
+                },
+                {
+                    "country": "SRB",
+                    "name": "Stefan SIMIC"
+                },
+                {
+                    "winner": "Jakob VARES"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "TKM",
+                    "name": "Baymyrat MAJANOV"
+                },
+                {
+                    "country": "EST",
+                    "name": "Jakob VARES"
+                }
+            ]
+        ],
+        "final_winner": "Jakob VARES"
+    }
+}

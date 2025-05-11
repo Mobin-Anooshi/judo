@@ -1,0 +1,277 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "USA",
+                    "name": "Taylor WEBER"
+                },
+                {
+                    "winner": "Taylor WEBER"
+                }
+            ],
+            [
+                {
+                    "country": "USA",
+                    "name": "Sergio AGUILAR"
+                },
+                {
+                    "winner": "Sergio AGUILAR"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "USA",
+                    "name": "Taylor WEBER"
+                },
+                {
+                    "country": "USA",
+                    "name": "Sergio AGUILAR"
+                }
+            ]
+        ],
+        "final_winner": "Sergio AGUILAR"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "USA",
+                    "name": "David AGOGLIA"
+                },
+                {
+                    "winner": "David AGOGLIA"
+                }
+            ],
+            [
+                {
+                    "country": "GER",
+                    "name": "Finn SCHROEDER"
+                },
+                {
+                    "country": "USA",
+                    "name": "Christopher RILEY"
+                },
+                {
+                    "winner": "Christopher RILEY"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "USA",
+                    "name": "David AGOGLIA"
+                },
+                {
+                    "country": "USA",
+                    "name": "Christopher RILEY"
+                }
+            ]
+        ],
+        "final_winner": "David AGOGLIA"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "PUR",
+                    "name": "Jaleel CRUZ"
+                },
+                {
+                    "country": "USA",
+                    "name": "Nicholas RODRIGUEZ"
+                },
+                {
+                    "winner": "Jaleel CRUZ"
+                }
+            ],
+            [
+                {
+                    "country": "CAN",
+                    "name": "Billy GUBBINS"
+                },
+                {
+                    "country": "USA",
+                    "name": "Jake PIERIDES"
+                },
+                {
+                    "winner": "Jake PIERIDES"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "PUR",
+                    "name": "Jaleel CRUZ"
+                },
+                {
+                    "country": "USA",
+                    "name": "Jake PIERIDES"
+                }
+            ]
+        ],
+        "final_winner": "Jaleel CRUZ"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "USA",
+                    "name": "Sean CALTAGIRONE"
+                },
+                {
+                    "country": "MEX",
+                    "name": "Arath JUAREZ"
+                },
+                {
+                    "winner": "Sean CALTAGIRONE"
+                }
+            ],
+            [
+                {
+                    "country": "BAH",
+                    "name": "Braiden MCKENZIE"
+                },
+                {
+                    "country": "USA",
+                    "name": "Adam ECKARDT"
+                },
+                {
+                    "winner": "Adam ECKARDT"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "USA",
+                    "name": "Sean CALTAGIRONE"
+                },
+                {
+                    "country": "USA",
+                    "name": "Adam ECKARDT"
+                }
+            ]
+        ],
+        "final_winner": "Sean CALTAGIRONE"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "USA",
+                    "name": "Taylor WEBER"
+                },
+                {
+                    "country": "USA",
+                    "name": "Christopher RILEY"
+                },
+                {
+                    "winner": "Christopher RILEY"
+                }
+            ],
+            [
+                {
+                    "country": "USA",
+                    "name": "Jake PIERIDES"
+                },
+                {
+                    "country": "USA",
+                    "name": "Adam ECKARDT"
+                },
+                {
+                    "winner": "Adam ECKARDT"
+                }
+            ],
+            [
+                {
+                    "country": "USA",
+                    "name": "Christopher RILEY"
+                },
+                {
+                    "country": "PUR",
+                    "name": "Jaleel CRUZ"
+                },
+                {
+                    "winner": "Jaleel CRUZ"
+                }
+            ],
+            [
+                {
+                    "country": "USA",
+                    "name": "Adam ECKARDT"
+                },
+                {
+                    "country": "USA",
+                    "name": "Sergio AGUILAR"
+                },
+                {
+                    "winner": "Sergio AGUILAR"
+                }
+            ],
+            [
+                {
+                    "country": "PUR",
+                    "name": "Jaleel CRUZ"
+                }
+            ],
+            [
+                {
+                    "country": "USA",
+                    "name": "Sergio AGUILAR"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Jaleel CRUZ",
+            "Sergio AGUILAR"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "USA",
+                    "name": "Sergio AGUILAR"
+                },
+                {
+                    "country": "USA",
+                    "name": "David AGOGLIA"
+                },
+                {
+                    "winner": "David AGOGLIA"
+                }
+            ],
+            [
+                {
+                    "country": "PUR",
+                    "name": "Jaleel CRUZ"
+                },
+                {
+                    "country": "USA",
+                    "name": "Sean CALTAGIRONE"
+                },
+                {
+                    "winner": "Sean CALTAGIRONE"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "USA",
+                    "name": "David AGOGLIA"
+                },
+                {
+                    "country": "USA",
+                    "name": "Sean CALTAGIRONE"
+                }
+            ]
+        ],
+        "final_winner": "David AGOGLIA"
+    }
+}

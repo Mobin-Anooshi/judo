@@ -1,0 +1,153 @@
+{
+    "POOL A": {
+        "round 1-1": [],
+        "final_winner": "David KLAMMERT"
+    },
+    "POOL B": {
+        "round 1-1": [
+            [
+                {
+                    "country": "FRA",
+                    "name": "Paul LIVOLSI"
+                },
+                {
+                    "country": "NZL",
+                    "name": "Noah WALLISS"
+                }
+            ]
+        ],
+        "final_winner": "Paul LIVOLSI"
+    },
+    "POOL C": {
+        "round 1-1": [
+            [
+                {
+                    "country": "GBR",
+                    "name": "Jamal PETGRAVE"
+                },
+                {
+                    "country": "SGP",
+                    "name": "Aaron NG"
+                }
+            ]
+        ],
+        "final_winner": "Jamal PETGRAVE"
+    },
+    "POOL D": {
+        "round 1-1": [
+            [
+                {
+                    "country": "AUS",
+                    "name": "Harrison CASSAR"
+                },
+                {
+                    "country": "PAK",
+                    "name": "Shah Hussain SHAH"
+                }
+            ]
+        ],
+        "final_winner": "Shah Hussain SHAH"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "NZL",
+                    "name": "Noah WALLISS"
+                }
+            ],
+            [
+                {
+                    "country": "SGP",
+                    "name": "Aaron NG"
+                },
+                {
+                    "country": "AUS",
+                    "name": "Harrison CASSAR"
+                },
+                {
+                    "winner": "Harrison CASSAR"
+                }
+            ],
+            [
+                {
+                    "country": "NZL",
+                    "name": "Noah WALLISS"
+                },
+                {
+                    "country": "PAK",
+                    "name": "Shah Hussain SHAH"
+                },
+                {
+                    "winner": "Noah WALLISS"
+                }
+            ],
+            [
+                {
+                    "country": "AUS",
+                    "name": "Harrison CASSAR"
+                },
+                {
+                    "country": "FRA",
+                    "name": "Paul LIVOLSI"
+                },
+                {
+                    "winner": "Paul LIVOLSI"
+                }
+            ],
+            [
+                {
+                    "country": "FRA",
+                    "name": "Paul LIVOLSI"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Harrison CASSAR",
+            "Noah WALLISS"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CZE",
+                    "name": "David KLAMMERT"
+                },
+                {
+                    "country": "FRA",
+                    "name": "Paul LIVOLSI"
+                },
+                {
+                    "winner": "David KLAMMERT"
+                }
+            ],
+            [
+                {
+                    "country": "GBR",
+                    "name": "Jamal PETGRAVE"
+                },
+                {
+                    "country": "PAK",
+                    "name": "Shah Hussain SHAH"
+                },
+                {
+                    "winner": "Jamal PETGRAVE"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "CZE",
+                    "name": "David KLAMMERT"
+                },
+                {
+                    "country": "GBR",
+                    "name": "Jamal PETGRAVE"
+                }
+            ]
+        ],
+        "final_winner": "David KLAMMERT"
+    }
+}

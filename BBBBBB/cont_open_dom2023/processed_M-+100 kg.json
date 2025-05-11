@@ -1,0 +1,261 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CAN",
+                    "name": "Marc DESCHENES"
+                },
+                {
+                    "winner": "Marc DESCHENES"
+                }
+            ],
+            [
+                {
+                    "country": "USA",
+                    "name": "Philip HORIUCHI"
+                },
+                {
+                    "country": "NCA",
+                    "name": "Marvin SALAZAR HERNANDEZ"
+                },
+                {
+                    "winner": "Philip HORIUCHI"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "CAN",
+                    "name": "Marc DESCHENES"
+                },
+                {
+                    "country": "USA",
+                    "name": "Philip HORIUCHI"
+                }
+            ]
+        ],
+        "final_winner": "Marc DESCHENES"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "VEN",
+                    "name": "Luis AMEZQUITA"
+                },
+                {
+                    "winner": "Luis AMEZQUITA"
+                }
+            ],
+            [
+                {
+                    "country": "COL",
+                    "name": "Juan Camilo LANDAZURI"
+                },
+                {
+                    "winner": "Juan Camilo LANDAZURI"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "VEN",
+                    "name": "Luis AMEZQUITA"
+                },
+                {
+                    "country": "COL",
+                    "name": "Juan Camilo LANDAZURI"
+                }
+            ]
+        ],
+        "final_winner": "Luis AMEZQUITA"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "DOM",
+                    "name": "Jose NOVA ALCANTARA"
+                },
+                {
+                    "winner": "Jose NOVA ALCANTARA"
+                }
+            ],
+            [
+                {
+                    "country": "JAM",
+                    "name": "Steven MOORE"
+                },
+                {
+                    "winner": "Steven MOORE"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "DOM",
+                    "name": "Jose NOVA ALCANTARA"
+                },
+                {
+                    "country": "JAM",
+                    "name": "Steven MOORE"
+                }
+            ]
+        ],
+        "final_winner": "Jose NOVA ALCANTARA"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ECU",
+                    "name": "Freddy FIGUEROA"
+                },
+                {
+                    "winner": "Freddy FIGUEROA"
+                }
+            ],
+            [
+                {
+                    "country": "DOM",
+                    "name": "Julio Cesar JAVIER ARIAS"
+                },
+                {
+                    "winner": "Julio Cesar JAVIER ARIAS"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "ECU",
+                    "name": "Freddy FIGUEROA"
+                },
+                {
+                    "country": "DOM",
+                    "name": "Julio Cesar JAVIER ARIAS"
+                }
+            ]
+        ],
+        "final_winner": "Freddy FIGUEROA"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "USA",
+                    "name": "Philip HORIUCHI"
+                },
+                {
+                    "country": "COL",
+                    "name": "Juan Camilo LANDAZURI"
+                },
+                {
+                    "winner": "Juan Camilo LANDAZURI"
+                }
+            ],
+            [
+                {
+                    "country": "JAM",
+                    "name": "Steven MOORE"
+                },
+                {
+                    "country": "DOM",
+                    "name": "Julio Cesar JAVIER ARIAS"
+                },
+                {
+                    "winner": "Steven MOORE"
+                }
+            ],
+            [
+                {
+                    "country": "COL",
+                    "name": "Juan Camilo LANDAZURI"
+                },
+                {
+                    "country": "ECU",
+                    "name": "Freddy FIGUEROA"
+                },
+                {
+                    "winner": "Freddy FIGUEROA"
+                }
+            ],
+            [
+                {
+                    "country": "JAM",
+                    "name": "Steven MOORE"
+                },
+                {
+                    "country": "VEN",
+                    "name": "Luis AMEZQUITA"
+                },
+                {
+                    "winner": "Luis AMEZQUITA"
+                }
+            ],
+            [
+                {
+                    "country": "ECU",
+                    "name": "Freddy FIGUEROA"
+                }
+            ],
+            [
+                {
+                    "country": "VEN",
+                    "name": "Luis AMEZQUITA"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Freddy FIGUEROA",
+            "Luis AMEZQUITA"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CAN",
+                    "name": "Marc DESCHENES"
+                },
+                {
+                    "country": "VEN",
+                    "name": "Luis AMEZQUITA"
+                },
+                {
+                    "winner": "Marc DESCHENES"
+                }
+            ],
+            [
+                {
+                    "country": "DOM",
+                    "name": "Jose NOVA ALCANTARA"
+                },
+                {
+                    "country": "ECU",
+                    "name": "Freddy FIGUEROA"
+                },
+                {
+                    "winner": "Jose NOVA ALCANTARA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "CAN",
+                    "name": "Marc DESCHENES"
+                },
+                {
+                    "country": "DOM",
+                    "name": "Jose NOVA ALCANTARA"
+                }
+            ]
+        ],
+        "final_winner": "Marc DESCHENES"
+    }
+}

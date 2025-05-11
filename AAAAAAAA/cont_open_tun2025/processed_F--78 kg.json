@@ -1,0 +1,135 @@
+{
+    "POOL A": {
+        "round 1-1": [],
+        "final_winner": "Darya KANTSAVAYA"
+    },
+    "POOL B": {
+        "round 1-1": [
+            [
+                {
+                    "country": "MAR",
+                    "name": "Jihane EL HOUMATE"
+                },
+                {
+                    "country": "TUN",
+                    "name": "Radhia MEJBRI"
+                }
+            ]
+        ],
+        "final_winner": "Jihane EL HOUMATE"
+    },
+    "POOL C": {
+        "round 1-1": [],
+        "final_winner": "Arij AKKAB"
+    },
+    "POOL D": {
+        "round 1-1": [
+            [
+                {
+                    "country": "IJF",
+                    "name": "Slaviana RYLKEVICH"
+                },
+                {
+                    "country": "ALG",
+                    "name": "Dyhia BENCHALLAL"
+                }
+            ]
+        ],
+        "final_winner": "Slaviana RYLKEVICH"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "TUN",
+                    "name": "Radhia MEJBRI"
+                }
+            ],
+            [
+                {
+                    "country": "ALG",
+                    "name": "Dyhia BENCHALLAL"
+                }
+            ],
+            [
+                {
+                    "country": "TUN",
+                    "name": "Radhia MEJBRI"
+                },
+                {
+                    "country": "IJF",
+                    "name": "Slaviana RYLKEVICH"
+                },
+                {
+                    "winner": "Slaviana RYLKEVICH"
+                }
+            ],
+            [
+                {
+                    "country": "ALG",
+                    "name": "Dyhia BENCHALLAL"
+                },
+                {
+                    "country": "MAR",
+                    "name": "Jihane EL HOUMATE"
+                },
+                {
+                    "winner": "Dyhia BENCHALLAL"
+                }
+            ],
+            [
+                {
+                    "country": "IJF",
+                    "name": "Slaviana RYLKEVICH"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Dyhia BENCHALLAL",
+            "Slaviana RYLKEVICH"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "IJF",
+                    "name": "Darya KANTSAVAYA"
+                },
+                {
+                    "country": "MAR",
+                    "name": "Jihane EL HOUMATE"
+                },
+                {
+                    "winner": "Darya KANTSAVAYA"
+                }
+            ],
+            [
+                {
+                    "country": "TUN",
+                    "name": "Arij AKKAB"
+                },
+                {
+                    "country": "IJF",
+                    "name": "Slaviana RYLKEVICH"
+                },
+                {
+                    "winner": "Arij AKKAB"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "IJF",
+                    "name": "Darya KANTSAVAYA"
+                },
+                {
+                    "country": "TUN",
+                    "name": "Arij AKKAB"
+                }
+            ]
+        ],
+        "final_winner": "Darya KANTSAVAYA"
+    }
+}

@@ -1,0 +1,153 @@
+{
+    "POOL A": {
+        "round 1-1": [],
+        "final_winner": "Liam PARK"
+    },
+    "POOL B": {
+        "round 1-1": [
+            [
+                {
+                    "country": "CAN",
+                    "name": "Marc DESCHENES"
+                },
+                {
+                    "country": "JPN",
+                    "name": "Toru NISHIO"
+                }
+            ]
+        ],
+        "final_winner": "Toru NISHIO"
+    },
+    "POOL C": {
+        "round 1-1": [
+            [
+                {
+                    "country": "CAN",
+                    "name": "Joe Casey ANDRES"
+                },
+                {
+                    "country": "KOR",
+                    "name": "Minyeong CHOE"
+                }
+            ]
+        ],
+        "final_winner": "Minyeong CHOE"
+    },
+    "POOL D": {
+        "round 1-1": [
+            [
+                {
+                    "country": "PHI",
+                    "name": "George Angelo BACLAGAN"
+                },
+                {
+                    "country": "TPE",
+                    "name": "Yun-hao LU"
+                }
+            ]
+        ],
+        "final_winner": "Yun-hao LU"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CAN",
+                    "name": "Marc DESCHENES"
+                }
+            ],
+            [
+                {
+                    "country": "CAN",
+                    "name": "Joe Casey ANDRES"
+                },
+                {
+                    "country": "PHI",
+                    "name": "George Angelo BACLAGAN"
+                },
+                {
+                    "winner": "Joe Casey ANDRES"
+                }
+            ],
+            [
+                {
+                    "country": "CAN",
+                    "name": "Marc DESCHENES"
+                },
+                {
+                    "country": "TPE",
+                    "name": "Yun-hao LU"
+                },
+                {
+                    "winner": "Marc DESCHENES"
+                }
+            ],
+            [
+                {
+                    "country": "CAN",
+                    "name": "Joe Casey ANDRES"
+                },
+                {
+                    "country": "AUS",
+                    "name": "Liam PARK"
+                },
+                {
+                    "winner": "Joe Casey ANDRES"
+                }
+            ],
+            [
+                {
+                    "country": "CAN",
+                    "name": "Joe Casey ANDRES"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Joe Casey ANDRES",
+            "Marc DESCHENES"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "AUS",
+                    "name": "Liam PARK"
+                },
+                {
+                    "country": "JPN",
+                    "name": "Toru NISHIO"
+                },
+                {
+                    "winner": "Toru NISHIO"
+                }
+            ],
+            [
+                {
+                    "country": "KOR",
+                    "name": "Minyeong CHOE"
+                },
+                {
+                    "country": "TPE",
+                    "name": "Yun-hao LU"
+                },
+                {
+                    "winner": "Minyeong CHOE"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "JPN",
+                    "name": "Toru NISHIO"
+                },
+                {
+                    "country": "KOR",
+                    "name": "Minyeong CHOE"
+                }
+            ]
+        ],
+        "final_winner": "Toru NISHIO"
+    }
+}

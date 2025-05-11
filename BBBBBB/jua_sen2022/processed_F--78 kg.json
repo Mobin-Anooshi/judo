@@ -1,0 +1,177 @@
+{
+    "POOL A": {
+        "round 1-1": [
+            [
+                {
+                    "country": "JPN",
+                    "name": "Mami UMEKI"
+                },
+                {
+                    "country": "IND",
+                    "name": "Indubala Devi MAIBAM"
+                }
+            ]
+        ],
+        "final_winner": "Mami UMEKI"
+    },
+    "POOL B": {
+        "round 1-1": [
+            [
+                {
+                    "country": "MGL",
+                    "name": "Erdenet-Od BATBAYAR"
+                },
+                {
+                    "country": "TPE",
+                    "name": "Liu Li-Ling SHIH"
+                }
+            ]
+        ],
+        "final_winner": "Liu Li-Ling SHIH"
+    },
+    "POOL C": {
+        "round 1-1": [
+            [
+                {
+                    "country": "KOR",
+                    "name": "Jeongyun LEE"
+                },
+                {
+                    "country": "UZB",
+                    "name": "Shirinjon YULDOSHOVA"
+                }
+            ]
+        ],
+        "final_winner": "Jeongyun LEE"
+    },
+    "POOL D": {
+        "round 1-1": [
+            [
+                {
+                    "country": "CHN",
+                    "name": "Zhenzhao MA"
+                },
+                {
+                    "country": "KAZ",
+                    "name": "Aruna JANGELDINA"
+                }
+            ]
+        ],
+        "final_winner": "Zhenzhao MA"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "IND",
+                    "name": "Indubala Devi MAIBAM"
+                },
+                {
+                    "country": "MGL",
+                    "name": "Erdenet-Od BATBAYAR"
+                },
+                {
+                    "winner": "Erdenet-Od BATBAYAR"
+                }
+            ],
+            [
+                {
+                    "country": "UZB",
+                    "name": "Shirinjon YULDOSHOVA"
+                },
+                {
+                    "country": "KAZ",
+                    "name": "Aruna JANGELDINA"
+                },
+                {
+                    "winner": "Aruna JANGELDINA"
+                }
+            ],
+            [
+                {
+                    "country": "MGL",
+                    "name": "Erdenet-Od BATBAYAR"
+                },
+                {
+                    "country": "CHN",
+                    "name": "Zhenzhao MA"
+                },
+                {
+                    "winner": "Zhenzhao MA"
+                }
+            ],
+            [
+                {
+                    "country": "KAZ",
+                    "name": "Aruna JANGELDINA"
+                },
+                {
+                    "country": "TPE",
+                    "name": "Liu Li-Ling SHIH"
+                },
+                {
+                    "winner": "Aruna JANGELDINA"
+                }
+            ],
+            [
+                {
+                    "country": "CHN",
+                    "name": "Zhenzhao MA"
+                }
+            ],
+            [
+                {
+                    "country": "KAZ",
+                    "name": "Aruna JANGELDINA"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Zhenzhao MA",
+            "Aruna JANGELDINA"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "JPN",
+                    "name": "Mami UMEKI"
+                },
+                {
+                    "country": "TPE",
+                    "name": "Liu Li-Ling SHIH"
+                },
+                {
+                    "winner": "Mami UMEKI"
+                }
+            ],
+            [
+                {
+                    "country": "KOR",
+                    "name": "Jeongyun LEE"
+                },
+                {
+                    "country": "CHN",
+                    "name": "Zhenzhao MA"
+                },
+                {
+                    "winner": "Jeongyun LEE"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "JPN",
+                    "name": "Mami UMEKI"
+                },
+                {
+                    "country": "KOR",
+                    "name": "Jeongyun LEE"
+                }
+            ]
+        ],
+        "final_winner": "Mami UMEKI"
+    }
+}

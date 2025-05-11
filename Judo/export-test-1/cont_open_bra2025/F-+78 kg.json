@@ -1,0 +1,135 @@
+{
+    "POOL A": {
+        "round 1-1": [],
+        "final_winner": "Katia ALVES"
+    },
+    "POOL B": {
+        "round 1-1": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Agatha SILVA"
+                },
+                {
+                    "country": "BRA",
+                    "name": "Thauana SILVA"
+                }
+            ]
+        ],
+        "final_winner": "Thauana SILVA"
+    },
+    "POOL C": {
+        "round 1-1": [],
+        "final_winner": "Fernanda QUIMBIRA"
+    },
+    "POOL D": {
+        "round 1-1": [
+            [
+                {
+                    "country": "FRA",
+                    "name": "Lucie DUPIN"
+                },
+                {
+                    "country": "BRA",
+                    "name": "Vitoria SIQUEIRA"
+                }
+            ]
+        ],
+        "final_winner": "Vitoria SIQUEIRA"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Agatha SILVA"
+                }
+            ],
+            [
+                {
+                    "country": "FRA",
+                    "name": "Lucie DUPIN"
+                }
+            ],
+            [
+                {
+                    "country": "BRA",
+                    "name": "Agatha SILVA"
+                },
+                {
+                    "country": "BRA",
+                    "name": "Vitoria SIQUEIRA"
+                },
+                {
+                    "winner": "Vitoria SIQUEIRA"
+                }
+            ],
+            [
+                {
+                    "country": "FRA",
+                    "name": "Lucie DUPIN"
+                },
+                {
+                    "country": "BRA",
+                    "name": "Thauana SILVA"
+                },
+                {
+                    "winner": "Lucie DUPIN"
+                }
+            ],
+            [
+                {
+                    "country": "BRA",
+                    "name": "Vitoria SIQUEIRA"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Lucie DUPIN",
+            "Vitoria SIQUEIRA"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Katia ALVES"
+                },
+                {
+                    "country": "BRA",
+                    "name": "Thauana SILVA"
+                },
+                {
+                    "winner": "Katia ALVES"
+                }
+            ],
+            [
+                {
+                    "country": "ANG",
+                    "name": "Fernanda QUIMBIRA"
+                },
+                {
+                    "country": "BRA",
+                    "name": "Vitoria SIQUEIRA"
+                },
+                {
+                    "winner": "Fernanda QUIMBIRA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Katia ALVES"
+                },
+                {
+                    "country": "ANG",
+                    "name": "Fernanda QUIMBIRA"
+                }
+            ]
+        ],
+        "final_winner": "Katia ALVES"
+    }
+}

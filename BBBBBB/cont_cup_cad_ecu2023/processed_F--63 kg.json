@@ -1,0 +1,159 @@
+{
+    "POOL A": {
+        "round 1-1": [],
+        "final_winner": "Emily Daniela JASPE"
+    },
+    "POOL B": {
+        "round 1-1": [
+            [
+                {
+                    "country": "ECU",
+                    "name": "Katherine GALARZA"
+                },
+                {
+                    "country": "ECU",
+                    "name": "Scarlet SALAMAR"
+                }
+            ]
+        ],
+        "final_winner": "Scarlet SALAMAR"
+    },
+    "POOL C": {
+        "round 1-1": [
+            [
+                {
+                    "country": "COL",
+                    "name": "Ingrid CHOCO"
+                },
+                {
+                    "country": "ECU",
+                    "name": "Emily GUILLEN"
+                }
+            ]
+        ],
+        "final_winner": "Ingrid CHOCO"
+    },
+    "POOL D": {
+        "round 1-1": [
+            [
+                {
+                    "country": "USA",
+                    "name": "Mackenzee BUNTON"
+                },
+                {
+                    "country": "ECU",
+                    "name": "Lysenni PEZO"
+                }
+            ]
+        ],
+        "final_winner": "Mackenzee BUNTON"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ECU",
+                    "name": "Katherine GALARZA"
+                }
+            ],
+            [
+                {
+                    "country": "ECU",
+                    "name": "Emily GUILLEN"
+                },
+                {
+                    "country": "ECU",
+                    "name": "Lysenni PEZO"
+                },
+                {
+                    "winner": "Emily GUILLEN"
+                }
+            ],
+            [
+                {
+                    "country": "ECU",
+                    "name": "Katherine GALARZA"
+                },
+                {
+                    "country": "USA",
+                    "name": "Mackenzee BUNTON"
+                },
+                {
+                    "winner": "Mackenzee BUNTON"
+                }
+            ],
+            [
+                {
+                    "country": "ECU",
+                    "name": "Emily GUILLEN"
+                },
+                {
+                    "country": "ECU",
+                    "name": "Scarlet SALAMAR"
+                },
+                {
+                    "winner": "Emily GUILLEN"
+                }
+            ],
+            [
+                {
+                    "country": "USA",
+                    "name": "Mackenzee BUNTON"
+                }
+            ],
+            [
+                {
+                    "country": "ECU",
+                    "name": "Emily GUILLEN"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Mackenzee BUNTON",
+            "Emily GUILLEN"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "USA",
+                    "name": "Emily Daniela JASPE"
+                },
+                {
+                    "country": "ECU",
+                    "name": "Scarlet SALAMAR"
+                },
+                {
+                    "winner": "Emily Daniela JASPE"
+                }
+            ],
+            [
+                {
+                    "country": "COL",
+                    "name": "Ingrid CHOCO"
+                },
+                {
+                    "country": "USA",
+                    "name": "Mackenzee BUNTON"
+                },
+                {
+                    "winner": "Ingrid CHOCO"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "USA",
+                    "name": "Emily Daniela JASPE"
+                },
+                {
+                    "country": "COL",
+                    "name": "Ingrid CHOCO"
+                }
+            ]
+        ],
+        "final_winner": "Emily Daniela JASPE"
+    }
+}

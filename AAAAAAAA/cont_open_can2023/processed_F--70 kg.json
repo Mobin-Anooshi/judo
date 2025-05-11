@@ -1,0 +1,153 @@
+{
+    "POOL A": {
+        "round 1-1": [],
+        "final_winner": "Rachael HAWKES"
+    },
+    "POOL B": {
+        "round 1-1": [
+            [
+                {
+                    "country": "USA",
+                    "name": "Melissa MYERS"
+                },
+                {
+                    "country": "CAN",
+                    "name": "Laurence BIRON"
+                }
+            ]
+        ],
+        "final_winner": "Laurence BIRON"
+    },
+    "POOL C": {
+        "round 1-1": [
+            [
+                {
+                    "country": "DEN",
+                    "name": "Emilie SOOK"
+                },
+                {
+                    "country": "CAN",
+                    "name": "Kiera BURT"
+                }
+            ]
+        ],
+        "final_winner": "Emilie SOOK"
+    },
+    "POOL D": {
+        "round 1-1": [
+            [
+                {
+                    "country": "USA",
+                    "name": "Yasmin ALAMIN"
+                },
+                {
+                    "country": "CAN",
+                    "name": "Charline BOURQUE"
+                }
+            ]
+        ],
+        "final_winner": "Yasmin ALAMIN"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "USA",
+                    "name": "Melissa MYERS"
+                }
+            ],
+            [
+                {
+                    "country": "CAN",
+                    "name": "Kiera BURT"
+                },
+                {
+                    "country": "CAN",
+                    "name": "Charline BOURQUE"
+                },
+                {
+                    "winner": "Kiera BURT"
+                }
+            ],
+            [
+                {
+                    "country": "USA",
+                    "name": "Melissa MYERS"
+                },
+                {
+                    "country": "USA",
+                    "name": "Yasmin ALAMIN"
+                },
+                {
+                    "winner": "Melissa MYERS"
+                }
+            ],
+            [
+                {
+                    "country": "CAN",
+                    "name": "Kiera BURT"
+                },
+                {
+                    "country": "CAN",
+                    "name": "Laurence BIRON"
+                },
+                {
+                    "winner": "Laurence BIRON"
+                }
+            ],
+            [
+                {
+                    "country": "CAN",
+                    "name": "Laurence BIRON"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Kiera BURT",
+            "Melissa MYERS"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "IRL",
+                    "name": "Rachael HAWKES"
+                },
+                {
+                    "country": "CAN",
+                    "name": "Laurence BIRON"
+                },
+                {
+                    "winner": "Rachael HAWKES"
+                }
+            ],
+            [
+                {
+                    "country": "DEN",
+                    "name": "Emilie SOOK"
+                },
+                {
+                    "country": "USA",
+                    "name": "Yasmin ALAMIN"
+                },
+                {
+                    "winner": "Emilie SOOK"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "IRL",
+                    "name": "Rachael HAWKES"
+                },
+                {
+                    "country": "DEN",
+                    "name": "Emilie SOOK"
+                }
+            ]
+        ],
+        "final_winner": "Emilie SOOK"
+    }
+}

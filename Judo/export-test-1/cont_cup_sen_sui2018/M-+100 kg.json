@@ -1,0 +1,221 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "GER",
+                    "name": "Benjamin BOUIZGARNE"
+                },
+                {
+                    "winner": "Benjamin BOUIZGARNE"
+                }
+            ],
+            []
+        ],
+        "round 1-1": [],
+        "final_winner": "Benjamin BOUIZGARNE"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CAN",
+                    "name": "Marc DESCHENES"
+                },
+                {
+                    "winner": "Marc DESCHENES"
+                }
+            ],
+            [
+                {
+                    "country": "FRA",
+                    "name": "Jean-Sebastien BONVOISIN"
+                },
+                {
+                    "winner": "Jean-Sebastien BONVOISIN"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "CAN",
+                    "name": "Marc DESCHENES"
+                },
+                {
+                    "country": "FRA",
+                    "name": "Jean-Sebastien BONVOISIN"
+                }
+            ]
+        ],
+        "final_winner": "Marc DESCHENES"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "FRA",
+                    "name": "Messie KATANGA"
+                },
+                {
+                    "winner": "Messie KATANGA"
+                }
+            ],
+            []
+        ],
+        "round 1-1": [],
+        "final_winner": "Messie KATANGA"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "GBR",
+                    "name": "Andrew MELBOURNE"
+                },
+                {
+                    "winner": "Andrew MELBOURNE"
+                }
+            ],
+            [
+                {
+                    "country": "NED",
+                    "name": "Jelle VAN DEN BERG"
+                },
+                {
+                    "winner": "Jelle VAN DEN BERG"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "GBR",
+                    "name": "Andrew MELBOURNE"
+                },
+                {
+                    "country": "NED",
+                    "name": "Jelle VAN DEN BERG"
+                }
+            ]
+        ],
+        "final_winner": "Jelle VAN DEN BERG"
+    },
+    "REPECHAGE": {
+        "round 1-4": [
+            [],
+            [
+                {
+                    "country": "FRA",
+                    "name": "Jean-Sebastien BONVOISIN"
+                },
+                {
+                    "winner": "Jean-Sebastien BONVOISIN"
+                }
+            ],
+            [],
+            [
+                {
+                    "country": "GBR",
+                    "name": "Andrew MELBOURNE"
+                },
+                {
+                    "winner": "Andrew MELBOURNE"
+                }
+            ]
+        ],
+        "round 1-2": [
+            [
+                {
+                    "country": "FRA",
+                    "name": "Jean-Sebastien BONVOISIN"
+                }
+            ],
+            [
+                {
+                    "country": "GBR",
+                    "name": "Andrew MELBOURNE"
+                }
+            ],
+            [
+                {
+                    "country": "FRA",
+                    "name": "Jean-Sebastien BONVOISIN"
+                },
+                {
+                    "country": "NED",
+                    "name": "Jelle VAN DEN BERG"
+                },
+                {
+                    "winner": "Jean-Sebastien BONVOISIN"
+                }
+            ],
+            [
+                {
+                    "country": "GBR",
+                    "name": "Andrew MELBOURNE"
+                },
+                {
+                    "country": "CAN",
+                    "name": "Marc DESCHENES"
+                },
+                {
+                    "winner": "Marc DESCHENES"
+                }
+            ],
+            [
+                {
+                    "country": "CAN",
+                    "name": "Marc DESCHENES"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Andrew MELBOURNE",
+            "Jean-Sebastien BONVOISIN"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "GER",
+                    "name": "Benjamin BOUIZGARNE"
+                },
+                {
+                    "country": "CAN",
+                    "name": "Marc DESCHENES"
+                },
+                {
+                    "winner": "Benjamin BOUIZGARNE"
+                }
+            ],
+            [
+                {
+                    "country": "FRA",
+                    "name": "Messie KATANGA"
+                },
+                {
+                    "country": "NED",
+                    "name": "Jelle VAN DEN BERG"
+                },
+                {
+                    "winner": "Messie KATANGA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "GER",
+                    "name": "Benjamin BOUIZGARNE"
+                },
+                {
+                    "country": "FRA",
+                    "name": "Messie KATANGA"
+                }
+            ]
+        ],
+        "final_winner": "Messie KATANGA"
+    }
+}

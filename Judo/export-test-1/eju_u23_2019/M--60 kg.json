@@ -1,0 +1,289 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "GEO",
+                    "name": "Temur NOZADZE"
+                },
+                {
+                    "country": "AZE",
+                    "name": "Balabay AGHAYEV"
+                },
+                {
+                    "winner": "Temur NOZADZE"
+                }
+            ],
+            [
+                {
+                    "country": "POR",
+                    "name": "Felipe CRUZ"
+                },
+                {
+                    "country": "ITA",
+                    "name": "Angelo PANTANO"
+                },
+                {
+                    "winner": "Angelo PANTANO"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "GEO",
+                    "name": "Temur NOZADZE"
+                },
+                {
+                    "country": "ITA",
+                    "name": "Angelo PANTANO"
+                }
+            ]
+        ],
+        "final_winner": "Temur NOZADZE"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "RUS",
+                    "name": "Ramazan ABDULAEV"
+                },
+                {
+                    "country": "CYP",
+                    "name": "Giorgos KOROTZIDIS"
+                },
+                {
+                    "winner": "Ramazan ABDULAEV"
+                }
+            ],
+            [
+                {
+                    "country": "ISR",
+                    "name": "Noam LEIBA"
+                },
+                {
+                    "country": "ESP",
+                    "name": "Alberto CARRANZA MORENO"
+                },
+                {
+                    "winner": "Noam LEIBA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "RUS",
+                    "name": "Ramazan ABDULAEV"
+                },
+                {
+                    "country": "ISR",
+                    "name": "Noam LEIBA"
+                }
+            ]
+        ],
+        "final_winner": "Ramazan ABDULAEV"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "GEO",
+                    "name": "Jaba PAPINASHVILI"
+                },
+                {
+                    "country": "AZE",
+                    "name": "Rashad YELKIYEV"
+                },
+                {
+                    "winner": "Jaba PAPINASHVILI"
+                }
+            ],
+            [
+                {
+                    "country": "HUN",
+                    "name": "Daniel MONORI"
+                },
+                {
+                    "country": "ARM",
+                    "name": "Gor HOVSEPYAN"
+                },
+                {
+                    "winner": "Gor HOVSEPYAN"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "GEO",
+                    "name": "Jaba PAPINASHVILI"
+                },
+                {
+                    "country": "ARM",
+                    "name": "Gor HOVSEPYAN"
+                }
+            ]
+        ],
+        "final_winner": "Jaba PAPINASHVILI"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "RUS",
+                    "name": "Ayub BLIEV"
+                },
+                {
+                    "country": "CYP",
+                    "name": "Ioannis XENOFONTOS"
+                },
+                {
+                    "winner": "Ayub BLIEV"
+                }
+            ],
+            [
+                {
+                    "country": "ITA",
+                    "name": "Alessandro ARAMU"
+                },
+                {
+                    "country": "POR",
+                    "name": "Francisco MENDES"
+                },
+                {
+                    "winner": "Francisco MENDES"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "RUS",
+                    "name": "Ayub BLIEV"
+                },
+                {
+                    "country": "POR",
+                    "name": "Francisco MENDES"
+                }
+            ]
+        ],
+        "final_winner": "Ayub BLIEV"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ITA",
+                    "name": "Angelo PANTANO"
+                },
+                {
+                    "country": "ISR",
+                    "name": "Noam LEIBA"
+                },
+                {
+                    "winner": "Angelo PANTANO"
+                }
+            ],
+            [
+                {
+                    "country": "ARM",
+                    "name": "Gor HOVSEPYAN"
+                },
+                {
+                    "country": "POR",
+                    "name": "Francisco MENDES"
+                },
+                {
+                    "winner": "Gor HOVSEPYAN"
+                }
+            ],
+            [
+                {
+                    "country": "ITA",
+                    "name": "Angelo PANTANO"
+                },
+                {
+                    "country": "GEO",
+                    "name": "Jaba PAPINASHVILI"
+                },
+                {
+                    "winner": "Jaba PAPINASHVILI"
+                }
+            ],
+            [
+                {
+                    "country": "ARM",
+                    "name": "Gor HOVSEPYAN"
+                },
+                {
+                    "country": "GEO",
+                    "name": "Temur NOZADZE"
+                },
+                {
+                    "winner": "Temur NOZADZE"
+                }
+            ],
+            [
+                {
+                    "country": "GEO",
+                    "name": "Jaba PAPINASHVILI"
+                }
+            ],
+            [
+                {
+                    "country": "GEO",
+                    "name": "Temur NOZADZE"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Jaba PAPINASHVILI",
+            "Temur NOZADZE"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "GEO",
+                    "name": "Temur NOZADZE"
+                },
+                {
+                    "country": "RUS",
+                    "name": "Ramazan ABDULAEV"
+                },
+                {
+                    "winner": "Ramazan ABDULAEV"
+                }
+            ],
+            [
+                {
+                    "country": "GEO",
+                    "name": "Jaba PAPINASHVILI"
+                },
+                {
+                    "country": "RUS",
+                    "name": "Ayub BLIEV"
+                },
+                {
+                    "winner": "Ayub BLIEV"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "RUS",
+                    "name": "Ramazan ABDULAEV"
+                },
+                {
+                    "country": "RUS",
+                    "name": "Ayub BLIEV"
+                }
+            ]
+        ],
+        "final_winner": "Ramazan ABDULAEV"
+    }
+}

@@ -1,0 +1,307 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "MEX",
+                    "name": "Renata SANDOVAL"
+                },
+                {
+                    "winner": "Renata SANDOVAL"
+                }
+            ],
+            [
+                {
+                    "country": "BRA",
+                    "name": "Livia RESENDE"
+                },
+                {
+                    "country": "CHI",
+                    "name": "Ashley SOLAR"
+                },
+                {
+                    "winner": "Livia RESENDE"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "MEX",
+                    "name": "Renata SANDOVAL"
+                },
+                {
+                    "country": "BRA",
+                    "name": "Livia RESENDE"
+                }
+            ]
+        ],
+        "final_winner": "Livia RESENDE"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "MEX",
+                    "name": "Yamileth JUAREZ LOYA"
+                },
+                {
+                    "winner": "Yamileth JUAREZ LOYA"
+                }
+            ],
+            [
+                {
+                    "country": "ECU",
+                    "name": "Odeth CASIERRA"
+                },
+                {
+                    "winner": "Odeth CASIERRA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "MEX",
+                    "name": "Yamileth JUAREZ LOYA"
+                },
+                {
+                    "country": "ECU",
+                    "name": "Odeth CASIERRA"
+                }
+            ]
+        ],
+        "final_winner": "Odeth CASIERRA"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "COL",
+                    "name": "Heydi SANTILLANA"
+                },
+                {
+                    "winner": "Heydi SANTILLANA"
+                }
+            ],
+            [
+                {
+                    "country": "BRA",
+                    "name": "Mari Hayse SILVA"
+                },
+                {
+                    "country": "URU",
+                    "name": "Maria Eugenia BRUN"
+                },
+                {
+                    "winner": "Mari Hayse SILVA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "COL",
+                    "name": "Heydi SANTILLANA"
+                },
+                {
+                    "country": "BRA",
+                    "name": "Mari Hayse SILVA"
+                }
+            ]
+        ],
+        "final_winner": "Heydi SANTILLANA"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "VEN",
+                    "name": "Hannelys ESPINA"
+                },
+                {
+                    "winner": "Hannelys ESPINA"
+                }
+            ],
+            [
+                {
+                    "country": "CHI",
+                    "name": "Antonella VEGA"
+                },
+                {
+                    "winner": "Antonella VEGA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "VEN",
+                    "name": "Hannelys ESPINA"
+                },
+                {
+                    "country": "CHI",
+                    "name": "Antonella VEGA"
+                }
+            ]
+        ],
+        "final_winner": "Hannelys ESPINA"
+    },
+    "REPECHAGE": {
+        "round 1-4": [
+            [
+                {
+                    "country": "CHI",
+                    "name": "Ashley SOLAR"
+                },
+                {
+                    "country": "MEX",
+                    "name": "Renata SANDOVAL"
+                },
+                {
+                    "winner": "Renata SANDOVAL"
+                }
+            ],
+            [
+                {
+                    "country": "MEX",
+                    "name": "Yamileth JUAREZ LOYA"
+                },
+                {
+                    "winner": "Yamileth JUAREZ LOYA"
+                }
+            ],
+            [
+                {
+                    "country": "BRA",
+                    "name": "Mari Hayse SILVA"
+                },
+                {
+                    "winner": "Mari Hayse SILVA"
+                }
+            ],
+            [
+                {
+                    "country": "CHI",
+                    "name": "Antonella VEGA"
+                },
+                {
+                    "winner": "Antonella VEGA"
+                }
+            ]
+        ],
+        "round 1-2": [
+            [
+                {
+                    "country": "MEX",
+                    "name": "Renata SANDOVAL"
+                },
+                {
+                    "country": "MEX",
+                    "name": "Yamileth JUAREZ LOYA"
+                },
+                {
+                    "winner": "Yamileth JUAREZ LOYA"
+                }
+            ],
+            [
+                {
+                    "country": "BRA",
+                    "name": "Mari Hayse SILVA"
+                },
+                {
+                    "country": "CHI",
+                    "name": "Antonella VEGA"
+                },
+                {
+                    "winner": "Mari Hayse SILVA"
+                }
+            ],
+            [
+                {
+                    "country": "MEX",
+                    "name": "Yamileth JUAREZ LOYA"
+                },
+                {
+                    "country": "VEN",
+                    "name": "Hannelys ESPINA"
+                },
+                {
+                    "winner": "Hannelys ESPINA"
+                }
+            ],
+            [
+                {
+                    "country": "BRA",
+                    "name": "Mari Hayse SILVA"
+                },
+                {
+                    "country": "ECU",
+                    "name": "Odeth CASIERRA"
+                },
+                {
+                    "winner": "Mari Hayse SILVA"
+                }
+            ],
+            [
+                {
+                    "country": "VEN",
+                    "name": "Hannelys ESPINA"
+                }
+            ],
+            [
+                {
+                    "country": "BRA",
+                    "name": "Mari Hayse SILVA"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Hannelys ESPINA",
+            "Mari Hayse SILVA"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Livia RESENDE"
+                },
+                {
+                    "country": "ECU",
+                    "name": "Odeth CASIERRA"
+                },
+                {
+                    "winner": "Livia RESENDE"
+                }
+            ],
+            [
+                {
+                    "country": "COL",
+                    "name": "Heydi SANTILLANA"
+                },
+                {
+                    "country": "VEN",
+                    "name": "Hannelys ESPINA"
+                },
+                {
+                    "winner": "Heydi SANTILLANA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Livia RESENDE"
+                },
+                {
+                    "country": "COL",
+                    "name": "Heydi SANTILLANA"
+                }
+            ]
+        ],
+        "final_winner": "Heydi SANTILLANA"
+    }
+}

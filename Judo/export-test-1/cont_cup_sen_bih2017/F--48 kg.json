@@ -1,0 +1,296 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "AUT",
+                    "name": "Mara KRAFT"
+                },
+                {
+                    "winner": "Mara KRAFT"
+                }
+            ],
+            [
+                {
+                    "country": "BEL",
+                    "name": "Anne Sophie JURA"
+                },
+                {
+                    "country": "BIH",
+                    "name": "Ema BRKANIC"
+                },
+                {
+                    "winner": "Anne Sophie JURA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "AUT",
+                    "name": "Mara KRAFT"
+                },
+                {
+                    "country": "BEL",
+                    "name": "Anne Sophie JURA"
+                }
+            ]
+        ],
+        "final_winner": "Anne Sophie JURA"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [],
+            [
+                {
+                    "country": "SLO",
+                    "name": "Marusa STANGAR"
+                },
+                {
+                    "country": "ITA",
+                    "name": "Elisa ADRASTI"
+                },
+                {
+                    "winner": "Marusa STANGAR"
+                }
+            ]
+        ],
+        "round 1-1": [],
+        "final_winner": "Marusa STANGAR"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "BEL",
+                    "name": "Ellen SALENS"
+                },
+                {
+                    "winner": "Ellen SALENS"
+                }
+            ],
+            [
+                {
+                    "country": "FRA",
+                    "name": "Mallaurie MERCADIER"
+                },
+                {
+                    "country": "BIH",
+                    "name": "Mila PETROVIC"
+                },
+                {
+                    "winner": "Mallaurie MERCADIER"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "BEL",
+                    "name": "Ellen SALENS"
+                },
+                {
+                    "country": "FRA",
+                    "name": "Mallaurie MERCADIER"
+                }
+            ]
+        ],
+        "final_winner": "Mallaurie MERCADIER"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CRO",
+                    "name": "Sara MATIJEVIC"
+                },
+                {
+                    "winner": "Sara MATIJEVIC"
+                }
+            ],
+            [
+                {
+                    "country": "HUN",
+                    "name": "Lilla ERDELYI"
+                },
+                {
+                    "winner": "Lilla ERDELYI"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "CRO",
+                    "name": "Sara MATIJEVIC"
+                },
+                {
+                    "country": "HUN",
+                    "name": "Lilla ERDELYI"
+                }
+            ]
+        ],
+        "final_winner": "Lilla ERDELYI"
+    },
+    "REPECHAGE": {
+        "round 1-4": [
+            [
+                {
+                    "country": "BIH",
+                    "name": "Ema BRKANIC"
+                },
+                {
+                    "country": "AUT",
+                    "name": "Mara KRAFT"
+                },
+                {
+                    "winner": "Mara KRAFT"
+                }
+            ],
+            [
+                {
+                    "country": "ITA",
+                    "name": "Elisa ADRASTI"
+                },
+                {
+                    "winner": "Elisa ADRASTI"
+                }
+            ],
+            [
+                {
+                    "country": "BIH",
+                    "name": "Mila PETROVIC"
+                },
+                {
+                    "country": "BEL",
+                    "name": "Ellen SALENS"
+                },
+                {
+                    "winner": "Ellen SALENS"
+                }
+            ],
+            [
+                {
+                    "country": "CRO",
+                    "name": "Sara MATIJEVIC"
+                },
+                {
+                    "winner": "Sara MATIJEVIC"
+                }
+            ]
+        ],
+        "round 1-2": [
+            [
+                {
+                    "country": "AUT",
+                    "name": "Mara KRAFT"
+                },
+                {
+                    "country": "ITA",
+                    "name": "Elisa ADRASTI"
+                },
+                {
+                    "winner": "Mara KRAFT"
+                }
+            ],
+            [
+                {
+                    "country": "BEL",
+                    "name": "Ellen SALENS"
+                },
+                {
+                    "country": "CRO",
+                    "name": "Sara MATIJEVIC"
+                },
+                {
+                    "winner": "Ellen SALENS"
+                }
+            ],
+            [
+                {
+                    "country": "AUT",
+                    "name": "Mara KRAFT"
+                },
+                {
+                    "country": "HUN",
+                    "name": "Lilla ERDELYI"
+                },
+                {
+                    "winner": "Mara KRAFT"
+                }
+            ],
+            [
+                {
+                    "country": "BEL",
+                    "name": "Ellen SALENS"
+                },
+                {
+                    "country": "BEL",
+                    "name": "Anne Sophie JURA"
+                },
+                {
+                    "winner": "Anne Sophie JURA"
+                }
+            ],
+            [
+                {
+                    "country": "AUT",
+                    "name": "Mara KRAFT"
+                }
+            ],
+            [
+                {
+                    "country": "BEL",
+                    "name": "Anne Sophie JURA"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Mara KRAFT",
+            "Anne Sophie JURA"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "BEL",
+                    "name": "Anne Sophie JURA"
+                },
+                {
+                    "country": "SLO",
+                    "name": "Marusa STANGAR"
+                },
+                {
+                    "winner": "Marusa STANGAR"
+                }
+            ],
+            [
+                {
+                    "country": "FRA",
+                    "name": "Mallaurie MERCADIER"
+                },
+                {
+                    "country": "HUN",
+                    "name": "Lilla ERDELYI"
+                },
+                {
+                    "winner": "Mallaurie MERCADIER"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "SLO",
+                    "name": "Marusa STANGAR"
+                },
+                {
+                    "country": "FRA",
+                    "name": "Mallaurie MERCADIER"
+                }
+            ]
+        ],
+        "final_winner": "Marusa STANGAR"
+    }
+}

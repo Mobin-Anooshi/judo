@@ -1,0 +1,177 @@
+{
+    "POOL A": {
+        "round 1-1": [
+            [
+                {
+                    "country": "AUS",
+                    "name": "Juno SHIM"
+                },
+                {
+                    "country": "AUS",
+                    "name": "Alexander GINAYLO"
+                }
+            ]
+        ],
+        "final_winner": "Alexander GINAYLO"
+    },
+    "POOL B": {
+        "round 1-1": [
+            [
+                {
+                    "country": "AUS",
+                    "name": "Luke SHANAHAN"
+                },
+                {
+                    "country": "AUS",
+                    "name": "Grant GU"
+                }
+            ]
+        ],
+        "final_winner": "Grant GU"
+    },
+    "POOL C": {
+        "round 1-1": [
+            [
+                {
+                    "country": "AUS",
+                    "name": "Mateo LANGHI"
+                },
+                {
+                    "country": "AUS",
+                    "name": "Martin VAN STADEN"
+                }
+            ]
+        ],
+        "final_winner": "Martin VAN STADEN"
+    },
+    "POOL D": {
+        "round 1-1": [
+            [
+                {
+                    "country": "AUS",
+                    "name": "Kai TOPP"
+                },
+                {
+                    "country": "AUS",
+                    "name": "Noa LANGHI"
+                }
+            ]
+        ],
+        "final_winner": "Kai TOPP"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "AUS",
+                    "name": "Juno SHIM"
+                },
+                {
+                    "country": "AUS",
+                    "name": "Luke SHANAHAN"
+                },
+                {
+                    "winner": "Juno SHIM"
+                }
+            ],
+            [
+                {
+                    "country": "AUS",
+                    "name": "Mateo LANGHI"
+                },
+                {
+                    "country": "AUS",
+                    "name": "Noa LANGHI"
+                },
+                {
+                    "winner": "Mateo LANGHI"
+                }
+            ],
+            [
+                {
+                    "country": "AUS",
+                    "name": "Juno SHIM"
+                },
+                {
+                    "country": "AUS",
+                    "name": "Martin VAN STADEN"
+                },
+                {
+                    "winner": "Juno SHIM"
+                }
+            ],
+            [
+                {
+                    "country": "AUS",
+                    "name": "Mateo LANGHI"
+                },
+                {
+                    "country": "AUS",
+                    "name": "Grant GU"
+                },
+                {
+                    "winner": "Grant GU"
+                }
+            ],
+            [
+                {
+                    "country": "AUS",
+                    "name": "Juno SHIM"
+                }
+            ],
+            [
+                {
+                    "country": "AUS",
+                    "name": "Grant GU"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Juno SHIM",
+            "Grant GU"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "AUS",
+                    "name": "Alexander GINAYLO"
+                },
+                {
+                    "country": "AUS",
+                    "name": "Grant GU"
+                },
+                {
+                    "winner": "Alexander GINAYLO"
+                }
+            ],
+            [
+                {
+                    "country": "AUS",
+                    "name": "Martin VAN STADEN"
+                },
+                {
+                    "country": "AUS",
+                    "name": "Kai TOPP"
+                },
+                {
+                    "winner": "Kai TOPP"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "AUS",
+                    "name": "Alexander GINAYLO"
+                },
+                {
+                    "country": "AUS",
+                    "name": "Kai TOPP"
+                }
+            ]
+        ],
+        "final_winner": "Kai TOPP"
+    }
+}

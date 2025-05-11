@@ -1,0 +1,213 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "UZB",
+                    "name": "Gulnur MURATBAEVA"
+                },
+                {
+                    "winner": "Gulnur MURATBAEVA"
+                }
+            ],
+            [
+                {
+                    "country": "KAZ",
+                    "name": "Margarita BAZHAYEVA"
+                },
+                {
+                    "country": "IND",
+                    "name": "Krishna FOUJDAR"
+                }
+            ]
+        ],
+        "round 1-1": [],
+        "final_winner": "Gulnur MURATBAEVA"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "KAZ",
+                    "name": "Margarita BAZHAYEVA"
+                },
+                {
+                    "winner": "Margarita BAZHAYEVA"
+                }
+            ],
+            [
+                {
+                    "country": "IND",
+                    "name": "Krishna FOUJDAR"
+                },
+                {
+                    "winner": "Krishna FOUJDAR"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "KAZ",
+                    "name": "Margarita BAZHAYEVA"
+                },
+                {
+                    "country": "IND",
+                    "name": "Krishna FOUJDAR"
+                }
+            ]
+        ],
+        "final_winner": "Krishna FOUJDAR"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "MAC",
+                    "name": "Cheng I LEI"
+                },
+                {
+                    "winner": "Cheng I LEI"
+                }
+            ],
+            [
+                {
+                    "country": "TPE",
+                    "name": "Yu Syuan LIN"
+                }
+            ]
+        ],
+        "round 1-1": [],
+        "final_winner": "Cheng I LEI"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "KAZ",
+                    "name": "Adiya SAIYN"
+                },
+                {
+                    "winner": "Adiya SAIYN"
+                }
+            ],
+            [
+                {
+                    "country": "TPE",
+                    "name": "Yu Syuan LIN"
+                },
+                {
+                    "winner": "Yu Syuan LIN"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "KAZ",
+                    "name": "Adiya SAIYN"
+                },
+                {
+                    "country": "TPE",
+                    "name": "Yu Syuan LIN"
+                }
+            ]
+        ],
+        "final_winner": "Adiya SAIYN"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "KAZ",
+                    "name": "Margarita BAZHAYEVA"
+                }
+            ],
+            [
+                {
+                    "country": "TPE",
+                    "name": "Yu Syuan LIN"
+                }
+            ],
+            [
+                {
+                    "country": "KAZ",
+                    "name": "Margarita BAZHAYEVA"
+                },
+                {
+                    "country": "MAC",
+                    "name": "Cheng I LEI"
+                },
+                {
+                    "winner": "Margarita BAZHAYEVA"
+                }
+            ],
+            [
+                {
+                    "country": "TPE",
+                    "name": "Yu Syuan LIN"
+                },
+                {
+                    "country": "IND",
+                    "name": "Krishna FOUJDAR"
+                },
+                {
+                    "winner": "Krishna FOUJDAR"
+                }
+            ],
+            [
+                {
+                    "country": "IND",
+                    "name": "Krishna FOUJDAR"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Yu Syuan LIN",
+            "Margarita BAZHAYEVA"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "UZB",
+                    "name": "Gulnur MURATBAEVA"
+                },
+                {
+                    "country": "IND",
+                    "name": "Krishna FOUJDAR"
+                },
+                {
+                    "winner": "Gulnur MURATBAEVA"
+                }
+            ],
+            [
+                {
+                    "country": "MAC",
+                    "name": "Cheng I LEI"
+                },
+                {
+                    "country": "KAZ",
+                    "name": "Adiya SAIYN"
+                },
+                {
+                    "winner": "Adiya SAIYN"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "UZB",
+                    "name": "Gulnur MURATBAEVA"
+                },
+                {
+                    "country": "KAZ",
+                    "name": "Adiya SAIYN"
+                }
+            ]
+        ],
+        "final_winner": "Gulnur MURATBAEVA"
+    }
+}

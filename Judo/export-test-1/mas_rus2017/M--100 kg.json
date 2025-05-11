@@ -1,0 +1,289 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "NED",
+                    "name": "Michael KORREL"
+                },
+                {
+                    "country": "EGY",
+                    "name": "Ramadan DARWISH"
+                },
+                {
+                    "winner": "Michael KORREL"
+                }
+            ],
+            [
+                {
+                    "country": "FRA",
+                    "name": "Cyrille MARET"
+                },
+                {
+                    "country": "RUS",
+                    "name": "Adlan BISULTANOV"
+                },
+                {
+                    "winner": "Adlan BISULTANOV"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "NED",
+                    "name": "Michael KORREL"
+                },
+                {
+                    "country": "RUS",
+                    "name": "Adlan BISULTANOV"
+                }
+            ]
+        ],
+        "final_winner": "Michael KORREL"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "AZE",
+                    "name": "Elkhan MAMMADOV"
+                },
+                {
+                    "country": "SWE",
+                    "name": "Joakim DVARBY"
+                },
+                {
+                    "winner": "Elkhan MAMMADOV"
+                }
+            ],
+            [
+                {
+                    "country": "RUS",
+                    "name": "Kazbek ZANKISHIEV"
+                },
+                {
+                    "country": "POR",
+                    "name": "Jorge FONSECA"
+                },
+                {
+                    "winner": "Jorge FONSECA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "AZE",
+                    "name": "Elkhan MAMMADOV"
+                },
+                {
+                    "country": "POR",
+                    "name": "Jorge FONSECA"
+                }
+            ]
+        ],
+        "final_winner": "Elkhan MAMMADOV"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "HUN",
+                    "name": "Miklos CIRJENICS"
+                },
+                {
+                    "country": "AUT",
+                    "name": "Laurin BOEHLER"
+                },
+                {
+                    "winner": "Miklos CIRJENICS"
+                }
+            ],
+            [
+                {
+                    "country": "AZE",
+                    "name": "Elmar GASIMOV"
+                },
+                {
+                    "country": "RUS",
+                    "name": "Niiaz BILALOV"
+                },
+                {
+                    "winner": "Elmar GASIMOV"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "HUN",
+                    "name": "Miklos CIRJENICS"
+                },
+                {
+                    "country": "AZE",
+                    "name": "Elmar GASIMOV"
+                }
+            ]
+        ],
+        "final_winner": "Miklos CIRJENICS"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "GEO",
+                    "name": "Varlam LIPARTELIANI"
+                },
+                {
+                    "country": "CUB",
+                    "name": "Andy GRANDA"
+                },
+                {
+                    "winner": "Varlam LIPARTELIANI"
+                }
+            ],
+            [
+                {
+                    "country": "RUS",
+                    "name": "Kirill DENISOV"
+                },
+                {
+                    "country": "SWE",
+                    "name": "Martin PACEK"
+                },
+                {
+                    "winner": "Kirill DENISOV"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "GEO",
+                    "name": "Varlam LIPARTELIANI"
+                },
+                {
+                    "country": "RUS",
+                    "name": "Kirill DENISOV"
+                }
+            ]
+        ],
+        "final_winner": "Varlam LIPARTELIANI"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "RUS",
+                    "name": "Adlan BISULTANOV"
+                },
+                {
+                    "country": "POR",
+                    "name": "Jorge FONSECA"
+                },
+                {
+                    "winner": "Jorge FONSECA"
+                }
+            ],
+            [
+                {
+                    "country": "AZE",
+                    "name": "Elmar GASIMOV"
+                },
+                {
+                    "country": "RUS",
+                    "name": "Kirill DENISOV"
+                },
+                {
+                    "winner": "Kirill DENISOV"
+                }
+            ],
+            [
+                {
+                    "country": "POR",
+                    "name": "Jorge FONSECA"
+                },
+                {
+                    "country": "HUN",
+                    "name": "Miklos CIRJENICS"
+                },
+                {
+                    "winner": "Miklos CIRJENICS"
+                }
+            ],
+            [
+                {
+                    "country": "RUS",
+                    "name": "Kirill DENISOV"
+                },
+                {
+                    "country": "AZE",
+                    "name": "Elkhan MAMMADOV"
+                },
+                {
+                    "winner": "Elkhan MAMMADOV"
+                }
+            ],
+            [
+                {
+                    "country": "HUN",
+                    "name": "Miklos CIRJENICS"
+                }
+            ],
+            [
+                {
+                    "country": "AZE",
+                    "name": "Elkhan MAMMADOV"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Miklos CIRJENICS",
+            "Elkhan MAMMADOV"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "NED",
+                    "name": "Michael KORREL"
+                },
+                {
+                    "country": "AZE",
+                    "name": "Elkhan MAMMADOV"
+                },
+                {
+                    "winner": "Michael KORREL"
+                }
+            ],
+            [
+                {
+                    "country": "HUN",
+                    "name": "Miklos CIRJENICS"
+                },
+                {
+                    "country": "GEO",
+                    "name": "Varlam LIPARTELIANI"
+                },
+                {
+                    "winner": "Varlam LIPARTELIANI"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "NED",
+                    "name": "Michael KORREL"
+                },
+                {
+                    "country": "GEO",
+                    "name": "Varlam LIPARTELIANI"
+                }
+            ]
+        ],
+        "final_winner": "Varlam LIPARTELIANI"
+    }
+}

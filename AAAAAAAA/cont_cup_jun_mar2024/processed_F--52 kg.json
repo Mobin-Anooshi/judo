@@ -1,0 +1,135 @@
+{
+    "POOL A": {
+        "round 1-1": [],
+        "final_winner": "Hajar CHANET"
+    },
+    "POOL B": {
+        "round 1-1": [
+            [
+                {
+                    "country": "MAR",
+                    "name": "Fatima Ezahra TAIBI"
+                },
+                {
+                    "country": "SEN",
+                    "name": "Soukaina COLY"
+                }
+            ]
+        ],
+        "final_winner": "Soukaina COLY"
+    },
+    "POOL C": {
+        "round 1-1": [
+            [
+                {
+                    "country": "MAR",
+                    "name": "Amina ALAOUI CHERIFI"
+                },
+                {
+                    "country": "HKG",
+                    "name": "Wai Sum LAU"
+                }
+            ]
+        ],
+        "final_winner": "Amina ALAOUI CHERIFI"
+    },
+    "POOL D": {
+        "round 1-1": [],
+        "final_winner": "Hajar CHAQSARE"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "MAR",
+                    "name": "Fatima Ezahra TAIBI"
+                }
+            ],
+            [
+                {
+                    "country": "HKG",
+                    "name": "Wai Sum LAU"
+                }
+            ],
+            [
+                {
+                    "country": "MAR",
+                    "name": "Fatima Ezahra TAIBI"
+                },
+                {
+                    "country": "MAR",
+                    "name": "Hajar CHAQSARE"
+                },
+                {
+                    "winner": "Fatima Ezahra TAIBI"
+                }
+            ],
+            [
+                {
+                    "country": "HKG",
+                    "name": "Wai Sum LAU"
+                },
+                {
+                    "country": "SEN",
+                    "name": "Soukaina COLY"
+                },
+                {
+                    "winner": "Soukaina COLY"
+                }
+            ],
+            [
+                {
+                    "country": "SEN",
+                    "name": "Soukaina COLY"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Wai Sum LAU",
+            "Fatima Ezahra TAIBI"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "MAR",
+                    "name": "Hajar CHANET"
+                },
+                {
+                    "country": "SEN",
+                    "name": "Soukaina COLY"
+                },
+                {
+                    "winner": "Hajar CHANET"
+                }
+            ],
+            [
+                {
+                    "country": "MAR",
+                    "name": "Amina ALAOUI CHERIFI"
+                },
+                {
+                    "country": "MAR",
+                    "name": "Hajar CHAQSARE"
+                },
+                {
+                    "winner": "Amina ALAOUI CHERIFI"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "MAR",
+                    "name": "Hajar CHANET"
+                },
+                {
+                    "country": "MAR",
+                    "name": "Amina ALAOUI CHERIFI"
+                }
+            ]
+        ],
+        "final_winner": "Amina ALAOUI CHERIFI"
+    }
+}

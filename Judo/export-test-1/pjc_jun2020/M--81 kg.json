@@ -1,0 +1,215 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "PER",
+                    "name": "Javier SAAVEDRA"
+                },
+                {
+                    "winner": "Javier SAAVEDRA"
+                }
+            ],
+            []
+        ],
+        "round 1-1": [],
+        "final_winner": "Javier SAAVEDRA"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "MEX",
+                    "name": "Diego DIAZ"
+                },
+                {
+                    "winner": "Diego DIAZ"
+                }
+            ],
+            [
+                {
+                    "country": "USA",
+                    "name": "Michael MUTZ"
+                },
+                {
+                    "winner": "Michael MUTZ"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "MEX",
+                    "name": "Diego DIAZ"
+                },
+                {
+                    "country": "USA",
+                    "name": "Michael MUTZ"
+                }
+            ]
+        ],
+        "final_winner": "Michael MUTZ"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [],
+            [
+                {
+                    "country": "PAR",
+                    "name": "Diego NOGUERA"
+                },
+                {
+                    "winner": "Diego NOGUERA"
+                }
+            ]
+        ],
+        "round 1-1": [],
+        "final_winner": "Diego NOGUERA"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "MEX",
+                    "name": "Javier ROSAS"
+                },
+                {
+                    "winner": "Javier ROSAS"
+                }
+            ],
+            [
+                {
+                    "country": "PAN",
+                    "name": "Alexis HARRISON AYARZA"
+                },
+                {
+                    "winner": "Alexis HARRISON AYARZA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "MEX",
+                    "name": "Javier ROSAS"
+                },
+                {
+                    "country": "PAN",
+                    "name": "Alexis HARRISON AYARZA"
+                }
+            ]
+        ],
+        "final_winner": "Alexis HARRISON AYARZA"
+    },
+    "REPECHAGE": {
+        "round 1-4": [
+            [],
+            [
+                {
+                    "country": "MEX",
+                    "name": "Diego DIAZ"
+                },
+                {
+                    "winner": "Diego DIAZ"
+                }
+            ],
+            [],
+            [
+                {
+                    "country": "MEX",
+                    "name": "Javier ROSAS"
+                },
+                {
+                    "winner": "Javier ROSAS"
+                }
+            ]
+        ],
+        "round 1-2": [
+            [
+                {
+                    "country": "MEX",
+                    "name": "Diego DIAZ"
+                }
+            ],
+            [
+                {
+                    "country": "MEX",
+                    "name": "Javier ROSAS"
+                }
+            ],
+            [
+                {
+                    "country": "MEX",
+                    "name": "Diego DIAZ"
+                },
+                {
+                    "country": "PAR",
+                    "name": "Diego NOGUERA"
+                },
+                {
+                    "winner": "Diego DIAZ"
+                }
+            ],
+            [
+                {
+                    "country": "MEX",
+                    "name": "Javier ROSAS"
+                },
+                {
+                    "country": "USA",
+                    "name": "Michael MUTZ"
+                },
+                {
+                    "winner": "Javier ROSAS"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Diego DIAZ",
+            "Javier ROSAS"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "PER",
+                    "name": "Javier SAAVEDRA"
+                },
+                {
+                    "country": "USA",
+                    "name": "Michael MUTZ"
+                },
+                {
+                    "winner": "Javier SAAVEDRA"
+                }
+            ],
+            [
+                {
+                    "country": "PAR",
+                    "name": "Diego NOGUERA"
+                },
+                {
+                    "country": "PAN",
+                    "name": "Alexis HARRISON AYARZA"
+                },
+                {
+                    "winner": "Alexis HARRISON AYARZA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "PER",
+                    "name": "Javier SAAVEDRA"
+                },
+                {
+                    "country": "PAN",
+                    "name": "Alexis HARRISON AYARZA"
+                }
+            ]
+        ],
+        "final_winner": "Alexis HARRISON AYARZA"
+    }
+}

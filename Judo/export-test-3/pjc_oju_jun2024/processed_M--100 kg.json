@@ -1,0 +1,87 @@
+{
+    "POOL A": {
+        "round 1-3": [
+            [
+                {
+                    "country": "PER",
+                    "name": "Valentino VALDIVIA"
+                },
+                {
+                    "country": "USA",
+                    "name": "Daniel LIUBIMOVSKI"
+                },
+                {
+                    "winner": "Valentino VALDIVIA"
+                }
+            ],
+            [
+                {
+                    "country": "PER",
+                    "name": "Valentino VALDIVIA"
+                },
+                {
+                    "country": "USA",
+                    "name": "Zalman ZUCKER"
+                },
+                {
+                    "winner": "Zalman ZUCKER"
+                }
+            ],
+            [
+                {
+                    "country": "USA",
+                    "name": "Daniel LIUBIMOVSKI"
+                },
+                {
+                    "country": "USA",
+                    "name": "Zalman ZUCKER"
+                },
+                {
+                    "winner": "Daniel LIUBIMOVSKI"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Daniel LIUBIMOVSKI",
+            "Zalman ZUCKER"
+        ]
+    },
+    "POOL B": {
+        "round 1-1": [],
+        "final_winners": [
+            "Andre KRAMER"
+        ]
+    },
+    "REPECHAGE": {
+        "round 1-1": [
+            [
+                {
+                    "country": "USA",
+                    "name": "Zalman ZUCKER"
+                },
+                {
+                    "country": "VEN",
+                    "name": "Eduardo FRANCO"
+                },
+                {
+                    "winner": "Eduardo FRANCO"
+                }
+            ],
+            [
+                {
+                    "country": "VEN",
+                    "name": "Eduardo FRANCO"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Eduardo FRANCO"
+        ]
+    },
+    "FINALS": {
+        "round 1-1": [],
+        "final_winners": [
+            "Daniel LIUBIMOVSKI"
+        ]
+    }
+}

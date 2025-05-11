@@ -1,0 +1,269 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ANG",
+                    "name": "Antonio CANDEIRO"
+                },
+                {
+                    "winner": "Antonio CANDEIRO"
+                }
+            ],
+            [
+                {
+                    "country": "MAR",
+                    "name": "Mohamed JAFY"
+                },
+                {
+                    "country": "ANG",
+                    "name": "Nelson ALAIN"
+                },
+                {
+                    "winner": "Mohamed JAFY"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "ANG",
+                    "name": "Antonio CANDEIRO"
+                },
+                {
+                    "country": "MAR",
+                    "name": "Mohamed JAFY"
+                }
+            ]
+        ],
+        "final_winner": "Antonio CANDEIRO"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "STP",
+                    "name": "Sergio FERREIRA"
+                },
+                {
+                    "country": "ANG",
+                    "name": "Rodrigo FERNANDO"
+                },
+                {
+                    "winner": "Rodrigo FERNANDO"
+                }
+            ],
+            [
+                {
+                    "country": "ANG",
+                    "name": "Eduardo SAMUEL"
+                },
+                {
+                    "winner": "Eduardo SAMUEL"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "ANG",
+                    "name": "Rodrigo FERNANDO"
+                },
+                {
+                    "country": "ANG",
+                    "name": "Eduardo SAMUEL"
+                }
+            ]
+        ],
+        "final_winner": "Rodrigo FERNANDO"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "STP",
+                    "name": "Roldeney DE OLIVEIRA"
+                },
+                {
+                    "winner": "Roldeney DE OLIVEIRA"
+                }
+            ],
+            [
+                {
+                    "country": "ANG",
+                    "name": "Divaldo SANTOS"
+                },
+                {
+                    "country": "ANG",
+                    "name": "Leonardo DOMINGOS"
+                },
+                {
+                    "winner": "Divaldo SANTOS"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "STP",
+                    "name": "Roldeney DE OLIVEIRA"
+                },
+                {
+                    "country": "ANG",
+                    "name": "Divaldo SANTOS"
+                }
+            ]
+        ],
+        "final_winner": "Divaldo SANTOS"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ANG",
+                    "name": "Antonio FRANCISCO"
+                },
+                {
+                    "winner": "Antonio FRANCISCO"
+                }
+            ],
+            [
+                {
+                    "country": "ANG",
+                    "name": "Alexandre MANDE"
+                },
+                {
+                    "winner": "Alexandre MANDE"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "ANG",
+                    "name": "Antonio FRANCISCO"
+                },
+                {
+                    "country": "ANG",
+                    "name": "Alexandre MANDE"
+                }
+            ]
+        ],
+        "final_winner": "Alexandre MANDE"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "MAR",
+                    "name": "Mohamed JAFY"
+                },
+                {
+                    "country": "ANG",
+                    "name": "Eduardo SAMUEL"
+                },
+                {
+                    "winner": "Mohamed JAFY"
+                }
+            ],
+            [
+                {
+                    "country": "STP",
+                    "name": "Roldeney DE OLIVEIRA"
+                },
+                {
+                    "country": "ANG",
+                    "name": "Antonio FRANCISCO"
+                },
+                {
+                    "winner": "Antonio FRANCISCO"
+                }
+            ],
+            [
+                {
+                    "country": "MAR",
+                    "name": "Mohamed JAFY"
+                },
+                {
+                    "country": "ANG",
+                    "name": "Alexandre MANDE"
+                },
+                {
+                    "winner": "Mohamed JAFY"
+                }
+            ],
+            [
+                {
+                    "country": "ANG",
+                    "name": "Antonio FRANCISCO"
+                },
+                {
+                    "country": "ANG",
+                    "name": "Rodrigo FERNANDO"
+                },
+                {
+                    "winner": "Rodrigo FERNANDO"
+                }
+            ],
+            [
+                {
+                    "country": "MAR",
+                    "name": "Mohamed JAFY"
+                }
+            ],
+            [
+                {
+                    "country": "ANG",
+                    "name": "Rodrigo FERNANDO"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Mohamed JAFY",
+            "Rodrigo FERNANDO"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ANG",
+                    "name": "Antonio CANDEIRO"
+                },
+                {
+                    "country": "ANG",
+                    "name": "Rodrigo FERNANDO"
+                },
+                {
+                    "winner": "Antonio CANDEIRO"
+                }
+            ],
+            [
+                {
+                    "country": "ANG",
+                    "name": "Divaldo SANTOS"
+                },
+                {
+                    "country": "ANG",
+                    "name": "Alexandre MANDE"
+                },
+                {
+                    "winner": "Divaldo SANTOS"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "ANG",
+                    "name": "Antonio CANDEIRO"
+                },
+                {
+                    "country": "ANG",
+                    "name": "Divaldo SANTOS"
+                }
+            ]
+        ],
+        "final_winner": "Antonio CANDEIRO"
+    }
+}

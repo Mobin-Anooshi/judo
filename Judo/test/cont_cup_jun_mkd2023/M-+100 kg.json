@@ -1,0 +1,166 @@
+{
+    "POOL A": {
+        "round 1-1": [
+            [
+                {
+                    "country": "EST",
+                    "name": "Kabriel KIRNA"
+                }
+            ]
+        ]
+    },
+    "POOL B": {
+        "round 1-1": [
+            [
+                {
+                    "country": "GRE",
+                    "name": "Ioannis KOSTELIDIS"
+                },
+                {
+                    "country": "USA",
+                    "name": "Alex SEMENENKO"
+                }
+            ],
+            [
+                {
+                    "country": "USA",
+                    "name": "Alex SEMENENKO"
+                }
+            ]
+        ]
+    },
+    "POOL C": {
+        "round 1-1": [
+            [
+                {
+                    "country": "KSA",
+                    "name": "Saud MANAIE"
+                },
+                {
+                    "country": "BUL",
+                    "name": "Angel SLAVKOV"
+                }
+            ],
+            [
+                {
+                    "country": "KSA",
+                    "name": "Saud MANAIE"
+                }
+            ]
+        ]
+    },
+    "POOL D": {
+        "round 1-1": [
+            [
+                {
+                    "country": "MNE",
+                    "name": "Stefan KOVINIC"
+                },
+                {
+                    "country": "GRE",
+                    "name": "Pavlos Avraam MAVROMATIS"
+                }
+            ],
+            [
+                {
+                    "country": "GRE",
+                    "name": "Pavlos Avraam MAVROMATIS"
+                }
+            ]
+        ]
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "GRE",
+                    "name": "Ioannis KOSTELIDIS"
+                }
+            ],
+            [
+                {
+                    "country": "BUL",
+                    "name": "Angel SLAVKOV"
+                },
+                {
+                    "country": "MNE",
+                    "name": "Stefan KOVINIC"
+                }
+            ],
+            [
+                {
+                    "country": "GRE",
+                    "name": "Ioannis KOSTELIDIS"
+                },
+                {
+                    "country": "KSA",
+                    "name": "Saud MANAIE"
+                }
+            ],
+            [
+                {
+                    "country": "MNE",
+                    "name": "Stefan KOVINIC"
+                },
+                {
+                    "country": "EST",
+                    "name": "Kabriel KIRNA"
+                }
+            ],
+            [
+                {
+                    "country": "MNE",
+                    "name": "Stefan KOVINIC"
+                }
+            ]
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "EST",
+                    "name": "Kabriel KIRNA"
+                },
+                {
+                    "country": "USA",
+                    "name": "Alex SEMENENKO"
+                },
+                {
+                    "winner": "Alex SEMENENKO"
+                }
+            ],
+            [
+                {
+                    "country": "KSA",
+                    "name": "Saud MANAIE"
+                },
+                {
+                    "country": "GRE",
+                    "name": "Pavlos Avraam MAVROMATIS"
+                },
+                {
+                    "winner": "Pavlos Avraam MAVROMATIS"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "USA",
+                    "name": "Alex SEMENENKO"
+                },
+                {
+                    "country": "GRE",
+                    "name": "Pavlos Avraam MAVROMATIS"
+                }
+            ],
+            [
+                {
+                    "country": "USA",
+                    "name": "Alex SEMENENKO"
+                }
+            ]
+        ]
+    }
+}

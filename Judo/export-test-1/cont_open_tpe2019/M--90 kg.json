@@ -1,0 +1,261 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "AUS",
+                    "name": "Harrison CASSAR"
+                },
+                {
+                    "winner": "Harrison CASSAR"
+                }
+            ],
+            [
+                {
+                    "country": "IND",
+                    "name": "Ajay Devilal MISTRY"
+                },
+                {
+                    "country": "KOR",
+                    "name": "Junsoo PARK"
+                },
+                {
+                    "winner": "Ajay Devilal MISTRY"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "AUS",
+                    "name": "Harrison CASSAR"
+                },
+                {
+                    "country": "IND",
+                    "name": "Ajay Devilal MISTRY"
+                }
+            ]
+        ],
+        "final_winner": "Harrison CASSAR"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "VIE",
+                    "name": "Anh Tai LE"
+                },
+                {
+                    "winner": "Anh Tai LE"
+                }
+            ],
+            [
+                {
+                    "country": "TPE",
+                    "name": "Lung teng WANG"
+                },
+                {
+                    "winner": "Lung teng WANG"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "VIE",
+                    "name": "Anh Tai LE"
+                },
+                {
+                    "country": "TPE",
+                    "name": "Lung teng WANG"
+                }
+            ]
+        ],
+        "final_winner": "Anh Tai LE"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "KOR",
+                    "name": "Jaeyong LEE"
+                },
+                {
+                    "winner": "Jaeyong LEE"
+                }
+            ],
+            [
+                {
+                    "country": "PHI",
+                    "name": "John Viron FERRER"
+                },
+                {
+                    "winner": "John Viron FERRER"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "KOR",
+                    "name": "Jaeyong LEE"
+                },
+                {
+                    "country": "PHI",
+                    "name": "John Viron FERRER"
+                }
+            ]
+        ],
+        "final_winner": "Jaeyong LEE"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "TPE",
+                    "name": "Fong shun CHEN"
+                },
+                {
+                    "winner": "Fong shun CHEN"
+                }
+            ],
+            [
+                {
+                    "country": "KOR",
+                    "name": "Seungyeon HONG"
+                },
+                {
+                    "winner": "Seungyeon HONG"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "TPE",
+                    "name": "Fong shun CHEN"
+                },
+                {
+                    "country": "KOR",
+                    "name": "Seungyeon HONG"
+                }
+            ]
+        ],
+        "final_winner": "Seungyeon HONG"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "IND",
+                    "name": "Ajay Devilal MISTRY"
+                },
+                {
+                    "country": "TPE",
+                    "name": "Lung teng WANG"
+                },
+                {
+                    "winner": "Ajay Devilal MISTRY"
+                }
+            ],
+            [
+                {
+                    "country": "PHI",
+                    "name": "John Viron FERRER"
+                },
+                {
+                    "country": "TPE",
+                    "name": "Fong shun CHEN"
+                },
+                {
+                    "winner": "Fong shun CHEN"
+                }
+            ],
+            [
+                {
+                    "country": "IND",
+                    "name": "Ajay Devilal MISTRY"
+                },
+                {
+                    "country": "KOR",
+                    "name": "Seungyeon HONG"
+                },
+                {
+                    "winner": "Seungyeon HONG"
+                }
+            ],
+            [
+                {
+                    "country": "TPE",
+                    "name": "Fong shun CHEN"
+                },
+                {
+                    "country": "VIE",
+                    "name": "Anh Tai LE"
+                },
+                {
+                    "winner": "Fong shun CHEN"
+                }
+            ],
+            [
+                {
+                    "country": "KOR",
+                    "name": "Seungyeon HONG"
+                }
+            ],
+            [
+                {
+                    "country": "TPE",
+                    "name": "Fong shun CHEN"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Seungyeon HONG",
+            "Fong shun CHEN"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "AUS",
+                    "name": "Harrison CASSAR"
+                },
+                {
+                    "country": "VIE",
+                    "name": "Anh Tai LE"
+                },
+                {
+                    "winner": "Harrison CASSAR"
+                }
+            ],
+            [
+                {
+                    "country": "KOR",
+                    "name": "Jaeyong LEE"
+                },
+                {
+                    "country": "KOR",
+                    "name": "Seungyeon HONG"
+                },
+                {
+                    "winner": "Jaeyong LEE"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "AUS",
+                    "name": "Harrison CASSAR"
+                },
+                {
+                    "country": "KOR",
+                    "name": "Jaeyong LEE"
+                }
+            ]
+        ],
+        "final_winner": "Jaeyong LEE"
+    }
+}

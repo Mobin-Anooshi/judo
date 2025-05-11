@@ -1,0 +1,135 @@
+{
+    "POOL A": {
+        "round 1-1": [],
+        "final_winner": "Nadezhda TATARCHENKO"
+    },
+    "POOL B": {
+        "round 1-1": [
+            [
+                {
+                    "country": "BIH",
+                    "name": "Sofija PAJIC"
+                },
+                {
+                    "country": "SLO",
+                    "name": "Ema KOLMANKO"
+                }
+            ]
+        ],
+        "final_winner": "Ema KOLMANKO"
+    },
+    "POOL C": {
+        "round 1-1": [],
+        "final_winner": "Jovana PEKOVIC"
+    },
+    "POOL D": {
+        "round 1-1": [
+            [
+                {
+                    "country": "GBR",
+                    "name": "Shelley LUDFORD"
+                },
+                {
+                    "country": "SLO",
+                    "name": "Anka POGACNIK"
+                }
+            ]
+        ],
+        "final_winner": "Anka POGACNIK"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "BIH",
+                    "name": "Sofija PAJIC"
+                }
+            ],
+            [
+                {
+                    "country": "GBR",
+                    "name": "Shelley LUDFORD"
+                }
+            ],
+            [
+                {
+                    "country": "BIH",
+                    "name": "Sofija PAJIC"
+                },
+                {
+                    "country": "MNE",
+                    "name": "Jovana PEKOVIC"
+                },
+                {
+                    "winner": "Jovana PEKOVIC"
+                }
+            ],
+            [
+                {
+                    "country": "GBR",
+                    "name": "Shelley LUDFORD"
+                },
+                {
+                    "country": "SLO",
+                    "name": "Ema KOLMANKO"
+                },
+                {
+                    "winner": "Shelley LUDFORD"
+                }
+            ],
+            [
+                {
+                    "country": "MNE",
+                    "name": "Jovana PEKOVIC"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Shelley LUDFORD",
+            "Jovana PEKOVIC"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "IJF",
+                    "name": "Nadezhda TATARCHENKO"
+                },
+                {
+                    "country": "SLO",
+                    "name": "Ema KOLMANKO"
+                },
+                {
+                    "winner": "Nadezhda TATARCHENKO"
+                }
+            ],
+            [
+                {
+                    "country": "MNE",
+                    "name": "Jovana PEKOVIC"
+                },
+                {
+                    "country": "SLO",
+                    "name": "Anka POGACNIK"
+                },
+                {
+                    "winner": "Anka POGACNIK"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "IJF",
+                    "name": "Nadezhda TATARCHENKO"
+                },
+                {
+                    "country": "SLO",
+                    "name": "Anka POGACNIK"
+                }
+            ]
+        ],
+        "final_winner": "Anka POGACNIK"
+    }
+}

@@ -1,0 +1,68 @@
+{
+    "ROUND 1": {
+        "round 1-2": [
+            [
+                {
+                    "country": "MAR",
+                    "name": "Zouhair ESSERYRY"
+                },
+                {
+                    "country": "TUN",
+                    "name": "Mohamed MEJRI"
+                },
+                {
+                    "winner": "Zouhair ESSERYRY"
+                }
+            ],
+            [
+                {
+                    "country": "TUN",
+                    "name": "Ali HAMMAMI"
+                },
+                {
+                    "country": "TUN",
+                    "name": "Mohamed BEN ZID"
+                },
+                {
+                    "winner": "Mohamed BEN ZID"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Zouhair ESSERYRY",
+            "Mohamed BEN ZID"
+        ]
+    },
+    "REPECHAGE": {
+        "round 1-1": [
+            [
+                {
+                    "country": "TUN",
+                    "name": "Mohamed MEJRI"
+                },
+                {
+                    "country": "TUN",
+                    "name": "Ali HAMMAMI"
+                },
+                {
+                    "winner": "Ali HAMMAMI"
+                }
+            ],
+            [
+                {
+                    "country": "TUN",
+                    "name": "Ali HAMMAMI"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Ali HAMMAMI"
+        ]
+    },
+    "FINALS": {
+        "round 1-1": [],
+        "final_winners": [
+            "Zouhair ESSERYRY"
+        ]
+    }
+}

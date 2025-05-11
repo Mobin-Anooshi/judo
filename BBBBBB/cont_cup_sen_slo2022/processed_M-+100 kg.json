@@ -1,0 +1,303 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "GER",
+                    "name": "Jonas SCHREIBER"
+                },
+                {
+                    "winner": "Jonas SCHREIBER"
+                }
+            ],
+            [
+                {
+                    "country": "SWE",
+                    "name": "Emil MATTSSON"
+                },
+                {
+                    "winner": "Emil MATTSSON"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "GER",
+                    "name": "Jonas SCHREIBER"
+                },
+                {
+                    "country": "SWE",
+                    "name": "Emil MATTSSON"
+                }
+            ]
+        ],
+        "final_winner": "Jonas SCHREIBER"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "SLO",
+                    "name": "Enej MARINIC"
+                },
+                {
+                    "winner": "Enej MARINIC"
+                }
+            ],
+            [
+                {
+                    "country": "AUS",
+                    "name": "Liam PARK"
+                },
+                {
+                    "winner": "Liam PARK"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "SLO",
+                    "name": "Enej MARINIC"
+                },
+                {
+                    "country": "AUS",
+                    "name": "Liam PARK"
+                }
+            ]
+        ],
+        "final_winner": "Enej MARINIC"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CRO",
+                    "name": "Luka VIOLIC"
+                },
+                {
+                    "winner": "Luka VIOLIC"
+                }
+            ],
+            [
+                {
+                    "country": "GER",
+                    "name": "Losseni KONE"
+                },
+                {
+                    "country": "POL",
+                    "name": "Grzegorz TERESINSKI"
+                },
+                {
+                    "winner": "Losseni KONE"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "CRO",
+                    "name": "Luka VIOLIC"
+                },
+                {
+                    "country": "GER",
+                    "name": "Losseni KONE"
+                }
+            ]
+        ],
+        "final_winner": "Losseni KONE"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "AZE",
+                    "name": "Dzhamal GAMZATKHANOV"
+                },
+                {
+                    "winner": "Dzhamal GAMZATKHANOV"
+                }
+            ],
+            [
+                {
+                    "country": "GER",
+                    "name": "Yvo WITASSEK"
+                },
+                {
+                    "winner": "Yvo WITASSEK"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "AZE",
+                    "name": "Dzhamal GAMZATKHANOV"
+                },
+                {
+                    "country": "GER",
+                    "name": "Yvo WITASSEK"
+                }
+            ]
+        ],
+        "final_winner": "Dzhamal GAMZATKHANOV"
+    },
+    "REPECHAGE": {
+        "round 1-4": [
+            [
+                {
+                    "country": "SWE",
+                    "name": "Emil MATTSSON"
+                },
+                {
+                    "winner": "Emil MATTSSON"
+                }
+            ],
+            [
+                {
+                    "country": "AUS",
+                    "name": "Liam PARK"
+                },
+                {
+                    "winner": "Liam PARK"
+                }
+            ],
+            [
+                {
+                    "country": "POL",
+                    "name": "Grzegorz TERESINSKI"
+                },
+                {
+                    "country": "CRO",
+                    "name": "Luka VIOLIC"
+                },
+                {
+                    "winner": "Grzegorz TERESINSKI"
+                }
+            ],
+            [
+                {
+                    "country": "GER",
+                    "name": "Yvo WITASSEK"
+                },
+                {
+                    "winner": "Yvo WITASSEK"
+                }
+            ]
+        ],
+        "round 1-2": [
+            [
+                {
+                    "country": "SWE",
+                    "name": "Emil MATTSSON"
+                },
+                {
+                    "country": "AUS",
+                    "name": "Liam PARK"
+                },
+                {
+                    "winner": "Emil MATTSSON"
+                }
+            ],
+            [
+                {
+                    "country": "POL",
+                    "name": "Grzegorz TERESINSKI"
+                },
+                {
+                    "country": "GER",
+                    "name": "Yvo WITASSEK"
+                },
+                {
+                    "winner": "Yvo WITASSEK"
+                }
+            ],
+            [
+                {
+                    "country": "SWE",
+                    "name": "Emil MATTSSON"
+                },
+                {
+                    "country": "AZE",
+                    "name": "Dzhamal GAMZATKHANOV"
+                },
+                {
+                    "winner": "Emil MATTSSON"
+                }
+            ],
+            [
+                {
+                    "country": "GER",
+                    "name": "Yvo WITASSEK"
+                },
+                {
+                    "country": "GER",
+                    "name": "Jonas SCHREIBER"
+                },
+                {
+                    "winner": "Jonas SCHREIBER"
+                }
+            ],
+            [
+                {
+                    "country": "SWE",
+                    "name": "Emil MATTSSON"
+                }
+            ],
+            [
+                {
+                    "country": "GER",
+                    "name": "Jonas SCHREIBER"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Emil MATTSSON",
+            "Jonas SCHREIBER"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "GER",
+                    "name": "Jonas SCHREIBER"
+                },
+                {
+                    "country": "SLO",
+                    "name": "Enej MARINIC"
+                },
+                {
+                    "winner": "Enej MARINIC"
+                }
+            ],
+            [
+                {
+                    "country": "GER",
+                    "name": "Losseni KONE"
+                },
+                {
+                    "country": "AZE",
+                    "name": "Dzhamal GAMZATKHANOV"
+                },
+                {
+                    "winner": "Losseni KONE"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "SLO",
+                    "name": "Enej MARINIC"
+                },
+                {
+                    "country": "GER",
+                    "name": "Losseni KONE"
+                }
+            ]
+        ],
+        "final_winner": "Losseni KONE"
+    }
+}

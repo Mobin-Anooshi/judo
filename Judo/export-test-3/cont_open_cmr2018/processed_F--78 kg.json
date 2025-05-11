@@ -1,0 +1,68 @@
+{
+    "ROUND 1": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ALG",
+                    "name": "Kaouthar OUALLAL"
+                },
+                {
+                    "country": "CHA",
+                    "name": "Gedeon DANIELLA"
+                },
+                {
+                    "winner": "Kaouthar OUALLAL"
+                }
+            ],
+            [
+                {
+                    "country": "GAB",
+                    "name": "Sarah-Myriam MAZOUZ"
+                },
+                {
+                    "country": "CMR",
+                    "name": "Audrey Dilane NJEPANG NJAPA"
+                },
+                {
+                    "winner": "Sarah-Myriam MAZOUZ"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Kaouthar OUALLAL",
+            "Sarah-Myriam MAZOUZ"
+        ]
+    },
+    "REPECHAGE": {
+        "round 1-1": [
+            [
+                {
+                    "country": "CHA",
+                    "name": "Gedeon DANIELLA"
+                },
+                {
+                    "country": "CMR",
+                    "name": "Audrey Dilane NJEPANG NJAPA"
+                },
+                {
+                    "winner": "Audrey Dilane NJEPANG NJAPA"
+                }
+            ],
+            [
+                {
+                    "country": "CMR",
+                    "name": "Audrey Dilane NJEPANG NJAPA"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Audrey Dilane NJEPANG NJAPA"
+        ]
+    },
+    "FINALS": {
+        "round 1-1": [],
+        "final_winners": [
+            "Kaouthar OUALLAL"
+        ]
+    }
+}

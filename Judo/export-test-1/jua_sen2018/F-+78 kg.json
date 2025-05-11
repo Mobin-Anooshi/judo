@@ -1,0 +1,261 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "KOR",
+                    "name": "Minjeong KIM"
+                },
+                {
+                    "winner": "Minjeong KIM"
+                }
+            ],
+            [
+                {
+                    "country": "UZB",
+                    "name": "Rinata ILMATOVA"
+                },
+                {
+                    "country": "INA",
+                    "name": "I Dewa Ayu Mira WIDARI"
+                },
+                {
+                    "winner": "Rinata ILMATOVA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "KOR",
+                    "name": "Minjeong KIM"
+                },
+                {
+                    "country": "UZB",
+                    "name": "Rinata ILMATOVA"
+                }
+            ]
+        ],
+        "final_winner": "Minjeong KIM"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CHN",
+                    "name": "Yan WANG"
+                },
+                {
+                    "winner": "Yan WANG"
+                }
+            ],
+            [
+                {
+                    "country": "MGL",
+                    "name": "Munkhtuya BATTULGA"
+                },
+                {
+                    "winner": "Munkhtuya BATTULGA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "CHN",
+                    "name": "Yan WANG"
+                },
+                {
+                    "country": "MGL",
+                    "name": "Munkhtuya BATTULGA"
+                }
+            ]
+        ],
+        "final_winner": "Yan WANG"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "JPN",
+                    "name": "Akira SONE"
+                },
+                {
+                    "winner": "Akira SONE"
+                }
+            ],
+            [
+                {
+                    "country": "IND",
+                    "name": "Rajwinder KAUR"
+                },
+                {
+                    "winner": "Rajwinder KAUR"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "JPN",
+                    "name": "Akira SONE"
+                },
+                {
+                    "country": "IND",
+                    "name": "Rajwinder KAUR"
+                }
+            ]
+        ],
+        "final_winner": "Akira SONE"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "KAZ",
+                    "name": "Gulzhan ISSANOVA"
+                },
+                {
+                    "winner": "Gulzhan ISSANOVA"
+                }
+            ],
+            [
+                {
+                    "country": "TPE",
+                    "name": "Jia Wen TSAI"
+                },
+                {
+                    "winner": "Jia Wen TSAI"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "KAZ",
+                    "name": "Gulzhan ISSANOVA"
+                },
+                {
+                    "country": "TPE",
+                    "name": "Jia Wen TSAI"
+                }
+            ]
+        ],
+        "final_winner": "Gulzhan ISSANOVA"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "UZB",
+                    "name": "Rinata ILMATOVA"
+                },
+                {
+                    "country": "MGL",
+                    "name": "Munkhtuya BATTULGA"
+                },
+                {
+                    "winner": "Munkhtuya BATTULGA"
+                }
+            ],
+            [
+                {
+                    "country": "IND",
+                    "name": "Rajwinder KAUR"
+                },
+                {
+                    "country": "TPE",
+                    "name": "Jia Wen TSAI"
+                },
+                {
+                    "winner": "Jia Wen TSAI"
+                }
+            ],
+            [
+                {
+                    "country": "MGL",
+                    "name": "Munkhtuya BATTULGA"
+                },
+                {
+                    "country": "KAZ",
+                    "name": "Gulzhan ISSANOVA"
+                },
+                {
+                    "winner": "Gulzhan ISSANOVA"
+                }
+            ],
+            [
+                {
+                    "country": "TPE",
+                    "name": "Jia Wen TSAI"
+                },
+                {
+                    "country": "CHN",
+                    "name": "Yan WANG"
+                },
+                {
+                    "winner": "Yan WANG"
+                }
+            ],
+            [
+                {
+                    "country": "KAZ",
+                    "name": "Gulzhan ISSANOVA"
+                }
+            ],
+            [
+                {
+                    "country": "CHN",
+                    "name": "Yan WANG"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Gulzhan ISSANOVA",
+            "Yan WANG"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "KOR",
+                    "name": "Minjeong KIM"
+                },
+                {
+                    "country": "CHN",
+                    "name": "Yan WANG"
+                },
+                {
+                    "winner": "Minjeong KIM"
+                }
+            ],
+            [
+                {
+                    "country": "JPN",
+                    "name": "Akira SONE"
+                },
+                {
+                    "country": "KAZ",
+                    "name": "Gulzhan ISSANOVA"
+                },
+                {
+                    "winner": "Akira SONE"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "KOR",
+                    "name": "Minjeong KIM"
+                },
+                {
+                    "country": "JPN",
+                    "name": "Akira SONE"
+                }
+            ]
+        ],
+        "final_winner": "Akira SONE"
+    }
+}

@@ -1,0 +1,269 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [],
+            [
+                {
+                    "country": "KOR",
+                    "name": "Jiyeon KIM"
+                },
+                {
+                    "winner": "Jiyeon KIM"
+                }
+            ]
+        ],
+        "round 1-1": [],
+        "final_winner": "Jiyeon KIM"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "MAC",
+                    "name": "Ka cheng WONG"
+                },
+                {
+                    "winner": "Ka cheng WONG"
+                }
+            ],
+            [
+                {
+                    "country": "TPE",
+                    "name": "Hui hsin LI"
+                },
+                {
+                    "winner": "Hui hsin LI"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "MAC",
+                    "name": "Ka cheng WONG"
+                },
+                {
+                    "country": "TPE",
+                    "name": "Hui hsin LI"
+                }
+            ]
+        ],
+        "final_winner": "Hui hsin LI"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "HKG",
+                    "name": "Ka Lee WONG"
+                },
+                {
+                    "winner": "Ka Lee WONG"
+                }
+            ],
+            [
+                {
+                    "country": "BHU",
+                    "name": "Phub MONGER"
+                },
+                {
+                    "winner": "Phub MONGER"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "HKG",
+                    "name": "Ka Lee WONG"
+                },
+                {
+                    "country": "BHU",
+                    "name": "Phub MONGER"
+                }
+            ]
+        ],
+        "final_winner": "Ka Lee WONG"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "MAC",
+                    "name": "Ian ian CHAN"
+                },
+                {
+                    "winner": "Ian ian CHAN"
+                }
+            ],
+            [
+                {
+                    "country": "THA",
+                    "name": "Sinsupa MATHITANO"
+                },
+                {
+                    "country": "CHN",
+                    "name": "Jianni HUANG"
+                },
+                {
+                    "winner": "Jianni HUANG"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "MAC",
+                    "name": "Ian ian CHAN"
+                },
+                {
+                    "country": "CHN",
+                    "name": "Jianni HUANG"
+                }
+            ]
+        ],
+        "final_winner": "Jianni HUANG"
+    },
+    "REPECHAGE": {
+        "round 1-4": [
+            [],
+            [
+                {
+                    "country": "MAC",
+                    "name": "Ka cheng WONG"
+                },
+                {
+                    "winner": "Ka cheng WONG"
+                }
+            ],
+            [
+                {
+                    "country": "BHU",
+                    "name": "Phub MONGER"
+                },
+                {
+                    "winner": "Phub MONGER"
+                }
+            ],
+            [
+                {
+                    "country": "THA",
+                    "name": "Sinsupa MATHITANO"
+                },
+                {
+                    "country": "MAC",
+                    "name": "Ian ian CHAN"
+                },
+                {
+                    "winner": "Sinsupa MATHITANO"
+                }
+            ]
+        ],
+        "round 1-2": [
+            [
+                {
+                    "country": "MAC",
+                    "name": "Ka cheng WONG"
+                }
+            ],
+            [
+                {
+                    "country": "BHU",
+                    "name": "Phub MONGER"
+                },
+                {
+                    "country": "THA",
+                    "name": "Sinsupa MATHITANO"
+                },
+                {
+                    "winner": "Sinsupa MATHITANO"
+                }
+            ],
+            [
+                {
+                    "country": "MAC",
+                    "name": "Ka cheng WONG"
+                },
+                {
+                    "country": "HKG",
+                    "name": "Ka Lee WONG"
+                },
+                {
+                    "winner": "Ka Lee WONG"
+                }
+            ],
+            [
+                {
+                    "country": "THA",
+                    "name": "Sinsupa MATHITANO"
+                },
+                {
+                    "country": "TPE",
+                    "name": "Hui hsin LI"
+                },
+                {
+                    "winner": "Hui hsin LI"
+                }
+            ],
+            [
+                {
+                    "country": "HKG",
+                    "name": "Ka Lee WONG"
+                }
+            ],
+            [
+                {
+                    "country": "TPE",
+                    "name": "Hui hsin LI"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Ka Lee WONG",
+            "Hui hsin LI"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "KOR",
+                    "name": "Jiyeon KIM"
+                },
+                {
+                    "country": "TPE",
+                    "name": "Hui hsin LI"
+                },
+                {
+                    "winner": "Jiyeon KIM"
+                }
+            ],
+            [
+                {
+                    "country": "HKG",
+                    "name": "Ka Lee WONG"
+                },
+                {
+                    "country": "CHN",
+                    "name": "Jianni HUANG"
+                },
+                {
+                    "winner": "Jianni HUANG"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "KOR",
+                    "name": "Jiyeon KIM"
+                },
+                {
+                    "country": "CHN",
+                    "name": "Jianni HUANG"
+                }
+            ]
+        ],
+        "final_winner": "Jiyeon KIM"
+    }
+}

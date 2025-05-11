@@ -1,0 +1,135 @@
+{
+    "POOL A": {
+        "round 1-1": [],
+        "final_winner": "Joel VASQUEZ"
+    },
+    "POOL B": {
+        "round 1-1": [
+            [
+                {
+                    "country": "PER",
+                    "name": "Daniel CASTILLO"
+                },
+                {
+                    "country": "DOM",
+                    "name": "Sodeni GEORGE METELUS"
+                }
+            ]
+        ],
+        "final_winner": "Daniel CASTILLO"
+    },
+    "POOL C": {
+        "round 1-1": [],
+        "final_winner": "Israndel AGRAMONTE DE LOS SANTOS"
+    },
+    "POOL D": {
+        "round 1-1": [
+            [
+                {
+                    "country": "DOM",
+                    "name": "Luis PEREZ MENA"
+                },
+                {
+                    "country": "DOM",
+                    "name": "Jeremy MORILLO LOPEZ"
+                }
+            ]
+        ],
+        "final_winner": "Luis PEREZ MENA"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "DOM",
+                    "name": "Sodeni GEORGE METELUS"
+                }
+            ],
+            [
+                {
+                    "country": "DOM",
+                    "name": "Jeremy MORILLO LOPEZ"
+                }
+            ],
+            [
+                {
+                    "country": "DOM",
+                    "name": "Sodeni GEORGE METELUS"
+                },
+                {
+                    "country": "DOM",
+                    "name": "Luis PEREZ MENA"
+                },
+                {
+                    "winner": "Sodeni GEORGE METELUS"
+                }
+            ],
+            [
+                {
+                    "country": "DOM",
+                    "name": "Jeremy MORILLO LOPEZ"
+                },
+                {
+                    "country": "PER",
+                    "name": "Daniel CASTILLO"
+                },
+                {
+                    "winner": "Daniel CASTILLO"
+                }
+            ],
+            [
+                {
+                    "country": "PER",
+                    "name": "Daniel CASTILLO"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Jeremy MORILLO LOPEZ",
+            "Sodeni GEORGE METELUS"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "DOM",
+                    "name": "Joel VASQUEZ"
+                },
+                {
+                    "country": "PER",
+                    "name": "Daniel CASTILLO"
+                },
+                {
+                    "winner": "Joel VASQUEZ"
+                }
+            ],
+            [
+                {
+                    "country": "DOM",
+                    "name": "Israndel AGRAMONTE DE LOS SANTOS"
+                },
+                {
+                    "country": "DOM",
+                    "name": "Luis PEREZ MENA"
+                },
+                {
+                    "winner": "Israndel AGRAMONTE DE LOS SANTOS"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "DOM",
+                    "name": "Joel VASQUEZ"
+                },
+                {
+                    "country": "DOM",
+                    "name": "Israndel AGRAMONTE DE LOS SANTOS"
+                }
+            ]
+        ],
+        "final_winner": "Joel VASQUEZ"
+    }
+}

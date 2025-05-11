@@ -1,0 +1,159 @@
+{
+    "POOL A": {
+        "round 1-1": [
+            [
+                {
+                    "country": "AUS",
+                    "name": "Saskia BROTHERS"
+                },
+                {
+                    "country": "KOR",
+                    "name": "Euna KIM"
+                }
+            ]
+        ],
+        "final_winner": "Euna KIM"
+    },
+    "POOL B": {
+        "round 1-1": [
+            [
+                {
+                    "country": "TPE",
+                    "name": "Ruo-Ting LAI"
+                },
+                {
+                    "country": "IND",
+                    "name": "Unnati SHARMA"
+                }
+            ]
+        ],
+        "final_winner": "Ruo-Ting LAI"
+    },
+    "POOL C": {
+        "round 1-1": [],
+        "final_winner": "Alena CHUSSOVITINA"
+    },
+    "POOL D": {
+        "round 1-1": [
+            [
+                {
+                    "country": "KGZ",
+                    "name": "Azhar ISAEVA"
+                },
+                {
+                    "country": "IRI",
+                    "name": "Sayan CHEGENISHARAFI"
+                }
+            ]
+        ],
+        "final_winner": "Azhar ISAEVA"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "AUS",
+                    "name": "Saskia BROTHERS"
+                },
+                {
+                    "country": "IND",
+                    "name": "Unnati SHARMA"
+                },
+                {
+                    "winner": "Unnati SHARMA"
+                }
+            ],
+            [
+                {
+                    "country": "IRI",
+                    "name": "Sayan CHEGENISHARAFI"
+                }
+            ],
+            [
+                {
+                    "country": "IND",
+                    "name": "Unnati SHARMA"
+                },
+                {
+                    "country": "KAZ",
+                    "name": "Alena CHUSSOVITINA"
+                },
+                {
+                    "winner": "Unnati SHARMA"
+                }
+            ],
+            [
+                {
+                    "country": "IRI",
+                    "name": "Sayan CHEGENISHARAFI"
+                },
+                {
+                    "country": "TPE",
+                    "name": "Ruo-Ting LAI"
+                },
+                {
+                    "winner": "Ruo-Ting LAI"
+                }
+            ],
+            [
+                {
+                    "country": "IND",
+                    "name": "Unnati SHARMA"
+                }
+            ],
+            [
+                {
+                    "country": "TPE",
+                    "name": "Ruo-Ting LAI"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Unnati SHARMA",
+            "Ruo-Ting LAI"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "KOR",
+                    "name": "Euna KIM"
+                },
+                {
+                    "country": "TPE",
+                    "name": "Ruo-Ting LAI"
+                },
+                {
+                    "winner": "Euna KIM"
+                }
+            ],
+            [
+                {
+                    "country": "KAZ",
+                    "name": "Alena CHUSSOVITINA"
+                },
+                {
+                    "country": "KGZ",
+                    "name": "Azhar ISAEVA"
+                },
+                {
+                    "winner": "Azhar ISAEVA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "KOR",
+                    "name": "Euna KIM"
+                },
+                {
+                    "country": "KGZ",
+                    "name": "Azhar ISAEVA"
+                }
+            ]
+        ],
+        "final_winner": "Euna KIM"
+    }
+}

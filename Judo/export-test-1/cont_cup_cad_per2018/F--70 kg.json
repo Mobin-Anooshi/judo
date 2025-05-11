@@ -1,0 +1,227 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ECU",
+                    "name": "Edith ORTIZ"
+                },
+                {
+                    "winner": "Edith ORTIZ"
+                }
+            ],
+            []
+        ],
+        "round 1-1": [],
+        "final_winner": "Edith ORTIZ"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CHI",
+                    "name": "Elizabeth SEGURA"
+                },
+                {
+                    "winner": "Elizabeth SEGURA"
+                }
+            ],
+            [
+                {
+                    "country": "PER",
+                    "name": "Hanne ZAPATA VELASQUEZ"
+                },
+                {
+                    "winner": "Hanne ZAPATA VELASQUEZ"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "CHI",
+                    "name": "Elizabeth SEGURA"
+                },
+                {
+                    "country": "PER",
+                    "name": "Hanne ZAPATA VELASQUEZ"
+                }
+            ]
+        ],
+        "final_winner": "Elizabeth SEGURA"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "VEN",
+                    "name": "Eliana AGUIAR"
+                },
+                {
+                    "winner": "Eliana AGUIAR"
+                }
+            ],
+            []
+        ],
+        "round 1-1": [],
+        "final_winner": "Eliana AGUIAR"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CRC",
+                    "name": "Nicole GARITA"
+                },
+                {
+                    "winner": "Nicole GARITA"
+                }
+            ],
+            [
+                {
+                    "country": "PER",
+                    "name": "Amorelia MANTILLA GUTIERREZ"
+                },
+                {
+                    "winner": "Amorelia MANTILLA GUTIERREZ"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "CRC",
+                    "name": "Nicole GARITA"
+                },
+                {
+                    "country": "PER",
+                    "name": "Amorelia MANTILLA GUTIERREZ"
+                }
+            ]
+        ],
+        "final_winner": "Nicole GARITA"
+    },
+    "REPECHAGE": {
+        "round 1-4": [
+            [],
+            [
+                {
+                    "country": "PER",
+                    "name": "Hanne ZAPATA VELASQUEZ"
+                },
+                {
+                    "winner": "Hanne ZAPATA VELASQUEZ"
+                }
+            ],
+            [],
+            [
+                {
+                    "country": "PER",
+                    "name": "Amorelia MANTILLA GUTIERREZ"
+                },
+                {
+                    "winner": "Amorelia MANTILLA GUTIERREZ"
+                }
+            ]
+        ],
+        "round 1-2": [
+            [
+                {
+                    "country": "PER",
+                    "name": "Hanne ZAPATA VELASQUEZ"
+                }
+            ],
+            [
+                {
+                    "country": "PER",
+                    "name": "Amorelia MANTILLA GUTIERREZ"
+                }
+            ],
+            [
+                {
+                    "country": "PER",
+                    "name": "Hanne ZAPATA VELASQUEZ"
+                },
+                {
+                    "country": "CRC",
+                    "name": "Nicole GARITA"
+                },
+                {
+                    "winner": "Nicole GARITA"
+                }
+            ],
+            [
+                {
+                    "country": "PER",
+                    "name": "Amorelia MANTILLA GUTIERREZ"
+                },
+                {
+                    "country": "CHI",
+                    "name": "Elizabeth SEGURA"
+                },
+                {
+                    "winner": "Elizabeth SEGURA"
+                }
+            ],
+            [
+                {
+                    "country": "CRC",
+                    "name": "Nicole GARITA"
+                }
+            ],
+            [
+                {
+                    "country": "CHI",
+                    "name": "Elizabeth SEGURA"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Nicole GARITA",
+            "Elizabeth SEGURA"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ECU",
+                    "name": "Edith ORTIZ"
+                },
+                {
+                    "country": "CHI",
+                    "name": "Elizabeth SEGURA"
+                },
+                {
+                    "winner": "Edith ORTIZ"
+                }
+            ],
+            [
+                {
+                    "country": "VEN",
+                    "name": "Eliana AGUIAR"
+                },
+                {
+                    "country": "CRC",
+                    "name": "Nicole GARITA"
+                },
+                {
+                    "winner": "Eliana AGUIAR"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "ECU",
+                    "name": "Edith ORTIZ"
+                },
+                {
+                    "country": "VEN",
+                    "name": "Eliana AGUIAR"
+                }
+            ]
+        ],
+        "final_winner": "Eliana AGUIAR"
+    }
+}

@@ -1,0 +1,295 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "NED",
+                    "name": "Suzanne ZEGERS"
+                },
+                {
+                    "winner": "Suzanne ZEGERS"
+                }
+            ],
+            [
+                {
+                    "country": "MRI",
+                    "name": "Priscilla MORAND"
+                },
+                {
+                    "winner": "Priscilla MORAND"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "NED",
+                    "name": "Suzanne ZEGERS"
+                },
+                {
+                    "country": "MRI",
+                    "name": "Priscilla MORAND"
+                }
+            ]
+        ],
+        "final_winner": "Priscilla MORAND"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "SRB",
+                    "name": "Andrea STOJADINOV"
+                },
+                {
+                    "winner": "Andrea STOJADINOV"
+                }
+            ],
+            [
+                {
+                    "country": "BUL",
+                    "name": "Tsvetelina TSVETANOVA"
+                },
+                {
+                    "winner": "Tsvetelina TSVETANOVA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "SRB",
+                    "name": "Andrea STOJADINOV"
+                },
+                {
+                    "country": "BUL",
+                    "name": "Tsvetelina TSVETANOVA"
+                }
+            ]
+        ],
+        "final_winner": "Andrea STOJADINOV"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CRO",
+                    "name": "Sara MATIJEVIC"
+                },
+                {
+                    "winner": "Sara MATIJEVIC"
+                }
+            ],
+            [
+                {
+                    "country": "ROU",
+                    "name": "Krisztina TATAR"
+                },
+                {
+                    "winner": "Krisztina TATAR"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "CRO",
+                    "name": "Sara MATIJEVIC"
+                },
+                {
+                    "country": "ROU",
+                    "name": "Krisztina TATAR"
+                }
+            ]
+        ],
+        "final_winner": "Sara MATIJEVIC"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CMR",
+                    "name": "Philomene BATA"
+                },
+                {
+                    "winner": "Philomene BATA"
+                }
+            ],
+            [
+                {
+                    "country": "BUL",
+                    "name": "Natali SOSEROVA"
+                },
+                {
+                    "winner": "Natali SOSEROVA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "CMR",
+                    "name": "Philomene BATA"
+                },
+                {
+                    "country": "BUL",
+                    "name": "Natali SOSEROVA"
+                }
+            ]
+        ],
+        "final_winner": "Philomene BATA"
+    },
+    "REPECHAGE": {
+        "round 1-4": [
+            [
+                {
+                    "country": "NED",
+                    "name": "Suzanne ZEGERS"
+                },
+                {
+                    "winner": "Suzanne ZEGERS"
+                }
+            ],
+            [
+                {
+                    "country": "BUL",
+                    "name": "Tsvetelina TSVETANOVA"
+                },
+                {
+                    "winner": "Tsvetelina TSVETANOVA"
+                }
+            ],
+            [
+                {
+                    "country": "ROU",
+                    "name": "Krisztina TATAR"
+                },
+                {
+                    "winner": "Krisztina TATAR"
+                }
+            ],
+            [
+                {
+                    "country": "BUL",
+                    "name": "Natali SOSEROVA"
+                },
+                {
+                    "winner": "Natali SOSEROVA"
+                }
+            ]
+        ],
+        "round 1-2": [
+            [
+                {
+                    "country": "NED",
+                    "name": "Suzanne ZEGERS"
+                },
+                {
+                    "country": "BUL",
+                    "name": "Tsvetelina TSVETANOVA"
+                },
+                {
+                    "winner": "Suzanne ZEGERS"
+                }
+            ],
+            [
+                {
+                    "country": "ROU",
+                    "name": "Krisztina TATAR"
+                },
+                {
+                    "country": "BUL",
+                    "name": "Natali SOSEROVA"
+                },
+                {
+                    "winner": "Krisztina TATAR"
+                }
+            ],
+            [
+                {
+                    "country": "NED",
+                    "name": "Suzanne ZEGERS"
+                },
+                {
+                    "country": "CMR",
+                    "name": "Philomene BATA"
+                },
+                {
+                    "winner": "Philomene BATA"
+                }
+            ],
+            [
+                {
+                    "country": "ROU",
+                    "name": "Krisztina TATAR"
+                },
+                {
+                    "country": "SRB",
+                    "name": "Andrea STOJADINOV"
+                },
+                {
+                    "winner": "Andrea STOJADINOV"
+                }
+            ],
+            [
+                {
+                    "country": "CMR",
+                    "name": "Philomene BATA"
+                }
+            ],
+            [
+                {
+                    "country": "SRB",
+                    "name": "Andrea STOJADINOV"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Philomene BATA",
+            "Andrea STOJADINOV"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "MRI",
+                    "name": "Priscilla MORAND"
+                },
+                {
+                    "country": "SRB",
+                    "name": "Andrea STOJADINOV"
+                },
+                {
+                    "winner": "Priscilla MORAND"
+                }
+            ],
+            [
+                {
+                    "country": "CRO",
+                    "name": "Sara MATIJEVIC"
+                },
+                {
+                    "country": "CMR",
+                    "name": "Philomene BATA"
+                },
+                {
+                    "winner": "Sara MATIJEVIC"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "MRI",
+                    "name": "Priscilla MORAND"
+                },
+                {
+                    "country": "CRO",
+                    "name": "Sara MATIJEVIC"
+                }
+            ]
+        ],
+        "final_winner": "Priscilla MORAND"
+    }
+}

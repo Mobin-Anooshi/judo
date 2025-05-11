@@ -1,0 +1,225 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "TPE",
+                    "name": "Chun Te LIEN"
+                },
+                {
+                    "winner": "Chun Te LIEN"
+                }
+            ],
+            []
+        ],
+        "round 1-1": [],
+        "final_winner": "Chun Te LIEN"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "JPN",
+                    "name": "Teppei SAIGANJI"
+                },
+                {
+                    "winner": "Teppei SAIGANJI"
+                }
+            ],
+            [
+                {
+                    "country": "CHN",
+                    "name": "Chang Wen ZHANG"
+                },
+                {
+                    "winner": "Chang Wen ZHANG"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "JPN",
+                    "name": "Teppei SAIGANJI"
+                },
+                {
+                    "country": "CHN",
+                    "name": "Chang Wen ZHANG"
+                }
+            ]
+        ],
+        "final_winner": "Teppei SAIGANJI"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "TPE",
+                    "name": "Chi-shao-chun JHENG"
+                },
+                {
+                    "winner": "Chi-shao-chun JHENG"
+                }
+            ],
+            [
+                {
+                    "country": "CHN",
+                    "name": "Jun Yu PU"
+                },
+                {
+                    "winner": "Jun Yu PU"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "TPE",
+                    "name": "Chi-shao-chun JHENG"
+                },
+                {
+                    "country": "CHN",
+                    "name": "Jun Yu PU"
+                }
+            ]
+        ],
+        "final_winner": "Chi-shao-chun JHENG"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "TPE",
+                    "name": "Wel-chlng WANG-CHLN"
+                },
+                {
+                    "winner": "Wel-chlng WANG-CHLN"
+                }
+            ],
+            [
+                {
+                    "country": "HKG",
+                    "name": "Kong kin tristen taylor CHOW"
+                },
+                {
+                    "winner": "Kong kin tristen taylor CHOW"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "TPE",
+                    "name": "Wel-chlng WANG-CHLN"
+                },
+                {
+                    "country": "HKG",
+                    "name": "Kong kin tristen taylor CHOW"
+                }
+            ]
+        ],
+        "final_winner": "Wel-chlng WANG-CHLN"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CHN",
+                    "name": "Chang Wen ZHANG"
+                }
+            ],
+            [
+                {
+                    "country": "CHN",
+                    "name": "Jun Yu PU"
+                },
+                {
+                    "country": "HKG",
+                    "name": "Kong kin tristen taylor CHOW"
+                },
+                {
+                    "winner": "Jun Yu PU"
+                }
+            ],
+            [
+                {
+                    "country": "CHN",
+                    "name": "Chang Wen ZHANG"
+                },
+                {
+                    "country": "TPE",
+                    "name": "Chi-shao-chun JHENG"
+                },
+                {
+                    "winner": "Chang Wen ZHANG"
+                }
+            ],
+            [
+                {
+                    "country": "CHN",
+                    "name": "Jun Yu PU"
+                },
+                {
+                    "country": "TPE",
+                    "name": "Chun Te LIEN"
+                },
+                {
+                    "winner": "Chun Te LIEN"
+                }
+            ],
+            [
+                {
+                    "country": "TPE",
+                    "name": "Chun Te LIEN"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Jun Yu PU",
+            "Chang Wen ZHANG"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "TPE",
+                    "name": "Chun Te LIEN"
+                },
+                {
+                    "country": "JPN",
+                    "name": "Teppei SAIGANJI"
+                },
+                {
+                    "winner": "Teppei SAIGANJI"
+                }
+            ],
+            [
+                {
+                    "country": "TPE",
+                    "name": "Chi-shao-chun JHENG"
+                },
+                {
+                    "country": "TPE",
+                    "name": "Wel-chlng WANG-CHLN"
+                },
+                {
+                    "winner": "Wel-chlng WANG-CHLN"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "JPN",
+                    "name": "Teppei SAIGANJI"
+                },
+                {
+                    "country": "TPE",
+                    "name": "Wel-chlng WANG-CHLN"
+                }
+            ]
+        ],
+        "final_winner": "Teppei SAIGANJI"
+    }
+}

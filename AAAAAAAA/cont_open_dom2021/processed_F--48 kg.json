@@ -1,0 +1,135 @@
+{
+    "POOL A": {
+        "round 1-1": [],
+        "final_winner": "Priscilla MORAND"
+    },
+    "POOL B": {
+        "round 1-1": [
+            [
+                {
+                    "country": "ESP",
+                    "name": "Carla MONTANEZ PEIROT"
+                },
+                {
+                    "country": "DOM",
+                    "name": "Angela AGUASANTA"
+                }
+            ]
+        ],
+        "final_winner": "Carla MONTANEZ PEIROT"
+    },
+    "POOL C": {
+        "round 1-1": [],
+        "final_winner": "Estefania SORIANO"
+    },
+    "POOL D": {
+        "round 1-1": [
+            [
+                {
+                    "country": "GUA",
+                    "name": "Jacqueline SOLIS"
+                },
+                {
+                    "country": "DOM",
+                    "name": "Liliana GUERRERO"
+                }
+            ]
+        ],
+        "final_winner": "Jacqueline SOLIS"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "DOM",
+                    "name": "Angela AGUASANTA"
+                }
+            ],
+            [
+                {
+                    "country": "DOM",
+                    "name": "Liliana GUERRERO"
+                }
+            ],
+            [
+                {
+                    "country": "DOM",
+                    "name": "Angela AGUASANTA"
+                },
+                {
+                    "country": "DOM",
+                    "name": "Estefania SORIANO"
+                },
+                {
+                    "winner": "Angela AGUASANTA"
+                }
+            ],
+            [
+                {
+                    "country": "DOM",
+                    "name": "Liliana GUERRERO"
+                },
+                {
+                    "country": "ESP",
+                    "name": "Carla MONTANEZ PEIROT"
+                },
+                {
+                    "winner": "Carla MONTANEZ PEIROT"
+                }
+            ],
+            [
+                {
+                    "country": "ESP",
+                    "name": "Carla MONTANEZ PEIROT"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Liliana GUERRERO",
+            "Angela AGUASANTA"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "MRI",
+                    "name": "Priscilla MORAND"
+                },
+                {
+                    "country": "ESP",
+                    "name": "Carla MONTANEZ PEIROT"
+                },
+                {
+                    "winner": "Priscilla MORAND"
+                }
+            ],
+            [
+                {
+                    "country": "DOM",
+                    "name": "Estefania SORIANO"
+                },
+                {
+                    "country": "GUA",
+                    "name": "Jacqueline SOLIS"
+                },
+                {
+                    "winner": "Jacqueline SOLIS"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "MRI",
+                    "name": "Priscilla MORAND"
+                },
+                {
+                    "country": "GUA",
+                    "name": "Jacqueline SOLIS"
+                }
+            ]
+        ],
+        "final_winner": "Jacqueline SOLIS"
+    }
+}

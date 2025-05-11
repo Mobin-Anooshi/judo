@@ -1,0 +1,238 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "AZE",
+                    "name": "Ibrahim AGHAKISHIYEV"
+                },
+                {
+                    "winner": "Ibrahim AGHAKISHIYEV"
+                }
+            ],
+            []
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "AZE",
+                    "name": "Ibrahim AGHAKISHIYEV"
+                }
+            ]
+        ]
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "MAR",
+                    "name": "Anwar ZRHARI"
+                },
+                {
+                    "winner": "Anwar ZRHARI"
+                }
+            ],
+            [
+                {
+                    "country": "ALG",
+                    "name": "Ahmed REBAHI"
+                },
+                {
+                    "winner": "Ahmed REBAHI"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "MAR",
+                    "name": "Anwar ZRHARI"
+                },
+                {
+                    "country": "ALG",
+                    "name": "Ahmed REBAHI"
+                }
+            ],
+            [
+                {
+                    "country": "ALG",
+                    "name": "Ahmed REBAHI"
+                }
+            ]
+        ]
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CZE",
+                    "name": "Martin BEZDEK"
+                },
+                {
+                    "winner": "Martin BEZDEK"
+                }
+            ],
+            []
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "CZE",
+                    "name": "Martin BEZDEK"
+                }
+            ]
+        ]
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "TUN",
+                    "name": "Koussay BEN GHARES"
+                },
+                {
+                    "winner": "Koussay BEN GHARES"
+                }
+            ],
+            [
+                {
+                    "country": "MAR",
+                    "name": "Yassine EL ATAOUI"
+                },
+                {
+                    "winner": "Yassine EL ATAOUI"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "TUN",
+                    "name": "Koussay BEN GHARES"
+                },
+                {
+                    "country": "MAR",
+                    "name": "Yassine EL ATAOUI"
+                }
+            ],
+            [
+                {
+                    "country": "TUN",
+                    "name": "Koussay BEN GHARES"
+                }
+            ]
+        ]
+    },
+    "REPECHAGE": {
+        "round 1-4": [
+            [],
+            [
+                {
+                    "country": "MAR",
+                    "name": "Anwar ZRHARI"
+                },
+                {
+                    "winner": "Anwar ZRHARI"
+                }
+            ],
+            [],
+            [
+                {
+                    "country": "MAR",
+                    "name": "Yassine EL ATAOUI"
+                },
+                {
+                    "winner": "Yassine EL ATAOUI"
+                }
+            ]
+        ],
+        "round 1-2": [
+            [
+                {
+                    "country": "MAR",
+                    "name": "Anwar ZRHARI"
+                }
+            ],
+            [
+                {
+                    "country": "MAR",
+                    "name": "Yassine EL ATAOUI"
+                }
+            ],
+            [
+                {
+                    "country": "MAR",
+                    "name": "Anwar ZRHARI"
+                },
+                {
+                    "country": "TUN",
+                    "name": "Koussay BEN GHARES"
+                }
+            ],
+            [
+                {
+                    "country": "MAR",
+                    "name": "Yassine EL ATAOUI"
+                },
+                {
+                    "country": "ALG",
+                    "name": "Ahmed REBAHI"
+                }
+            ],
+            [
+                {
+                    "country": "ALG",
+                    "name": "Ahmed REBAHI"
+                }
+            ]
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "AZE",
+                    "name": "Ibrahim AGHAKISHIYEV"
+                },
+                {
+                    "country": "ALG",
+                    "name": "Ahmed REBAHI"
+                },
+                {
+                    "winner": "Ibrahim AGHAKISHIYEV"
+                }
+            ],
+            [
+                {
+                    "country": "CZE",
+                    "name": "Martin BEZDEK"
+                },
+                {
+                    "country": "TUN",
+                    "name": "Koussay BEN GHARES"
+                },
+                {
+                    "winner": "Martin BEZDEK"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "AZE",
+                    "name": "Ibrahim AGHAKISHIYEV"
+                },
+                {
+                    "country": "CZE",
+                    "name": "Martin BEZDEK"
+                }
+            ],
+            [
+                {
+                    "country": "CZE",
+                    "name": "Martin BEZDEK"
+                }
+            ]
+        ]
+    }
+}

@@ -1,0 +1,87 @@
+{
+    "POOL A": {
+        "round 1-3": [
+            [
+                {
+                    "country": "ITA",
+                    "name": "Elisa MARCHIO"
+                },
+                {
+                    "country": "GBR",
+                    "name": "Michelle BOYLE"
+                },
+                {
+                    "winner": "Elisa MARCHIO"
+                }
+            ],
+            [
+                {
+                    "country": "ITA",
+                    "name": "Elisa MARCHIO"
+                },
+                {
+                    "country": "BRA",
+                    "name": "Victoria ARCHINA"
+                },
+                {
+                    "winner": "Victoria ARCHINA"
+                }
+            ],
+            [
+                {
+                    "country": "GBR",
+                    "name": "Michelle BOYLE"
+                },
+                {
+                    "country": "BRA",
+                    "name": "Victoria ARCHINA"
+                },
+                {
+                    "winner": "Victoria ARCHINA"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Elisa MARCHIO",
+            "Victoria ARCHINA"
+        ]
+    },
+    "POOL B": {
+        "round 1-1": [],
+        "final_winners": [
+            "Camila YAMAKAWA"
+        ]
+    },
+    "REPECHAGE": {
+        "round 1-1": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Victoria ARCHINA"
+                },
+                {
+                    "country": "GBR",
+                    "name": "Jodie MYERS"
+                },
+                {
+                    "winner": "Jodie MYERS"
+                }
+            ],
+            [
+                {
+                    "country": "GBR",
+                    "name": "Jodie MYERS"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Jodie MYERS"
+        ]
+    },
+    "FINALS": {
+        "round 1-1": [],
+        "final_winners": [
+            "Elisa MARCHIO"
+        ]
+    }
+}

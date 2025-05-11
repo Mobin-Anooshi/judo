@@ -1,0 +1,221 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CRO",
+                    "name": "Tena SIKIC"
+                },
+                {
+                    "winner": "Tena SIKIC"
+                }
+            ],
+            []
+        ],
+        "round 1-1": [],
+        "final_winner": "Tena SIKIC"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "SRB",
+                    "name": "Marica PERISIC"
+                },
+                {
+                    "winner": "Marica PERISIC"
+                }
+            ],
+            [
+                {
+                    "country": "ITA",
+                    "name": "Veronica TONIOLO"
+                },
+                {
+                    "winner": "Veronica TONIOLO"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "SRB",
+                    "name": "Marica PERISIC"
+                },
+                {
+                    "country": "ITA",
+                    "name": "Veronica TONIOLO"
+                }
+            ]
+        ],
+        "final_winner": "Veronica TONIOLO"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "KOS",
+                    "name": "Flaka LOXHA"
+                },
+                {
+                    "winner": "Flaka LOXHA"
+                }
+            ],
+            [
+                {
+                    "country": "SRB",
+                    "name": "Teodora COPIC"
+                },
+                {
+                    "winner": "Teodora COPIC"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "KOS",
+                    "name": "Flaka LOXHA"
+                },
+                {
+                    "country": "SRB",
+                    "name": "Teodora COPIC"
+                }
+            ]
+        ],
+        "final_winner": "Flaka LOXHA"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [],
+            [
+                {
+                    "country": "SLO",
+                    "name": "Anna Marie OGRAJENSEK"
+                },
+                {
+                    "winner": "Anna Marie OGRAJENSEK"
+                }
+            ]
+        ],
+        "round 1-1": [],
+        "final_winner": "Anna Marie OGRAJENSEK"
+    },
+    "REPECHAGE": {
+        "round 1-4": [
+            [],
+            [
+                {
+                    "country": "SRB",
+                    "name": "Marica PERISIC"
+                },
+                {
+                    "winner": "Marica PERISIC"
+                }
+            ],
+            [
+                {
+                    "country": "SRB",
+                    "name": "Teodora COPIC"
+                },
+                {
+                    "winner": "Teodora COPIC"
+                }
+            ],
+            []
+        ],
+        "round 1-2": [
+            [
+                {
+                    "country": "SRB",
+                    "name": "Marica PERISIC"
+                }
+            ],
+            [
+                {
+                    "country": "SRB",
+                    "name": "Teodora COPIC"
+                }
+            ],
+            [
+                {
+                    "country": "SRB",
+                    "name": "Marica PERISIC"
+                },
+                {
+                    "country": "SLO",
+                    "name": "Anna Marie OGRAJENSEK"
+                },
+                {
+                    "winner": "Marica PERISIC"
+                }
+            ],
+            [
+                {
+                    "country": "SRB",
+                    "name": "Teodora COPIC"
+                },
+                {
+                    "country": "CRO",
+                    "name": "Tena SIKIC"
+                },
+                {
+                    "winner": "Tena SIKIC"
+                }
+            ],
+            [
+                {
+                    "country": "CRO",
+                    "name": "Tena SIKIC"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Teodora COPIC",
+            "Marica PERISIC"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CRO",
+                    "name": "Tena SIKIC"
+                },
+                {
+                    "country": "ITA",
+                    "name": "Veronica TONIOLO"
+                },
+                {
+                    "winner": "Veronica TONIOLO"
+                }
+            ],
+            [
+                {
+                    "country": "KOS",
+                    "name": "Flaka LOXHA"
+                },
+                {
+                    "country": "SLO",
+                    "name": "Anna Marie OGRAJENSEK"
+                },
+                {
+                    "winner": "Flaka LOXHA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "ITA",
+                    "name": "Veronica TONIOLO"
+                },
+                {
+                    "country": "KOS",
+                    "name": "Flaka LOXHA"
+                }
+            ]
+        ],
+        "final_winner": "Veronica TONIOLO"
+    }
+}

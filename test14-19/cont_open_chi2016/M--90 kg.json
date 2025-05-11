@@ -1,0 +1,222 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "FRA",
+                    "name": "Ludovic GOBERT"
+                },
+                {
+                    "winner": "Ludovic GOBERT"
+                }
+            ],
+            []
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "FRA",
+                    "name": "Ludovic GOBERT"
+                }
+            ]
+        ]
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "POR",
+                    "name": "Tiago RODRIGUES"
+                },
+                {
+                    "winner": "Tiago RODRIGUES"
+                }
+            ],
+            [
+                {
+                    "country": "CHI",
+                    "name": "David CORTES"
+                },
+                {
+                    "winner": "David CORTES"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "POR",
+                    "name": "Tiago RODRIGUES"
+                },
+                {
+                    "country": "CHI",
+                    "name": "David CORTES"
+                }
+            ],
+            [
+                {
+                    "country": "POR",
+                    "name": "Tiago RODRIGUES"
+                }
+            ]
+        ]
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CHI",
+                    "name": "Thomas BRICENO"
+                },
+                {
+                    "winner": "Thomas BRICENO"
+                }
+            ],
+            []
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "CHI",
+                    "name": "Thomas BRICENO"
+                }
+            ]
+        ]
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CHI",
+                    "name": "Rafael ROMO"
+                },
+                {
+                    "winner": "Rafael ROMO"
+                }
+            ],
+            [
+                {
+                    "country": "FRA",
+                    "name": "Alexis PLANTARD GNORRA"
+                },
+                {
+                    "winner": "Alexis PLANTARD GNORRA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "CHI",
+                    "name": "Rafael ROMO"
+                },
+                {
+                    "country": "FRA",
+                    "name": "Alexis PLANTARD GNORRA"
+                }
+            ],
+            [
+                {
+                    "country": "CHI",
+                    "name": "Rafael ROMO"
+                }
+            ]
+        ]
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CHI",
+                    "name": "David CORTES"
+                }
+            ],
+            [
+                {
+                    "country": "FRA",
+                    "name": "Alexis PLANTARD GNORRA"
+                }
+            ],
+            [
+                {
+                    "country": "CHI",
+                    "name": "David CORTES"
+                },
+                {
+                    "country": "CHI",
+                    "name": "Rafael ROMO"
+                }
+            ],
+            [
+                {
+                    "country": "FRA",
+                    "name": "Alexis PLANTARD GNORRA"
+                },
+                {
+                    "country": "POR",
+                    "name": "Tiago RODRIGUES"
+                }
+            ],
+            [
+                {
+                    "country": "CHI",
+                    "name": "Rafael ROMO"
+                }
+            ],
+            [
+                {
+                    "country": "POR",
+                    "name": "Tiago RODRIGUES"
+                }
+            ]
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "FRA",
+                    "name": "Ludovic GOBERT"
+                },
+                {
+                    "country": "POR",
+                    "name": "Tiago RODRIGUES"
+                },
+                {
+                    "winner": "Ludovic GOBERT"
+                }
+            ],
+            [
+                {
+                    "country": "CHI",
+                    "name": "Thomas BRICENO"
+                },
+                {
+                    "country": "CHI",
+                    "name": "Rafael ROMO"
+                },
+                {
+                    "winner": "Thomas BRICENO"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "FRA",
+                    "name": "Ludovic GOBERT"
+                },
+                {
+                    "country": "CHI",
+                    "name": "Thomas BRICENO"
+                }
+            ],
+            [
+                {
+                    "country": "FRA",
+                    "name": "Ludovic GOBERT"
+                }
+            ]
+        ]
+    }
+}

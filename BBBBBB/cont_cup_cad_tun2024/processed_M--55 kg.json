@@ -1,0 +1,277 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "MAR",
+                    "name": "Aniss IJIOUI"
+                },
+                {
+                    "winner": "Aniss IJIOUI"
+                }
+            ],
+            [
+                {
+                    "country": "TUN",
+                    "name": "Youssef ZEDINI"
+                },
+                {
+                    "country": "ALG",
+                    "name": "Mohamed Amine DEGOUAH"
+                },
+                {
+                    "winner": "Mohamed Amine DEGOUAH"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "MAR",
+                    "name": "Aniss IJIOUI"
+                },
+                {
+                    "country": "ALG",
+                    "name": "Mohamed Amine DEGOUAH"
+                }
+            ]
+        ],
+        "final_winner": "Aniss IJIOUI"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "MAR",
+                    "name": "Ahmed Amine AFIFI"
+                },
+                {
+                    "country": "ALG",
+                    "name": "Mohamed Billel BENKHAMOU"
+                },
+                {
+                    "winner": "Mohamed Billel BENKHAMOU"
+                }
+            ],
+            [
+                {
+                    "country": "TUN",
+                    "name": "Rayen LAADHAR"
+                },
+                {
+                    "country": "KSA",
+                    "name": "Saleh ALNAZZAL"
+                },
+                {
+                    "winner": "Rayen LAADHAR"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "ALG",
+                    "name": "Mohamed Billel BENKHAMOU"
+                },
+                {
+                    "country": "TUN",
+                    "name": "Rayen LAADHAR"
+                }
+            ]
+        ],
+        "final_winner": "Mohamed Billel BENKHAMOU"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ALG",
+                    "name": "Issam Eddine DENNI"
+                },
+                {
+                    "country": "LTU",
+                    "name": "Rokas MAKULAVICIUS"
+                },
+                {
+                    "winner": "Rokas MAKULAVICIUS"
+                }
+            ],
+            [
+                {
+                    "country": "ALG",
+                    "name": "Adam AKIF"
+                },
+                {
+                    "winner": "Adam AKIF"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "LTU",
+                    "name": "Rokas MAKULAVICIUS"
+                },
+                {
+                    "country": "ALG",
+                    "name": "Adam AKIF"
+                }
+            ]
+        ],
+        "final_winner": "Rokas MAKULAVICIUS"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ALG",
+                    "name": "Mohamed FETTACHE"
+                },
+                {
+                    "country": "MAR",
+                    "name": "Zakaria KOUJ"
+                },
+                {
+                    "winner": "Mohamed FETTACHE"
+                }
+            ],
+            [
+                {
+                    "country": "TUN",
+                    "name": "Majdi AMRI"
+                },
+                {
+                    "winner": "Majdi AMRI"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "ALG",
+                    "name": "Mohamed FETTACHE"
+                },
+                {
+                    "country": "TUN",
+                    "name": "Majdi AMRI"
+                }
+            ]
+        ],
+        "final_winner": "Mohamed FETTACHE"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ALG",
+                    "name": "Mohamed Amine DEGOUAH"
+                },
+                {
+                    "country": "TUN",
+                    "name": "Rayen LAADHAR"
+                },
+                {
+                    "winner": "Mohamed Amine DEGOUAH"
+                }
+            ],
+            [
+                {
+                    "country": "ALG",
+                    "name": "Adam AKIF"
+                },
+                {
+                    "country": "TUN",
+                    "name": "Majdi AMRI"
+                },
+                {
+                    "winner": "Adam AKIF"
+                }
+            ],
+            [
+                {
+                    "country": "ALG",
+                    "name": "Mohamed Amine DEGOUAH"
+                },
+                {
+                    "country": "ALG",
+                    "name": "Mohamed FETTACHE"
+                },
+                {
+                    "winner": "Mohamed Amine DEGOUAH"
+                }
+            ],
+            [
+                {
+                    "country": "ALG",
+                    "name": "Adam AKIF"
+                },
+                {
+                    "country": "ALG",
+                    "name": "Mohamed Billel BENKHAMOU"
+                },
+                {
+                    "winner": "Mohamed Billel BENKHAMOU"
+                }
+            ],
+            [
+                {
+                    "country": "ALG",
+                    "name": "Mohamed Amine DEGOUAH"
+                }
+            ],
+            [
+                {
+                    "country": "ALG",
+                    "name": "Mohamed Billel BENKHAMOU"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Mohamed Amine DEGOUAH",
+            "Mohamed Billel BENKHAMOU"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "MAR",
+                    "name": "Aniss IJIOUI"
+                },
+                {
+                    "country": "ALG",
+                    "name": "Mohamed Billel BENKHAMOU"
+                },
+                {
+                    "winner": "Aniss IJIOUI"
+                }
+            ],
+            [
+                {
+                    "country": "LTU",
+                    "name": "Rokas MAKULAVICIUS"
+                },
+                {
+                    "country": "ALG",
+                    "name": "Mohamed FETTACHE"
+                },
+                {
+                    "winner": "Rokas MAKULAVICIUS"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "MAR",
+                    "name": "Aniss IJIOUI"
+                },
+                {
+                    "country": "LTU",
+                    "name": "Rokas MAKULAVICIUS"
+                }
+            ]
+        ],
+        "final_winner": "Aniss IJIOUI"
+    }
+}

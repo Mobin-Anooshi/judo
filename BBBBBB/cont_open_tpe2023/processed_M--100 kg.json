@@ -1,0 +1,261 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "KOR",
+                    "name": "Yejun YEO"
+                },
+                {
+                    "winner": "Yejun YEO"
+                }
+            ],
+            [
+                {
+                    "country": "TPE",
+                    "name": "Guan Zhi LU"
+                },
+                {
+                    "winner": "Guan Zhi LU"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "KOR",
+                    "name": "Yejun YEO"
+                },
+                {
+                    "country": "TPE",
+                    "name": "Guan Zhi LU"
+                }
+            ]
+        ],
+        "final_winner": "Yejun YEO"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "JPN",
+                    "name": "Saiki HIRAYAMA"
+                },
+                {
+                    "country": "KOR",
+                    "name": "Dohun KIM"
+                },
+                {
+                    "winner": "Saiki HIRAYAMA"
+                }
+            ],
+            [
+                {
+                    "country": "FRA",
+                    "name": "Jerome LE LOUER"
+                },
+                {
+                    "winner": "Jerome LE LOUER"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "JPN",
+                    "name": "Saiki HIRAYAMA"
+                },
+                {
+                    "country": "FRA",
+                    "name": "Jerome LE LOUER"
+                }
+            ]
+        ],
+        "final_winner": "Saiki HIRAYAMA"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "TPE",
+                    "name": "Chieh-En TSAI"
+                },
+                {
+                    "winner": "Chieh-En TSAI"
+                }
+            ],
+            [
+                {
+                    "country": "KOR",
+                    "name": "Sunghyeon HWANG"
+                },
+                {
+                    "winner": "Sunghyeon HWANG"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "TPE",
+                    "name": "Chieh-En TSAI"
+                },
+                {
+                    "country": "KOR",
+                    "name": "Sunghyeon HWANG"
+                }
+            ]
+        ],
+        "final_winner": "Chieh-En TSAI"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "KOR",
+                    "name": "Jongung HA"
+                },
+                {
+                    "winner": "Jongung HA"
+                }
+            ],
+            [
+                {
+                    "country": "TPE",
+                    "name": "Sheng-Kai LIN"
+                },
+                {
+                    "winner": "Sheng-Kai LIN"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "KOR",
+                    "name": "Jongung HA"
+                },
+                {
+                    "country": "TPE",
+                    "name": "Sheng-Kai LIN"
+                }
+            ]
+        ],
+        "final_winner": "Sheng-Kai LIN"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "TPE",
+                    "name": "Guan Zhi LU"
+                },
+                {
+                    "country": "FRA",
+                    "name": "Jerome LE LOUER"
+                },
+                {
+                    "winner": "Guan Zhi LU"
+                }
+            ],
+            [
+                {
+                    "country": "KOR",
+                    "name": "Sunghyeon HWANG"
+                },
+                {
+                    "country": "KOR",
+                    "name": "Jongung HA"
+                },
+                {
+                    "winner": "Jongung HA"
+                }
+            ],
+            [
+                {
+                    "country": "TPE",
+                    "name": "Guan Zhi LU"
+                },
+                {
+                    "country": "TPE",
+                    "name": "Chieh-En TSAI"
+                },
+                {
+                    "winner": "Guan Zhi LU"
+                }
+            ],
+            [
+                {
+                    "country": "KOR",
+                    "name": "Jongung HA"
+                },
+                {
+                    "country": "KOR",
+                    "name": "Yejun YEO"
+                },
+                {
+                    "winner": "Jongung HA"
+                }
+            ],
+            [
+                {
+                    "country": "TPE",
+                    "name": "Guan Zhi LU"
+                }
+            ],
+            [
+                {
+                    "country": "KOR",
+                    "name": "Jongung HA"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Guan Zhi LU",
+            "Jongung HA"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "KOR",
+                    "name": "Yejun YEO"
+                },
+                {
+                    "country": "JPN",
+                    "name": "Saiki HIRAYAMA"
+                },
+                {
+                    "winner": "Saiki HIRAYAMA"
+                }
+            ],
+            [
+                {
+                    "country": "TPE",
+                    "name": "Chieh-En TSAI"
+                },
+                {
+                    "country": "TPE",
+                    "name": "Sheng-Kai LIN"
+                },
+                {
+                    "winner": "Sheng-Kai LIN"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "JPN",
+                    "name": "Saiki HIRAYAMA"
+                },
+                {
+                    "country": "TPE",
+                    "name": "Sheng-Kai LIN"
+                }
+            ]
+        ],
+        "final_winner": "Saiki HIRAYAMA"
+    }
+}

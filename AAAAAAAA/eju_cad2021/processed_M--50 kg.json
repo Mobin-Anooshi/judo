@@ -1,0 +1,343 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "FRA",
+                    "name": "Quentin MARTEAU"
+                },
+                {
+                    "country": "TUR",
+                    "name": "Yusuf Can UZUN"
+                },
+                {
+                    "winner": "Quentin MARTEAU"
+                }
+            ],
+            [
+                {
+                    "country": "AZE",
+                    "name": "Babarahim MIRZAYEV"
+                },
+                {
+                    "country": "GRE",
+                    "name": "Konstantinos TSAPARAS"
+                },
+                {
+                    "winner": "Babarahim MIRZAYEV"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "FRA",
+                    "name": "Quentin MARTEAU"
+                },
+                {
+                    "country": "AZE",
+                    "name": "Babarahim MIRZAYEV"
+                }
+            ]
+        ],
+        "final_winner": "Babarahim MIRZAYEV"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "AZE",
+                    "name": "Khayal HASANOV"
+                },
+                {
+                    "country": "MDA",
+                    "name": "Maxim TARAN"
+                },
+                {
+                    "winner": "Khayal HASANOV"
+                }
+            ],
+            [
+                {
+                    "country": "HUN",
+                    "name": "Sebestyen KOLLAR"
+                },
+                {
+                    "country": "BEL",
+                    "name": "Amsar DZHAMALDINOV"
+                },
+                {
+                    "winner": "Sebestyen KOLLAR"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "AZE",
+                    "name": "Khayal HASANOV"
+                },
+                {
+                    "country": "HUN",
+                    "name": "Sebestyen KOLLAR"
+                }
+            ]
+        ],
+        "final_winner": "Khayal HASANOV"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "HUN",
+                    "name": "Agoston KOLLAR"
+                },
+                {
+                    "country": "LTU",
+                    "name": "Rokas SABONIS"
+                },
+                {
+                    "winner": "Agoston KOLLAR"
+                }
+            ],
+            [
+                {
+                    "country": "ROU",
+                    "name": "Antonio NITU"
+                },
+                {
+                    "country": "TUR",
+                    "name": "Mehmet Sahin ERTEM"
+                },
+                {
+                    "winner": "Mehmet Sahin ERTEM"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "HUN",
+                    "name": "Agoston KOLLAR"
+                },
+                {
+                    "country": "TUR",
+                    "name": "Mehmet Sahin ERTEM"
+                }
+            ]
+        ],
+        "final_winner": "Agoston KOLLAR"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "SVK",
+                    "name": "Jozef TOMANEK"
+                },
+                {
+                    "country": "LAT",
+                    "name": "Maksims BULAJEVS"
+                },
+                {
+                    "winner": "Jozef TOMANEK"
+                }
+            ],
+            [
+                {
+                    "country": "RUS",
+                    "name": "Daniil MUSTAFIN"
+                },
+                {
+                    "country": "ISR",
+                    "name": "Noam TACHALOV"
+                },
+                {
+                    "winner": "Daniil MUSTAFIN"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "SVK",
+                    "name": "Jozef TOMANEK"
+                },
+                {
+                    "country": "RUS",
+                    "name": "Daniil MUSTAFIN"
+                }
+            ]
+        ],
+        "final_winner": "Daniil MUSTAFIN"
+    },
+    "REPECHAGE": {
+        "round 1-4": [
+            [
+                {
+                    "country": "GRE",
+                    "name": "Konstantinos TSAPARAS"
+                },
+                {
+                    "country": "FRA",
+                    "name": "Quentin MARTEAU"
+                },
+                {
+                    "winner": "Konstantinos TSAPARAS"
+                }
+            ],
+            [
+                {
+                    "country": "MDA",
+                    "name": "Maxim TARAN"
+                },
+                {
+                    "country": "HUN",
+                    "name": "Sebestyen KOLLAR"
+                },
+                {
+                    "winner": "Sebestyen KOLLAR"
+                }
+            ],
+            [
+                {
+                    "country": "LTU",
+                    "name": "Rokas SABONIS"
+                },
+                {
+                    "country": "TUR",
+                    "name": "Mehmet Sahin ERTEM"
+                },
+                {
+                    "winner": "Mehmet Sahin ERTEM"
+                }
+            ],
+            [
+                {
+                    "country": "ISR",
+                    "name": "Noam TACHALOV"
+                },
+                {
+                    "country": "SVK",
+                    "name": "Jozef TOMANEK"
+                },
+                {
+                    "winner": "Noam TACHALOV"
+                }
+            ]
+        ],
+        "round 1-2": [
+            [
+                {
+                    "country": "GRE",
+                    "name": "Konstantinos TSAPARAS"
+                },
+                {
+                    "country": "HUN",
+                    "name": "Sebestyen KOLLAR"
+                },
+                {
+                    "winner": "Sebestyen KOLLAR"
+                }
+            ],
+            [
+                {
+                    "country": "TUR",
+                    "name": "Mehmet Sahin ERTEM"
+                },
+                {
+                    "country": "ISR",
+                    "name": "Noam TACHALOV"
+                },
+                {
+                    "winner": "Mehmet Sahin ERTEM"
+                }
+            ],
+            [
+                {
+                    "country": "HUN",
+                    "name": "Sebestyen KOLLAR"
+                },
+                {
+                    "country": "HUN",
+                    "name": "Agoston KOLLAR"
+                },
+                {
+                    "winner": "Sebestyen KOLLAR"
+                }
+            ],
+            [
+                {
+                    "country": "TUR",
+                    "name": "Mehmet Sahin ERTEM"
+                },
+                {
+                    "country": "AZE",
+                    "name": "Babarahim MIRZAYEV"
+                },
+                {
+                    "winner": "Babarahim MIRZAYEV"
+                }
+            ],
+            [
+                {
+                    "country": "HUN",
+                    "name": "Sebestyen KOLLAR"
+                }
+            ],
+            [
+                {
+                    "country": "AZE",
+                    "name": "Babarahim MIRZAYEV"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Sebestyen KOLLAR",
+            "Babarahim MIRZAYEV"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "AZE",
+                    "name": "Babarahim MIRZAYEV"
+                },
+                {
+                    "country": "AZE",
+                    "name": "Khayal HASANOV"
+                },
+                {
+                    "winner": "Khayal HASANOV"
+                }
+            ],
+            [
+                {
+                    "country": "HUN",
+                    "name": "Agoston KOLLAR"
+                },
+                {
+                    "country": "RUS",
+                    "name": "Daniil MUSTAFIN"
+                },
+                {
+                    "winner": "Daniil MUSTAFIN"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "AZE",
+                    "name": "Khayal HASANOV"
+                },
+                {
+                    "country": "RUS",
+                    "name": "Daniil MUSTAFIN"
+                }
+            ]
+        ],
+        "final_winner": "Khayal HASANOV"
+    }
+}

@@ -1,0 +1,159 @@
+{
+    "POOL A": {
+        "round 1-1": [],
+        "final_winner": "Sergio DEL SOL"
+    },
+    "POOL B": {
+        "round 1-1": [
+            [
+                {
+                    "country": "DOM",
+                    "name": "Jose NOVA ALCANTARA"
+                },
+                {
+                    "country": "VEN",
+                    "name": "Luis AMEZQUITA"
+                }
+            ]
+        ],
+        "final_winner": "Jose NOVA ALCANTARA"
+    },
+    "POOL C": {
+        "round 1-1": [
+            [
+                {
+                    "country": "CUB",
+                    "name": "Omar CRUZ LEON"
+                },
+                {
+                    "country": "CRC",
+                    "name": "Issac MELENDEZ"
+                }
+            ]
+        ],
+        "final_winner": "Omar CRUZ LEON"
+    },
+    "POOL D": {
+        "round 1-1": [
+            [
+                {
+                    "country": "CHI",
+                    "name": "Francisco SOLIS"
+                },
+                {
+                    "country": "DOM",
+                    "name": "Julio Cesar JAVIER ARIAS"
+                }
+            ]
+        ],
+        "final_winner": "Francisco SOLIS"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "VEN",
+                    "name": "Luis AMEZQUITA"
+                }
+            ],
+            [
+                {
+                    "country": "CRC",
+                    "name": "Issac MELENDEZ"
+                },
+                {
+                    "country": "DOM",
+                    "name": "Julio Cesar JAVIER ARIAS"
+                },
+                {
+                    "winner": "Julio Cesar JAVIER ARIAS"
+                }
+            ],
+            [
+                {
+                    "country": "VEN",
+                    "name": "Luis AMEZQUITA"
+                },
+                {
+                    "country": "CUB",
+                    "name": "Omar CRUZ LEON"
+                },
+                {
+                    "winner": "Omar CRUZ LEON"
+                }
+            ],
+            [
+                {
+                    "country": "DOM",
+                    "name": "Julio Cesar JAVIER ARIAS"
+                },
+                {
+                    "country": "MEX",
+                    "name": "Sergio DEL SOL"
+                },
+                {
+                    "winner": "Sergio DEL SOL"
+                }
+            ],
+            [
+                {
+                    "country": "CUB",
+                    "name": "Omar CRUZ LEON"
+                }
+            ],
+            [
+                {
+                    "country": "MEX",
+                    "name": "Sergio DEL SOL"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Omar CRUZ LEON",
+            "Sergio DEL SOL"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "MEX",
+                    "name": "Sergio DEL SOL"
+                },
+                {
+                    "country": "DOM",
+                    "name": "Jose NOVA ALCANTARA"
+                },
+                {
+                    "winner": "Jose NOVA ALCANTARA"
+                }
+            ],
+            [
+                {
+                    "country": "CUB",
+                    "name": "Omar CRUZ LEON"
+                },
+                {
+                    "country": "CHI",
+                    "name": "Francisco SOLIS"
+                },
+                {
+                    "winner": "Francisco SOLIS"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "DOM",
+                    "name": "Jose NOVA ALCANTARA"
+                },
+                {
+                    "country": "CHI",
+                    "name": "Francisco SOLIS"
+                }
+            ]
+        ],
+        "final_winner": "Jose NOVA ALCANTARA"
+    }
+}

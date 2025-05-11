@@ -1,0 +1,68 @@
+{
+    "ROUND 1": {
+        "round 1-2": [
+            [
+                {
+                    "country": "USA",
+                    "name": "Emily Daniela JASPE"
+                },
+                {
+                    "country": "CRC",
+                    "name": "Noilyn AGUILAR BRAVO"
+                },
+                {
+                    "winner": "Emily Daniela JASPE"
+                }
+            ],
+            [
+                {
+                    "country": "CHI",
+                    "name": "Constanza PEREZ"
+                },
+                {
+                    "country": "USA",
+                    "name": "Mackenzee BUNTON"
+                },
+                {
+                    "winner": "Constanza PEREZ"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Emily Daniela JASPE",
+            "Constanza PEREZ"
+        ]
+    },
+    "REPECHAGE": {
+        "round 1-1": [
+            [
+                {
+                    "country": "CRC",
+                    "name": "Noilyn AGUILAR BRAVO"
+                },
+                {
+                    "country": "USA",
+                    "name": "Mackenzee BUNTON"
+                },
+                {
+                    "winner": "Mackenzee BUNTON"
+                }
+            ],
+            [
+                {
+                    "country": "USA",
+                    "name": "Mackenzee BUNTON"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Mackenzee BUNTON"
+        ]
+    },
+    "FINALS": {
+        "round 1-1": [],
+        "final_winners": [
+            "Constanza PEREZ"
+        ]
+    }
+}

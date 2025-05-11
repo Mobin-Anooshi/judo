@@ -1,0 +1,265 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ARG",
+                    "name": "Paula PARETO"
+                },
+                {
+                    "winner": "Paula PARETO"
+                }
+            ],
+            [
+                {
+                    "country": "PER",
+                    "name": "Lesly CANO"
+                },
+                {
+                    "country": "PUR",
+                    "name": "Paola GARCIA"
+                },
+                {
+                    "winner": "Paola GARCIA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "ARG",
+                    "name": "Paula PARETO"
+                },
+                {
+                    "country": "PUR",
+                    "name": "Paola GARCIA"
+                }
+            ]
+        ],
+        "final_winner": "Paula PARETO"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "USA",
+                    "name": "Summer TRUONG"
+                },
+                {
+                    "winner": "Summer TRUONG"
+                }
+            ],
+            [
+                {
+                    "country": "CHI",
+                    "name": "Mary Dee VARGAS LEY"
+                },
+                {
+                    "winner": "Mary Dee VARGAS LEY"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "USA",
+                    "name": "Summer TRUONG"
+                },
+                {
+                    "country": "CHI",
+                    "name": "Mary Dee VARGAS LEY"
+                }
+            ]
+        ],
+        "final_winner": "Mary Dee VARGAS LEY"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Gabriela CHIBANA"
+                },
+                {
+                    "winner": "Gabriela CHIBANA"
+                }
+            ],
+            [
+                {
+                    "country": "CAN",
+                    "name": "Erin MORGAN"
+                },
+                {
+                    "country": "PER",
+                    "name": "Chrisel HUARACA"
+                },
+                {
+                    "winner": "Erin MORGAN"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Gabriela CHIBANA"
+                },
+                {
+                    "country": "CAN",
+                    "name": "Erin MORGAN"
+                }
+            ]
+        ],
+        "final_winner": "Erin MORGAN"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ARG",
+                    "name": "Keisy PERAFAN"
+                },
+                {
+                    "winner": "Keisy PERAFAN"
+                }
+            ],
+            [
+                {
+                    "country": "USA",
+                    "name": "Anne SUZUKI"
+                },
+                {
+                    "winner": "Anne SUZUKI"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "ARG",
+                    "name": "Keisy PERAFAN"
+                },
+                {
+                    "country": "USA",
+                    "name": "Anne SUZUKI"
+                }
+            ]
+        ],
+        "final_winner": "Keisy PERAFAN"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "PUR",
+                    "name": "Paola GARCIA"
+                },
+                {
+                    "country": "USA",
+                    "name": "Summer TRUONG"
+                },
+                {
+                    "winner": "Paola GARCIA"
+                }
+            ],
+            [
+                {
+                    "country": "BRA",
+                    "name": "Gabriela CHIBANA"
+                },
+                {
+                    "country": "USA",
+                    "name": "Anne SUZUKI"
+                },
+                {
+                    "winner": "Gabriela CHIBANA"
+                }
+            ],
+            [
+                {
+                    "country": "PUR",
+                    "name": "Paola GARCIA"
+                },
+                {
+                    "country": "CAN",
+                    "name": "Erin MORGAN"
+                },
+                {
+                    "winner": "Erin MORGAN"
+                }
+            ],
+            [
+                {
+                    "country": "BRA",
+                    "name": "Gabriela CHIBANA"
+                },
+                {
+                    "country": "CHI",
+                    "name": "Mary Dee VARGAS LEY"
+                },
+                {
+                    "winner": "Gabriela CHIBANA"
+                }
+            ],
+            [
+                {
+                    "country": "CAN",
+                    "name": "Erin MORGAN"
+                }
+            ],
+            [
+                {
+                    "country": "BRA",
+                    "name": "Gabriela CHIBANA"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Erin MORGAN",
+            "Gabriela CHIBANA"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ARG",
+                    "name": "Paula PARETO"
+                },
+                {
+                    "country": "CHI",
+                    "name": "Mary Dee VARGAS LEY"
+                },
+                {
+                    "winner": "Paula PARETO"
+                }
+            ],
+            [
+                {
+                    "country": "CAN",
+                    "name": "Erin MORGAN"
+                },
+                {
+                    "country": "ARG",
+                    "name": "Keisy PERAFAN"
+                },
+                {
+                    "winner": "Keisy PERAFAN"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "ARG",
+                    "name": "Paula PARETO"
+                },
+                {
+                    "country": "ARG",
+                    "name": "Keisy PERAFAN"
+                }
+            ]
+        ],
+        "final_winner": "Paula PARETO"
+    }
+}

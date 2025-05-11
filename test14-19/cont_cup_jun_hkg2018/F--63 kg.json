@@ -1,0 +1,268 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "AUS",
+                    "name": "Maria SWAN"
+                },
+                {
+                    "winner": "Maria SWAN"
+                }
+            ],
+            []
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "AUS",
+                    "name": "Maria SWAN"
+                }
+            ]
+        ]
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CHN",
+                    "name": "Mingxin LIANG"
+                },
+                {
+                    "winner": "Mingxin LIANG"
+                }
+            ],
+            [
+                {
+                    "country": "THA",
+                    "name": "Anongnat THAMMAPHORN"
+                },
+                {
+                    "winner": "Anongnat THAMMAPHORN"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "CHN",
+                    "name": "Mingxin LIANG"
+                },
+                {
+                    "country": "THA",
+                    "name": "Anongnat THAMMAPHORN"
+                }
+            ],
+            [
+                {
+                    "country": "CHN",
+                    "name": "Mingxin LIANG"
+                }
+            ]
+        ]
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "TPE",
+                    "name": "Pei Chun YUAN"
+                },
+                {
+                    "winner": "Pei Chun YUAN"
+                }
+            ],
+            [
+                {
+                    "country": "KOR",
+                    "name": "Eunbyeol ko"
+                },
+                {
+                    "winner": "Eunbyeol ko"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "TPE",
+                    "name": "Pei Chun YUAN"
+                },
+                {
+                    "country": "KOR",
+                    "name": "Eunbyeol ko"
+                }
+            ],
+            [
+                {
+                    "country": "TPE",
+                    "name": "Pei Chun YUAN"
+                }
+            ]
+        ]
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "NZL",
+                    "name": "Cristyn JONES"
+                },
+                {
+                    "winner": "Cristyn JONES"
+                }
+            ],
+            [
+                {
+                    "country": "AUS",
+                    "name": "Saskia BROTHERS"
+                },
+                {
+                    "winner": "Saskia BROTHERS"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "NZL",
+                    "name": "Cristyn JONES"
+                },
+                {
+                    "country": "AUS",
+                    "name": "Saskia BROTHERS"
+                }
+            ],
+            [
+                {
+                    "country": "AUS",
+                    "name": "Saskia BROTHERS"
+                }
+            ]
+        ]
+    },
+    "REPECHAGE": {
+        "round 1-4": [
+            [],
+            [
+                {
+                    "country": "THA",
+                    "name": "Anongnat THAMMAPHORN"
+                },
+                {
+                    "winner": "Anongnat THAMMAPHORN"
+                }
+            ],
+            [
+                {
+                    "country": "KOR",
+                    "name": "Eunbyeol ko"
+                },
+                {
+                    "winner": "Eunbyeol ko"
+                }
+            ],
+            [
+                {
+                    "country": "NZL",
+                    "name": "Cristyn JONES"
+                },
+                {
+                    "winner": "Cristyn JONES"
+                }
+            ]
+        ],
+        "round 1-2": [
+            [
+                {
+                    "country": "THA",
+                    "name": "Anongnat THAMMAPHORN"
+                }
+            ],
+            [
+                {
+                    "country": "KOR",
+                    "name": "Eunbyeol ko"
+                },
+                {
+                    "country": "NZL",
+                    "name": "Cristyn JONES"
+                }
+            ],
+            [
+                {
+                    "country": "THA",
+                    "name": "Anongnat THAMMAPHORN"
+                },
+                {
+                    "country": "AUS",
+                    "name": "Saskia BROTHERS"
+                }
+            ],
+            [
+                {
+                    "country": "KOR",
+                    "name": "Eunbyeol ko"
+                },
+                {
+                    "country": "AUS",
+                    "name": "Maria SWAN"
+                }
+            ],
+            [
+                {
+                    "country": "KOR",
+                    "name": "Eunbyeol ko"
+                }
+            ]
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "AUS",
+                    "name": "Maria SWAN"
+                },
+                {
+                    "country": "CHN",
+                    "name": "Mingxin LIANG"
+                },
+                {
+                    "winner": "Mingxin LIANG"
+                }
+            ],
+            [
+                {
+                    "country": "TPE",
+                    "name": "Pei Chun YUAN"
+                },
+                {
+                    "country": "AUS",
+                    "name": "Saskia BROTHERS"
+                },
+                {
+                    "winner": "Pei Chun YUAN"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "CHN",
+                    "name": "Mingxin LIANG"
+                },
+                {
+                    "country": "TPE",
+                    "name": "Pei Chun YUAN"
+                }
+            ],
+            [
+                {
+                    "country": "TPE",
+                    "name": "Pei Chun YUAN"
+                }
+            ]
+        ]
+    }
+}

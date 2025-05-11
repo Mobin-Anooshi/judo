@@ -1,0 +1,159 @@
+{
+    "POOL A": {
+        "round 1-1": [],
+        "final_winner": "Amir Daniel BIN ABDUL MAJEED"
+    },
+    "POOL B": {
+        "round 1-1": [
+            [
+                {
+                    "country": "AUS",
+                    "name": "Jack TWEEN"
+                },
+                {
+                    "country": "AUS",
+                    "name": "Bailey EAMES"
+                }
+            ]
+        ],
+        "final_winner": "Bailey EAMES"
+    },
+    "POOL C": {
+        "round 1-1": [
+            [
+                {
+                    "country": "AUS",
+                    "name": "Carstens BEYERS"
+                },
+                {
+                    "country": "AUS",
+                    "name": "Nathan CARROLL"
+                }
+            ]
+        ],
+        "final_winner": "Carstens BEYERS"
+    },
+    "POOL D": {
+        "round 1-1": [
+            [
+                {
+                    "country": "AUS",
+                    "name": "Lucas VLADICH-MCKENZIE"
+                },
+                {
+                    "country": "KOR",
+                    "name": "Deokhoon KIM"
+                }
+            ]
+        ],
+        "final_winner": "Deokhoon KIM"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "AUS",
+                    "name": "Jack TWEEN"
+                }
+            ],
+            [
+                {
+                    "country": "AUS",
+                    "name": "Nathan CARROLL"
+                },
+                {
+                    "country": "AUS",
+                    "name": "Lucas VLADICH-MCKENZIE"
+                },
+                {
+                    "winner": "Nathan CARROLL"
+                }
+            ],
+            [
+                {
+                    "country": "AUS",
+                    "name": "Jack TWEEN"
+                },
+                {
+                    "country": "AUS",
+                    "name": "Carstens BEYERS"
+                },
+                {
+                    "winner": "Carstens BEYERS"
+                }
+            ],
+            [
+                {
+                    "country": "AUS",
+                    "name": "Nathan CARROLL"
+                },
+                {
+                    "country": "AUS",
+                    "name": "Bailey EAMES"
+                },
+                {
+                    "winner": "Nathan CARROLL"
+                }
+            ],
+            [
+                {
+                    "country": "AUS",
+                    "name": "Carstens BEYERS"
+                }
+            ],
+            [
+                {
+                    "country": "AUS",
+                    "name": "Nathan CARROLL"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Carstens BEYERS",
+            "Nathan CARROLL"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "MAS",
+                    "name": "Amir Daniel BIN ABDUL MAJEED"
+                },
+                {
+                    "country": "AUS",
+                    "name": "Bailey EAMES"
+                },
+                {
+                    "winner": "Amir Daniel BIN ABDUL MAJEED"
+                }
+            ],
+            [
+                {
+                    "country": "AUS",
+                    "name": "Carstens BEYERS"
+                },
+                {
+                    "country": "KOR",
+                    "name": "Deokhoon KIM"
+                },
+                {
+                    "winner": "Deokhoon KIM"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "MAS",
+                    "name": "Amir Daniel BIN ABDUL MAJEED"
+                },
+                {
+                    "country": "KOR",
+                    "name": "Deokhoon KIM"
+                }
+            ]
+        ],
+        "final_winner": "Amir Daniel BIN ABDUL MAJEED"
+    }
+}

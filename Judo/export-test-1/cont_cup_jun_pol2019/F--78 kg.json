@@ -1,0 +1,261 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "AUS",
+                    "name": "Abigail PADUCH"
+                },
+                {
+                    "winner": "Abigail PADUCH"
+                }
+            ],
+            []
+        ],
+        "round 1-1": [],
+        "final_winner": "Abigail PADUCH"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "RUS",
+                    "name": "Daria KARIAKINA"
+                },
+                {
+                    "winner": "Daria KARIAKINA"
+                }
+            ],
+            [
+                {
+                    "country": "POL",
+                    "name": "Maria BACZEK"
+                },
+                {
+                    "winner": "Maria BACZEK"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "RUS",
+                    "name": "Daria KARIAKINA"
+                },
+                {
+                    "country": "POL",
+                    "name": "Maria BACZEK"
+                }
+            ]
+        ],
+        "final_winner": "Daria KARIAKINA"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "EST",
+                    "name": "Annika KARILAID"
+                },
+                {
+                    "winner": "Annika KARILAID"
+                }
+            ],
+            [
+                {
+                    "country": "POL",
+                    "name": "Oliwia CEBIENIAK"
+                },
+                {
+                    "winner": "Oliwia CEBIENIAK"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "EST",
+                    "name": "Annika KARILAID"
+                },
+                {
+                    "country": "POL",
+                    "name": "Oliwia CEBIENIAK"
+                }
+            ]
+        ],
+        "final_winner": "Annika KARILAID"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CRO",
+                    "name": "Petrunjela PAVIC"
+                },
+                {
+                    "winner": "Petrunjela PAVIC"
+                }
+            ],
+            [
+                {
+                    "country": "POL",
+                    "name": "Martyna NOLEWAJKA"
+                },
+                {
+                    "winner": "Martyna NOLEWAJKA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "CRO",
+                    "name": "Petrunjela PAVIC"
+                },
+                {
+                    "country": "POL",
+                    "name": "Martyna NOLEWAJKA"
+                }
+            ]
+        ],
+        "final_winner": "Petrunjela PAVIC"
+    },
+    "REPECHAGE": {
+        "round 1-4": [
+            [],
+            [
+                {
+                    "country": "POL",
+                    "name": "Maria BACZEK"
+                },
+                {
+                    "winner": "Maria BACZEK"
+                }
+            ],
+            [
+                {
+                    "country": "POL",
+                    "name": "Oliwia CEBIENIAK"
+                },
+                {
+                    "winner": "Oliwia CEBIENIAK"
+                }
+            ],
+            [
+                {
+                    "country": "POL",
+                    "name": "Martyna NOLEWAJKA"
+                },
+                {
+                    "winner": "Martyna NOLEWAJKA"
+                }
+            ]
+        ],
+        "round 1-2": [
+            [
+                {
+                    "country": "POL",
+                    "name": "Maria BACZEK"
+                }
+            ],
+            [
+                {
+                    "country": "POL",
+                    "name": "Oliwia CEBIENIAK"
+                },
+                {
+                    "country": "POL",
+                    "name": "Martyna NOLEWAJKA"
+                },
+                {
+                    "winner": "Martyna NOLEWAJKA"
+                }
+            ],
+            [
+                {
+                    "country": "POL",
+                    "name": "Maria BACZEK"
+                },
+                {
+                    "country": "CRO",
+                    "name": "Petrunjela PAVIC"
+                },
+                {
+                    "winner": "Petrunjela PAVIC"
+                }
+            ],
+            [
+                {
+                    "country": "POL",
+                    "name": "Martyna NOLEWAJKA"
+                },
+                {
+                    "country": "AUS",
+                    "name": "Abigail PADUCH"
+                },
+                {
+                    "winner": "Abigail PADUCH"
+                }
+            ],
+            [
+                {
+                    "country": "CRO",
+                    "name": "Petrunjela PAVIC"
+                }
+            ],
+            [
+                {
+                    "country": "AUS",
+                    "name": "Abigail PADUCH"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Petrunjela PAVIC",
+            "Abigail PADUCH"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "AUS",
+                    "name": "Abigail PADUCH"
+                },
+                {
+                    "country": "RUS",
+                    "name": "Daria KARIAKINA"
+                },
+                {
+                    "winner": "Daria KARIAKINA"
+                }
+            ],
+            [
+                {
+                    "country": "EST",
+                    "name": "Annika KARILAID"
+                },
+                {
+                    "country": "CRO",
+                    "name": "Petrunjela PAVIC"
+                },
+                {
+                    "winner": "Annika KARILAID"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "RUS",
+                    "name": "Daria KARIAKINA"
+                },
+                {
+                    "country": "EST",
+                    "name": "Annika KARILAID"
+                }
+            ]
+        ],
+        "final_winner": "Daria KARIAKINA"
+    }
+}

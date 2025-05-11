@@ -1,0 +1,281 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "RUS",
+                    "name": "Kirill DENISOV"
+                },
+                {
+                    "winner": "Kirill DENISOV"
+                }
+            ],
+            [
+                {
+                    "country": "TKM",
+                    "name": "Batyr HOJAMUHAMMEDOV"
+                },
+                {
+                    "country": "UKR",
+                    "name": "Danylo HUTSOL"
+                },
+                {
+                    "winner": "Batyr HOJAMUHAMMEDOV"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "RUS",
+                    "name": "Kirill DENISOV"
+                },
+                {
+                    "country": "TKM",
+                    "name": "Batyr HOJAMUHAMMEDOV"
+                }
+            ]
+        ],
+        "final_winner": "Kirill DENISOV"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "GER",
+                    "name": "Karl-Richard FREY"
+                },
+                {
+                    "country": "ALG",
+                    "name": "Billel BELHIMER"
+                },
+                {
+                    "winner": "Karl-Richard FREY"
+                }
+            ],
+            [
+                {
+                    "country": "CIV",
+                    "name": "Koffi Kreme KOBENA"
+                },
+                {
+                    "country": "KAZ",
+                    "name": "Zhassulan MUKHAMETKHANOV"
+                },
+                {
+                    "winner": "Koffi Kreme KOBENA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "GER",
+                    "name": "Karl-Richard FREY"
+                },
+                {
+                    "country": "CIV",
+                    "name": "Koffi Kreme KOBENA"
+                }
+            ]
+        ],
+        "final_winner": "Karl-Richard FREY"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "POR",
+                    "name": "Jorge FONSECA"
+                },
+                {
+                    "country": "ROU",
+                    "name": "Daniel MATEI"
+                },
+                {
+                    "winner": "Jorge FONSECA"
+                }
+            ],
+            [
+                {
+                    "country": "GER",
+                    "name": "Daniel HERBST"
+                },
+                {
+                    "winner": "Daniel HERBST"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "POR",
+                    "name": "Jorge FONSECA"
+                },
+                {
+                    "country": "GER",
+                    "name": "Daniel HERBST"
+                }
+            ]
+        ],
+        "final_winner": "Jorge FONSECA"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CRO",
+                    "name": "Zlatko KUMRIC"
+                },
+                {
+                    "country": "SUI",
+                    "name": "Patrik MOSER"
+                },
+                {
+                    "winner": "Patrik MOSER"
+                }
+            ],
+            [
+                {
+                    "country": "KAZ",
+                    "name": "Viktor DEMYANENKO"
+                },
+                {
+                    "country": "MAR",
+                    "name": "Ismail EL KHAZINE"
+                },
+                {
+                    "winner": "Viktor DEMYANENKO"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "SUI",
+                    "name": "Patrik MOSER"
+                },
+                {
+                    "country": "KAZ",
+                    "name": "Viktor DEMYANENKO"
+                }
+            ]
+        ],
+        "final_winner": "Patrik MOSER"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "TKM",
+                    "name": "Batyr HOJAMUHAMMEDOV"
+                },
+                {
+                    "country": "CIV",
+                    "name": "Koffi Kreme KOBENA"
+                },
+                {
+                    "winner": "Batyr HOJAMUHAMMEDOV"
+                }
+            ],
+            [
+                {
+                    "country": "GER",
+                    "name": "Daniel HERBST"
+                },
+                {
+                    "country": "KAZ",
+                    "name": "Viktor DEMYANENKO"
+                },
+                {
+                    "winner": "Viktor DEMYANENKO"
+                }
+            ],
+            [
+                {
+                    "country": "TKM",
+                    "name": "Batyr HOJAMUHAMMEDOV"
+                },
+                {
+                    "country": "SUI",
+                    "name": "Patrik MOSER"
+                },
+                {
+                    "winner": "Batyr HOJAMUHAMMEDOV"
+                }
+            ],
+            [
+                {
+                    "country": "KAZ",
+                    "name": "Viktor DEMYANENKO"
+                },
+                {
+                    "country": "GER",
+                    "name": "Karl-Richard FREY"
+                },
+                {
+                    "winner": "Karl-Richard FREY"
+                }
+            ],
+            [
+                {
+                    "country": "TKM",
+                    "name": "Batyr HOJAMUHAMMEDOV"
+                }
+            ],
+            [
+                {
+                    "country": "GER",
+                    "name": "Karl-Richard FREY"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Batyr HOJAMUHAMMEDOV",
+            "Karl-Richard FREY"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "RUS",
+                    "name": "Kirill DENISOV"
+                },
+                {
+                    "country": "GER",
+                    "name": "Karl-Richard FREY"
+                },
+                {
+                    "winner": "Kirill DENISOV"
+                }
+            ],
+            [
+                {
+                    "country": "POR",
+                    "name": "Jorge FONSECA"
+                },
+                {
+                    "country": "SUI",
+                    "name": "Patrik MOSER"
+                },
+                {
+                    "winner": "Jorge FONSECA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "RUS",
+                    "name": "Kirill DENISOV"
+                },
+                {
+                    "country": "POR",
+                    "name": "Jorge FONSECA"
+                }
+            ]
+        ],
+        "final_winner": "Kirill DENISOV"
+    }
+}

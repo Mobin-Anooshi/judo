@@ -1,0 +1,68 @@
+{
+    "ROUND 1": {
+        "round 1-2": [
+            [
+                {
+                    "country": "PUR",
+                    "name": "Melissa MOJICA"
+                },
+                {
+                    "country": "DOM",
+                    "name": "Flor MaríA MATEO RAMÍREZ"
+                },
+                {
+                    "winner": "Melissa MOJICA"
+                }
+            ],
+            [
+                {
+                    "country": "DOM",
+                    "name": "Moira MORILLO"
+                },
+                {
+                    "country": "DOM",
+                    "name": "Laura Elisa DIAZ ALBURQUERQUE"
+                },
+                {
+                    "winner": "Moira MORILLO"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Melissa MOJICA",
+            "Moira MORILLO"
+        ]
+    },
+    "REPECHAGE": {
+        "round 1-1": [
+            [
+                {
+                    "country": "DOM",
+                    "name": "Flor MaríA MATEO RAMÍREZ"
+                },
+                {
+                    "country": "DOM",
+                    "name": "Laura Elisa DIAZ ALBURQUERQUE"
+                },
+                {
+                    "winner": "Laura Elisa DIAZ ALBURQUERQUE"
+                }
+            ],
+            [
+                {
+                    "country": "DOM",
+                    "name": "Laura Elisa DIAZ ALBURQUERQUE"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Laura Elisa DIAZ ALBURQUERQUE"
+        ]
+    },
+    "FINALS": {
+        "round 1-1": [],
+        "final_winners": [
+            "Melissa MOJICA"
+        ]
+    }
+}

@@ -1,0 +1,261 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "PYF",
+                    "name": "Gaston LAFON"
+                },
+                {
+                    "winner": "Gaston LAFON"
+                }
+            ],
+            [
+                {
+                    "country": "NCL",
+                    "name": "Antoine MARCUZZO"
+                },
+                {
+                    "winner": "Antoine MARCUZZO"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "PYF",
+                    "name": "Gaston LAFON"
+                },
+                {
+                    "country": "NCL",
+                    "name": "Antoine MARCUZZO"
+                }
+            ]
+        ],
+        "final_winner": "Gaston LAFON"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "SOL",
+                    "name": "Lesley PANDABELA"
+                },
+                {
+                    "winner": "Lesley PANDABELA"
+                }
+            ],
+            [
+                {
+                    "country": "PLW",
+                    "name": "Alonzo SUMOR"
+                },
+                {
+                    "country": "AUS",
+                    "name": "Ryan KOENIG"
+                },
+                {
+                    "winner": "Ryan KOENIG"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "SOL",
+                    "name": "Lesley PANDABELA"
+                },
+                {
+                    "country": "AUS",
+                    "name": "Ryan KOENIG"
+                }
+            ]
+        ],
+        "final_winner": "Ryan KOENIG"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "NCL",
+                    "name": "Cedric JASZCZYSZYN"
+                },
+                {
+                    "winner": "Cedric JASZCZYSZYN"
+                }
+            ],
+            [
+                {
+                    "country": "NRU",
+                    "name": "Hamray TEMAKI"
+                },
+                {
+                    "winner": "Hamray TEMAKI"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "NCL",
+                    "name": "Cedric JASZCZYSZYN"
+                },
+                {
+                    "country": "NRU",
+                    "name": "Hamray TEMAKI"
+                }
+            ]
+        ],
+        "final_winner": "Cedric JASZCZYSZYN"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "PYF",
+                    "name": "Noa GUSTIN"
+                },
+                {
+                    "winner": "Noa GUSTIN"
+                }
+            ],
+            [
+                {
+                    "country": "SOL",
+                    "name": "Alister SUKHAMANA"
+                },
+                {
+                    "winner": "Alister SUKHAMANA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "PYF",
+                    "name": "Noa GUSTIN"
+                },
+                {
+                    "country": "SOL",
+                    "name": "Alister SUKHAMANA"
+                }
+            ]
+        ],
+        "final_winner": "Noa GUSTIN"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "NCL",
+                    "name": "Antoine MARCUZZO"
+                },
+                {
+                    "country": "SOL",
+                    "name": "Lesley PANDABELA"
+                },
+                {
+                    "winner": "Antoine MARCUZZO"
+                }
+            ],
+            [
+                {
+                    "country": "NRU",
+                    "name": "Hamray TEMAKI"
+                },
+                {
+                    "country": "SOL",
+                    "name": "Alister SUKHAMANA"
+                },
+                {
+                    "winner": "Hamray TEMAKI"
+                }
+            ],
+            [
+                {
+                    "country": "NCL",
+                    "name": "Antoine MARCUZZO"
+                },
+                {
+                    "country": "PYF",
+                    "name": "Noa GUSTIN"
+                },
+                {
+                    "winner": "Antoine MARCUZZO"
+                }
+            ],
+            [
+                {
+                    "country": "NRU",
+                    "name": "Hamray TEMAKI"
+                },
+                {
+                    "country": "PYF",
+                    "name": "Gaston LAFON"
+                },
+                {
+                    "winner": "Gaston LAFON"
+                }
+            ],
+            [
+                {
+                    "country": "NCL",
+                    "name": "Antoine MARCUZZO"
+                }
+            ],
+            [
+                {
+                    "country": "PYF",
+                    "name": "Gaston LAFON"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Antoine MARCUZZO",
+            "Gaston LAFON"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "PYF",
+                    "name": "Gaston LAFON"
+                },
+                {
+                    "country": "AUS",
+                    "name": "Ryan KOENIG"
+                },
+                {
+                    "winner": "Ryan KOENIG"
+                }
+            ],
+            [
+                {
+                    "country": "NCL",
+                    "name": "Cedric JASZCZYSZYN"
+                },
+                {
+                    "country": "PYF",
+                    "name": "Noa GUSTIN"
+                },
+                {
+                    "winner": "Cedric JASZCZYSZYN"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "AUS",
+                    "name": "Ryan KOENIG"
+                },
+                {
+                    "country": "NCL",
+                    "name": "Cedric JASZCZYSZYN"
+                }
+            ]
+        ],
+        "final_winner": "Ryan KOENIG"
+    }
+}

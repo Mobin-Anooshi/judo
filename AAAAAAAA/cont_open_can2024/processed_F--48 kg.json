@@ -1,0 +1,159 @@
+{
+    "POOL A": {
+        "round 1-1": [],
+        "final_winner": "Heidi QUACH"
+    },
+    "POOL B": {
+        "round 1-1": [
+            [
+                {
+                    "country": "USA",
+                    "name": "Kaycie TANIMOTO"
+                },
+                {
+                    "country": "CAN",
+                    "name": "Elizabeth SANIKIDZE"
+                }
+            ]
+        ],
+        "final_winner": "Kaycie TANIMOTO"
+    },
+    "POOL C": {
+        "round 1-1": [
+            [
+                {
+                    "country": "USA",
+                    "name": "Anat TSYRLIN"
+                },
+                {
+                    "country": "CAN",
+                    "name": "Angelina MCCRISTALL"
+                }
+            ]
+        ],
+        "final_winner": "Angelina MCCRISTALL"
+    },
+    "POOL D": {
+        "round 1-1": [
+            [
+                {
+                    "country": "USA",
+                    "name": "Malia MANIBOG"
+                },
+                {
+                    "country": "PUR",
+                    "name": "Analeanis COLLAZO"
+                }
+            ]
+        ],
+        "final_winner": "Malia MANIBOG"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CAN",
+                    "name": "Elizabeth SANIKIDZE"
+                }
+            ],
+            [
+                {
+                    "country": "USA",
+                    "name": "Anat TSYRLIN"
+                },
+                {
+                    "country": "PUR",
+                    "name": "Analeanis COLLAZO"
+                },
+                {
+                    "winner": "Anat TSYRLIN"
+                }
+            ],
+            [
+                {
+                    "country": "CAN",
+                    "name": "Elizabeth SANIKIDZE"
+                },
+                {
+                    "country": "CAN",
+                    "name": "Angelina MCCRISTALL"
+                },
+                {
+                    "winner": "Angelina MCCRISTALL"
+                }
+            ],
+            [
+                {
+                    "country": "USA",
+                    "name": "Anat TSYRLIN"
+                },
+                {
+                    "country": "USA",
+                    "name": "Kaycie TANIMOTO"
+                },
+                {
+                    "winner": "Anat TSYRLIN"
+                }
+            ],
+            [
+                {
+                    "country": "CAN",
+                    "name": "Angelina MCCRISTALL"
+                }
+            ],
+            [
+                {
+                    "country": "USA",
+                    "name": "Anat TSYRLIN"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Angelina MCCRISTALL",
+            "Anat TSYRLIN"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CAN",
+                    "name": "Heidi QUACH"
+                },
+                {
+                    "country": "USA",
+                    "name": "Kaycie TANIMOTO"
+                },
+                {
+                    "winner": "Heidi QUACH"
+                }
+            ],
+            [
+                {
+                    "country": "CAN",
+                    "name": "Angelina MCCRISTALL"
+                },
+                {
+                    "country": "USA",
+                    "name": "Malia MANIBOG"
+                },
+                {
+                    "winner": "Malia MANIBOG"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "CAN",
+                    "name": "Heidi QUACH"
+                },
+                {
+                    "country": "USA",
+                    "name": "Malia MANIBOG"
+                }
+            ]
+        ],
+        "final_winner": "Heidi QUACH"
+    }
+}

@@ -1,0 +1,257 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "TPE",
+                    "name": "Szu-chu WANG"
+                },
+                {
+                    "winner": "Szu-chu WANG"
+                }
+            ],
+            [
+                {
+                    "country": "KOR",
+                    "name": "Dabin LEE"
+                },
+                {
+                    "winner": "Dabin LEE"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "TPE",
+                    "name": "Szu-chu WANG"
+                },
+                {
+                    "country": "KOR",
+                    "name": "Dabin LEE"
+                }
+            ]
+        ],
+        "final_winner": "Dabin LEE"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "TPE",
+                    "name": "Yung Chen TU"
+                },
+                {
+                    "winner": "Yung Chen TU"
+                }
+            ],
+            [
+                {
+                    "country": "GBR",
+                    "name": "Rachel TYTLER"
+                },
+                {
+                    "winner": "Rachel TYTLER"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "TPE",
+                    "name": "Yung Chen TU"
+                },
+                {
+                    "country": "GBR",
+                    "name": "Rachel TYTLER"
+                }
+            ]
+        ],
+        "final_winner": "Yung Chen TU"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "KOR",
+                    "name": "Byeolyi KIM"
+                },
+                {
+                    "winner": "Byeolyi KIM"
+                }
+            ],
+            [
+                {
+                    "country": "JPN",
+                    "name": "Kaho NISHIDA"
+                },
+                {
+                    "winner": "Kaho NISHIDA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "KOR",
+                    "name": "Byeolyi KIM"
+                },
+                {
+                    "country": "JPN",
+                    "name": "Kaho NISHIDA"
+                }
+            ]
+        ],
+        "final_winner": "Kaho NISHIDA"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "TPE",
+                    "name": "Wan-tzu LEE"
+                },
+                {
+                    "winner": "Wan-tzu LEE"
+                }
+            ],
+            [
+                {
+                    "country": "KOR",
+                    "name": "Yoonji CHAE"
+                },
+                {
+                    "winner": "Yoonji CHAE"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "TPE",
+                    "name": "Wan-tzu LEE"
+                },
+                {
+                    "country": "KOR",
+                    "name": "Yoonji CHAE"
+                }
+            ]
+        ],
+        "final_winner": "Yoonji CHAE"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "TPE",
+                    "name": "Szu-chu WANG"
+                },
+                {
+                    "country": "GBR",
+                    "name": "Rachel TYTLER"
+                },
+                {
+                    "winner": "Szu-chu WANG"
+                }
+            ],
+            [
+                {
+                    "country": "KOR",
+                    "name": "Byeolyi KIM"
+                },
+                {
+                    "country": "TPE",
+                    "name": "Wan-tzu LEE"
+                },
+                {
+                    "winner": "Byeolyi KIM"
+                }
+            ],
+            [
+                {
+                    "country": "TPE",
+                    "name": "Szu-chu WANG"
+                },
+                {
+                    "country": "KOR",
+                    "name": "Yoonji CHAE"
+                },
+                {
+                    "winner": "Yoonji CHAE"
+                }
+            ],
+            [
+                {
+                    "country": "KOR",
+                    "name": "Byeolyi KIM"
+                },
+                {
+                    "country": "TPE",
+                    "name": "Yung Chen TU"
+                },
+                {
+                    "winner": "Byeolyi KIM"
+                }
+            ],
+            [
+                {
+                    "country": "KOR",
+                    "name": "Yoonji CHAE"
+                }
+            ],
+            [
+                {
+                    "country": "KOR",
+                    "name": "Byeolyi KIM"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Yoonji CHAE",
+            "Byeolyi KIM"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "KOR",
+                    "name": "Dabin LEE"
+                },
+                {
+                    "country": "TPE",
+                    "name": "Yung Chen TU"
+                },
+                {
+                    "winner": "Dabin LEE"
+                }
+            ],
+            [
+                {
+                    "country": "JPN",
+                    "name": "Kaho NISHIDA"
+                },
+                {
+                    "country": "KOR",
+                    "name": "Yoonji CHAE"
+                },
+                {
+                    "winner": "Kaho NISHIDA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "KOR",
+                    "name": "Dabin LEE"
+                },
+                {
+                    "country": "JPN",
+                    "name": "Kaho NISHIDA"
+                }
+            ]
+        ],
+        "final_winner": "Dabin LEE"
+    }
+}

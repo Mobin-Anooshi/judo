@@ -1,0 +1,244 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "RUS",
+                    "name": "Tatiana LIALINA"
+                },
+                {
+                    "winner": "Tatiana LIALINA"
+                }
+            ],
+            []
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "RUS",
+                    "name": "Tatiana LIALINA"
+                }
+            ]
+        ]
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "KAZ",
+                    "name": "Nazgul MARATOVA"
+                },
+                {
+                    "winner": "Nazgul MARATOVA"
+                }
+            ],
+            [
+                {
+                    "country": "RUS",
+                    "name": "Aiza TASOEVA"
+                },
+                {
+                    "winner": "Aiza TASOEVA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "KAZ",
+                    "name": "Nazgul MARATOVA"
+                },
+                {
+                    "country": "RUS",
+                    "name": "Aiza TASOEVA"
+                }
+            ],
+            [
+                {
+                    "country": "KAZ",
+                    "name": "Nazgul MARATOVA"
+                }
+            ]
+        ]
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "RUS",
+                    "name": "Svetlana VORONINA"
+                },
+                {
+                    "winner": "Svetlana VORONINA"
+                }
+            ],
+            [
+                {
+                    "country": "BLR",
+                    "name": "Darya KANTSAVAYA"
+                },
+                {
+                    "winner": "Darya KANTSAVAYA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "RUS",
+                    "name": "Svetlana VORONINA"
+                },
+                {
+                    "country": "BLR",
+                    "name": "Darya KANTSAVAYA"
+                }
+            ],
+            [
+                {
+                    "country": "BLR",
+                    "name": "Darya KANTSAVAYA"
+                }
+            ]
+        ]
+    },
+    "POOL D": {
+        "round 1-2": [
+            [],
+            [
+                {
+                    "country": "CZE",
+                    "name": "Alice MATEJCKOVA"
+                },
+                {
+                    "winner": "Alice MATEJCKOVA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "CZE",
+                    "name": "Alice MATEJCKOVA"
+                }
+            ]
+        ]
+    },
+    "REPECHAGE": {
+        "round 1-4": [
+            [],
+            [
+                {
+                    "country": "RUS",
+                    "name": "Aiza TASOEVA"
+                },
+                {
+                    "winner": "Aiza TASOEVA"
+                }
+            ],
+            [
+                {
+                    "country": "RUS",
+                    "name": "Svetlana VORONINA"
+                },
+                {
+                    "winner": "Svetlana VORONINA"
+                }
+            ],
+            []
+        ],
+        "round 1-2": [
+            [
+                {
+                    "country": "RUS",
+                    "name": "Aiza TASOEVA"
+                }
+            ],
+            [
+                {
+                    "country": "RUS",
+                    "name": "Svetlana VORONINA"
+                }
+            ],
+            [
+                {
+                    "country": "RUS",
+                    "name": "Aiza TASOEVA"
+                },
+                {
+                    "country": "BLR",
+                    "name": "Darya KANTSAVAYA"
+                }
+            ],
+            [
+                {
+                    "country": "RUS",
+                    "name": "Svetlana VORONINA"
+                },
+                {
+                    "country": "RUS",
+                    "name": "Tatiana LIALINA"
+                }
+            ],
+            [
+                {
+                    "country": "BLR",
+                    "name": "Darya KANTSAVAYA"
+                }
+            ],
+            [
+                {
+                    "country": "RUS",
+                    "name": "Tatiana LIALINA"
+                }
+            ]
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "RUS",
+                    "name": "Tatiana LIALINA"
+                },
+                {
+                    "country": "KAZ",
+                    "name": "Nazgul MARATOVA"
+                },
+                {
+                    "winner": "Nazgul MARATOVA"
+                }
+            ],
+            [
+                {
+                    "country": "BLR",
+                    "name": "Darya KANTSAVAYA"
+                },
+                {
+                    "country": "CZE",
+                    "name": "Alice MATEJCKOVA"
+                },
+                {
+                    "winner": "Alice MATEJCKOVA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "KAZ",
+                    "name": "Nazgul MARATOVA"
+                },
+                {
+                    "country": "CZE",
+                    "name": "Alice MATEJCKOVA"
+                }
+            ],
+            [
+                {
+                    "country": "CZE",
+                    "name": "Alice MATEJCKOVA"
+                }
+            ]
+        ]
+    }
+}

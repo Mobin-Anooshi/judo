@@ -1,0 +1,285 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "LAT",
+                    "name": "Aigars MILENBERGS"
+                },
+                {
+                    "winner": "Aigars MILENBERGS"
+                }
+            ],
+            [
+                {
+                    "country": "FIN",
+                    "name": "Aatu LAAMANEN"
+                },
+                {
+                    "country": "UKR",
+                    "name": "Ihor KNYSH"
+                },
+                {
+                    "winner": "Aatu LAAMANEN"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "LAT",
+                    "name": "Aigars MILENBERGS"
+                },
+                {
+                    "country": "FIN",
+                    "name": "Aatu LAAMANEN"
+                }
+            ]
+        ],
+        "final_winner": "Aigars MILENBERGS"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Gustavo ASSIS"
+                },
+                {
+                    "country": "BLR",
+                    "name": "Dzmitry LUKASHYNSKI"
+                },
+                {
+                    "winner": "Gustavo ASSIS"
+                }
+            ],
+            [
+                {
+                    "country": "POL",
+                    "name": "Tomasz SZCZEPANIAK"
+                },
+                {
+                    "country": "LTU",
+                    "name": "Mantas KLIMASAUSKAS"
+                },
+                {
+                    "winner": "Tomasz SZCZEPANIAK"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Gustavo ASSIS"
+                },
+                {
+                    "country": "POL",
+                    "name": "Tomasz SZCZEPANIAK"
+                }
+            ]
+        ],
+        "final_winner": "Gustavo ASSIS"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "FIN",
+                    "name": "Samuli VIITANEN"
+                },
+                {
+                    "country": "USA",
+                    "name": "John JAYNE"
+                },
+                {
+                    "winner": "Samuli VIITANEN"
+                }
+            ],
+            [
+                {
+                    "country": "UKR",
+                    "name": "Daniil DOVBYSH"
+                },
+                {
+                    "country": "LTU",
+                    "name": "Andras SAMOSKA"
+                },
+                {
+                    "winner": "Daniil DOVBYSH"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "FIN",
+                    "name": "Samuli VIITANEN"
+                },
+                {
+                    "country": "UKR",
+                    "name": "Daniil DOVBYSH"
+                }
+            ]
+        ],
+        "final_winner": "Samuli VIITANEN"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "BLR",
+                    "name": "Ihar ZHUKAU"
+                },
+                {
+                    "country": "LTU",
+                    "name": "Ramunas DIBURYS"
+                },
+                {
+                    "winner": "Ihar ZHUKAU"
+                }
+            ],
+            [
+                {
+                    "country": "CAN",
+                    "name": "Zachary BURT"
+                },
+                {
+                    "country": "UKR",
+                    "name": "Viktor MAKUKHA"
+                },
+                {
+                    "winner": "Zachary BURT"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "BLR",
+                    "name": "Ihar ZHUKAU"
+                },
+                {
+                    "country": "CAN",
+                    "name": "Zachary BURT"
+                }
+            ]
+        ],
+        "final_winner": "Ihar ZHUKAU"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "FIN",
+                    "name": "Aatu LAAMANEN"
+                },
+                {
+                    "country": "POL",
+                    "name": "Tomasz SZCZEPANIAK"
+                },
+                {
+                    "winner": "Tomasz SZCZEPANIAK"
+                }
+            ],
+            [
+                {
+                    "country": "UKR",
+                    "name": "Daniil DOVBYSH"
+                },
+                {
+                    "country": "CAN",
+                    "name": "Zachary BURT"
+                },
+                {
+                    "winner": "Zachary BURT"
+                }
+            ],
+            [
+                {
+                    "country": "POL",
+                    "name": "Tomasz SZCZEPANIAK"
+                },
+                {
+                    "country": "BLR",
+                    "name": "Ihar ZHUKAU"
+                },
+                {
+                    "winner": "Ihar ZHUKAU"
+                }
+            ],
+            [
+                {
+                    "country": "CAN",
+                    "name": "Zachary BURT"
+                },
+                {
+                    "country": "LAT",
+                    "name": "Aigars MILENBERGS"
+                },
+                {
+                    "winner": "Aigars MILENBERGS"
+                }
+            ],
+            [
+                {
+                    "country": "BLR",
+                    "name": "Ihar ZHUKAU"
+                }
+            ],
+            [
+                {
+                    "country": "LAT",
+                    "name": "Aigars MILENBERGS"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Ihar ZHUKAU",
+            "Aigars MILENBERGS"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "LAT",
+                    "name": "Aigars MILENBERGS"
+                },
+                {
+                    "country": "BRA",
+                    "name": "Gustavo ASSIS"
+                },
+                {
+                    "winner": "Gustavo ASSIS"
+                }
+            ],
+            [
+                {
+                    "country": "FIN",
+                    "name": "Samuli VIITANEN"
+                },
+                {
+                    "country": "BLR",
+                    "name": "Ihar ZHUKAU"
+                },
+                {
+                    "winner": "Samuli VIITANEN"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Gustavo ASSIS"
+                },
+                {
+                    "country": "FIN",
+                    "name": "Samuli VIITANEN"
+                }
+            ]
+        ],
+        "final_winner": "Gustavo ASSIS"
+    }
+}

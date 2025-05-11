@@ -1,0 +1,177 @@
+{
+    "POOL A": {
+        "round 1-1": [
+            [
+                {
+                    "country": "ALG",
+                    "name": "Othmane ARBAOUI"
+                },
+                {
+                    "country": "KAZ",
+                    "name": "Arystan ULSAITOV"
+                }
+            ]
+        ],
+        "final_winner": "Othmane ARBAOUI"
+    },
+    "POOL B": {
+        "round 1-1": [
+            [
+                {
+                    "country": "LTU",
+                    "name": "Denis MAKSIMOV"
+                },
+                {
+                    "country": "FRA",
+                    "name": "Alexis SAN NICOLAS"
+                }
+            ]
+        ],
+        "final_winner": "Denis MAKSIMOV"
+    },
+    "POOL C": {
+        "round 1-1": [
+            [
+                {
+                    "country": "ALG",
+                    "name": "Mohamed Hamza KHETTOU"
+                },
+                {
+                    "country": "TUN",
+                    "name": "Ali RJEB"
+                }
+            ]
+        ],
+        "final_winner": "Mohamed Hamza KHETTOU"
+    },
+    "POOL D": {
+        "round 1-1": [
+            [
+                {
+                    "country": "KAZ",
+                    "name": "Dinassyl TATTIMBEK"
+                },
+                {
+                    "country": "ALG",
+                    "name": "Mohamed Cherif DAHMANI"
+                }
+            ]
+        ],
+        "final_winner": "Dinassyl TATTIMBEK"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "KAZ",
+                    "name": "Arystan ULSAITOV"
+                },
+                {
+                    "country": "FRA",
+                    "name": "Alexis SAN NICOLAS"
+                },
+                {
+                    "winner": "Arystan ULSAITOV"
+                }
+            ],
+            [
+                {
+                    "country": "TUN",
+                    "name": "Ali RJEB"
+                },
+                {
+                    "country": "ALG",
+                    "name": "Mohamed Cherif DAHMANI"
+                },
+                {
+                    "winner": "Ali RJEB"
+                }
+            ],
+            [
+                {
+                    "country": "KAZ",
+                    "name": "Arystan ULSAITOV"
+                },
+                {
+                    "country": "ALG",
+                    "name": "Mohamed Hamza KHETTOU"
+                },
+                {
+                    "winner": "Mohamed Hamza KHETTOU"
+                }
+            ],
+            [
+                {
+                    "country": "TUN",
+                    "name": "Ali RJEB"
+                },
+                {
+                    "country": "LTU",
+                    "name": "Denis MAKSIMOV"
+                },
+                {
+                    "winner": "Denis MAKSIMOV"
+                }
+            ],
+            [
+                {
+                    "country": "ALG",
+                    "name": "Mohamed Hamza KHETTOU"
+                }
+            ],
+            [
+                {
+                    "country": "LTU",
+                    "name": "Denis MAKSIMOV"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Mohamed Hamza KHETTOU",
+            "Denis MAKSIMOV"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ALG",
+                    "name": "Othmane ARBAOUI"
+                },
+                {
+                    "country": "LTU",
+                    "name": "Denis MAKSIMOV"
+                },
+                {
+                    "winner": "Othmane ARBAOUI"
+                }
+            ],
+            [
+                {
+                    "country": "ALG",
+                    "name": "Mohamed Hamza KHETTOU"
+                },
+                {
+                    "country": "KAZ",
+                    "name": "Dinassyl TATTIMBEK"
+                },
+                {
+                    "winner": "Dinassyl TATTIMBEK"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "ALG",
+                    "name": "Othmane ARBAOUI"
+                },
+                {
+                    "country": "KAZ",
+                    "name": "Dinassyl TATTIMBEK"
+                }
+            ]
+        ],
+        "final_winner": "Dinassyl TATTIMBEK"
+    }
+}

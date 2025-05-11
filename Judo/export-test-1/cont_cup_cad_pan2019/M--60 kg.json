@@ -1,0 +1,216 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "PAN",
+                    "name": "Pablo DIAZ"
+                },
+                {
+                    "winner": "Pablo DIAZ"
+                }
+            ],
+            []
+        ],
+        "round 1-1": [],
+        "final_winner": "Pablo DIAZ"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "PAN",
+                    "name": "Deivis GARRIDO"
+                },
+                {
+                    "winner": "Deivis GARRIDO"
+                }
+            ],
+            []
+        ],
+        "round 1-1": [],
+        "final_winner": "Deivis GARRIDO"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "PAN",
+                    "name": "Jossue VILLAREAL"
+                },
+                {
+                    "winner": "Jossue VILLAREAL"
+                }
+            ],
+            [
+                {
+                    "country": "USA",
+                    "name": "Dominic RODRIGUEZ"
+                },
+                {
+                    "winner": "Dominic RODRIGUEZ"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "PAN",
+                    "name": "Jossue VILLAREAL"
+                },
+                {
+                    "country": "USA",
+                    "name": "Dominic RODRIGUEZ"
+                }
+            ]
+        ],
+        "final_winner": "Dominic RODRIGUEZ"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CRC",
+                    "name": "David DOMINGUEZ"
+                },
+                {
+                    "winner": "David DOMINGUEZ"
+                }
+            ],
+            [
+                {
+                    "country": "PAN",
+                    "name": "Mario GUTIERREZ"
+                },
+                {
+                    "winner": "Mario GUTIERREZ"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "CRC",
+                    "name": "David DOMINGUEZ"
+                },
+                {
+                    "country": "PAN",
+                    "name": "Mario GUTIERREZ"
+                }
+            ]
+        ],
+        "final_winner": "David DOMINGUEZ"
+    },
+    "REPECHAGE": {
+        "round 1-4": [
+            [],
+            [],
+            [
+                {
+                    "country": "PAN",
+                    "name": "Jossue VILLAREAL"
+                },
+                {
+                    "winner": "Jossue VILLAREAL"
+                }
+            ],
+            [
+                {
+                    "country": "PAN",
+                    "name": "Mario GUTIERREZ"
+                },
+                {
+                    "winner": "Mario GUTIERREZ"
+                }
+            ]
+        ],
+        "round 1-2": [
+            [],
+            [
+                {
+                    "country": "PAN",
+                    "name": "Jossue VILLAREAL"
+                },
+                {
+                    "country": "PAN",
+                    "name": "Mario GUTIERREZ"
+                },
+                {
+                    "winner": "Jossue VILLAREAL"
+                }
+            ],
+            [
+                {
+                    "country": "CRC",
+                    "name": "David DOMINGUEZ"
+                }
+            ],
+            [
+                {
+                    "country": "PAN",
+                    "name": "Jossue VILLAREAL"
+                },
+                {
+                    "country": "PAN",
+                    "name": "Deivis GARRIDO"
+                },
+                {
+                    "winner": "Deivis GARRIDO"
+                }
+            ],
+            [
+                {
+                    "country": "PAN",
+                    "name": "Deivis GARRIDO"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Jossue VILLAREAL",
+            "David DOMINGUEZ"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "PAN",
+                    "name": "Pablo DIAZ"
+                },
+                {
+                    "country": "PAN",
+                    "name": "Deivis GARRIDO"
+                },
+                {
+                    "winner": "Pablo DIAZ"
+                }
+            ],
+            [
+                {
+                    "country": "USA",
+                    "name": "Dominic RODRIGUEZ"
+                },
+                {
+                    "country": "CRC",
+                    "name": "David DOMINGUEZ"
+                },
+                {
+                    "winner": "Dominic RODRIGUEZ"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "PAN",
+                    "name": "Pablo DIAZ"
+                },
+                {
+                    "country": "USA",
+                    "name": "Dominic RODRIGUEZ"
+                }
+            ]
+        ],
+        "final_winner": "Dominic RODRIGUEZ"
+    }
+}

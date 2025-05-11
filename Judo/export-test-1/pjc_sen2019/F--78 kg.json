@@ -1,0 +1,261 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Mayra AGUIAR"
+                },
+                {
+                    "winner": "Mayra AGUIAR"
+                }
+            ],
+            [
+                {
+                    "country": "CHI",
+                    "name": "Jacqueline USNAYO"
+                },
+                {
+                    "country": "CAN",
+                    "name": "Shianne GRONEN"
+                },
+                {
+                    "winner": "Jacqueline USNAYO"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Mayra AGUIAR"
+                },
+                {
+                    "country": "CHI",
+                    "name": "Jacqueline USNAYO"
+                }
+            ]
+        ],
+        "final_winner": "Mayra AGUIAR"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "USA",
+                    "name": "Nefeli PAPADAKIS"
+                },
+                {
+                    "winner": "Nefeli PAPADAKIS"
+                }
+            ],
+            [
+                {
+                    "country": "ARG",
+                    "name": "Lucia CANTERO"
+                },
+                {
+                    "winner": "Lucia CANTERO"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "USA",
+                    "name": "Nefeli PAPADAKIS"
+                },
+                {
+                    "country": "ARG",
+                    "name": "Lucia CANTERO"
+                }
+            ]
+        ],
+        "final_winner": "Nefeli PAPADAKIS"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CUB",
+                    "name": "Kaliema ANTOMARCHI"
+                },
+                {
+                    "winner": "Kaliema ANTOMARCHI"
+                }
+            ],
+            [
+                {
+                    "country": "PER",
+                    "name": "Camila FIGUEROA"
+                },
+                {
+                    "winner": "Camila FIGUEROA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "CUB",
+                    "name": "Kaliema ANTOMARCHI"
+                },
+                {
+                    "country": "PER",
+                    "name": "Camila FIGUEROA"
+                }
+            ]
+        ],
+        "final_winner": "Kaliema ANTOMARCHI"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ECU",
+                    "name": "Vanessa CHALA"
+                },
+                {
+                    "winner": "Vanessa CHALA"
+                }
+            ],
+            [
+                {
+                    "country": "MEX",
+                    "name": "Liliana CARDENAS"
+                },
+                {
+                    "winner": "Liliana CARDENAS"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "ECU",
+                    "name": "Vanessa CHALA"
+                },
+                {
+                    "country": "MEX",
+                    "name": "Liliana CARDENAS"
+                }
+            ]
+        ],
+        "final_winner": "Vanessa CHALA"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CHI",
+                    "name": "Jacqueline USNAYO"
+                },
+                {
+                    "country": "ARG",
+                    "name": "Lucia CANTERO"
+                },
+                {
+                    "winner": "Lucia CANTERO"
+                }
+            ],
+            [
+                {
+                    "country": "PER",
+                    "name": "Camila FIGUEROA"
+                },
+                {
+                    "country": "MEX",
+                    "name": "Liliana CARDENAS"
+                },
+                {
+                    "winner": "Liliana CARDENAS"
+                }
+            ],
+            [
+                {
+                    "country": "ARG",
+                    "name": "Lucia CANTERO"
+                },
+                {
+                    "country": "ECU",
+                    "name": "Vanessa CHALA"
+                },
+                {
+                    "winner": "Lucia CANTERO"
+                }
+            ],
+            [
+                {
+                    "country": "MEX",
+                    "name": "Liliana CARDENAS"
+                },
+                {
+                    "country": "USA",
+                    "name": "Nefeli PAPADAKIS"
+                },
+                {
+                    "winner": "Nefeli PAPADAKIS"
+                }
+            ],
+            [
+                {
+                    "country": "ARG",
+                    "name": "Lucia CANTERO"
+                }
+            ],
+            [
+                {
+                    "country": "USA",
+                    "name": "Nefeli PAPADAKIS"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Lucia CANTERO",
+            "Nefeli PAPADAKIS"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Mayra AGUIAR"
+                },
+                {
+                    "country": "USA",
+                    "name": "Nefeli PAPADAKIS"
+                },
+                {
+                    "winner": "Mayra AGUIAR"
+                }
+            ],
+            [
+                {
+                    "country": "CUB",
+                    "name": "Kaliema ANTOMARCHI"
+                },
+                {
+                    "country": "ECU",
+                    "name": "Vanessa CHALA"
+                },
+                {
+                    "winner": "Kaliema ANTOMARCHI"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Mayra AGUIAR"
+                },
+                {
+                    "country": "CUB",
+                    "name": "Kaliema ANTOMARCHI"
+                }
+            ]
+        ],
+        "final_winner": "Mayra AGUIAR"
+    }
+}

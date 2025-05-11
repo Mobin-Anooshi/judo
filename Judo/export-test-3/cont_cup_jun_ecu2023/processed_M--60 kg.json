@@ -1,0 +1,93 @@
+{
+    "POOL A": {
+        "round 1-3": [
+            [
+                {
+                    "country": "COL",
+                    "name": "Santiago VASQUEZ"
+                },
+                {
+                    "country": "ECU",
+                    "name": "Jhonathan BENAVIDES"
+                },
+                {
+                    "winner": "Santiago VASQUEZ"
+                }
+            ],
+            [
+                {
+                    "country": "COL",
+                    "name": "Santiago VASQUEZ"
+                },
+                {
+                    "country": "USA",
+                    "name": "David LEIVA"
+                },
+                {
+                    "winner": "David LEIVA"
+                }
+            ],
+            [
+                {
+                    "country": "ECU",
+                    "name": "Jhonathan BENAVIDES"
+                },
+                {
+                    "country": "USA",
+                    "name": "David LEIVA"
+                },
+                {
+                    "winner": "Jhonathan BENAVIDES"
+                }
+            ],
+            [
+                {
+                    "country": "ECU",
+                    "name": "Jhonathan BENAVIDES"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Santiago VASQUEZ",
+            "David LEIVA"
+        ]
+    },
+    "POOL B": {
+        "round 1-1": [],
+        "final_winners": [
+            "Christopher VELAZCO"
+        ]
+    },
+    "REPECHAGE": {
+        "round 1-1": [
+            [
+                {
+                    "country": "USA",
+                    "name": "David LEIVA"
+                },
+                {
+                    "country": "ECU",
+                    "name": "Elkin LUZARDO"
+                },
+                {
+                    "winner": "Elkin LUZARDO"
+                }
+            ],
+            [
+                {
+                    "country": "ECU",
+                    "name": "Elkin LUZARDO"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Elkin LUZARDO"
+        ]
+    },
+    "FINALS": {
+        "round 1-1": [],
+        "final_winners": [
+            "Christopher VELAZCO"
+        ]
+    }
+}

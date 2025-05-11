@@ -1,0 +1,241 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "TUN",
+                    "name": "Donia WUESLATI"
+                },
+                {
+                    "winner": "Donia WUESLATI"
+                }
+            ],
+            [
+                {
+                    "country": "ALG",
+                    "name": "Lamia SAOUD"
+                },
+                {
+                    "winner": "Lamia SAOUD"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "TUN",
+                    "name": "Donia WUESLATI"
+                },
+                {
+                    "country": "ALG",
+                    "name": "Lamia SAOUD"
+                }
+            ]
+        ],
+        "final_winner": "Donia WUESLATI"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [],
+            []
+        ],
+        "round 1-1": [
+            []
+        ]
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "TUN",
+                    "name": "Yosser LAABIDI"
+                },
+                {
+                    "winner": "Yosser LAABIDI"
+                }
+            ],
+            [
+                {
+                    "country": "ALG",
+                    "name": "Yasmine YAHIA MESSAOUD"
+                },
+                {
+                    "country": "MAR",
+                    "name": "Chaimae EDDINARI"
+                },
+                {
+                    "winner": "Chaimae EDDINARI"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "TUN",
+                    "name": "Yosser LAABIDI"
+                },
+                {
+                    "country": "MAR",
+                    "name": "Chaimae EDDINARI"
+                }
+            ]
+        ],
+        "final_winner": "Yosser LAABIDI"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "EGY",
+                    "name": "Mariam MOUSA"
+                },
+                {
+                    "winner": "Mariam MOUSA"
+                }
+            ],
+            [
+                {
+                    "country": "ALG",
+                    "name": "Rayane MOUDJED"
+                },
+                {
+                    "winner": "Rayane MOUDJED"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "EGY",
+                    "name": "Mariam MOUSA"
+                },
+                {
+                    "country": "ALG",
+                    "name": "Rayane MOUDJED"
+                }
+            ]
+        ],
+        "final_winner": "Rayane MOUDJED"
+    },
+    "REPECHAGE": {
+        "round 1-4": [
+            [
+                {
+                    "country": "ALG",
+                    "name": "Lamia SAOUD"
+                },
+                {
+                    "winner": "Lamia SAOUD"
+                }
+            ],
+            [],
+            [
+                {
+                    "country": "MAR",
+                    "name": "Chaimae EDDINARI"
+                },
+                {
+                    "winner": "Chaimae EDDINARI"
+                }
+            ],
+            [
+                {
+                    "country": "EGY",
+                    "name": "Mariam MOUSA"
+                },
+                {
+                    "winner": "Mariam MOUSA"
+                }
+            ]
+        ],
+        "round 1-2": [
+            [
+                {
+                    "country": "ALG",
+                    "name": "Lamia SAOUD"
+                }
+            ],
+            [
+                {
+                    "country": "MAR",
+                    "name": "Chaimae EDDINARI"
+                },
+                {
+                    "country": "EGY",
+                    "name": "Mariam MOUSA"
+                },
+                {
+                    "winner": "Chaimae EDDINARI"
+                }
+            ],
+            [
+                {
+                    "country": "ALG",
+                    "name": "Lamia SAOUD"
+                },
+                {
+                    "country": "TUN",
+                    "name": "Yosser LAABIDI"
+                },
+                {
+                    "winner": "Yosser LAABIDI"
+                }
+            ],
+            [
+                {
+                    "country": "MAR",
+                    "name": "Chaimae EDDINARI"
+                }
+            ],
+            [
+                {
+                    "country": "TUN",
+                    "name": "Yosser LAABIDI"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Chaimae EDDINARI",
+            "Yosser LAABIDI"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "TUN",
+                    "name": "Donia WUESLATI"
+                },
+                {
+                    "winner": "Donia WUESLATI"
+                }
+            ],
+            [
+                {
+                    "country": "TUN",
+                    "name": "Yosser LAABIDI"
+                },
+                {
+                    "country": "ALG",
+                    "name": "Rayane MOUDJED"
+                },
+                {
+                    "winner": "Rayane MOUDJED"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "TUN",
+                    "name": "Donia WUESLATI"
+                },
+                {
+                    "country": "ALG",
+                    "name": "Rayane MOUDJED"
+                }
+            ]
+        ],
+        "final_winner": "Donia WUESLATI"
+    }
+}

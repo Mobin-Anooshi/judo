@@ -1,0 +1,159 @@
+{
+    "POOL A": {
+        "round 1-1": [],
+        "final_winner": "Ons ROMDHANI"
+    },
+    "POOL B": {
+        "round 1-1": [
+            [
+                {
+                    "country": "ALG",
+                    "name": "Dahbia ICHALLAL"
+                },
+                {
+                    "country": "ALG",
+                    "name": "Kamilia BENYOUCEF"
+                }
+            ]
+        ],
+        "final_winner": "Kamilia BENYOUCEF"
+    },
+    "POOL C": {
+        "round 1-1": [
+            [
+                {
+                    "country": "GRE",
+                    "name": "Anna PAPASTERGIOU"
+                },
+                {
+                    "country": "ALG",
+                    "name": "Rahma GUERFAOUI"
+                }
+            ]
+        ],
+        "final_winner": "Rahma GUERFAOUI"
+    },
+    "POOL D": {
+        "round 1-1": [
+            [
+                {
+                    "country": "ALG",
+                    "name": "Lina CHAIBI"
+                },
+                {
+                    "country": "ALG",
+                    "name": "Bouchra BACH SAIS"
+                }
+            ]
+        ],
+        "final_winner": "Bouchra BACH SAIS"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ALG",
+                    "name": "Dahbia ICHALLAL"
+                }
+            ],
+            [
+                {
+                    "country": "GRE",
+                    "name": "Anna PAPASTERGIOU"
+                },
+                {
+                    "country": "ALG",
+                    "name": "Lina CHAIBI"
+                },
+                {
+                    "winner": "Lina CHAIBI"
+                }
+            ],
+            [
+                {
+                    "country": "ALG",
+                    "name": "Dahbia ICHALLAL"
+                },
+                {
+                    "country": "ALG",
+                    "name": "Rahma GUERFAOUI"
+                },
+                {
+                    "winner": "Rahma GUERFAOUI"
+                }
+            ],
+            [
+                {
+                    "country": "ALG",
+                    "name": "Lina CHAIBI"
+                },
+                {
+                    "country": "ALG",
+                    "name": "Kamilia BENYOUCEF"
+                },
+                {
+                    "winner": "Lina CHAIBI"
+                }
+            ],
+            [
+                {
+                    "country": "ALG",
+                    "name": "Rahma GUERFAOUI"
+                }
+            ],
+            [
+                {
+                    "country": "ALG",
+                    "name": "Lina CHAIBI"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Rahma GUERFAOUI",
+            "Lina CHAIBI"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "TUN",
+                    "name": "Ons ROMDHANI"
+                },
+                {
+                    "country": "ALG",
+                    "name": "Kamilia BENYOUCEF"
+                },
+                {
+                    "winner": "Ons ROMDHANI"
+                }
+            ],
+            [
+                {
+                    "country": "ALG",
+                    "name": "Rahma GUERFAOUI"
+                },
+                {
+                    "country": "ALG",
+                    "name": "Bouchra BACH SAIS"
+                },
+                {
+                    "winner": "Bouchra BACH SAIS"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "TUN",
+                    "name": "Ons ROMDHANI"
+                },
+                {
+                    "country": "ALG",
+                    "name": "Bouchra BACH SAIS"
+                }
+            ]
+        ],
+        "final_winner": "Ons ROMDHANI"
+    }
+}

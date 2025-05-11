@@ -1,0 +1,221 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "NED",
+                    "name": "Stef VAN KAMPEN"
+                },
+                {
+                    "winner": "Stef VAN KAMPEN"
+                }
+            ],
+            []
+        ],
+        "round 1-1": [],
+        "final_winner": "Stef VAN KAMPEN"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "SLO",
+                    "name": "Vito DRAGIC"
+                },
+                {
+                    "winner": "Vito DRAGIC"
+                }
+            ],
+            [
+                {
+                    "country": "HUN",
+                    "name": "Richard WACZULIK"
+                },
+                {
+                    "winner": "Richard WACZULIK"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "SLO",
+                    "name": "Vito DRAGIC"
+                },
+                {
+                    "country": "HUN",
+                    "name": "Richard WACZULIK"
+                }
+            ]
+        ],
+        "final_winner": "Vito DRAGIC"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "GER",
+                    "name": "Benjamin BOUIZGARNE"
+                },
+                {
+                    "winner": "Benjamin BOUIZGARNE"
+                }
+            ],
+            []
+        ],
+        "round 1-1": [],
+        "final_winner": "Benjamin BOUIZGARNE"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CRO",
+                    "name": "Ivan COVIC"
+                },
+                {
+                    "winner": "Ivan COVIC"
+                }
+            ],
+            [
+                {
+                    "country": "FIN",
+                    "name": "Martti PUUMALAINEN"
+                },
+                {
+                    "winner": "Martti PUUMALAINEN"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "CRO",
+                    "name": "Ivan COVIC"
+                },
+                {
+                    "country": "FIN",
+                    "name": "Martti PUUMALAINEN"
+                }
+            ]
+        ],
+        "final_winner": "Ivan COVIC"
+    },
+    "REPECHAGE": {
+        "round 1-4": [
+            [],
+            [
+                {
+                    "country": "HUN",
+                    "name": "Richard WACZULIK"
+                },
+                {
+                    "winner": "Richard WACZULIK"
+                }
+            ],
+            [],
+            [
+                {
+                    "country": "FIN",
+                    "name": "Martti PUUMALAINEN"
+                },
+                {
+                    "winner": "Martti PUUMALAINEN"
+                }
+            ]
+        ],
+        "round 1-2": [
+            [
+                {
+                    "country": "HUN",
+                    "name": "Richard WACZULIK"
+                }
+            ],
+            [
+                {
+                    "country": "FIN",
+                    "name": "Martti PUUMALAINEN"
+                }
+            ],
+            [
+                {
+                    "country": "HUN",
+                    "name": "Richard WACZULIK"
+                },
+                {
+                    "country": "CRO",
+                    "name": "Ivan COVIC"
+                },
+                {
+                    "winner": "Ivan COVIC"
+                }
+            ],
+            [
+                {
+                    "country": "FIN",
+                    "name": "Martti PUUMALAINEN"
+                },
+                {
+                    "country": "NED",
+                    "name": "Stef VAN KAMPEN"
+                },
+                {
+                    "winner": "Martti PUUMALAINEN"
+                }
+            ],
+            [
+                {
+                    "country": "CRO",
+                    "name": "Ivan COVIC"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Martti PUUMALAINEN",
+            "Ivan COVIC"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "NED",
+                    "name": "Stef VAN KAMPEN"
+                },
+                {
+                    "country": "SLO",
+                    "name": "Vito DRAGIC"
+                },
+                {
+                    "winner": "Vito DRAGIC"
+                }
+            ],
+            [
+                {
+                    "country": "GER",
+                    "name": "Benjamin BOUIZGARNE"
+                },
+                {
+                    "country": "CRO",
+                    "name": "Ivan COVIC"
+                },
+                {
+                    "winner": "Benjamin BOUIZGARNE"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "SLO",
+                    "name": "Vito DRAGIC"
+                },
+                {
+                    "country": "GER",
+                    "name": "Benjamin BOUIZGARNE"
+                }
+            ]
+        ],
+        "final_winner": "Vito DRAGIC"
+    }
+}

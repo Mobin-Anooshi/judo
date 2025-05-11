@@ -1,0 +1,177 @@
+{
+    "POOL A": {
+        "round 1-1": [
+            [
+                {
+                    "country": "JPN",
+                    "name": "Rika TAKAYAMA"
+                },
+                {
+                    "country": "CHN",
+                    "name": "Miao TIAN"
+                }
+            ]
+        ],
+        "final_winner": "Rika TAKAYAMA"
+    },
+    "POOL B": {
+        "round 1-1": [
+            [
+                {
+                    "country": "CHN",
+                    "name": "Yang LI"
+                },
+                {
+                    "country": "TPE",
+                    "name": "Yung Chen TU"
+                }
+            ]
+        ],
+        "final_winner": "Yang LI"
+    },
+    "POOL C": {
+        "round 1-1": [
+            [
+                {
+                    "country": "RUS",
+                    "name": "Anastasiya DMITRIEVA"
+                },
+                {
+                    "country": "CHN",
+                    "name": "Zhenzhao MA"
+                }
+            ]
+        ],
+        "final_winner": "Zhenzhao MA"
+    },
+    "POOL D": {
+        "round 1-1": [
+            [
+                {
+                    "country": "TPE",
+                    "name": "Szu-chu WANG"
+                },
+                {
+                    "country": "CHN",
+                    "name": "Kaili ZHANG"
+                }
+            ]
+        ],
+        "final_winner": "Kaili ZHANG"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CHN",
+                    "name": "Miao TIAN"
+                },
+                {
+                    "country": "TPE",
+                    "name": "Yung Chen TU"
+                },
+                {
+                    "winner": "Miao TIAN"
+                }
+            ],
+            [
+                {
+                    "country": "RUS",
+                    "name": "Anastasiya DMITRIEVA"
+                },
+                {
+                    "country": "TPE",
+                    "name": "Szu-chu WANG"
+                },
+                {
+                    "winner": "Anastasiya DMITRIEVA"
+                }
+            ],
+            [
+                {
+                    "country": "CHN",
+                    "name": "Miao TIAN"
+                },
+                {
+                    "country": "CHN",
+                    "name": "Zhenzhao MA"
+                },
+                {
+                    "winner": "Zhenzhao MA"
+                }
+            ],
+            [
+                {
+                    "country": "RUS",
+                    "name": "Anastasiya DMITRIEVA"
+                },
+                {
+                    "country": "CHN",
+                    "name": "Yang LI"
+                },
+                {
+                    "winner": "Anastasiya DMITRIEVA"
+                }
+            ],
+            [
+                {
+                    "country": "CHN",
+                    "name": "Zhenzhao MA"
+                }
+            ],
+            [
+                {
+                    "country": "RUS",
+                    "name": "Anastasiya DMITRIEVA"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Zhenzhao MA",
+            "Anastasiya DMITRIEVA"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "JPN",
+                    "name": "Rika TAKAYAMA"
+                },
+                {
+                    "country": "CHN",
+                    "name": "Yang LI"
+                },
+                {
+                    "winner": "Rika TAKAYAMA"
+                }
+            ],
+            [
+                {
+                    "country": "CHN",
+                    "name": "Zhenzhao MA"
+                },
+                {
+                    "country": "CHN",
+                    "name": "Kaili ZHANG"
+                },
+                {
+                    "winner": "Kaili ZHANG"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "JPN",
+                    "name": "Rika TAKAYAMA"
+                },
+                {
+                    "country": "CHN",
+                    "name": "Kaili ZHANG"
+                }
+            ]
+        ],
+        "final_winner": "Rika TAKAYAMA"
+    }
+}

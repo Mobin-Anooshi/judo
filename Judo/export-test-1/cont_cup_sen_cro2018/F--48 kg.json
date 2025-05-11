@@ -1,0 +1,255 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ITA",
+                    "name": "Alessia RITIENI"
+                },
+                {
+                    "winner": "Alessia RITIENI"
+                }
+            ],
+            []
+        ],
+        "round 1-1": [],
+        "final_winner": "Alessia RITIENI"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "FRA",
+                    "name": "Cheyenne MOUNIER"
+                },
+                {
+                    "winner": "Cheyenne MOUNIER"
+                }
+            ],
+            [
+                {
+                    "country": "POL",
+                    "name": "Katarzyna WISZNIEWSKA"
+                },
+                {
+                    "winner": "Katarzyna WISZNIEWSKA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "FRA",
+                    "name": "Cheyenne MOUNIER"
+                },
+                {
+                    "country": "POL",
+                    "name": "Katarzyna WISZNIEWSKA"
+                }
+            ]
+        ],
+        "final_winner": "Cheyenne MOUNIER"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "FIN",
+                    "name": "Marianne KOSONEN"
+                },
+                {
+                    "winner": "Marianne KOSONEN"
+                }
+            ],
+            [
+                {
+                    "country": "FRA",
+                    "name": "Manon URDIALES"
+                },
+                {
+                    "winner": "Manon URDIALES"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "FIN",
+                    "name": "Marianne KOSONEN"
+                },
+                {
+                    "country": "FRA",
+                    "name": "Manon URDIALES"
+                }
+            ]
+        ],
+        "final_winner": "Manon URDIALES"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "RUS",
+                    "name": "Elizaveta STEPANOVA"
+                },
+                {
+                    "winner": "Elizaveta STEPANOVA"
+                }
+            ],
+            [
+                {
+                    "country": "CRO",
+                    "name": "Sara MATIJEVIC"
+                },
+                {
+                    "winner": "Sara MATIJEVIC"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "RUS",
+                    "name": "Elizaveta STEPANOVA"
+                },
+                {
+                    "country": "CRO",
+                    "name": "Sara MATIJEVIC"
+                }
+            ]
+        ],
+        "final_winner": "Elizaveta STEPANOVA"
+    },
+    "REPECHAGE": {
+        "round 1-4": [
+            [],
+            [
+                {
+                    "country": "POL",
+                    "name": "Katarzyna WISZNIEWSKA"
+                },
+                {
+                    "winner": "Katarzyna WISZNIEWSKA"
+                }
+            ],
+            [
+                {
+                    "country": "FIN",
+                    "name": "Marianne KOSONEN"
+                },
+                {
+                    "winner": "Marianne KOSONEN"
+                }
+            ],
+            [
+                {
+                    "country": "CRO",
+                    "name": "Sara MATIJEVIC"
+                },
+                {
+                    "winner": "Sara MATIJEVIC"
+                }
+            ]
+        ],
+        "round 1-2": [
+            [
+                {
+                    "country": "POL",
+                    "name": "Katarzyna WISZNIEWSKA"
+                }
+            ],
+            [
+                {
+                    "country": "FIN",
+                    "name": "Marianne KOSONEN"
+                },
+                {
+                    "country": "CRO",
+                    "name": "Sara MATIJEVIC"
+                },
+                {
+                    "winner": "Sara MATIJEVIC"
+                }
+            ],
+            [
+                {
+                    "country": "POL",
+                    "name": "Katarzyna WISZNIEWSKA"
+                },
+                {
+                    "country": "FRA",
+                    "name": "Manon URDIALES"
+                },
+                {
+                    "winner": "Katarzyna WISZNIEWSKA"
+                }
+            ],
+            [
+                {
+                    "country": "CRO",
+                    "name": "Sara MATIJEVIC"
+                },
+                {
+                    "country": "ITA",
+                    "name": "Alessia RITIENI"
+                },
+                {
+                    "winner": "Alessia RITIENI"
+                }
+            ],
+            [
+                {
+                    "country": "ITA",
+                    "name": "Alessia RITIENI"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Sara MATIJEVIC",
+            "Katarzyna WISZNIEWSKA"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ITA",
+                    "name": "Alessia RITIENI"
+                },
+                {
+                    "country": "FRA",
+                    "name": "Cheyenne MOUNIER"
+                },
+                {
+                    "winner": "Cheyenne MOUNIER"
+                }
+            ],
+            [
+                {
+                    "country": "FRA",
+                    "name": "Manon URDIALES"
+                },
+                {
+                    "country": "RUS",
+                    "name": "Elizaveta STEPANOVA"
+                },
+                {
+                    "winner": "Elizaveta STEPANOVA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "FRA",
+                    "name": "Cheyenne MOUNIER"
+                },
+                {
+                    "country": "RUS",
+                    "name": "Elizaveta STEPANOVA"
+                }
+            ]
+        ],
+        "final_winner": "Cheyenne MOUNIER"
+    }
+}

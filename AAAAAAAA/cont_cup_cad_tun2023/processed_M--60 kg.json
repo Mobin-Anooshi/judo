@@ -1,0 +1,277 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "KSA",
+                    "name": "Hamad ALKHALDI"
+                },
+                {
+                    "winner": "Hamad ALKHALDI"
+                }
+            ],
+            [
+                {
+                    "country": "TUN",
+                    "name": "Ghaith GUIRATI"
+                },
+                {
+                    "country": "ALG",
+                    "name": "Oussama Abdelhak HEZIL"
+                },
+                {
+                    "winner": "Oussama Abdelhak HEZIL"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "KSA",
+                    "name": "Hamad ALKHALDI"
+                },
+                {
+                    "country": "ALG",
+                    "name": "Oussama Abdelhak HEZIL"
+                }
+            ]
+        ],
+        "final_winner": "Oussama Abdelhak HEZIL"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "BIH",
+                    "name": "Luka BUBALO"
+                },
+                {
+                    "country": "EST",
+                    "name": "Robert JAKIMOV"
+                },
+                {
+                    "winner": "Robert JAKIMOV"
+                }
+            ],
+            [
+                {
+                    "country": "TUN",
+                    "name": "Mouthanna DHIFALLAH"
+                },
+                {
+                    "winner": "Mouthanna DHIFALLAH"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "EST",
+                    "name": "Robert JAKIMOV"
+                },
+                {
+                    "country": "TUN",
+                    "name": "Mouthanna DHIFALLAH"
+                }
+            ]
+        ],
+        "final_winner": "Mouthanna DHIFALLAH"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "EST",
+                    "name": "Peter CLARK"
+                },
+                {
+                    "winner": "Peter CLARK"
+                }
+            ],
+            [
+                {
+                    "country": "ALG",
+                    "name": "Riadh HADJ MOUSSA"
+                },
+                {
+                    "country": "TUN",
+                    "name": "Mohamed Ali SAHLI"
+                },
+                {
+                    "winner": "Mohamed Ali SAHLI"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "EST",
+                    "name": "Peter CLARK"
+                },
+                {
+                    "country": "TUN",
+                    "name": "Mohamed Ali SAHLI"
+                }
+            ]
+        ],
+        "final_winner": "Peter CLARK"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "TUN",
+                    "name": "Ali LETAIEF"
+                },
+                {
+                    "country": "GRE",
+                    "name": "Nikolaos PAPASTERGIOU"
+                },
+                {
+                    "winner": "Ali LETAIEF"
+                }
+            ],
+            [
+                {
+                    "country": "TUN",
+                    "name": "Wael CHEMKHI"
+                },
+                {
+                    "country": "KSA",
+                    "name": "Fares ALJOHAR"
+                },
+                {
+                    "winner": "Wael CHEMKHI"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "TUN",
+                    "name": "Ali LETAIEF"
+                },
+                {
+                    "country": "TUN",
+                    "name": "Wael CHEMKHI"
+                }
+            ]
+        ],
+        "final_winner": "Ali LETAIEF"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "KSA",
+                    "name": "Hamad ALKHALDI"
+                },
+                {
+                    "country": "EST",
+                    "name": "Robert JAKIMOV"
+                },
+                {
+                    "winner": "Hamad ALKHALDI"
+                }
+            ],
+            [
+                {
+                    "country": "TUN",
+                    "name": "Mohamed Ali SAHLI"
+                },
+                {
+                    "country": "TUN",
+                    "name": "Wael CHEMKHI"
+                },
+                {
+                    "winner": "Mohamed Ali SAHLI"
+                }
+            ],
+            [
+                {
+                    "country": "KSA",
+                    "name": "Hamad ALKHALDI"
+                },
+                {
+                    "country": "EST",
+                    "name": "Peter CLARK"
+                },
+                {
+                    "winner": "Peter CLARK"
+                }
+            ],
+            [
+                {
+                    "country": "TUN",
+                    "name": "Mohamed Ali SAHLI"
+                },
+                {
+                    "country": "TUN",
+                    "name": "Mouthanna DHIFALLAH"
+                },
+                {
+                    "winner": "Mouthanna DHIFALLAH"
+                }
+            ],
+            [
+                {
+                    "country": "EST",
+                    "name": "Peter CLARK"
+                }
+            ],
+            [
+                {
+                    "country": "TUN",
+                    "name": "Mouthanna DHIFALLAH"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Peter CLARK",
+            "Mouthanna DHIFALLAH"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ALG",
+                    "name": "Oussama Abdelhak HEZIL"
+                },
+                {
+                    "country": "TUN",
+                    "name": "Mouthanna DHIFALLAH"
+                },
+                {
+                    "winner": "Oussama Abdelhak HEZIL"
+                }
+            ],
+            [
+                {
+                    "country": "EST",
+                    "name": "Peter CLARK"
+                },
+                {
+                    "country": "TUN",
+                    "name": "Ali LETAIEF"
+                },
+                {
+                    "winner": "Ali LETAIEF"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "ALG",
+                    "name": "Oussama Abdelhak HEZIL"
+                },
+                {
+                    "country": "TUN",
+                    "name": "Ali LETAIEF"
+                }
+            ]
+        ],
+        "final_winner": "Oussama Abdelhak HEZIL"
+    }
+}

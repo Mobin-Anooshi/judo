@@ -1,0 +1,265 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Luiza CRUZ"
+                },
+                {
+                    "winner": "Luiza CRUZ"
+                }
+            ],
+            [
+                {
+                    "country": "CAN",
+                    "name": "Annabelle DARLOW"
+                },
+                {
+                    "winner": "Annabelle DARLOW"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Luiza CRUZ"
+                },
+                {
+                    "country": "CAN",
+                    "name": "Annabelle DARLOW"
+                }
+            ]
+        ],
+        "final_winner": "Luiza CRUZ"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ECU",
+                    "name": "Alisson SUQUILANDA"
+                },
+                {
+                    "winner": "Alisson SUQUILANDA"
+                }
+            ],
+            [
+                {
+                    "country": "COL",
+                    "name": "Daniela MONTES"
+                },
+                {
+                    "country": "MEX",
+                    "name": "ALICIA SANMIGUEL"
+                },
+                {
+                    "winner": "ALICIA SANMIGUEL"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "ECU",
+                    "name": "Alisson SUQUILANDA"
+                },
+                {
+                    "country": "MEX",
+                    "name": "ALICIA SANMIGUEL"
+                }
+            ]
+        ],
+        "final_winner": "ALICIA SANMIGUEL"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "DOM",
+                    "name": "Omaria RAMIREZ"
+                },
+                {
+                    "winner": "Omaria RAMIREZ"
+                }
+            ],
+            [
+                {
+                    "country": "PER",
+                    "name": "Yumiko TANABE"
+                },
+                {
+                    "country": "USA",
+                    "name": "Skyla SHUMWAY"
+                },
+                {
+                    "winner": "Skyla SHUMWAY"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "DOM",
+                    "name": "Omaria RAMIREZ"
+                },
+                {
+                    "country": "USA",
+                    "name": "Skyla SHUMWAY"
+                }
+            ]
+        ],
+        "final_winner": "Omaria RAMIREZ"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "DOM",
+                    "name": "Moira MORILLO"
+                },
+                {
+                    "winner": "Moira MORILLO"
+                }
+            ],
+            [
+                {
+                    "country": "MEX",
+                    "name": "Priscila MARTINEZ"
+                },
+                {
+                    "winner": "Priscila MARTINEZ"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "DOM",
+                    "name": "Moira MORILLO"
+                },
+                {
+                    "country": "MEX",
+                    "name": "Priscila MARTINEZ"
+                }
+            ]
+        ],
+        "final_winner": "Priscila MARTINEZ"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CAN",
+                    "name": "Annabelle DARLOW"
+                },
+                {
+                    "country": "ECU",
+                    "name": "Alisson SUQUILANDA"
+                },
+                {
+                    "winner": "Alisson SUQUILANDA"
+                }
+            ],
+            [
+                {
+                    "country": "USA",
+                    "name": "Skyla SHUMWAY"
+                },
+                {
+                    "country": "DOM",
+                    "name": "Moira MORILLO"
+                },
+                {
+                    "winner": "Moira MORILLO"
+                }
+            ],
+            [
+                {
+                    "country": "ECU",
+                    "name": "Alisson SUQUILANDA"
+                },
+                {
+                    "country": "DOM",
+                    "name": "Omaria RAMIREZ"
+                },
+                {
+                    "winner": "Alisson SUQUILANDA"
+                }
+            ],
+            [
+                {
+                    "country": "DOM",
+                    "name": "Moira MORILLO"
+                },
+                {
+                    "country": "MEX",
+                    "name": "ALICIA SANMIGUEL"
+                },
+                {
+                    "winner": "ALICIA SANMIGUEL"
+                }
+            ],
+            [
+                {
+                    "country": "ECU",
+                    "name": "Alisson SUQUILANDA"
+                }
+            ],
+            [
+                {
+                    "country": "MEX",
+                    "name": "ALICIA SANMIGUEL"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Alisson SUQUILANDA",
+            "ALICIA SANMIGUEL"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Luiza CRUZ"
+                },
+                {
+                    "country": "MEX",
+                    "name": "ALICIA SANMIGUEL"
+                },
+                {
+                    "winner": "Luiza CRUZ"
+                }
+            ],
+            [
+                {
+                    "country": "DOM",
+                    "name": "Omaria RAMIREZ"
+                },
+                {
+                    "country": "MEX",
+                    "name": "Priscila MARTINEZ"
+                },
+                {
+                    "winner": "Priscila MARTINEZ"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Luiza CRUZ"
+                },
+                {
+                    "country": "MEX",
+                    "name": "Priscila MARTINEZ"
+                }
+            ]
+        ],
+        "final_winner": "Luiza CRUZ"
+    }
+}

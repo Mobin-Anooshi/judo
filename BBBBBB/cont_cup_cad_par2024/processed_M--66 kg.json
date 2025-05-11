@@ -1,0 +1,159 @@
+{
+    "POOL A": {
+        "round 1-1": [],
+        "final_winner": "Agustin LEDESMA"
+    },
+    "POOL B": {
+        "round 1-1": [
+            [
+                {
+                    "country": "BOL",
+                    "name": "Emiliano PAZ"
+                },
+                {
+                    "country": "URU",
+                    "name": "Juan BENITES TRAIBEL"
+                }
+            ]
+        ],
+        "final_winner": "Emiliano PAZ"
+    },
+    "POOL C": {
+        "round 1-1": [
+            [
+                {
+                    "country": "URU",
+                    "name": "Luciano Valentino LIORI RODRIGUEZ"
+                },
+                {
+                    "country": "ECU",
+                    "name": "Orly SANANGO"
+                }
+            ]
+        ],
+        "final_winner": "Luciano Valentino LIORI RODRIGUEZ"
+    },
+    "POOL D": {
+        "round 1-1": [
+            [
+                {
+                    "country": "URU",
+                    "name": "Santino Mario CERCHI"
+                },
+                {
+                    "country": "PAR",
+                    "name": "Elias VERON"
+                }
+            ]
+        ],
+        "final_winner": "Santino Mario CERCHI"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "URU",
+                    "name": "Juan BENITES TRAIBEL"
+                }
+            ],
+            [
+                {
+                    "country": "ECU",
+                    "name": "Orly SANANGO"
+                },
+                {
+                    "country": "PAR",
+                    "name": "Elias VERON"
+                },
+                {
+                    "winner": "Orly SANANGO"
+                }
+            ],
+            [
+                {
+                    "country": "URU",
+                    "name": "Juan BENITES TRAIBEL"
+                },
+                {
+                    "country": "URU",
+                    "name": "Santino Mario CERCHI"
+                },
+                {
+                    "winner": "Santino Mario CERCHI"
+                }
+            ],
+            [
+                {
+                    "country": "ECU",
+                    "name": "Orly SANANGO"
+                },
+                {
+                    "country": "BOL",
+                    "name": "Emiliano PAZ"
+                },
+                {
+                    "winner": "Emiliano PAZ"
+                }
+            ],
+            [
+                {
+                    "country": "URU",
+                    "name": "Santino Mario CERCHI"
+                }
+            ],
+            [
+                {
+                    "country": "BOL",
+                    "name": "Emiliano PAZ"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Santino Mario CERCHI",
+            "Emiliano PAZ"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "PAR",
+                    "name": "Agustin LEDESMA"
+                },
+                {
+                    "country": "BOL",
+                    "name": "Emiliano PAZ"
+                },
+                {
+                    "winner": "Agustin LEDESMA"
+                }
+            ],
+            [
+                {
+                    "country": "URU",
+                    "name": "Luciano Valentino LIORI RODRIGUEZ"
+                },
+                {
+                    "country": "URU",
+                    "name": "Santino Mario CERCHI"
+                },
+                {
+                    "winner": "Luciano Valentino LIORI RODRIGUEZ"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "PAR",
+                    "name": "Agustin LEDESMA"
+                },
+                {
+                    "country": "URU",
+                    "name": "Luciano Valentino LIORI RODRIGUEZ"
+                }
+            ]
+        ],
+        "final_winner": "Luciano Valentino LIORI RODRIGUEZ"
+    }
+}

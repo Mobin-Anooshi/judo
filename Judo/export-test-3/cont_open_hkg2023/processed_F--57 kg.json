@@ -1,0 +1,68 @@
+{
+    "ROUND 1": {
+        "round 1-2": [
+            [
+                {
+                    "country": "HKG",
+                    "name": "Nok Lam YEUNG"
+                },
+                {
+                    "country": "TPE",
+                    "name": "Ni-Erh KO"
+                },
+                {
+                    "winner": "Nok Lam YEUNG"
+                }
+            ],
+            [
+                {
+                    "country": "KOR",
+                    "name": "Chaerim HONG"
+                },
+                {
+                    "country": "MAC",
+                    "name": "Lok I LEI"
+                },
+                {
+                    "winner": "Chaerim HONG"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Nok Lam YEUNG",
+            "Chaerim HONG"
+        ]
+    },
+    "REPECHAGE": {
+        "round 1-1": [
+            [
+                {
+                    "country": "TPE",
+                    "name": "Ni-Erh KO"
+                },
+                {
+                    "country": "MAC",
+                    "name": "Lok I LEI"
+                },
+                {
+                    "winner": "Ni-Erh KO"
+                }
+            ],
+            [
+                {
+                    "country": "TPE",
+                    "name": "Ni-Erh KO"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Ni-Erh KO"
+        ]
+    },
+    "FINALS": {
+        "round 1-1": [],
+        "final_winners": [
+            "Nok Lam YEUNG"
+        ]
+    }
+}

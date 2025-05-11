@@ -1,0 +1,68 @@
+{
+    "ROUND 1": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ECU",
+                    "name": "Freddy FIGUEROA"
+                },
+                {
+                    "country": "ARG",
+                    "name": "Alejo BURGOS"
+                },
+                {
+                    "winner": "Freddy FIGUEROA"
+                }
+            ],
+            [
+                {
+                    "country": "CHI",
+                    "name": "Francisco SOLIS"
+                },
+                {
+                    "country": "USA",
+                    "name": "Gregory PRIOR"
+                },
+                {
+                    "winner": "Francisco SOLIS"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Freddy FIGUEROA",
+            "Francisco SOLIS"
+        ]
+    },
+    "REPECHAGE": {
+        "round 1-1": [
+            [
+                {
+                    "country": "ARG",
+                    "name": "Alejo BURGOS"
+                },
+                {
+                    "country": "USA",
+                    "name": "Gregory PRIOR"
+                },
+                {
+                    "winner": "Alejo BURGOS"
+                }
+            ],
+            [
+                {
+                    "country": "ARG",
+                    "name": "Alejo BURGOS"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Alejo BURGOS"
+        ]
+    },
+    "FINALS": {
+        "round 1-1": [],
+        "final_winners": [
+            "Freddy FIGUEROA"
+        ]
+    }
+}

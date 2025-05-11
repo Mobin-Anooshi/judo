@@ -1,0 +1,141 @@
+{
+    "POOL A": {
+        "round 1-1": [],
+        "final_winner": "Abir BOUAZZAOUI"
+    },
+    "POOL B": {
+        "round 1-1": [
+            [
+                {
+                    "country": "TUN",
+                    "name": "Maram DHIB"
+                },
+                {
+                    "country": "TUN",
+                    "name": "Donia SALWAJ"
+                }
+            ]
+        ],
+        "final_winner": "Maram DHIB"
+    },
+    "POOL C": {
+        "round 1-1": [
+            [
+                {
+                    "country": "ALG",
+                    "name": "Assia BELBACHIR"
+                },
+                {
+                    "country": "TUN",
+                    "name": "Nour El Houda GHERIBI"
+                }
+            ]
+        ],
+        "final_winner": "Assia BELBACHIR"
+    },
+    "POOL D": {
+        "round 1-1": [],
+        "final_winner": "Khadija TRABELSI"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "TUN",
+                    "name": "Donia SALWAJ"
+                }
+            ],
+            [
+                {
+                    "country": "TUN",
+                    "name": "Nour El Houda GHERIBI"
+                }
+            ],
+            [
+                {
+                    "country": "TUN",
+                    "name": "Donia SALWAJ"
+                },
+                {
+                    "country": "TUN",
+                    "name": "Khadija TRABELSI"
+                },
+                {
+                    "winner": "Khadija TRABELSI"
+                }
+            ],
+            [
+                {
+                    "country": "TUN",
+                    "name": "Nour El Houda GHERIBI"
+                },
+                {
+                    "country": "MAR",
+                    "name": "Abir BOUAZZAOUI"
+                },
+                {
+                    "winner": "Abir BOUAZZAOUI"
+                }
+            ],
+            [
+                {
+                    "country": "TUN",
+                    "name": "Khadija TRABELSI"
+                }
+            ],
+            [
+                {
+                    "country": "MAR",
+                    "name": "Abir BOUAZZAOUI"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Khadija TRABELSI",
+            "Abir BOUAZZAOUI"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "MAR",
+                    "name": "Abir BOUAZZAOUI"
+                },
+                {
+                    "country": "TUN",
+                    "name": "Maram DHIB"
+                },
+                {
+                    "winner": "Maram DHIB"
+                }
+            ],
+            [
+                {
+                    "country": "ALG",
+                    "name": "Assia BELBACHIR"
+                },
+                {
+                    "country": "TUN",
+                    "name": "Khadija TRABELSI"
+                },
+                {
+                    "winner": "Assia BELBACHIR"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "TUN",
+                    "name": "Maram DHIB"
+                },
+                {
+                    "country": "ALG",
+                    "name": "Assia BELBACHIR"
+                }
+            ]
+        ],
+        "final_winner": "Maram DHIB"
+    }
+}

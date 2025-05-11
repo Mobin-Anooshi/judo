@@ -1,0 +1,159 @@
+{
+    "POOL A": {
+        "round 1-1": [],
+        "final_winner": "Mouhamedou MBOUP"
+    },
+    "POOL B": {
+        "round 1-1": [
+            [
+                {
+                    "country": "GAM",
+                    "name": "Hassan PAZIAUD"
+                },
+                {
+                    "country": "CIV",
+                    "name": "Kassoum Gbon Aboubacar COULIBALY"
+                }
+            ]
+        ],
+        "final_winner": "Kassoum Gbon Aboubacar COULIBALY"
+    },
+    "POOL C": {
+        "round 1-1": [
+            [
+                {
+                    "country": "SEN",
+                    "name": "Ibrahima FALL"
+                },
+                {
+                    "country": "RSA",
+                    "name": "Olebogeng NAKEDI"
+                }
+            ]
+        ],
+        "final_winner": "Ibrahima FALL"
+    },
+    "POOL D": {
+        "round 1-1": [
+            [
+                {
+                    "country": "ALG",
+                    "name": "Mohamed Amine BESSAI"
+                },
+                {
+                    "country": "EGY",
+                    "name": "Adel HAMADA"
+                }
+            ]
+        ],
+        "final_winner": "Mohamed Amine BESSAI"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "GAM",
+                    "name": "Hassan PAZIAUD"
+                }
+            ],
+            [
+                {
+                    "country": "RSA",
+                    "name": "Olebogeng NAKEDI"
+                },
+                {
+                    "country": "EGY",
+                    "name": "Adel HAMADA"
+                },
+                {
+                    "winner": "Adel HAMADA"
+                }
+            ],
+            [
+                {
+                    "country": "GAM",
+                    "name": "Hassan PAZIAUD"
+                },
+                {
+                    "country": "ALG",
+                    "name": "Mohamed Amine BESSAI"
+                },
+                {
+                    "winner": "Mohamed Amine BESSAI"
+                }
+            ],
+            [
+                {
+                    "country": "EGY",
+                    "name": "Adel HAMADA"
+                },
+                {
+                    "country": "CIV",
+                    "name": "Kassoum Gbon Aboubacar COULIBALY"
+                },
+                {
+                    "winner": "Adel HAMADA"
+                }
+            ],
+            [
+                {
+                    "country": "ALG",
+                    "name": "Mohamed Amine BESSAI"
+                }
+            ],
+            [
+                {
+                    "country": "EGY",
+                    "name": "Adel HAMADA"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Mohamed Amine BESSAI",
+            "Adel HAMADA"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "SEN",
+                    "name": "Mouhamedou MBOUP"
+                },
+                {
+                    "country": "CIV",
+                    "name": "Kassoum Gbon Aboubacar COULIBALY"
+                },
+                {
+                    "winner": "Mouhamedou MBOUP"
+                }
+            ],
+            [
+                {
+                    "country": "SEN",
+                    "name": "Ibrahima FALL"
+                },
+                {
+                    "country": "ALG",
+                    "name": "Mohamed Amine BESSAI"
+                },
+                {
+                    "winner": "Ibrahima FALL"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "SEN",
+                    "name": "Mouhamedou MBOUP"
+                },
+                {
+                    "country": "SEN",
+                    "name": "Ibrahima FALL"
+                }
+            ]
+        ],
+        "final_winner": "Ibrahima FALL"
+    }
+}

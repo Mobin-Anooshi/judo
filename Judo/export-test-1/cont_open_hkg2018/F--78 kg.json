@@ -1,0 +1,159 @@
+{
+    "POOL A": {
+        "round 1-1": [],
+        "final_winner": "Ikumi OEDA"
+    },
+    "POOL B": {
+        "round 1-1": [
+            [
+                {
+                    "country": "TPE",
+                    "name": "Shu Huei HSU WANG"
+                },
+                {
+                    "country": "IND",
+                    "name": "Jina Devi CHONGTHAM"
+                }
+            ]
+        ],
+        "final_winner": "Shu Huei HSU WANG"
+    },
+    "POOL C": {
+        "round 1-1": [
+            [
+                {
+                    "country": "CAN",
+                    "name": "Mina COULOMBE"
+                },
+                {
+                    "country": "JPN",
+                    "name": "Nami ITO"
+                }
+            ]
+        ],
+        "final_winner": "Nami ITO"
+    },
+    "POOL D": {
+        "round 1-1": [
+            [
+                {
+                    "country": "CHN",
+                    "name": "Kaili ZHANG"
+                },
+                {
+                    "country": "KOR",
+                    "name": "Naeun JUNG"
+                }
+            ]
+        ],
+        "final_winner": "Kaili ZHANG"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "IND",
+                    "name": "Jina Devi CHONGTHAM"
+                }
+            ],
+            [
+                {
+                    "country": "CAN",
+                    "name": "Mina COULOMBE"
+                },
+                {
+                    "country": "KOR",
+                    "name": "Naeun JUNG"
+                },
+                {
+                    "winner": "Mina COULOMBE"
+                }
+            ],
+            [
+                {
+                    "country": "IND",
+                    "name": "Jina Devi CHONGTHAM"
+                },
+                {
+                    "country": "CHN",
+                    "name": "Kaili ZHANG"
+                },
+                {
+                    "winner": "Kaili ZHANG"
+                }
+            ],
+            [
+                {
+                    "country": "CAN",
+                    "name": "Mina COULOMBE"
+                },
+                {
+                    "country": "THA",
+                    "name": "Ikumi OEDA"
+                },
+                {
+                    "winner": "Ikumi OEDA"
+                }
+            ],
+            [
+                {
+                    "country": "CHN",
+                    "name": "Kaili ZHANG"
+                }
+            ],
+            [
+                {
+                    "country": "THA",
+                    "name": "Ikumi OEDA"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Kaili ZHANG",
+            "Ikumi OEDA"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "THA",
+                    "name": "Ikumi OEDA"
+                },
+                {
+                    "country": "TPE",
+                    "name": "Shu Huei HSU WANG"
+                },
+                {
+                    "winner": "Shu Huei HSU WANG"
+                }
+            ],
+            [
+                {
+                    "country": "JPN",
+                    "name": "Nami ITO"
+                },
+                {
+                    "country": "CHN",
+                    "name": "Kaili ZHANG"
+                },
+                {
+                    "winner": "Nami ITO"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "TPE",
+                    "name": "Shu Huei HSU WANG"
+                },
+                {
+                    "country": "JPN",
+                    "name": "Nami ITO"
+                }
+            ]
+        ],
+        "final_winner": "Nami ITO"
+    }
+}

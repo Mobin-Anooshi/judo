@@ -1,0 +1,68 @@
+{
+    "ROUND 1": {
+        "round 1-2": [
+            [
+                {
+                    "country": "GUA",
+                    "name": "Angel GOMEZ"
+                },
+                {
+                    "country": "PAN",
+                    "name": "German CHOVAR TROTMAN"
+                },
+                {
+                    "winner": "Angel GOMEZ"
+                }
+            ],
+            [
+                {
+                    "country": "PAN",
+                    "name": "Joshua AYALA"
+                },
+                {
+                    "country": "NCA",
+                    "name": "Silvio GUILLEN ORTEGA"
+                },
+                {
+                    "winner": "Joshua AYALA"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Angel GOMEZ",
+            "Joshua AYALA"
+        ]
+    },
+    "REPECHAGE": {
+        "round 1-1": [
+            [
+                {
+                    "country": "PAN",
+                    "name": "German CHOVAR TROTMAN"
+                },
+                {
+                    "country": "NCA",
+                    "name": "Silvio GUILLEN ORTEGA"
+                },
+                {
+                    "winner": "Silvio GUILLEN ORTEGA"
+                }
+            ],
+            [
+                {
+                    "country": "NCA",
+                    "name": "Silvio GUILLEN ORTEGA"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Silvio GUILLEN ORTEGA"
+        ]
+    },
+    "FINALS": {
+        "round 1-1": [],
+        "final_winners": [
+            "Angel GOMEZ"
+        ]
+    }
+}

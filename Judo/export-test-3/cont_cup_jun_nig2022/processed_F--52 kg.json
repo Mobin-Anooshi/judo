@@ -1,0 +1,87 @@
+{
+    "POOL A": {
+        "round 1-3": [
+            [
+                {
+                    "country": "NIG",
+                    "name": "Kafayyatou ISSOUFOU SANI"
+                },
+                {
+                    "country": "NIG",
+                    "name": "Madinatou SAKA AMINOU"
+                },
+                {
+                    "winner": "Kafayyatou ISSOUFOU SANI"
+                }
+            ],
+            [
+                {
+                    "country": "NIG",
+                    "name": "Kafayyatou ISSOUFOU SANI"
+                },
+                {
+                    "country": "SEN",
+                    "name": "Diodio SONKO"
+                },
+                {
+                    "winner": "Diodio SONKO"
+                }
+            ],
+            [
+                {
+                    "country": "NIG",
+                    "name": "Madinatou SAKA AMINOU"
+                },
+                {
+                    "country": "SEN",
+                    "name": "Diodio SONKO"
+                },
+                {
+                    "winner": "Madinatou SAKA AMINOU"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Madinatou SAKA AMINOU",
+            "Diodio SONKO"
+        ]
+    },
+    "POOL B": {
+        "round 1-1": [],
+        "final_winners": [
+            "Faizatou SEYNI ZOUMARI"
+        ]
+    },
+    "REPECHAGE": {
+        "round 1-1": [
+            [
+                {
+                    "country": "NIG",
+                    "name": "Madinatou SAKA AMINOU"
+                },
+                {
+                    "country": "NIG",
+                    "name": "Rabilatou MAMANE ALI"
+                },
+                {
+                    "winner": "Madinatou SAKA AMINOU"
+                }
+            ],
+            [
+                {
+                    "country": "NIG",
+                    "name": "Madinatou SAKA AMINOU"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Madinatou SAKA AMINOU"
+        ]
+    },
+    "FINALS": {
+        "round 1-1": [],
+        "final_winners": [
+            "Diodio SONKO"
+        ]
+    }
+}

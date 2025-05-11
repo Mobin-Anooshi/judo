@@ -1,0 +1,135 @@
+{
+    "POOL A": {
+        "round 1-1": [],
+        "final_winner": "Isaac BEZZINA"
+    },
+    "POOL B": {
+        "round 1-1": [
+            [
+                {
+                    "country": "MNE",
+                    "name": "Danilo PANTIC"
+                },
+                {
+                    "country": "ISL",
+                    "name": "Egill BLONDAL"
+                }
+            ]
+        ],
+        "final_winner": "Danilo PANTIC"
+    },
+    "POOL C": {
+        "round 1-1": [
+            [
+                {
+                    "country": "CYP",
+                    "name": "Georgios KROUSSANIOTAKIS"
+                },
+                {
+                    "country": "MON",
+                    "name": "Franck VATAN"
+                }
+            ]
+        ],
+        "final_winner": "Georgios KROUSSANIOTAKIS"
+    },
+    "POOL D": {
+        "round 1-1": [],
+        "final_winner": "Raphael SCHWENDINGER"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ISL",
+                    "name": "Egill BLONDAL"
+                }
+            ],
+            [
+                {
+                    "country": "MON",
+                    "name": "Franck VATAN"
+                }
+            ],
+            [
+                {
+                    "country": "ISL",
+                    "name": "Egill BLONDAL"
+                },
+                {
+                    "country": "LIE",
+                    "name": "Raphael SCHWENDINGER"
+                },
+                {
+                    "winner": "Egill BLONDAL"
+                }
+            ],
+            [
+                {
+                    "country": "MON",
+                    "name": "Franck VATAN"
+                },
+                {
+                    "country": "MLT",
+                    "name": "Isaac BEZZINA"
+                },
+                {
+                    "winner": "Isaac BEZZINA"
+                }
+            ],
+            [
+                {
+                    "country": "MLT",
+                    "name": "Isaac BEZZINA"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Franck VATAN",
+            "Egill BLONDAL"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "MLT",
+                    "name": "Isaac BEZZINA"
+                },
+                {
+                    "country": "MNE",
+                    "name": "Danilo PANTIC"
+                },
+                {
+                    "winner": "Danilo PANTIC"
+                }
+            ],
+            [
+                {
+                    "country": "CYP",
+                    "name": "Georgios KROUSSANIOTAKIS"
+                },
+                {
+                    "country": "LIE",
+                    "name": "Raphael SCHWENDINGER"
+                },
+                {
+                    "winner": "Georgios KROUSSANIOTAKIS"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "MNE",
+                    "name": "Danilo PANTIC"
+                },
+                {
+                    "country": "CYP",
+                    "name": "Georgios KROUSSANIOTAKIS"
+                }
+            ]
+        ],
+        "final_winner": "Georgios KROUSSANIOTAKIS"
+    }
+}

@@ -1,0 +1,159 @@
+{
+    "POOL A": {
+        "round 1-1": [],
+        "final_winner": "Kubranur ESIR"
+    },
+    "POOL B": {
+        "round 1-1": [
+            [
+                {
+                    "country": "KSA",
+                    "name": "Tahani ALQAHTANI"
+                },
+                {
+                    "country": "MDA",
+                    "name": "Oxana DIACENCO"
+                }
+            ]
+        ],
+        "final_winner": "Oxana DIACENCO"
+    },
+    "POOL C": {
+        "round 1-1": [
+            [
+                {
+                    "country": "TPE",
+                    "name": "Jia Wen TSAI"
+                },
+                {
+                    "country": "CAN",
+                    "name": "Adriana PORTUONDO-ISASI"
+                }
+            ]
+        ],
+        "final_winner": "Jia Wen TSAI"
+    },
+    "POOL D": {
+        "round 1-1": [
+            [
+                {
+                    "country": "GBR",
+                    "name": "Sarah BARRITT"
+                },
+                {
+                    "country": "AUS",
+                    "name": "Abigail PADUCH"
+                }
+            ]
+        ],
+        "final_winner": "Sarah BARRITT"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "KSA",
+                    "name": "Tahani ALQAHTANI"
+                }
+            ],
+            [
+                {
+                    "country": "CAN",
+                    "name": "Adriana PORTUONDO-ISASI"
+                },
+                {
+                    "country": "AUS",
+                    "name": "Abigail PADUCH"
+                },
+                {
+                    "winner": "Abigail PADUCH"
+                }
+            ],
+            [
+                {
+                    "country": "KSA",
+                    "name": "Tahani ALQAHTANI"
+                },
+                {
+                    "country": "GBR",
+                    "name": "Sarah BARRITT"
+                },
+                {
+                    "winner": "Sarah BARRITT"
+                }
+            ],
+            [
+                {
+                    "country": "AUS",
+                    "name": "Abigail PADUCH"
+                },
+                {
+                    "country": "MDA",
+                    "name": "Oxana DIACENCO"
+                },
+                {
+                    "winner": "Abigail PADUCH"
+                }
+            ],
+            [
+                {
+                    "country": "GBR",
+                    "name": "Sarah BARRITT"
+                }
+            ],
+            [
+                {
+                    "country": "AUS",
+                    "name": "Abigail PADUCH"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Sarah BARRITT",
+            "Abigail PADUCH"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "TUR",
+                    "name": "Kubranur ESIR"
+                },
+                {
+                    "country": "MDA",
+                    "name": "Oxana DIACENCO"
+                },
+                {
+                    "winner": "Kubranur ESIR"
+                }
+            ],
+            [
+                {
+                    "country": "TPE",
+                    "name": "Jia Wen TSAI"
+                },
+                {
+                    "country": "GBR",
+                    "name": "Sarah BARRITT"
+                },
+                {
+                    "winner": "Jia Wen TSAI"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "TUR",
+                    "name": "Kubranur ESIR"
+                },
+                {
+                    "country": "TPE",
+                    "name": "Jia Wen TSAI"
+                }
+            ]
+        ],
+        "final_winner": "Kubranur ESIR"
+    }
+}

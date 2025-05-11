@@ -1,0 +1,68 @@
+{
+    "ROUND 1": {
+        "round 1-2": [
+            [
+                {
+                    "country": "PER",
+                    "name": "Luis Eduardo ANGELES SOTELO"
+                },
+                {
+                    "country": "PER",
+                    "name": "Javier SAAVEDRA"
+                },
+                {
+                    "winner": "Luis Eduardo ANGELES SOTELO"
+                }
+            ],
+            [
+                {
+                    "country": "ARG",
+                    "name": "Emmanuel LUCENTI"
+                },
+                {
+                    "country": "PER",
+                    "name": "Jesus GAVIDIA MENDOZA"
+                },
+                {
+                    "winner": "Emmanuel LUCENTI"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Luis Eduardo ANGELES SOTELO",
+            "Emmanuel LUCENTI"
+        ]
+    },
+    "REPECHAGE": {
+        "round 1-1": [
+            [
+                {
+                    "country": "PER",
+                    "name": "Javier SAAVEDRA"
+                },
+                {
+                    "country": "PER",
+                    "name": "Jesus GAVIDIA MENDOZA"
+                },
+                {
+                    "winner": "Jesus GAVIDIA MENDOZA"
+                }
+            ],
+            [
+                {
+                    "country": "PER",
+                    "name": "Jesus GAVIDIA MENDOZA"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Jesus GAVIDIA MENDOZA"
+        ]
+    },
+    "FINALS": {
+        "round 1-1": [],
+        "final_winners": [
+            "Luis Eduardo ANGELES SOTELO"
+        ]
+    }
+}

@@ -1,0 +1,153 @@
+{
+    "POOL A": {
+        "round 1-1": [],
+        "final_winner": "Raz HERSHKO"
+    },
+    "POOL B": {
+        "round 1-1": [
+            [
+                {
+                    "country": "CRO",
+                    "name": "Ivana MARANIC"
+                },
+                {
+                    "country": "GER",
+                    "name": "Renee LUCHT"
+                }
+            ]
+        ],
+        "final_winner": "Renee LUCHT"
+    },
+    "POOL C": {
+        "round 1-1": [
+            [
+                {
+                    "country": "LTU",
+                    "name": "Sandra JABLONSKYTE"
+                },
+                {
+                    "country": "BRA",
+                    "name": "Sibilla FACCHOLLI"
+                }
+            ]
+        ],
+        "final_winner": "Sibilla FACCHOLLI"
+    },
+    "POOL D": {
+        "round 1-1": [
+            [
+                {
+                    "country": "HUN",
+                    "name": "Mercedesz SZIGETVARI"
+                },
+                {
+                    "country": "MGL",
+                    "name": "Adiyasuren AMARSAIKHAN"
+                }
+            ]
+        ],
+        "final_winner": "Adiyasuren AMARSAIKHAN"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CRO",
+                    "name": "Ivana MARANIC"
+                }
+            ],
+            [
+                {
+                    "country": "LTU",
+                    "name": "Sandra JABLONSKYTE"
+                },
+                {
+                    "country": "HUN",
+                    "name": "Mercedesz SZIGETVARI"
+                },
+                {
+                    "winner": "Mercedesz SZIGETVARI"
+                }
+            ],
+            [
+                {
+                    "country": "CRO",
+                    "name": "Ivana MARANIC"
+                },
+                {
+                    "country": "BRA",
+                    "name": "Sibilla FACCHOLLI"
+                },
+                {
+                    "winner": "Ivana MARANIC"
+                }
+            ],
+            [
+                {
+                    "country": "HUN",
+                    "name": "Mercedesz SZIGETVARI"
+                },
+                {
+                    "country": "ISR",
+                    "name": "Raz HERSHKO"
+                },
+                {
+                    "winner": "Raz HERSHKO"
+                }
+            ],
+            [
+                {
+                    "country": "ISR",
+                    "name": "Raz HERSHKO"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Mercedesz SZIGETVARI",
+            "Ivana MARANIC"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ISR",
+                    "name": "Raz HERSHKO"
+                },
+                {
+                    "country": "GER",
+                    "name": "Renee LUCHT"
+                },
+                {
+                    "winner": "Renee LUCHT"
+                }
+            ],
+            [
+                {
+                    "country": "BRA",
+                    "name": "Sibilla FACCHOLLI"
+                },
+                {
+                    "country": "MGL",
+                    "name": "Adiyasuren AMARSAIKHAN"
+                },
+                {
+                    "winner": "Adiyasuren AMARSAIKHAN"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "GER",
+                    "name": "Renee LUCHT"
+                },
+                {
+                    "country": "MGL",
+                    "name": "Adiyasuren AMARSAIKHAN"
+                }
+            ]
+        ],
+        "final_winner": "Renee LUCHT"
+    }
+}

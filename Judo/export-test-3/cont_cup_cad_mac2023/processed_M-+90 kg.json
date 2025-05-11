@@ -1,0 +1,68 @@
+{
+    "ROUND 1": {
+        "round 1-2": [
+            [
+                {
+                    "country": "KSA",
+                    "name": "Mohammed BU KHAMSIN"
+                },
+                {
+                    "country": "KOR",
+                    "name": "Younguk KIM"
+                },
+                {
+                    "winner": "Younguk KIM"
+                }
+            ],
+            [
+                {
+                    "country": "MGL",
+                    "name": "Temuulen BATTULGA"
+                },
+                {
+                    "country": "AUS",
+                    "name": "Harrison TOMLIN"
+                },
+                {
+                    "winner": "Temuulen BATTULGA"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Younguk KIM",
+            "Temuulen BATTULGA"
+        ]
+    },
+    "REPECHAGE": {
+        "round 1-1": [
+            [
+                {
+                    "country": "KSA",
+                    "name": "Mohammed BU KHAMSIN"
+                },
+                {
+                    "country": "AUS",
+                    "name": "Harrison TOMLIN"
+                },
+                {
+                    "winner": "Mohammed BU KHAMSIN"
+                }
+            ],
+            [
+                {
+                    "country": "KSA",
+                    "name": "Mohammed BU KHAMSIN"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Mohammed BU KHAMSIN"
+        ]
+    },
+    "FINALS": {
+        "round 1-1": [],
+        "final_winners": [
+            "Temuulen BATTULGA"
+        ]
+    }
+}

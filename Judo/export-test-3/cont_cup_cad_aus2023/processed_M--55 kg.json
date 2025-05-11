@@ -1,0 +1,68 @@
+{
+    "ROUND 1": {
+        "round 1-2": [
+            [
+                {
+                    "country": "AUS",
+                    "name": "Yonatan AYZELMAN"
+                },
+                {
+                    "country": "AUS",
+                    "name": "Crosby PEAKE"
+                },
+                {
+                    "winner": "Yonatan AYZELMAN"
+                }
+            ],
+            [
+                {
+                    "country": "AUS",
+                    "name": "Noah ASMAN"
+                },
+                {
+                    "country": "AUS",
+                    "name": "Max POGREB"
+                },
+                {
+                    "winner": "Max POGREB"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Yonatan AYZELMAN",
+            "Max POGREB"
+        ]
+    },
+    "REPECHAGE": {
+        "round 1-1": [
+            [
+                {
+                    "country": "AUS",
+                    "name": "Crosby PEAKE"
+                },
+                {
+                    "country": "AUS",
+                    "name": "Noah ASMAN"
+                },
+                {
+                    "winner": "Noah ASMAN"
+                }
+            ],
+            [
+                {
+                    "country": "AUS",
+                    "name": "Noah ASMAN"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Noah ASMAN"
+        ]
+    },
+    "FINALS": {
+        "round 1-1": [],
+        "final_winners": [
+            "Yonatan AYZELMAN"
+        ]
+    }
+}

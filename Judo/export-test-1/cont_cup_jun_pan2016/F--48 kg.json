@@ -1,0 +1,149 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [],
+            []
+        ],
+        "round 1-1": [],
+        "final_winner": "Iris BATISTA"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [],
+            []
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "ESP",
+                    "name": "Elena HIDALGO LEDO"
+                },
+                {
+                    "country": "CRC",
+                    "name": "Josefina SALAS"
+                }
+            ]
+        ],
+        "final_winner": "Elena HIDALGO LEDO"
+    },
+    "POOL C": {
+        "round 1-1": [],
+        "final_winner": "Celia HIDALGO LEDO"
+    },
+    "POOL D": {
+        "round 1-1": [
+            [
+                {
+                    "country": "CRC",
+                    "name": "Jimena DONDI"
+                },
+                {
+                    "country": "PAN",
+                    "name": "Diva BONILLA"
+                }
+            ]
+        ],
+        "final_winner": "Jimena DONDI"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CRC",
+                    "name": "Josefina SALAS"
+                }
+            ],
+            [
+                {
+                    "country": "PAN",
+                    "name": "Diva BONILLA"
+                }
+            ],
+            [
+                {
+                    "country": "CRC",
+                    "name": "Josefina SALAS"
+                },
+                {
+                    "country": "CRC",
+                    "name": "Jimena DONDI"
+                },
+                {
+                    "winner": "Jimena DONDI"
+                }
+            ],
+            [
+                {
+                    "country": "PAN",
+                    "name": "Diva BONILLA"
+                },
+                {
+                    "country": "PAN",
+                    "name": "Iris BATISTA"
+                },
+                {
+                    "winner": "Iris BATISTA"
+                }
+            ],
+            [
+                {
+                    "country": "CRC",
+                    "name": "Jimena DONDI"
+                }
+            ],
+            [
+                {
+                    "country": "PAN",
+                    "name": "Iris BATISTA"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Jimena DONDI",
+            "Iris BATISTA"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "PAN",
+                    "name": "Iris BATISTA"
+                },
+                {
+                    "country": "ESP",
+                    "name": "Elena HIDALGO LEDO"
+                },
+                {
+                    "winner": "Elena HIDALGO LEDO"
+                }
+            ],
+            [
+                {
+                    "country": "ESP",
+                    "name": "Celia HIDALGO LEDO"
+                },
+                {
+                    "country": "CRC",
+                    "name": "Jimena DONDI"
+                },
+                {
+                    "winner": "Celia HIDALGO LEDO"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "ESP",
+                    "name": "Elena HIDALGO LEDO"
+                },
+                {
+                    "country": "ESP",
+                    "name": "Celia HIDALGO LEDO"
+                }
+            ]
+        ],
+        "final_winner": "Celia HIDALGO LEDO"
+    }
+}

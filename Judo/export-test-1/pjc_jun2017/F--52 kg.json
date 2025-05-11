@@ -1,0 +1,285 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Jessica LIMA"
+                },
+                {
+                    "country": "ARG",
+                    "name": "Salome AVILA"
+                },
+                {
+                    "winner": "Jessica LIMA"
+                }
+            ],
+            [
+                {
+                    "country": "ECU",
+                    "name": "Karla VALENCIA"
+                },
+                {
+                    "country": "MEX",
+                    "name": "Paulina MARTINEZ"
+                },
+                {
+                    "winner": "Paulina MARTINEZ"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Jessica LIMA"
+                },
+                {
+                    "country": "MEX",
+                    "name": "Paulina MARTINEZ"
+                }
+            ]
+        ],
+        "final_winner": "Jessica LIMA"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CAN",
+                    "name": "Marie BESSON"
+                },
+                {
+                    "country": "VEN",
+                    "name": "Yormarlin ROMERO"
+                },
+                {
+                    "winner": "Marie BESSON"
+                }
+            ],
+            [
+                {
+                    "country": "PUR",
+                    "name": "Francine ECHEVARRIA"
+                },
+                {
+                    "winner": "Francine ECHEVARRIA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "CAN",
+                    "name": "Marie BESSON"
+                },
+                {
+                    "country": "PUR",
+                    "name": "Francine ECHEVARRIA"
+                }
+            ]
+        ],
+        "final_winner": "Marie BESSON"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "DOM",
+                    "name": "Lorena DE JESUS ALCANTARA"
+                },
+                {
+                    "country": "CAN",
+                    "name": "Kiera WESTLAKE"
+                },
+                {
+                    "winner": "Lorena DE JESUS ALCANTARA"
+                }
+            ],
+            [
+                {
+                    "country": "COL",
+                    "name": "Jessica OCAMPO"
+                },
+                {
+                    "country": "ARG",
+                    "name": "Antonella ISELLA"
+                },
+                {
+                    "winner": "Jessica OCAMPO"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "DOM",
+                    "name": "Lorena DE JESUS ALCANTARA"
+                },
+                {
+                    "country": "COL",
+                    "name": "Jessica OCAMPO"
+                }
+            ]
+        ],
+        "final_winner": "Jessica OCAMPO"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CHI",
+                    "name": "Nicol VERA"
+                },
+                {
+                    "country": "MEX",
+                    "name": "MARCELA DIAZ"
+                },
+                {
+                    "winner": "Nicol VERA"
+                }
+            ],
+            [
+                {
+                    "country": "ECU",
+                    "name": "Yelena ARREGA"
+                },
+                {
+                    "country": "PUR",
+                    "name": "Keliz Lee RIVERA"
+                },
+                {
+                    "winner": "Yelena ARREGA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "CHI",
+                    "name": "Nicol VERA"
+                },
+                {
+                    "country": "ECU",
+                    "name": "Yelena ARREGA"
+                }
+            ]
+        ],
+        "final_winner": "Yelena ARREGA"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "MEX",
+                    "name": "Paulina MARTINEZ"
+                },
+                {
+                    "country": "PUR",
+                    "name": "Francine ECHEVARRIA"
+                },
+                {
+                    "winner": "Paulina MARTINEZ"
+                }
+            ],
+            [
+                {
+                    "country": "DOM",
+                    "name": "Lorena DE JESUS ALCANTARA"
+                },
+                {
+                    "country": "CHI",
+                    "name": "Nicol VERA"
+                },
+                {
+                    "winner": "Lorena DE JESUS ALCANTARA"
+                }
+            ],
+            [
+                {
+                    "country": "MEX",
+                    "name": "Paulina MARTINEZ"
+                },
+                {
+                    "country": "ECU",
+                    "name": "Yelena ARREGA"
+                },
+                {
+                    "winner": "Paulina MARTINEZ"
+                }
+            ],
+            [
+                {
+                    "country": "DOM",
+                    "name": "Lorena DE JESUS ALCANTARA"
+                },
+                {
+                    "country": "CAN",
+                    "name": "Marie BESSON"
+                },
+                {
+                    "winner": "Marie BESSON"
+                }
+            ],
+            [
+                {
+                    "country": "MEX",
+                    "name": "Paulina MARTINEZ"
+                }
+            ],
+            [
+                {
+                    "country": "CAN",
+                    "name": "Marie BESSON"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Paulina MARTINEZ",
+            "Marie BESSON"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Jessica LIMA"
+                },
+                {
+                    "country": "CAN",
+                    "name": "Marie BESSON"
+                },
+                {
+                    "winner": "Jessica LIMA"
+                }
+            ],
+            [
+                {
+                    "country": "COL",
+                    "name": "Jessica OCAMPO"
+                },
+                {
+                    "country": "ECU",
+                    "name": "Yelena ARREGA"
+                },
+                {
+                    "winner": "Jessica OCAMPO"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Jessica LIMA"
+                },
+                {
+                    "country": "COL",
+                    "name": "Jessica OCAMPO"
+                }
+            ]
+        ],
+        "final_winner": "Jessica LIMA"
+    }
+}

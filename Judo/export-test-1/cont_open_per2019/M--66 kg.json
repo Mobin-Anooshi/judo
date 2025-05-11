@@ -1,0 +1,289 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "PER",
+                    "name": "Juan POSTIGOS"
+                },
+                {
+                    "country": "AUS",
+                    "name": "Toshiyuki YOKOYAMA"
+                },
+                {
+                    "winner": "Juan POSTIGOS"
+                }
+            ],
+            [
+                {
+                    "country": "COL",
+                    "name": "Jorge GONZALEZ"
+                },
+                {
+                    "country": "ARG",
+                    "name": "Karim ADARVEZ"
+                },
+                {
+                    "winner": "Jorge GONZALEZ"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "PER",
+                    "name": "Juan POSTIGOS"
+                },
+                {
+                    "country": "COL",
+                    "name": "Jorge GONZALEZ"
+                }
+            ]
+        ],
+        "final_winner": "Juan POSTIGOS"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "FRA",
+                    "name": "Sacha FLAMENT"
+                },
+                {
+                    "country": "PER",
+                    "name": "Michael PATINO"
+                },
+                {
+                    "winner": "Sacha FLAMENT"
+                }
+            ],
+            [
+                {
+                    "country": "COL",
+                    "name": "Juan HERNANDEZ"
+                },
+                {
+                    "country": "USA",
+                    "name": "Ari BERLINER"
+                },
+                {
+                    "winner": "Juan HERNANDEZ"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "FRA",
+                    "name": "Sacha FLAMENT"
+                },
+                {
+                    "country": "COL",
+                    "name": "Juan HERNANDEZ"
+                }
+            ]
+        ],
+        "final_winner": "Juan HERNANDEZ"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CHI",
+                    "name": "Sebastian PEREZ"
+                },
+                {
+                    "country": "PER",
+                    "name": "Victor CHUQUILLANQUI TAPIA"
+                },
+                {
+                    "winner": "Sebastian PEREZ"
+                }
+            ],
+            [
+                {
+                    "country": "AUS",
+                    "name": "Noam TIDHAR"
+                },
+                {
+                    "country": "COL",
+                    "name": "Yeison VARGAS"
+                },
+                {
+                    "winner": "Noam TIDHAR"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "CHI",
+                    "name": "Sebastian PEREZ"
+                },
+                {
+                    "country": "AUS",
+                    "name": "Noam TIDHAR"
+                }
+            ]
+        ],
+        "final_winner": "Sebastian PEREZ"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ARG",
+                    "name": "Minoru TAMASHIRO"
+                },
+                {
+                    "country": "PER",
+                    "name": "Victor CHIRA ROMERO"
+                },
+                {
+                    "winner": "Minoru TAMASHIRO"
+                }
+            ],
+            [
+                {
+                    "country": "PER",
+                    "name": "Roberto SUAREZ JARA"
+                },
+                {
+                    "country": "HAI",
+                    "name": "Gerard CADET"
+                },
+                {
+                    "winner": "Roberto SUAREZ JARA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "ARG",
+                    "name": "Minoru TAMASHIRO"
+                },
+                {
+                    "country": "PER",
+                    "name": "Roberto SUAREZ JARA"
+                }
+            ]
+        ],
+        "final_winner": "Minoru TAMASHIRO"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "COL",
+                    "name": "Jorge GONZALEZ"
+                },
+                {
+                    "country": "FRA",
+                    "name": "Sacha FLAMENT"
+                },
+                {
+                    "winner": "Sacha FLAMENT"
+                }
+            ],
+            [
+                {
+                    "country": "AUS",
+                    "name": "Noam TIDHAR"
+                },
+                {
+                    "country": "PER",
+                    "name": "Roberto SUAREZ JARA"
+                },
+                {
+                    "winner": "Noam TIDHAR"
+                }
+            ],
+            [
+                {
+                    "country": "FRA",
+                    "name": "Sacha FLAMENT"
+                },
+                {
+                    "country": "CHI",
+                    "name": "Sebastian PEREZ"
+                },
+                {
+                    "winner": "Sacha FLAMENT"
+                }
+            ],
+            [
+                {
+                    "country": "AUS",
+                    "name": "Noam TIDHAR"
+                },
+                {
+                    "country": "COL",
+                    "name": "Juan HERNANDEZ"
+                },
+                {
+                    "winner": "Juan HERNANDEZ"
+                }
+            ],
+            [
+                {
+                    "country": "FRA",
+                    "name": "Sacha FLAMENT"
+                }
+            ],
+            [
+                {
+                    "country": "COL",
+                    "name": "Juan HERNANDEZ"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Sacha FLAMENT",
+            "Juan HERNANDEZ"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "PER",
+                    "name": "Juan POSTIGOS"
+                },
+                {
+                    "country": "COL",
+                    "name": "Juan HERNANDEZ"
+                },
+                {
+                    "winner": "Juan POSTIGOS"
+                }
+            ],
+            [
+                {
+                    "country": "CHI",
+                    "name": "Sebastian PEREZ"
+                },
+                {
+                    "country": "ARG",
+                    "name": "Minoru TAMASHIRO"
+                },
+                {
+                    "winner": "Minoru TAMASHIRO"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "PER",
+                    "name": "Juan POSTIGOS"
+                },
+                {
+                    "country": "ARG",
+                    "name": "Minoru TAMASHIRO"
+                }
+            ]
+        ],
+        "final_winner": "Juan POSTIGOS"
+    }
+}

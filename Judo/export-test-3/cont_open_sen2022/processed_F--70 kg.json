@@ -1,0 +1,68 @@
+{
+    "ROUND 1": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CMR",
+                    "name": "Zita Ornella BIAMI"
+                },
+                {
+                    "country": "USA",
+                    "name": "Melissa MYERS"
+                },
+                {
+                    "winner": "Melissa MYERS"
+                }
+            ],
+            [
+                {
+                    "country": "SEN",
+                    "name": "Khadija SONKO"
+                },
+                {
+                    "country": "ANG",
+                    "name": "Maria NIANGI"
+                },
+                {
+                    "winner": "Maria NIANGI"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Melissa MYERS",
+            "Maria NIANGI"
+        ]
+    },
+    "REPECHAGE": {
+        "round 1-1": [
+            [
+                {
+                    "country": "CMR",
+                    "name": "Zita Ornella BIAMI"
+                },
+                {
+                    "country": "SEN",
+                    "name": "Khadija SONKO"
+                },
+                {
+                    "winner": "Zita Ornella BIAMI"
+                }
+            ],
+            [
+                {
+                    "country": "CMR",
+                    "name": "Zita Ornella BIAMI"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Zita Ornella BIAMI"
+        ]
+    },
+    "FINALS": {
+        "round 1-1": [],
+        "final_winners": [
+            "Melissa MYERS"
+        ]
+    }
+}

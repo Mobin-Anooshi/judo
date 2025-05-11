@@ -1,0 +1,135 @@
+{
+    "POOL A": {
+        "round 1-1": [],
+        "final_winner": "Ayman EL OUARD"
+    },
+    "POOL B": {
+        "round 1-1": [
+            [
+                {
+                    "country": "ALG",
+                    "name": "Soheib ZITOUNI"
+                },
+                {
+                    "country": "TUN",
+                    "name": "Mohamed Amin ABIDI"
+                }
+            ]
+        ],
+        "final_winner": "Soheib ZITOUNI"
+    },
+    "POOL C": {
+        "round 1-1": [],
+        "final_winner": "Khatoui BEN REJAB"
+    },
+    "POOL D": {
+        "round 1-1": [
+            [
+                {
+                    "country": "TUN",
+                    "name": "Youssef CHIEB"
+                },
+                {
+                    "country": "LAT",
+                    "name": "Tits KULLO"
+                }
+            ]
+        ],
+        "final_winner": "Tits KULLO"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "TUN",
+                    "name": "Mohamed Amin ABIDI"
+                }
+            ],
+            [
+                {
+                    "country": "TUN",
+                    "name": "Youssef CHIEB"
+                }
+            ],
+            [
+                {
+                    "country": "TUN",
+                    "name": "Mohamed Amin ABIDI"
+                },
+                {
+                    "country": "TUN",
+                    "name": "Khatoui BEN REJAB"
+                },
+                {
+                    "winner": "Khatoui BEN REJAB"
+                }
+            ],
+            [
+                {
+                    "country": "TUN",
+                    "name": "Youssef CHIEB"
+                },
+                {
+                    "country": "MAR",
+                    "name": "Ayman EL OUARD"
+                },
+                {
+                    "winner": "Youssef CHIEB"
+                }
+            ],
+            [
+                {
+                    "country": "TUN",
+                    "name": "Khatoui BEN REJAB"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Youssef CHIEB",
+            "Khatoui BEN REJAB"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "MAR",
+                    "name": "Ayman EL OUARD"
+                },
+                {
+                    "country": "ALG",
+                    "name": "Soheib ZITOUNI"
+                },
+                {
+                    "winner": "Soheib ZITOUNI"
+                }
+            ],
+            [
+                {
+                    "country": "TUN",
+                    "name": "Khatoui BEN REJAB"
+                },
+                {
+                    "country": "LAT",
+                    "name": "Tits KULLO"
+                },
+                {
+                    "winner": "Tits KULLO"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "ALG",
+                    "name": "Soheib ZITOUNI"
+                },
+                {
+                    "country": "LAT",
+                    "name": "Tits KULLO"
+                }
+            ]
+        ],
+        "final_winner": "Tits KULLO"
+    }
+}

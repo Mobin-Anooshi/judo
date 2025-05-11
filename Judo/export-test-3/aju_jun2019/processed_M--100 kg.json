@@ -1,0 +1,68 @@
+{
+    "ROUND 1": {
+        "round 1-2": [
+            [
+                {
+                    "country": "MAR",
+                    "name": "Mohammed LAHBOUB"
+                },
+                {
+                    "country": "EGY",
+                    "name": "Abdalla ABDELSAMEA"
+                },
+                {
+                    "winner": "Abdalla ABDELSAMEA"
+                }
+            ],
+            [
+                {
+                    "country": "ALG",
+                    "name": "Islame BOUYEMOUT"
+                },
+                {
+                    "country": "EGY",
+                    "name": "Ahmed AYMAN"
+                },
+                {
+                    "winner": "Ahmed AYMAN"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Abdalla ABDELSAMEA",
+            "Ahmed AYMAN"
+        ]
+    },
+    "REPECHAGE": {
+        "round 1-1": [
+            [
+                {
+                    "country": "MAR",
+                    "name": "Mohammed LAHBOUB"
+                },
+                {
+                    "country": "ALG",
+                    "name": "Islame BOUYEMOUT"
+                },
+                {
+                    "winner": "Islame BOUYEMOUT"
+                }
+            ],
+            [
+                {
+                    "country": "ALG",
+                    "name": "Islame BOUYEMOUT"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Islame BOUYEMOUT"
+        ]
+    },
+    "FINALS": {
+        "round 1-1": [],
+        "final_winners": [
+            "Abdalla ABDELSAMEA"
+        ]
+    }
+}

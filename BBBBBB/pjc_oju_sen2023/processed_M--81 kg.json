@@ -1,0 +1,285 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Guilherme SCHIMIDT"
+                },
+                {
+                    "winner": "Guilherme SCHIMIDT"
+                }
+            ],
+            [
+                {
+                    "country": "ARG",
+                    "name": "Tomas MORALES"
+                },
+                {
+                    "country": "CUB",
+                    "name": "Maikel MKENCIE LONDRES"
+                },
+                {
+                    "winner": "Tomas MORALES"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Guilherme SCHIMIDT"
+                },
+                {
+                    "country": "ARG",
+                    "name": "Tomas MORALES"
+                }
+            ]
+        ],
+        "final_winner": "Guilherme SCHIMIDT"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "PUR",
+                    "name": "Adrian GANDIA"
+                },
+                {
+                    "country": "URU",
+                    "name": "Alain APRAHAMIAN"
+                },
+                {
+                    "winner": "Adrian GANDIA"
+                }
+            ],
+            [
+                {
+                    "country": "ARG",
+                    "name": "Agustin GIL"
+                },
+                {
+                    "country": "CHI",
+                    "name": "Jorge PEREZ"
+                },
+                {
+                    "winner": "Agustin GIL"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "PUR",
+                    "name": "Adrian GANDIA"
+                },
+                {
+                    "country": "ARG",
+                    "name": "Agustin GIL"
+                }
+            ]
+        ],
+        "final_winner": "Adrian GANDIA"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CAN",
+                    "name": "Francois GAUTHIER DRAPEAU"
+                },
+                {
+                    "country": "NZL",
+                    "name": "Maarten DE RIDDER"
+                },
+                {
+                    "winner": "Francois GAUTHIER DRAPEAU"
+                }
+            ],
+            [
+                {
+                    "country": "USA",
+                    "name": "Nicolas YONEZUKA"
+                },
+                {
+                    "country": "AUS",
+                    "name": "Rihari IKI"
+                },
+                {
+                    "winner": "Nicolas YONEZUKA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "CAN",
+                    "name": "Francois GAUTHIER DRAPEAU"
+                },
+                {
+                    "country": "USA",
+                    "name": "Nicolas YONEZUKA"
+                }
+            ]
+        ],
+        "final_winner": "Francois GAUTHIER DRAPEAU"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "DOM",
+                    "name": "Medickson DEL ORBE CORTORREAL"
+                },
+                {
+                    "country": "HAI",
+                    "name": "Hensley Wood-Waldy PETIT-FRERE"
+                },
+                {
+                    "winner": "Medickson DEL ORBE CORTORREAL"
+                }
+            ],
+            [
+                {
+                    "country": "USA",
+                    "name": "Kell BERLINER"
+                },
+                {
+                    "country": "MEX",
+                    "name": "Samuel AYALA"
+                },
+                {
+                    "winner": "Samuel AYALA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "DOM",
+                    "name": "Medickson DEL ORBE CORTORREAL"
+                },
+                {
+                    "country": "MEX",
+                    "name": "Samuel AYALA"
+                }
+            ]
+        ],
+        "final_winner": "Medickson DEL ORBE CORTORREAL"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ARG",
+                    "name": "Tomas MORALES"
+                },
+                {
+                    "country": "ARG",
+                    "name": "Agustin GIL"
+                },
+                {
+                    "winner": "Agustin GIL"
+                }
+            ],
+            [
+                {
+                    "country": "USA",
+                    "name": "Nicolas YONEZUKA"
+                },
+                {
+                    "country": "MEX",
+                    "name": "Samuel AYALA"
+                },
+                {
+                    "winner": "Nicolas YONEZUKA"
+                }
+            ],
+            [
+                {
+                    "country": "ARG",
+                    "name": "Agustin GIL"
+                },
+                {
+                    "country": "DOM",
+                    "name": "Medickson DEL ORBE CORTORREAL"
+                },
+                {
+                    "winner": "Medickson DEL ORBE CORTORREAL"
+                }
+            ],
+            [
+                {
+                    "country": "USA",
+                    "name": "Nicolas YONEZUKA"
+                },
+                {
+                    "country": "PUR",
+                    "name": "Adrian GANDIA"
+                },
+                {
+                    "winner": "Adrian GANDIA"
+                }
+            ],
+            [
+                {
+                    "country": "DOM",
+                    "name": "Medickson DEL ORBE CORTORREAL"
+                }
+            ],
+            [
+                {
+                    "country": "PUR",
+                    "name": "Adrian GANDIA"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Medickson DEL ORBE CORTORREAL",
+            "Adrian GANDIA"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Guilherme SCHIMIDT"
+                },
+                {
+                    "country": "PUR",
+                    "name": "Adrian GANDIA"
+                },
+                {
+                    "winner": "Guilherme SCHIMIDT"
+                }
+            ],
+            [
+                {
+                    "country": "CAN",
+                    "name": "Francois GAUTHIER DRAPEAU"
+                },
+                {
+                    "country": "DOM",
+                    "name": "Medickson DEL ORBE CORTORREAL"
+                },
+                {
+                    "winner": "Francois GAUTHIER DRAPEAU"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Guilherme SCHIMIDT"
+                },
+                {
+                    "country": "CAN",
+                    "name": "Francois GAUTHIER DRAPEAU"
+                }
+            ]
+        ],
+        "final_winner": "Francois GAUTHIER DRAPEAU"
+    }
+}

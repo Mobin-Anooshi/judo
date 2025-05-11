@@ -1,0 +1,334 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "RUS",
+                    "name": "Elizaveta STEPANOVA"
+                },
+                {
+                    "country": "ITA",
+                    "name": "Elisa ADRASTI"
+                },
+                {
+                    "winner": "Elizaveta STEPANOVA"
+                }
+            ],
+            [
+                {
+                    "country": "FRA",
+                    "name": "Marine GILLY"
+                },
+                {
+                    "country": "MRI",
+                    "name": "Priscilla MORAND"
+                },
+                {
+                    "winner": "Marine GILLY"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "RUS",
+                    "name": "Elizaveta STEPANOVA"
+                },
+                {
+                    "country": "FRA",
+                    "name": "Marine GILLY"
+                }
+            ]
+        ],
+        "final_winner": "Elizaveta STEPANOVA"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "GBR",
+                    "name": "Kelly STADDON"
+                },
+                {
+                    "country": "GER",
+                    "name": "Lisanne STURM"
+                },
+                {
+                    "winner": "Kelly STADDON"
+                }
+            ],
+            [
+                {
+                    "country": "NED",
+                    "name": "Suzanne ZEGERS"
+                },
+                {
+                    "country": "FRA",
+                    "name": "Marine LHENRY"
+                },
+                {
+                    "winner": "Marine LHENRY"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "GBR",
+                    "name": "Kelly STADDON"
+                },
+                {
+                    "country": "FRA",
+                    "name": "Marine LHENRY"
+                }
+            ]
+        ],
+        "final_winner": "Marine LHENRY"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "BEL",
+                    "name": "Ellen SALENS"
+                },
+                {
+                    "country": "GER",
+                    "name": "Mira ULRICH"
+                },
+                {
+                    "winner": "Mira ULRICH"
+                }
+            ],
+            [
+                {
+                    "country": "RUS",
+                    "name": "Kristina BULGAKOVA"
+                },
+                {
+                    "country": "FRA",
+                    "name": "Scarlett GABRIELLI"
+                },
+                {
+                    "winner": "Scarlett GABRIELLI"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "GER",
+                    "name": "Mira ULRICH"
+                },
+                {
+                    "country": "FRA",
+                    "name": "Scarlett GABRIELLI"
+                }
+            ]
+        ],
+        "final_winner": "Scarlett GABRIELLI"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "FRA",
+                    "name": "Virginia AYMARD"
+                },
+                {
+                    "country": "GER",
+                    "name": "Sarah ISCHT"
+                },
+                {
+                    "winner": "Virginia AYMARD"
+                }
+            ],
+            [
+                {
+                    "country": "FIN",
+                    "name": "Marianne KOSONEN"
+                },
+                {
+                    "country": "RUS",
+                    "name": "Daria PICHKALEVA"
+                },
+                {
+                    "winner": "Daria PICHKALEVA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "FRA",
+                    "name": "Virginia AYMARD"
+                },
+                {
+                    "country": "RUS",
+                    "name": "Daria PICHKALEVA"
+                }
+            ]
+        ],
+        "final_winner": "Daria PICHKALEVA"
+    },
+    "REPECHAGE": {
+        "round 1-4": [
+            [
+                {
+                    "country": "ITA",
+                    "name": "Elisa ADRASTI"
+                },
+                {
+                    "country": "FRA",
+                    "name": "Marine GILLY"
+                },
+                {
+                    "winner": "Marine GILLY"
+                }
+            ],
+            [
+                {
+                    "country": "NED",
+                    "name": "Suzanne ZEGERS"
+                },
+                {
+                    "country": "GBR",
+                    "name": "Kelly STADDON"
+                },
+                {
+                    "winner": "Kelly STADDON"
+                }
+            ],
+            [
+                {
+                    "country": "RUS",
+                    "name": "Kristina BULGAKOVA"
+                },
+                {
+                    "country": "GER",
+                    "name": "Mira ULRICH"
+                },
+                {
+                    "winner": "Kristina BULGAKOVA"
+                }
+            ],
+            [
+                {
+                    "country": "FIN",
+                    "name": "Marianne KOSONEN"
+                },
+                {
+                    "country": "FRA",
+                    "name": "Virginia AYMARD"
+                },
+                {
+                    "winner": "Marianne KOSONEN"
+                }
+            ]
+        ],
+        "round 1-2": [
+            [
+                {
+                    "country": "FRA",
+                    "name": "Marine GILLY"
+                },
+                {
+                    "country": "GBR",
+                    "name": "Kelly STADDON"
+                },
+                {
+                    "winner": "Kelly STADDON"
+                }
+            ],
+            [
+                {
+                    "country": "RUS",
+                    "name": "Kristina BULGAKOVA"
+                },
+                {
+                    "country": "Vote",
+                    "name": "FRA"
+                },
+                {
+                    "country": "Virginia AYMARD",
+                    "name": "Vote"
+                },
+                {
+                    "winner": "Kristina BULGAKOVA"
+                }
+            ],
+            [
+                {
+                    "country": "GBR",
+                    "name": "Kelly STADDON"
+                },
+                {
+                    "country": "FRA",
+                    "name": "Scarlett GABRIELLI"
+                },
+                {
+                    "winner": "Kelly STADDON"
+                }
+            ],
+            [
+                {
+                    "country": "RUS",
+                    "name": "Elizaveta STEPANOVA"
+                }
+            ],
+            [
+                {
+                    "country": "GBR",
+                    "name": "Kelly STADDON"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Kristina BULGAKOVA",
+            "Kelly STADDON"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "RUS",
+                    "name": "Elizaveta STEPANOVA"
+                },
+                {
+                    "country": "FRA",
+                    "name": "Marine LHENRY"
+                },
+                {
+                    "winner": "Marine LHENRY"
+                }
+            ],
+            [
+                {
+                    "country": "FRA",
+                    "name": "Scarlett GABRIELLI"
+                },
+                {
+                    "country": "RUS",
+                    "name": "Daria PICHKALEVA"
+                },
+                {
+                    "winner": "Daria PICHKALEVA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "FRA",
+                    "name": "Marine LHENRY"
+                },
+                {
+                    "country": "RUS",
+                    "name": "Daria PICHKALEVA"
+                }
+            ]
+        ],
+        "final_winner": "Daria PICHKALEVA"
+    }
+}

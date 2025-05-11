@@ -1,0 +1,281 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "AUS",
+                    "name": "Katharina HAECKER"
+                },
+                {
+                    "winner": "Katharina HAECKER"
+                }
+            ],
+            [
+                {
+                    "country": "USA",
+                    "name": "Sara GOLDEN"
+                },
+                {
+                    "country": "CHI",
+                    "name": "Constanza PEREZ"
+                },
+                {
+                    "winner": "Sara GOLDEN"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "AUS",
+                    "name": "Katharina HAECKER"
+                },
+                {
+                    "country": "USA",
+                    "name": "Sara GOLDEN"
+                }
+            ]
+        ],
+        "final_winner": "Katharina HAECKER"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CUB",
+                    "name": "Maylin DEL TORO CARVAJAL"
+                },
+                {
+                    "country": "PAN",
+                    "name": "Manuela FERNANDEZ TEJADA"
+                },
+                {
+                    "winner": "Maylin DEL TORO CARVAJAL"
+                }
+            ],
+            [
+                {
+                    "country": "VEN",
+                    "name": "Anriquelis BARRIOS"
+                },
+                {
+                    "country": "GUA",
+                    "name": "Keyla NAVAS"
+                },
+                {
+                    "winner": "Anriquelis BARRIOS"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "CUB",
+                    "name": "Maylin DEL TORO CARVAJAL"
+                },
+                {
+                    "country": "VEN",
+                    "name": "Anriquelis BARRIOS"
+                }
+            ]
+        ],
+        "final_winner": "Maylin DEL TORO CARVAJAL"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "MEX",
+                    "name": "Prisca AWITI ALCARAZ"
+                },
+                {
+                    "winner": "Prisca AWITI ALCARAZ"
+                }
+            ],
+            [
+                {
+                    "country": "BRA",
+                    "name": "Nauana SILVA"
+                },
+                {
+                    "country": "ARG",
+                    "name": "Agustina DE LUCIA"
+                },
+                {
+                    "winner": "Nauana SILVA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "MEX",
+                    "name": "Prisca AWITI ALCARAZ"
+                },
+                {
+                    "country": "BRA",
+                    "name": "Nauana SILVA"
+                }
+            ]
+        ],
+        "final_winner": "Nauana SILVA"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Ketleyn QUADROS"
+                },
+                {
+                    "country": "AUS",
+                    "name": "Maeve COUGHLAN"
+                },
+                {
+                    "winner": "Ketleyn QUADROS"
+                }
+            ],
+            [
+                {
+                    "country": "USA",
+                    "name": "Hannah MARTIN"
+                },
+                {
+                    "country": "CAN",
+                    "name": "Isabelle HARRIS"
+                },
+                {
+                    "winner": "Hannah MARTIN"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Ketleyn QUADROS"
+                },
+                {
+                    "country": "USA",
+                    "name": "Hannah MARTIN"
+                }
+            ]
+        ],
+        "final_winner": "Ketleyn QUADROS"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "USA",
+                    "name": "Sara GOLDEN"
+                },
+                {
+                    "country": "VEN",
+                    "name": "Anriquelis BARRIOS"
+                },
+                {
+                    "winner": "Anriquelis BARRIOS"
+                }
+            ],
+            [
+                {
+                    "country": "MEX",
+                    "name": "Prisca AWITI ALCARAZ"
+                },
+                {
+                    "country": "USA",
+                    "name": "Hannah MARTIN"
+                },
+                {
+                    "winner": "Prisca AWITI ALCARAZ"
+                }
+            ],
+            [
+                {
+                    "country": "VEN",
+                    "name": "Anriquelis BARRIOS"
+                },
+                {
+                    "country": "BRA",
+                    "name": "Ketleyn QUADROS"
+                },
+                {
+                    "winner": "Ketleyn QUADROS"
+                }
+            ],
+            [
+                {
+                    "country": "MEX",
+                    "name": "Prisca AWITI ALCARAZ"
+                },
+                {
+                    "country": "CUB",
+                    "name": "Maylin DEL TORO CARVAJAL"
+                },
+                {
+                    "winner": "Maylin DEL TORO CARVAJAL"
+                }
+            ],
+            [
+                {
+                    "country": "BRA",
+                    "name": "Ketleyn QUADROS"
+                }
+            ],
+            [
+                {
+                    "country": "CUB",
+                    "name": "Maylin DEL TORO CARVAJAL"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Ketleyn QUADROS",
+            "Maylin DEL TORO CARVAJAL"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "AUS",
+                    "name": "Katharina HAECKER"
+                },
+                {
+                    "country": "CUB",
+                    "name": "Maylin DEL TORO CARVAJAL"
+                },
+                {
+                    "winner": "Katharina HAECKER"
+                }
+            ],
+            [
+                {
+                    "country": "BRA",
+                    "name": "Nauana SILVA"
+                },
+                {
+                    "country": "BRA",
+                    "name": "Ketleyn QUADROS"
+                },
+                {
+                    "winner": "Nauana SILVA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "AUS",
+                    "name": "Katharina HAECKER"
+                },
+                {
+                    "country": "BRA",
+                    "name": "Nauana SILVA"
+                }
+            ]
+        ],
+        "final_winner": "Katharina HAECKER"
+    }
+}

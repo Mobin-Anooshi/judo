@@ -1,0 +1,261 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Thays MARINHO"
+                },
+                {
+                    "winner": "Thays MARINHO"
+                }
+            ],
+            [
+                {
+                    "country": "MEX",
+                    "name": "Pilar OLVERA"
+                },
+                {
+                    "winner": "Pilar OLVERA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Thays MARINHO"
+                },
+                {
+                    "country": "MEX",
+                    "name": "Pilar OLVERA"
+                }
+            ]
+        ],
+        "final_winner": "Thays MARINHO"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "PER",
+                    "name": "Ana MACHAZEK"
+                },
+                {
+                    "winner": "Ana MACHAZEK"
+                }
+            ],
+            [
+                {
+                    "country": "COL",
+                    "name": "Daniela RESTREPO"
+                },
+                {
+                    "winner": "Daniela RESTREPO"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "PER",
+                    "name": "Ana MACHAZEK"
+                },
+                {
+                    "country": "COL",
+                    "name": "Daniela RESTREPO"
+                }
+            ]
+        ],
+        "final_winner": "Daniela RESTREPO"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ECU",
+                    "name": "Pamela QUIZHPI"
+                },
+                {
+                    "winner": "Pamela QUIZHPI"
+                }
+            ],
+            [
+                {
+                    "country": "CHI",
+                    "name": "Loreto MONTANO"
+                },
+                {
+                    "winner": "Loreto MONTANO"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "ECU",
+                    "name": "Pamela QUIZHPI"
+                },
+                {
+                    "country": "CHI",
+                    "name": "Loreto MONTANO"
+                }
+            ]
+        ],
+        "final_winner": "Pamela QUIZHPI"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [],
+            [
+                {
+                    "country": "ARG",
+                    "name": "Candela VASQUEZ"
+                },
+                {
+                    "winner": "Candela VASQUEZ"
+                }
+            ]
+        ],
+        "round 1-1": [],
+        "final_winner": "Candela VASQUEZ"
+    },
+    "REPECHAGE": {
+        "round 1-4": [
+            [
+                {
+                    "country": "MEX",
+                    "name": "Pilar OLVERA"
+                },
+                {
+                    "winner": "Pilar OLVERA"
+                }
+            ],
+            [
+                {
+                    "country": "PER",
+                    "name": "Ana MACHAZEK"
+                },
+                {
+                    "winner": "Ana MACHAZEK"
+                }
+            ],
+            [
+                {
+                    "country": "CHI",
+                    "name": "Loreto MONTANO"
+                },
+                {
+                    "winner": "Loreto MONTANO"
+                }
+            ],
+            []
+        ],
+        "round 1-2": [
+            [
+                {
+                    "country": "MEX",
+                    "name": "Pilar OLVERA"
+                },
+                {
+                    "country": "PER",
+                    "name": "Ana MACHAZEK"
+                },
+                {
+                    "winner": "Pilar OLVERA"
+                }
+            ],
+            [
+                {
+                    "country": "CHI",
+                    "name": "Loreto MONTANO"
+                }
+            ],
+            [
+                {
+                    "country": "MEX",
+                    "name": "Pilar OLVERA"
+                },
+                {
+                    "country": "ARG",
+                    "name": "Candela VASQUEZ"
+                },
+                {
+                    "winner": "Pilar OLVERA"
+                }
+            ],
+            [
+                {
+                    "country": "CHI",
+                    "name": "Loreto MONTANO"
+                },
+                {
+                    "country": "COL",
+                    "name": "Daniela RESTREPO"
+                },
+                {
+                    "winner": "Daniela RESTREPO"
+                }
+            ],
+            [
+                {
+                    "country": "MEX",
+                    "name": "Pilar OLVERA"
+                }
+            ],
+            [
+                {
+                    "country": "COL",
+                    "name": "Daniela RESTREPO"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Pilar OLVERA",
+            "Daniela RESTREPO"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Thays MARINHO"
+                },
+                {
+                    "country": "COL",
+                    "name": "Daniela RESTREPO"
+                },
+                {
+                    "winner": "Thays MARINHO"
+                }
+            ],
+            [
+                {
+                    "country": "ECU",
+                    "name": "Pamela QUIZHPI"
+                },
+                {
+                    "country": "ARG",
+                    "name": "Candela VASQUEZ"
+                },
+                {
+                    "winner": "Pamela QUIZHPI"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Thays MARINHO"
+                },
+                {
+                    "country": "ECU",
+                    "name": "Pamela QUIZHPI"
+                }
+            ]
+        ],
+        "final_winner": "Pamela QUIZHPI"
+    }
+}

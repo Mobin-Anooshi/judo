@@ -1,0 +1,261 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "COL",
+                    "name": "Jessica OCAMPO"
+                },
+                {
+                    "winner": "Jessica OCAMPO"
+                }
+            ],
+            []
+        ],
+        "round 1-1": [],
+        "final_winner": "Jessica OCAMPO"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "PER",
+                    "name": "Kiara ARANGO"
+                },
+                {
+                    "winner": "Kiara ARANGO"
+                }
+            ],
+            [
+                {
+                    "country": "CHI",
+                    "name": "Camila CALDERON"
+                },
+                {
+                    "winner": "Camila CALDERON"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "PER",
+                    "name": "Kiara ARANGO"
+                },
+                {
+                    "country": "CHI",
+                    "name": "Camila CALDERON"
+                }
+            ]
+        ],
+        "final_winner": "Kiara ARANGO"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CRC",
+                    "name": "Maria Paula LOPEZ CHAVARRIA"
+                },
+                {
+                    "winner": "Maria Paula LOPEZ CHAVARRIA"
+                }
+            ],
+            [
+                {
+                    "country": "PER",
+                    "name": "Eliama MANTILLA GUTIERREZ"
+                },
+                {
+                    "winner": "Eliama MANTILLA GUTIERREZ"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "CRC",
+                    "name": "Maria Paula LOPEZ CHAVARRIA"
+                },
+                {
+                    "country": "PER",
+                    "name": "Eliama MANTILLA GUTIERREZ"
+                }
+            ]
+        ],
+        "final_winner": "Maria Paula LOPEZ CHAVARRIA"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "PUR",
+                    "name": "Sairy COLON"
+                },
+                {
+                    "winner": "Sairy COLON"
+                }
+            ],
+            [
+                {
+                    "country": "PER",
+                    "name": "Antuane BORJAS"
+                },
+                {
+                    "winner": "Antuane BORJAS"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "PUR",
+                    "name": "Sairy COLON"
+                },
+                {
+                    "country": "PER",
+                    "name": "Antuane BORJAS"
+                }
+            ]
+        ],
+        "final_winner": "Sairy COLON"
+    },
+    "REPECHAGE": {
+        "round 1-4": [
+            [],
+            [
+                {
+                    "country": "CHI",
+                    "name": "Camila CALDERON"
+                },
+                {
+                    "winner": "Camila CALDERON"
+                }
+            ],
+            [
+                {
+                    "country": "PER",
+                    "name": "Eliama MANTILLA GUTIERREZ"
+                },
+                {
+                    "winner": "Eliama MANTILLA GUTIERREZ"
+                }
+            ],
+            [
+                {
+                    "country": "PER",
+                    "name": "Antuane BORJAS"
+                },
+                {
+                    "winner": "Antuane BORJAS"
+                }
+            ]
+        ],
+        "round 1-2": [
+            [
+                {
+                    "country": "CHI",
+                    "name": "Camila CALDERON"
+                }
+            ],
+            [
+                {
+                    "country": "PER",
+                    "name": "Eliama MANTILLA GUTIERREZ"
+                },
+                {
+                    "country": "PER",
+                    "name": "Antuane BORJAS"
+                },
+                {
+                    "winner": "Antuane BORJAS"
+                }
+            ],
+            [
+                {
+                    "country": "CHI",
+                    "name": "Camila CALDERON"
+                },
+                {
+                    "country": "CRC",
+                    "name": "Maria Paula LOPEZ CHAVARRIA"
+                },
+                {
+                    "winner": "Maria Paula LOPEZ CHAVARRIA"
+                }
+            ],
+            [
+                {
+                    "country": "PER",
+                    "name": "Antuane BORJAS"
+                },
+                {
+                    "country": "COL",
+                    "name": "Jessica OCAMPO"
+                },
+                {
+                    "winner": "Jessica OCAMPO"
+                }
+            ],
+            [
+                {
+                    "country": "CRC",
+                    "name": "Maria Paula LOPEZ CHAVARRIA"
+                }
+            ],
+            [
+                {
+                    "country": "COL",
+                    "name": "Jessica OCAMPO"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Maria Paula LOPEZ CHAVARRIA",
+            "Jessica OCAMPO"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "COL",
+                    "name": "Jessica OCAMPO"
+                },
+                {
+                    "country": "PER",
+                    "name": "Kiara ARANGO"
+                },
+                {
+                    "winner": "Kiara ARANGO"
+                }
+            ],
+            [
+                {
+                    "country": "CRC",
+                    "name": "Maria Paula LOPEZ CHAVARRIA"
+                },
+                {
+                    "country": "PUR",
+                    "name": "Sairy COLON"
+                },
+                {
+                    "winner": "Sairy COLON"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "PER",
+                    "name": "Kiara ARANGO"
+                },
+                {
+                    "country": "PUR",
+                    "name": "Sairy COLON"
+                }
+            ]
+        ],
+        "final_winner": "Sairy COLON"
+    }
+}

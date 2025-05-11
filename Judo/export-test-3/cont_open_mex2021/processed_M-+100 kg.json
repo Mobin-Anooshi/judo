@@ -1,0 +1,87 @@
+{
+    "POOL A": {
+        "round 1-3": [
+            [
+                {
+                    "country": "USA",
+                    "name": "Christian KONOVAL"
+                },
+                {
+                    "country": "PAN",
+                    "name": "Quibian WAISOME AROSEMENA"
+                },
+                {
+                    "winner": "Christian KONOVAL"
+                }
+            ],
+            [
+                {
+                    "country": "USA",
+                    "name": "Christian KONOVAL"
+                },
+                {
+                    "country": "MEX",
+                    "name": "Sergio DEL SOL"
+                },
+                {
+                    "winner": "Sergio DEL SOL"
+                }
+            ],
+            [
+                {
+                    "country": "PAN",
+                    "name": "Quibian WAISOME AROSEMENA"
+                },
+                {
+                    "country": "MEX",
+                    "name": "Sergio DEL SOL"
+                },
+                {
+                    "winner": "Sergio DEL SOL"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Christian KONOVAL",
+            "Sergio DEL SOL"
+        ]
+    },
+    "POOL B": {
+        "round 1-1": [],
+        "final_winners": [
+            "Omar SILVA"
+        ]
+    },
+    "REPECHAGE": {
+        "round 1-1": [
+            [
+                {
+                    "country": "USA",
+                    "name": "Christian KONOVAL"
+                },
+                {
+                    "country": "USA",
+                    "name": "Ruben MARTIN"
+                },
+                {
+                    "winner": "Christian KONOVAL"
+                }
+            ],
+            [
+                {
+                    "country": "USA",
+                    "name": "Christian KONOVAL"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Christian KONOVAL"
+        ]
+    },
+    "FINALS": {
+        "round 1-1": [],
+        "final_winners": [
+            "Sergio DEL SOL"
+        ]
+    }
+}

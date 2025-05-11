@@ -1,0 +1,159 @@
+{
+    "POOL A": {
+        "round 1-1": [],
+        "final_winner": "Abi betsabe CARDOZO MADAF"
+    },
+    "POOL B": {
+        "round 1-1": [
+            [
+                {
+                    "country": "PER",
+                    "name": "Brillith GAMARRA"
+                },
+                {
+                    "country": "USA",
+                    "name": "Alaine ABUAN"
+                }
+            ]
+        ],
+        "final_winner": "Brillith GAMARRA"
+    },
+    "POOL C": {
+        "round 1-1": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Eleudis VALENTIM"
+                },
+                {
+                    "country": "DOM",
+                    "name": "Diana DE JESUS"
+                }
+            ]
+        ],
+        "final_winner": "Eleudis VALENTIM"
+    },
+    "POOL D": {
+        "round 1-1": [
+            [
+                {
+                    "country": "ARG",
+                    "name": "Oritia GONZALEZ"
+                },
+                {
+                    "country": "PER",
+                    "name": "Antuane BORJAS"
+                }
+            ]
+        ],
+        "final_winner": "Oritia GONZALEZ"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "USA",
+                    "name": "Alaine ABUAN"
+                }
+            ],
+            [
+                {
+                    "country": "DOM",
+                    "name": "Diana DE JESUS"
+                },
+                {
+                    "country": "PER",
+                    "name": "Antuane BORJAS"
+                },
+                {
+                    "winner": "Diana DE JESUS"
+                }
+            ],
+            [
+                {
+                    "country": "USA",
+                    "name": "Alaine ABUAN"
+                },
+                {
+                    "country": "ARG",
+                    "name": "Oritia GONZALEZ"
+                },
+                {
+                    "winner": "Oritia GONZALEZ"
+                }
+            ],
+            [
+                {
+                    "country": "DOM",
+                    "name": "Diana DE JESUS"
+                },
+                {
+                    "country": "PER",
+                    "name": "Brillith GAMARRA"
+                },
+                {
+                    "winner": "Brillith GAMARRA"
+                }
+            ],
+            [
+                {
+                    "country": "ARG",
+                    "name": "Oritia GONZALEZ"
+                }
+            ],
+            [
+                {
+                    "country": "PER",
+                    "name": "Brillith GAMARRA"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Oritia GONZALEZ",
+            "Brillith GAMARRA"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ARG",
+                    "name": "Abi betsabe CARDOZO MADAF"
+                },
+                {
+                    "country": "PER",
+                    "name": "Brillith GAMARRA"
+                },
+                {
+                    "winner": "Abi betsabe CARDOZO MADAF"
+                }
+            ],
+            [
+                {
+                    "country": "BRA",
+                    "name": "Eleudis VALENTIM"
+                },
+                {
+                    "country": "ARG",
+                    "name": "Oritia GONZALEZ"
+                },
+                {
+                    "winner": "Eleudis VALENTIM"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "ARG",
+                    "name": "Abi betsabe CARDOZO MADAF"
+                },
+                {
+                    "country": "BRA",
+                    "name": "Eleudis VALENTIM"
+                }
+            ]
+        ],
+        "final_winner": "Eleudis VALENTIM"
+    }
+}

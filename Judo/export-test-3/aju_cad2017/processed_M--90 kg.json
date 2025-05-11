@@ -1,0 +1,68 @@
+{
+    "ROUND 1": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ALG",
+                    "name": "Alaeddine MOKHEFI"
+                },
+                {
+                    "country": "EGY",
+                    "name": "Ahmed AYMAN"
+                },
+                {
+                    "winner": "Alaeddine MOKHEFI"
+                }
+            ],
+            [
+                {
+                    "country": "SEY",
+                    "name": "Alvin MARIE"
+                },
+                {
+                    "country": "RSA",
+                    "name": "Brendan PRETORIUS"
+                },
+                {
+                    "winner": "Brendan PRETORIUS"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Alaeddine MOKHEFI",
+            "Brendan PRETORIUS"
+        ]
+    },
+    "REPECHAGE": {
+        "round 1-1": [
+            [
+                {
+                    "country": "EGY",
+                    "name": "Ahmed AYMAN"
+                },
+                {
+                    "country": "SEY",
+                    "name": "Alvin MARIE"
+                },
+                {
+                    "winner": "Ahmed AYMAN"
+                }
+            ],
+            [
+                {
+                    "country": "EGY",
+                    "name": "Ahmed AYMAN"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Ahmed AYMAN"
+        ]
+    },
+    "FINALS": {
+        "round 1-1": [],
+        "final_winners": [
+            "Alaeddine MOKHEFI"
+        ]
+    }
+}

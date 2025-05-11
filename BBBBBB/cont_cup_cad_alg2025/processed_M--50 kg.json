@@ -1,0 +1,159 @@
+{
+    "POOL A": {
+        "round 1-1": [],
+        "final_winner": "Ala Eddine SAHRAOUI"
+    },
+    "POOL B": {
+        "round 1-1": [
+            [
+                {
+                    "country": "ALG",
+                    "name": "Yasser BEKKARI"
+                },
+                {
+                    "country": "ALG",
+                    "name": "Athmane RAHAB"
+                }
+            ]
+        ],
+        "final_winner": "Athmane RAHAB"
+    },
+    "POOL C": {
+        "round 1-1": [
+            [
+                {
+                    "country": "ALG",
+                    "name": "Haithem AHMED AIAD"
+                },
+                {
+                    "country": "ALG",
+                    "name": "Akram HALLEL"
+                }
+            ]
+        ],
+        "final_winner": "Haithem AHMED AIAD"
+    },
+    "POOL D": {
+        "round 1-1": [
+            [
+                {
+                    "country": "ALG",
+                    "name": "Mohamed Imad Eddine ABARKAN"
+                },
+                {
+                    "country": "ALG",
+                    "name": "Anes ZOUAD"
+                }
+            ]
+        ],
+        "final_winner": "Mohamed Imad Eddine ABARKAN"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ALG",
+                    "name": "Yasser BEKKARI"
+                }
+            ],
+            [
+                {
+                    "country": "ALG",
+                    "name": "Akram HALLEL"
+                },
+                {
+                    "country": "ALG",
+                    "name": "Anes ZOUAD"
+                },
+                {
+                    "winner": "Akram HALLEL"
+                }
+            ],
+            [
+                {
+                    "country": "ALG",
+                    "name": "Yasser BEKKARI"
+                },
+                {
+                    "country": "ALG",
+                    "name": "Mohamed Imad Eddine ABARKAN"
+                },
+                {
+                    "winner": "Mohamed Imad Eddine ABARKAN"
+                }
+            ],
+            [
+                {
+                    "country": "ALG",
+                    "name": "Akram HALLEL"
+                },
+                {
+                    "country": "ALG",
+                    "name": "Athmane RAHAB"
+                },
+                {
+                    "winner": "Akram HALLEL"
+                }
+            ],
+            [
+                {
+                    "country": "ALG",
+                    "name": "Mohamed Imad Eddine ABARKAN"
+                }
+            ],
+            [
+                {
+                    "country": "ALG",
+                    "name": "Akram HALLEL"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Mohamed Imad Eddine ABARKAN",
+            "Akram HALLEL"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ALG",
+                    "name": "Ala Eddine SAHRAOUI"
+                },
+                {
+                    "country": "ALG",
+                    "name": "Athmane RAHAB"
+                },
+                {
+                    "winner": "Ala Eddine SAHRAOUI"
+                }
+            ],
+            [
+                {
+                    "country": "ALG",
+                    "name": "Haithem AHMED AIAD"
+                },
+                {
+                    "country": "ALG",
+                    "name": "Mohamed Imad Eddine ABARKAN"
+                },
+                {
+                    "winner": "Haithem AHMED AIAD"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "ALG",
+                    "name": "Ala Eddine SAHRAOUI"
+                },
+                {
+                    "country": "ALG",
+                    "name": "Haithem AHMED AIAD"
+                }
+            ]
+        ],
+        "final_winner": "Ala Eddine SAHRAOUI"
+    }
+}

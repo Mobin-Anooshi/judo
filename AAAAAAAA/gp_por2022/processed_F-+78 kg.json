@@ -1,0 +1,141 @@
+{
+    "POOL A": {
+        "round 1-1": [],
+        "final_winner": "Hayun KIM"
+    },
+    "POOL B": {
+        "round 1-1": [
+            [
+                {
+                    "country": "NED",
+                    "name": "Marit KAMPS"
+                },
+                {
+                    "country": "GBR",
+                    "name": "Sarah ADLINGTON"
+                }
+            ]
+        ],
+        "final_winner": "Marit KAMPS"
+    },
+    "POOL C": {
+        "round 1-1": [],
+        "final_winner": "Adiyasuren AMARSAIKHAN"
+    },
+    "POOL D": {
+        "round 1-1": [
+            [
+                {
+                    "country": "CRO",
+                    "name": "Ivana MARANIC"
+                },
+                {
+                    "country": "FRA",
+                    "name": "Stessie BASTAREAUD"
+                }
+            ]
+        ],
+        "final_winner": "Stessie BASTAREAUD"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "GBR",
+                    "name": "Sarah ADLINGTON"
+                }
+            ],
+            [
+                {
+                    "country": "CRO",
+                    "name": "Ivana MARANIC"
+                }
+            ],
+            [
+                {
+                    "country": "GBR",
+                    "name": "Sarah ADLINGTON"
+                },
+                {
+                    "country": "MGL",
+                    "name": "Adiyasuren AMARSAIKHAN"
+                },
+                {
+                    "winner": "Adiyasuren AMARSAIKHAN"
+                }
+            ],
+            [
+                {
+                    "country": "CRO",
+                    "name": "Ivana MARANIC"
+                },
+                {
+                    "country": "NED",
+                    "name": "Marit KAMPS"
+                },
+                {
+                    "winner": "Marit KAMPS"
+                }
+            ],
+            [
+                {
+                    "country": "MGL",
+                    "name": "Adiyasuren AMARSAIKHAN"
+                }
+            ],
+            [
+                {
+                    "country": "NED",
+                    "name": "Marit KAMPS"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Adiyasuren AMARSAIKHAN",
+            "Marit KAMPS"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "KOR",
+                    "name": "Hayun KIM"
+                },
+                {
+                    "country": "NED",
+                    "name": "Marit KAMPS"
+                },
+                {
+                    "winner": "Hayun KIM"
+                }
+            ],
+            [
+                {
+                    "country": "MGL",
+                    "name": "Adiyasuren AMARSAIKHAN"
+                },
+                {
+                    "country": "FRA",
+                    "name": "Stessie BASTAREAUD"
+                },
+                {
+                    "winner": "Stessie BASTAREAUD"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "KOR",
+                    "name": "Hayun KIM"
+                },
+                {
+                    "country": "FRA",
+                    "name": "Stessie BASTAREAUD"
+                }
+            ]
+        ],
+        "final_winner": "Hayun KIM"
+    }
+}

@@ -1,0 +1,159 @@
+{
+    "POOL A": {
+        "round 1-1": [],
+        "final_winner": "Francine ECHEVARRIA"
+    },
+    "POOL B": {
+        "round 1-1": [
+            [
+                {
+                    "country": "ECU",
+                    "name": "Aracelly BARRIONUEVO"
+                },
+                {
+                    "country": "CHI",
+                    "name": "Gabriela LOPEZ"
+                }
+            ]
+        ],
+        "final_winner": "Aracelly BARRIONUEVO"
+    },
+    "POOL C": {
+        "round 1-1": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Thayna LEMOS"
+                },
+                {
+                    "country": "CHI",
+                    "name": "Camila CALDERON"
+                }
+            ]
+        ],
+        "final_winner": "Thayna LEMOS"
+    },
+    "POOL D": {
+        "round 1-1": [
+            [
+                {
+                    "country": "USA",
+                    "name": "Malia SOBERANO"
+                },
+                {
+                    "country": "CHI",
+                    "name": "Barbara CACERES"
+                }
+            ]
+        ],
+        "final_winner": "Barbara CACERES"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CHI",
+                    "name": "Gabriela LOPEZ"
+                }
+            ],
+            [
+                {
+                    "country": "CHI",
+                    "name": "Camila CALDERON"
+                },
+                {
+                    "country": "USA",
+                    "name": "Malia SOBERANO"
+                },
+                {
+                    "winner": "Camila CALDERON"
+                }
+            ],
+            [
+                {
+                    "country": "CHI",
+                    "name": "Gabriela LOPEZ"
+                },
+                {
+                    "country": "CHI",
+                    "name": "Barbara CACERES"
+                },
+                {
+                    "winner": "Barbara CACERES"
+                }
+            ],
+            [
+                {
+                    "country": "CHI",
+                    "name": "Camila CALDERON"
+                },
+                {
+                    "country": "ECU",
+                    "name": "Aracelly BARRIONUEVO"
+                },
+                {
+                    "winner": "Aracelly BARRIONUEVO"
+                }
+            ],
+            [
+                {
+                    "country": "CHI",
+                    "name": "Barbara CACERES"
+                }
+            ],
+            [
+                {
+                    "country": "ECU",
+                    "name": "Aracelly BARRIONUEVO"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Barbara CACERES",
+            "Aracelly BARRIONUEVO"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "PUR",
+                    "name": "Francine ECHEVARRIA"
+                },
+                {
+                    "country": "ECU",
+                    "name": "Aracelly BARRIONUEVO"
+                },
+                {
+                    "winner": "Francine ECHEVARRIA"
+                }
+            ],
+            [
+                {
+                    "country": "BRA",
+                    "name": "Thayna LEMOS"
+                },
+                {
+                    "country": "CHI",
+                    "name": "Barbara CACERES"
+                },
+                {
+                    "winner": "Thayna LEMOS"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "PUR",
+                    "name": "Francine ECHEVARRIA"
+                },
+                {
+                    "country": "BRA",
+                    "name": "Thayna LEMOS"
+                }
+            ]
+        ],
+        "final_winner": "Thayna LEMOS"
+    }
+}

@@ -1,0 +1,159 @@
+{
+    "POOL A": {
+        "round 1-1": [],
+        "final_winner": "Freddy FIGUEROA"
+    },
+    "POOL B": {
+        "round 1-1": [
+            [
+                {
+                    "country": "ARG",
+                    "name": "Julian BOLOGNESI"
+                },
+                {
+                    "country": "ARG",
+                    "name": "Ngagne MBAYE"
+                }
+            ]
+        ],
+        "final_winner": "Julian BOLOGNESI"
+    },
+    "POOL C": {
+        "round 1-1": [
+            [
+                {
+                    "country": "ARG",
+                    "name": "Hector CAMPOS"
+                },
+                {
+                    "country": "ARG",
+                    "name": "Angel RIOS"
+                }
+            ]
+        ],
+        "final_winner": "Hector CAMPOS"
+    },
+    "POOL D": {
+        "round 1-1": [
+            [
+                {
+                    "country": "CHI",
+                    "name": "Francisco SOLIS"
+                },
+                {
+                    "country": "ARG",
+                    "name": "Ariel CARRO SZEWCZUK"
+                }
+            ]
+        ],
+        "final_winner": "Francisco SOLIS"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ARG",
+                    "name": "Ngagne MBAYE"
+                }
+            ],
+            [
+                {
+                    "country": "ARG",
+                    "name": "Angel RIOS"
+                },
+                {
+                    "country": "ARG",
+                    "name": "Ariel CARRO SZEWCZUK"
+                },
+                {
+                    "winner": "Angel RIOS"
+                }
+            ],
+            [
+                {
+                    "country": "ARG",
+                    "name": "Ngagne MBAYE"
+                },
+                {
+                    "country": "ARG",
+                    "name": "Hector CAMPOS"
+                },
+                {
+                    "winner": "Hector CAMPOS"
+                }
+            ],
+            [
+                {
+                    "country": "ARG",
+                    "name": "Angel RIOS"
+                },
+                {
+                    "country": "ARG",
+                    "name": "Julian BOLOGNESI"
+                },
+                {
+                    "winner": "Julian BOLOGNESI"
+                }
+            ],
+            [
+                {
+                    "country": "ARG",
+                    "name": "Hector CAMPOS"
+                }
+            ],
+            [
+                {
+                    "country": "ARG",
+                    "name": "Julian BOLOGNESI"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Hector CAMPOS",
+            "Julian BOLOGNESI"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ECU",
+                    "name": "Freddy FIGUEROA"
+                },
+                {
+                    "country": "ARG",
+                    "name": "Julian BOLOGNESI"
+                },
+                {
+                    "winner": "Freddy FIGUEROA"
+                }
+            ],
+            [
+                {
+                    "country": "ARG",
+                    "name": "Hector CAMPOS"
+                },
+                {
+                    "country": "CHI",
+                    "name": "Francisco SOLIS"
+                },
+                {
+                    "winner": "Francisco SOLIS"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "ECU",
+                    "name": "Freddy FIGUEROA"
+                },
+                {
+                    "country": "CHI",
+                    "name": "Francisco SOLIS"
+                }
+            ]
+        ],
+        "final_winner": "Freddy FIGUEROA"
+    }
+}

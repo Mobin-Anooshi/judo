@@ -1,0 +1,261 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "TPE",
+                    "name": "Chen-Hao LIN"
+                },
+                {
+                    "winner": "Chen-Hao LIN"
+                }
+            ],
+            [
+                {
+                    "country": "HKG",
+                    "name": "Ka Lee WONG"
+                },
+                {
+                    "winner": "Ka Lee WONG"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "TPE",
+                    "name": "Chen-Hao LIN"
+                },
+                {
+                    "country": "HKG",
+                    "name": "Ka Lee WONG"
+                }
+            ]
+        ],
+        "final_winner": "Chen-Hao LIN"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "PRK",
+                    "name": "Son hui O"
+                },
+                {
+                    "country": "IRI",
+                    "name": "Fatemeh RASHIDI"
+                },
+                {
+                    "winner": "Son hui O"
+                }
+            ],
+            [
+                {
+                    "country": "NEP",
+                    "name": "Manisha MAHARJAN PUTAWAR"
+                },
+                {
+                    "winner": "Manisha MAHARJAN PUTAWAR"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "PRK",
+                    "name": "Son hui O"
+                },
+                {
+                    "country": "NEP",
+                    "name": "Manisha MAHARJAN PUTAWAR"
+                }
+            ]
+        ],
+        "final_winner": "Son hui O"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "UZB",
+                    "name": "Gulaim JUMABAEVA"
+                },
+                {
+                    "winner": "Gulaim JUMABAEVA"
+                }
+            ],
+            [
+                {
+                    "country": "KOR",
+                    "name": "Hyekyeong LEE"
+                },
+                {
+                    "winner": "Hyekyeong LEE"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "UZB",
+                    "name": "Gulaim JUMABAEVA"
+                },
+                {
+                    "country": "KOR",
+                    "name": "Hyekyeong LEE"
+                }
+            ]
+        ],
+        "final_winner": "Hyekyeong LEE"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "KAZ",
+                    "name": "Abiba ABUZHAKYNOVA"
+                },
+                {
+                    "winner": "Abiba ABUZHAKYNOVA"
+                }
+            ],
+            [
+                {
+                    "country": "IND",
+                    "name": "Malaprabha JADHAV"
+                },
+                {
+                    "winner": "Malaprabha JADHAV"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "KAZ",
+                    "name": "Abiba ABUZHAKYNOVA"
+                },
+                {
+                    "country": "IND",
+                    "name": "Malaprabha JADHAV"
+                }
+            ]
+        ],
+        "final_winner": "Abiba ABUZHAKYNOVA"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "HKG",
+                    "name": "Ka Lee WONG"
+                },
+                {
+                    "country": "NEP",
+                    "name": "Manisha MAHARJAN PUTAWAR"
+                },
+                {
+                    "winner": "Ka Lee WONG"
+                }
+            ],
+            [
+                {
+                    "country": "UZB",
+                    "name": "Gulaim JUMABAEVA"
+                },
+                {
+                    "country": "IND",
+                    "name": "Malaprabha JADHAV"
+                },
+                {
+                    "winner": "Malaprabha JADHAV"
+                }
+            ],
+            [
+                {
+                    "country": "HKG",
+                    "name": "Ka Lee WONG"
+                },
+                {
+                    "country": "KOR",
+                    "name": "Hyekyeong LEE"
+                },
+                {
+                    "winner": "Hyekyeong LEE"
+                }
+            ],
+            [
+                {
+                    "country": "IND",
+                    "name": "Malaprabha JADHAV"
+                },
+                {
+                    "country": "TPE",
+                    "name": "Chen-Hao LIN"
+                },
+                {
+                    "winner": "Malaprabha JADHAV"
+                }
+            ],
+            [
+                {
+                    "country": "KOR",
+                    "name": "Hyekyeong LEE"
+                }
+            ],
+            [
+                {
+                    "country": "IND",
+                    "name": "Malaprabha JADHAV"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Hyekyeong LEE",
+            "Malaprabha JADHAV"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "TPE",
+                    "name": "Chen-Hao LIN"
+                },
+                {
+                    "country": "PRK",
+                    "name": "Son hui O"
+                },
+                {
+                    "winner": "Son hui O"
+                }
+            ],
+            [
+                {
+                    "country": "KOR",
+                    "name": "Hyekyeong LEE"
+                },
+                {
+                    "country": "KAZ",
+                    "name": "Abiba ABUZHAKYNOVA"
+                },
+                {
+                    "winner": "Abiba ABUZHAKYNOVA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "PRK",
+                    "name": "Son hui O"
+                },
+                {
+                    "country": "KAZ",
+                    "name": "Abiba ABUZHAKYNOVA"
+                }
+            ]
+        ],
+        "final_winner": "Son hui O"
+    }
+}

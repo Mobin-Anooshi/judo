@@ -1,0 +1,159 @@
+{
+    "POOL A": {
+        "round 1-1": [],
+        "final_winner": "Georgika Wesly DJENGUE MOUNE"
+    },
+    "POOL B": {
+        "round 1-1": [
+            [
+                {
+                    "country": "BDI",
+                    "name": "Ange Ciella NIRAGIRA"
+                },
+                {
+                    "country": "FRA",
+                    "name": "Liz NGELEBEYA"
+                }
+            ]
+        ],
+        "final_winner": "Liz NGELEBEYA"
+    },
+    "POOL C": {
+        "round 1-1": [
+            [
+                {
+                    "country": "MAR",
+                    "name": "Hafsa YATIM"
+                },
+                {
+                    "country": "POL",
+                    "name": "Paulina DZIOPA"
+                }
+            ]
+        ],
+        "final_winner": "Hafsa YATIM"
+    },
+    "POOL D": {
+        "round 1-1": [
+            [
+                {
+                    "country": "PER",
+                    "name": "Camila FIGUEROA"
+                },
+                {
+                    "country": "MAR",
+                    "name": "Jihane EL HOUMATE"
+                }
+            ]
+        ],
+        "final_winner": "Camila FIGUEROA"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "BDI",
+                    "name": "Ange Ciella NIRAGIRA"
+                }
+            ],
+            [
+                {
+                    "country": "POL",
+                    "name": "Paulina DZIOPA"
+                },
+                {
+                    "country": "MAR",
+                    "name": "Jihane EL HOUMATE"
+                },
+                {
+                    "winner": "Paulina DZIOPA"
+                }
+            ],
+            [
+                {
+                    "country": "BDI",
+                    "name": "Ange Ciella NIRAGIRA"
+                },
+                {
+                    "country": "MAR",
+                    "name": "Hafsa YATIM"
+                },
+                {
+                    "winner": "Hafsa YATIM"
+                }
+            ],
+            [
+                {
+                    "country": "POL",
+                    "name": "Paulina DZIOPA"
+                },
+                {
+                    "country": "CMR",
+                    "name": "Georgika Wesly DJENGUE MOUNE"
+                },
+                {
+                    "winner": "Georgika Wesly DJENGUE MOUNE"
+                }
+            ],
+            [
+                {
+                    "country": "MAR",
+                    "name": "Hafsa YATIM"
+                }
+            ],
+            [
+                {
+                    "country": "CMR",
+                    "name": "Georgika Wesly DJENGUE MOUNE"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Hafsa YATIM",
+            "Georgika Wesly DJENGUE MOUNE"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CMR",
+                    "name": "Georgika Wesly DJENGUE MOUNE"
+                },
+                {
+                    "country": "FRA",
+                    "name": "Liz NGELEBEYA"
+                },
+                {
+                    "winner": "Liz NGELEBEYA"
+                }
+            ],
+            [
+                {
+                    "country": "MAR",
+                    "name": "Hafsa YATIM"
+                },
+                {
+                    "country": "PER",
+                    "name": "Camila FIGUEROA"
+                },
+                {
+                    "winner": "Camila FIGUEROA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "FRA",
+                    "name": "Liz NGELEBEYA"
+                },
+                {
+                    "country": "PER",
+                    "name": "Camila FIGUEROA"
+                }
+            ]
+        ],
+        "final_winner": "Liz NGELEBEYA"
+    }
+}

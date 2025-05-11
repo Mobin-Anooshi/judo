@@ -1,0 +1,147 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "USA",
+                    "name": "John SILVA"
+                },
+                {
+                    "winner": "John SILVA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "USA",
+                    "name": "John SILVA"
+                }
+            ]
+        ],
+        "final_winners": [
+            "John SILVA"
+        ]
+    },
+    "POOL B": {
+        "round 1-2": [],
+        "round 1-1": [],
+        "final_winners": [
+            "Shota TODA"
+        ]
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CAN",
+                    "name": "Ian RYDER"
+                },
+                {
+                    "winner": "Ian RYDER"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "CAN",
+                    "name": "Ian RYDER"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Ian RYDER"
+        ]
+    },
+    "POOL D": {
+        "round 1-2": [],
+        "round 1-1": [],
+        "final_winners": [
+            "Jackson MINNICK"
+        ]
+    },
+    "REPECHAGE": {
+        "round 1-4": [
+            [],
+            [
+                {
+                    "country": "CAN",
+                    "name": "Nicolas GRANDCHAMP"
+                },
+                {
+                    "winner": "Nicolas GRANDCHAMP"
+                }
+            ],
+            [],
+            [
+                {
+                    "country": "CAN",
+                    "name": "Rayleigh BECKER"
+                },
+                {
+                    "winner": "Rayleigh BECKER"
+                }
+            ]
+        ],
+        "round 1-2": [
+            [
+                {
+                    "country": "CAN",
+                    "name": "Nicolas GRANDCHAMP"
+                }
+            ],
+            [
+                {
+                    "country": "CAN",
+                    "name": "Rayleigh BECKER"
+                }
+            ],
+            [
+                {
+                    "country": "CAN",
+                    "name": "Nicolas GRANDCHAMP"
+                },
+                {
+                    "country": "CAN",
+                    "name": "Jackson MINNICK"
+                },
+                {
+                    "winner": "Jackson MINNICK"
+                }
+            ],
+            [
+                {
+                    "country": "CAN",
+                    "name": "Rayleigh BECKER"
+                },
+                {
+                    "country": "Vote",
+                    "name": "USA"
+                },
+                {
+                    "country": "John SILVA",
+                    "name": "Vote"
+                },
+                {
+                    "winner": "Rayleigh BECKER"
+                }
+            ],
+            [
+                {
+                    "country": "CAN",
+                    "name": "Jackson MINNICK"
+                }
+            ],
+            []
+        ],
+        "final_winners": []
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [],
+        "round 1-1": [],
+        "final_winners": [
+            "Ian RYDER"
+        ]
+    }
+}

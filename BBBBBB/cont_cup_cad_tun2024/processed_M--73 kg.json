@@ -1,0 +1,177 @@
+{
+    "POOL A": {
+        "round 1-1": [
+            [
+                {
+                    "country": "TUN",
+                    "name": "Amanallah HARROUM"
+                },
+                {
+                    "country": "ALG",
+                    "name": "Abderrahmene OULAD AMER"
+                }
+            ]
+        ],
+        "final_winner": "Amanallah HARROUM"
+    },
+    "POOL B": {
+        "round 1-1": [
+            [
+                {
+                    "country": "ALG",
+                    "name": "Mohammed Aymen El Khalil TAIBI"
+                },
+                {
+                    "country": "MAR",
+                    "name": "Reda OUATIKI"
+                }
+            ]
+        ],
+        "final_winner": "Mohammed Aymen El Khalil TAIBI"
+    },
+    "POOL C": {
+        "round 1-1": [
+            [
+                {
+                    "country": "MAR",
+                    "name": "Rayane BOUKOURATE"
+                },
+                {
+                    "country": "TUN",
+                    "name": "Chiheb SAHBENI"
+                }
+            ]
+        ],
+        "final_winner": "Chiheb SAHBENI"
+    },
+    "POOL D": {
+        "round 1-1": [
+            [
+                {
+                    "country": "KSA",
+                    "name": "Saleh ALBELADI"
+                },
+                {
+                    "country": "ALG",
+                    "name": "Abdelhak FIDJEL"
+                }
+            ]
+        ],
+        "final_winner": "Abdelhak FIDJEL"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ALG",
+                    "name": "Abderrahmene OULAD AMER"
+                },
+                {
+                    "country": "MAR",
+                    "name": "Reda OUATIKI"
+                },
+                {
+                    "winner": "Abderrahmene OULAD AMER"
+                }
+            ],
+            [
+                {
+                    "country": "MAR",
+                    "name": "Rayane BOUKOURATE"
+                },
+                {
+                    "country": "KSA",
+                    "name": "Saleh ALBELADI"
+                },
+                {
+                    "winner": "Saleh ALBELADI"
+                }
+            ],
+            [
+                {
+                    "country": "ALG",
+                    "name": "Abderrahmene OULAD AMER"
+                },
+                {
+                    "country": "ALG",
+                    "name": "Abdelhak FIDJEL"
+                },
+                {
+                    "winner": "Abdelhak FIDJEL"
+                }
+            ],
+            [
+                {
+                    "country": "KSA",
+                    "name": "Saleh ALBELADI"
+                },
+                {
+                    "country": "ALG",
+                    "name": "Mohammed Aymen El Khalil TAIBI"
+                },
+                {
+                    "winner": "Saleh ALBELADI"
+                }
+            ],
+            [
+                {
+                    "country": "ALG",
+                    "name": "Abdelhak FIDJEL"
+                }
+            ],
+            [
+                {
+                    "country": "KSA",
+                    "name": "Saleh ALBELADI"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Abdelhak FIDJEL",
+            "Saleh ALBELADI"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "TUN",
+                    "name": "Amanallah HARROUM"
+                },
+                {
+                    "country": "ALG",
+                    "name": "Mohammed Aymen El Khalil TAIBI"
+                },
+                {
+                    "winner": "Amanallah HARROUM"
+                }
+            ],
+            [
+                {
+                    "country": "TUN",
+                    "name": "Chiheb SAHBENI"
+                },
+                {
+                    "country": "ALG",
+                    "name": "Abdelhak FIDJEL"
+                },
+                {
+                    "winner": "Chiheb SAHBENI"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "TUN",
+                    "name": "Amanallah HARROUM"
+                },
+                {
+                    "country": "TUN",
+                    "name": "Chiheb SAHBENI"
+                }
+            ]
+        ],
+        "final_winner": "Amanallah HARROUM"
+    }
+}

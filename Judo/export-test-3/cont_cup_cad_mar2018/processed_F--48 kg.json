@@ -1,0 +1,68 @@
+{
+    "ROUND 1": {
+        "round 1-2": [
+            [
+                {
+                    "country": "AZE",
+                    "name": "Aytaj GARDASHKHANLI"
+                },
+                {
+                    "country": "MAR",
+                    "name": "hibatallah TAHIRI"
+                },
+                {
+                    "winner": "Aytaj GARDASHKHANLI"
+                }
+            ],
+            [
+                {
+                    "country": "AZE",
+                    "name": "Sabina ALIYEVA"
+                },
+                {
+                    "country": "MAR",
+                    "name": "Wissal ZIANE"
+                },
+                {
+                    "winner": "Sabina ALIYEVA"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Aytaj GARDASHKHANLI",
+            "Sabina ALIYEVA"
+        ]
+    },
+    "REPECHAGE": {
+        "round 1-1": [
+            [
+                {
+                    "country": "MAR",
+                    "name": "hibatallah TAHIRI"
+                },
+                {
+                    "country": "MAR",
+                    "name": "Wissal ZIANE"
+                },
+                {
+                    "winner": "hibatallah TAHIRI"
+                }
+            ],
+            [
+                {
+                    "country": "MAR",
+                    "name": "hibatallah TAHIRI"
+                }
+            ]
+        ],
+        "final_winners": [
+            "hibatallah TAHIRI"
+        ]
+    },
+    "FINALS": {
+        "round 1-1": [],
+        "final_winners": [
+            "Sabina ALIYEVA"
+        ]
+    }
+}

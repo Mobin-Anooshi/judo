@@ -1,0 +1,265 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "POR",
+                    "name": "Yahima RAMIREZ"
+                },
+                {
+                    "winner": "Yahima RAMIREZ"
+                }
+            ],
+            [
+                {
+                    "country": "LTU",
+                    "name": "Migle Julija DUDENAITE"
+                },
+                {
+                    "country": "POL",
+                    "name": "Paulina DZIOPA"
+                },
+                {
+                    "winner": "Paulina DZIOPA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "POR",
+                    "name": "Yahima RAMIREZ"
+                },
+                {
+                    "country": "POL",
+                    "name": "Paulina DZIOPA"
+                }
+            ]
+        ],
+        "final_winner": "Paulina DZIOPA"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ITA",
+                    "name": "Valeria FERRARI"
+                },
+                {
+                    "winner": "Valeria FERRARI"
+                }
+            ],
+            [
+                {
+                    "country": "ITA",
+                    "name": "Linda POLITI"
+                },
+                {
+                    "winner": "Linda POLITI"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "ITA",
+                    "name": "Valeria FERRARI"
+                },
+                {
+                    "country": "ITA",
+                    "name": "Linda POLITI"
+                }
+            ]
+        ],
+        "final_winner": "Linda POLITI"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "GER",
+                    "name": "Teresa ZENKER"
+                },
+                {
+                    "winner": "Teresa ZENKER"
+                }
+            ],
+            [
+                {
+                    "country": "GER",
+                    "name": "Arijana PERIC"
+                },
+                {
+                    "country": "BLR",
+                    "name": "Anzhalika MARTSINKEVICH"
+                },
+                {
+                    "winner": "Arijana PERIC"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "GER",
+                    "name": "Teresa ZENKER"
+                },
+                {
+                    "country": "GER",
+                    "name": "Arijana PERIC"
+                }
+            ]
+        ],
+        "final_winner": "Teresa ZENKER"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "NED",
+                    "name": "Ilona LUCASSEN"
+                },
+                {
+                    "winner": "Ilona LUCASSEN"
+                }
+            ],
+            [
+                {
+                    "country": "ITA",
+                    "name": "Lucia TANGORRE"
+                },
+                {
+                    "winner": "Lucia TANGORRE"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "NED",
+                    "name": "Ilona LUCASSEN"
+                },
+                {
+                    "country": "ITA",
+                    "name": "Lucia TANGORRE"
+                }
+            ]
+        ],
+        "final_winner": "Ilona LUCASSEN"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "POR",
+                    "name": "Yahima RAMIREZ"
+                },
+                {
+                    "country": "ITA",
+                    "name": "Valeria FERRARI"
+                },
+                {
+                    "winner": "Valeria FERRARI"
+                }
+            ],
+            [
+                {
+                    "country": "GER",
+                    "name": "Arijana PERIC"
+                },
+                {
+                    "country": "ITA",
+                    "name": "Lucia TANGORRE"
+                },
+                {
+                    "winner": "Lucia TANGORRE"
+                }
+            ],
+            [
+                {
+                    "country": "ITA",
+                    "name": "Valeria FERRARI"
+                },
+                {
+                    "country": "GER",
+                    "name": "Teresa ZENKER"
+                },
+                {
+                    "winner": "Teresa ZENKER"
+                }
+            ],
+            [
+                {
+                    "country": "ITA",
+                    "name": "Lucia TANGORRE"
+                },
+                {
+                    "country": "POL",
+                    "name": "Paulina DZIOPA"
+                },
+                {
+                    "winner": "Paulina DZIOPA"
+                }
+            ],
+            [
+                {
+                    "country": "GER",
+                    "name": "Teresa ZENKER"
+                }
+            ],
+            [
+                {
+                    "country": "POL",
+                    "name": "Paulina DZIOPA"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Teresa ZENKER",
+            "Paulina DZIOPA"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "POL",
+                    "name": "Paulina DZIOPA"
+                },
+                {
+                    "country": "ITA",
+                    "name": "Linda POLITI"
+                },
+                {
+                    "winner": "Linda POLITI"
+                }
+            ],
+            [
+                {
+                    "country": "GER",
+                    "name": "Teresa ZENKER"
+                },
+                {
+                    "country": "NED",
+                    "name": "Ilona LUCASSEN"
+                },
+                {
+                    "winner": "Ilona LUCASSEN"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "ITA",
+                    "name": "Linda POLITI"
+                },
+                {
+                    "country": "NED",
+                    "name": "Ilona LUCASSEN"
+                }
+            ]
+        ],
+        "final_winner": "Ilona LUCASSEN"
+    }
+}

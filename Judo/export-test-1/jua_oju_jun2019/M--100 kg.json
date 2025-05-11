@@ -1,0 +1,269 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "KAZ",
+                    "name": "Bekarys SADUAKAS"
+                },
+                {
+                    "winner": "Bekarys SADUAKAS"
+                }
+            ],
+            [
+                {
+                    "country": "IND",
+                    "name": "Abhinav ABHINAV"
+                },
+                {
+                    "country": "MGL",
+                    "name": "Munkhbayasgalan ERDENESUKH"
+                },
+                {
+                    "winner": "Munkhbayasgalan ERDENESUKH"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "KAZ",
+                    "name": "Bekarys SADUAKAS"
+                },
+                {
+                    "country": "MGL",
+                    "name": "Munkhbayasgalan ERDENESUKH"
+                }
+            ]
+        ],
+        "final_winner": "Bekarys SADUAKAS"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "TJK",
+                    "name": "Sharifjon NAZRIEV"
+                },
+                {
+                    "winner": "Sharifjon NAZRIEV"
+                }
+            ],
+            [
+                {
+                    "country": "KGZ",
+                    "name": "Orozbek ALMAZBEKOV"
+                },
+                {
+                    "winner": "Orozbek ALMAZBEKOV"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "TJK",
+                    "name": "Sharifjon NAZRIEV"
+                },
+                {
+                    "country": "KGZ",
+                    "name": "Orozbek ALMAZBEKOV"
+                }
+            ]
+        ],
+        "final_winner": "Sharifjon NAZRIEV"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "IRI",
+                    "name": "Ali PARHIZGAR"
+                },
+                {
+                    "winner": "Ali PARHIZGAR"
+                }
+            ],
+            [
+                {
+                    "country": "KOR",
+                    "name": "Jihoon HAN"
+                },
+                {
+                    "country": "TJK",
+                    "name": "Ibrohimjon ELMURODOV"
+                },
+                {
+                    "winner": "Jihoon HAN"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "IRI",
+                    "name": "Ali PARHIZGAR"
+                },
+                {
+                    "country": "KOR",
+                    "name": "Jihoon HAN"
+                }
+            ]
+        ],
+        "final_winner": "Ali PARHIZGAR"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "TPE",
+                    "name": "You-Ming DAI"
+                },
+                {
+                    "winner": "You-Ming DAI"
+                }
+            ],
+            [
+                {
+                    "country": "PHI",
+                    "name": "George Angelo BACLAGAN"
+                },
+                {
+                    "country": "JPN",
+                    "name": "Yudai FUJITAKA"
+                },
+                {
+                    "winner": "Yudai FUJITAKA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "TPE",
+                    "name": "You-Ming DAI"
+                },
+                {
+                    "country": "JPN",
+                    "name": "Yudai FUJITAKA"
+                }
+            ]
+        ],
+        "final_winner": "Yudai FUJITAKA"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "MGL",
+                    "name": "Munkhbayasgalan ERDENESUKH"
+                },
+                {
+                    "country": "KGZ",
+                    "name": "Orozbek ALMAZBEKOV"
+                },
+                {
+                    "winner": "Munkhbayasgalan ERDENESUKH"
+                }
+            ],
+            [
+                {
+                    "country": "KOR",
+                    "name": "Jihoon HAN"
+                },
+                {
+                    "country": "TPE",
+                    "name": "You-Ming DAI"
+                },
+                {
+                    "winner": "Jihoon HAN"
+                }
+            ],
+            [
+                {
+                    "country": "MGL",
+                    "name": "Munkhbayasgalan ERDENESUKH"
+                },
+                {
+                    "country": "JPN",
+                    "name": "Yudai FUJITAKA"
+                },
+                {
+                    "winner": "Yudai FUJITAKA"
+                }
+            ],
+            [
+                {
+                    "country": "KOR",
+                    "name": "Jihoon HAN"
+                },
+                {
+                    "country": "KAZ",
+                    "name": "Bekarys SADUAKAS"
+                },
+                {
+                    "winner": "Bekarys SADUAKAS"
+                }
+            ],
+            [
+                {
+                    "country": "JPN",
+                    "name": "Yudai FUJITAKA"
+                }
+            ],
+            [
+                {
+                    "country": "KAZ",
+                    "name": "Bekarys SADUAKAS"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Yudai FUJITAKA",
+            "Bekarys SADUAKAS"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "KAZ",
+                    "name": "Bekarys SADUAKAS"
+                },
+                {
+                    "country": "TJK",
+                    "name": "Sharifjon NAZRIEV"
+                },
+                {
+                    "winner": "Sharifjon NAZRIEV"
+                }
+            ],
+            [
+                {
+                    "country": "IRI",
+                    "name": "Ali PARHIZGAR"
+                },
+                {
+                    "country": "JPN",
+                    "name": "Yudai FUJITAKA"
+                },
+                {
+                    "winner": "Ali PARHIZGAR"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "TJK",
+                    "name": "Sharifjon NAZRIEV"
+                },
+                {
+                    "country": "IRI",
+                    "name": "Ali PARHIZGAR"
+                }
+            ]
+        ],
+        "final_winner": "Ali PARHIZGAR"
+    }
+}

@@ -1,0 +1,159 @@
+{
+    "POOL A": {
+        "round 1-1": [],
+        "final_winner": "Magdiel ESTRADA"
+    },
+    "POOL B": {
+        "round 1-1": [
+            [
+                {
+                    "country": "MEX",
+                    "name": "Eduardo ARAUJO"
+                },
+                {
+                    "country": "HAI",
+                    "name": "Philippe Abel METELLUS"
+                }
+            ]
+        ],
+        "final_winner": "Eduardo ARAUJO"
+    },
+    "POOL C": {
+        "round 1-1": [
+            [
+                {
+                    "country": "PER",
+                    "name": "Alonso WONG"
+                },
+                {
+                    "country": "USA",
+                    "name": "Liam WRIGHT"
+                }
+            ]
+        ],
+        "final_winner": "Alonso WONG"
+    },
+    "POOL D": {
+        "round 1-1": [
+            [
+                {
+                    "country": "MEX",
+                    "name": "Gilberto CARDOSO"
+                },
+                {
+                    "country": "CRC",
+                    "name": "Julian SANCHO"
+                }
+            ]
+        ],
+        "final_winner": "Gilberto CARDOSO"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "HAI",
+                    "name": "Philippe Abel METELLUS"
+                }
+            ],
+            [
+                {
+                    "country": "USA",
+                    "name": "Liam WRIGHT"
+                },
+                {
+                    "country": "CRC",
+                    "name": "Julian SANCHO"
+                },
+                {
+                    "winner": "Julian SANCHO"
+                }
+            ],
+            [
+                {
+                    "country": "HAI",
+                    "name": "Philippe Abel METELLUS"
+                },
+                {
+                    "country": "MEX",
+                    "name": "Gilberto CARDOSO"
+                },
+                {
+                    "winner": "Gilberto CARDOSO"
+                }
+            ],
+            [
+                {
+                    "country": "CRC",
+                    "name": "Julian SANCHO"
+                },
+                {
+                    "country": "MEX",
+                    "name": "Eduardo ARAUJO"
+                },
+                {
+                    "winner": "Julian SANCHO"
+                }
+            ],
+            [
+                {
+                    "country": "MEX",
+                    "name": "Gilberto CARDOSO"
+                }
+            ],
+            [
+                {
+                    "country": "CRC",
+                    "name": "Julian SANCHO"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Gilberto CARDOSO",
+            "Julian SANCHO"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CUB",
+                    "name": "Magdiel ESTRADA"
+                },
+                {
+                    "country": "MEX",
+                    "name": "Eduardo ARAUJO"
+                },
+                {
+                    "winner": "Magdiel ESTRADA"
+                }
+            ],
+            [
+                {
+                    "country": "PER",
+                    "name": "Alonso WONG"
+                },
+                {
+                    "country": "MEX",
+                    "name": "Gilberto CARDOSO"
+                },
+                {
+                    "winner": "Alonso WONG"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "CUB",
+                    "name": "Magdiel ESTRADA"
+                },
+                {
+                    "country": "PER",
+                    "name": "Alonso WONG"
+                }
+            ]
+        ],
+        "final_winner": "Magdiel ESTRADA"
+    }
+}

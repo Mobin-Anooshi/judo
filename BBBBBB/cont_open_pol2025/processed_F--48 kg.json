@@ -1,0 +1,285 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "BEL",
+                    "name": "Lois PETIT"
+                },
+                {
+                    "winner": "Lois PETIT"
+                }
+            ],
+            [
+                {
+                    "country": "GBR",
+                    "name": "Summer SHAW"
+                },
+                {
+                    "country": "POL",
+                    "name": "Natalia STOKLOSA"
+                },
+                {
+                    "winner": "Summer SHAW"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "BEL",
+                    "name": "Lois PETIT"
+                },
+                {
+                    "country": "GBR",
+                    "name": "Summer SHAW"
+                }
+            ]
+        ],
+        "final_winner": "Lois PETIT"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ESP",
+                    "name": "Gemma Maria GOMEZ ANTONA"
+                },
+                {
+                    "country": "POL",
+                    "name": "Paulina SZLACHTA"
+                },
+                {
+                    "winner": "Gemma Maria GOMEZ ANTONA"
+                }
+            ],
+            [
+                {
+                    "country": "HUN",
+                    "name": "Rebeka Rita KOSZEGI"
+                },
+                {
+                    "country": "FRA",
+                    "name": "Morgane ANNIS"
+                },
+                {
+                    "winner": "Morgane ANNIS"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "ESP",
+                    "name": "Gemma Maria GOMEZ ANTONA"
+                },
+                {
+                    "country": "FRA",
+                    "name": "Morgane ANNIS"
+                }
+            ]
+        ],
+        "final_winner": "Gemma Maria GOMEZ ANTONA"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "NED",
+                    "name": "Amber GERSJES"
+                },
+                {
+                    "country": "POL",
+                    "name": "Barbara TWAROWSKA"
+                },
+                {
+                    "winner": "Amber GERSJES"
+                }
+            ],
+            [
+                {
+                    "country": "FRA",
+                    "name": "Manon URDIALES"
+                },
+                {
+                    "country": "POL",
+                    "name": "Zuzanna WOZNIAK"
+                },
+                {
+                    "winner": "Manon URDIALES"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "NED",
+                    "name": "Amber GERSJES"
+                },
+                {
+                    "country": "FRA",
+                    "name": "Manon URDIALES"
+                }
+            ]
+        ],
+        "final_winner": "Amber GERSJES"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "FRA",
+                    "name": "Laura ESPADINHA"
+                },
+                {
+                    "country": "POL",
+                    "name": "Oliwia ONYSK"
+                },
+                {
+                    "winner": "Laura ESPADINHA"
+                }
+            ],
+            [
+                {
+                    "country": "BRA",
+                    "name": "Clarice RIBEIRO"
+                },
+                {
+                    "country": "UKR",
+                    "name": "Anastasiia SYKISH"
+                },
+                {
+                    "winner": "Clarice RIBEIRO"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "FRA",
+                    "name": "Laura ESPADINHA"
+                },
+                {
+                    "country": "BRA",
+                    "name": "Clarice RIBEIRO"
+                }
+            ]
+        ],
+        "final_winner": "Clarice RIBEIRO"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "GBR",
+                    "name": "Summer SHAW"
+                },
+                {
+                    "country": "FRA",
+                    "name": "Morgane ANNIS"
+                },
+                {
+                    "winner": "Morgane ANNIS"
+                }
+            ],
+            [
+                {
+                    "country": "FRA",
+                    "name": "Manon URDIALES"
+                },
+                {
+                    "country": "FRA",
+                    "name": "Laura ESPADINHA"
+                },
+                {
+                    "winner": "Manon URDIALES"
+                }
+            ],
+            [
+                {
+                    "country": "FRA",
+                    "name": "Morgane ANNIS"
+                },
+                {
+                    "country": "NED",
+                    "name": "Amber GERSJES"
+                },
+                {
+                    "winner": "Amber GERSJES"
+                }
+            ],
+            [
+                {
+                    "country": "FRA",
+                    "name": "Manon URDIALES"
+                },
+                {
+                    "country": "BEL",
+                    "name": "Lois PETIT"
+                },
+                {
+                    "winner": "Manon URDIALES"
+                }
+            ],
+            [
+                {
+                    "country": "NED",
+                    "name": "Amber GERSJES"
+                }
+            ],
+            [
+                {
+                    "country": "FRA",
+                    "name": "Manon URDIALES"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Amber GERSJES",
+            "Manon URDIALES"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "BEL",
+                    "name": "Lois PETIT"
+                },
+                {
+                    "country": "ESP",
+                    "name": "Gemma Maria GOMEZ ANTONA"
+                },
+                {
+                    "winner": "Gemma Maria GOMEZ ANTONA"
+                }
+            ],
+            [
+                {
+                    "country": "NED",
+                    "name": "Amber GERSJES"
+                },
+                {
+                    "country": "BRA",
+                    "name": "Clarice RIBEIRO"
+                },
+                {
+                    "winner": "Clarice RIBEIRO"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "ESP",
+                    "name": "Gemma Maria GOMEZ ANTONA"
+                },
+                {
+                    "country": "BRA",
+                    "name": "Clarice RIBEIRO"
+                }
+            ]
+        ],
+        "final_winner": "Gemma Maria GOMEZ ANTONA"
+    }
+}

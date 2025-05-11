@@ -1,0 +1,68 @@
+{
+    "ROUND 1": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CHN",
+                    "name": "Jing DU"
+                },
+                {
+                    "country": "CHN",
+                    "name": "Qianxi LIN"
+                },
+                {
+                    "winner": "Qianxi LIN"
+                }
+            ],
+            [
+                {
+                    "country": "CHN",
+                    "name": "Ziyue ZHAO"
+                },
+                {
+                    "country": "TPE",
+                    "name": "Pei ru LIN"
+                },
+                {
+                    "winner": "Pei ru LIN"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Qianxi LIN",
+            "Pei ru LIN"
+        ]
+    },
+    "REPECHAGE": {
+        "round 1-1": [
+            [
+                {
+                    "country": "CHN",
+                    "name": "Jing DU"
+                },
+                {
+                    "country": "CHN",
+                    "name": "Ziyue ZHAO"
+                },
+                {
+                    "winner": "Jing DU"
+                }
+            ],
+            [
+                {
+                    "country": "CHN",
+                    "name": "Jing DU"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Jing DU"
+        ]
+    },
+    "FINALS": {
+        "round 1-1": [],
+        "final_winners": [
+            "Qianxi LIN"
+        ]
+    }
+}

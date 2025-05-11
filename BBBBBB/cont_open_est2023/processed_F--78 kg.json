@@ -1,0 +1,269 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ITA",
+                    "name": "Linda POLITI"
+                },
+                {
+                    "winner": "Linda POLITI"
+                }
+            ],
+            [
+                {
+                    "country": "FIN",
+                    "name": "Emma KRAPU"
+                },
+                {
+                    "country": "NED",
+                    "name": "Amber WEILAND"
+                },
+                {
+                    "winner": "Emma KRAPU"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "ITA",
+                    "name": "Linda POLITI"
+                },
+                {
+                    "country": "FIN",
+                    "name": "Emma KRAPU"
+                }
+            ]
+        ],
+        "final_winner": "Linda POLITI"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "MNE",
+                    "name": "Jovana PEKOVIC"
+                },
+                {
+                    "winner": "Jovana PEKOVIC"
+                }
+            ],
+            [
+                {
+                    "country": "UKR",
+                    "name": "Anna KAZAKOVA"
+                },
+                {
+                    "winner": "Anna KAZAKOVA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "MNE",
+                    "name": "Jovana PEKOVIC"
+                },
+                {
+                    "country": "UKR",
+                    "name": "Anna KAZAKOVA"
+                }
+            ]
+        ],
+        "final_winner": "Jovana PEKOVIC"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CYP",
+                    "name": "Zanet MICHAELIDOU"
+                },
+                {
+                    "winner": "Zanet MICHAELIDOU"
+                }
+            ],
+            [
+                {
+                    "country": "ESP",
+                    "name": "Sara FERNANDEZ CAMPILLO"
+                },
+                {
+                    "country": "POL",
+                    "name": "Dominika KUZMA-EBEL"
+                },
+                {
+                    "winner": "Sara FERNANDEZ CAMPILLO"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "CYP",
+                    "name": "Zanet MICHAELIDOU"
+                },
+                {
+                    "country": "ESP",
+                    "name": "Sara FERNANDEZ CAMPILLO"
+                }
+            ]
+        ],
+        "final_winner": "Zanet MICHAELIDOU"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "LAT",
+                    "name": "Una DOLGILEVICA"
+                },
+                {
+                    "winner": "Una DOLGILEVICA"
+                }
+            ],
+            [
+                {
+                    "country": "ITA",
+                    "name": "Irene CALEO"
+                },
+                {
+                    "country": "BEL",
+                    "name": "Vicky VERSCHAERE"
+                },
+                {
+                    "winner": "Vicky VERSCHAERE"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "LAT",
+                    "name": "Una DOLGILEVICA"
+                },
+                {
+                    "country": "BEL",
+                    "name": "Vicky VERSCHAERE"
+                }
+            ]
+        ],
+        "final_winner": "Una DOLGILEVICA"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "FIN",
+                    "name": "Emma KRAPU"
+                },
+                {
+                    "country": "UKR",
+                    "name": "Anna KAZAKOVA"
+                },
+                {
+                    "winner": "Anna KAZAKOVA"
+                }
+            ],
+            [
+                {
+                    "country": "ESP",
+                    "name": "Sara FERNANDEZ CAMPILLO"
+                },
+                {
+                    "country": "BEL",
+                    "name": "Vicky VERSCHAERE"
+                },
+                {
+                    "winner": "Vicky VERSCHAERE"
+                }
+            ],
+            [
+                {
+                    "country": "UKR",
+                    "name": "Anna KAZAKOVA"
+                },
+                {
+                    "country": "CYP",
+                    "name": "Zanet MICHAELIDOU"
+                },
+                {
+                    "winner": "Anna KAZAKOVA"
+                }
+            ],
+            [
+                {
+                    "country": "BEL",
+                    "name": "Vicky VERSCHAERE"
+                },
+                {
+                    "country": "MNE",
+                    "name": "Jovana PEKOVIC"
+                },
+                {
+                    "winner": "Vicky VERSCHAERE"
+                }
+            ],
+            [
+                {
+                    "country": "UKR",
+                    "name": "Anna KAZAKOVA"
+                }
+            ],
+            [
+                {
+                    "country": "BEL",
+                    "name": "Vicky VERSCHAERE"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Anna KAZAKOVA",
+            "Vicky VERSCHAERE"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ITA",
+                    "name": "Linda POLITI"
+                },
+                {
+                    "country": "MNE",
+                    "name": "Jovana PEKOVIC"
+                },
+                {
+                    "winner": "Linda POLITI"
+                }
+            ],
+            [
+                {
+                    "country": "CYP",
+                    "name": "Zanet MICHAELIDOU"
+                },
+                {
+                    "country": "LAT",
+                    "name": "Una DOLGILEVICA"
+                },
+                {
+                    "winner": "Una DOLGILEVICA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "ITA",
+                    "name": "Linda POLITI"
+                },
+                {
+                    "country": "LAT",
+                    "name": "Una DOLGILEVICA"
+                }
+            ]
+        ],
+        "final_winner": "Una DOLGILEVICA"
+    }
+}

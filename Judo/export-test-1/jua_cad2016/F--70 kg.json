@@ -1,0 +1,199 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [],
+            [
+                {
+                    "country": "KOR",
+                    "name": "Chaerim SUN"
+                },
+                {
+                    "winner": "Chaerim SUN"
+                }
+            ]
+        ],
+        "round 1-1": [],
+        "final_winner": "Chaerim SUN"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "JPN",
+                    "name": "Nanami ASAHI"
+                },
+                {
+                    "winner": "Nanami ASAHI"
+                }
+            ],
+            [
+                {
+                    "country": "TPE",
+                    "name": "Shu Huei HSU WANG"
+                },
+                {
+                    "winner": "Shu Huei HSU WANG"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "JPN",
+                    "name": "Nanami ASAHI"
+                },
+                {
+                    "country": "TPE",
+                    "name": "Shu Huei HSU WANG"
+                }
+            ]
+        ],
+        "final_winner": "Nanami ASAHI"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "IND",
+                    "name": "Rucha rahul DHOPESHWAR"
+                },
+                {
+                    "winner": "Rucha rahul DHOPESHWAR"
+                }
+            ],
+            [
+                {
+                    "country": "IRI",
+                    "name": "Maryam BARBAT"
+                },
+                {
+                    "winner": "Maryam BARBAT"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "IND",
+                    "name": "Rucha rahul DHOPESHWAR"
+                },
+                {
+                    "country": "IRI",
+                    "name": "Maryam BARBAT"
+                }
+            ]
+        ],
+        "final_winner": "Maryam BARBAT"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [],
+            [
+                {
+                    "country": "KAZ",
+                    "name": "Aruna JANGELDINA"
+                },
+                {
+                    "winner": "Aruna JANGELDINA"
+                }
+            ]
+        ],
+        "round 1-1": [],
+        "final_winner": "Aruna JANGELDINA"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "TPE",
+                    "name": "Shu Huei HSU WANG"
+                }
+            ],
+            [
+                {
+                    "country": "IND",
+                    "name": "Rucha rahul DHOPESHWAR"
+                }
+            ],
+            [
+                {
+                    "country": "TPE",
+                    "name": "Shu Huei HSU WANG"
+                },
+                {
+                    "country": "KAZ",
+                    "name": "Aruna JANGELDINA"
+                },
+                {
+                    "winner": "Shu Huei HSU WANG"
+                }
+            ],
+            [
+                {
+                    "country": "IND",
+                    "name": "Rucha rahul DHOPESHWAR"
+                },
+                {
+                    "country": "KOR",
+                    "name": "Chaerim SUN"
+                },
+                {
+                    "winner": "Chaerim SUN"
+                }
+            ],
+            [
+                {
+                    "country": "KOR",
+                    "name": "Chaerim SUN"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Rucha rahul DHOPESHWAR",
+            "Shu Huei HSU WANG"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "KOR",
+                    "name": "Chaerim SUN"
+                },
+                {
+                    "country": "JPN",
+                    "name": "Nanami ASAHI"
+                },
+                {
+                    "winner": "Nanami ASAHI"
+                }
+            ],
+            [
+                {
+                    "country": "IRI",
+                    "name": "Maryam BARBAT"
+                },
+                {
+                    "country": "KAZ",
+                    "name": "Aruna JANGELDINA"
+                },
+                {
+                    "winner": "Maryam BARBAT"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "JPN",
+                    "name": "Nanami ASAHI"
+                },
+                {
+                    "country": "IRI",
+                    "name": "Maryam BARBAT"
+                }
+            ]
+        ],
+        "final_winner": "Nanami ASAHI"
+    }
+}

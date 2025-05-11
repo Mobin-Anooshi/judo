@@ -1,0 +1,177 @@
+{
+    "POOL A": {
+        "round 1-1": [
+            [
+                {
+                    "country": "CHN",
+                    "name": "Liping LIU"
+                },
+                {
+                    "country": "UZB",
+                    "name": "Zukhrakhon MAMURJONOVA"
+                }
+            ]
+        ],
+        "final_winner": "Liping LIU"
+    },
+    "POOL B": {
+        "round 1-1": [
+            [
+                {
+                    "country": "HKG",
+                    "name": "Shuk Ki TSUI"
+                },
+                {
+                    "country": "KAZ",
+                    "name": "Tolganay ABEUOVA"
+                }
+            ]
+        ],
+        "final_winner": "Shuk Ki TSUI"
+    },
+    "POOL C": {
+        "round 1-1": [
+            [
+                {
+                    "country": "CHN",
+                    "name": "Ben LIU"
+                },
+                {
+                    "country": "KAZ",
+                    "name": "Balnur ABDESHOVA"
+                }
+            ]
+        ],
+        "final_winner": "Ben LIU"
+    },
+    "POOL D": {
+        "round 1-1": [
+            [
+                {
+                    "country": "KAZ",
+                    "name": "Gaukhar IRMAGAMBETOVA"
+                },
+                {
+                    "country": "UZB",
+                    "name": "Janona RAHIMKULOVA"
+                }
+            ]
+        ],
+        "final_winner": "Gaukhar IRMAGAMBETOVA"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "UZB",
+                    "name": "Zukhrakhon MAMURJONOVA"
+                },
+                {
+                    "country": "KAZ",
+                    "name": "Tolganay ABEUOVA"
+                },
+                {
+                    "winner": "Zukhrakhon MAMURJONOVA"
+                }
+            ],
+            [
+                {
+                    "country": "KAZ",
+                    "name": "Balnur ABDESHOVA"
+                },
+                {
+                    "country": "UZB",
+                    "name": "Janona RAHIMKULOVA"
+                },
+                {
+                    "winner": "Balnur ABDESHOVA"
+                }
+            ],
+            [
+                {
+                    "country": "UZB",
+                    "name": "Zukhrakhon MAMURJONOVA"
+                },
+                {
+                    "country": "KAZ",
+                    "name": "Gaukhar IRMAGAMBETOVA"
+                },
+                {
+                    "winner": "Zukhrakhon MAMURJONOVA"
+                }
+            ],
+            [
+                {
+                    "country": "KAZ",
+                    "name": "Balnur ABDESHOVA"
+                },
+                {
+                    "country": "HKG",
+                    "name": "Shuk Ki TSUI"
+                },
+                {
+                    "winner": "Shuk Ki TSUI"
+                }
+            ],
+            [
+                {
+                    "country": "UZB",
+                    "name": "Zukhrakhon MAMURJONOVA"
+                }
+            ],
+            [
+                {
+                    "country": "HKG",
+                    "name": "Shuk Ki TSUI"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Zukhrakhon MAMURJONOVA",
+            "Shuk Ki TSUI"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CHN",
+                    "name": "Liping LIU"
+                },
+                {
+                    "country": "HKG",
+                    "name": "Shuk Ki TSUI"
+                },
+                {
+                    "winner": "Liping LIU"
+                }
+            ],
+            [
+                {
+                    "country": "CHN",
+                    "name": "Ben LIU"
+                },
+                {
+                    "country": "KAZ",
+                    "name": "Gaukhar IRMAGAMBETOVA"
+                },
+                {
+                    "winner": "Ben LIU"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "CHN",
+                    "name": "Liping LIU"
+                },
+                {
+                    "country": "CHN",
+                    "name": "Ben LIU"
+                }
+            ]
+        ],
+        "final_winner": "Liping LIU"
+    }
+}

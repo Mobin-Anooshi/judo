@@ -1,0 +1,269 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "DOM",
+                    "name": "Robert FLORENTINO"
+                },
+                {
+                    "winner": "Robert FLORENTINO"
+                }
+            ],
+            [
+                {
+                    "country": "BAH",
+                    "name": "Daniel STRACHAN"
+                },
+                {
+                    "country": "CAN",
+                    "name": "Guillaume GAULIN"
+                },
+                {
+                    "winner": "Guillaume GAULIN"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "DOM",
+                    "name": "Robert FLORENTINO"
+                },
+                {
+                    "country": "CAN",
+                    "name": "Guillaume GAULIN"
+                }
+            ]
+        ],
+        "final_winner": "Robert FLORENTINO"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "VEN",
+                    "name": "Carlos PAEZ"
+                },
+                {
+                    "winner": "Carlos PAEZ"
+                }
+            ],
+            [
+                {
+                    "country": "JAM",
+                    "name": "Max STEWART"
+                },
+                {
+                    "winner": "Max STEWART"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "VEN",
+                    "name": "Carlos PAEZ"
+                },
+                {
+                    "country": "JAM",
+                    "name": "Max STEWART"
+                }
+            ]
+        ],
+        "final_winner": "Max STEWART"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "USA",
+                    "name": "Alexander KNAUF"
+                },
+                {
+                    "winner": "Alexander KNAUF"
+                }
+            ],
+            [
+                {
+                    "country": "HON",
+                    "name": "Axel GARCIA"
+                },
+                {
+                    "country": "DOM",
+                    "name": "Derick Manuel BURGOS ROSSO"
+                },
+                {
+                    "winner": "Axel GARCIA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "USA",
+                    "name": "Alexander KNAUF"
+                },
+                {
+                    "country": "HON",
+                    "name": "Axel GARCIA"
+                }
+            ]
+        ],
+        "final_winner": "Alexander KNAUF"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "MEX",
+                    "name": "Angel GARCIA"
+                },
+                {
+                    "winner": "Angel GARCIA"
+                }
+            ],
+            [
+                {
+                    "country": "MEX",
+                    "name": "Diego DIAZ"
+                },
+                {
+                    "country": "COL",
+                    "name": "Jairo VARGAS"
+                },
+                {
+                    "winner": "Diego DIAZ"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "MEX",
+                    "name": "Angel GARCIA"
+                },
+                {
+                    "country": "MEX",
+                    "name": "Diego DIAZ"
+                }
+            ]
+        ],
+        "final_winner": "Diego DIAZ"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CAN",
+                    "name": "Guillaume GAULIN"
+                },
+                {
+                    "country": "VEN",
+                    "name": "Carlos PAEZ"
+                },
+                {
+                    "winner": "Carlos PAEZ"
+                }
+            ],
+            [
+                {
+                    "country": "HON",
+                    "name": "Axel GARCIA"
+                },
+                {
+                    "country": "MEX",
+                    "name": "Angel GARCIA"
+                },
+                {
+                    "winner": "Angel GARCIA"
+                }
+            ],
+            [
+                {
+                    "country": "VEN",
+                    "name": "Carlos PAEZ"
+                },
+                {
+                    "country": "MEX",
+                    "name": "Diego DIAZ"
+                },
+                {
+                    "winner": "Diego DIAZ"
+                }
+            ],
+            [
+                {
+                    "country": "MEX",
+                    "name": "Angel GARCIA"
+                },
+                {
+                    "country": "JAM",
+                    "name": "Max STEWART"
+                },
+                {
+                    "winner": "Max STEWART"
+                }
+            ],
+            [
+                {
+                    "country": "MEX",
+                    "name": "Diego DIAZ"
+                }
+            ],
+            [
+                {
+                    "country": "JAM",
+                    "name": "Max STEWART"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Diego DIAZ",
+            "Max STEWART"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "DOM",
+                    "name": "Robert FLORENTINO"
+                },
+                {
+                    "country": "JAM",
+                    "name": "Max STEWART"
+                },
+                {
+                    "winner": "Robert FLORENTINO"
+                }
+            ],
+            [
+                {
+                    "country": "USA",
+                    "name": "Alexander KNAUF"
+                },
+                {
+                    "country": "MEX",
+                    "name": "Diego DIAZ"
+                },
+                {
+                    "winner": "Alexander KNAUF"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "DOM",
+                    "name": "Robert FLORENTINO"
+                },
+                {
+                    "country": "USA",
+                    "name": "Alexander KNAUF"
+                }
+            ]
+        ],
+        "final_winner": "Robert FLORENTINO"
+    }
+}

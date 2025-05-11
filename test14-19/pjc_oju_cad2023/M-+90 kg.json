@@ -1,0 +1,238 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CHI",
+                    "name": "Patricio URRA"
+                },
+                {
+                    "winner": "Patricio URRA"
+                }
+            ],
+            []
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "CHI",
+                    "name": "Patricio URRA"
+                }
+            ]
+        ]
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "MEX",
+                    "name": "Gerardo CASTELAN"
+                },
+                {
+                    "winner": "Gerardo CASTELAN"
+                }
+            ],
+            [
+                {
+                    "country": "USA",
+                    "name": "Kanta UEYAMA"
+                },
+                {
+                    "winner": "Kanta UEYAMA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "MEX",
+                    "name": "Gerardo CASTELAN"
+                },
+                {
+                    "country": "USA",
+                    "name": "Kanta UEYAMA"
+                }
+            ],
+            [
+                {
+                    "country": "USA",
+                    "name": "Kanta UEYAMA"
+                }
+            ]
+        ]
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Luis Antonio OLIVEIRA"
+                },
+                {
+                    "winner": "Luis Antonio OLIVEIRA"
+                }
+            ],
+            []
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Luis Antonio OLIVEIRA"
+                }
+            ]
+        ]
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CAN",
+                    "name": "Matys RAINVILLE"
+                },
+                {
+                    "winner": "Matys RAINVILLE"
+                }
+            ],
+            [
+                {
+                    "country": "DOM",
+                    "name": "Jose Miguel BRACHE JARQUIN"
+                },
+                {
+                    "winner": "Jose Miguel BRACHE JARQUIN"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "CAN",
+                    "name": "Matys RAINVILLE"
+                },
+                {
+                    "country": "DOM",
+                    "name": "Jose Miguel BRACHE JARQUIN"
+                }
+            ],
+            [
+                {
+                    "country": "DOM",
+                    "name": "Jose Miguel BRACHE JARQUIN"
+                }
+            ]
+        ]
+    },
+    "REPECHAGE": {
+        "round 1-4": [
+            [],
+            [
+                {
+                    "country": "MEX",
+                    "name": "Gerardo CASTELAN"
+                },
+                {
+                    "winner": "Gerardo CASTELAN"
+                }
+            ],
+            [],
+            [
+                {
+                    "country": "CAN",
+                    "name": "Matys RAINVILLE"
+                },
+                {
+                    "winner": "Matys RAINVILLE"
+                }
+            ]
+        ],
+        "round 1-2": [
+            [
+                {
+                    "country": "MEX",
+                    "name": "Gerardo CASTELAN"
+                }
+            ],
+            [
+                {
+                    "country": "CAN",
+                    "name": "Matys RAINVILLE"
+                }
+            ],
+            [
+                {
+                    "country": "MEX",
+                    "name": "Gerardo CASTELAN"
+                },
+                {
+                    "country": "DOM",
+                    "name": "Jose Miguel BRACHE JARQUIN"
+                }
+            ],
+            [
+                {
+                    "country": "CAN",
+                    "name": "Matys RAINVILLE"
+                },
+                {
+                    "country": "CHI",
+                    "name": "Patricio URRA"
+                }
+            ],
+            [
+                {
+                    "country": "CHI",
+                    "name": "Patricio URRA"
+                }
+            ]
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CHI",
+                    "name": "Patricio URRA"
+                },
+                {
+                    "country": "USA",
+                    "name": "Kanta UEYAMA"
+                },
+                {
+                    "winner": "Kanta UEYAMA"
+                }
+            ],
+            [
+                {
+                    "country": "BRA",
+                    "name": "Luis Antonio OLIVEIRA"
+                },
+                {
+                    "country": "DOM",
+                    "name": "Jose Miguel BRACHE JARQUIN"
+                },
+                {
+                    "winner": "Luis Antonio OLIVEIRA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "USA",
+                    "name": "Kanta UEYAMA"
+                },
+                {
+                    "country": "BRA",
+                    "name": "Luis Antonio OLIVEIRA"
+                }
+            ],
+            [
+                {
+                    "country": "BRA",
+                    "name": "Luis Antonio OLIVEIRA"
+                }
+            ]
+        ]
+    }
+}

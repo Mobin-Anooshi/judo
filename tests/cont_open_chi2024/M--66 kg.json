@@ -1,0 +1,274 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ECU",
+                    "name": "Lenin PRECIADO"
+                },
+                {
+                    "winner": "Lenin PRECIADO"
+                }
+            ],
+            [
+                {
+                    "country": "JPN",
+                    "name": "Koya HASHIMOTO"
+                },
+                {
+                    "country": "CHI",
+                    "name": "Fabricio MEYER"
+                },
+                {
+                    "winner": "Koya HASHIMOTO"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "ECU",
+                    "name": "Lenin PRECIADO"
+                },
+                {
+                    "country": "JPN",
+                    "name": "Koya HASHIMOTO"
+                }
+            ],
+            [
+                {
+                    "country": "JPN",
+                    "name": "Koya HASHIMOTO"
+                }
+            ]
+        ]
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CHI",
+                    "name": "Reinaldo CACERES"
+                },
+                {
+                    "winner": "Reinaldo CACERES"
+                }
+            ],
+            [
+                {
+                    "country": "PER",
+                    "name": "Franco BALTAZAR"
+                },
+                {
+                    "winner": "Franco BALTAZAR"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "CHI",
+                    "name": "Reinaldo CACERES"
+                },
+                {
+                    "country": "PER",
+                    "name": "Franco BALTAZAR"
+                }
+            ],
+            [
+                {
+                    "country": "CHI",
+                    "name": "Reinaldo CACERES"
+                }
+            ]
+        ]
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "PER",
+                    "name": "Juan POSTIGOS"
+                },
+                {
+                    "winner": "Juan POSTIGOS"
+                }
+            ],
+            [
+                {
+                    "country": "CHI",
+                    "name": "Michael VARGAS"
+                },
+                {
+                    "country": "CHI",
+                    "name": "Juan TAPIA"
+                },
+                {
+                    "winner": "Michael VARGAS"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "PER",
+                    "name": "Juan POSTIGOS"
+                },
+                {
+                    "country": "CHI",
+                    "name": "Michael VARGAS"
+                }
+            ],
+            [
+                {
+                    "country": "PER",
+                    "name": "Juan POSTIGOS"
+                }
+            ]
+        ]
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ESA",
+                    "name": "Diego CALIX"
+                },
+                {
+                    "winner": "Diego CALIX"
+                }
+            ],
+            [
+                {
+                    "country": "COL",
+                    "name": "Keiner SANCHEZ GARNICA"
+                },
+                {
+                    "winner": "Keiner SANCHEZ GARNICA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "ESA",
+                    "name": "Diego CALIX"
+                },
+                {
+                    "country": "COL",
+                    "name": "Keiner SANCHEZ GARNICA"
+                }
+            ],
+            [
+                {
+                    "country": "ESA",
+                    "name": "Diego CALIX"
+                }
+            ]
+        ]
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ECU",
+                    "name": "Lenin PRECIADO"
+                },
+                {
+                    "country": "PER",
+                    "name": "Franco BALTAZAR"
+                }
+            ],
+            [
+                {
+                    "country": "CHI",
+                    "name": "Michael VARGAS"
+                },
+                {
+                    "country": "COL",
+                    "name": "Keiner SANCHEZ GARNICA"
+                }
+            ],
+            [
+                {
+                    "country": "ECU",
+                    "name": "Lenin PRECIADO"
+                },
+                {
+                    "country": "PER",
+                    "name": "Juan POSTIGOS"
+                }
+            ],
+            [
+                {
+                    "country": "COL",
+                    "name": "Keiner SANCHEZ GARNICA"
+                },
+                {
+                    "country": "CHI",
+                    "name": "Reinaldo CACERES"
+                }
+            ],
+            [
+                {
+                    "country": "PER",
+                    "name": "Juan POSTIGOS"
+                }
+            ],
+            [
+                {
+                    "country": "CHI",
+                    "name": "Reinaldo CACERES"
+                }
+            ]
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "JPN",
+                    "name": "Koya HASHIMOTO"
+                },
+                {
+                    "country": "CHI",
+                    "name": "Reinaldo CACERES"
+                },
+                {
+                    "winner": "Koya HASHIMOTO"
+                }
+            ],
+            [
+                {
+                    "country": "PER",
+                    "name": "Juan POSTIGOS"
+                },
+                {
+                    "country": "ESA",
+                    "name": "Diego CALIX"
+                },
+                {
+                    "winner": "Diego CALIX"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "JPN",
+                    "name": "Koya HASHIMOTO"
+                },
+                {
+                    "country": "ESA",
+                    "name": "Diego CALIX"
+                }
+            ],
+            [
+                {
+                    "country": "ESA",
+                    "name": "Diego CALIX"
+                }
+            ]
+        ]
+    }
+}

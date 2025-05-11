@@ -1,0 +1,159 @@
+{
+    "POOL A": {
+        "round 1-1": [],
+        "final_winner": "Migle Julija DUDENAITE"
+    },
+    "POOL B": {
+        "round 1-1": [
+            [
+                {
+                    "country": "KAZ",
+                    "name": "Nazgul YESSIMBEK"
+                },
+                {
+                    "country": "UZB",
+                    "name": "Shakhlo EGAMBERGANOVA"
+                }
+            ]
+        ],
+        "final_winner": "Shakhlo EGAMBERGANOVA"
+    },
+    "POOL C": {
+        "round 1-1": [
+            [
+                {
+                    "country": "AIN",
+                    "name": "Darya KANTSAVAYA"
+                },
+                {
+                    "country": "KAZ",
+                    "name": "Anastassiya NAGACHEVSKAYA"
+                }
+            ]
+        ],
+        "final_winner": "Darya KANTSAVAYA"
+    },
+    "POOL D": {
+        "round 1-1": [
+            [
+                {
+                    "country": "KGZ",
+                    "name": "Shakhida NARMUKHAMEDOVA"
+                },
+                {
+                    "country": "KAZ",
+                    "name": "Symbat DUISENBAY"
+                }
+            ]
+        ],
+        "final_winner": "Symbat DUISENBAY"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "KAZ",
+                    "name": "Nazgul YESSIMBEK"
+                }
+            ],
+            [
+                {
+                    "country": "KAZ",
+                    "name": "Anastassiya NAGACHEVSKAYA"
+                },
+                {
+                    "country": "KGZ",
+                    "name": "Shakhida NARMUKHAMEDOVA"
+                },
+                {
+                    "winner": "Anastassiya NAGACHEVSKAYA"
+                }
+            ],
+            [
+                {
+                    "country": "KAZ",
+                    "name": "Nazgul YESSIMBEK"
+                },
+                {
+                    "country": "KAZ",
+                    "name": "Symbat DUISENBAY"
+                },
+                {
+                    "winner": "Symbat DUISENBAY"
+                }
+            ],
+            [
+                {
+                    "country": "KAZ",
+                    "name": "Anastassiya NAGACHEVSKAYA"
+                },
+                {
+                    "country": "UZB",
+                    "name": "Shakhlo EGAMBERGANOVA"
+                },
+                {
+                    "winner": "Shakhlo EGAMBERGANOVA"
+                }
+            ],
+            [
+                {
+                    "country": "KAZ",
+                    "name": "Symbat DUISENBAY"
+                }
+            ],
+            [
+                {
+                    "country": "UZB",
+                    "name": "Shakhlo EGAMBERGANOVA"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Symbat DUISENBAY",
+            "Shakhlo EGAMBERGANOVA"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "LTU",
+                    "name": "Migle Julija DUDENAITE"
+                },
+                {
+                    "country": "UZB",
+                    "name": "Shakhlo EGAMBERGANOVA"
+                },
+                {
+                    "winner": "Migle Julija DUDENAITE"
+                }
+            ],
+            [
+                {
+                    "country": "AIN",
+                    "name": "Darya KANTSAVAYA"
+                },
+                {
+                    "country": "KAZ",
+                    "name": "Symbat DUISENBAY"
+                },
+                {
+                    "winner": "Darya KANTSAVAYA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "LTU",
+                    "name": "Migle Julija DUDENAITE"
+                },
+                {
+                    "country": "AIN",
+                    "name": "Darya KANTSAVAYA"
+                }
+            ]
+        ],
+        "final_winner": "Darya KANTSAVAYA"
+    }
+}

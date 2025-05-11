@@ -1,0 +1,87 @@
+{
+    "POOL A": {
+        "round 1-3": [
+            [
+                {
+                    "country": "PER",
+                    "name": "Mauricio RIVERA RAMOS"
+                },
+                {
+                    "country": "PER",
+                    "name": "Bruno DIAZ TORRES"
+                },
+                {
+                    "winner": "Mauricio RIVERA RAMOS"
+                }
+            ],
+            [
+                {
+                    "country": "PER",
+                    "name": "Mauricio RIVERA RAMOS"
+                },
+                {
+                    "country": "ARG",
+                    "name": "Lorenzo RASOFRIC"
+                },
+                {
+                    "winner": "Lorenzo RASOFRIC"
+                }
+            ],
+            [
+                {
+                    "country": "PER",
+                    "name": "Bruno DIAZ TORRES"
+                },
+                {
+                    "country": "ARG",
+                    "name": "Lorenzo RASOFRIC"
+                },
+                {
+                    "winner": "Bruno DIAZ TORRES"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Bruno DIAZ TORRES",
+            "Lorenzo RASOFRIC"
+        ]
+    },
+    "POOL B": {
+        "round 1-1": [],
+        "final_winners": [
+            "Javier SAAVEDRA"
+        ]
+    },
+    "REPECHAGE": {
+        "round 1-1": [
+            [
+                {
+                    "country": "PER",
+                    "name": "Bruno DIAZ TORRES"
+                },
+                {
+                    "country": "PER",
+                    "name": "Sebastian QUILICHE CHUNA"
+                },
+                {
+                    "winner": "Bruno DIAZ TORRES"
+                }
+            ],
+            [
+                {
+                    "country": "PER",
+                    "name": "Bruno DIAZ TORRES"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Bruno DIAZ TORRES"
+        ]
+    },
+    "FINALS": {
+        "round 1-1": [],
+        "final_winners": [
+            "Lorenzo RASOFRIC"
+        ]
+    }
+}

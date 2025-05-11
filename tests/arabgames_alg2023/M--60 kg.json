@@ -1,0 +1,186 @@
+{
+    "POOL A": {
+        "round 1-1": [
+            [
+                {
+                    "country": "MAR",
+                    "name": "Younes SADDIKI"
+                },
+                {
+                    "country": "TUN",
+                    "name": "Mohamed MTIRI"
+                }
+            ],
+            [
+                {
+                    "country": "TUN",
+                    "name": "Mohamed MTIRI"
+                }
+            ]
+        ]
+    },
+    "POOL B": {
+        "round 1-1": [
+            [
+                {
+                    "country": "SYR",
+                    "name": "Suleiman AL REFAYI"
+                },
+                {
+                    "country": "JOR",
+                    "name": "Bilal ALMANSOUR"
+                }
+            ],
+            [
+                {
+                    "country": "JOR",
+                    "name": "Bilal ALMANSOUR"
+                }
+            ]
+        ]
+    },
+    "POOL C": {
+        "round 1-1": [
+            [
+                {
+                    "country": "TUN",
+                    "name": "Fraj DHOUIBI"
+                },
+                {
+                    "country": "YEM",
+                    "name": "Ali KHOUSROF"
+                }
+            ],
+            [
+                {
+                    "country": "TUN",
+                    "name": "Fraj DHOUIBI"
+                }
+            ]
+        ]
+    },
+    "POOL D": {
+        "round 1-1": [
+            [
+                {
+                    "country": "ALG",
+                    "name": "Billel YAGOUBI"
+                },
+                {
+                    "country": "KSA",
+                    "name": "Mutaz KHAWJAH"
+                }
+            ],
+            [
+                {
+                    "country": "ALG",
+                    "name": "Billel YAGOUBI"
+                }
+            ]
+        ]
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "MAR",
+                    "name": "Younes SADDIKI"
+                },
+                {
+                    "country": "SYR",
+                    "name": "Suleiman AL REFAYI"
+                }
+            ],
+            [
+                {
+                    "country": "YEM",
+                    "name": "Ali KHOUSROF"
+                },
+                {
+                    "country": "KSA",
+                    "name": "Mutaz KHAWJAH"
+                }
+            ],
+            [
+                {
+                    "country": "MAR",
+                    "name": "Younes SADDIKI"
+                },
+                {
+                    "country": "ALG",
+                    "name": "Billel YAGOUBI"
+                }
+            ],
+            [
+                {
+                    "country": "YEM",
+                    "name": "Ali KHOUSROF"
+                },
+                {
+                    "country": "TUN",
+                    "name": "Mohamed MTIRI"
+                }
+            ],
+            [
+                {
+                    "country": "MAR",
+                    "name": "Younes SADDIKI"
+                }
+            ],
+            [
+                {
+                    "country": "YEM",
+                    "name": "Ali KHOUSROF"
+                }
+            ]
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "TUN",
+                    "name": "Mohamed MTIRI"
+                },
+                {
+                    "country": "JOR",
+                    "name": "Bilal ALMANSOUR"
+                },
+                {
+                    "winner": "Bilal ALMANSOUR"
+                }
+            ],
+            [
+                {
+                    "country": "TUN",
+                    "name": "Fraj DHOUIBI"
+                },
+                {
+                    "country": "ALG",
+                    "name": "Billel YAGOUBI"
+                },
+                {
+                    "winner": "Fraj DHOUIBI"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "JOR",
+                    "name": "Bilal ALMANSOUR"
+                },
+                {
+                    "country": "TUN",
+                    "name": "Fraj DHOUIBI"
+                }
+            ],
+            [
+                {
+                    "country": "TUN",
+                    "name": "Fraj DHOUIBI"
+                }
+            ]
+        ]
+    }
+}

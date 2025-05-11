@@ -1,0 +1,177 @@
+{
+    "POOL A": {
+        "round 1-1": [
+            [
+                {
+                    "country": "ESP",
+                    "name": "Davit KEVLISHVILI"
+                },
+                {
+                    "country": "IRL",
+                    "name": "Michael MAC DONNACHA"
+                }
+            ]
+        ],
+        "final_winner": "Michael MAC DONNACHA"
+    },
+    "POOL B": {
+        "round 1-1": [
+            [
+                {
+                    "country": "FRA",
+                    "name": "Matheo AKIANA MONGO"
+                },
+                {
+                    "country": "GBR",
+                    "name": "James WELLER-HENRY"
+                }
+            ]
+        ],
+        "final_winner": "Matheo AKIANA MONGO"
+    },
+    "POOL C": {
+        "round 1-1": [
+            [
+                {
+                    "country": "GBR",
+                    "name": "Daniel EDE"
+                },
+                {
+                    "country": "FRA",
+                    "name": "Mate RAMISHVILI"
+                }
+            ]
+        ],
+        "final_winner": "Daniel EDE"
+    },
+    "POOL D": {
+        "round 1-1": [
+            [
+                {
+                    "country": "ESP",
+                    "name": "Alejandro Antonio ROJAS ARENCIBIA"
+                },
+                {
+                    "country": "GBR",
+                    "name": "Ethan WYPER"
+                }
+            ]
+        ],
+        "final_winner": "Alejandro Antonio ROJAS ARENCIBIA"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ESP",
+                    "name": "Davit KEVLISHVILI"
+                },
+                {
+                    "country": "GBR",
+                    "name": "James WELLER-HENRY"
+                },
+                {
+                    "winner": "James WELLER-HENRY"
+                }
+            ],
+            [
+                {
+                    "country": "FRA",
+                    "name": "Mate RAMISHVILI"
+                },
+                {
+                    "country": "GBR",
+                    "name": "Ethan WYPER"
+                },
+                {
+                    "winner": "Mate RAMISHVILI"
+                }
+            ],
+            [
+                {
+                    "country": "GBR",
+                    "name": "James WELLER-HENRY"
+                },
+                {
+                    "country": "ESP",
+                    "name": "Alejandro Antonio ROJAS ARENCIBIA"
+                },
+                {
+                    "winner": "Alejandro Antonio ROJAS ARENCIBIA"
+                }
+            ],
+            [
+                {
+                    "country": "FRA",
+                    "name": "Mate RAMISHVILI"
+                },
+                {
+                    "country": "IRL",
+                    "name": "Michael MAC DONNACHA"
+                },
+                {
+                    "winner": "Mate RAMISHVILI"
+                }
+            ],
+            [
+                {
+                    "country": "ESP",
+                    "name": "Alejandro Antonio ROJAS ARENCIBIA"
+                }
+            ],
+            [
+                {
+                    "country": "FRA",
+                    "name": "Mate RAMISHVILI"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Alejandro Antonio ROJAS ARENCIBIA",
+            "Mate RAMISHVILI"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "IRL",
+                    "name": "Michael MAC DONNACHA"
+                },
+                {
+                    "country": "FRA",
+                    "name": "Matheo AKIANA MONGO"
+                },
+                {
+                    "winner": "Matheo AKIANA MONGO"
+                }
+            ],
+            [
+                {
+                    "country": "GBR",
+                    "name": "Daniel EDE"
+                },
+                {
+                    "country": "ESP",
+                    "name": "Alejandro Antonio ROJAS ARENCIBIA"
+                },
+                {
+                    "winner": "Daniel EDE"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "FRA",
+                    "name": "Matheo AKIANA MONGO"
+                },
+                {
+                    "country": "GBR",
+                    "name": "Daniel EDE"
+                }
+            ]
+        ],
+        "final_winner": "Matheo AKIANA MONGO"
+    }
+}

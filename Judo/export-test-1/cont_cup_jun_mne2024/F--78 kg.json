@@ -1,0 +1,177 @@
+{
+    "POOL A": {
+        "round 1-1": [
+            [
+                {
+                    "country": "BIH",
+                    "name": "Sofija PAJIC"
+                },
+                {
+                    "country": "MNE",
+                    "name": "Andrea TURCINOVIC"
+                }
+            ]
+        ],
+        "final_winner": "Sofija PAJIC"
+    },
+    "POOL B": {
+        "round 1-1": [
+            [
+                {
+                    "country": "ITA",
+                    "name": "Eleonora GIUSTI"
+                },
+                {
+                    "country": "CRO",
+                    "name": "Lorena PERKOVIC"
+                }
+            ]
+        ],
+        "final_winner": "Lorena PERKOVIC"
+    },
+    "POOL C": {
+        "round 1-1": [
+            [
+                {
+                    "country": "FIN",
+                    "name": "Emma KRAPU"
+                },
+                {
+                    "country": "CRO",
+                    "name": "Vedrana MILJEVIC"
+                }
+            ]
+        ],
+        "final_winner": "Emma KRAPU"
+    },
+    "POOL D": {
+        "round 1-1": [
+            [
+                {
+                    "country": "CRO",
+                    "name": "Nika JAKUS"
+                },
+                {
+                    "country": "GRE",
+                    "name": "Melina KANELLOPOULOU"
+                }
+            ]
+        ],
+        "final_winner": "Nika JAKUS"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "MNE",
+                    "name": "Andrea TURCINOVIC"
+                },
+                {
+                    "country": "ITA",
+                    "name": "Eleonora GIUSTI"
+                },
+                {
+                    "winner": "Eleonora GIUSTI"
+                }
+            ],
+            [
+                {
+                    "country": "CRO",
+                    "name": "Vedrana MILJEVIC"
+                },
+                {
+                    "country": "GRE",
+                    "name": "Melina KANELLOPOULOU"
+                },
+                {
+                    "winner": "Vedrana MILJEVIC"
+                }
+            ],
+            [
+                {
+                    "country": "ITA",
+                    "name": "Eleonora GIUSTI"
+                },
+                {
+                    "country": "FIN",
+                    "name": "Emma KRAPU"
+                },
+                {
+                    "winner": "Emma KRAPU"
+                }
+            ],
+            [
+                {
+                    "country": "CRO",
+                    "name": "Vedrana MILJEVIC"
+                },
+                {
+                    "country": "BIH",
+                    "name": "Sofija PAJIC"
+                },
+                {
+                    "winner": "Vedrana MILJEVIC"
+                }
+            ],
+            [
+                {
+                    "country": "FIN",
+                    "name": "Emma KRAPU"
+                }
+            ],
+            [
+                {
+                    "country": "CRO",
+                    "name": "Vedrana MILJEVIC"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Emma KRAPU",
+            "Vedrana MILJEVIC"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "BIH",
+                    "name": "Sofija PAJIC"
+                },
+                {
+                    "country": "CRO",
+                    "name": "Lorena PERKOVIC"
+                },
+                {
+                    "winner": "Lorena PERKOVIC"
+                }
+            ],
+            [
+                {
+                    "country": "FIN",
+                    "name": "Emma KRAPU"
+                },
+                {
+                    "country": "CRO",
+                    "name": "Nika JAKUS"
+                },
+                {
+                    "winner": "Nika JAKUS"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "CRO",
+                    "name": "Lorena PERKOVIC"
+                },
+                {
+                    "country": "CRO",
+                    "name": "Nika JAKUS"
+                }
+            ]
+        ],
+        "final_winner": "Lorena PERKOVIC"
+    }
+}

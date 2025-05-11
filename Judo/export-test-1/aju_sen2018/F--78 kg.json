@@ -1,0 +1,135 @@
+{
+    "POOL A": {
+        "round 1-1": [],
+        "final_winner": "Sarra MZOUGUI"
+    },
+    "POOL B": {
+        "round 1-1": [
+            [
+                {
+                    "country": "MAR",
+                    "name": "Fatima Zahra CHAKIR"
+                },
+                {
+                    "country": "GAB",
+                    "name": "Sarah-Myriam MAZOUZ"
+                }
+            ]
+        ],
+        "final_winner": "Sarah-Myriam MAZOUZ"
+    },
+    "POOL C": {
+        "round 1-1": [],
+        "final_winner": "Kaouthar OUALLAL"
+    },
+    "POOL D": {
+        "round 1-1": [
+            [
+                {
+                    "country": "EGY",
+                    "name": "Alaa HAMED"
+                },
+                {
+                    "country": "RSA",
+                    "name": "Unelle SNYMAN"
+                }
+            ]
+        ],
+        "final_winner": "Unelle SNYMAN"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "MAR",
+                    "name": "Fatima Zahra CHAKIR"
+                }
+            ],
+            [
+                {
+                    "country": "EGY",
+                    "name": "Alaa HAMED"
+                }
+            ],
+            [
+                {
+                    "country": "MAR",
+                    "name": "Fatima Zahra CHAKIR"
+                },
+                {
+                    "country": "RSA",
+                    "name": "Unelle SNYMAN"
+                },
+                {
+                    "winner": "Unelle SNYMAN"
+                }
+            ],
+            [
+                {
+                    "country": "EGY",
+                    "name": "Alaa HAMED"
+                },
+                {
+                    "country": "GAB",
+                    "name": "Sarah-Myriam MAZOUZ"
+                },
+                {
+                    "winner": "Alaa HAMED"
+                }
+            ],
+            [
+                {
+                    "country": "RSA",
+                    "name": "Unelle SNYMAN"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Alaa HAMED",
+            "Unelle SNYMAN"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "TUN",
+                    "name": "Sarra MZOUGUI"
+                },
+                {
+                    "country": "GAB",
+                    "name": "Sarah-Myriam MAZOUZ"
+                },
+                {
+                    "winner": "Sarra MZOUGUI"
+                }
+            ],
+            [
+                {
+                    "country": "ALG",
+                    "name": "Kaouthar OUALLAL"
+                },
+                {
+                    "country": "RSA",
+                    "name": "Unelle SNYMAN"
+                },
+                {
+                    "winner": "Kaouthar OUALLAL"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "TUN",
+                    "name": "Sarra MZOUGUI"
+                },
+                {
+                    "country": "ALG",
+                    "name": "Kaouthar OUALLAL"
+                }
+            ]
+        ],
+        "final_winner": "Kaouthar OUALLAL"
+    }
+}

@@ -1,0 +1,159 @@
+{
+    "POOL A": {
+        "round 1-1": [],
+        "final_winner": "Pablo APRAHAMIAN"
+    },
+    "POOL B": {
+        "round 1-1": [
+            [
+                {
+                    "country": "CHI",
+                    "name": "Bryan HERNANDEZ"
+                },
+                {
+                    "country": "JPN",
+                    "name": "JINNOSUKE SORA"
+                }
+            ]
+        ],
+        "final_winner": "JINNOSUKE SORA"
+    },
+    "POOL C": {
+        "round 1-1": [
+            [
+                {
+                    "country": "USA",
+                    "name": "L.A. SMITH III"
+                },
+                {
+                    "country": "CHI",
+                    "name": "Oscar ALARCON"
+                }
+            ]
+        ],
+        "final_winner": "L.A. SMITH III"
+    },
+    "POOL D": {
+        "round 1-1": [
+            [
+                {
+                    "country": "USA",
+                    "name": "Nathaniel KEEVE"
+                },
+                {
+                    "country": "PER",
+                    "name": "Frank ALVARADO"
+                }
+            ]
+        ],
+        "final_winner": "Nathaniel KEEVE"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CHI",
+                    "name": "Bryan HERNANDEZ"
+                }
+            ],
+            [
+                {
+                    "country": "CHI",
+                    "name": "Oscar ALARCON"
+                },
+                {
+                    "country": "PER",
+                    "name": "Frank ALVARADO"
+                },
+                {
+                    "winner": "Frank ALVARADO"
+                }
+            ],
+            [
+                {
+                    "country": "CHI",
+                    "name": "Bryan HERNANDEZ"
+                },
+                {
+                    "country": "USA",
+                    "name": "Nathaniel KEEVE"
+                },
+                {
+                    "winner": "Nathaniel KEEVE"
+                }
+            ],
+            [
+                {
+                    "country": "PER",
+                    "name": "Frank ALVARADO"
+                },
+                {
+                    "country": "URU",
+                    "name": "Pablo APRAHAMIAN"
+                },
+                {
+                    "winner": "Frank ALVARADO"
+                }
+            ],
+            [
+                {
+                    "country": "USA",
+                    "name": "Nathaniel KEEVE"
+                }
+            ],
+            [
+                {
+                    "country": "PER",
+                    "name": "Frank ALVARADO"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Nathaniel KEEVE",
+            "Frank ALVARADO"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "URU",
+                    "name": "Pablo APRAHAMIAN"
+                },
+                {
+                    "country": "JPN",
+                    "name": "JINNOSUKE SORA"
+                },
+                {
+                    "winner": "JINNOSUKE SORA"
+                }
+            ],
+            [
+                {
+                    "country": "USA",
+                    "name": "L.A. SMITH III"
+                },
+                {
+                    "country": "USA",
+                    "name": "Nathaniel KEEVE"
+                },
+                {
+                    "winner": "L.A. SMITH III"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "JPN",
+                    "name": "JINNOSUKE SORA"
+                },
+                {
+                    "country": "USA",
+                    "name": "L.A. SMITH III"
+                }
+            ]
+        ],
+        "final_winner": "L.A. SMITH III"
+    }
+}

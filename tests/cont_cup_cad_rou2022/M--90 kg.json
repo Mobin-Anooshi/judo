@@ -1,0 +1,336 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "HUN",
+                    "name": "Peter KENDERESI"
+                },
+                {
+                    "winner": "Peter KENDERESI"
+                }
+            ],
+            [
+                {
+                    "country": "ROU",
+                    "name": "Alexandru DINCA"
+                },
+                {
+                    "country": "SRB",
+                    "name": "Stefan SIMIC"
+                },
+                {
+                    "winner": "Stefan SIMIC"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "HUN",
+                    "name": "Peter KENDERESI"
+                },
+                {
+                    "country": "SRB",
+                    "name": "Stefan SIMIC"
+                }
+            ],
+            [
+                {
+                    "country": "HUN",
+                    "name": "Peter KENDERESI"
+                }
+            ]
+        ]
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "AZE",
+                    "name": "Tamerlans DZABAROVS"
+                },
+                {
+                    "country": "MNE",
+                    "name": "Pavle BULATOVIC"
+                },
+                {
+                    "winner": "Pavle BULATOVIC"
+                }
+            ],
+            [
+                {
+                    "country": "AZE",
+                    "name": "Farid NIYAZOV"
+                },
+                {
+                    "country": "ROU",
+                    "name": "David TALPOS"
+                },
+                {
+                    "winner": "David TALPOS"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "MNE",
+                    "name": "Pavle BULATOVIC"
+                },
+                {
+                    "country": "ROU",
+                    "name": "David TALPOS"
+                }
+            ],
+            [
+                {
+                    "country": "ROU",
+                    "name": "David TALPOS"
+                }
+            ]
+        ]
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "SRB",
+                    "name": "Milan BULAJA"
+                },
+                {
+                    "winner": "Milan BULAJA"
+                }
+            ],
+            [
+                {
+                    "country": "SVK",
+                    "name": "Timotej STEFANIK"
+                },
+                {
+                    "country": "ISR",
+                    "name": "Yishai AMICHAI"
+                },
+                {
+                    "winner": "Timotej STEFANIK"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "SRB",
+                    "name": "Milan BULAJA"
+                },
+                {
+                    "country": "SVK",
+                    "name": "Timotej STEFANIK"
+                }
+            ],
+            [
+                {
+                    "country": "SRB",
+                    "name": "Milan BULAJA"
+                }
+            ]
+        ]
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "UKR",
+                    "name": "Nikita YUDANOV"
+                },
+                {
+                    "country": "MNE",
+                    "name": "Ibrahim AVDIC"
+                },
+                {
+                    "winner": "Nikita YUDANOV"
+                }
+            ],
+            [
+                {
+                    "country": "TUR",
+                    "name": "Mevlut OZTAS"
+                },
+                {
+                    "country": "ROU",
+                    "name": "Alexandru STEFAN"
+                },
+                {
+                    "winner": "Mevlut OZTAS"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "UKR",
+                    "name": "Nikita YUDANOV"
+                },
+                {
+                    "country": "TUR",
+                    "name": "Mevlut OZTAS"
+                }
+            ],
+            [
+                {
+                    "country": "UKR",
+                    "name": "Nikita YUDANOV"
+                }
+            ]
+        ]
+    },
+    "REPECHAGE": {
+        "round 1-4": [
+            [
+                {
+                    "country": "SRB",
+                    "name": "Stefan SIMIC"
+                },
+                {
+                    "winner": "Stefan SIMIC"
+                }
+            ],
+            [
+                {
+                    "country": "AZE",
+                    "name": "Farid NIYAZOV"
+                },
+                {
+                    "country": "MNE",
+                    "name": "Pavle BULATOVIC"
+                },
+                {
+                    "winner": "Pavle BULATOVIC"
+                }
+            ],
+            [
+                {
+                    "country": "SVK",
+                    "name": "Timotej STEFANIK"
+                },
+                {
+                    "winner": "Timotej STEFANIK"
+                }
+            ],
+            [
+                {
+                    "country": "MNE",
+                    "name": "Ibrahim AVDIC"
+                },
+                {
+                    "country": "TUR",
+                    "name": "Mevlut OZTAS"
+                },
+                {
+                    "winner": "Mevlut OZTAS"
+                }
+            ]
+        ],
+        "round 1-2": [
+            [
+                {
+                    "country": "SRB",
+                    "name": "Stefan SIMIC"
+                },
+                {
+                    "country": "MNE",
+                    "name": "Pavle BULATOVIC"
+                }
+            ],
+            [
+                {
+                    "country": "SVK",
+                    "name": "Timotej STEFANIK"
+                },
+                {
+                    "country": "TUR",
+                    "name": "Mevlut OZTAS"
+                }
+            ],
+            [
+                {
+                    "country": "SRB",
+                    "name": "Stefan SIMIC"
+                },
+                {
+                    "country": "UKR",
+                    "name": "Nikita YUDANOV"
+                }
+            ],
+            [
+                {
+                    "country": "TUR",
+                    "name": "Mevlut OZTAS"
+                },
+                {
+                    "country": "ROU",
+                    "name": "David TALPOS"
+                }
+            ],
+            [
+                {
+                    "country": "UKR",
+                    "name": "Nikita YUDANOV"
+                }
+            ],
+            [
+                {
+                    "country": "TUR",
+                    "name": "Mevlut OZTAS"
+                }
+            ]
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "HUN",
+                    "name": "Peter KENDERESI"
+                },
+                {
+                    "country": "ROU",
+                    "name": "David TALPOS"
+                },
+                {
+                    "winner": "Peter KENDERESI"
+                }
+            ],
+            [
+                {
+                    "country": "SRB",
+                    "name": "Milan BULAJA"
+                },
+                {
+                    "country": "UKR",
+                    "name": "Nikita YUDANOV"
+                },
+                {
+                    "winner": "Milan BULAJA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "HUN",
+                    "name": "Peter KENDERESI"
+                },
+                {
+                    "country": "SRB",
+                    "name": "Milan BULAJA"
+                }
+            ],
+            [
+                {
+                    "country": "SRB",
+                    "name": "Milan BULAJA"
+                }
+            ]
+        ]
+    }
+}

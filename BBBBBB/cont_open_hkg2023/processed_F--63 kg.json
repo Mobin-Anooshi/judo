@@ -1,0 +1,177 @@
+{
+    "POOL A": {
+        "round 1-1": [
+            [
+                {
+                    "country": "AUS",
+                    "name": "Maeve COUGHLAN"
+                },
+                {
+                    "country": "HKG",
+                    "name": "Ching Tung Suzuki LIN"
+                }
+            ]
+        ],
+        "final_winner": "Maeve COUGHLAN"
+    },
+    "POOL B": {
+        "round 1-1": [
+            [
+                {
+                    "country": "KOR",
+                    "name": "Yunah SONG"
+                },
+                {
+                    "country": "HKG",
+                    "name": "Sheung Man Mandy KWAN"
+                }
+            ]
+        ],
+        "final_winner": "Yunah SONG"
+    },
+    "POOL C": {
+        "round 1-1": [
+            [
+                {
+                    "country": "INA",
+                    "name": "SYERINA"
+                },
+                {
+                    "country": "KOR",
+                    "name": "Yujeong KIM"
+                }
+            ]
+        ],
+        "final_winner": "Yujeong KIM"
+    },
+    "POOL D": {
+        "round 1-1": [
+            [
+                {
+                    "country": "MAC",
+                    "name": "Lai Man TANG"
+                },
+                {
+                    "country": "HKG",
+                    "name": "Ching Man MAK"
+                }
+            ]
+        ],
+        "final_winner": "Lai Man TANG"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "HKG",
+                    "name": "Ching Tung Suzuki LIN"
+                },
+                {
+                    "country": "HKG",
+                    "name": "Sheung Man Mandy KWAN"
+                },
+                {
+                    "winner": "Ching Tung Suzuki LIN"
+                }
+            ],
+            [
+                {
+                    "country": "INA",
+                    "name": "SYERINA"
+                },
+                {
+                    "country": "HKG",
+                    "name": "Ching Man MAK"
+                },
+                {
+                    "winner": "SYERINA"
+                }
+            ],
+            [
+                {
+                    "country": "HKG",
+                    "name": "Ching Tung Suzuki LIN"
+                },
+                {
+                    "country": "MAC",
+                    "name": "Lai Man TANG"
+                },
+                {
+                    "winner": "Lai Man TANG"
+                }
+            ],
+            [
+                {
+                    "country": "INA",
+                    "name": "SYERINA"
+                },
+                {
+                    "country": "KOR",
+                    "name": "Yunah SONG"
+                },
+                {
+                    "winner": "Yunah SONG"
+                }
+            ],
+            [
+                {
+                    "country": "MAC",
+                    "name": "Lai Man TANG"
+                }
+            ],
+            [
+                {
+                    "country": "KOR",
+                    "name": "Yunah SONG"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Lai Man TANG",
+            "Yunah SONG"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "AUS",
+                    "name": "Maeve COUGHLAN"
+                },
+                {
+                    "country": "KOR",
+                    "name": "Yunah SONG"
+                },
+                {
+                    "winner": "Maeve COUGHLAN"
+                }
+            ],
+            [
+                {
+                    "country": "KOR",
+                    "name": "Yujeong KIM"
+                },
+                {
+                    "country": "MAC",
+                    "name": "Lai Man TANG"
+                },
+                {
+                    "winner": "Yujeong KIM"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "AUS",
+                    "name": "Maeve COUGHLAN"
+                },
+                {
+                    "country": "KOR",
+                    "name": "Yujeong KIM"
+                }
+            ]
+        ],
+        "final_winner": "Maeve COUGHLAN"
+    }
+}

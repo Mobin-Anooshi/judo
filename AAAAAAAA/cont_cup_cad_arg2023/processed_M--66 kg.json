@@ -1,0 +1,177 @@
+{
+    "POOL A": {
+        "round 1-1": [
+            [
+                {
+                    "country": "ARG",
+                    "name": "Santiago MILEGUIR"
+                },
+                {
+                    "country": "ARG",
+                    "name": "Tobias VIDAL"
+                }
+            ]
+        ],
+        "final_winner": "Tobias VIDAL"
+    },
+    "POOL B": {
+        "round 1-1": [
+            [
+                {
+                    "country": "URU",
+                    "name": "Santino Mario CERCHI"
+                },
+                {
+                    "country": "ARG",
+                    "name": "Adrian VILLAR"
+                }
+            ]
+        ],
+        "final_winner": "Adrian VILLAR"
+    },
+    "POOL C": {
+        "round 1-1": [
+            [
+                {
+                    "country": "PAR",
+                    "name": "Agustin LEDESMA"
+                },
+                {
+                    "country": "ARG",
+                    "name": "Reiver ALVARENGA SOTO"
+                }
+            ]
+        ],
+        "final_winner": "Reiver ALVARENGA SOTO"
+    },
+    "POOL D": {
+        "round 1-1": [
+            [
+                {
+                    "country": "ARG",
+                    "name": "Jerusalen LOPEZ"
+                },
+                {
+                    "country": "URU",
+                    "name": "Paolo Alberto SILVA MANZI"
+                }
+            ]
+        ],
+        "final_winner": "Jerusalen LOPEZ"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ARG",
+                    "name": "Santiago MILEGUIR"
+                },
+                {
+                    "country": "URU",
+                    "name": "Santino Mario CERCHI"
+                },
+                {
+                    "winner": "Santiago MILEGUIR"
+                }
+            ],
+            [
+                {
+                    "country": "PAR",
+                    "name": "Agustin LEDESMA"
+                },
+                {
+                    "country": "URU",
+                    "name": "Paolo Alberto SILVA MANZI"
+                },
+                {
+                    "winner": "Paolo Alberto SILVA MANZI"
+                }
+            ],
+            [
+                {
+                    "country": "ARG",
+                    "name": "Santiago MILEGUIR"
+                },
+                {
+                    "country": "ARG",
+                    "name": "Jerusalen LOPEZ"
+                },
+                {
+                    "winner": "Santiago MILEGUIR"
+                }
+            ],
+            [
+                {
+                    "country": "URU",
+                    "name": "Paolo Alberto SILVA MANZI"
+                },
+                {
+                    "country": "ARG",
+                    "name": "Adrian VILLAR"
+                },
+                {
+                    "winner": "Adrian VILLAR"
+                }
+            ],
+            [
+                {
+                    "country": "ARG",
+                    "name": "Santiago MILEGUIR"
+                }
+            ],
+            [
+                {
+                    "country": "ARG",
+                    "name": "Adrian VILLAR"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Santiago MILEGUIR",
+            "Adrian VILLAR"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ARG",
+                    "name": "Tobias VIDAL"
+                },
+                {
+                    "country": "ARG",
+                    "name": "Adrian VILLAR"
+                },
+                {
+                    "winner": "Tobias VIDAL"
+                }
+            ],
+            [
+                {
+                    "country": "ARG",
+                    "name": "Reiver ALVARENGA SOTO"
+                },
+                {
+                    "country": "ARG",
+                    "name": "Jerusalen LOPEZ"
+                },
+                {
+                    "winner": "Reiver ALVARENGA SOTO"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "ARG",
+                    "name": "Tobias VIDAL"
+                },
+                {
+                    "country": "ARG",
+                    "name": "Reiver ALVARENGA SOTO"
+                }
+            ]
+        ],
+        "final_winner": "Reiver ALVARENGA SOTO"
+    }
+}

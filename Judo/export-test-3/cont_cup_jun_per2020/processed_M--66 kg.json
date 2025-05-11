@@ -1,0 +1,68 @@
+{
+    "ROUND 1": {
+        "round 1-2": [
+            [
+                {
+                    "country": "PER",
+                    "name": "Julio CUSI"
+                },
+                {
+                    "country": "MEX",
+                    "name": "Raul LOZANO"
+                },
+                {
+                    "winner": "Raul LOZANO"
+                }
+            ],
+            [
+                {
+                    "country": "PAR",
+                    "name": "Saul LANDAIRA AREVALOS"
+                },
+                {
+                    "country": "PER",
+                    "name": "Franco BALTAZAR"
+                },
+                {
+                    "winner": "Saul LANDAIRA AREVALOS"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Raul LOZANO",
+            "Saul LANDAIRA AREVALOS"
+        ]
+    },
+    "REPECHAGE": {
+        "round 1-1": [
+            [
+                {
+                    "country": "PER",
+                    "name": "Julio CUSI"
+                },
+                {
+                    "country": "PER",
+                    "name": "Franco BALTAZAR"
+                },
+                {
+                    "winner": "Julio CUSI"
+                }
+            ],
+            [
+                {
+                    "country": "PER",
+                    "name": "Julio CUSI"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Julio CUSI"
+        ]
+    },
+    "FINALS": {
+        "round 1-1": [],
+        "final_winners": [
+            "Raul LOZANO"
+        ]
+    }
+}

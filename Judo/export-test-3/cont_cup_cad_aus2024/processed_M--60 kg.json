@@ -1,0 +1,87 @@
+{
+    "POOL A": {
+        "round 1-3": [
+            [
+                {
+                    "country": "AUS",
+                    "name": "Aaron XU"
+                },
+                {
+                    "country": "AUS",
+                    "name": "Crosby PEAKE"
+                },
+                {
+                    "winner": "Aaron XU"
+                }
+            ],
+            [
+                {
+                    "country": "AUS",
+                    "name": "Aaron XU"
+                },
+                {
+                    "country": "AUS",
+                    "name": "Kaden SHAW"
+                },
+                {
+                    "winner": "Kaden SHAW"
+                }
+            ],
+            [
+                {
+                    "country": "AUS",
+                    "name": "Crosby PEAKE"
+                },
+                {
+                    "country": "AUS",
+                    "name": "Kaden SHAW"
+                },
+                {
+                    "winner": "Crosby PEAKE"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Aaron XU",
+            "Crosby PEAKE"
+        ]
+    },
+    "POOL B": {
+        "round 1-1": [],
+        "final_winners": [
+            "Casey LEE"
+        ]
+    },
+    "REPECHAGE": {
+        "round 1-1": [
+            [
+                {
+                    "country": "AUS",
+                    "name": "Crosby PEAKE"
+                },
+                {
+                    "country": "NCL",
+                    "name": "Matteo LEPAUVRE"
+                },
+                {
+                    "winner": "Matteo LEPAUVRE"
+                }
+            ],
+            [
+                {
+                    "country": "NCL",
+                    "name": "Matteo LEPAUVRE"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Matteo LEPAUVRE"
+        ]
+    },
+    "FINALS": {
+        "round 1-1": [],
+        "final_winners": [
+            "Casey LEE"
+        ]
+    }
+}

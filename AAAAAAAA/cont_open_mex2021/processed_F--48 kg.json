@@ -1,0 +1,135 @@
+{
+    "POOL A": {
+        "round 1-1": [],
+        "final_winner": "Gabriela CHIBANA"
+    },
+    "POOL B": {
+        "round 1-1": [
+            [
+                {
+                    "country": "GUA",
+                    "name": "Jacqueline SOLIS"
+                },
+                {
+                    "country": "MEX",
+                    "name": "Ana TOY"
+                }
+            ]
+        ],
+        "final_winner": "Jacqueline SOLIS"
+    },
+    "POOL C": {
+        "round 1-1": [],
+        "final_winner": "Nathalia BRIGIDA"
+    },
+    "POOL D": {
+        "round 1-1": [
+            [
+                {
+                    "country": "DOM",
+                    "name": "Estefania SORIANO"
+                },
+                {
+                    "country": "MEX",
+                    "name": "Kassandra ESPINOZA"
+                }
+            ]
+        ],
+        "final_winner": "Estefania SORIANO"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "MEX",
+                    "name": "Ana TOY"
+                }
+            ],
+            [
+                {
+                    "country": "MEX",
+                    "name": "Kassandra ESPINOZA"
+                }
+            ],
+            [
+                {
+                    "country": "MEX",
+                    "name": "Ana TOY"
+                },
+                {
+                    "country": "DOM",
+                    "name": "Estefania SORIANO"
+                },
+                {
+                    "winner": "Ana TOY"
+                }
+            ],
+            [
+                {
+                    "country": "MEX",
+                    "name": "Kassandra ESPINOZA"
+                },
+                {
+                    "country": "GUA",
+                    "name": "Jacqueline SOLIS"
+                },
+                {
+                    "winner": "Jacqueline SOLIS"
+                }
+            ],
+            [
+                {
+                    "country": "GUA",
+                    "name": "Jacqueline SOLIS"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Kassandra ESPINOZA",
+            "Ana TOY"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Gabriela CHIBANA"
+                },
+                {
+                    "country": "GUA",
+                    "name": "Jacqueline SOLIS"
+                },
+                {
+                    "winner": "Gabriela CHIBANA"
+                }
+            ],
+            [
+                {
+                    "country": "BRA",
+                    "name": "Nathalia BRIGIDA"
+                },
+                {
+                    "country": "DOM",
+                    "name": "Estefania SORIANO"
+                },
+                {
+                    "winner": "Nathalia BRIGIDA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Gabriela CHIBANA"
+                },
+                {
+                    "country": "BRA",
+                    "name": "Nathalia BRIGIDA"
+                }
+            ]
+        ],
+        "final_winner": "Nathalia BRIGIDA"
+    }
+}

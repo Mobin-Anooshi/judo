@@ -1,0 +1,68 @@
+{
+    "ROUND 1": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CAN",
+                    "name": "Sara DESBIENS"
+                },
+                {
+                    "country": "CAN",
+                    "name": "Jannessa KEAYS"
+                },
+                {
+                    "winner": "Jannessa KEAYS"
+                }
+            ],
+            [
+                {
+                    "country": "JAM",
+                    "name": "Abigail PRENDERGAST"
+                },
+                {
+                    "country": "CAN",
+                    "name": "Asia DOUGLAS"
+                },
+                {
+                    "winner": "Asia DOUGLAS"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Jannessa KEAYS",
+            "Asia DOUGLAS"
+        ]
+    },
+    "REPECHAGE": {
+        "round 1-1": [
+            [
+                {
+                    "country": "CAN",
+                    "name": "Sara DESBIENS"
+                },
+                {
+                    "country": "JAM",
+                    "name": "Abigail PRENDERGAST"
+                },
+                {
+                    "winner": "Sara DESBIENS"
+                }
+            ],
+            [
+                {
+                    "country": "CAN",
+                    "name": "Sara DESBIENS"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Sara DESBIENS"
+        ]
+    },
+    "FINALS": {
+        "round 1-1": [],
+        "final_winners": [
+            "Asia DOUGLAS"
+        ]
+    }
+}

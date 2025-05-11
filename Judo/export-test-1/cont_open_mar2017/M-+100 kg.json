@@ -1,0 +1,245 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CZE",
+                    "name": "Michal HORAK"
+                },
+                {
+                    "winner": "Michal HORAK"
+                }
+            ],
+            [
+                {
+                    "country": "POR",
+                    "name": "Diogo SILVA"
+                },
+                {
+                    "country": "MAR",
+                    "name": "Elmehdi ELHADAR"
+                },
+                {
+                    "winner": "Diogo SILVA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "CZE",
+                    "name": "Michal HORAK"
+                },
+                {
+                    "country": "POR",
+                    "name": "Diogo SILVA"
+                }
+            ]
+        ],
+        "final_winner": "Michal HORAK"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "SEN",
+                    "name": "Mbagnick NDIAYE"
+                },
+                {
+                    "country": "KSA",
+                    "name": "Rakan ALDOSSARY"
+                },
+                {
+                    "winner": "Mbagnick NDIAYE"
+                }
+            ],
+            [
+                {
+                    "country": "ESP",
+                    "name": "David FERNANDEZ"
+                },
+                {
+                    "country": "GBR",
+                    "name": "Neil SCHOFIELD"
+                },
+                {
+                    "winner": "David FERNANDEZ"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "SEN",
+                    "name": "Mbagnick NDIAYE"
+                },
+                {
+                    "country": "ESP",
+                    "name": "David FERNANDEZ"
+                }
+            ]
+        ],
+        "final_winner": "David FERNANDEZ"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [],
+            [
+                {
+                    "country": "CRO",
+                    "name": "Ivan COVIC"
+                },
+                {
+                    "country": "ESP",
+                    "name": "Irinel Vasile CHELARU GRIGORAS"
+                },
+                {
+                    "winner": "Ivan COVIC"
+                }
+            ]
+        ],
+        "round 1-1": [],
+        "final_winner": "Ivan COVIC"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "FRA",
+                    "name": "Nabil ZALAGH"
+                },
+                {
+                    "winner": "Nabil ZALAGH"
+                }
+            ],
+            [
+                {
+                    "country": "FRA",
+                    "name": "Cedric MEDEUF"
+                },
+                {
+                    "country": "MAR",
+                    "name": "Adil HAJJI"
+                },
+                {
+                    "winner": "Cedric MEDEUF"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "FRA",
+                    "name": "Nabil ZALAGH"
+                },
+                {
+                    "country": "FRA",
+                    "name": "Cedric MEDEUF"
+                }
+            ]
+        ],
+        "final_winner": "Nabil ZALAGH"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "POR",
+                    "name": "Diogo SILVA"
+                },
+                {
+                    "country": "SEN",
+                    "name": "Mbagnick NDIAYE"
+                },
+                {
+                    "winner": "Mbagnick NDIAYE"
+                }
+            ],
+            [
+                {
+                    "country": "FRA",
+                    "name": "Cedric MEDEUF"
+                }
+            ],
+            [
+                {
+                    "country": "SEN",
+                    "name": "Mbagnick NDIAYE"
+                },
+                {
+                    "country": "CRO",
+                    "name": "Ivan COVIC"
+                },
+                {
+                    "winner": "Ivan COVIC"
+                }
+            ],
+            [
+                {
+                    "country": "FRA",
+                    "name": "Cedric MEDEUF"
+                },
+                {
+                    "country": "ESP",
+                    "name": "David FERNANDEZ"
+                },
+                {
+                    "winner": "Cedric MEDEUF"
+                }
+            ],
+            [
+                {
+                    "country": "CRO",
+                    "name": "Ivan COVIC"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Cedric MEDEUF",
+            "Ivan COVIC"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CZE",
+                    "name": "Michal HORAK"
+                },
+                {
+                    "country": "ESP",
+                    "name": "David FERNANDEZ"
+                },
+                {
+                    "winner": "Michal HORAK"
+                }
+            ],
+            [
+                {
+                    "country": "CRO",
+                    "name": "Ivan COVIC"
+                },
+                {
+                    "country": "FRA",
+                    "name": "Nabil ZALAGH"
+                },
+                {
+                    "winner": "Nabil ZALAGH"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "CZE",
+                    "name": "Michal HORAK"
+                },
+                {
+                    "country": "FRA",
+                    "name": "Nabil ZALAGH"
+                }
+            ]
+        ],
+        "final_winner": "Nabil ZALAGH"
+    }
+}

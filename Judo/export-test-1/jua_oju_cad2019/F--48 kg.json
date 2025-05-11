@@ -1,0 +1,233 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "KAZ",
+                    "name": "Aruzhan YEREZHEPOVA"
+                },
+                {
+                    "winner": "Aruzhan YEREZHEPOVA"
+                }
+            ],
+            [
+                {
+                    "country": "TPE",
+                    "name": "Yu-Wei TIEN"
+                },
+                {
+                    "country": "IND",
+                    "name": "Tababi Devi THANGJAM"
+                },
+                {
+                    "winner": "Tababi Devi THANGJAM"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "KAZ",
+                    "name": "Aruzhan YEREZHEPOVA"
+                },
+                {
+                    "country": "IND",
+                    "name": "Tababi Devi THANGJAM"
+                }
+            ]
+        ],
+        "final_winner": "Tababi Devi THANGJAM"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "HKG",
+                    "name": "Yee Lam Elim CHAN"
+                },
+                {
+                    "winner": "Yee Lam Elim CHAN"
+                }
+            ],
+            [
+                {
+                    "country": "MGL",
+                    "name": "Gal-Od TSERENTOGTOKH"
+                },
+                {
+                    "winner": "Gal-Od TSERENTOGTOKH"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "HKG",
+                    "name": "Yee Lam Elim CHAN"
+                },
+                {
+                    "country": "MGL",
+                    "name": "Gal-Od TSERENTOGTOKH"
+                }
+            ]
+        ],
+        "final_winner": "Gal-Od TSERENTOGTOKH"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "AUS",
+                    "name": "Anneliese FIELDER"
+                },
+                {
+                    "winner": "Anneliese FIELDER"
+                }
+            ],
+            []
+        ],
+        "round 1-1": [],
+        "final_winner": "Anneliese FIELDER"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "KAZ",
+                    "name": "Balnur ABDESHOVA"
+                },
+                {
+                    "winner": "Balnur ABDESHOVA"
+                }
+            ],
+            [
+                {
+                    "country": "TKM",
+                    "name": "Gulruh BAYRAMGELDIYEVA"
+                },
+                {
+                    "country": "MGL",
+                    "name": "Sarantuya DELGERSAIKHAN"
+                },
+                {
+                    "winner": "Sarantuya DELGERSAIKHAN"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "KAZ",
+                    "name": "Balnur ABDESHOVA"
+                },
+                {
+                    "country": "MGL",
+                    "name": "Sarantuya DELGERSAIKHAN"
+                }
+            ]
+        ],
+        "final_winner": "Sarantuya DELGERSAIKHAN"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "KAZ",
+                    "name": "Aruzhan YEREZHEPOVA"
+                },
+                {
+                    "country": "HKG",
+                    "name": "Yee Lam Elim CHAN"
+                },
+                {
+                    "winner": "Aruzhan YEREZHEPOVA"
+                }
+            ],
+            [
+                {
+                    "country": "KAZ",
+                    "name": "Balnur ABDESHOVA"
+                }
+            ],
+            [
+                {
+                    "country": "KAZ",
+                    "name": "Aruzhan YEREZHEPOVA"
+                },
+                {
+                    "country": "MGL",
+                    "name": "Sarantuya DELGERSAIKHAN"
+                },
+                {
+                    "winner": "Aruzhan YEREZHEPOVA"
+                }
+            ],
+            [
+                {
+                    "country": "KAZ",
+                    "name": "Balnur ABDESHOVA"
+                },
+                {
+                    "country": "MGL",
+                    "name": "Gal-Od TSERENTOGTOKH"
+                },
+                {
+                    "winner": "Balnur ABDESHOVA"
+                }
+            ],
+            [
+                {
+                    "country": "KAZ",
+                    "name": "Aruzhan YEREZHEPOVA"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Balnur ABDESHOVA",
+            "Aruzhan YEREZHEPOVA"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "IND",
+                    "name": "Tababi Devi THANGJAM"
+                },
+                {
+                    "country": "MGL",
+                    "name": "Gal-Od TSERENTOGTOKH"
+                },
+                {
+                    "winner": "Tababi Devi THANGJAM"
+                }
+            ],
+            [
+                {
+                    "country": "AUS",
+                    "name": "Anneliese FIELDER"
+                },
+                {
+                    "country": "MGL",
+                    "name": "Sarantuya DELGERSAIKHAN"
+                },
+                {
+                    "winner": "Anneliese FIELDER"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "IND",
+                    "name": "Tababi Devi THANGJAM"
+                },
+                {
+                    "country": "AUS",
+                    "name": "Anneliese FIELDER"
+                }
+            ]
+        ],
+        "final_winner": "Tababi Devi THANGJAM"
+    }
+}

@@ -1,0 +1,87 @@
+{
+    "POOL A": {
+        "round 1-3": [
+            [
+                {
+                    "country": "PUR",
+                    "name": "Saicha SERRANO"
+                },
+                {
+                    "country": "CUB",
+                    "name": "Jessica CASTELLANO"
+                },
+                {
+                    "winner": "Saicha SERRANO"
+                }
+            ],
+            [
+                {
+                    "country": "PUR",
+                    "name": "Saicha SERRANO"
+                },
+                {
+                    "country": "CUB",
+                    "name": "Lorena VIEL"
+                },
+                {
+                    "winner": "Lorena VIEL"
+                }
+            ],
+            [
+                {
+                    "country": "CUB",
+                    "name": "Jessica CASTELLANO"
+                },
+                {
+                    "country": "CUB",
+                    "name": "Lorena VIEL"
+                },
+                {
+                    "winner": "Jessica CASTELLANO"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Jessica CASTELLANO",
+            "Lorena VIEL"
+        ]
+    },
+    "POOL B": {
+        "round 1-1": [],
+        "final_winners": [
+            "Emily Daniela JASPE"
+        ]
+    },
+    "REPECHAGE": {
+        "round 1-1": [
+            [
+                {
+                    "country": "CUB",
+                    "name": "Jessica CASTELLANO"
+                },
+                {
+                    "country": "CUB",
+                    "name": "Wendy MARTINEZ"
+                },
+                {
+                    "winner": "Wendy MARTINEZ"
+                }
+            ],
+            [
+                {
+                    "country": "CUB",
+                    "name": "Wendy MARTINEZ"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Wendy MARTINEZ"
+        ]
+    },
+    "FINALS": {
+        "round 1-1": [],
+        "final_winners": [
+            "Emily Daniela JASPE"
+        ]
+    }
+}

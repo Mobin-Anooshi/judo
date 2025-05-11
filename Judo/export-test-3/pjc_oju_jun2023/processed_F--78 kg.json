@@ -1,0 +1,68 @@
+{
+    "ROUND 1": {
+        "round 1-2": [
+            [
+                {
+                    "country": "AUS",
+                    "name": "Alannah JOYCE"
+                },
+                {
+                    "country": "COL",
+                    "name": "Brenda OLAYA"
+                },
+                {
+                    "winner": "Brenda OLAYA"
+                }
+            ],
+            [
+                {
+                    "country": "PUR",
+                    "name": "Sairy COLON"
+                },
+                {
+                    "country": "CHI",
+                    "name": "Adela ESPINOZA"
+                },
+                {
+                    "winner": "Sairy COLON"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Brenda OLAYA",
+            "Sairy COLON"
+        ]
+    },
+    "REPECHAGE": {
+        "round 1-1": [
+            [
+                {
+                    "country": "AUS",
+                    "name": "Alannah JOYCE"
+                },
+                {
+                    "country": "CHI",
+                    "name": "Adela ESPINOZA"
+                },
+                {
+                    "winner": "Adela ESPINOZA"
+                }
+            ],
+            [
+                {
+                    "country": "CHI",
+                    "name": "Adela ESPINOZA"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Adela ESPINOZA"
+        ]
+    },
+    "FINALS": {
+        "round 1-1": [],
+        "final_winners": [
+            "Brenda OLAYA"
+        ]
+    }
+}

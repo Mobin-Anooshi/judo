@@ -1,0 +1,265 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "TUN",
+                    "name": "Meriem BJAOUI"
+                },
+                {
+                    "winner": "Meriem BJAOUI"
+                }
+            ],
+            [
+                {
+                    "country": "FRA",
+                    "name": "Caroline PESCHAUD"
+                },
+                {
+                    "winner": "Caroline PESCHAUD"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "TUN",
+                    "name": "Meriem BJAOUI"
+                },
+                {
+                    "country": "FRA",
+                    "name": "Caroline PESCHAUD"
+                }
+            ]
+        ],
+        "final_winner": "Caroline PESCHAUD"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ESP",
+                    "name": "Angeles LOPEZ AGUILERA"
+                },
+                {
+                    "winner": "Angeles LOPEZ AGUILERA"
+                }
+            ],
+            [
+                {
+                    "country": "ESP",
+                    "name": "Cristina CABANA PEREZ"
+                },
+                {
+                    "winner": "Cristina CABANA PEREZ"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "ESP",
+                    "name": "Angeles LOPEZ AGUILERA"
+                },
+                {
+                    "country": "ESP",
+                    "name": "Cristina CABANA PEREZ"
+                }
+            ]
+        ],
+        "final_winner": "Cristina CABANA PEREZ"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ESP",
+                    "name": "Isabel PUCHE"
+                },
+                {
+                    "winner": "Isabel PUCHE"
+                }
+            ],
+            [
+                {
+                    "country": "FRA",
+                    "name": "Clementine LOUCHEZ"
+                },
+                {
+                    "country": "ALG",
+                    "name": "Amina BELKADI"
+                },
+                {
+                    "winner": "Clementine LOUCHEZ"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "ESP",
+                    "name": "Isabel PUCHE"
+                },
+                {
+                    "country": "FRA",
+                    "name": "Clementine LOUCHEZ"
+                }
+            ]
+        ],
+        "final_winner": "Clementine LOUCHEZ"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "SLO",
+                    "name": "Andreja LESKI"
+                },
+                {
+                    "winner": "Andreja LESKI"
+                }
+            ],
+            [
+                {
+                    "country": "MAR",
+                    "name": "Sofia BELATTAR"
+                },
+                {
+                    "country": "FRA",
+                    "name": "Heloise LACOUCHIE"
+                },
+                {
+                    "winner": "Sofia BELATTAR"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "SLO",
+                    "name": "Andreja LESKI"
+                },
+                {
+                    "country": "MAR",
+                    "name": "Sofia BELATTAR"
+                }
+            ]
+        ],
+        "final_winner": "Andreja LESKI"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "TUN",
+                    "name": "Meriem BJAOUI"
+                },
+                {
+                    "country": "ESP",
+                    "name": "Angeles LOPEZ AGUILERA"
+                },
+                {
+                    "winner": "Angeles LOPEZ AGUILERA"
+                }
+            ],
+            [
+                {
+                    "country": "ESP",
+                    "name": "Isabel PUCHE"
+                },
+                {
+                    "country": "MAR",
+                    "name": "Sofia BELATTAR"
+                },
+                {
+                    "winner": "Isabel PUCHE"
+                }
+            ],
+            [
+                {
+                    "country": "ESP",
+                    "name": "Angeles LOPEZ AGUILERA"
+                },
+                {
+                    "country": "FRA",
+                    "name": "Clementine LOUCHEZ"
+                },
+                {
+                    "winner": "Clementine LOUCHEZ"
+                }
+            ],
+            [
+                {
+                    "country": "ESP",
+                    "name": "Isabel PUCHE"
+                },
+                {
+                    "country": "FRA",
+                    "name": "Caroline PESCHAUD"
+                },
+                {
+                    "winner": "Caroline PESCHAUD"
+                }
+            ],
+            [
+                {
+                    "country": "FRA",
+                    "name": "Clementine LOUCHEZ"
+                }
+            ],
+            [
+                {
+                    "country": "FRA",
+                    "name": "Caroline PESCHAUD"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Clementine LOUCHEZ",
+            "Caroline PESCHAUD"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "FRA",
+                    "name": "Caroline PESCHAUD"
+                },
+                {
+                    "country": "ESP",
+                    "name": "Cristina CABANA PEREZ"
+                },
+                {
+                    "winner": "Cristina CABANA PEREZ"
+                }
+            ],
+            [
+                {
+                    "country": "FRA",
+                    "name": "Clementine LOUCHEZ"
+                },
+                {
+                    "country": "SLO",
+                    "name": "Andreja LESKI"
+                },
+                {
+                    "winner": "Andreja LESKI"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "ESP",
+                    "name": "Cristina CABANA PEREZ"
+                },
+                {
+                    "country": "SLO",
+                    "name": "Andreja LESKI"
+                }
+            ]
+        ],
+        "final_winner": "Cristina CABANA PEREZ"
+    }
+}

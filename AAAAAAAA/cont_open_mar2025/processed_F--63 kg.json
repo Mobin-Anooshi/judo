@@ -1,0 +1,261 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "IND",
+                    "name": "Himanshi TOKAS"
+                },
+                {
+                    "winner": "Himanshi TOKAS"
+                }
+            ],
+            [
+                {
+                    "country": "MAR",
+                    "name": "Oumaima EL ATLA"
+                },
+                {
+                    "country": "MAR",
+                    "name": "Nour EL FAQRI"
+                },
+                {
+                    "winner": "Nour EL FAQRI"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "IND",
+                    "name": "Himanshi TOKAS"
+                },
+                {
+                    "country": "MAR",
+                    "name": "Nour EL FAQRI"
+                }
+            ]
+        ],
+        "final_winner": "Himanshi TOKAS"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "TUN",
+                    "name": "Maram JMOUR"
+                },
+                {
+                    "winner": "Maram JMOUR"
+                }
+            ],
+            [
+                {
+                    "country": "ANG",
+                    "name": "Joana KULIMBALA"
+                },
+                {
+                    "winner": "Joana KULIMBALA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "TUN",
+                    "name": "Maram JMOUR"
+                },
+                {
+                    "country": "ANG",
+                    "name": "Joana KULIMBALA"
+                }
+            ]
+        ],
+        "final_winner": "Maram JMOUR"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "MAR",
+                    "name": "Dounia SLIMANI"
+                },
+                {
+                    "winner": "Dounia SLIMANI"
+                }
+            ],
+            [
+                {
+                    "country": "FRA",
+                    "name": "Priscilla GNETO"
+                },
+                {
+                    "winner": "Priscilla GNETO"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "MAR",
+                    "name": "Dounia SLIMANI"
+                },
+                {
+                    "country": "FRA",
+                    "name": "Priscilla GNETO"
+                }
+            ]
+        ],
+        "final_winner": "Priscilla GNETO"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "MAR",
+                    "name": "Chaimae TAIBI"
+                },
+                {
+                    "winner": "Chaimae TAIBI"
+                }
+            ],
+            [
+                {
+                    "country": "LUX",
+                    "name": "Anetta MOSR"
+                },
+                {
+                    "winner": "Anetta MOSR"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "MAR",
+                    "name": "Chaimae TAIBI"
+                },
+                {
+                    "country": "LUX",
+                    "name": "Anetta MOSR"
+                }
+            ]
+        ],
+        "final_winner": "Anetta MOSR"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "MAR",
+                    "name": "Nour EL FAQRI"
+                },
+                {
+                    "country": "ANG",
+                    "name": "Joana KULIMBALA"
+                },
+                {
+                    "winner": "Joana KULIMBALA"
+                }
+            ],
+            [
+                {
+                    "country": "MAR",
+                    "name": "Dounia SLIMANI"
+                },
+                {
+                    "country": "MAR",
+                    "name": "Chaimae TAIBI"
+                },
+                {
+                    "winner": "Dounia SLIMANI"
+                }
+            ],
+            [
+                {
+                    "country": "ANG",
+                    "name": "Joana KULIMBALA"
+                },
+                {
+                    "country": "LUX",
+                    "name": "Anetta MOSR"
+                },
+                {
+                    "winner": "Anetta MOSR"
+                }
+            ],
+            [
+                {
+                    "country": "MAR",
+                    "name": "Dounia SLIMANI"
+                },
+                {
+                    "country": "TUN",
+                    "name": "Maram JMOUR"
+                },
+                {
+                    "winner": "Maram JMOUR"
+                }
+            ],
+            [
+                {
+                    "country": "LUX",
+                    "name": "Anetta MOSR"
+                }
+            ],
+            [
+                {
+                    "country": "TUN",
+                    "name": "Maram JMOUR"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Anetta MOSR",
+            "Maram JMOUR"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "IND",
+                    "name": "Himanshi TOKAS"
+                },
+                {
+                    "country": "TUN",
+                    "name": "Maram JMOUR"
+                },
+                {
+                    "winner": "Himanshi TOKAS"
+                }
+            ],
+            [
+                {
+                    "country": "FRA",
+                    "name": "Priscilla GNETO"
+                },
+                {
+                    "country": "LUX",
+                    "name": "Anetta MOSR"
+                },
+                {
+                    "winner": "Priscilla GNETO"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "IND",
+                    "name": "Himanshi TOKAS"
+                },
+                {
+                    "country": "FRA",
+                    "name": "Priscilla GNETO"
+                }
+            ]
+        ],
+        "final_winner": "Himanshi TOKAS"
+    }
+}

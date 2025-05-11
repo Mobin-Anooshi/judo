@@ -1,0 +1,255 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CHN",
+                    "name": "Fuchun HUANG"
+                },
+                {
+                    "winner": "Fuchun HUANG"
+                }
+            ],
+            [
+                {
+                    "country": "POR",
+                    "name": "Guilherme SILVA"
+                },
+                {
+                    "winner": "Guilherme SILVA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "CHN",
+                    "name": "Fuchun HUANG"
+                },
+                {
+                    "country": "POR",
+                    "name": "Guilherme SILVA"
+                }
+            ]
+        ],
+        "final_winner": "Fuchun HUANG"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "POR",
+                    "name": "Ailton CARDOSO"
+                },
+                {
+                    "winner": "Ailton CARDOSO"
+                }
+            ],
+            []
+        ],
+        "round 1-1": [],
+        "final_winner": "Ailton CARDOSO"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "BEL",
+                    "name": "Toma NIKIFOROV"
+                },
+                {
+                    "winner": "Toma NIKIFOROV"
+                }
+            ],
+            [
+                {
+                    "country": "ITA",
+                    "name": "Kevyn PERNA"
+                },
+                {
+                    "winner": "Kevyn PERNA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "BEL",
+                    "name": "Toma NIKIFOROV"
+                },
+                {
+                    "country": "ITA",
+                    "name": "Kevyn PERNA"
+                }
+            ]
+        ],
+        "final_winner": "Toma NIKIFOROV"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CHN",
+                    "name": "Bo ZHANG"
+                },
+                {
+                    "winner": "Bo ZHANG"
+                }
+            ],
+            [
+                {
+                    "country": "POR",
+                    "name": "Diogo BRITES"
+                },
+                {
+                    "winner": "Diogo BRITES"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "CHN",
+                    "name": "Bo ZHANG"
+                },
+                {
+                    "country": "POR",
+                    "name": "Diogo BRITES"
+                }
+            ]
+        ],
+        "final_winner": "Bo ZHANG"
+    },
+    "REPECHAGE": {
+        "round 1-4": [
+            [
+                {
+                    "country": "POR",
+                    "name": "Guilherme SILVA"
+                },
+                {
+                    "winner": "Guilherme SILVA"
+                }
+            ],
+            [],
+            [
+                {
+                    "country": "ITA",
+                    "name": "Kevyn PERNA"
+                },
+                {
+                    "winner": "Kevyn PERNA"
+                }
+            ],
+            [
+                {
+                    "country": "POR",
+                    "name": "Diogo BRITES"
+                },
+                {
+                    "winner": "Diogo BRITES"
+                }
+            ]
+        ],
+        "round 1-2": [
+            [
+                {
+                    "country": "POR",
+                    "name": "Guilherme SILVA"
+                }
+            ],
+            [
+                {
+                    "country": "ITA",
+                    "name": "Kevyn PERNA"
+                },
+                {
+                    "country": "POR",
+                    "name": "Diogo BRITES"
+                },
+                {
+                    "winner": "Kevyn PERNA"
+                }
+            ],
+            [
+                {
+                    "country": "POR",
+                    "name": "Guilherme SILVA"
+                },
+                {
+                    "country": "BEL",
+                    "name": "Toma NIKIFOROV"
+                },
+                {
+                    "winner": "Guilherme SILVA"
+                }
+            ],
+            [
+                {
+                    "country": "ITA",
+                    "name": "Kevyn PERNA"
+                },
+                {
+                    "country": "POR",
+                    "name": "Ailton CARDOSO"
+                },
+                {
+                    "winner": "Kevyn PERNA"
+                }
+            ],
+            [
+                {
+                    "country": "ITA",
+                    "name": "Kevyn PERNA"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Kevyn PERNA",
+            "Guilherme SILVA"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CHN",
+                    "name": "Fuchun HUANG"
+                },
+                {
+                    "country": "POR",
+                    "name": "Ailton CARDOSO"
+                },
+                {
+                    "winner": "Fuchun HUANG"
+                }
+            ],
+            [
+                {
+                    "country": "BEL",
+                    "name": "Toma NIKIFOROV"
+                },
+                {
+                    "country": "CHN",
+                    "name": "Bo ZHANG"
+                },
+                {
+                    "winner": "Bo ZHANG"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "CHN",
+                    "name": "Fuchun HUANG"
+                },
+                {
+                    "country": "CHN",
+                    "name": "Bo ZHANG"
+                }
+            ]
+        ],
+        "final_winner": "Bo ZHANG"
+    }
+}

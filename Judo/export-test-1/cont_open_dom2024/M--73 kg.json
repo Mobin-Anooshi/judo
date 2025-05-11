@@ -1,0 +1,261 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "PAN",
+                    "name": "Ronal GONZALEZ"
+                },
+                {
+                    "winner": "Ronal GONZALEZ"
+                }
+            ],
+            [
+                {
+                    "country": "DOM",
+                    "name": "Moises OZUNA"
+                },
+                {
+                    "country": "CAN",
+                    "name": "Fahd FITHANE"
+                },
+                {
+                    "winner": "Fahd FITHANE"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "PAN",
+                    "name": "Ronal GONZALEZ"
+                },
+                {
+                    "country": "CAN",
+                    "name": "Fahd FITHANE"
+                }
+            ]
+        ],
+        "final_winner": "Fahd FITHANE"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "DOM",
+                    "name": "Antony MATOS"
+                },
+                {
+                    "winner": "Antony MATOS"
+                }
+            ],
+            [
+                {
+                    "country": "USA",
+                    "name": "Aiden COHEN"
+                },
+                {
+                    "winner": "Aiden COHEN"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "DOM",
+                    "name": "Antony MATOS"
+                },
+                {
+                    "country": "USA",
+                    "name": "Aiden COHEN"
+                }
+            ]
+        ],
+        "final_winner": "Antony MATOS"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "COL",
+                    "name": "Ferney RUIZ MESA"
+                },
+                {
+                    "winner": "Ferney RUIZ MESA"
+                }
+            ],
+            [
+                {
+                    "country": "DOM",
+                    "name": "Johan FIGUEROA"
+                },
+                {
+                    "winner": "Johan FIGUEROA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "COL",
+                    "name": "Ferney RUIZ MESA"
+                },
+                {
+                    "country": "DOM",
+                    "name": "Johan FIGUEROA"
+                }
+            ]
+        ],
+        "final_winner": "Ferney RUIZ MESA"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "DOM",
+                    "name": "Maikor Yefri LOUIS PIERRE"
+                },
+                {
+                    "winner": "Maikor Yefri LOUIS PIERRE"
+                }
+            ],
+            [
+                {
+                    "country": "USA",
+                    "name": "Romin BAKHTIYOR"
+                },
+                {
+                    "winner": "Romin BAKHTIYOR"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "DOM",
+                    "name": "Maikor Yefri LOUIS PIERRE"
+                },
+                {
+                    "country": "USA",
+                    "name": "Romin BAKHTIYOR"
+                }
+            ]
+        ],
+        "final_winner": "Maikor Yefri LOUIS PIERRE"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "PAN",
+                    "name": "Ronal GONZALEZ"
+                },
+                {
+                    "country": "USA",
+                    "name": "Aiden COHEN"
+                },
+                {
+                    "winner": "Ronal GONZALEZ"
+                }
+            ],
+            [
+                {
+                    "country": "DOM",
+                    "name": "Johan FIGUEROA"
+                },
+                {
+                    "country": "USA",
+                    "name": "Romin BAKHTIYOR"
+                },
+                {
+                    "winner": "Romin BAKHTIYOR"
+                }
+            ],
+            [
+                {
+                    "country": "PAN",
+                    "name": "Ronal GONZALEZ"
+                },
+                {
+                    "country": "DOM",
+                    "name": "Maikor Yefri LOUIS PIERRE"
+                },
+                {
+                    "winner": "Maikor Yefri LOUIS PIERRE"
+                }
+            ],
+            [
+                {
+                    "country": "USA",
+                    "name": "Romin BAKHTIYOR"
+                },
+                {
+                    "country": "CAN",
+                    "name": "Fahd FITHANE"
+                },
+                {
+                    "winner": "Fahd FITHANE"
+                }
+            ],
+            [
+                {
+                    "country": "DOM",
+                    "name": "Maikor Yefri LOUIS PIERRE"
+                }
+            ],
+            [
+                {
+                    "country": "CAN",
+                    "name": "Fahd FITHANE"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Maikor Yefri LOUIS PIERRE",
+            "Fahd FITHANE"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CAN",
+                    "name": "Fahd FITHANE"
+                },
+                {
+                    "country": "DOM",
+                    "name": "Antony MATOS"
+                },
+                {
+                    "winner": "Antony MATOS"
+                }
+            ],
+            [
+                {
+                    "country": "COL",
+                    "name": "Ferney RUIZ MESA"
+                },
+                {
+                    "country": "DOM",
+                    "name": "Maikor Yefri LOUIS PIERRE"
+                },
+                {
+                    "winner": "Ferney RUIZ MESA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "DOM",
+                    "name": "Antony MATOS"
+                },
+                {
+                    "country": "COL",
+                    "name": "Ferney RUIZ MESA"
+                }
+            ]
+        ],
+        "final_winner": "Ferney RUIZ MESA"
+    }
+}

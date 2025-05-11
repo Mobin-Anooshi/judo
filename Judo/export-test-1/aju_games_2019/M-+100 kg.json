@@ -1,0 +1,273 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "SEN",
+                    "name": "Mbagnick NDIAYE"
+                },
+                {
+                    "winner": "Mbagnick NDIAYE"
+                }
+            ],
+            [
+                {
+                    "country": "BUR",
+                    "name": "Rachid SIDIBE"
+                },
+                {
+                    "country": "LBA",
+                    "name": "Ali OMAR"
+                },
+                {
+                    "winner": "Rachid SIDIBE"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "SEN",
+                    "name": "Mbagnick NDIAYE"
+                },
+                {
+                    "country": "BUR",
+                    "name": "Rachid SIDIBE"
+                }
+            ]
+        ],
+        "final_winner": "Mbagnick NDIAYE"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ALG",
+                    "name": "Mohamed El Mehdi LILI"
+                },
+                {
+                    "winner": "Mohamed El Mehdi LILI"
+                }
+            ],
+            [
+                {
+                    "country": "MRI",
+                    "name": "Sebastien PERRINNE"
+                },
+                {
+                    "country": "GAM",
+                    "name": "Omar JOBE"
+                },
+                {
+                    "winner": "Sebastien PERRINNE"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "ALG",
+                    "name": "Mohamed El Mehdi LILI"
+                },
+                {
+                    "country": "MRI",
+                    "name": "Sebastien PERRINNE"
+                }
+            ]
+        ],
+        "final_winner": "Mohamed El Mehdi LILI"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "TUN",
+                    "name": "Faicel JABALLAH"
+                },
+                {
+                    "winner": "Faicel JABALLAH"
+                }
+            ],
+            [
+                {
+                    "country": "MLI",
+                    "name": "Karounga SOUMANO"
+                },
+                {
+                    "country": "EGY",
+                    "name": "Mayssara ELNAGAR"
+                },
+                {
+                    "winner": "Mayssara ELNAGAR"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "TUN",
+                    "name": "Faicel JABALLAH"
+                },
+                {
+                    "country": "EGY",
+                    "name": "Mayssara ELNAGAR"
+                }
+            ]
+        ],
+        "final_winner": "Mayssara ELNAGAR"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ALG",
+                    "name": "Mohamed Sofiane BELREKAA"
+                },
+                {
+                    "winner": "Mohamed Sofiane BELREKAA"
+                }
+            ],
+            [
+                {
+                    "country": "MAR",
+                    "name": "Adil HAJJI"
+                },
+                {
+                    "country": "NGR",
+                    "name": "David JOSEPH"
+                },
+                {
+                    "winner": "Adil HAJJI"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "ALG",
+                    "name": "Mohamed Sofiane BELREKAA"
+                },
+                {
+                    "country": "MAR",
+                    "name": "Adil HAJJI"
+                }
+            ]
+        ],
+        "final_winner": "Mohamed Sofiane BELREKAA"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "BUR",
+                    "name": "Rachid SIDIBE"
+                },
+                {
+                    "country": "MRI",
+                    "name": "Sebastien PERRINNE"
+                },
+                {
+                    "winner": "Sebastien PERRINNE"
+                }
+            ],
+            [
+                {
+                    "country": "TUN",
+                    "name": "Faicel JABALLAH"
+                },
+                {
+                    "country": "MAR",
+                    "name": "Adil HAJJI"
+                },
+                {
+                    "winner": "Faicel JABALLAH"
+                }
+            ],
+            [
+                {
+                    "country": "MRI",
+                    "name": "Sebastien PERRINNE"
+                },
+                {
+                    "country": "EGY",
+                    "name": "Mayssara ELNAGAR"
+                },
+                {
+                    "winner": "Sebastien PERRINNE"
+                }
+            ],
+            [
+                {
+                    "country": "TUN",
+                    "name": "Faicel JABALLAH"
+                },
+                {
+                    "country": "ALG",
+                    "name": "Mohamed El Mehdi LILI"
+                },
+                {
+                    "winner": "Faicel JABALLAH"
+                }
+            ],
+            [
+                {
+                    "country": "MRI",
+                    "name": "Sebastien PERRINNE"
+                }
+            ],
+            [
+                {
+                    "country": "TUN",
+                    "name": "Faicel JABALLAH"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Sebastien PERRINNE",
+            "Faicel JABALLAH"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "SEN",
+                    "name": "Mbagnick NDIAYE"
+                },
+                {
+                    "country": "ALG",
+                    "name": "Mohamed El Mehdi LILI"
+                },
+                {
+                    "winner": "Mbagnick NDIAYE"
+                }
+            ],
+            [
+                {
+                    "country": "EGY",
+                    "name": "Mayssara ELNAGAR"
+                },
+                {
+                    "country": "ALG",
+                    "name": "Mohamed Sofiane BELREKAA"
+                },
+                {
+                    "winner": "Mohamed Sofiane BELREKAA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "SEN",
+                    "name": "Mbagnick NDIAYE"
+                },
+                {
+                    "country": "ALG",
+                    "name": "Mohamed Sofiane BELREKAA"
+                }
+            ]
+        ],
+        "final_winner": "Mbagnick NDIAYE"
+    }
+}

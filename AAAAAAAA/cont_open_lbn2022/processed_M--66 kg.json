@@ -1,0 +1,265 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "LBN",
+                    "name": "Joe HADDAD"
+                },
+                {
+                    "winner": "Joe HADDAD"
+                }
+            ],
+            [
+                {
+                    "country": "CYP",
+                    "name": "Georgios KALAITSIDIS"
+                },
+                {
+                    "winner": "Georgios KALAITSIDIS"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "LBN",
+                    "name": "Joe HADDAD"
+                },
+                {
+                    "country": "CYP",
+                    "name": "Georgios KALAITSIDIS"
+                }
+            ]
+        ],
+        "final_winner": "Joe HADDAD"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "HKG",
+                    "name": "Martin LAU"
+                },
+                {
+                    "winner": "Martin LAU"
+                }
+            ],
+            [
+                {
+                    "country": "GRE",
+                    "name": "Adam ANASTASOPOULOS"
+                },
+                {
+                    "country": "LBN",
+                    "name": "Selim EL REMLAOUI"
+                },
+                {
+                    "winner": "Selim EL REMLAOUI"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "HKG",
+                    "name": "Martin LAU"
+                },
+                {
+                    "country": "LBN",
+                    "name": "Selim EL REMLAOUI"
+                }
+            ]
+        ],
+        "final_winner": "Martin LAU"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CYP",
+                    "name": "Georgios BALARJISHVILI"
+                },
+                {
+                    "winner": "Georgios BALARJISHVILI"
+                }
+            ],
+            [
+                {
+                    "country": "LBN",
+                    "name": "Yoshido EL SAIKALY"
+                },
+                {
+                    "winner": "Yoshido EL SAIKALY"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "CYP",
+                    "name": "Georgios BALARJISHVILI"
+                },
+                {
+                    "country": "LBN",
+                    "name": "Yoshido EL SAIKALY"
+                }
+            ]
+        ],
+        "final_winner": "Georgios BALARJISHVILI"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "JOR",
+                    "name": "Moath EALSLMAN"
+                },
+                {
+                    "winner": "Moath EALSLMAN"
+                }
+            ],
+            [
+                {
+                    "country": "HKG",
+                    "name": "Chak Hin LAM"
+                },
+                {
+                    "country": "LBN",
+                    "name": "Taha MERHEB"
+                },
+                {
+                    "winner": "Chak Hin LAM"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "JOR",
+                    "name": "Moath EALSLMAN"
+                },
+                {
+                    "country": "HKG",
+                    "name": "Chak Hin LAM"
+                }
+            ]
+        ],
+        "final_winner": "Moath EALSLMAN"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CYP",
+                    "name": "Georgios KALAITSIDIS"
+                },
+                {
+                    "country": "LBN",
+                    "name": "Selim EL REMLAOUI"
+                },
+                {
+                    "winner": "Georgios KALAITSIDIS"
+                }
+            ],
+            [
+                {
+                    "country": "LBN",
+                    "name": "Yoshido EL SAIKALY"
+                },
+                {
+                    "country": "HKG",
+                    "name": "Chak Hin LAM"
+                },
+                {
+                    "winner": "Chak Hin LAM"
+                }
+            ],
+            [
+                {
+                    "country": "CYP",
+                    "name": "Georgios KALAITSIDIS"
+                },
+                {
+                    "country": "JOR",
+                    "name": "Moath EALSLMAN"
+                },
+                {
+                    "winner": "Georgios KALAITSIDIS"
+                }
+            ],
+            [
+                {
+                    "country": "HKG",
+                    "name": "Chak Hin LAM"
+                },
+                {
+                    "country": "HKG",
+                    "name": "Martin LAU"
+                },
+                {
+                    "winner": "Martin LAU"
+                }
+            ],
+            [
+                {
+                    "country": "CYP",
+                    "name": "Georgios KALAITSIDIS"
+                }
+            ],
+            [
+                {
+                    "country": "HKG",
+                    "name": "Martin LAU"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Georgios KALAITSIDIS",
+            "Martin LAU"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "LBN",
+                    "name": "Joe HADDAD"
+                },
+                {
+                    "country": "HKG",
+                    "name": "Martin LAU"
+                },
+                {
+                    "winner": "Joe HADDAD"
+                }
+            ],
+            [
+                {
+                    "country": "CYP",
+                    "name": "Georgios BALARJISHVILI"
+                },
+                {
+                    "country": "JOR",
+                    "name": "Moath EALSLMAN"
+                },
+                {
+                    "winner": "Georgios BALARJISHVILI"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "LBN",
+                    "name": "Joe HADDAD"
+                },
+                {
+                    "country": "CYP",
+                    "name": "Georgios BALARJISHVILI"
+                }
+            ]
+        ],
+        "final_winner": "Georgios BALARJISHVILI"
+    }
+}

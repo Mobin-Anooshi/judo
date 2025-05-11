@@ -1,0 +1,221 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "GBR",
+                    "name": "Wesley GREENIDGE"
+                },
+                {
+                    "winner": "Wesley GREENIDGE"
+                }
+            ],
+            []
+        ],
+        "round 1-1": [],
+        "final_winner": "Wesley GREENIDGE"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ESP",
+                    "name": "Guillermo CORDERO RODRIGUEZ"
+                },
+                {
+                    "winner": "Guillermo CORDERO RODRIGUEZ"
+                }
+            ],
+            [
+                {
+                    "country": "POR",
+                    "name": "Joao PIRES"
+                },
+                {
+                    "winner": "Joao PIRES"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "ESP",
+                    "name": "Guillermo CORDERO RODRIGUEZ"
+                },
+                {
+                    "country": "POR",
+                    "name": "Joao PIRES"
+                }
+            ]
+        ],
+        "final_winner": "Guillermo CORDERO RODRIGUEZ"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ISR",
+                    "name": "Naor ITAH"
+                },
+                {
+                    "winner": "Naor ITAH"
+                }
+            ],
+            []
+        ],
+        "round 1-1": [],
+        "final_winner": "Naor ITAH"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "FRA",
+                    "name": "Palthi MENA MUNZIMBU"
+                },
+                {
+                    "winner": "Palthi MENA MUNZIMBU"
+                }
+            ],
+            [
+                {
+                    "country": "GER",
+                    "name": "Fabian MEYER"
+                },
+                {
+                    "winner": "Fabian MEYER"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "FRA",
+                    "name": "Palthi MENA MUNZIMBU"
+                },
+                {
+                    "country": "GER",
+                    "name": "Fabian MEYER"
+                }
+            ]
+        ],
+        "final_winner": "Palthi MENA MUNZIMBU"
+    },
+    "REPECHAGE": {
+        "round 1-4": [
+            [],
+            [
+                {
+                    "country": "POR",
+                    "name": "Joao PIRES"
+                },
+                {
+                    "winner": "Joao PIRES"
+                }
+            ],
+            [],
+            [
+                {
+                    "country": "GER",
+                    "name": "Fabian MEYER"
+                },
+                {
+                    "winner": "Fabian MEYER"
+                }
+            ]
+        ],
+        "round 1-2": [
+            [
+                {
+                    "country": "POR",
+                    "name": "Joao PIRES"
+                }
+            ],
+            [
+                {
+                    "country": "GER",
+                    "name": "Fabian MEYER"
+                }
+            ],
+            [
+                {
+                    "country": "POR",
+                    "name": "Joao PIRES"
+                },
+                {
+                    "country": "ISR",
+                    "name": "Naor ITAH"
+                },
+                {
+                    "winner": "Naor ITAH"
+                }
+            ],
+            [
+                {
+                    "country": "GER",
+                    "name": "Fabian MEYER"
+                },
+                {
+                    "country": "ESP",
+                    "name": "Guillermo CORDERO RODRIGUEZ"
+                },
+                {
+                    "winner": "Fabian MEYER"
+                }
+            ],
+            [
+                {
+                    "country": "ISR",
+                    "name": "Naor ITAH"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Fabian MEYER",
+            "Naor ITAH"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "GBR",
+                    "name": "Wesley GREENIDGE"
+                },
+                {
+                    "country": "ESP",
+                    "name": "Guillermo CORDERO RODRIGUEZ"
+                },
+                {
+                    "winner": "Wesley GREENIDGE"
+                }
+            ],
+            [
+                {
+                    "country": "ISR",
+                    "name": "Naor ITAH"
+                },
+                {
+                    "country": "FRA",
+                    "name": "Palthi MENA MUNZIMBU"
+                },
+                {
+                    "winner": "Palthi MENA MUNZIMBU"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "GBR",
+                    "name": "Wesley GREENIDGE"
+                },
+                {
+                    "country": "FRA",
+                    "name": "Palthi MENA MUNZIMBU"
+                }
+            ]
+        ],
+        "final_winner": "Wesley GREENIDGE"
+    }
+}

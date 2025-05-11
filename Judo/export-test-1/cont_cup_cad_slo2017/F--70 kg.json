@@ -1,0 +1,255 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CRO",
+                    "name": "Andela VIOLIC"
+                },
+                {
+                    "winner": "Andela VIOLIC"
+                }
+            ],
+            []
+        ],
+        "round 1-1": [],
+        "final_winner": "Andela VIOLIC"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "SLO",
+                    "name": "Nika SCHWEIGER"
+                },
+                {
+                    "winner": "Nika SCHWEIGER"
+                }
+            ],
+            [
+                {
+                    "country": "CZE",
+                    "name": "Ester SVOBODOVA"
+                },
+                {
+                    "winner": "Ester SVOBODOVA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "SLO",
+                    "name": "Nika SCHWEIGER"
+                },
+                {
+                    "country": "CZE",
+                    "name": "Ester SVOBODOVA"
+                }
+            ]
+        ],
+        "final_winner": "Ester SVOBODOVA"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CRO",
+                    "name": "Lorena STENGL"
+                },
+                {
+                    "winner": "Lorena STENGL"
+                }
+            ],
+            [
+                {
+                    "country": "SLO",
+                    "name": "Metka LOBNIK"
+                },
+                {
+                    "winner": "Metka LOBNIK"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "CRO",
+                    "name": "Lorena STENGL"
+                },
+                {
+                    "country": "SLO",
+                    "name": "Metka LOBNIK"
+                }
+            ]
+        ],
+        "final_winner": "Lorena STENGL"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CRO",
+                    "name": "Mia MIHOVILOVIC"
+                },
+                {
+                    "winner": "Mia MIHOVILOVIC"
+                }
+            ],
+            [
+                {
+                    "country": "GER",
+                    "name": "Jasmin HEINZ"
+                },
+                {
+                    "winner": "Jasmin HEINZ"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "CRO",
+                    "name": "Mia MIHOVILOVIC"
+                },
+                {
+                    "country": "GER",
+                    "name": "Jasmin HEINZ"
+                }
+            ]
+        ],
+        "final_winner": "Mia MIHOVILOVIC"
+    },
+    "REPECHAGE": {
+        "round 1-4": [
+            [],
+            [
+                {
+                    "country": "SLO",
+                    "name": "Nika SCHWEIGER"
+                },
+                {
+                    "winner": "Nika SCHWEIGER"
+                }
+            ],
+            [
+                {
+                    "country": "SLO",
+                    "name": "Metka LOBNIK"
+                },
+                {
+                    "winner": "Metka LOBNIK"
+                }
+            ],
+            [
+                {
+                    "country": "GER",
+                    "name": "Jasmin HEINZ"
+                },
+                {
+                    "winner": "Jasmin HEINZ"
+                }
+            ]
+        ],
+        "round 1-2": [
+            [
+                {
+                    "country": "SLO",
+                    "name": "Nika SCHWEIGER"
+                }
+            ],
+            [
+                {
+                    "country": "SLO",
+                    "name": "Metka LOBNIK"
+                },
+                {
+                    "country": "GER",
+                    "name": "Jasmin HEINZ"
+                },
+                {
+                    "winner": "Jasmin HEINZ"
+                }
+            ],
+            [
+                {
+                    "country": "SLO",
+                    "name": "Nika SCHWEIGER"
+                },
+                {
+                    "country": "CRO",
+                    "name": "Lorena STENGL"
+                },
+                {
+                    "winner": "Nika SCHWEIGER"
+                }
+            ],
+            [
+                {
+                    "country": "GER",
+                    "name": "Jasmin HEINZ"
+                },
+                {
+                    "country": "CZE",
+                    "name": "Ester SVOBODOVA"
+                },
+                {
+                    "winner": "Jasmin HEINZ"
+                }
+            ],
+            [
+                {
+                    "country": "GER",
+                    "name": "Jasmin HEINZ"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Jasmin HEINZ",
+            "Nika SCHWEIGER"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CRO",
+                    "name": "Andela VIOLIC"
+                },
+                {
+                    "country": "CZE",
+                    "name": "Ester SVOBODOVA"
+                },
+                {
+                    "winner": "Andela VIOLIC"
+                }
+            ],
+            [
+                {
+                    "country": "CRO",
+                    "name": "Lorena STENGL"
+                },
+                {
+                    "country": "CRO",
+                    "name": "Mia MIHOVILOVIC"
+                },
+                {
+                    "winner": "Mia MIHOVILOVIC"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "CRO",
+                    "name": "Andela VIOLIC"
+                },
+                {
+                    "country": "CRO",
+                    "name": "Mia MIHOVILOVIC"
+                }
+            ]
+        ],
+        "final_winner": "Andela VIOLIC"
+    }
+}

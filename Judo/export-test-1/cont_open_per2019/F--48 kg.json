@@ -1,0 +1,135 @@
+{
+    "POOL A": {
+        "round 1-1": [],
+        "final_winner": "Keisy PERAFAN"
+    },
+    "POOL B": {
+        "round 1-1": [
+            [
+                {
+                    "country": "COL",
+                    "name": "Luz ALVAREZ"
+                },
+                {
+                    "country": "PER",
+                    "name": "Lesly CANO"
+                }
+            ]
+        ],
+        "final_winner": "Luz ALVAREZ"
+    },
+    "POOL C": {
+        "round 1-1": [],
+        "final_winner": "Caroline HAIN"
+    },
+    "POOL D": {
+        "round 1-1": [
+            [
+                {
+                    "country": "CHI",
+                    "name": "Mary Dee VARGAS LEY"
+                },
+                {
+                    "country": "ECU",
+                    "name": "Aracelly BARRIONUEVO"
+                }
+            ]
+        ],
+        "final_winner": "Mary Dee VARGAS LEY"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "PER",
+                    "name": "Lesly CANO"
+                }
+            ],
+            [
+                {
+                    "country": "ECU",
+                    "name": "Aracelly BARRIONUEVO"
+                }
+            ],
+            [
+                {
+                    "country": "PER",
+                    "name": "Lesly CANO"
+                },
+                {
+                    "country": "AUS",
+                    "name": "Caroline HAIN"
+                },
+                {
+                    "winner": "Lesly CANO"
+                }
+            ],
+            [
+                {
+                    "country": "ECU",
+                    "name": "Aracelly BARRIONUEVO"
+                },
+                {
+                    "country": "COL",
+                    "name": "Luz ALVAREZ"
+                },
+                {
+                    "winner": "Luz ALVAREZ"
+                }
+            ],
+            [
+                {
+                    "country": "COL",
+                    "name": "Luz ALVAREZ"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Aracelly BARRIONUEVO",
+            "Lesly CANO"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ARG",
+                    "name": "Keisy PERAFAN"
+                },
+                {
+                    "country": "COL",
+                    "name": "Luz ALVAREZ"
+                },
+                {
+                    "winner": "Keisy PERAFAN"
+                }
+            ],
+            [
+                {
+                    "country": "AUS",
+                    "name": "Caroline HAIN"
+                },
+                {
+                    "country": "CHI",
+                    "name": "Mary Dee VARGAS LEY"
+                },
+                {
+                    "winner": "Mary Dee VARGAS LEY"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "ARG",
+                    "name": "Keisy PERAFAN"
+                },
+                {
+                    "country": "CHI",
+                    "name": "Mary Dee VARGAS LEY"
+                }
+            ]
+        ],
+        "final_winner": "Keisy PERAFAN"
+    }
+}

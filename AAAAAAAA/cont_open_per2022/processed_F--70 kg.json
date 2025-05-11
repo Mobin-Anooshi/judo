@@ -1,0 +1,159 @@
+{
+    "POOL A": {
+        "round 1-1": [],
+        "final_winner": "Luisa BONILLA"
+    },
+    "POOL B": {
+        "round 1-1": [
+            [
+                {
+                    "country": "MEX",
+                    "name": "Leslie VILLARREAL"
+                },
+                {
+                    "country": "PER",
+                    "name": "Xsara MORALES FALCONI"
+                }
+            ]
+        ],
+        "final_winner": "Leslie VILLARREAL"
+    },
+    "POOL C": {
+        "round 1-1": [
+            [
+                {
+                    "country": "IRL",
+                    "name": "Rachael HAWKES"
+                },
+                {
+                    "country": "PER",
+                    "name": "Francis GODOS AGUIRRE"
+                }
+            ]
+        ],
+        "final_winner": "Rachael HAWKES"
+    },
+    "POOL D": {
+        "round 1-1": [
+            [
+                {
+                    "country": "COL",
+                    "name": "Brenda OLAYA"
+                },
+                {
+                    "country": "PER",
+                    "name": "Yumiko TANABE"
+                }
+            ]
+        ],
+        "final_winner": "Yumiko TANABE"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "PER",
+                    "name": "Xsara MORALES FALCONI"
+                }
+            ],
+            [
+                {
+                    "country": "PER",
+                    "name": "Francis GODOS AGUIRRE"
+                },
+                {
+                    "country": "COL",
+                    "name": "Brenda OLAYA"
+                },
+                {
+                    "winner": "Brenda OLAYA"
+                }
+            ],
+            [
+                {
+                    "country": "PER",
+                    "name": "Xsara MORALES FALCONI"
+                },
+                {
+                    "country": "PER",
+                    "name": "Yumiko TANABE"
+                },
+                {
+                    "winner": "Yumiko TANABE"
+                }
+            ],
+            [
+                {
+                    "country": "COL",
+                    "name": "Brenda OLAYA"
+                },
+                {
+                    "country": "MEX",
+                    "name": "Leslie VILLARREAL"
+                },
+                {
+                    "winner": "Brenda OLAYA"
+                }
+            ],
+            [
+                {
+                    "country": "PER",
+                    "name": "Yumiko TANABE"
+                }
+            ],
+            [
+                {
+                    "country": "COL",
+                    "name": "Brenda OLAYA"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Yumiko TANABE",
+            "Brenda OLAYA"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "COL",
+                    "name": "Luisa BONILLA"
+                },
+                {
+                    "country": "MEX",
+                    "name": "Leslie VILLARREAL"
+                },
+                {
+                    "winner": "Luisa BONILLA"
+                }
+            ],
+            [
+                {
+                    "country": "IRL",
+                    "name": "Rachael HAWKES"
+                },
+                {
+                    "country": "PER",
+                    "name": "Yumiko TANABE"
+                },
+                {
+                    "winner": "Rachael HAWKES"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "COL",
+                    "name": "Luisa BONILLA"
+                },
+                {
+                    "country": "IRL",
+                    "name": "Rachael HAWKES"
+                }
+            ]
+        ],
+        "final_winner": "Luisa BONILLA"
+    }
+}

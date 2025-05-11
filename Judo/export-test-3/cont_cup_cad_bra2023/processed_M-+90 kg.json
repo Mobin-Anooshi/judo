@@ -1,0 +1,68 @@
+{
+    "ROUND 1": {
+        "round 1-2": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Gustavo REIS"
+                },
+                {
+                    "country": "BRA",
+                    "name": "Leonardo DUQUE"
+                },
+                {
+                    "winner": "Leonardo DUQUE"
+                }
+            ],
+            [
+                {
+                    "country": "BRA",
+                    "name": "Luis Antonio OLIVEIRA"
+                },
+                {
+                    "country": "BRA",
+                    "name": "Thiago SANTOS"
+                },
+                {
+                    "winner": "Luis Antonio OLIVEIRA"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Leonardo DUQUE",
+            "Luis Antonio OLIVEIRA"
+        ]
+    },
+    "REPECHAGE": {
+        "round 1-1": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Gustavo REIS"
+                },
+                {
+                    "country": "BRA",
+                    "name": "Thiago SANTOS"
+                },
+                {
+                    "winner": "Gustavo REIS"
+                }
+            ],
+            [
+                {
+                    "country": "BRA",
+                    "name": "Gustavo REIS"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Gustavo REIS"
+        ]
+    },
+    "FINALS": {
+        "round 1-1": [],
+        "final_winners": [
+            "Luis Antonio OLIVEIRA"
+        ]
+    }
+}

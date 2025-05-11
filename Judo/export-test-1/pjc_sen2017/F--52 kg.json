@@ -1,0 +1,281 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "USA",
+                    "name": "Angelica DELGADO"
+                },
+                {
+                    "winner": "Angelica DELGADO"
+                }
+            ],
+            [
+                {
+                    "country": "PAN",
+                    "name": "Kristine JIMENEZ"
+                },
+                {
+                    "winner": "Kristine JIMENEZ"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "USA",
+                    "name": "Angelica DELGADO"
+                },
+                {
+                    "country": "PAN",
+                    "name": "Kristine JIMENEZ"
+                }
+            ]
+        ],
+        "final_winner": "Angelica DELGADO"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ARG",
+                    "name": "Abi betsabe CARDOZO MADAF"
+                },
+                {
+                    "country": "MEX",
+                    "name": "Monica HERNANDEZ"
+                },
+                {
+                    "winner": "Abi betsabe CARDOZO MADAF"
+                }
+            ],
+            [
+                {
+                    "country": "BRA",
+                    "name": "Jessica PEREIRA"
+                },
+                {
+                    "country": "COL",
+                    "name": "Sara CAMPINO"
+                },
+                {
+                    "winner": "Jessica PEREIRA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "ARG",
+                    "name": "Abi betsabe CARDOZO MADAF"
+                },
+                {
+                    "country": "BRA",
+                    "name": "Jessica PEREIRA"
+                }
+            ]
+        ],
+        "final_winner": "Jessica PEREIRA"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CAN",
+                    "name": "Ecaterina GUICA"
+                },
+                {
+                    "country": "DOM",
+                    "name": "Diana DE JESUS"
+                },
+                {
+                    "winner": "Ecaterina GUICA"
+                }
+            ],
+            [
+                {
+                    "country": "PER",
+                    "name": "Brillith GAMARRA"
+                },
+                {
+                    "country": "NCA",
+                    "name": "Vicky FONSECA"
+                },
+                {
+                    "winner": "Brillith GAMARRA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "CAN",
+                    "name": "Ecaterina GUICA"
+                },
+                {
+                    "country": "PER",
+                    "name": "Brillith GAMARRA"
+                }
+            ]
+        ],
+        "final_winner": "Ecaterina GUICA"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Eleudis VALENTIM"
+                },
+                {
+                    "country": "CUB",
+                    "name": "Melissa HURTADO MUNOZ"
+                },
+                {
+                    "winner": "Melissa HURTADO MUNOZ"
+                }
+            ],
+            [
+                {
+                    "country": "ARG",
+                    "name": "Oritia GONZALEZ"
+                },
+                {
+                    "country": "MEX",
+                    "name": "Luz OLVERA"
+                },
+                {
+                    "winner": "Luz OLVERA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "CUB",
+                    "name": "Melissa HURTADO MUNOZ"
+                },
+                {
+                    "country": "MEX",
+                    "name": "Luz OLVERA"
+                }
+            ]
+        ],
+        "final_winner": "Luz OLVERA"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "PAN",
+                    "name": "Kristine JIMENEZ"
+                },
+                {
+                    "country": "ARG",
+                    "name": "Abi betsabe CARDOZO MADAF"
+                },
+                {
+                    "winner": "Kristine JIMENEZ"
+                }
+            ],
+            [
+                {
+                    "country": "PER",
+                    "name": "Brillith GAMARRA"
+                },
+                {
+                    "country": "CUB",
+                    "name": "Melissa HURTADO MUNOZ"
+                },
+                {
+                    "winner": "Melissa HURTADO MUNOZ"
+                }
+            ],
+            [
+                {
+                    "country": "PAN",
+                    "name": "Kristine JIMENEZ"
+                },
+                {
+                    "country": "CAN",
+                    "name": "Ecaterina GUICA"
+                },
+                {
+                    "winner": "Ecaterina GUICA"
+                }
+            ],
+            [
+                {
+                    "country": "CUB",
+                    "name": "Melissa HURTADO MUNOZ"
+                },
+                {
+                    "country": "USA",
+                    "name": "Angelica DELGADO"
+                },
+                {
+                    "winner": "Angelica DELGADO"
+                }
+            ],
+            [
+                {
+                    "country": "CAN",
+                    "name": "Ecaterina GUICA"
+                }
+            ],
+            [
+                {
+                    "country": "USA",
+                    "name": "Angelica DELGADO"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Ecaterina GUICA",
+            "Angelica DELGADO"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "USA",
+                    "name": "Angelica DELGADO"
+                },
+                {
+                    "country": "BRA",
+                    "name": "Jessica PEREIRA"
+                },
+                {
+                    "winner": "Jessica PEREIRA"
+                }
+            ],
+            [
+                {
+                    "country": "CAN",
+                    "name": "Ecaterina GUICA"
+                },
+                {
+                    "country": "MEX",
+                    "name": "Luz OLVERA"
+                },
+                {
+                    "winner": "Luz OLVERA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Jessica PEREIRA"
+                },
+                {
+                    "country": "MEX",
+                    "name": "Luz OLVERA"
+                }
+            ]
+        ],
+        "final_winner": "Jessica PEREIRA"
+    }
+}

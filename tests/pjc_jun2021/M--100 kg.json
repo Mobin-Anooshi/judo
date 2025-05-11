@@ -1,0 +1,238 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ECU",
+                    "name": "Darwin MERCADO"
+                },
+                {
+                    "winner": "Darwin MERCADO"
+                }
+            ],
+            [
+                {
+                    "country": "CUB",
+                    "name": "Diaz Ateaga RAY"
+                },
+                {
+                    "winner": "Diaz Ateaga RAY"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "ECU",
+                    "name": "Darwin MERCADO"
+                },
+                {
+                    "country": "CUB",
+                    "name": "Diaz Ateaga RAY"
+                }
+            ],
+            [
+                {
+                    "country": "ECU",
+                    "name": "Darwin MERCADO"
+                }
+            ]
+        ]
+    },
+    "POOL B": {
+        "round 1-2": [
+            [],
+            [
+                {
+                    "country": "PAR",
+                    "name": "Ezequiel BAREIRO"
+                },
+                {
+                    "winner": "Ezequiel BAREIRO"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "PAR",
+                    "name": "Ezequiel BAREIRO"
+                }
+            ]
+        ]
+    },
+    "POOL C": {
+        "round 1-2": [
+            [],
+            [
+                {
+                    "country": "MEX",
+                    "name": "Angel GARCIA"
+                },
+                {
+                    "winner": "Angel GARCIA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "MEX",
+                    "name": "Angel GARCIA"
+                }
+            ]
+        ]
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Kayo SANTOS"
+                },
+                {
+                    "winner": "Kayo SANTOS"
+                }
+            ],
+            [
+                {
+                    "country": "COL",
+                    "name": "Duvan NIETO"
+                },
+                {
+                    "winner": "Duvan NIETO"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Kayo SANTOS"
+                },
+                {
+                    "country": "COL",
+                    "name": "Duvan NIETO"
+                }
+            ],
+            [
+                {
+                    "country": "BRA",
+                    "name": "Kayo SANTOS"
+                }
+            ]
+        ]
+    },
+    "REPECHAGE": {
+        "round 1-4": [
+            [
+                {
+                    "country": "CUB",
+                    "name": "Diaz Ateaga RAY"
+                },
+                {
+                    "winner": "Diaz Ateaga RAY"
+                }
+            ],
+            [],
+            [],
+            [
+                {
+                    "country": "COL",
+                    "name": "Duvan NIETO"
+                },
+                {
+                    "winner": "Duvan NIETO"
+                }
+            ]
+        ],
+        "round 1-2": [
+            [
+                {
+                    "country": "CUB",
+                    "name": "Diaz Ateaga RAY"
+                }
+            ],
+            [
+                {
+                    "country": "COL",
+                    "name": "Duvan NIETO"
+                }
+            ],
+            [
+                {
+                    "country": "CUB",
+                    "name": "Diaz Ateaga RAY"
+                },
+                {
+                    "country": "MEX",
+                    "name": "Angel GARCIA"
+                }
+            ],
+            [
+                {
+                    "country": "COL",
+                    "name": "Duvan NIETO"
+                },
+                {
+                    "country": "ECU",
+                    "name": "Darwin MERCADO"
+                }
+            ],
+            [
+                {
+                    "country": "MEX",
+                    "name": "Angel GARCIA"
+                }
+            ]
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ECU",
+                    "name": "Darwin MERCADO"
+                },
+                {
+                    "country": "PAR",
+                    "name": "Ezequiel BAREIRO"
+                },
+                {
+                    "winner": "Ezequiel BAREIRO"
+                }
+            ],
+            [
+                {
+                    "country": "MEX",
+                    "name": "Angel GARCIA"
+                },
+                {
+                    "country": "BRA",
+                    "name": "Kayo SANTOS"
+                },
+                {
+                    "winner": "Kayo SANTOS"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "PAR",
+                    "name": "Ezequiel BAREIRO"
+                },
+                {
+                    "country": "BRA",
+                    "name": "Kayo SANTOS"
+                }
+            ],
+            [
+                {
+                    "country": "BRA",
+                    "name": "Kayo SANTOS"
+                }
+            ]
+        ]
+    }
+}

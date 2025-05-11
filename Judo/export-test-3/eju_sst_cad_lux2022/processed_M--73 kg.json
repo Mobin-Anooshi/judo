@@ -1,0 +1,87 @@
+{
+    "POOL A": {
+        "round 1-3": [
+            [
+                {
+                    "country": "ISL",
+                    "name": "Adalsteinn BJORNSSON"
+                },
+                {
+                    "country": "ISL",
+                    "name": "Mikael ISAKSSON"
+                },
+                {
+                    "winner": "Adalsteinn BJORNSSON"
+                }
+            ],
+            [
+                {
+                    "country": "ISL",
+                    "name": "Adalsteinn BJORNSSON"
+                },
+                {
+                    "country": "AND",
+                    "name": "Joaquim TOMAS"
+                },
+                {
+                    "winner": "Joaquim TOMAS"
+                }
+            ],
+            [
+                {
+                    "country": "ISL",
+                    "name": "Mikael ISAKSSON"
+                },
+                {
+                    "country": "AND",
+                    "name": "Joaquim TOMAS"
+                },
+                {
+                    "winner": "Joaquim TOMAS"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Adalsteinn BJORNSSON",
+            "Joaquim TOMAS"
+        ]
+    },
+    "POOL B": {
+        "round 1-1": [],
+        "final_winners": [
+            "Daron HANCOCK"
+        ]
+    },
+    "REPECHAGE": {
+        "round 1-1": [
+            [
+                {
+                    "country": "AND",
+                    "name": "Joaquim TOMAS"
+                },
+                {
+                    "country": "MLT",
+                    "name": "Kris Samuel BARTOLO"
+                },
+                {
+                    "winner": "Kris Samuel BARTOLO"
+                }
+            ],
+            [
+                {
+                    "country": "MLT",
+                    "name": "Kris Samuel BARTOLO"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Kris Samuel BARTOLO"
+        ]
+    },
+    "FINALS": {
+        "round 1-1": [],
+        "final_winners": [
+            "Adalsteinn BJORNSSON"
+        ]
+    }
+}

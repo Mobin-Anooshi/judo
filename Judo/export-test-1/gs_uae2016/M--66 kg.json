@@ -1,0 +1,285 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "SLO",
+                    "name": "Andraz JEREB"
+                },
+                {
+                    "winner": "Andraz JEREB"
+                }
+            ],
+            [
+                {
+                    "country": "MDA",
+                    "name": "Denis VIERU"
+                },
+                {
+                    "country": "AZE",
+                    "name": "Ilgar MUSHKIYEV"
+                },
+                {
+                    "winner": "Denis VIERU"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "SLO",
+                    "name": "Andraz JEREB"
+                },
+                {
+                    "country": "MDA",
+                    "name": "Denis VIERU"
+                }
+            ]
+        ],
+        "final_winner": "Andraz JEREB"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "RUS",
+                    "name": "Arsen GALSTYAN"
+                },
+                {
+                    "country": "POL",
+                    "name": "Michal BARTUSIK"
+                },
+                {
+                    "winner": "Arsen GALSTYAN"
+                }
+            ],
+            [
+                {
+                    "country": "RUS",
+                    "name": "Yakub SHAMILOV"
+                },
+                {
+                    "country": "KAZ",
+                    "name": "Askhat TELMANOV"
+                },
+                {
+                    "winner": "Yakub SHAMILOV"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "RUS",
+                    "name": "Arsen GALSTYAN"
+                },
+                {
+                    "country": "RUS",
+                    "name": "Yakub SHAMILOV"
+                }
+            ]
+        ],
+        "final_winner": "Yakub SHAMILOV"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "POR",
+                    "name": "Sergiu OLEINIC"
+                },
+                {
+                    "country": "AZE",
+                    "name": "Vugar SHIRINLI"
+                },
+                {
+                    "winner": "Sergiu OLEINIC"
+                }
+            ],
+            [
+                {
+                    "country": "FRA",
+                    "name": "Mathias BOUCHER"
+                },
+                {
+                    "country": "POL",
+                    "name": "Patryk WAWRZYCZEK"
+                },
+                {
+                    "winner": "Mathias BOUCHER"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "POR",
+                    "name": "Sergiu OLEINIC"
+                },
+                {
+                    "country": "FRA",
+                    "name": "Mathias BOUCHER"
+                }
+            ]
+        ],
+        "final_winner": "Sergiu OLEINIC"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "KAZ",
+                    "name": "Azamat MUKANOV"
+                },
+                {
+                    "country": "UAE",
+                    "name": "Khalifa ALHOSANI"
+                },
+                {
+                    "winner": "Azamat MUKANOV"
+                }
+            ],
+            [
+                {
+                    "country": "BRA",
+                    "name": "Charles CHIBANA"
+                },
+                {
+                    "country": "KSA",
+                    "name": "Eisa MAJRASHI"
+                },
+                {
+                    "winner": "Charles CHIBANA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "KAZ",
+                    "name": "Azamat MUKANOV"
+                },
+                {
+                    "country": "BRA",
+                    "name": "Charles CHIBANA"
+                }
+            ]
+        ],
+        "final_winner": "Azamat MUKANOV"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "MDA",
+                    "name": "Denis VIERU"
+                },
+                {
+                    "country": "RUS",
+                    "name": "Arsen GALSTYAN"
+                },
+                {
+                    "winner": "Arsen GALSTYAN"
+                }
+            ],
+            [
+                {
+                    "country": "FRA",
+                    "name": "Mathias BOUCHER"
+                },
+                {
+                    "country": "BRA",
+                    "name": "Charles CHIBANA"
+                },
+                {
+                    "winner": "Charles CHIBANA"
+                }
+            ],
+            [
+                {
+                    "country": "RUS",
+                    "name": "Arsen GALSTYAN"
+                },
+                {
+                    "country": "POR",
+                    "name": "Sergiu OLEINIC"
+                },
+                {
+                    "winner": "Arsen GALSTYAN"
+                }
+            ],
+            [
+                {
+                    "country": "BRA",
+                    "name": "Charles CHIBANA"
+                },
+                {
+                    "country": "SLO",
+                    "name": "Andraz JEREB"
+                },
+                {
+                    "winner": "Charles CHIBANA"
+                }
+            ],
+            [
+                {
+                    "country": "RUS",
+                    "name": "Arsen GALSTYAN"
+                }
+            ],
+            [
+                {
+                    "country": "BRA",
+                    "name": "Charles CHIBANA"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Arsen GALSTYAN",
+            "Charles CHIBANA"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "SLO",
+                    "name": "Andraz JEREB"
+                },
+                {
+                    "country": "RUS",
+                    "name": "Yakub SHAMILOV"
+                },
+                {
+                    "winner": "Yakub SHAMILOV"
+                }
+            ],
+            [
+                {
+                    "country": "POR",
+                    "name": "Sergiu OLEINIC"
+                },
+                {
+                    "country": "KAZ",
+                    "name": "Azamat MUKANOV"
+                },
+                {
+                    "winner": "Azamat MUKANOV"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "RUS",
+                    "name": "Yakub SHAMILOV"
+                },
+                {
+                    "country": "KAZ",
+                    "name": "Azamat MUKANOV"
+                }
+            ]
+        ],
+        "final_winner": "Yakub SHAMILOV"
+    }
+}

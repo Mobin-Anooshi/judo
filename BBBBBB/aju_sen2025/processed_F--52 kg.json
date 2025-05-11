@@ -1,0 +1,273 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "MAR",
+                    "name": "Soumiya IRAOUI"
+                },
+                {
+                    "winner": "Soumiya IRAOUI"
+                }
+            ],
+            [
+                {
+                    "country": "KEN",
+                    "name": "Sharon NDUNGE"
+                },
+                {
+                    "country": "EGY",
+                    "name": "Zeinab SAFA"
+                },
+                {
+                    "winner": "Zeinab SAFA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "MAR",
+                    "name": "Soumiya IRAOUI"
+                },
+                {
+                    "country": "EGY",
+                    "name": "Zeinab SAFA"
+                }
+            ]
+        ],
+        "final_winner": "Soumiya IRAOUI"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "TUN",
+                    "name": "Rahma TIBI"
+                },
+                {
+                    "winner": "Rahma TIBI"
+                }
+            ],
+            [
+                {
+                    "country": "SEN",
+                    "name": "Diodio SONKO"
+                },
+                {
+                    "country": "NIG",
+                    "name": "Rabilatou MAMANE ALI"
+                },
+                {
+                    "winner": "Diodio SONKO"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "TUN",
+                    "name": "Rahma TIBI"
+                },
+                {
+                    "country": "SEN",
+                    "name": "Diodio SONKO"
+                }
+            ]
+        ],
+        "final_winner": "Rahma TIBI"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CMR",
+                    "name": "Marie Celine BABA MATIA"
+                },
+                {
+                    "winner": "Marie Celine BABA MATIA"
+                }
+            ],
+            [
+                {
+                    "country": "ANG",
+                    "name": "Marcelina DA CONCEICAO"
+                },
+                {
+                    "country": "TUN",
+                    "name": "Chaima SIDAOUI"
+                },
+                {
+                    "winner": "Chaima SIDAOUI"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "CMR",
+                    "name": "Marie Celine BABA MATIA"
+                },
+                {
+                    "country": "TUN",
+                    "name": "Chaima SIDAOUI"
+                }
+            ]
+        ],
+        "final_winner": "Chaima SIDAOUI"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ALG",
+                    "name": "Faiza AISSAHINE"
+                },
+                {
+                    "winner": "Faiza AISSAHINE"
+                }
+            ],
+            [
+                {
+                    "country": "NIG",
+                    "name": "Zalika HASSANE ABDOU"
+                },
+                {
+                    "country": "CIV",
+                    "name": "Aminata BAMBA"
+                },
+                {
+                    "winner": "Zalika HASSANE ABDOU"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "ALG",
+                    "name": "Faiza AISSAHINE"
+                },
+                {
+                    "country": "NIG",
+                    "name": "Zalika HASSANE ABDOU"
+                }
+            ]
+        ],
+        "final_winner": "Faiza AISSAHINE"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "EGY",
+                    "name": "Zeinab SAFA"
+                },
+                {
+                    "country": "SEN",
+                    "name": "Diodio SONKO"
+                },
+                {
+                    "winner": "Zeinab SAFA"
+                }
+            ],
+            [
+                {
+                    "country": "CMR",
+                    "name": "Marie Celine BABA MATIA"
+                },
+                {
+                    "country": "NIG",
+                    "name": "Zalika HASSANE ABDOU"
+                },
+                {
+                    "winner": "Marie Celine BABA MATIA"
+                }
+            ],
+            [
+                {
+                    "country": "EGY",
+                    "name": "Zeinab SAFA"
+                },
+                {
+                    "country": "TUN",
+                    "name": "Chaima SIDAOUI"
+                },
+                {
+                    "winner": "Chaima SIDAOUI"
+                }
+            ],
+            [
+                {
+                    "country": "CMR",
+                    "name": "Marie Celine BABA MATIA"
+                },
+                {
+                    "country": "TUN",
+                    "name": "Rahma TIBI"
+                },
+                {
+                    "winner": "Marie Celine BABA MATIA"
+                }
+            ],
+            [
+                {
+                    "country": "TUN",
+                    "name": "Chaima SIDAOUI"
+                }
+            ],
+            [
+                {
+                    "country": "CMR",
+                    "name": "Marie Celine BABA MATIA"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Chaima SIDAOUI",
+            "Marie Celine BABA MATIA"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "MAR",
+                    "name": "Soumiya IRAOUI"
+                },
+                {
+                    "country": "TUN",
+                    "name": "Rahma TIBI"
+                },
+                {
+                    "winner": "Soumiya IRAOUI"
+                }
+            ],
+            [
+                {
+                    "country": "TUN",
+                    "name": "Chaima SIDAOUI"
+                },
+                {
+                    "country": "ALG",
+                    "name": "Faiza AISSAHINE"
+                },
+                {
+                    "winner": "Faiza AISSAHINE"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "MAR",
+                    "name": "Soumiya IRAOUI"
+                },
+                {
+                    "country": "ALG",
+                    "name": "Faiza AISSAHINE"
+                }
+            ]
+        ],
+        "final_winner": "Soumiya IRAOUI"
+    }
+}

@@ -1,0 +1,153 @@
+{
+    "POOL A": {
+        "round 1-1": [
+            [
+                {
+                    "country": "NED",
+                    "name": "Tessie SAVELKOULS"
+                },
+                {
+                    "country": "RUS",
+                    "name": "Mariia SHEKEROVA"
+                }
+            ]
+        ],
+        "final_winner": "Tessie SAVELKOULS"
+    },
+    "POOL B": {
+        "round 1-1": [
+            [
+                {
+                    "country": "GER",
+                    "name": "Jasmin GRABOWSKI"
+                },
+                {
+                    "country": "BRA",
+                    "name": "Beatriz SOUZA"
+                }
+            ]
+        ],
+        "final_winner": "Jasmin GRABOWSKI"
+    },
+    "POOL C": {
+        "round 1-1": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Maria Suelen ALTHEMAN"
+                },
+                {
+                    "country": "RUS",
+                    "name": "Kseniia CHIBISOVA"
+                }
+            ]
+        ],
+        "final_winner": "Kseniia CHIBISOVA"
+    },
+    "POOL D": {
+        "round 1-1": [],
+        "final_winner": "Iryna KINDZERSKA"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "RUS",
+                    "name": "Mariia SHEKEROVA"
+                },
+                {
+                    "country": "BRA",
+                    "name": "Beatriz SOUZA"
+                },
+                {
+                    "winner": "Beatriz SOUZA"
+                }
+            ],
+            [
+                {
+                    "country": "BRA",
+                    "name": "Maria Suelen ALTHEMAN"
+                }
+            ],
+            [
+                {
+                    "country": "BRA",
+                    "name": "Beatriz SOUZA"
+                },
+                {
+                    "country": "RUS",
+                    "name": "Kseniia CHIBISOVA"
+                },
+                {
+                    "winner": "Beatriz SOUZA"
+                }
+            ],
+            [
+                {
+                    "country": "BRA",
+                    "name": "Maria Suelen ALTHEMAN"
+                },
+                {
+                    "country": "GER",
+                    "name": "Jasmin GRABOWSKI"
+                },
+                {
+                    "winner": "Maria Suelen ALTHEMAN"
+                }
+            ],
+            [
+                {
+                    "country": "BRA",
+                    "name": "Beatriz SOUZA"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Maria Suelen ALTHEMAN",
+            "Beatriz SOUZA"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "NED",
+                    "name": "Tessie SAVELKOULS"
+                },
+                {
+                    "country": "GER",
+                    "name": "Jasmin GRABOWSKI"
+                },
+                {
+                    "winner": "Tessie SAVELKOULS"
+                }
+            ],
+            [
+                {
+                    "country": "RUS",
+                    "name": "Kseniia CHIBISOVA"
+                },
+                {
+                    "country": "AZE",
+                    "name": "Iryna KINDZERSKA"
+                },
+                {
+                    "winner": "Iryna KINDZERSKA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "NED",
+                    "name": "Tessie SAVELKOULS"
+                },
+                {
+                    "country": "AZE",
+                    "name": "Iryna KINDZERSKA"
+                }
+            ]
+        ],
+        "final_winner": "Tessie SAVELKOULS"
+    }
+}

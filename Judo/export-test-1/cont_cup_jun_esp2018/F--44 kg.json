@@ -1,0 +1,303 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ESP",
+                    "name": "Mireia RODRIGUEZ SALVADOR"
+                },
+                {
+                    "winner": "Mireia RODRIGUEZ SALVADOR"
+                }
+            ],
+            [
+                {
+                    "country": "POR",
+                    "name": "Soraia RIBEIRO"
+                },
+                {
+                    "winner": "Soraia RIBEIRO"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "ESP",
+                    "name": "Mireia RODRIGUEZ SALVADOR"
+                },
+                {
+                    "country": "POR",
+                    "name": "Soraia RIBEIRO"
+                }
+            ]
+        ],
+        "final_winner": "Mireia RODRIGUEZ SALVADOR"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "RUS",
+                    "name": "Olga BORISOVA"
+                },
+                {
+                    "winner": "Olga BORISOVA"
+                }
+            ],
+            [
+                {
+                    "country": "RUS",
+                    "name": "Vladlena FARAKHUTDINOVA"
+                },
+                {
+                    "winner": "Vladlena FARAKHUTDINOVA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "RUS",
+                    "name": "Olga BORISOVA"
+                },
+                {
+                    "country": "RUS",
+                    "name": "Vladlena FARAKHUTDINOVA"
+                }
+            ]
+        ],
+        "final_winner": "Olga BORISOVA"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "RUS",
+                    "name": "Anastasiia KUTERINA"
+                },
+                {
+                    "winner": "Anastasiia KUTERINA"
+                }
+            ],
+            [
+                {
+                    "country": "FRA",
+                    "name": "Lea JOLLES"
+                },
+                {
+                    "country": "ESP",
+                    "name": "Eider BARANDIARAN BARREIRO"
+                },
+                {
+                    "winner": "Lea JOLLES"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "RUS",
+                    "name": "Anastasiia KUTERINA"
+                },
+                {
+                    "country": "FRA",
+                    "name": "Lea JOLLES"
+                }
+            ]
+        ],
+        "final_winner": "Anastasiia KUTERINA"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "FRA",
+                    "name": "Melanie FRIGOUL"
+                },
+                {
+                    "winner": "Melanie FRIGOUL"
+                }
+            ],
+            [
+                {
+                    "country": "POR",
+                    "name": "Vanessa BARBOSA"
+                },
+                {
+                    "country": "ESP",
+                    "name": "Laura TORREGROSA PINA"
+                },
+                {
+                    "winner": "Laura TORREGROSA PINA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "FRA",
+                    "name": "Melanie FRIGOUL"
+                },
+                {
+                    "country": "ESP",
+                    "name": "Laura TORREGROSA PINA"
+                }
+            ]
+        ],
+        "final_winner": "Melanie FRIGOUL"
+    },
+    "REPECHAGE": {
+        "round 1-4": [
+            [
+                {
+                    "country": "POR",
+                    "name": "Soraia RIBEIRO"
+                },
+                {
+                    "winner": "Soraia RIBEIRO"
+                }
+            ],
+            [
+                {
+                    "country": "RUS",
+                    "name": "Vladlena FARAKHUTDINOVA"
+                },
+                {
+                    "winner": "Vladlena FARAKHUTDINOVA"
+                }
+            ],
+            [
+                {
+                    "country": "FRA",
+                    "name": "Lea JOLLES"
+                },
+                {
+                    "winner": "Lea JOLLES"
+                }
+            ],
+            [
+                {
+                    "country": "ESP",
+                    "name": "Laura TORREGROSA PINA"
+                },
+                {
+                    "winner": "Laura TORREGROSA PINA"
+                }
+            ]
+        ],
+        "round 1-2": [
+            [
+                {
+                    "country": "POR",
+                    "name": "Soraia RIBEIRO"
+                },
+                {
+                    "country": "RUS",
+                    "name": "Vladlena FARAKHUTDINOVA"
+                },
+                {
+                    "winner": "Vladlena FARAKHUTDINOVA"
+                }
+            ],
+            [
+                {
+                    "country": "FRA",
+                    "name": "Lea JOLLES"
+                },
+                {
+                    "country": "ESP",
+                    "name": "Laura TORREGROSA PINA"
+                },
+                {
+                    "winner": "Lea JOLLES"
+                }
+            ],
+            [
+                {
+                    "country": "RUS",
+                    "name": "Vladlena FARAKHUTDINOVA"
+                },
+                {
+                    "country": "RUS",
+                    "name": "Anastasiia KUTERINA"
+                },
+                {
+                    "winner": "Vladlena FARAKHUTDINOVA"
+                }
+            ],
+            [
+                {
+                    "country": "FRA",
+                    "name": "Lea JOLLES"
+                },
+                {
+                    "country": "RUS",
+                    "name": "Olga BORISOVA"
+                },
+                {
+                    "winner": "Olga BORISOVA"
+                }
+            ],
+            [
+                {
+                    "country": "RUS",
+                    "name": "Vladlena FARAKHUTDINOVA"
+                }
+            ],
+            [
+                {
+                    "country": "RUS",
+                    "name": "Olga BORISOVA"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Vladlena FARAKHUTDINOVA",
+            "Olga BORISOVA"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ESP",
+                    "name": "Mireia RODRIGUEZ SALVADOR"
+                },
+                {
+                    "country": "RUS",
+                    "name": "Olga BORISOVA"
+                },
+                {
+                    "winner": "Mireia RODRIGUEZ SALVADOR"
+                }
+            ],
+            [
+                {
+                    "country": "RUS",
+                    "name": "Anastasiia KUTERINA"
+                },
+                {
+                    "country": "FRA",
+                    "name": "Melanie FRIGOUL"
+                },
+                {
+                    "winner": "Melanie FRIGOUL"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "ESP",
+                    "name": "Mireia RODRIGUEZ SALVADOR"
+                },
+                {
+                    "country": "FRA",
+                    "name": "Melanie FRIGOUL"
+                }
+            ]
+        ],
+        "final_winner": "Melanie FRIGOUL"
+    }
+}

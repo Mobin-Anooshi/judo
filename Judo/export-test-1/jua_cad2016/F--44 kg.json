@@ -1,0 +1,231 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "TPE",
+                    "name": "Ting CHANG"
+                },
+                {
+                    "winner": "Ting CHANG"
+                }
+            ],
+            [
+                {
+                    "country": "BAN",
+                    "name": "Priyanka AKTHER"
+                },
+                {
+                    "winner": "Priyanka AKTHER"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "TPE",
+                    "name": "Ting CHANG"
+                },
+                {
+                    "country": "BAN",
+                    "name": "Priyanka AKTHER"
+                }
+            ]
+        ],
+        "final_winner": "Ting CHANG"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "IND",
+                    "name": "Krishna FOUJDAR"
+                },
+                {
+                    "winner": "Krishna FOUJDAR"
+                }
+            ],
+            [
+                {
+                    "country": "THA",
+                    "name": "Nipawan CHOBKAN"
+                },
+                {
+                    "winner": "Nipawan CHOBKAN"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "IND",
+                    "name": "Krishna FOUJDAR"
+                },
+                {
+                    "country": "THA",
+                    "name": "Nipawan CHOBKAN"
+                }
+            ]
+        ],
+        "final_winner": "Krishna FOUJDAR"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "MAC",
+                    "name": "Cheng I LEI"
+                },
+                {
+                    "winner": "Cheng I LEI"
+                }
+            ],
+            [
+                {
+                    "country": "MGL",
+                    "name": "Burneebayar GANBOLD"
+                },
+                {
+                    "winner": "Burneebayar GANBOLD"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "MAC",
+                    "name": "Cheng I LEI"
+                },
+                {
+                    "country": "MGL",
+                    "name": "Burneebayar GANBOLD"
+                }
+            ]
+        ],
+        "final_winner": "Burneebayar GANBOLD"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "KAZ",
+                    "name": "Galiya TYNBAYEVA"
+                },
+                {
+                    "winner": "Galiya TYNBAYEVA"
+                }
+            ],
+            []
+        ],
+        "round 1-1": [],
+        "final_winner": "Galiya TYNBAYEVA"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "BAN",
+                    "name": "Priyanka AKTHER"
+                },
+                {
+                    "country": "THA",
+                    "name": "Nipawan CHOBKAN"
+                },
+                {
+                    "winner": "Priyanka AKTHER"
+                }
+            ],
+            [
+                {
+                    "country": "MAC",
+                    "name": "Cheng I LEI"
+                }
+            ],
+            [
+                {
+                    "country": "BAN",
+                    "name": "Priyanka AKTHER"
+                },
+                {
+                    "country": "KAZ",
+                    "name": "Galiya TYNBAYEVA"
+                },
+                {
+                    "winner": "Galiya TYNBAYEVA"
+                }
+            ],
+            [
+                {
+                    "country": "MAC",
+                    "name": "Cheng I LEI"
+                },
+                {
+                    "country": "IND",
+                    "name": "Krishna FOUJDAR"
+                },
+                {
+                    "winner": "Krishna FOUJDAR"
+                }
+            ],
+            [
+                {
+                    "country": "KAZ",
+                    "name": "Galiya TYNBAYEVA"
+                }
+            ],
+            [
+                {
+                    "country": "IND",
+                    "name": "Krishna FOUJDAR"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Galiya TYNBAYEVA",
+            "Krishna FOUJDAR"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "TPE",
+                    "name": "Ting CHANG"
+                },
+                {
+                    "country": "IND",
+                    "name": "Krishna FOUJDAR"
+                },
+                {
+                    "winner": "Ting CHANG"
+                }
+            ],
+            [
+                {
+                    "country": "MGL",
+                    "name": "Burneebayar GANBOLD"
+                },
+                {
+                    "country": "KAZ",
+                    "name": "Galiya TYNBAYEVA"
+                },
+                {
+                    "winner": "Burneebayar GANBOLD"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "TPE",
+                    "name": "Ting CHANG"
+                },
+                {
+                    "country": "MGL",
+                    "name": "Burneebayar GANBOLD"
+                }
+            ]
+        ],
+        "final_winner": "Burneebayar GANBOLD"
+    }
+}

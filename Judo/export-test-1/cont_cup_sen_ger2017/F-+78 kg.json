@@ -1,0 +1,311 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ITA",
+                    "name": "Elisa MARCHIO"
+                },
+                {
+                    "winner": "Elisa MARCHIO"
+                }
+            ],
+            [
+                {
+                    "country": "NED",
+                    "name": "Tessie SAVELKOULS"
+                },
+                {
+                    "winner": "Tessie SAVELKOULS"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "ITA",
+                    "name": "Elisa MARCHIO"
+                },
+                {
+                    "country": "NED",
+                    "name": "Tessie SAVELKOULS"
+                }
+            ]
+        ],
+        "final_winner": "Tessie SAVELKOULS"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "RUS",
+                    "name": "Anzhela GASPARIAN"
+                },
+                {
+                    "winner": "Anzhela GASPARIAN"
+                }
+            ],
+            [
+                {
+                    "country": "GBR",
+                    "name": "Sarah BARRITT"
+                },
+                {
+                    "country": "MAR",
+                    "name": "Ikram BENSALEM"
+                },
+                {
+                    "winner": "Ikram BENSALEM"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "RUS",
+                    "name": "Anzhela GASPARIAN"
+                },
+                {
+                    "country": "MAR",
+                    "name": "Ikram BENSALEM"
+                }
+            ]
+        ],
+        "final_winner": "Anzhela GASPARIAN"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "TUR",
+                    "name": "Kubra KARA"
+                },
+                {
+                    "winner": "Kubra KARA"
+                }
+            ],
+            [
+                {
+                    "country": "GER",
+                    "name": "Renee LUCHT"
+                },
+                {
+                    "country": "FRA",
+                    "name": "Helene BUCK"
+                },
+                {
+                    "winner": "Helene BUCK"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "TUR",
+                    "name": "Kubra KARA"
+                },
+                {
+                    "country": "FRA",
+                    "name": "Helene BUCK"
+                }
+            ]
+        ],
+        "final_winner": "Kubra KARA"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "POL",
+                    "name": "Anna ZALECZNA"
+                },
+                {
+                    "winner": "Anna ZALECZNA"
+                }
+            ],
+            [
+                {
+                    "country": "GBR",
+                    "name": "Sarah ADLINGTON"
+                },
+                {
+                    "country": "GER",
+                    "name": "Rahel KRAUSE"
+                },
+                {
+                    "winner": "Sarah ADLINGTON"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "POL",
+                    "name": "Anna ZALECZNA"
+                },
+                {
+                    "country": "GBR",
+                    "name": "Sarah ADLINGTON"
+                }
+            ]
+        ],
+        "final_winner": "Sarah ADLINGTON"
+    },
+    "REPECHAGE": {
+        "round 1-4": [
+            [
+                {
+                    "country": "ITA",
+                    "name": "Elisa MARCHIO"
+                },
+                {
+                    "winner": "Elisa MARCHIO"
+                }
+            ],
+            [
+                {
+                    "country": "MAR",
+                    "name": "Ikram BENSALEM"
+                },
+                {
+                    "winner": "Ikram BENSALEM"
+                }
+            ],
+            [
+                {
+                    "country": "FRA",
+                    "name": "Helene BUCK"
+                },
+                {
+                    "winner": "Helene BUCK"
+                }
+            ],
+            [
+                {
+                    "country": "GER",
+                    "name": "Rahel KRAUSE"
+                },
+                {
+                    "country": "POL",
+                    "name": "Anna ZALECZNA"
+                },
+                {
+                    "winner": "Anna ZALECZNA"
+                }
+            ]
+        ],
+        "round 1-2": [
+            [
+                {
+                    "country": "ITA",
+                    "name": "Elisa MARCHIO"
+                },
+                {
+                    "country": "MAR",
+                    "name": "Ikram BENSALEM"
+                },
+                {
+                    "winner": "Elisa MARCHIO"
+                }
+            ],
+            [
+                {
+                    "country": "FRA",
+                    "name": "Helene BUCK"
+                },
+                {
+                    "country": "POL",
+                    "name": "Anna ZALECZNA"
+                },
+                {
+                    "winner": "Helene BUCK"
+                }
+            ],
+            [
+                {
+                    "country": "ITA",
+                    "name": "Elisa MARCHIO"
+                },
+                {
+                    "country": "TUR",
+                    "name": "Kubra KARA"
+                },
+                {
+                    "winner": "Elisa MARCHIO"
+                }
+            ],
+            [
+                {
+                    "country": "FRA",
+                    "name": "Helene BUCK"
+                },
+                {
+                    "country": "RUS",
+                    "name": "Anzhela GASPARIAN"
+                },
+                {
+                    "winner": "Anzhela GASPARIAN"
+                }
+            ],
+            [
+                {
+                    "country": "ITA",
+                    "name": "Elisa MARCHIO"
+                }
+            ],
+            [
+                {
+                    "country": "RUS",
+                    "name": "Anzhela GASPARIAN"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Elisa MARCHIO",
+            "Anzhela GASPARIAN"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "NED",
+                    "name": "Tessie SAVELKOULS"
+                },
+                {
+                    "country": "RUS",
+                    "name": "Anzhela GASPARIAN"
+                },
+                {
+                    "winner": "Tessie SAVELKOULS"
+                }
+            ],
+            [
+                {
+                    "country": "TUR",
+                    "name": "Kubra KARA"
+                },
+                {
+                    "country": "GBR",
+                    "name": "Sarah ADLINGTON"
+                },
+                {
+                    "winner": "Sarah ADLINGTON"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "NED",
+                    "name": "Tessie SAVELKOULS"
+                },
+                {
+                    "country": "GBR",
+                    "name": "Sarah ADLINGTON"
+                }
+            ]
+        ],
+        "final_winner": "Tessie SAVELKOULS"
+    }
+}

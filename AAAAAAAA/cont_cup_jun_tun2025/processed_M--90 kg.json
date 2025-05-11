@@ -1,0 +1,159 @@
+{
+    "POOL A": {
+        "round 1-1": [],
+        "final_winner": "Amir Abbas CHOOPAN"
+    },
+    "POOL B": {
+        "round 1-1": [
+            [
+                {
+                    "country": "EST",
+                    "name": "Kirill KOMIN"
+                },
+                {
+                    "country": "TUN",
+                    "name": "Hamdi BEN AMMAR"
+                }
+            ]
+        ],
+        "final_winner": "Kirill KOMIN"
+    },
+    "POOL C": {
+        "round 1-1": [
+            [
+                {
+                    "country": "ALG",
+                    "name": "Sid Ali BENABOURA"
+                },
+                {
+                    "country": "TUN",
+                    "name": "Houssine BEN MEHREZ"
+                }
+            ]
+        ],
+        "final_winner": "Sid Ali BENABOURA"
+    },
+    "POOL D": {
+        "round 1-1": [
+            [
+                {
+                    "country": "SLO",
+                    "name": "Timotej KOS"
+                },
+                {
+                    "country": "TUN",
+                    "name": "Jassem AYACHI"
+                }
+            ]
+        ],
+        "final_winner": "Jassem AYACHI"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "TUN",
+                    "name": "Hamdi BEN AMMAR"
+                }
+            ],
+            [
+                {
+                    "country": "TUN",
+                    "name": "Houssine BEN MEHREZ"
+                },
+                {
+                    "country": "SLO",
+                    "name": "Timotej KOS"
+                },
+                {
+                    "winner": "Timotej KOS"
+                }
+            ],
+            [
+                {
+                    "country": "TUN",
+                    "name": "Hamdi BEN AMMAR"
+                },
+                {
+                    "country": "TUN",
+                    "name": "Jassem AYACHI"
+                },
+                {
+                    "winner": "Jassem AYACHI"
+                }
+            ],
+            [
+                {
+                    "country": "SLO",
+                    "name": "Timotej KOS"
+                },
+                {
+                    "country": "EST",
+                    "name": "Kirill KOMIN"
+                },
+                {
+                    "winner": "Timotej KOS"
+                }
+            ],
+            [
+                {
+                    "country": "TUN",
+                    "name": "Jassem AYACHI"
+                }
+            ],
+            [
+                {
+                    "country": "SLO",
+                    "name": "Timotej KOS"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Jassem AYACHI",
+            "Timotej KOS"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "IRI",
+                    "name": "Amir Abbas CHOOPAN"
+                },
+                {
+                    "country": "EST",
+                    "name": "Kirill KOMIN"
+                },
+                {
+                    "winner": "Amir Abbas CHOOPAN"
+                }
+            ],
+            [
+                {
+                    "country": "ALG",
+                    "name": "Sid Ali BENABOURA"
+                },
+                {
+                    "country": "TUN",
+                    "name": "Jassem AYACHI"
+                },
+                {
+                    "winner": "Sid Ali BENABOURA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "IRI",
+                    "name": "Amir Abbas CHOOPAN"
+                },
+                {
+                    "country": "ALG",
+                    "name": "Sid Ali BENABOURA"
+                }
+            ]
+        ],
+        "final_winner": "Amir Abbas CHOOPAN"
+    }
+}

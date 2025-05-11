@@ -1,0 +1,261 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ALG",
+                    "name": "Mohamed El Mahdi MASAHEL"
+                },
+                {
+                    "winner": "Mohamed El Mahdi MASAHEL"
+                }
+            ],
+            [
+                {
+                    "country": "KAZ",
+                    "name": "Sherkhan ALPANOV"
+                },
+                {
+                    "winner": "Sherkhan ALPANOV"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "ALG",
+                    "name": "Mohamed El Mahdi MASAHEL"
+                },
+                {
+                    "country": "KAZ",
+                    "name": "Sherkhan ALPANOV"
+                }
+            ]
+        ],
+        "final_winner": "Sherkhan ALPANOV"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "TUN",
+                    "name": "Adem KOUKI"
+                },
+                {
+                    "winner": "Adem KOUKI"
+                }
+            ],
+            [
+                {
+                    "country": "ALG",
+                    "name": "Mohamed Amokrane SEBKI"
+                },
+                {
+                    "winner": "Mohamed Amokrane SEBKI"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "TUN",
+                    "name": "Adem KOUKI"
+                },
+                {
+                    "country": "ALG",
+                    "name": "Mohamed Amokrane SEBKI"
+                }
+            ]
+        ],
+        "final_winner": "Adem KOUKI"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "MAR",
+                    "name": "Zakariae AZIANI"
+                },
+                {
+                    "winner": "Zakariae AZIANI"
+                }
+            ],
+            [
+                {
+                    "country": "ALG",
+                    "name": "Zakaria Essalah LAZRI"
+                },
+                {
+                    "country": "TUN",
+                    "name": "Rayen BEN MAHMOUD"
+                },
+                {
+                    "winner": "Zakaria Essalah LAZRI"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "MAR",
+                    "name": "Zakariae AZIANI"
+                },
+                {
+                    "country": "ALG",
+                    "name": "Zakaria Essalah LAZRI"
+                }
+            ]
+        ],
+        "final_winner": "Zakaria Essalah LAZRI"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "FRA",
+                    "name": "Sami RAMDANI"
+                },
+                {
+                    "winner": "Sami RAMDANI"
+                }
+            ],
+            [
+                {
+                    "country": "KSA",
+                    "name": "Mohammed BU KHAMSIN"
+                },
+                {
+                    "winner": "Mohammed BU KHAMSIN"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "FRA",
+                    "name": "Sami RAMDANI"
+                },
+                {
+                    "country": "KSA",
+                    "name": "Mohammed BU KHAMSIN"
+                }
+            ]
+        ],
+        "final_winner": "Sami RAMDANI"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ALG",
+                    "name": "Mohamed El Mahdi MASAHEL"
+                },
+                {
+                    "country": "ALG",
+                    "name": "Mohamed Amokrane SEBKI"
+                },
+                {
+                    "winner": "Mohamed El Mahdi MASAHEL"
+                }
+            ],
+            [
+                {
+                    "country": "MAR",
+                    "name": "Zakariae AZIANI"
+                },
+                {
+                    "country": "KSA",
+                    "name": "Mohammed BU KHAMSIN"
+                },
+                {
+                    "winner": "Mohammed BU KHAMSIN"
+                }
+            ],
+            [
+                {
+                    "country": "ALG",
+                    "name": "Mohamed El Mahdi MASAHEL"
+                },
+                {
+                    "country": "FRA",
+                    "name": "Sami RAMDANI"
+                },
+                {
+                    "winner": "Mohamed El Mahdi MASAHEL"
+                }
+            ],
+            [
+                {
+                    "country": "KSA",
+                    "name": "Mohammed BU KHAMSIN"
+                },
+                {
+                    "country": "TUN",
+                    "name": "Adem KOUKI"
+                },
+                {
+                    "winner": "Adem KOUKI"
+                }
+            ],
+            [
+                {
+                    "country": "ALG",
+                    "name": "Mohamed El Mahdi MASAHEL"
+                }
+            ],
+            [
+                {
+                    "country": "TUN",
+                    "name": "Adem KOUKI"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Mohamed El Mahdi MASAHEL",
+            "Adem KOUKI"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "KAZ",
+                    "name": "Sherkhan ALPANOV"
+                },
+                {
+                    "country": "TUN",
+                    "name": "Adem KOUKI"
+                },
+                {
+                    "winner": "Sherkhan ALPANOV"
+                }
+            ],
+            [
+                {
+                    "country": "ALG",
+                    "name": "Zakaria Essalah LAZRI"
+                },
+                {
+                    "country": "FRA",
+                    "name": "Sami RAMDANI"
+                },
+                {
+                    "winner": "Zakaria Essalah LAZRI"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "KAZ",
+                    "name": "Sherkhan ALPANOV"
+                },
+                {
+                    "country": "ALG",
+                    "name": "Zakaria Essalah LAZRI"
+                }
+            ]
+        ],
+        "final_winner": "Sherkhan ALPANOV"
+    }
+}

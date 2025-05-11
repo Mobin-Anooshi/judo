@@ -1,0 +1,285 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "PER",
+                    "name": "Dilmer CALLE MOROCHO"
+                },
+                {
+                    "winner": "Dilmer CALLE MOROCHO"
+                }
+            ],
+            [
+                {
+                    "country": "ARG",
+                    "name": "Carlos MALDONADO"
+                },
+                {
+                    "country": "AUS",
+                    "name": "Tom PAPPAS"
+                },
+                {
+                    "winner": "Carlos MALDONADO"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "PER",
+                    "name": "Dilmer CALLE MOROCHO"
+                },
+                {
+                    "country": "ARG",
+                    "name": "Carlos MALDONADO"
+                }
+            ]
+        ],
+        "final_winner": "Dilmer CALLE MOROCHO"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "COL",
+                    "name": "John FUTTINICO"
+                },
+                {
+                    "country": "PER",
+                    "name": "Alexander RAMIREZ"
+                },
+                {
+                    "winner": "John FUTTINICO"
+                }
+            ],
+            [
+                {
+                    "country": "COL",
+                    "name": "Johan ROJAS"
+                },
+                {
+                    "country": "USA",
+                    "name": "Patrick MENDIOLA"
+                },
+                {
+                    "winner": "Johan ROJAS"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "COL",
+                    "name": "John FUTTINICO"
+                },
+                {
+                    "country": "COL",
+                    "name": "Johan ROJAS"
+                }
+            ]
+        ],
+        "final_winner": "John FUTTINICO"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ECU",
+                    "name": "Steven MOROCHO"
+                },
+                {
+                    "country": "PER",
+                    "name": "Omar HUAMANTINCO GUTIERREZ"
+                },
+                {
+                    "winner": "Steven MOROCHO"
+                }
+            ],
+            [
+                {
+                    "country": "CAN",
+                    "name": "Gueorgui POKLITAR"
+                },
+                {
+                    "country": "GUY",
+                    "name": "Darren ELCOCK"
+                },
+                {
+                    "winner": "Gueorgui POKLITAR"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "ECU",
+                    "name": "Steven MOROCHO"
+                },
+                {
+                    "country": "CAN",
+                    "name": "Gueorgui POKLITAR"
+                }
+            ]
+        ],
+        "final_winner": "Gueorgui POKLITAR"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CHI",
+                    "name": "Hugo VERA"
+                },
+                {
+                    "country": "ARG",
+                    "name": "Hernan BIRBRIER"
+                },
+                {
+                    "winner": "Hernan BIRBRIER"
+                }
+            ],
+            [
+                {
+                    "country": "FRA",
+                    "name": "Pierre DUMONTIER"
+                },
+                {
+                    "country": "PER",
+                    "name": "Matias GABALDONI"
+                },
+                {
+                    "winner": "Pierre DUMONTIER"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "ARG",
+                    "name": "Hernan BIRBRIER"
+                },
+                {
+                    "country": "FRA",
+                    "name": "Pierre DUMONTIER"
+                }
+            ]
+        ],
+        "final_winner": "Pierre DUMONTIER"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ARG",
+                    "name": "Carlos MALDONADO"
+                },
+                {
+                    "country": "COL",
+                    "name": "Johan ROJAS"
+                },
+                {
+                    "winner": "Carlos MALDONADO"
+                }
+            ],
+            [
+                {
+                    "country": "ECU",
+                    "name": "Steven MOROCHO"
+                },
+                {
+                    "country": "ARG",
+                    "name": "Hernan BIRBRIER"
+                },
+                {
+                    "winner": "Steven MOROCHO"
+                }
+            ],
+            [
+                {
+                    "country": "ARG",
+                    "name": "Carlos MALDONADO"
+                },
+                {
+                    "country": "FRA",
+                    "name": "Pierre DUMONTIER"
+                },
+                {
+                    "winner": "Carlos MALDONADO"
+                }
+            ],
+            [
+                {
+                    "country": "ECU",
+                    "name": "Steven MOROCHO"
+                },
+                {
+                    "country": "PER",
+                    "name": "Dilmer CALLE MOROCHO"
+                },
+                {
+                    "winner": "Dilmer CALLE MOROCHO"
+                }
+            ],
+            [
+                {
+                    "country": "ARG",
+                    "name": "Carlos MALDONADO"
+                }
+            ],
+            [
+                {
+                    "country": "PER",
+                    "name": "Dilmer CALLE MOROCHO"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Carlos MALDONADO",
+            "Dilmer CALLE MOROCHO"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "PER",
+                    "name": "Dilmer CALLE MOROCHO"
+                },
+                {
+                    "country": "COL",
+                    "name": "John FUTTINICO"
+                },
+                {
+                    "winner": "John FUTTINICO"
+                }
+            ],
+            [
+                {
+                    "country": "CAN",
+                    "name": "Gueorgui POKLITAR"
+                },
+                {
+                    "country": "FRA",
+                    "name": "Pierre DUMONTIER"
+                },
+                {
+                    "winner": "Gueorgui POKLITAR"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "COL",
+                    "name": "John FUTTINICO"
+                },
+                {
+                    "country": "CAN",
+                    "name": "Gueorgui POKLITAR"
+                }
+            ]
+        ],
+        "final_winner": "John FUTTINICO"
+    }
+}

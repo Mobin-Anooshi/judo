@@ -1,0 +1,153 @@
+{
+    "POOL A": {
+        "round 1-1": [],
+        "final_winner": "Dyhia BENCHALLAL"
+    },
+    "POOL B": {
+        "round 1-1": [
+            [
+                {
+                    "country": "ALG",
+                    "name": "Chanez ALIOUANE"
+                },
+                {
+                    "country": "TUN",
+                    "name": "Ons ROMDHANI"
+                }
+            ]
+        ],
+        "final_winner": "Ons ROMDHANI"
+    },
+    "POOL C": {
+        "round 1-1": [
+            [
+                {
+                    "country": "TUN",
+                    "name": "Maram JMOUR"
+                },
+                {
+                    "country": "ALG",
+                    "name": "Lina MOKHBAT"
+                }
+            ]
+        ],
+        "final_winner": "Maram JMOUR"
+    },
+    "POOL D": {
+        "round 1-1": [
+            [
+                {
+                    "country": "ALG",
+                    "name": "Lydia KECHOUT"
+                },
+                {
+                    "country": "GBR",
+                    "name": "Holly DEVALL"
+                }
+            ]
+        ],
+        "final_winner": "Holly DEVALL"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ALG",
+                    "name": "Chanez ALIOUANE"
+                }
+            ],
+            [
+                {
+                    "country": "ALG",
+                    "name": "Lina MOKHBAT"
+                },
+                {
+                    "country": "ALG",
+                    "name": "Lydia KECHOUT"
+                },
+                {
+                    "winner": "Lydia KECHOUT"
+                }
+            ],
+            [
+                {
+                    "country": "ALG",
+                    "name": "Chanez ALIOUANE"
+                },
+                {
+                    "country": "GBR",
+                    "name": "Holly DEVALL"
+                },
+                {
+                    "winner": "Chanez ALIOUANE"
+                }
+            ],
+            [
+                {
+                    "country": "ALG",
+                    "name": "Lydia KECHOUT"
+                },
+                {
+                    "country": "TUN",
+                    "name": "Ons ROMDHANI"
+                },
+                {
+                    "winner": "Ons ROMDHANI"
+                }
+            ],
+            [
+                {
+                    "country": "TUN",
+                    "name": "Ons ROMDHANI"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Lydia KECHOUT",
+            "Chanez ALIOUANE"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ALG",
+                    "name": "Dyhia BENCHALLAL"
+                },
+                {
+                    "country": "TUN",
+                    "name": "Ons ROMDHANI"
+                },
+                {
+                    "winner": "Dyhia BENCHALLAL"
+                }
+            ],
+            [
+                {
+                    "country": "TUN",
+                    "name": "Maram JMOUR"
+                },
+                {
+                    "country": "GBR",
+                    "name": "Holly DEVALL"
+                },
+                {
+                    "winner": "Maram JMOUR"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "ALG",
+                    "name": "Dyhia BENCHALLAL"
+                },
+                {
+                    "country": "TUN",
+                    "name": "Maram JMOUR"
+                }
+            ]
+        ],
+        "final_winner": "Maram JMOUR"
+    }
+}

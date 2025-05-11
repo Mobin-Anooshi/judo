@@ -1,0 +1,159 @@
+{
+    "POOL A": {
+        "round 1-1": [],
+        "final_winner": "Chiheb SAHBENI"
+    },
+    "POOL B": {
+        "round 1-1": [
+            [
+                {
+                    "country": "TUN",
+                    "name": "Yassine GHIRYANI"
+                },
+                {
+                    "country": "LBA",
+                    "name": "Moayed ALSUWAE"
+                }
+            ]
+        ],
+        "final_winner": "Yassine GHIRYANI"
+    },
+    "POOL C": {
+        "round 1-1": [
+            [
+                {
+                    "country": "TJK",
+                    "name": "Roshid NEMATOV"
+                },
+                {
+                    "country": "TUN",
+                    "name": "Yassine SELMI"
+                }
+            ]
+        ],
+        "final_winner": "Roshid NEMATOV"
+    },
+    "POOL D": {
+        "round 1-1": [
+            [
+                {
+                    "country": "MAR",
+                    "name": "Rayane BOUKOURATE"
+                },
+                {
+                    "country": "LBA",
+                    "name": "Asim DAW"
+                }
+            ]
+        ],
+        "final_winner": "Rayane BOUKOURATE"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "LBA",
+                    "name": "Moayed ALSUWAE"
+                }
+            ],
+            [
+                {
+                    "country": "TUN",
+                    "name": "Yassine SELMI"
+                },
+                {
+                    "country": "LBA",
+                    "name": "Asim DAW"
+                },
+                {
+                    "winner": "Yassine SELMI"
+                }
+            ],
+            [
+                {
+                    "country": "LBA",
+                    "name": "Moayed ALSUWAE"
+                },
+                {
+                    "country": "TJK",
+                    "name": "Roshid NEMATOV"
+                },
+                {
+                    "winner": "Roshid NEMATOV"
+                }
+            ],
+            [
+                {
+                    "country": "TUN",
+                    "name": "Yassine SELMI"
+                },
+                {
+                    "country": "TUN",
+                    "name": "Chiheb SAHBENI"
+                },
+                {
+                    "winner": "Chiheb SAHBENI"
+                }
+            ],
+            [
+                {
+                    "country": "TJK",
+                    "name": "Roshid NEMATOV"
+                }
+            ],
+            [
+                {
+                    "country": "TUN",
+                    "name": "Chiheb SAHBENI"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Roshid NEMATOV",
+            "Chiheb SAHBENI"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "TUN",
+                    "name": "Chiheb SAHBENI"
+                },
+                {
+                    "country": "TUN",
+                    "name": "Yassine GHIRYANI"
+                },
+                {
+                    "winner": "Yassine GHIRYANI"
+                }
+            ],
+            [
+                {
+                    "country": "TJK",
+                    "name": "Roshid NEMATOV"
+                },
+                {
+                    "country": "MAR",
+                    "name": "Rayane BOUKOURATE"
+                },
+                {
+                    "winner": "Rayane BOUKOURATE"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "TUN",
+                    "name": "Yassine GHIRYANI"
+                },
+                {
+                    "country": "MAR",
+                    "name": "Rayane BOUKOURATE"
+                }
+            ]
+        ],
+        "final_winner": "Rayane BOUKOURATE"
+    }
+}

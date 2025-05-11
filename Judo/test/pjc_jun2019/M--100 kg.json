@@ -1,0 +1,238 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CHI",
+                    "name": "Bryan HERNANDEZ"
+                },
+                {
+                    "winner": "Bryan HERNANDEZ"
+                }
+            ],
+            []
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "CHI",
+                    "name": "Bryan HERNANDEZ"
+                }
+            ]
+        ]
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "USA",
+                    "name": "Andrew WILLIAMS"
+                },
+                {
+                    "winner": "Andrew WILLIAMS"
+                }
+            ],
+            [
+                {
+                    "country": "COL",
+                    "name": "Elmer OREJUELA"
+                },
+                {
+                    "winner": "Elmer OREJUELA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "USA",
+                    "name": "Andrew WILLIAMS"
+                },
+                {
+                    "country": "COL",
+                    "name": "Elmer OREJUELA"
+                }
+            ],
+            [
+                {
+                    "country": "USA",
+                    "name": "Andrew WILLIAMS"
+                }
+            ]
+        ]
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Lucas LIMA"
+                },
+                {
+                    "winner": "Lucas LIMA"
+                }
+            ],
+            []
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Lucas LIMA"
+                }
+            ]
+        ]
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ECU",
+                    "name": "Junior ANGULO"
+                },
+                {
+                    "winner": "Junior ANGULO"
+                }
+            ],
+            [
+                {
+                    "country": "MEX",
+                    "name": "Ramon FLORES"
+                },
+                {
+                    "winner": "Ramon FLORES"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "ECU",
+                    "name": "Junior ANGULO"
+                },
+                {
+                    "country": "MEX",
+                    "name": "Ramon FLORES"
+                }
+            ],
+            [
+                {
+                    "country": "ECU",
+                    "name": "Junior ANGULO"
+                }
+            ]
+        ]
+    },
+    "REPECHAGE": {
+        "round 1-4": [
+            [],
+            [
+                {
+                    "country": "COL",
+                    "name": "Elmer OREJUELA"
+                },
+                {
+                    "winner": "Elmer OREJUELA"
+                }
+            ],
+            [],
+            [
+                {
+                    "country": "MEX",
+                    "name": "Ramon FLORES"
+                },
+                {
+                    "winner": "Ramon FLORES"
+                }
+            ]
+        ],
+        "round 1-2": [
+            [
+                {
+                    "country": "COL",
+                    "name": "Elmer OREJUELA"
+                }
+            ],
+            [
+                {
+                    "country": "MEX",
+                    "name": "Ramon FLORES"
+                }
+            ],
+            [
+                {
+                    "country": "COL",
+                    "name": "Elmer OREJUELA"
+                },
+                {
+                    "country": "ECU",
+                    "name": "Junior ANGULO"
+                }
+            ],
+            [
+                {
+                    "country": "MEX",
+                    "name": "Ramon FLORES"
+                },
+                {
+                    "country": "CHI",
+                    "name": "Bryan HERNANDEZ"
+                }
+            ],
+            [
+                {
+                    "country": "ECU",
+                    "name": "Junior ANGULO"
+                }
+            ]
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CHI",
+                    "name": "Bryan HERNANDEZ"
+                },
+                {
+                    "country": "USA",
+                    "name": "Andrew WILLIAMS"
+                },
+                {
+                    "winner": "Andrew WILLIAMS"
+                }
+            ],
+            [
+                {
+                    "country": "BRA",
+                    "name": "Lucas LIMA"
+                },
+                {
+                    "country": "ECU",
+                    "name": "Junior ANGULO"
+                },
+                {
+                    "winner": "Lucas LIMA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "USA",
+                    "name": "Andrew WILLIAMS"
+                },
+                {
+                    "country": "BRA",
+                    "name": "Lucas LIMA"
+                }
+            ],
+            [
+                {
+                    "country": "BRA",
+                    "name": "Lucas LIMA"
+                }
+            ]
+        ]
+    }
+}

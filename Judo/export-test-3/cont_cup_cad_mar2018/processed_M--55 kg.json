@@ -1,0 +1,87 @@
+{
+    "POOL A": {
+        "round 1-3": [
+            [
+                {
+                    "country": "BLR",
+                    "name": "Artsiom KOLASAU"
+                },
+                {
+                    "country": "UKR",
+                    "name": "Oleh VEREDYBA"
+                },
+                {
+                    "winner": "Artsiom KOLASAU"
+                }
+            ],
+            [
+                {
+                    "country": "BLR",
+                    "name": "Artsiom KOLASAU"
+                },
+                {
+                    "country": "MAR",
+                    "name": "Hamza ELMORSLI"
+                },
+                {
+                    "winner": "Hamza ELMORSLI"
+                }
+            ],
+            [
+                {
+                    "country": "UKR",
+                    "name": "Oleh VEREDYBA"
+                },
+                {
+                    "country": "MAR",
+                    "name": "Hamza ELMORSLI"
+                },
+                {
+                    "winner": "Oleh VEREDYBA"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Artsiom KOLASAU",
+            "Oleh VEREDYBA"
+        ]
+    },
+    "POOL B": {
+        "round 1-1": [],
+        "final_winners": [
+            "Aleddine BEN CHALBI"
+        ]
+    },
+    "REPECHAGE": {
+        "round 1-1": [
+            [
+                {
+                    "country": "UKR",
+                    "name": "Oleh VEREDYBA"
+                },
+                {
+                    "country": "ALG",
+                    "name": "Abdelatif El-Mahdi BOUBETRA"
+                },
+                {
+                    "winner": "Oleh VEREDYBA"
+                }
+            ],
+            [
+                {
+                    "country": "UKR",
+                    "name": "Oleh VEREDYBA"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Oleh VEREDYBA"
+        ]
+    },
+    "FINALS": {
+        "round 1-1": [],
+        "final_winners": [
+            "Artsiom KOLASAU"
+        ]
+    }
+}

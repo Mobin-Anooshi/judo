@@ -1,0 +1,261 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "NED",
+                    "name": "Carmen DIJKSTRA"
+                },
+                {
+                    "winner": "Carmen DIJKSTRA"
+                }
+            ],
+            []
+        ],
+        "round 1-1": [],
+        "final_winner": "Carmen DIJKSTRA"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ITA",
+                    "name": "Erica SIMONETTI"
+                },
+                {
+                    "winner": "Erica SIMONETTI"
+                }
+            ],
+            [
+                {
+                    "country": "RUS",
+                    "name": "Valeriya TARATUNINA"
+                },
+                {
+                    "winner": "Valeriya TARATUNINA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "ITA",
+                    "name": "Erica SIMONETTI"
+                },
+                {
+                    "country": "RUS",
+                    "name": "Valeriya TARATUNINA"
+                }
+            ]
+        ],
+        "final_winner": "Erica SIMONETTI"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "RUS",
+                    "name": "Alana ALBOROVA"
+                },
+                {
+                    "winner": "Alana ALBOROVA"
+                }
+            ],
+            [
+                {
+                    "country": "ITA",
+                    "name": "Tiziana MARINI"
+                },
+                {
+                    "winner": "Tiziana MARINI"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "RUS",
+                    "name": "Alana ALBOROVA"
+                },
+                {
+                    "country": "ITA",
+                    "name": "Tiziana MARINI"
+                }
+            ]
+        ],
+        "final_winner": "Alana ALBOROVA"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ITA",
+                    "name": "Asya TAVANO"
+                },
+                {
+                    "winner": "Asya TAVANO"
+                }
+            ],
+            [
+                {
+                    "country": "SLO",
+                    "name": "Nicki NORCIC"
+                },
+                {
+                    "winner": "Nicki NORCIC"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "ITA",
+                    "name": "Asya TAVANO"
+                },
+                {
+                    "country": "SLO",
+                    "name": "Nicki NORCIC"
+                }
+            ]
+        ],
+        "final_winner": "Asya TAVANO"
+    },
+    "REPECHAGE": {
+        "round 1-4": [
+            [],
+            [
+                {
+                    "country": "RUS",
+                    "name": "Valeriya TARATUNINA"
+                },
+                {
+                    "winner": "Valeriya TARATUNINA"
+                }
+            ],
+            [
+                {
+                    "country": "ITA",
+                    "name": "Tiziana MARINI"
+                },
+                {
+                    "winner": "Tiziana MARINI"
+                }
+            ],
+            [
+                {
+                    "country": "SLO",
+                    "name": "Nicki NORCIC"
+                },
+                {
+                    "winner": "Nicki NORCIC"
+                }
+            ]
+        ],
+        "round 1-2": [
+            [
+                {
+                    "country": "RUS",
+                    "name": "Valeriya TARATUNINA"
+                }
+            ],
+            [
+                {
+                    "country": "ITA",
+                    "name": "Tiziana MARINI"
+                },
+                {
+                    "country": "SLO",
+                    "name": "Nicki NORCIC"
+                },
+                {
+                    "winner": "Nicki NORCIC"
+                }
+            ],
+            [
+                {
+                    "country": "RUS",
+                    "name": "Valeriya TARATUNINA"
+                },
+                {
+                    "country": "RUS",
+                    "name": "Alana ALBOROVA"
+                },
+                {
+                    "winner": "Alana ALBOROVA"
+                }
+            ],
+            [
+                {
+                    "country": "SLO",
+                    "name": "Nicki NORCIC"
+                },
+                {
+                    "country": "ITA",
+                    "name": "Erica SIMONETTI"
+                },
+                {
+                    "winner": "Nicki NORCIC"
+                }
+            ],
+            [
+                {
+                    "country": "RUS",
+                    "name": "Alana ALBOROVA"
+                }
+            ],
+            [
+                {
+                    "country": "SLO",
+                    "name": "Nicki NORCIC"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Alana ALBOROVA",
+            "Nicki NORCIC"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "NED",
+                    "name": "Carmen DIJKSTRA"
+                },
+                {
+                    "country": "ITA",
+                    "name": "Erica SIMONETTI"
+                },
+                {
+                    "winner": "Carmen DIJKSTRA"
+                }
+            ],
+            [
+                {
+                    "country": "RUS",
+                    "name": "Alana ALBOROVA"
+                },
+                {
+                    "country": "ITA",
+                    "name": "Asya TAVANO"
+                },
+                {
+                    "winner": "Asya TAVANO"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "NED",
+                    "name": "Carmen DIJKSTRA"
+                },
+                {
+                    "country": "ITA",
+                    "name": "Asya TAVANO"
+                }
+            ]
+        ],
+        "final_winner": "Carmen DIJKSTRA"
+    }
+}

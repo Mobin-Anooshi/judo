@@ -1,0 +1,159 @@
+{
+    "POOL A": {
+        "round 1-1": [],
+        "final_winner": "Beatriz SOUZA"
+    },
+    "POOL B": {
+        "round 1-1": [
+            [
+                {
+                    "country": "RUS",
+                    "name": "Anzhela GASPARIAN"
+                },
+                {
+                    "country": "MGL",
+                    "name": "Adiyasuren AMARSAIKHAN"
+                }
+            ]
+        ],
+        "final_winner": "Adiyasuren AMARSAIKHAN"
+    },
+    "POOL C": {
+        "round 1-1": [
+            [
+                {
+                    "country": "ISR",
+                    "name": "Raz HERSHKO"
+                },
+                {
+                    "country": "TUR",
+                    "name": "Hilal OZTURK"
+                }
+            ]
+        ],
+        "final_winner": "Raz HERSHKO"
+    },
+    "POOL D": {
+        "round 1-1": [
+            [
+                {
+                    "country": "FRA",
+                    "name": "Lea FONTAINE"
+                },
+                {
+                    "country": "FRA",
+                    "name": "Coralie HAYME"
+                }
+            ]
+        ],
+        "final_winner": "Lea FONTAINE"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "RUS",
+                    "name": "Anzhela GASPARIAN"
+                }
+            ],
+            [
+                {
+                    "country": "TUR",
+                    "name": "Hilal OZTURK"
+                },
+                {
+                    "country": "FRA",
+                    "name": "Coralie HAYME"
+                },
+                {
+                    "winner": "Coralie HAYME"
+                }
+            ],
+            [
+                {
+                    "country": "RUS",
+                    "name": "Anzhela GASPARIAN"
+                },
+                {
+                    "country": "ISR",
+                    "name": "Raz HERSHKO"
+                },
+                {
+                    "winner": "Raz HERSHKO"
+                }
+            ],
+            [
+                {
+                    "country": "FRA",
+                    "name": "Coralie HAYME"
+                },
+                {
+                    "country": "MGL",
+                    "name": "Adiyasuren AMARSAIKHAN"
+                },
+                {
+                    "winner": "Coralie HAYME"
+                }
+            ],
+            [
+                {
+                    "country": "ISR",
+                    "name": "Raz HERSHKO"
+                }
+            ],
+            [
+                {
+                    "country": "FRA",
+                    "name": "Coralie HAYME"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Raz HERSHKO",
+            "Coralie HAYME"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Beatriz SOUZA"
+                },
+                {
+                    "country": "MGL",
+                    "name": "Adiyasuren AMARSAIKHAN"
+                },
+                {
+                    "winner": "Beatriz SOUZA"
+                }
+            ],
+            [
+                {
+                    "country": "ISR",
+                    "name": "Raz HERSHKO"
+                },
+                {
+                    "country": "FRA",
+                    "name": "Lea FONTAINE"
+                },
+                {
+                    "winner": "Lea FONTAINE"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Beatriz SOUZA"
+                },
+                {
+                    "country": "FRA",
+                    "name": "Lea FONTAINE"
+                }
+            ]
+        ],
+        "final_winner": "Beatriz SOUZA"
+    }
+}

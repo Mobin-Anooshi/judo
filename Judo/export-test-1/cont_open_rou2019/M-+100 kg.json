@@ -1,0 +1,269 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "GEO",
+                    "name": "Guram TUSHISHVILI"
+                },
+                {
+                    "winner": "Guram TUSHISHVILI"
+                }
+            ],
+            [
+                {
+                    "country": "ITA",
+                    "name": "Tiziano DI FEDERICO"
+                },
+                {
+                    "country": "ROU",
+                    "name": "Botond KONCZ"
+                },
+                {
+                    "winner": "Botond KONCZ"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "GEO",
+                    "name": "Guram TUSHISHVILI"
+                },
+                {
+                    "country": "ROU",
+                    "name": "Botond KONCZ"
+                }
+            ]
+        ],
+        "final_winner": "Guram TUSHISHVILI"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "UKR",
+                    "name": "Fedir PANKO"
+                },
+                {
+                    "winner": "Fedir PANKO"
+                }
+            ],
+            [
+                {
+                    "country": "CRO",
+                    "name": "Ivan COVIC"
+                },
+                {
+                    "winner": "Ivan COVIC"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "UKR",
+                    "name": "Fedir PANKO"
+                },
+                {
+                    "country": "CRO",
+                    "name": "Ivan COVIC"
+                }
+            ]
+        ],
+        "final_winner": "Fedir PANKO"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ROU",
+                    "name": "Mircea CROITORU"
+                },
+                {
+                    "winner": "Mircea CROITORU"
+                }
+            ],
+            [
+                {
+                    "country": "UKR",
+                    "name": "Leonid GASYUK"
+                },
+                {
+                    "country": "ITA",
+                    "name": "Davide POZZI"
+                },
+                {
+                    "winner": "Leonid GASYUK"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "ROU",
+                    "name": "Mircea CROITORU"
+                },
+                {
+                    "country": "UKR",
+                    "name": "Leonid GASYUK"
+                }
+            ]
+        ],
+        "final_winner": "Mircea CROITORU"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ESP",
+                    "name": "Irinel Vasile CHELARU GRIGORAS"
+                },
+                {
+                    "winner": "Irinel Vasile CHELARU GRIGORAS"
+                }
+            ],
+            [
+                {
+                    "country": "UKR",
+                    "name": "Nodar MACHUTADZE"
+                },
+                {
+                    "country": "HUN",
+                    "name": "Richard WACZULIK"
+                },
+                {
+                    "winner": "Nodar MACHUTADZE"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "ESP",
+                    "name": "Irinel Vasile CHELARU GRIGORAS"
+                },
+                {
+                    "country": "UKR",
+                    "name": "Nodar MACHUTADZE"
+                }
+            ]
+        ],
+        "final_winner": "Irinel Vasile CHELARU GRIGORAS"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ROU",
+                    "name": "Botond KONCZ"
+                },
+                {
+                    "country": "CRO",
+                    "name": "Ivan COVIC"
+                },
+                {
+                    "winner": "Ivan COVIC"
+                }
+            ],
+            [
+                {
+                    "country": "UKR",
+                    "name": "Leonid GASYUK"
+                },
+                {
+                    "country": "UKR",
+                    "name": "Nodar MACHUTADZE"
+                },
+                {
+                    "winner": "Nodar MACHUTADZE"
+                }
+            ],
+            [
+                {
+                    "country": "CRO",
+                    "name": "Ivan COVIC"
+                },
+                {
+                    "country": "ESP",
+                    "name": "Irinel Vasile CHELARU GRIGORAS"
+                },
+                {
+                    "winner": "Irinel Vasile CHELARU GRIGORAS"
+                }
+            ],
+            [
+                {
+                    "country": "UKR",
+                    "name": "Nodar MACHUTADZE"
+                },
+                {
+                    "country": "UKR",
+                    "name": "Fedir PANKO"
+                },
+                {
+                    "winner": "Fedir PANKO"
+                }
+            ],
+            [
+                {
+                    "country": "ESP",
+                    "name": "Irinel Vasile CHELARU GRIGORAS"
+                }
+            ],
+            [
+                {
+                    "country": "UKR",
+                    "name": "Fedir PANKO"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Irinel Vasile CHELARU GRIGORAS",
+            "Fedir PANKO"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "GEO",
+                    "name": "Guram TUSHISHVILI"
+                },
+                {
+                    "country": "UKR",
+                    "name": "Fedir PANKO"
+                },
+                {
+                    "winner": "Guram TUSHISHVILI"
+                }
+            ],
+            [
+                {
+                    "country": "ROU",
+                    "name": "Mircea CROITORU"
+                },
+                {
+                    "country": "ESP",
+                    "name": "Irinel Vasile CHELARU GRIGORAS"
+                },
+                {
+                    "winner": "Mircea CROITORU"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "GEO",
+                    "name": "Guram TUSHISHVILI"
+                },
+                {
+                    "country": "ROU",
+                    "name": "Mircea CROITORU"
+                }
+            ]
+        ],
+        "final_winner": "Guram TUSHISHVILI"
+    }
+}

@@ -1,0 +1,159 @@
+{
+    "POOL A": {
+        "round 1-1": [],
+        "final_winner": "Nemesis CANDELO"
+    },
+    "POOL B": {
+        "round 1-1": [
+            [
+                {
+                    "country": "DOM",
+                    "name": "Liliana GUERRERO"
+                },
+                {
+                    "country": "DOM",
+                    "name": "Elianny FELIZ"
+                }
+            ]
+        ],
+        "final_winner": "Liliana GUERRERO"
+    },
+    "POOL C": {
+        "round 1-1": [
+            [
+                {
+                    "country": "VEN",
+                    "name": "Maria GIMENEZ"
+                },
+                {
+                    "country": "DOM",
+                    "name": "Julia BAEZ"
+                }
+            ]
+        ],
+        "final_winner": "Maria GIMENEZ"
+    },
+    "POOL D": {
+        "round 1-1": [
+            [
+                {
+                    "country": "DOM",
+                    "name": "Jessica MARTINEZ ASENCIO"
+                },
+                {
+                    "country": "DOM",
+                    "name": "Francia SALAS PAULINO"
+                }
+            ]
+        ],
+        "final_winner": "Jessica MARTINEZ ASENCIO"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "DOM",
+                    "name": "Elianny FELIZ"
+                }
+            ],
+            [
+                {
+                    "country": "DOM",
+                    "name": "Julia BAEZ"
+                },
+                {
+                    "country": "DOM",
+                    "name": "Francia SALAS PAULINO"
+                },
+                {
+                    "winner": "Francia SALAS PAULINO"
+                }
+            ],
+            [
+                {
+                    "country": "DOM",
+                    "name": "Elianny FELIZ"
+                },
+                {
+                    "country": "DOM",
+                    "name": "Jessica MARTINEZ ASENCIO"
+                },
+                {
+                    "winner": "Jessica MARTINEZ ASENCIO"
+                }
+            ],
+            [
+                {
+                    "country": "DOM",
+                    "name": "Francia SALAS PAULINO"
+                },
+                {
+                    "country": "DOM",
+                    "name": "Liliana GUERRERO"
+                },
+                {
+                    "winner": "Liliana GUERRERO"
+                }
+            ],
+            [
+                {
+                    "country": "DOM",
+                    "name": "Jessica MARTINEZ ASENCIO"
+                }
+            ],
+            [
+                {
+                    "country": "DOM",
+                    "name": "Liliana GUERRERO"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Jessica MARTINEZ ASENCIO",
+            "Liliana GUERRERO"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "PAN",
+                    "name": "Nemesis CANDELO"
+                },
+                {
+                    "country": "DOM",
+                    "name": "Liliana GUERRERO"
+                },
+                {
+                    "winner": "Nemesis CANDELO"
+                }
+            ],
+            [
+                {
+                    "country": "VEN",
+                    "name": "Maria GIMENEZ"
+                },
+                {
+                    "country": "DOM",
+                    "name": "Jessica MARTINEZ ASENCIO"
+                },
+                {
+                    "winner": "Maria GIMENEZ"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "PAN",
+                    "name": "Nemesis CANDELO"
+                },
+                {
+                    "country": "VEN",
+                    "name": "Maria GIMENEZ"
+                }
+            ]
+        ],
+        "final_winner": "Maria GIMENEZ"
+    }
+}

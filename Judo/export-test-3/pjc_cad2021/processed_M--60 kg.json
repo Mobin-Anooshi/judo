@@ -1,0 +1,87 @@
+{
+    "POOL A": {
+        "round 1-3": [
+            [
+                {
+                    "country": "COL",
+                    "name": "Oscar MORATO"
+                },
+                {
+                    "country": "MEX",
+                    "name": "Juan Pablo RAMIREZ"
+                },
+                {
+                    "winner": "Oscar MORATO"
+                }
+            ],
+            [
+                {
+                    "country": "COL",
+                    "name": "Oscar MORATO"
+                },
+                {
+                    "country": "CRC",
+                    "name": "Brandon SALAS"
+                },
+                {
+                    "winner": "Brandon SALAS"
+                }
+            ],
+            [
+                {
+                    "country": "MEX",
+                    "name": "Juan Pablo RAMIREZ"
+                },
+                {
+                    "country": "CRC",
+                    "name": "Brandon SALAS"
+                },
+                {
+                    "winner": "Juan Pablo RAMIREZ"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Oscar MORATO",
+            "Juan Pablo RAMIREZ"
+        ]
+    },
+    "POOL B": {
+        "round 1-1": [],
+        "final_winners": [
+            "Kevin AYALA"
+        ]
+    },
+    "REPECHAGE": {
+        "round 1-1": [
+            [
+                {
+                    "country": "MEX",
+                    "name": "Juan Pablo RAMIREZ"
+                },
+                {
+                    "country": "COL",
+                    "name": "Jhordan VANEGAS"
+                },
+                {
+                    "winner": "Juan Pablo RAMIREZ"
+                }
+            ],
+            [
+                {
+                    "country": "MEX",
+                    "name": "Juan Pablo RAMIREZ"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Juan Pablo RAMIREZ"
+        ]
+    },
+    "FINALS": {
+        "round 1-1": [],
+        "final_winners": [
+            "Kevin AYALA"
+        ]
+    }
+}

@@ -1,0 +1,238 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CRC",
+                    "name": "Diana BRENES"
+                },
+                {
+                    "winner": "Diana BRENES"
+                }
+            ],
+            [
+                {
+                    "country": "BRA",
+                    "name": "Anny RIBEIRO"
+                },
+                {
+                    "winner": "Anny RIBEIRO"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "CRC",
+                    "name": "Diana BRENES"
+                },
+                {
+                    "country": "BRA",
+                    "name": "Anny RIBEIRO"
+                }
+            ],
+            [
+                {
+                    "country": "CRC",
+                    "name": "Diana BRENES"
+                }
+            ]
+        ]
+    },
+    "POOL B": {
+        "round 1-2": [
+            [],
+            [
+                {
+                    "country": "PER",
+                    "name": "Xsara MORALES FALCONI"
+                },
+                {
+                    "winner": "Xsara MORALES FALCONI"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "PER",
+                    "name": "Xsara MORALES FALCONI"
+                }
+            ]
+        ]
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ARG",
+                    "name": "Debora CAMPO"
+                },
+                {
+                    "winner": "Debora CAMPO"
+                }
+            ],
+            [
+                {
+                    "country": "CHI",
+                    "name": "Romina DONOSO"
+                },
+                {
+                    "winner": "Romina DONOSO"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "ARG",
+                    "name": "Debora CAMPO"
+                },
+                {
+                    "country": "CHI",
+                    "name": "Romina DONOSO"
+                }
+            ],
+            [
+                {
+                    "country": "ARG",
+                    "name": "Debora CAMPO"
+                }
+            ]
+        ]
+    },
+    "POOL D": {
+        "round 1-2": [
+            [],
+            [
+                {
+                    "country": "MEX",
+                    "name": "Liliana CARDENAS"
+                },
+                {
+                    "winner": "Liliana CARDENAS"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "MEX",
+                    "name": "Liliana CARDENAS"
+                }
+            ]
+        ]
+    },
+    "REPECHAGE": {
+        "round 1-4": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Anny RIBEIRO"
+                },
+                {
+                    "winner": "Anny RIBEIRO"
+                }
+            ],
+            [],
+            [
+                {
+                    "country": "CHI",
+                    "name": "Romina DONOSO"
+                },
+                {
+                    "winner": "Romina DONOSO"
+                }
+            ],
+            []
+        ],
+        "round 1-2": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Anny RIBEIRO"
+                }
+            ],
+            [
+                {
+                    "country": "CHI",
+                    "name": "Romina DONOSO"
+                }
+            ],
+            [
+                {
+                    "country": "BRA",
+                    "name": "Anny RIBEIRO"
+                },
+                {
+                    "country": "ARG",
+                    "name": "Debora CAMPO"
+                }
+            ],
+            [
+                {
+                    "country": "CHI",
+                    "name": "Romina DONOSO"
+                },
+                {
+                    "country": "PER",
+                    "name": "Xsara MORALES FALCONI"
+                }
+            ],
+            [
+                {
+                    "country": "PER",
+                    "name": "Xsara MORALES FALCONI"
+                }
+            ]
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CRC",
+                    "name": "Diana BRENES"
+                },
+                {
+                    "country": "PER",
+                    "name": "Xsara MORALES FALCONI"
+                },
+                {
+                    "winner": "Diana BRENES"
+                }
+            ],
+            [
+                {
+                    "country": "ARG",
+                    "name": "Debora CAMPO"
+                },
+                {
+                    "country": "MEX",
+                    "name": "Liliana CARDENAS"
+                },
+                {
+                    "winner": "Liliana CARDENAS"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "CRC",
+                    "name": "Diana BRENES"
+                },
+                {
+                    "country": "MEX",
+                    "name": "Liliana CARDENAS"
+                }
+            ],
+            [
+                {
+                    "country": "MEX",
+                    "name": "Liliana CARDENAS"
+                }
+            ]
+        ]
+    }
+}

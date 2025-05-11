@@ -1,0 +1,277 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "THA",
+                    "name": "Sahadsawas RIANTHONG"
+                },
+                {
+                    "winner": "Sahadsawas RIANTHONG"
+                }
+            ],
+            [
+                {
+                    "country": "UZB",
+                    "name": "Shakhzod OCHILOV"
+                },
+                {
+                    "country": "UAE",
+                    "name": "Ahmed AL NAQBI"
+                },
+                {
+                    "winner": "Shakhzod OCHILOV"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "THA",
+                    "name": "Sahadsawas RIANTHONG"
+                },
+                {
+                    "country": "UZB",
+                    "name": "Shakhzod OCHILOV"
+                }
+            ]
+        ],
+        "final_winner": "Shakhzod OCHILOV"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "TJK",
+                    "name": "Umed ASMATULLOBEKOV"
+                },
+                {
+                    "winner": "Umed ASMATULLOBEKOV"
+                }
+            ],
+            [
+                {
+                    "country": "TPE",
+                    "name": "Tzu-lung PENG"
+                },
+                {
+                    "country": "KSA",
+                    "name": "Abdullah ALBARAKATI"
+                },
+                {
+                    "winner": "Tzu-lung PENG"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "TJK",
+                    "name": "Umed ASMATULLOBEKOV"
+                },
+                {
+                    "country": "TPE",
+                    "name": "Tzu-lung PENG"
+                }
+            ]
+        ],
+        "final_winner": "Tzu-lung PENG"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "NEP",
+                    "name": "Laxman GC"
+                },
+                {
+                    "winner": "Laxman GC"
+                }
+            ],
+            [
+                {
+                    "country": "MAC",
+                    "name": "Chi in LEI"
+                },
+                {
+                    "country": "KGZ",
+                    "name": "Timur KUMURKULOV"
+                },
+                {
+                    "winner": "Timur KUMURKULOV"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "NEP",
+                    "name": "Laxman GC"
+                },
+                {
+                    "country": "KGZ",
+                    "name": "Timur KUMURKULOV"
+                }
+            ]
+        ],
+        "final_winner": "Timur KUMURKULOV"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "IRI",
+                    "name": "Mehdi AYOUBI"
+                },
+                {
+                    "country": "KAZ",
+                    "name": "Damir BOLATBEKOV"
+                },
+                {
+                    "winner": "Damir BOLATBEKOV"
+                }
+            ],
+            [
+                {
+                    "country": "IND",
+                    "name": "Somorjit Singh NONGMEIKAPAM"
+                },
+                {
+                    "country": "IRQ",
+                    "name": "Ali gatea MOHAMMEDAWI"
+                },
+                {
+                    "winner": "Somorjit Singh NONGMEIKAPAM"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "KAZ",
+                    "name": "Damir BOLATBEKOV"
+                },
+                {
+                    "country": "IND",
+                    "name": "Somorjit Singh NONGMEIKAPAM"
+                }
+            ]
+        ],
+        "final_winner": "Damir BOLATBEKOV"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "THA",
+                    "name": "Sahadsawas RIANTHONG"
+                },
+                {
+                    "country": "TJK",
+                    "name": "Umed ASMATULLOBEKOV"
+                },
+                {
+                    "winner": "Umed ASMATULLOBEKOV"
+                }
+            ],
+            [
+                {
+                    "country": "NEP",
+                    "name": "Laxman GC"
+                },
+                {
+                    "country": "IND",
+                    "name": "Somorjit Singh NONGMEIKAPAM"
+                },
+                {
+                    "winner": "Somorjit Singh NONGMEIKAPAM"
+                }
+            ],
+            [
+                {
+                    "country": "TJK",
+                    "name": "Umed ASMATULLOBEKOV"
+                },
+                {
+                    "country": "KGZ",
+                    "name": "Timur KUMURKULOV"
+                },
+                {
+                    "winner": "Timur KUMURKULOV"
+                }
+            ],
+            [
+                {
+                    "country": "IND",
+                    "name": "Somorjit Singh NONGMEIKAPAM"
+                },
+                {
+                    "country": "TPE",
+                    "name": "Tzu-lung PENG"
+                },
+                {
+                    "winner": "Somorjit Singh NONGMEIKAPAM"
+                }
+            ],
+            [
+                {
+                    "country": "KGZ",
+                    "name": "Timur KUMURKULOV"
+                }
+            ],
+            [
+                {
+                    "country": "IND",
+                    "name": "Somorjit Singh NONGMEIKAPAM"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Timur KUMURKULOV",
+            "Somorjit Singh NONGMEIKAPAM"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "UZB",
+                    "name": "Shakhzod OCHILOV"
+                },
+                {
+                    "country": "TPE",
+                    "name": "Tzu-lung PENG"
+                },
+                {
+                    "winner": "Shakhzod OCHILOV"
+                }
+            ],
+            [
+                {
+                    "country": "KGZ",
+                    "name": "Timur KUMURKULOV"
+                },
+                {
+                    "country": "KAZ",
+                    "name": "Damir BOLATBEKOV"
+                },
+                {
+                    "winner": "Damir BOLATBEKOV"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "UZB",
+                    "name": "Shakhzod OCHILOV"
+                },
+                {
+                    "country": "KAZ",
+                    "name": "Damir BOLATBEKOV"
+                }
+            ]
+        ],
+        "final_winner": "Damir BOLATBEKOV"
+    }
+}

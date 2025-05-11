@@ -1,0 +1,281 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Gabriel FALCAO"
+                },
+                {
+                    "winner": "Gabriel FALCAO"
+                }
+            ],
+            [
+                {
+                    "country": "CHI",
+                    "name": "Tomas HERNANDEZ"
+                },
+                {
+                    "country": "ARG",
+                    "name": "Karim ADARVEZ"
+                },
+                {
+                    "winner": "Karim ADARVEZ"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Gabriel FALCAO"
+                },
+                {
+                    "country": "ARG",
+                    "name": "Karim ADARVEZ"
+                }
+            ]
+        ],
+        "final_winner": "Gabriel FALCAO"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ARG",
+                    "name": "Matteo ETCHECHURY"
+                },
+                {
+                    "country": "CHI",
+                    "name": "Humberto AGUILAR"
+                },
+                {
+                    "winner": "Matteo ETCHECHURY"
+                }
+            ],
+            [
+                {
+                    "country": "CHI",
+                    "name": "Juan Pablo VEGA"
+                },
+                {
+                    "country": "CAN",
+                    "name": "Yanis HACHEMI"
+                },
+                {
+                    "winner": "Yanis HACHEMI"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "ARG",
+                    "name": "Matteo ETCHECHURY"
+                },
+                {
+                    "country": "CAN",
+                    "name": "Yanis HACHEMI"
+                }
+            ]
+        ],
+        "final_winner": "Yanis HACHEMI"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Jeferson SANTOS JUNIOR"
+                },
+                {
+                    "winner": "Jeferson SANTOS JUNIOR"
+                }
+            ],
+            [
+                {
+                    "country": "ARG",
+                    "name": "Tomas SOSA"
+                },
+                {
+                    "country": "CHI",
+                    "name": "Felipe PEREZ"
+                },
+                {
+                    "winner": "Tomas SOSA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Jeferson SANTOS JUNIOR"
+                },
+                {
+                    "country": "ARG",
+                    "name": "Tomas SOSA"
+                }
+            ]
+        ],
+        "final_winner": "Jeferson SANTOS JUNIOR"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "COL",
+                    "name": "Andres SANDOVAL"
+                },
+                {
+                    "country": "CHI",
+                    "name": "Juan pablo SAN MARTIN"
+                },
+                {
+                    "winner": "Andres SANDOVAL"
+                }
+            ],
+            [
+                {
+                    "country": "CAN",
+                    "name": "Justin LEMIRE"
+                },
+                {
+                    "country": "ARG",
+                    "name": "Sebastian ALONSO"
+                },
+                {
+                    "winner": "Justin LEMIRE"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "COL",
+                    "name": "Andres SANDOVAL"
+                },
+                {
+                    "country": "CAN",
+                    "name": "Justin LEMIRE"
+                }
+            ]
+        ],
+        "final_winner": "Justin LEMIRE"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ARG",
+                    "name": "Karim ADARVEZ"
+                },
+                {
+                    "country": "ARG",
+                    "name": "Matteo ETCHECHURY"
+                },
+                {
+                    "winner": "Karim ADARVEZ"
+                }
+            ],
+            [
+                {
+                    "country": "ARG",
+                    "name": "Tomas SOSA"
+                },
+                {
+                    "country": "COL",
+                    "name": "Andres SANDOVAL"
+                },
+                {
+                    "winner": "Tomas SOSA"
+                }
+            ],
+            [
+                {
+                    "country": "ARG",
+                    "name": "Karim ADARVEZ"
+                },
+                {
+                    "country": "BRA",
+                    "name": "Jeferson SANTOS JUNIOR"
+                },
+                {
+                    "winner": "Jeferson SANTOS JUNIOR"
+                }
+            ],
+            [
+                {
+                    "country": "ARG",
+                    "name": "Tomas SOSA"
+                },
+                {
+                    "country": "BRA",
+                    "name": "Gabriel FALCAO"
+                },
+                {
+                    "winner": "Gabriel FALCAO"
+                }
+            ],
+            [
+                {
+                    "country": "BRA",
+                    "name": "Jeferson SANTOS JUNIOR"
+                }
+            ],
+            [
+                {
+                    "country": "BRA",
+                    "name": "Gabriel FALCAO"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Jeferson SANTOS JUNIOR",
+            "Gabriel FALCAO"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Gabriel FALCAO"
+                },
+                {
+                    "country": "CAN",
+                    "name": "Yanis HACHEMI"
+                },
+                {
+                    "winner": "Yanis HACHEMI"
+                }
+            ],
+            [
+                {
+                    "country": "BRA",
+                    "name": "Jeferson SANTOS JUNIOR"
+                },
+                {
+                    "country": "CAN",
+                    "name": "Justin LEMIRE"
+                },
+                {
+                    "winner": "Justin LEMIRE"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "CAN",
+                    "name": "Yanis HACHEMI"
+                },
+                {
+                    "country": "CAN",
+                    "name": "Justin LEMIRE"
+                }
+            ]
+        ],
+        "final_winner": "Justin LEMIRE"
+    }
+}

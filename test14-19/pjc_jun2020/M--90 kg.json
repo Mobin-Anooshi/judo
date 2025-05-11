@@ -1,0 +1,268 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ARG",
+                    "name": "Mariano COTO BERSIER"
+                },
+                {
+                    "winner": "Mariano COTO BERSIER"
+                }
+            ],
+            []
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "ARG",
+                    "name": "Mariano COTO BERSIER"
+                }
+            ]
+        ]
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "PAR",
+                    "name": "Angel Antonio GINI"
+                },
+                {
+                    "winner": "Angel Antonio GINI"
+                }
+            ],
+            [
+                {
+                    "country": "DOM",
+                    "name": "Axel Alejandro DEL CASTILLO ESPALLAT"
+                },
+                {
+                    "winner": "Axel Alejandro DEL CASTILLO ESPALLAT"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "PAR",
+                    "name": "Angel Antonio GINI"
+                },
+                {
+                    "country": "DOM",
+                    "name": "Axel Alejandro DEL CASTILLO ESPALLAT"
+                }
+            ],
+            [
+                {
+                    "country": "DOM",
+                    "name": "Axel Alejandro DEL CASTILLO ESPALLAT"
+                }
+            ]
+        ]
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "DOM",
+                    "name": "Marcos MARTE"
+                },
+                {
+                    "winner": "Marcos MARTE"
+                }
+            ],
+            [
+                {
+                    "country": "PAR",
+                    "name": "Ezequiel BAREIRO"
+                },
+                {
+                    "winner": "Ezequiel BAREIRO"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "DOM",
+                    "name": "Marcos MARTE"
+                },
+                {
+                    "country": "PAR",
+                    "name": "Ezequiel BAREIRO"
+                }
+            ],
+            [
+                {
+                    "country": "DOM",
+                    "name": "Marcos MARTE"
+                }
+            ]
+        ]
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "GUA",
+                    "name": "Alejandro MORALES"
+                },
+                {
+                    "winner": "Alejandro MORALES"
+                }
+            ],
+            [
+                {
+                    "country": "USA",
+                    "name": "Elias SABIN"
+                },
+                {
+                    "winner": "Elias SABIN"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "GUA",
+                    "name": "Alejandro MORALES"
+                },
+                {
+                    "country": "USA",
+                    "name": "Elias SABIN"
+                }
+            ],
+            [
+                {
+                    "country": "USA",
+                    "name": "Elias SABIN"
+                }
+            ]
+        ]
+    },
+    "REPECHAGE": {
+        "round 1-4": [
+            [],
+            [
+                {
+                    "country": "PAR",
+                    "name": "Angel Antonio GINI"
+                },
+                {
+                    "winner": "Angel Antonio GINI"
+                }
+            ],
+            [
+                {
+                    "country": "PAR",
+                    "name": "Ezequiel BAREIRO"
+                },
+                {
+                    "winner": "Ezequiel BAREIRO"
+                }
+            ],
+            [
+                {
+                    "country": "GUA",
+                    "name": "Alejandro MORALES"
+                },
+                {
+                    "winner": "Alejandro MORALES"
+                }
+            ]
+        ],
+        "round 1-2": [
+            [
+                {
+                    "country": "PAR",
+                    "name": "Angel Antonio GINI"
+                }
+            ],
+            [
+                {
+                    "country": "PAR",
+                    "name": "Ezequiel BAREIRO"
+                },
+                {
+                    "country": "GUA",
+                    "name": "Alejandro MORALES"
+                }
+            ],
+            [
+                {
+                    "country": "PAR",
+                    "name": "Angel Antonio GINI"
+                },
+                {
+                    "country": "USA",
+                    "name": "Elias SABIN"
+                }
+            ],
+            [
+                {
+                    "country": "PAR",
+                    "name": "Ezequiel BAREIRO"
+                },
+                {
+                    "country": "DOM",
+                    "name": "Axel Alejandro DEL CASTILLO ESPALLAT"
+                }
+            ],
+            [
+                {
+                    "country": "DOM",
+                    "name": "Axel Alejandro DEL CASTILLO ESPALLAT"
+                }
+            ]
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ARG",
+                    "name": "Mariano COTO BERSIER"
+                },
+                {
+                    "country": "DOM",
+                    "name": "Axel Alejandro DEL CASTILLO ESPALLAT"
+                },
+                {
+                    "winner": "Mariano COTO BERSIER"
+                }
+            ],
+            [
+                {
+                    "country": "DOM",
+                    "name": "Marcos MARTE"
+                },
+                {
+                    "country": "USA",
+                    "name": "Elias SABIN"
+                },
+                {
+                    "winner": "Marcos MARTE"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "ARG",
+                    "name": "Mariano COTO BERSIER"
+                },
+                {
+                    "country": "DOM",
+                    "name": "Marcos MARTE"
+                }
+            ],
+            [
+                {
+                    "country": "ARG",
+                    "name": "Mariano COTO BERSIER"
+                }
+            ]
+        ]
+    }
+}

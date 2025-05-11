@@ -1,0 +1,152 @@
+{
+    "POOL A": {
+        "round 1-1": [
+            [
+                {
+                    "country": "LAT",
+                    "name": "Daniils GROMOVS"
+                },
+                {
+                    "country": "CRO",
+                    "name": "Borna BUTIJER"
+                }
+            ],
+            [
+                {
+                    "country": "CRO",
+                    "name": "Borna BUTIJER"
+                }
+            ]
+        ]
+    },
+    "POOL B": {
+        "round 1-1": [
+            [
+                {
+                    "country": "GEO",
+                    "name": "Giorgi ZHORZHOLIANI"
+                }
+            ]
+        ]
+    },
+    "POOL C": {
+        "round 1-1": [
+            [
+                {
+                    "country": "UKR",
+                    "name": "Yaroslav DAVYDCHUK"
+                }
+            ]
+        ]
+    },
+    "POOL D": {
+        "round 1-1": [
+            [
+                {
+                    "country": "NOR",
+                    "name": "Jonas LANGESAETER"
+                },
+                {
+                    "country": "DOM",
+                    "name": "Robert FLORENTINO"
+                }
+            ],
+            [
+                {
+                    "country": "DOM",
+                    "name": "Robert FLORENTINO"
+                }
+            ]
+        ]
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "LAT",
+                    "name": "Daniils GROMOVS"
+                }
+            ],
+            [
+                {
+                    "country": "NOR",
+                    "name": "Jonas LANGESAETER"
+                }
+            ],
+            [
+                {
+                    "country": "LAT",
+                    "name": "Daniils GROMOVS"
+                },
+                {
+                    "country": "UKR",
+                    "name": "Yaroslav DAVYDCHUK"
+                }
+            ],
+            [
+                {
+                    "country": "NOR",
+                    "name": "Jonas LANGESAETER"
+                },
+                {
+                    "country": "GEO",
+                    "name": "Giorgi ZHORZHOLIANI"
+                }
+            ],
+            [
+                {
+                    "country": "GEO",
+                    "name": "Giorgi ZHORZHOLIANI"
+                }
+            ]
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CRO",
+                    "name": "Borna BUTIJER"
+                },
+                {
+                    "country": "GEO",
+                    "name": "Giorgi ZHORZHOLIANI"
+                },
+                {
+                    "winner": "Borna BUTIJER"
+                }
+            ],
+            [
+                {
+                    "country": "UKR",
+                    "name": "Yaroslav DAVYDCHUK"
+                },
+                {
+                    "country": "DOM",
+                    "name": "Robert FLORENTINO"
+                },
+                {
+                    "winner": "Robert FLORENTINO"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "CRO",
+                    "name": "Borna BUTIJER"
+                },
+                {
+                    "country": "DOM",
+                    "name": "Robert FLORENTINO"
+                }
+            ],
+            [
+                {
+                    "country": "DOM",
+                    "name": "Robert FLORENTINO"
+                }
+            ]
+        ]
+    }
+}

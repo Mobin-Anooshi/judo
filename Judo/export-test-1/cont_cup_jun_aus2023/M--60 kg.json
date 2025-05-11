@@ -1,0 +1,261 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "HKG",
+                    "name": "Ka Ki WONG"
+                },
+                {
+                    "winner": "Ka Ki WONG"
+                }
+            ],
+            [
+                {
+                    "country": "AUS",
+                    "name": "Tomas HARGRAVES"
+                },
+                {
+                    "country": "NZL",
+                    "name": "Lear MORINA"
+                },
+                {
+                    "winner": "Tomas HARGRAVES"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "HKG",
+                    "name": "Ka Ki WONG"
+                },
+                {
+                    "country": "AUS",
+                    "name": "Tomas HARGRAVES"
+                }
+            ]
+        ],
+        "final_winner": "Ka Ki WONG"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "AUS",
+                    "name": "Ethan TAI TIN"
+                },
+                {
+                    "winner": "Ethan TAI TIN"
+                }
+            ],
+            [
+                {
+                    "country": "AUS",
+                    "name": "Casey LEE"
+                },
+                {
+                    "winner": "Casey LEE"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "AUS",
+                    "name": "Ethan TAI TIN"
+                },
+                {
+                    "country": "AUS",
+                    "name": "Casey LEE"
+                }
+            ]
+        ],
+        "final_winner": "Casey LEE"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "KOR",
+                    "name": "Sangwoo OH"
+                },
+                {
+                    "winner": "Sangwoo OH"
+                }
+            ],
+            [
+                {
+                    "country": "AUS",
+                    "name": "Liam MCCLIFTY"
+                },
+                {
+                    "winner": "Liam MCCLIFTY"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "KOR",
+                    "name": "Sangwoo OH"
+                },
+                {
+                    "country": "AUS",
+                    "name": "Liam MCCLIFTY"
+                }
+            ]
+        ],
+        "final_winner": "Liam MCCLIFTY"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "AUS",
+                    "name": "Jad REDA"
+                },
+                {
+                    "winner": "Jad REDA"
+                }
+            ],
+            [
+                {
+                    "country": "AUS",
+                    "name": "Aaron XU"
+                },
+                {
+                    "winner": "Aaron XU"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "AUS",
+                    "name": "Jad REDA"
+                },
+                {
+                    "country": "AUS",
+                    "name": "Aaron XU"
+                }
+            ]
+        ],
+        "final_winner": "Jad REDA"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "AUS",
+                    "name": "Tomas HARGRAVES"
+                },
+                {
+                    "country": "AUS",
+                    "name": "Ethan TAI TIN"
+                },
+                {
+                    "winner": "Ethan TAI TIN"
+                }
+            ],
+            [
+                {
+                    "country": "KOR",
+                    "name": "Sangwoo OH"
+                },
+                {
+                    "country": "AUS",
+                    "name": "Aaron XU"
+                },
+                {
+                    "winner": "Aaron XU"
+                }
+            ],
+            [
+                {
+                    "country": "AUS",
+                    "name": "Ethan TAI TIN"
+                },
+                {
+                    "country": "AUS",
+                    "name": "Liam MCCLIFTY"
+                },
+                {
+                    "winner": "Liam MCCLIFTY"
+                }
+            ],
+            [
+                {
+                    "country": "AUS",
+                    "name": "Aaron XU"
+                },
+                {
+                    "country": "AUS",
+                    "name": "Casey LEE"
+                },
+                {
+                    "winner": "Casey LEE"
+                }
+            ],
+            [
+                {
+                    "country": "AUS",
+                    "name": "Liam MCCLIFTY"
+                }
+            ],
+            [
+                {
+                    "country": "AUS",
+                    "name": "Casey LEE"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Liam MCCLIFTY",
+            "Casey LEE"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "HKG",
+                    "name": "Ka Ki WONG"
+                },
+                {
+                    "country": "AUS",
+                    "name": "Casey LEE"
+                },
+                {
+                    "winner": "Ka Ki WONG"
+                }
+            ],
+            [
+                {
+                    "country": "AUS",
+                    "name": "Liam MCCLIFTY"
+                },
+                {
+                    "country": "AUS",
+                    "name": "Jad REDA"
+                },
+                {
+                    "winner": "Jad REDA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "HKG",
+                    "name": "Ka Ki WONG"
+                },
+                {
+                    "country": "AUS",
+                    "name": "Jad REDA"
+                }
+            ]
+        ],
+        "final_winner": "Jad REDA"
+    }
+}

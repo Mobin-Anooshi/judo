@@ -1,0 +1,159 @@
+{
+    "POOL A": {
+        "round 1-1": [],
+        "final_winner": "Yuliia KURCHENKO"
+    },
+    "POOL B": {
+        "round 1-1": [
+            [
+                {
+                    "country": "NED",
+                    "name": "Irene HESLING"
+                },
+                {
+                    "country": "ESP",
+                    "name": "Laura VOLO MACHIN"
+                }
+            ]
+        ],
+        "final_winner": "Laura VOLO MACHIN"
+    },
+    "POOL C": {
+        "round 1-1": [
+            [
+                {
+                    "country": "NED",
+                    "name": "Berber LUDEMA"
+                },
+                {
+                    "country": "GBR",
+                    "name": "Angel ANEGBEH"
+                }
+            ]
+        ],
+        "final_winner": "Berber LUDEMA"
+    },
+    "POOL D": {
+        "round 1-1": [
+            [
+                {
+                    "country": "FRA",
+                    "name": "Lyse VERSMISSE"
+                },
+                {
+                    "country": "GBR",
+                    "name": "Anya HASSAN"
+                }
+            ]
+        ],
+        "final_winner": "Lyse VERSMISSE"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "NED",
+                    "name": "Irene HESLING"
+                }
+            ],
+            [
+                {
+                    "country": "GBR",
+                    "name": "Angel ANEGBEH"
+                },
+                {
+                    "country": "GBR",
+                    "name": "Anya HASSAN"
+                },
+                {
+                    "winner": "Anya HASSAN"
+                }
+            ],
+            [
+                {
+                    "country": "NED",
+                    "name": "Irene HESLING"
+                },
+                {
+                    "country": "NED",
+                    "name": "Berber LUDEMA"
+                },
+                {
+                    "winner": "Berber LUDEMA"
+                }
+            ],
+            [
+                {
+                    "country": "GBR",
+                    "name": "Anya HASSAN"
+                },
+                {
+                    "country": "ESP",
+                    "name": "Laura VOLO MACHIN"
+                },
+                {
+                    "winner": "Laura VOLO MACHIN"
+                }
+            ],
+            [
+                {
+                    "country": "NED",
+                    "name": "Berber LUDEMA"
+                }
+            ],
+            [
+                {
+                    "country": "ESP",
+                    "name": "Laura VOLO MACHIN"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Berber LUDEMA",
+            "Laura VOLO MACHIN"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "UKR",
+                    "name": "Yuliia KURCHENKO"
+                },
+                {
+                    "country": "ESP",
+                    "name": "Laura VOLO MACHIN"
+                },
+                {
+                    "winner": "Yuliia KURCHENKO"
+                }
+            ],
+            [
+                {
+                    "country": "NED",
+                    "name": "Berber LUDEMA"
+                },
+                {
+                    "country": "FRA",
+                    "name": "Lyse VERSMISSE"
+                },
+                {
+                    "winner": "Lyse VERSMISSE"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "UKR",
+                    "name": "Yuliia KURCHENKO"
+                },
+                {
+                    "country": "FRA",
+                    "name": "Lyse VERSMISSE"
+                }
+            ]
+        ],
+        "final_winner": "Yuliia KURCHENKO"
+    }
+}

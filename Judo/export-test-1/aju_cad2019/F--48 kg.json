@@ -1,0 +1,135 @@
+{
+    "POOL A": {
+        "round 1-1": [
+            [
+                {
+                    "country": "ALG",
+                    "name": "Djihene BOUBIDI"
+                },
+                {
+                    "country": "SEN",
+                    "name": "Justine A.. DIEDHIOU"
+                }
+            ]
+        ],
+        "final_winner": "Djihene BOUBIDI"
+    },
+    "POOL B": {
+        "round 1-1": [],
+        "final_winner": "Chaima SIDAOUI"
+    },
+    "POOL C": {
+        "round 1-1": [
+            [
+                {
+                    "country": "EGY",
+                    "name": "Tassnim ROSHDY"
+                },
+                {
+                    "country": "RSA",
+                    "name": "Jodie MCMAHON"
+                }
+            ]
+        ],
+        "final_winner": "Tassnim ROSHDY"
+    },
+    "POOL D": {
+        "round 1-1": [],
+        "final_winner": "Dalila LOMPO"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "SEN",
+                    "name": "Justine A.. DIEDHIOU"
+                }
+            ],
+            [
+                {
+                    "country": "RSA",
+                    "name": "Jodie MCMAHON"
+                }
+            ],
+            [
+                {
+                    "country": "SEN",
+                    "name": "Justine A.. DIEDHIOU"
+                },
+                {
+                    "country": "BUR",
+                    "name": "Dalila LOMPO"
+                },
+                {
+                    "winner": "Justine A.. DIEDHIOU"
+                }
+            ],
+            [
+                {
+                    "country": "RSA",
+                    "name": "Jodie MCMAHON"
+                },
+                {
+                    "country": "ALG",
+                    "name": "Djihene BOUBIDI"
+                },
+                {
+                    "winner": "Djihene BOUBIDI"
+                }
+            ],
+            [
+                {
+                    "country": "ALG",
+                    "name": "Djihene BOUBIDI"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Jodie MCMAHON",
+            "Justine A.. DIEDHIOU"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ALG",
+                    "name": "Djihene BOUBIDI"
+                },
+                {
+                    "country": "TUN",
+                    "name": "Chaima SIDAOUI"
+                },
+                {
+                    "winner": "Chaima SIDAOUI"
+                }
+            ],
+            [
+                {
+                    "country": "EGY",
+                    "name": "Tassnim ROSHDY"
+                },
+                {
+                    "country": "BUR",
+                    "name": "Dalila LOMPO"
+                },
+                {
+                    "winner": "Tassnim ROSHDY"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "TUN",
+                    "name": "Chaima SIDAOUI"
+                },
+                {
+                    "country": "EGY",
+                    "name": "Tassnim ROSHDY"
+                }
+            ]
+        ],
+        "final_winner": "Tassnim ROSHDY"
+    }
+}

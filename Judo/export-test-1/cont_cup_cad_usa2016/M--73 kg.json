@@ -1,0 +1,178 @@
+{
+    "POOL A": {
+        "round 1-1": [
+            [],
+            [
+                {
+                    "country": "USA",
+                    "name": "Liam WRIGHT"
+                },
+                {
+                    "country": "USA",
+                    "name": "Liam MORIARTY"
+                }
+            ]
+        ],
+        "final_winner": "Liam WRIGHT"
+    },
+    "POOL B": {
+        "round 1-1": [
+            [
+                {
+                    "country": "USA",
+                    "name": "Isaac OKSMAN"
+                },
+                {
+                    "country": "USA",
+                    "name": "Jacob ANDERSON"
+                }
+            ]
+        ],
+        "final_winner": "Isaac OKSMAN"
+    },
+    "POOL C": {
+        "round 1-1": [
+            [
+                {
+                    "country": "USA",
+                    "name": "Jackson BUTLER"
+                },
+                {
+                    "country": "USA",
+                    "name": "Jacob ANTHONY"
+                }
+            ]
+        ],
+        "final_winner": "Jacob ANTHONY"
+    },
+    "POOL D": {
+        "round 1-1": [
+            [
+                {
+                    "country": "USA",
+                    "name": "Jeffrey STOUT"
+                },
+                {
+                    "country": "CRO",
+                    "name": "Timo GOBEC"
+                }
+            ]
+        ],
+        "final_winner": "Jeffrey STOUT"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "USA",
+                    "name": "Liam MORIARTY"
+                },
+                {
+                    "country": "USA",
+                    "name": "Jacob ANDERSON"
+                },
+                {
+                    "winner": "Jacob ANDERSON"
+                }
+            ],
+            [
+                {
+                    "country": "USA",
+                    "name": "Jackson BUTLER"
+                },
+                {
+                    "country": "CRO",
+                    "name": "Timo GOBEC"
+                },
+                {
+                    "winner": "Jackson BUTLER"
+                }
+            ],
+            [
+                {
+                    "country": "USA",
+                    "name": "Jacob ANDERSON"
+                },
+                {
+                    "country": "USA",
+                    "name": "Jeffrey STOUT"
+                },
+                {
+                    "winner": "Jeffrey STOUT"
+                }
+            ],
+            [
+                {
+                    "country": "USA",
+                    "name": "Jackson BUTLER"
+                },
+                {
+                    "country": "USA",
+                    "name": "Isaac OKSMAN"
+                },
+                {
+                    "winner": "Jackson BUTLER"
+                }
+            ],
+            [
+                {
+                    "country": "USA",
+                    "name": "Jeffrey STOUT"
+                }
+            ],
+            [
+                {
+                    "country": "USA",
+                    "name": "Jackson BUTLER"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Jeffrey STOUT",
+            "Jackson BUTLER"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "USA",
+                    "name": "Liam WRIGHT"
+                },
+                {
+                    "country": "USA",
+                    "name": "Isaac OKSMAN"
+                },
+                {
+                    "winner": "Liam WRIGHT"
+                }
+            ],
+            [
+                {
+                    "country": "USA",
+                    "name": "Jacob ANTHONY"
+                },
+                {
+                    "country": "USA",
+                    "name": "Jeffrey STOUT"
+                },
+                {
+                    "winner": "Jacob ANTHONY"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "USA",
+                    "name": "Liam WRIGHT"
+                },
+                {
+                    "country": "USA",
+                    "name": "Jacob ANTHONY"
+                }
+            ]
+        ],
+        "final_winner": "Jacob ANTHONY"
+    }
+}

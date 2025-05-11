@@ -1,0 +1,273 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Giovani FERREIRA"
+                },
+                {
+                    "winner": "Giovani FERREIRA"
+                }
+            ],
+            [
+                {
+                    "country": "BRA",
+                    "name": "Marco MONTEIRO"
+                },
+                {
+                    "country": "BRA",
+                    "name": "Tiago PINHO"
+                },
+                {
+                    "winner": "Tiago PINHO"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Giovani FERREIRA"
+                },
+                {
+                    "country": "BRA",
+                    "name": "Tiago PINHO"
+                }
+            ]
+        ],
+        "final_winner": "Tiago PINHO"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CAN",
+                    "name": "Alec GARAND"
+                },
+                {
+                    "winner": "Alec GARAND"
+                }
+            ],
+            [
+                {
+                    "country": "BRA",
+                    "name": "Caio BARBOSA"
+                },
+                {
+                    "country": "BRA",
+                    "name": "Igor MORISHIGUE"
+                },
+                {
+                    "winner": "Caio BARBOSA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "CAN",
+                    "name": "Alec GARAND"
+                },
+                {
+                    "country": "BRA",
+                    "name": "Caio BARBOSA"
+                }
+            ]
+        ],
+        "final_winner": "Caio BARBOSA"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Guilherme MORAIS"
+                },
+                {
+                    "winner": "Guilherme MORAIS"
+                }
+            ],
+            [
+                {
+                    "country": "BRA",
+                    "name": "Lincoln NEVES"
+                },
+                {
+                    "country": "BRA",
+                    "name": "Lucas PAZA"
+                },
+                {
+                    "winner": "Lincoln NEVES"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Guilherme MORAIS"
+                },
+                {
+                    "country": "BRA",
+                    "name": "Lincoln NEVES"
+                }
+            ]
+        ],
+        "final_winner": "Lincoln NEVES"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Jose BASILE"
+                },
+                {
+                    "winner": "Jose BASILE"
+                }
+            ],
+            [
+                {
+                    "country": "BRA",
+                    "name": "Gabriel FREITAS"
+                },
+                {
+                    "country": "BRA",
+                    "name": "Felipe LOPES"
+                },
+                {
+                    "winner": "Gabriel FREITAS"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Jose BASILE"
+                },
+                {
+                    "country": "BRA",
+                    "name": "Gabriel FREITAS"
+                }
+            ]
+        ],
+        "final_winner": "Jose BASILE"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Giovani FERREIRA"
+                },
+                {
+                    "country": "CAN",
+                    "name": "Alec GARAND"
+                },
+                {
+                    "winner": "Giovani FERREIRA"
+                }
+            ],
+            [
+                {
+                    "country": "BRA",
+                    "name": "Guilherme MORAIS"
+                },
+                {
+                    "country": "BRA",
+                    "name": "Gabriel FREITAS"
+                },
+                {
+                    "winner": "Gabriel FREITAS"
+                }
+            ],
+            [
+                {
+                    "country": "BRA",
+                    "name": "Giovani FERREIRA"
+                },
+                {
+                    "country": "BRA",
+                    "name": "Jose BASILE"
+                },
+                {
+                    "winner": "Giovani FERREIRA"
+                }
+            ],
+            [
+                {
+                    "country": "BRA",
+                    "name": "Gabriel FREITAS"
+                },
+                {
+                    "country": "BRA",
+                    "name": "Caio BARBOSA"
+                },
+                {
+                    "winner": "Gabriel FREITAS"
+                }
+            ],
+            [
+                {
+                    "country": "BRA",
+                    "name": "Giovani FERREIRA"
+                }
+            ],
+            [
+                {
+                    "country": "BRA",
+                    "name": "Gabriel FREITAS"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Giovani FERREIRA",
+            "Gabriel FREITAS"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Tiago PINHO"
+                },
+                {
+                    "country": "BRA",
+                    "name": "Caio BARBOSA"
+                },
+                {
+                    "winner": "Tiago PINHO"
+                }
+            ],
+            [
+                {
+                    "country": "BRA",
+                    "name": "Lincoln NEVES"
+                },
+                {
+                    "country": "BRA",
+                    "name": "Jose BASILE"
+                },
+                {
+                    "winner": "Lincoln NEVES"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Tiago PINHO"
+                },
+                {
+                    "country": "BRA",
+                    "name": "Lincoln NEVES"
+                }
+            ]
+        ],
+        "final_winner": "Tiago PINHO"
+    }
+}

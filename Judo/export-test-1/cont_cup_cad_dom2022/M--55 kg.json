@@ -1,0 +1,295 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "DOM",
+                    "name": "Manuel Eduardo SIMO GARCIA"
+                },
+                {
+                    "winner": "Manuel Eduardo SIMO GARCIA"
+                }
+            ],
+            [
+                {
+                    "country": "DOM",
+                    "name": "Rey ASENCIO"
+                },
+                {
+                    "winner": "Rey ASENCIO"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "DOM",
+                    "name": "Manuel Eduardo SIMO GARCIA"
+                },
+                {
+                    "country": "DOM",
+                    "name": "Rey ASENCIO"
+                }
+            ]
+        ],
+        "final_winner": "Manuel Eduardo SIMO GARCIA"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "DOM",
+                    "name": "Johelmy GIL"
+                },
+                {
+                    "winner": "Johelmy GIL"
+                }
+            ],
+            [
+                {
+                    "country": "CRC",
+                    "name": "Gabriel ZAMORA COTO"
+                },
+                {
+                    "winner": "Gabriel ZAMORA COTO"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "DOM",
+                    "name": "Johelmy GIL"
+                },
+                {
+                    "country": "CRC",
+                    "name": "Gabriel ZAMORA COTO"
+                }
+            ]
+        ],
+        "final_winner": "Gabriel ZAMORA COTO"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "DOM",
+                    "name": "Mailon CASTILLO"
+                },
+                {
+                    "winner": "Mailon CASTILLO"
+                }
+            ],
+            [
+                {
+                    "country": "DOM",
+                    "name": "Andry GARCIA"
+                },
+                {
+                    "winner": "Andry GARCIA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "DOM",
+                    "name": "Mailon CASTILLO"
+                },
+                {
+                    "country": "DOM",
+                    "name": "Andry GARCIA"
+                }
+            ]
+        ],
+        "final_winner": "Mailon CASTILLO"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "COL",
+                    "name": "Jeronimo MIRA PEREZ"
+                },
+                {
+                    "winner": "Jeronimo MIRA PEREZ"
+                }
+            ],
+            [
+                {
+                    "country": "DOM",
+                    "name": "King Yodesy AQUINO"
+                },
+                {
+                    "winner": "King Yodesy AQUINO"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "COL",
+                    "name": "Jeronimo MIRA PEREZ"
+                },
+                {
+                    "country": "DOM",
+                    "name": "King Yodesy AQUINO"
+                }
+            ]
+        ],
+        "final_winner": "King Yodesy AQUINO"
+    },
+    "REPECHAGE": {
+        "round 1-4": [
+            [
+                {
+                    "country": "DOM",
+                    "name": "Rey ASENCIO"
+                },
+                {
+                    "winner": "Rey ASENCIO"
+                }
+            ],
+            [
+                {
+                    "country": "DOM",
+                    "name": "Johelmy GIL"
+                },
+                {
+                    "winner": "Johelmy GIL"
+                }
+            ],
+            [
+                {
+                    "country": "DOM",
+                    "name": "Andry GARCIA"
+                },
+                {
+                    "winner": "Andry GARCIA"
+                }
+            ],
+            [
+                {
+                    "country": "COL",
+                    "name": "Jeronimo MIRA PEREZ"
+                },
+                {
+                    "winner": "Jeronimo MIRA PEREZ"
+                }
+            ]
+        ],
+        "round 1-2": [
+            [
+                {
+                    "country": "DOM",
+                    "name": "Rey ASENCIO"
+                },
+                {
+                    "country": "DOM",
+                    "name": "Johelmy GIL"
+                },
+                {
+                    "winner": "Johelmy GIL"
+                }
+            ],
+            [
+                {
+                    "country": "DOM",
+                    "name": "Andry GARCIA"
+                },
+                {
+                    "country": "COL",
+                    "name": "Jeronimo MIRA PEREZ"
+                },
+                {
+                    "winner": "Jeronimo MIRA PEREZ"
+                }
+            ],
+            [
+                {
+                    "country": "DOM",
+                    "name": "Johelmy GIL"
+                },
+                {
+                    "country": "DOM",
+                    "name": "King Yodesy AQUINO"
+                },
+                {
+                    "winner": "King Yodesy AQUINO"
+                }
+            ],
+            [
+                {
+                    "country": "COL",
+                    "name": "Jeronimo MIRA PEREZ"
+                },
+                {
+                    "country": "CRC",
+                    "name": "Gabriel ZAMORA COTO"
+                },
+                {
+                    "winner": "Gabriel ZAMORA COTO"
+                }
+            ],
+            [
+                {
+                    "country": "DOM",
+                    "name": "King Yodesy AQUINO"
+                }
+            ],
+            [
+                {
+                    "country": "CRC",
+                    "name": "Gabriel ZAMORA COTO"
+                }
+            ]
+        ],
+        "final_winners": [
+            "King Yodesy AQUINO",
+            "Gabriel ZAMORA COTO"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "DOM",
+                    "name": "Manuel Eduardo SIMO GARCIA"
+                },
+                {
+                    "country": "CRC",
+                    "name": "Gabriel ZAMORA COTO"
+                },
+                {
+                    "winner": "Manuel Eduardo SIMO GARCIA"
+                }
+            ],
+            [
+                {
+                    "country": "DOM",
+                    "name": "Mailon CASTILLO"
+                },
+                {
+                    "country": "DOM",
+                    "name": "King Yodesy AQUINO"
+                },
+                {
+                    "winner": "Mailon CASTILLO"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "DOM",
+                    "name": "Manuel Eduardo SIMO GARCIA"
+                },
+                {
+                    "country": "DOM",
+                    "name": "Mailon CASTILLO"
+                }
+            ]
+        ],
+        "final_winner": "Manuel Eduardo SIMO GARCIA"
+    }
+}

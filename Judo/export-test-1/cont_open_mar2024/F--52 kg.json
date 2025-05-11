@@ -1,0 +1,135 @@
+{
+    "POOL A": {
+        "round 1-1": [],
+        "final_winner": "Sofia FIORA"
+    },
+    "POOL B": {
+        "round 1-1": [
+            [
+                {
+                    "country": "MOZ",
+                    "name": "Jacira FERREIRA"
+                },
+                {
+                    "country": "MAR",
+                    "name": "Bouchra ELHAMRAMI"
+                }
+            ]
+        ],
+        "final_winner": "Bouchra ELHAMRAMI"
+    },
+    "POOL C": {
+        "round 1-1": [],
+        "final_winner": "Leonie GONZALEZ"
+    },
+    "POOL D": {
+        "round 1-1": [
+            [
+                {
+                    "country": "MAR",
+                    "name": "Chaimae EDDINARI"
+                },
+                {
+                    "country": "MAR",
+                    "name": "Ghofrane EL FAKHAR"
+                }
+            ]
+        ],
+        "final_winner": "Chaimae EDDINARI"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "MOZ",
+                    "name": "Jacira FERREIRA"
+                }
+            ],
+            [
+                {
+                    "country": "MAR",
+                    "name": "Ghofrane EL FAKHAR"
+                }
+            ],
+            [
+                {
+                    "country": "MOZ",
+                    "name": "Jacira FERREIRA"
+                },
+                {
+                    "country": "MAR",
+                    "name": "Chaimae EDDINARI"
+                },
+                {
+                    "winner": "Jacira FERREIRA"
+                }
+            ],
+            [
+                {
+                    "country": "MAR",
+                    "name": "Ghofrane EL FAKHAR"
+                },
+                {
+                    "country": "MAR",
+                    "name": "Bouchra ELHAMRAMI"
+                },
+                {
+                    "winner": "Bouchra ELHAMRAMI"
+                }
+            ],
+            [
+                {
+                    "country": "MAR",
+                    "name": "Bouchra ELHAMRAMI"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Ghofrane EL FAKHAR",
+            "Jacira FERREIRA"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ARG",
+                    "name": "Sofia FIORA"
+                },
+                {
+                    "country": "MAR",
+                    "name": "Bouchra ELHAMRAMI"
+                },
+                {
+                    "winner": "Sofia FIORA"
+                }
+            ],
+            [
+                {
+                    "country": "FRA",
+                    "name": "Leonie GONZALEZ"
+                },
+                {
+                    "country": "MAR",
+                    "name": "Chaimae EDDINARI"
+                },
+                {
+                    "winner": "Leonie GONZALEZ"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "ARG",
+                    "name": "Sofia FIORA"
+                },
+                {
+                    "country": "FRA",
+                    "name": "Leonie GONZALEZ"
+                }
+            ]
+        ],
+        "final_winner": "Sofia FIORA"
+    }
+}

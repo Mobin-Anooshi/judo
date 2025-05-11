@@ -1,0 +1,141 @@
+{
+    "POOL A": {
+        "round 1-1": [],
+        "final_winner": "Donia WUESLATI"
+    },
+    "POOL B": {
+        "round 1-1": [
+            [
+                {
+                    "country": "ALG",
+                    "name": "Houaria KADDOUR"
+                },
+                {
+                    "country": "MAR",
+                    "name": "Ikram CHANET"
+                }
+            ]
+        ],
+        "final_winner": "Houaria KADDOUR"
+    },
+    "POOL C": {
+        "round 1-1": [],
+        "final_winner": "Lamia SAOUD"
+    },
+    "POOL D": {
+        "round 1-1": [
+            [
+                {
+                    "country": "TUN",
+                    "name": "Chaima KHALFAOUI"
+                },
+                {
+                    "country": "EGY",
+                    "name": "Haneen ALTAEB"
+                }
+            ]
+        ],
+        "final_winner": "Chaima KHALFAOUI"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "MAR",
+                    "name": "Ikram CHANET"
+                }
+            ],
+            [
+                {
+                    "country": "EGY",
+                    "name": "Haneen ALTAEB"
+                }
+            ],
+            [
+                {
+                    "country": "MAR",
+                    "name": "Ikram CHANET"
+                },
+                {
+                    "country": "ALG",
+                    "name": "Lamia SAOUD"
+                },
+                {
+                    "winner": "Lamia SAOUD"
+                }
+            ],
+            [
+                {
+                    "country": "EGY",
+                    "name": "Haneen ALTAEB"
+                },
+                {
+                    "country": "ALG",
+                    "name": "Houaria KADDOUR"
+                },
+                {
+                    "winner": "Houaria KADDOUR"
+                }
+            ],
+            [
+                {
+                    "country": "ALG",
+                    "name": "Lamia SAOUD"
+                }
+            ],
+            [
+                {
+                    "country": "ALG",
+                    "name": "Houaria KADDOUR"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Lamia SAOUD",
+            "Houaria KADDOUR"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "TUN",
+                    "name": "Donia WUESLATI"
+                },
+                {
+                    "country": "ALG",
+                    "name": "Houaria KADDOUR"
+                },
+                {
+                    "winner": "Donia WUESLATI"
+                }
+            ],
+            [
+                {
+                    "country": "ALG",
+                    "name": "Lamia SAOUD"
+                },
+                {
+                    "country": "TUN",
+                    "name": "Chaima KHALFAOUI"
+                },
+                {
+                    "winner": "Chaima KHALFAOUI"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "TUN",
+                    "name": "Donia WUESLATI"
+                },
+                {
+                    "country": "TUN",
+                    "name": "Chaima KHALFAOUI"
+                }
+            ]
+        ],
+        "final_winner": "Donia WUESLATI"
+    }
+}

@@ -1,0 +1,177 @@
+{
+    "POOL A": {
+        "round 1-1": [
+            [
+                {
+                    "country": "BIH",
+                    "name": "Aleksandra SAMARDZIC"
+                },
+                {
+                    "country": "IJF",
+                    "name": "Kseniia MEDVEDEVA"
+                }
+            ]
+        ],
+        "final_winner": "Aleksandra SAMARDZIC"
+    },
+    "POOL B": {
+        "round 1-1": [
+            [
+                {
+                    "country": "SLO",
+                    "name": "Nika KOREN"
+                },
+                {
+                    "country": "BEL",
+                    "name": "Maxine HEYNS"
+                }
+            ]
+        ],
+        "final_winner": "Nika KOREN"
+    },
+    "POOL C": {
+        "round 1-1": [
+            [
+                {
+                    "country": "IRL",
+                    "name": "Rachael HAWKES"
+                },
+                {
+                    "country": "ROU",
+                    "name": "Maidelines GORGUET-VERANES"
+                }
+            ]
+        ],
+        "final_winner": "Maidelines GORGUET-VERANES"
+    },
+    "POOL D": {
+        "round 1-1": [
+            [
+                {
+                    "country": "SRB",
+                    "name": "Jovana CAKAREVIC"
+                },
+                {
+                    "country": "CRO",
+                    "name": "Karla KULIC"
+                }
+            ]
+        ],
+        "final_winner": "Jovana CAKAREVIC"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "IJF",
+                    "name": "Kseniia MEDVEDEVA"
+                },
+                {
+                    "country": "BEL",
+                    "name": "Maxine HEYNS"
+                },
+                {
+                    "winner": "Maxine HEYNS"
+                }
+            ],
+            [
+                {
+                    "country": "IRL",
+                    "name": "Rachael HAWKES"
+                },
+                {
+                    "country": "CRO",
+                    "name": "Karla KULIC"
+                },
+                {
+                    "winner": "Karla KULIC"
+                }
+            ],
+            [
+                {
+                    "country": "BEL",
+                    "name": "Maxine HEYNS"
+                },
+                {
+                    "country": "ROU",
+                    "name": "Maidelines GORGUET-VERANES"
+                },
+                {
+                    "winner": "Maxine HEYNS"
+                }
+            ],
+            [
+                {
+                    "country": "CRO",
+                    "name": "Karla KULIC"
+                },
+                {
+                    "country": "SLO",
+                    "name": "Nika KOREN"
+                },
+                {
+                    "winner": "Karla KULIC"
+                }
+            ],
+            [
+                {
+                    "country": "BEL",
+                    "name": "Maxine HEYNS"
+                }
+            ],
+            [
+                {
+                    "country": "CRO",
+                    "name": "Karla KULIC"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Maxine HEYNS",
+            "Karla KULIC"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "BIH",
+                    "name": "Aleksandra SAMARDZIC"
+                },
+                {
+                    "country": "SLO",
+                    "name": "Nika KOREN"
+                },
+                {
+                    "winner": "Aleksandra SAMARDZIC"
+                }
+            ],
+            [
+                {
+                    "country": "ROU",
+                    "name": "Maidelines GORGUET-VERANES"
+                },
+                {
+                    "country": "SRB",
+                    "name": "Jovana CAKAREVIC"
+                },
+                {
+                    "winner": "Jovana CAKAREVIC"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "BIH",
+                    "name": "Aleksandra SAMARDZIC"
+                },
+                {
+                    "country": "SRB",
+                    "name": "Jovana CAKAREVIC"
+                }
+            ]
+        ],
+        "final_winner": "Aleksandra SAMARDZIC"
+    }
+}

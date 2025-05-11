@@ -1,0 +1,261 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "MAR",
+                    "name": "Aziza CHAKIR"
+                },
+                {
+                    "winner": "Aziza CHAKIR"
+                }
+            ],
+            [
+                {
+                    "country": "ALG",
+                    "name": "Imene REZZOUG"
+                },
+                {
+                    "country": "EGY",
+                    "name": "Noura SALEM"
+                },
+                {
+                    "winner": "Imene REZZOUG"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "MAR",
+                    "name": "Aziza CHAKIR"
+                },
+                {
+                    "country": "ALG",
+                    "name": "Imene REZZOUG"
+                }
+            ]
+        ],
+        "final_winner": "Imene REZZOUG"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "MRI",
+                    "name": "Priscilla MORAND"
+                },
+                {
+                    "winner": "Priscilla MORAND"
+                }
+            ],
+            [
+                {
+                    "country": "MAR",
+                    "name": "Chaimae EDDINARI"
+                },
+                {
+                    "winner": "Chaimae EDDINARI"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "MRI",
+                    "name": "Priscilla MORAND"
+                },
+                {
+                    "country": "MAR",
+                    "name": "Chaimae EDDINARI"
+                }
+            ]
+        ],
+        "final_winner": "Priscilla MORAND"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "RSA",
+                    "name": "Geronay WHITEBOOI"
+                },
+                {
+                    "winner": "Geronay WHITEBOOI"
+                }
+            ],
+            [
+                {
+                    "country": "CIV",
+                    "name": "Maimouna DIARRASSOUBA"
+                },
+                {
+                    "winner": "Maimouna DIARRASSOUBA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "RSA",
+                    "name": "Geronay WHITEBOOI"
+                },
+                {
+                    "country": "CIV",
+                    "name": "Maimouna DIARRASSOUBA"
+                }
+            ]
+        ],
+        "final_winner": "Geronay WHITEBOOI"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "TUN",
+                    "name": "Oumaima BEDIOUI"
+                },
+                {
+                    "winner": "Oumaima BEDIOUI"
+                }
+            ],
+            [
+                {
+                    "country": "SEN",
+                    "name": "Marie Jeanne SECK"
+                },
+                {
+                    "winner": "Marie Jeanne SECK"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "TUN",
+                    "name": "Oumaima BEDIOUI"
+                },
+                {
+                    "country": "SEN",
+                    "name": "Marie Jeanne SECK"
+                }
+            ]
+        ],
+        "final_winner": "Oumaima BEDIOUI"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "MAR",
+                    "name": "Aziza CHAKIR"
+                },
+                {
+                    "country": "MAR",
+                    "name": "Chaimae EDDINARI"
+                },
+                {
+                    "winner": "Chaimae EDDINARI"
+                }
+            ],
+            [
+                {
+                    "country": "CIV",
+                    "name": "Maimouna DIARRASSOUBA"
+                },
+                {
+                    "country": "SEN",
+                    "name": "Marie Jeanne SECK"
+                },
+                {
+                    "winner": "Marie Jeanne SECK"
+                }
+            ],
+            [
+                {
+                    "country": "MAR",
+                    "name": "Chaimae EDDINARI"
+                },
+                {
+                    "country": "RSA",
+                    "name": "Geronay WHITEBOOI"
+                },
+                {
+                    "winner": "Geronay WHITEBOOI"
+                }
+            ],
+            [
+                {
+                    "country": "SEN",
+                    "name": "Marie Jeanne SECK"
+                },
+                {
+                    "country": "ALG",
+                    "name": "Imene REZZOUG"
+                },
+                {
+                    "winner": "Imene REZZOUG"
+                }
+            ],
+            [
+                {
+                    "country": "RSA",
+                    "name": "Geronay WHITEBOOI"
+                }
+            ],
+            [
+                {
+                    "country": "ALG",
+                    "name": "Imene REZZOUG"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Geronay WHITEBOOI",
+            "Imene REZZOUG"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ALG",
+                    "name": "Imene REZZOUG"
+                },
+                {
+                    "country": "MRI",
+                    "name": "Priscilla MORAND"
+                },
+                {
+                    "winner": "Priscilla MORAND"
+                }
+            ],
+            [
+                {
+                    "country": "RSA",
+                    "name": "Geronay WHITEBOOI"
+                },
+                {
+                    "country": "TUN",
+                    "name": "Oumaima BEDIOUI"
+                },
+                {
+                    "winner": "Oumaima BEDIOUI"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "MRI",
+                    "name": "Priscilla MORAND"
+                },
+                {
+                    "country": "TUN",
+                    "name": "Oumaima BEDIOUI"
+                }
+            ]
+        ],
+        "final_winner": "Priscilla MORAND"
+    }
+}

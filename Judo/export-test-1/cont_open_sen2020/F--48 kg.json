@@ -1,0 +1,135 @@
+{
+    "POOL A": {
+        "round 1-1": [],
+        "final_winner": "Priscilla MORAND"
+    },
+    "POOL B": {
+        "round 1-1": [
+            [
+                {
+                    "country": "SEN",
+                    "name": "Marie Jeanne SECK"
+                },
+                {
+                    "country": "SEN",
+                    "name": "Aicha Dado DIOP"
+                }
+            ]
+        ],
+        "final_winner": "Aicha Dado DIOP"
+    },
+    "POOL C": {
+        "round 1-1": [],
+        "final_winner": "Geronay WHITEBOOI"
+    },
+    "POOL D": {
+        "round 1-1": [
+            [
+                {
+                    "country": "MAW",
+                    "name": "Harriet BONFACE"
+                },
+                {
+                    "country": "SEN",
+                    "name": "Marietou DIENG"
+                }
+            ]
+        ],
+        "final_winner": "Harriet BONFACE"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "SEN",
+                    "name": "Marie Jeanne SECK"
+                }
+            ],
+            [
+                {
+                    "country": "SEN",
+                    "name": "Marietou DIENG"
+                }
+            ],
+            [
+                {
+                    "country": "SEN",
+                    "name": "Marie Jeanne SECK"
+                },
+                {
+                    "country": "MAW",
+                    "name": "Harriet BONFACE"
+                },
+                {
+                    "winner": "Marie Jeanne SECK"
+                }
+            ],
+            [
+                {
+                    "country": "SEN",
+                    "name": "Marietou DIENG"
+                },
+                {
+                    "country": "SEN",
+                    "name": "Aicha Dado DIOP"
+                },
+                {
+                    "winner": "Aicha Dado DIOP"
+                }
+            ],
+            [
+                {
+                    "country": "SEN",
+                    "name": "Aicha Dado DIOP"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Marietou DIENG",
+            "Marie Jeanne SECK"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "MRI",
+                    "name": "Priscilla MORAND"
+                },
+                {
+                    "country": "SEN",
+                    "name": "Aicha Dado DIOP"
+                },
+                {
+                    "winner": "Priscilla MORAND"
+                }
+            ],
+            [
+                {
+                    "country": "RSA",
+                    "name": "Geronay WHITEBOOI"
+                },
+                {
+                    "country": "MAW",
+                    "name": "Harriet BONFACE"
+                },
+                {
+                    "winner": "Geronay WHITEBOOI"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "MRI",
+                    "name": "Priscilla MORAND"
+                },
+                {
+                    "country": "RSA",
+                    "name": "Geronay WHITEBOOI"
+                }
+            ]
+        ],
+        "final_winner": "Geronay WHITEBOOI"
+    }
+}

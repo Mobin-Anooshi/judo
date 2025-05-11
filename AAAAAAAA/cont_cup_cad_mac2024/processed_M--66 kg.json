@@ -1,0 +1,129 @@
+{
+    "POOL A": {
+        "round 1-1": [],
+        "final_winner": "Angus CORMACK"
+    },
+    "POOL B": {
+        "round 1-1": [
+            [
+                {
+                    "country": "KUW",
+                    "name": "Meshari MARZOUQ"
+                },
+                {
+                    "country": "MGL",
+                    "name": "Bilguuntuguldur MUNKHBAT"
+                }
+            ]
+        ],
+        "final_winner": "Meshari MARZOUQ"
+    },
+    "POOL C": {
+        "round 1-1": [],
+        "final_winner": "Saud ALZAHRANI"
+    },
+    "POOL D": {
+        "round 1-1": [
+            [
+                {
+                    "country": "HKG",
+                    "name": "Wing Yat YEUNG"
+                },
+                {
+                    "country": "AUS",
+                    "name": "Ryan PARK"
+                }
+            ]
+        ],
+        "final_winner": "Wing Yat YEUNG"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "MGL",
+                    "name": "Bilguuntuguldur MUNKHBAT"
+                }
+            ],
+            [
+                {
+                    "country": "AUS",
+                    "name": "Ryan PARK"
+                }
+            ],
+            [
+                {
+                    "country": "MGL",
+                    "name": "Bilguuntuguldur MUNKHBAT"
+                },
+                {
+                    "country": "HKG",
+                    "name": "Wing Yat YEUNG"
+                },
+                {
+                    "winner": "Bilguuntuguldur MUNKHBAT"
+                }
+            ],
+            [
+                {
+                    "country": "AUS",
+                    "name": "Ryan PARK"
+                },
+                {
+                    "country": "KUW",
+                    "name": "Meshari MARZOUQ"
+                },
+                {
+                    "winner": "Ryan PARK"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Bilguuntuguldur MUNKHBAT",
+            "Ryan PARK"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "AUS",
+                    "name": "Angus CORMACK"
+                },
+                {
+                    "country": "KUW",
+                    "name": "Meshari MARZOUQ"
+                },
+                {
+                    "winner": "Angus CORMACK"
+                }
+            ],
+            [
+                {
+                    "country": "KSA",
+                    "name": "Saud ALZAHRANI"
+                },
+                {
+                    "country": "HKG",
+                    "name": "Wing Yat YEUNG"
+                },
+                {
+                    "winner": "Saud ALZAHRANI"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "AUS",
+                    "name": "Angus CORMACK"
+                },
+                {
+                    "country": "KSA",
+                    "name": "Saud ALZAHRANI"
+                }
+            ]
+        ],
+        "final_winner": "Saud ALZAHRANI"
+    }
+}

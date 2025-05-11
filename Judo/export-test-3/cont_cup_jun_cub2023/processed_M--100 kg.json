@@ -1,0 +1,68 @@
+{
+    "ROUND 1": {
+        "round 1-2": [
+            [
+                {
+                    "country": "USA",
+                    "name": "Elias SABIN"
+                },
+                {
+                    "country": "CUB",
+                    "name": "Jose GARCIA GARCIA"
+                },
+                {
+                    "winner": "Jose GARCIA GARCIA"
+                }
+            ],
+            [
+                {
+                    "country": "CUB",
+                    "name": "Alejandro ORTIZ CINTRA"
+                },
+                {
+                    "country": "CUB",
+                    "name": "Zail RAMIREZ"
+                },
+                {
+                    "winner": "Alejandro ORTIZ CINTRA"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Jose GARCIA GARCIA",
+            "Alejandro ORTIZ CINTRA"
+        ]
+    },
+    "REPECHAGE": {
+        "round 1-1": [
+            [
+                {
+                    "country": "USA",
+                    "name": "Elias SABIN"
+                },
+                {
+                    "country": "CUB",
+                    "name": "Zail RAMIREZ"
+                },
+                {
+                    "winner": "Zail RAMIREZ"
+                }
+            ],
+            [
+                {
+                    "country": "CUB",
+                    "name": "Zail RAMIREZ"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Zail RAMIREZ"
+        ]
+    },
+    "FINALS": {
+        "round 1-1": [],
+        "final_winners": [
+            "Jose GARCIA GARCIA"
+        ]
+    }
+}

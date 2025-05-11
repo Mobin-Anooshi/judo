@@ -1,0 +1,141 @@
+{
+    "POOL A": {
+        "round 1-1": [],
+        "final_winner": "Vanessa CHALA"
+    },
+    "POOL B": {
+        "round 1-1": [
+            [
+                {
+                    "country": "VEN",
+                    "name": "Karen LEON"
+                },
+                {
+                    "country": "MEX",
+                    "name": "Liliana CARDENAS"
+                }
+            ]
+        ],
+        "final_winner": "Karen LEON"
+    },
+    "POOL C": {
+        "round 1-1": [],
+        "final_winner": "Nefeli PAPADAKIS"
+    },
+    "POOL D": {
+        "round 1-1": [
+            [
+                {
+                    "country": "ARG",
+                    "name": "Lucia CANTERO"
+                },
+                {
+                    "country": "CRC",
+                    "name": "Diana BRENES"
+                }
+            ]
+        ],
+        "final_winner": "Diana BRENES"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "MEX",
+                    "name": "Liliana CARDENAS"
+                }
+            ],
+            [
+                {
+                    "country": "ARG",
+                    "name": "Lucia CANTERO"
+                }
+            ],
+            [
+                {
+                    "country": "MEX",
+                    "name": "Liliana CARDENAS"
+                },
+                {
+                    "country": "CRC",
+                    "name": "Diana BRENES"
+                },
+                {
+                    "winner": "Diana BRENES"
+                }
+            ],
+            [
+                {
+                    "country": "ARG",
+                    "name": "Lucia CANTERO"
+                },
+                {
+                    "country": "VEN",
+                    "name": "Karen LEON"
+                },
+                {
+                    "winner": "Karen LEON"
+                }
+            ],
+            [
+                {
+                    "country": "CRC",
+                    "name": "Diana BRENES"
+                }
+            ],
+            [
+                {
+                    "country": "VEN",
+                    "name": "Karen LEON"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Diana BRENES",
+            "Karen LEON"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ECU",
+                    "name": "Vanessa CHALA"
+                },
+                {
+                    "country": "VEN",
+                    "name": "Karen LEON"
+                },
+                {
+                    "winner": "Vanessa CHALA"
+                }
+            ],
+            [
+                {
+                    "country": "USA",
+                    "name": "Nefeli PAPADAKIS"
+                },
+                {
+                    "country": "CRC",
+                    "name": "Diana BRENES"
+                },
+                {
+                    "winner": "Nefeli PAPADAKIS"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "ECU",
+                    "name": "Vanessa CHALA"
+                },
+                {
+                    "country": "USA",
+                    "name": "Nefeli PAPADAKIS"
+                }
+            ]
+        ],
+        "final_winner": "Vanessa CHALA"
+    }
+}

@@ -1,0 +1,269 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "MAR",
+                    "name": "Ilias IJIOUI"
+                },
+                {
+                    "winner": "Ilias IJIOUI"
+                }
+            ],
+            [
+                {
+                    "country": "LBA",
+                    "name": "Ayoub ALSHAFI"
+                },
+                {
+                    "country": "BDI",
+                    "name": "Pacifique NSENGIYUMVA"
+                },
+                {
+                    "winner": "Pacifique NSENGIYUMVA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "MAR",
+                    "name": "Ilias IJIOUI"
+                },
+                {
+                    "country": "BDI",
+                    "name": "Pacifique NSENGIYUMVA"
+                }
+            ]
+        ],
+        "final_winner": "Ilias IJIOUI"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CMR",
+                    "name": "Philip Daniel KINGUE MOUSSANGA"
+                },
+                {
+                    "winner": "Philip Daniel KINGUE MOUSSANGA"
+                }
+            ],
+            [
+                {
+                    "country": "CMR",
+                    "name": "Didier Esdras KAMDEM KOUAM"
+                },
+                {
+                    "winner": "Didier Esdras KAMDEM KOUAM"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "CMR",
+                    "name": "Philip Daniel KINGUE MOUSSANGA"
+                },
+                {
+                    "country": "CMR",
+                    "name": "Didier Esdras KAMDEM KOUAM"
+                }
+            ]
+        ],
+        "final_winner": "Didier Esdras KAMDEM KOUAM"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "SEN",
+                    "name": "Mamadou Yero BA"
+                },
+                {
+                    "winner": "Mamadou Yero BA"
+                }
+            ],
+            [
+                {
+                    "country": "TUN",
+                    "name": "Mohamed Iles ARFAOUI"
+                },
+                {
+                    "country": "GAB",
+                    "name": "Emmanuel Beni EYAA ELLA"
+                },
+                {
+                    "winner": "Mohamed Iles ARFAOUI"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "SEN",
+                    "name": "Mamadou Yero BA"
+                },
+                {
+                    "country": "TUN",
+                    "name": "Mohamed Iles ARFAOUI"
+                }
+            ]
+        ],
+        "final_winner": "Mohamed Iles ARFAOUI"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ANG",
+                    "name": "Adelino SIMAO"
+                },
+                {
+                    "winner": "Adelino SIMAO"
+                }
+            ],
+            [
+                {
+                    "country": "RSA",
+                    "name": "Kayden BARNARD"
+                },
+                {
+                    "country": "EGY",
+                    "name": "Ali ELSAADI"
+                },
+                {
+                    "winner": "Ali ELSAADI"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "ANG",
+                    "name": "Adelino SIMAO"
+                },
+                {
+                    "country": "EGY",
+                    "name": "Ali ELSAADI"
+                }
+            ]
+        ],
+        "final_winner": "Adelino SIMAO"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "BDI",
+                    "name": "Pacifique NSENGIYUMVA"
+                },
+                {
+                    "country": "CMR",
+                    "name": "Philip Daniel KINGUE MOUSSANGA"
+                },
+                {
+                    "winner": "Philip Daniel KINGUE MOUSSANGA"
+                }
+            ],
+            [
+                {
+                    "country": "SEN",
+                    "name": "Mamadou Yero BA"
+                },
+                {
+                    "country": "EGY",
+                    "name": "Ali ELSAADI"
+                },
+                {
+                    "winner": "Ali ELSAADI"
+                }
+            ],
+            [
+                {
+                    "country": "CMR",
+                    "name": "Philip Daniel KINGUE MOUSSANGA"
+                },
+                {
+                    "country": "TUN",
+                    "name": "Mohamed Iles ARFAOUI"
+                },
+                {
+                    "winner": "Mohamed Iles ARFAOUI"
+                }
+            ],
+            [
+                {
+                    "country": "EGY",
+                    "name": "Ali ELSAADI"
+                },
+                {
+                    "country": "CMR",
+                    "name": "Didier Esdras KAMDEM KOUAM"
+                },
+                {
+                    "winner": "Ali ELSAADI"
+                }
+            ],
+            [
+                {
+                    "country": "TUN",
+                    "name": "Mohamed Iles ARFAOUI"
+                }
+            ],
+            [
+                {
+                    "country": "EGY",
+                    "name": "Ali ELSAADI"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Mohamed Iles ARFAOUI",
+            "Ali ELSAADI"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "MAR",
+                    "name": "Ilias IJIOUI"
+                },
+                {
+                    "country": "CMR",
+                    "name": "Didier Esdras KAMDEM KOUAM"
+                },
+                {
+                    "winner": "Ilias IJIOUI"
+                }
+            ],
+            [
+                {
+                    "country": "TUN",
+                    "name": "Mohamed Iles ARFAOUI"
+                },
+                {
+                    "country": "ANG",
+                    "name": "Adelino SIMAO"
+                },
+                {
+                    "winner": "Adelino SIMAO"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "MAR",
+                    "name": "Ilias IJIOUI"
+                },
+                {
+                    "country": "ANG",
+                    "name": "Adelino SIMAO"
+                }
+            ]
+        ],
+        "final_winner": "Adelino SIMAO"
+    }
+}

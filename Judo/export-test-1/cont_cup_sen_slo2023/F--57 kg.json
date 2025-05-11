@@ -1,0 +1,335 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "UKR",
+                    "name": "Alina SHYLOVA"
+                },
+                {
+                    "winner": "Alina SHYLOVA"
+                }
+            ],
+            [
+                {
+                    "country": "ISR",
+                    "name": "Romi DORI"
+                },
+                {
+                    "country": "GER",
+                    "name": "Jadzia MUENCH"
+                },
+                {
+                    "winner": "Jadzia MUENCH"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "UKR",
+                    "name": "Alina SHYLOVA"
+                },
+                {
+                    "country": "GER",
+                    "name": "Jadzia MUENCH"
+                }
+            ]
+        ],
+        "final_winner": "Jadzia MUENCH"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "NED",
+                    "name": "Emma NALBAT"
+                },
+                {
+                    "country": "AUT",
+                    "name": "Lisa GRABNER"
+                },
+                {
+                    "winner": "Emma NALBAT"
+                }
+            ],
+            [
+                {
+                    "country": "NED",
+                    "name": "Vera RASPE"
+                },
+                {
+                    "country": "UKR",
+                    "name": "Yuliia KUZMENKO"
+                },
+                {
+                    "winner": "Vera RASPE"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "NED",
+                    "name": "Emma NALBAT"
+                },
+                {
+                    "country": "NED",
+                    "name": "Vera RASPE"
+                }
+            ]
+        ],
+        "final_winner": "Emma NALBAT"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ISR",
+                    "name": "Maya LEOPOLD"
+                },
+                {
+                    "winner": "Maya LEOPOLD"
+                }
+            ],
+            [
+                {
+                    "country": "ITA",
+                    "name": "Anita CANTINI"
+                },
+                {
+                    "country": "AUT",
+                    "name": "Hannah FUEREDER"
+                },
+                {
+                    "winner": "Anita CANTINI"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "ISR",
+                    "name": "Maya LEOPOLD"
+                },
+                {
+                    "country": "ITA",
+                    "name": "Anita CANTINI"
+                }
+            ]
+        ],
+        "final_winner": "Anita CANTINI"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "AUT",
+                    "name": "Julia SOMMER"
+                },
+                {
+                    "country": "CZE",
+                    "name": "Kristyna POLASKOVA"
+                },
+                {
+                    "winner": "Julia SOMMER"
+                }
+            ],
+            [
+                {
+                    "country": "SLO",
+                    "name": "Nika TOMC"
+                },
+                {
+                    "country": "UKR",
+                    "name": "Anastasiia CHYZHEVSKA"
+                },
+                {
+                    "winner": "Nika TOMC"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "AUT",
+                    "name": "Julia SOMMER"
+                },
+                {
+                    "country": "SLO",
+                    "name": "Nika TOMC"
+                }
+            ]
+        ],
+        "final_winner": "Julia SOMMER"
+    },
+    "REPECHAGE": {
+        "round 1-4": [
+            [
+                {
+                    "country": "ISR",
+                    "name": "Romi DORI"
+                },
+                {
+                    "country": "UKR",
+                    "name": "Alina SHYLOVA"
+                },
+                {
+                    "winner": "Romi DORI"
+                }
+            ],
+            [
+                {
+                    "country": "AUT",
+                    "name": "Lisa GRABNER"
+                },
+                {
+                    "country": "NED",
+                    "name": "Vera RASPE"
+                },
+                {
+                    "winner": "Lisa GRABNER"
+                }
+            ],
+            [
+                {
+                    "country": "AUT",
+                    "name": "Hannah FUEREDER"
+                },
+                {
+                    "country": "ISR",
+                    "name": "Maya LEOPOLD"
+                },
+                {
+                    "winner": "Maya LEOPOLD"
+                }
+            ],
+            [
+                {
+                    "country": "CZE",
+                    "name": "Kristyna POLASKOVA"
+                },
+                {
+                    "country": "SLO",
+                    "name": "Nika TOMC"
+                },
+                {
+                    "winner": "Nika TOMC"
+                }
+            ]
+        ],
+        "round 1-2": [
+            [
+                {
+                    "country": "ISR",
+                    "name": "Romi DORI"
+                },
+                {
+                    "country": "AUT",
+                    "name": "Lisa GRABNER"
+                },
+                {
+                    "winner": "Lisa GRABNER"
+                }
+            ],
+            [
+                {
+                    "country": "ISR",
+                    "name": "Maya LEOPOLD"
+                },
+                {
+                    "country": "SLO",
+                    "name": "Nika TOMC"
+                },
+                {
+                    "winner": "Maya LEOPOLD"
+                }
+            ],
+            [
+                {
+                    "country": "AUT",
+                    "name": "Lisa GRABNER"
+                },
+                {
+                    "country": "AUT",
+                    "name": "Julia SOMMER"
+                },
+                {
+                    "winner": "Julia SOMMER"
+                }
+            ],
+            [
+                {
+                    "country": "ISR",
+                    "name": "Maya LEOPOLD"
+                },
+                {
+                    "country": "GER",
+                    "name": "Jadzia MUENCH"
+                },
+                {
+                    "winner": "Maya LEOPOLD"
+                }
+            ],
+            [
+                {
+                    "country": "AUT",
+                    "name": "Julia SOMMER"
+                }
+            ],
+            [
+                {
+                    "country": "ISR",
+                    "name": "Maya LEOPOLD"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Julia SOMMER",
+            "Maya LEOPOLD"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "GER",
+                    "name": "Jadzia MUENCH"
+                },
+                {
+                    "country": "NED",
+                    "name": "Emma NALBAT"
+                },
+                {
+                    "winner": "Emma NALBAT"
+                }
+            ],
+            [
+                {
+                    "country": "ITA",
+                    "name": "Anita CANTINI"
+                },
+                {
+                    "country": "AUT",
+                    "name": "Julia SOMMER"
+                },
+                {
+                    "winner": "Anita CANTINI"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "NED",
+                    "name": "Emma NALBAT"
+                },
+                {
+                    "country": "ITA",
+                    "name": "Anita CANTINI"
+                }
+            ]
+        ],
+        "final_winner": "Anita CANTINI"
+    }
+}

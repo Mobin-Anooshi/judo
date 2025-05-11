@@ -1,0 +1,269 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "NED",
+                    "name": "Carmen DIJKSTRA"
+                },
+                {
+                    "winner": "Carmen DIJKSTRA"
+                }
+            ],
+            [
+                {
+                    "country": "ESP",
+                    "name": "Eunate ETXEBARRIA BILBAO"
+                },
+                {
+                    "country": "ESP",
+                    "name": "Ana FUENTES DE LOS RIOS"
+                },
+                {
+                    "winner": "Eunate ETXEBARRIA BILBAO"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "NED",
+                    "name": "Carmen DIJKSTRA"
+                },
+                {
+                    "country": "ESP",
+                    "name": "Eunate ETXEBARRIA BILBAO"
+                }
+            ]
+        ],
+        "final_winner": "Carmen DIJKSTRA"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "FRA",
+                    "name": "Laura FUSEAU"
+                },
+                {
+                    "winner": "Laura FUSEAU"
+                }
+            ],
+            [
+                {
+                    "country": "FRA",
+                    "name": "Lucie DUPIN"
+                },
+                {
+                    "winner": "Lucie DUPIN"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "FRA",
+                    "name": "Laura FUSEAU"
+                },
+                {
+                    "country": "FRA",
+                    "name": "Lucie DUPIN"
+                }
+            ]
+        ],
+        "final_winner": "Lucie DUPIN"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "FRA",
+                    "name": "Valentine MARCHAND"
+                },
+                {
+                    "winner": "Valentine MARCHAND"
+                }
+            ],
+            [
+                {
+                    "country": "ESP",
+                    "name": "Noa FERNANDEZ DIAZ"
+                },
+                {
+                    "country": "IRT",
+                    "name": "Mahboubeh BARBARI ZHARFI"
+                },
+                {
+                    "winner": "Noa FERNANDEZ DIAZ"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "FRA",
+                    "name": "Valentine MARCHAND"
+                },
+                {
+                    "country": "ESP",
+                    "name": "Noa FERNANDEZ DIAZ"
+                }
+            ]
+        ],
+        "final_winner": "Valentine MARCHAND"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "AUT",
+                    "name": "Maria HOELLWART"
+                },
+                {
+                    "winner": "Maria HOELLWART"
+                }
+            ],
+            [
+                {
+                    "country": "ESP",
+                    "name": "Maria Jose HEREDIA REYES"
+                },
+                {
+                    "country": "ITA",
+                    "name": "Tiziana MARINI"
+                },
+                {
+                    "winner": "Tiziana MARINI"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "AUT",
+                    "name": "Maria HOELLWART"
+                },
+                {
+                    "country": "ITA",
+                    "name": "Tiziana MARINI"
+                }
+            ]
+        ],
+        "final_winner": "Maria HOELLWART"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ESP",
+                    "name": "Eunate ETXEBARRIA BILBAO"
+                },
+                {
+                    "country": "FRA",
+                    "name": "Laura FUSEAU"
+                },
+                {
+                    "winner": "Laura FUSEAU"
+                }
+            ],
+            [
+                {
+                    "country": "ESP",
+                    "name": "Noa FERNANDEZ DIAZ"
+                },
+                {
+                    "country": "ITA",
+                    "name": "Tiziana MARINI"
+                },
+                {
+                    "winner": "Tiziana MARINI"
+                }
+            ],
+            [
+                {
+                    "country": "FRA",
+                    "name": "Laura FUSEAU"
+                },
+                {
+                    "country": "FRA",
+                    "name": "Valentine MARCHAND"
+                },
+                {
+                    "winner": "Valentine MARCHAND"
+                }
+            ],
+            [
+                {
+                    "country": "ITA",
+                    "name": "Tiziana MARINI"
+                },
+                {
+                    "country": "NED",
+                    "name": "Carmen DIJKSTRA"
+                },
+                {
+                    "winner": "Carmen DIJKSTRA"
+                }
+            ],
+            [
+                {
+                    "country": "FRA",
+                    "name": "Valentine MARCHAND"
+                }
+            ],
+            [
+                {
+                    "country": "NED",
+                    "name": "Carmen DIJKSTRA"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Valentine MARCHAND",
+            "Carmen DIJKSTRA"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "NED",
+                    "name": "Carmen DIJKSTRA"
+                },
+                {
+                    "country": "FRA",
+                    "name": "Lucie DUPIN"
+                },
+                {
+                    "winner": "Lucie DUPIN"
+                }
+            ],
+            [
+                {
+                    "country": "FRA",
+                    "name": "Valentine MARCHAND"
+                },
+                {
+                    "country": "AUT",
+                    "name": "Maria HOELLWART"
+                },
+                {
+                    "winner": "Maria HOELLWART"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "FRA",
+                    "name": "Lucie DUPIN"
+                },
+                {
+                    "country": "AUT",
+                    "name": "Maria HOELLWART"
+                }
+            ]
+        ],
+        "final_winner": "Maria HOELLWART"
+    }
+}

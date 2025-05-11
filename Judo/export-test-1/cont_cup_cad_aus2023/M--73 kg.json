@@ -1,0 +1,177 @@
+{
+    "POOL A": {
+        "round 1-1": [
+            [
+                {
+                    "country": "AUS",
+                    "name": "Nicholas MCCLIFTY"
+                },
+                {
+                    "country": "AUS",
+                    "name": "Kyler DIONISIO"
+                }
+            ]
+        ],
+        "final_winner": "Kyler DIONISIO"
+    },
+    "POOL B": {
+        "round 1-1": [
+            [
+                {
+                    "country": "AUS",
+                    "name": "Nikola DOBRIC"
+                },
+                {
+                    "country": "AUS",
+                    "name": "Caspar DE LARGIE D'ALTON"
+                }
+            ]
+        ],
+        "final_winner": "Nikola DOBRIC"
+    },
+    "POOL C": {
+        "round 1-1": [
+            [
+                {
+                    "country": "AUS",
+                    "name": "Seth LEAVER"
+                },
+                {
+                    "country": "AUS",
+                    "name": "Luke SHANAHAN"
+                }
+            ]
+        ],
+        "final_winner": "Seth LEAVER"
+    },
+    "POOL D": {
+        "round 1-1": [
+            [
+                {
+                    "country": "AUS",
+                    "name": "Warrick PEDLEY"
+                },
+                {
+                    "country": "KOR",
+                    "name": "Jiwoon KO"
+                }
+            ]
+        ],
+        "final_winner": "Jiwoon KO"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "AUS",
+                    "name": "Nicholas MCCLIFTY"
+                },
+                {
+                    "country": "AUS",
+                    "name": "Caspar DE LARGIE D'ALTON"
+                },
+                {
+                    "winner": "Nicholas MCCLIFTY"
+                }
+            ],
+            [
+                {
+                    "country": "AUS",
+                    "name": "Luke SHANAHAN"
+                },
+                {
+                    "country": "AUS",
+                    "name": "Warrick PEDLEY"
+                },
+                {
+                    "winner": "Warrick PEDLEY"
+                }
+            ],
+            [
+                {
+                    "country": "AUS",
+                    "name": "Nicholas MCCLIFTY"
+                },
+                {
+                    "country": "AUS",
+                    "name": "Seth LEAVER"
+                },
+                {
+                    "winner": "Nicholas MCCLIFTY"
+                }
+            ],
+            [
+                {
+                    "country": "AUS",
+                    "name": "Warrick PEDLEY"
+                },
+                {
+                    "country": "AUS",
+                    "name": "Kyler DIONISIO"
+                },
+                {
+                    "winner": "Kyler DIONISIO"
+                }
+            ],
+            [
+                {
+                    "country": "AUS",
+                    "name": "Nicholas MCCLIFTY"
+                }
+            ],
+            [
+                {
+                    "country": "AUS",
+                    "name": "Kyler DIONISIO"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Nicholas MCCLIFTY",
+            "Kyler DIONISIO"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "AUS",
+                    "name": "Kyler DIONISIO"
+                },
+                {
+                    "country": "AUS",
+                    "name": "Nikola DOBRIC"
+                },
+                {
+                    "winner": "Nikola DOBRIC"
+                }
+            ],
+            [
+                {
+                    "country": "AUS",
+                    "name": "Seth LEAVER"
+                },
+                {
+                    "country": "KOR",
+                    "name": "Jiwoon KO"
+                },
+                {
+                    "winner": "Jiwoon KO"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "AUS",
+                    "name": "Nikola DOBRIC"
+                },
+                {
+                    "country": "KOR",
+                    "name": "Jiwoon KO"
+                }
+            ]
+        ],
+        "final_winner": "Jiwoon KO"
+    }
+}

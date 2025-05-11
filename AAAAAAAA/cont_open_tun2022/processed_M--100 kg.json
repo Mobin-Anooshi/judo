@@ -1,0 +1,261 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "TUN",
+                    "name": "Koussay BEN GHARES"
+                },
+                {
+                    "winner": "Koussay BEN GHARES"
+                }
+            ],
+            [
+                {
+                    "country": "ALG",
+                    "name": "Abderaouf KAHIA"
+                },
+                {
+                    "country": "FRA",
+                    "name": "Aurelien DIESSE"
+                },
+                {
+                    "winner": "Aurelien DIESSE"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "TUN",
+                    "name": "Koussay BEN GHARES"
+                },
+                {
+                    "country": "FRA",
+                    "name": "Aurelien DIESSE"
+                }
+            ]
+        ],
+        "final_winner": "Aurelien DIESSE"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "KUW",
+                    "name": "Hamad ALRASHED"
+                },
+                {
+                    "winner": "Hamad ALRASHED"
+                }
+            ],
+            [
+                {
+                    "country": "ALG",
+                    "name": "Redha LAMRI"
+                },
+                {
+                    "winner": "Redha LAMRI"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "KUW",
+                    "name": "Hamad ALRASHED"
+                },
+                {
+                    "country": "ALG",
+                    "name": "Redha LAMRI"
+                }
+            ]
+        ],
+        "final_winner": "Redha LAMRI"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "FRA",
+                    "name": "Tanou KEITA"
+                },
+                {
+                    "winner": "Tanou KEITA"
+                }
+            ],
+            [
+                {
+                    "country": "TUN",
+                    "name": "Amir KOURAYCHI"
+                },
+                {
+                    "winner": "Amir KOURAYCHI"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "FRA",
+                    "name": "Tanou KEITA"
+                },
+                {
+                    "country": "TUN",
+                    "name": "Amir KOURAYCHI"
+                }
+            ]
+        ],
+        "final_winner": "Tanou KEITA"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "MLT",
+                    "name": "Isaac BEZZINA"
+                },
+                {
+                    "winner": "Isaac BEZZINA"
+                }
+            ],
+            [
+                {
+                    "country": "ALG",
+                    "name": "El Mehdi HEDJALA"
+                },
+                {
+                    "winner": "El Mehdi HEDJALA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "MLT",
+                    "name": "Isaac BEZZINA"
+                },
+                {
+                    "country": "ALG",
+                    "name": "El Mehdi HEDJALA"
+                }
+            ]
+        ],
+        "final_winner": "El Mehdi HEDJALA"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "TUN",
+                    "name": "Koussay BEN GHARES"
+                },
+                {
+                    "country": "KUW",
+                    "name": "Hamad ALRASHED"
+                },
+                {
+                    "winner": "Koussay BEN GHARES"
+                }
+            ],
+            [
+                {
+                    "country": "TUN",
+                    "name": "Amir KOURAYCHI"
+                },
+                {
+                    "country": "MLT",
+                    "name": "Isaac BEZZINA"
+                },
+                {
+                    "winner": "Isaac BEZZINA"
+                }
+            ],
+            [
+                {
+                    "country": "TUN",
+                    "name": "Koussay BEN GHARES"
+                },
+                {
+                    "country": "ALG",
+                    "name": "El Mehdi HEDJALA"
+                },
+                {
+                    "winner": "Koussay BEN GHARES"
+                }
+            ],
+            [
+                {
+                    "country": "MLT",
+                    "name": "Isaac BEZZINA"
+                },
+                {
+                    "country": "ALG",
+                    "name": "Redha LAMRI"
+                },
+                {
+                    "winner": "Redha LAMRI"
+                }
+            ],
+            [
+                {
+                    "country": "TUN",
+                    "name": "Koussay BEN GHARES"
+                }
+            ],
+            [
+                {
+                    "country": "ALG",
+                    "name": "Redha LAMRI"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Koussay BEN GHARES",
+            "Redha LAMRI"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "FRA",
+                    "name": "Aurelien DIESSE"
+                },
+                {
+                    "country": "ALG",
+                    "name": "Redha LAMRI"
+                },
+                {
+                    "winner": "Aurelien DIESSE"
+                }
+            ],
+            [
+                {
+                    "country": "FRA",
+                    "name": "Tanou KEITA"
+                },
+                {
+                    "country": "ALG",
+                    "name": "El Mehdi HEDJALA"
+                },
+                {
+                    "winner": "Tanou KEITA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "FRA",
+                    "name": "Aurelien DIESSE"
+                },
+                {
+                    "country": "FRA",
+                    "name": "Tanou KEITA"
+                }
+            ]
+        ],
+        "final_winner": "Aurelien DIESSE"
+    }
+}

@@ -1,0 +1,295 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ITA",
+                    "name": "Giulia GHIGLIONE"
+                },
+                {
+                    "winner": "Giulia GHIGLIONE"
+                }
+            ],
+            [
+                {
+                    "country": "ROU",
+                    "name": "Andra NOROCEA"
+                },
+                {
+                    "winner": "Andra NOROCEA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "ITA",
+                    "name": "Giulia GHIGLIONE"
+                },
+                {
+                    "country": "ROU",
+                    "name": "Andra NOROCEA"
+                }
+            ]
+        ],
+        "final_winner": "Giulia GHIGLIONE"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "POL",
+                    "name": "Natalia STOKLOSA"
+                },
+                {
+                    "winner": "Natalia STOKLOSA"
+                }
+            ],
+            [
+                {
+                    "country": "CZE",
+                    "name": "Adela FISEROVA"
+                },
+                {
+                    "winner": "Adela FISEROVA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "POL",
+                    "name": "Natalia STOKLOSA"
+                },
+                {
+                    "country": "CZE",
+                    "name": "Adela FISEROVA"
+                }
+            ]
+        ],
+        "final_winner": "Natalia STOKLOSA"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ROU",
+                    "name": "Anne BREBINARU"
+                },
+                {
+                    "winner": "Anne BREBINARU"
+                }
+            ],
+            [
+                {
+                    "country": "GER",
+                    "name": "Janine KRATZIN"
+                },
+                {
+                    "winner": "Janine KRATZIN"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "ROU",
+                    "name": "Anne BREBINARU"
+                },
+                {
+                    "country": "GER",
+                    "name": "Janine KRATZIN"
+                }
+            ]
+        ],
+        "final_winner": "Anne BREBINARU"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "HUN",
+                    "name": "Fanni VASKA"
+                },
+                {
+                    "winner": "Fanni VASKA"
+                }
+            ],
+            [
+                {
+                    "country": "FRA",
+                    "name": "Lilah LAGARDE"
+                },
+                {
+                    "winner": "Lilah LAGARDE"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "HUN",
+                    "name": "Fanni VASKA"
+                },
+                {
+                    "country": "FRA",
+                    "name": "Lilah LAGARDE"
+                }
+            ]
+        ],
+        "final_winner": "Lilah LAGARDE"
+    },
+    "REPECHAGE": {
+        "round 1-4": [
+            [
+                {
+                    "country": "ROU",
+                    "name": "Andra NOROCEA"
+                },
+                {
+                    "winner": "Andra NOROCEA"
+                }
+            ],
+            [
+                {
+                    "country": "CZE",
+                    "name": "Adela FISEROVA"
+                },
+                {
+                    "winner": "Adela FISEROVA"
+                }
+            ],
+            [
+                {
+                    "country": "GER",
+                    "name": "Janine KRATZIN"
+                },
+                {
+                    "winner": "Janine KRATZIN"
+                }
+            ],
+            [
+                {
+                    "country": "HUN",
+                    "name": "Fanni VASKA"
+                },
+                {
+                    "winner": "Fanni VASKA"
+                }
+            ]
+        ],
+        "round 1-2": [
+            [
+                {
+                    "country": "ROU",
+                    "name": "Andra NOROCEA"
+                },
+                {
+                    "country": "CZE",
+                    "name": "Adela FISEROVA"
+                },
+                {
+                    "winner": "Adela FISEROVA"
+                }
+            ],
+            [
+                {
+                    "country": "GER",
+                    "name": "Janine KRATZIN"
+                },
+                {
+                    "country": "HUN",
+                    "name": "Fanni VASKA"
+                },
+                {
+                    "winner": "Fanni VASKA"
+                }
+            ],
+            [
+                {
+                    "country": "CZE",
+                    "name": "Adela FISEROVA"
+                },
+                {
+                    "country": "ROU",
+                    "name": "Anne BREBINARU"
+                },
+                {
+                    "winner": "Anne BREBINARU"
+                }
+            ],
+            [
+                {
+                    "country": "HUN",
+                    "name": "Fanni VASKA"
+                },
+                {
+                    "country": "POL",
+                    "name": "Natalia STOKLOSA"
+                },
+                {
+                    "winner": "Fanni VASKA"
+                }
+            ],
+            [
+                {
+                    "country": "ROU",
+                    "name": "Anne BREBINARU"
+                }
+            ],
+            [
+                {
+                    "country": "HUN",
+                    "name": "Fanni VASKA"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Anne BREBINARU",
+            "Fanni VASKA"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ITA",
+                    "name": "Giulia GHIGLIONE"
+                },
+                {
+                    "country": "POL",
+                    "name": "Natalia STOKLOSA"
+                },
+                {
+                    "winner": "Giulia GHIGLIONE"
+                }
+            ],
+            [
+                {
+                    "country": "ROU",
+                    "name": "Anne BREBINARU"
+                },
+                {
+                    "country": "FRA",
+                    "name": "Lilah LAGARDE"
+                },
+                {
+                    "winner": "Lilah LAGARDE"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "ITA",
+                    "name": "Giulia GHIGLIONE"
+                },
+                {
+                    "country": "FRA",
+                    "name": "Lilah LAGARDE"
+                }
+            ]
+        ],
+        "final_winner": "Lilah LAGARDE"
+    }
+}

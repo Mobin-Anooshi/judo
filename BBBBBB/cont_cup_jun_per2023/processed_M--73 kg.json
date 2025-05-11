@@ -1,0 +1,135 @@
+{
+    "POOL A": {
+        "round 1-1": [],
+        "final_winner": "Tomas HERNANDEZ"
+    },
+    "POOL B": {
+        "round 1-1": [
+            [
+                {
+                    "country": "PER",
+                    "name": "Hans ABAD"
+                },
+                {
+                    "country": "PER",
+                    "name": "Jose Luis PANTIA"
+                }
+            ]
+        ],
+        "final_winner": "Hans ABAD"
+    },
+    "POOL C": {
+        "round 1-1": [],
+        "final_winner": "Luke DAVIES"
+    },
+    "POOL D": {
+        "round 1-1": [
+            [
+                {
+                    "country": "PER",
+                    "name": "Denilson BEJARANO"
+                },
+                {
+                    "country": "AFG",
+                    "name": "Mohammad Bakhtiyar HAMZA"
+                }
+            ]
+        ],
+        "final_winner": "Mohammad Bakhtiyar HAMZA"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "PER",
+                    "name": "Jose Luis PANTIA"
+                }
+            ],
+            [
+                {
+                    "country": "PER",
+                    "name": "Denilson BEJARANO"
+                }
+            ],
+            [
+                {
+                    "country": "PER",
+                    "name": "Jose Luis PANTIA"
+                },
+                {
+                    "country": "AFG",
+                    "name": "Mohammad Bakhtiyar HAMZA"
+                },
+                {
+                    "winner": "Mohammad Bakhtiyar HAMZA"
+                }
+            ],
+            [
+                {
+                    "country": "PER",
+                    "name": "Denilson BEJARANO"
+                },
+                {
+                    "country": "PER",
+                    "name": "Hans ABAD"
+                },
+                {
+                    "winner": "Denilson BEJARANO"
+                }
+            ],
+            [
+                {
+                    "country": "AFG",
+                    "name": "Mohammad Bakhtiyar HAMZA"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Denilson BEJARANO",
+            "Mohammad Bakhtiyar HAMZA"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CHI",
+                    "name": "Tomas HERNANDEZ"
+                },
+                {
+                    "country": "PER",
+                    "name": "Hans ABAD"
+                },
+                {
+                    "winner": "Tomas HERNANDEZ"
+                }
+            ],
+            [
+                {
+                    "country": "GBR",
+                    "name": "Luke DAVIES"
+                },
+                {
+                    "country": "AFG",
+                    "name": "Mohammad Bakhtiyar HAMZA"
+                },
+                {
+                    "winner": "Luke DAVIES"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "CHI",
+                    "name": "Tomas HERNANDEZ"
+                },
+                {
+                    "country": "GBR",
+                    "name": "Luke DAVIES"
+                }
+            ]
+        ],
+        "final_winner": "Luke DAVIES"
+    }
+}

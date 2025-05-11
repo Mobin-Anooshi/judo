@@ -1,0 +1,146 @@
+{
+    "POOL A": {
+        "round 1-1": [
+            [
+                {
+                    "country": "ANG",
+                    "name": "Sonia LOURENCO"
+                }
+            ]
+        ]
+    },
+    "POOL B": {
+        "round 1-1": [
+            [
+                {
+                    "country": "KEN",
+                    "name": "Martha DAMA"
+                },
+                {
+                    "country": "CIV",
+                    "name": "Fatim TOURE"
+                }
+            ],
+            [
+                {
+                    "country": "CIV",
+                    "name": "Fatim TOURE"
+                }
+            ]
+        ]
+    },
+    "POOL C": {
+        "round 1-1": [
+            [
+                {
+                    "country": "CMR",
+                    "name": "Paola Yvonne FENOU SEUGUE"
+                },
+                {
+                    "country": "EGY",
+                    "name": "Nada Fayiz ALI"
+                }
+            ],
+            [
+                {
+                    "country": "EGY",
+                    "name": "Nada Fayiz ALI"
+                }
+            ]
+        ]
+    },
+    "POOL D": {
+        "round 1-1": [
+            [
+                {
+                    "country": "RSA",
+                    "name": "Anke NIEMAND"
+                }
+            ]
+        ]
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "KEN",
+                    "name": "Martha DAMA"
+                }
+            ],
+            [
+                {
+                    "country": "CMR",
+                    "name": "Paola Yvonne FENOU SEUGUE"
+                }
+            ],
+            [
+                {
+                    "country": "KEN",
+                    "name": "Martha DAMA"
+                },
+                {
+                    "country": "RSA",
+                    "name": "Anke NIEMAND"
+                }
+            ],
+            [
+                {
+                    "country": "CMR",
+                    "name": "Paola Yvonne FENOU SEUGUE"
+                },
+                {
+                    "country": "CIV",
+                    "name": "Fatim TOURE"
+                }
+            ]
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ANG",
+                    "name": "Sonia LOURENCO"
+                },
+                {
+                    "country": "CIV",
+                    "name": "Fatim TOURE"
+                },
+                {
+                    "winner": "Sonia LOURENCO"
+                }
+            ],
+            [
+                {
+                    "country": "EGY",
+                    "name": "Nada Fayiz ALI"
+                },
+                {
+                    "country": "RSA",
+                    "name": "Anke NIEMAND"
+                },
+                {
+                    "winner": "Nada Fayiz ALI"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "ANG",
+                    "name": "Sonia LOURENCO"
+                },
+                {
+                    "country": "EGY",
+                    "name": "Nada Fayiz ALI"
+                }
+            ],
+            [
+                {
+                    "country": "EGY",
+                    "name": "Nada Fayiz ALI"
+                }
+            ]
+        ]
+    }
+}

@@ -1,0 +1,68 @@
+{
+    "ROUND 1": {
+        "round 1-2": [
+            [
+                {
+                    "country": "TUN",
+                    "name": "Ranim BEN SLIMAN"
+                },
+                {
+                    "country": "MAR",
+                    "name": "Marwa HADRI"
+                },
+                {
+                    "winner": "Ranim BEN SLIMAN"
+                }
+            ],
+            [
+                {
+                    "country": "MAR",
+                    "name": "Amina ABBOUCHA"
+                },
+                {
+                    "country": "GRE",
+                    "name": "Anna PAPASTERGIOU"
+                },
+                {
+                    "winner": "Anna PAPASTERGIOU"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Ranim BEN SLIMAN",
+            "Anna PAPASTERGIOU"
+        ]
+    },
+    "REPECHAGE": {
+        "round 1-1": [
+            [
+                {
+                    "country": "MAR",
+                    "name": "Marwa HADRI"
+                },
+                {
+                    "country": "MAR",
+                    "name": "Amina ABBOUCHA"
+                },
+                {
+                    "winner": "Amina ABBOUCHA"
+                }
+            ],
+            [
+                {
+                    "country": "MAR",
+                    "name": "Amina ABBOUCHA"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Amina ABBOUCHA"
+        ]
+    },
+    "FINALS": {
+        "round 1-1": [],
+        "final_winners": [
+            "Ranim BEN SLIMAN"
+        ]
+    }
+}

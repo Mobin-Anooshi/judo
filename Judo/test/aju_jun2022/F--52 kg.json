@@ -1,0 +1,264 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "SEN",
+                    "name": "Diodio SONKO"
+                },
+                {
+                    "winner": "Diodio SONKO"
+                }
+            ],
+            [
+                {
+                    "country": "ANG",
+                    "name": "Beumara PINHA"
+                },
+                {
+                    "winner": "Beumara PINHA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "SEN",
+                    "name": "Diodio SONKO"
+                },
+                {
+                    "country": "ANG",
+                    "name": "Beumara PINHA"
+                }
+            ],
+            [
+                {
+                    "country": "SEN",
+                    "name": "Diodio SONKO"
+                }
+            ]
+        ]
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "BDI",
+                    "name": "Julienne UWIMANA"
+                },
+                {
+                    "winner": "Julienne UWIMANA"
+                }
+            ],
+            [
+                {
+                    "country": "ZAM",
+                    "name": "Ireen MPILIKISHA"
+                },
+                {
+                    "country": "CMR",
+                    "name": "Paola Yvonne FENOU SEUGUE"
+                },
+                {
+                    "winner": "Ireen MPILIKISHA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "BDI",
+                    "name": "Julienne UWIMANA"
+                },
+                {
+                    "country": "ZAM",
+                    "name": "Ireen MPILIKISHA"
+                }
+            ],
+            [
+                {
+                    "country": "ZAM",
+                    "name": "Ireen MPILIKISHA"
+                }
+            ]
+        ]
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CIV",
+                    "name": "Fatim TOURE"
+                },
+                {
+                    "winner": "Fatim TOURE"
+                }
+            ],
+            [
+                {
+                    "country": "ANG",
+                    "name": "Sonia LOURENCO"
+                },
+                {
+                    "country": "MOZ",
+                    "name": "Cinthya BADRU"
+                },
+                {
+                    "winner": "Sonia LOURENCO"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "CIV",
+                    "name": "Fatim TOURE"
+                },
+                {
+                    "country": "ANG",
+                    "name": "Sonia LOURENCO"
+                }
+            ],
+            [
+                {
+                    "country": "ANG",
+                    "name": "Sonia LOURENCO"
+                }
+            ]
+        ]
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "EGY",
+                    "name": "Nada Fayiz ALI"
+                },
+                {
+                    "winner": "Nada Fayiz ALI"
+                }
+            ],
+            [
+                {
+                    "country": "KEN",
+                    "name": "Hawaa Abdala MOYO"
+                },
+                {
+                    "winner": "Hawaa Abdala MOYO"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "EGY",
+                    "name": "Nada Fayiz ALI"
+                },
+                {
+                    "country": "KEN",
+                    "name": "Hawaa Abdala MOYO"
+                }
+            ],
+            [
+                {
+                    "country": "KEN",
+                    "name": "Hawaa Abdala MOYO"
+                }
+            ]
+        ]
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ANG",
+                    "name": "Beumara PINHA"
+                },
+                {
+                    "country": "BDI",
+                    "name": "Julienne UWIMANA"
+                }
+            ],
+            [
+                {
+                    "country": "CIV",
+                    "name": "Fatim TOURE"
+                }
+            ],
+            [
+                {
+                    "country": "BDI",
+                    "name": "Julienne UWIMANA"
+                },
+                {
+                    "country": "KEN",
+                    "name": "Hawaa Abdala MOYO"
+                }
+            ],
+            [
+                {
+                    "country": "CIV",
+                    "name": "Fatim TOURE"
+                },
+                {
+                    "country": "ZAM",
+                    "name": "Ireen MPILIKISHA"
+                }
+            ],
+            [
+                {
+                    "country": "BDI",
+                    "name": "Julienne UWIMANA"
+                }
+            ]
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "SEN",
+                    "name": "Diodio SONKO"
+                },
+                {
+                    "country": "ZAM",
+                    "name": "Ireen MPILIKISHA"
+                },
+                {
+                    "winner": "Diodio SONKO"
+                }
+            ],
+            [
+                {
+                    "country": "ANG",
+                    "name": "Sonia LOURENCO"
+                },
+                {
+                    "country": "KEN",
+                    "name": "Hawaa Abdala MOYO"
+                },
+                {
+                    "winner": "Sonia LOURENCO"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "SEN",
+                    "name": "Diodio SONKO"
+                },
+                {
+                    "country": "ANG",
+                    "name": "Sonia LOURENCO"
+                }
+            ],
+            [
+                {
+                    "country": "ANG",
+                    "name": "Sonia LOURENCO"
+                }
+            ]
+        ]
+    }
+}

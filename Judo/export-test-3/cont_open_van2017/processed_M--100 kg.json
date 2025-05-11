@@ -1,0 +1,68 @@
+{
+    "ROUND 1": {
+        "round 1-2": [
+            [
+                {
+                    "country": "AUS",
+                    "name": "Nicolas BERARD"
+                },
+                {
+                    "country": "USA",
+                    "name": "L.A. SMITH III"
+                },
+                {
+                    "winner": "L.A. SMITH III"
+                }
+            ],
+            [
+                {
+                    "country": "AUS",
+                    "name": "David RUSSELL"
+                },
+                {
+                    "country": "USA",
+                    "name": "Nathaniel KEEVE"
+                },
+                {
+                    "winner": "Nathaniel KEEVE"
+                }
+            ]
+        ],
+        "final_winners": [
+            "L.A. SMITH III",
+            "Nathaniel KEEVE"
+        ]
+    },
+    "REPECHAGE": {
+        "round 1-1": [
+            [
+                {
+                    "country": "AUS",
+                    "name": "Nicolas BERARD"
+                },
+                {
+                    "country": "AUS",
+                    "name": "David RUSSELL"
+                },
+                {
+                    "winner": "Nicolas BERARD"
+                }
+            ],
+            [
+                {
+                    "country": "AUS",
+                    "name": "Nicolas BERARD"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Nicolas BERARD"
+        ]
+    },
+    "FINALS": {
+        "round 1-1": [],
+        "final_winners": [
+            "Nathaniel KEEVE"
+        ]
+    }
+}

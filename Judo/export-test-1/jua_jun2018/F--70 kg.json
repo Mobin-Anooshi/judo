@@ -1,0 +1,212 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "KOR",
+                    "name": "Sungeun KIM"
+                },
+                {
+                    "winner": "Sungeun KIM"
+                }
+            ],
+            [
+                {
+                    "country": "TPE",
+                    "name": "Liu Li-Ling SHIH"
+                }
+            ]
+        ],
+        "round 1-1": [],
+        "final_winner": "Sungeun KIM"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "TPE",
+                    "name": "Liu Li-Ling SHIH"
+                },
+                {
+                    "winner": "Liu Li-Ling SHIH"
+                }
+            ],
+            [
+                {
+                    "country": "KAZ",
+                    "name": "Moldir NARYNOVA"
+                },
+                {
+                    "country": "MGL",
+                    "name": "Badamgarav ANKHTUYA"
+                }
+            ]
+        ],
+        "round 1-1": [],
+        "final_winner": "Liu Li-Ling SHIH"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "IRI",
+                    "name": "Maryam BARBAT"
+                },
+                {
+                    "winner": "Maryam BARBAT"
+                }
+            ],
+            [
+                {
+                    "country": "IND",
+                    "name": "Komal KOMAL"
+                },
+                {
+                    "winner": "Komal KOMAL"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "IRI",
+                    "name": "Maryam BARBAT"
+                },
+                {
+                    "country": "IND",
+                    "name": "Komal KOMAL"
+                }
+            ]
+        ],
+        "final_winner": "Maryam BARBAT"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "KAZ",
+                    "name": "Moldir NARYNOVA"
+                },
+                {
+                    "winner": "Moldir NARYNOVA"
+                }
+            ],
+            [
+                {
+                    "country": "MGL",
+                    "name": "Badamgarav ANKHTUYA"
+                },
+                {
+                    "winner": "Badamgarav ANKHTUYA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "KAZ",
+                    "name": "Moldir NARYNOVA"
+                },
+                {
+                    "country": "MGL",
+                    "name": "Badamgarav ANKHTUYA"
+                }
+            ]
+        ],
+        "final_winner": "Moldir NARYNOVA"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "IRI",
+                    "name": "Maryam BARBAT"
+                }
+            ],
+            [
+                {
+                    "country": "MGL",
+                    "name": "Badamgarav ANKHTUYA"
+                },
+                {
+                    "country": "TPE",
+                    "name": "Liu Li-Ling SHIH"
+                },
+                {
+                    "winner": "Badamgarav ANKHTUYA"
+                }
+            ],
+            [
+                {
+                    "country": "IRI",
+                    "name": "Maryam BARBAT"
+                }
+            ],
+            [
+                {
+                    "country": "TPE",
+                    "name": "Liu Li-Ling SHIH"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "IND",
+                    "name": "Komal KOMAL"
+                },
+                {
+                    "country": "MGL",
+                    "name": "Badamgarav ANKHTUYA"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Maryam BARBAT",
+            "Badamgarav ANKHTUYA"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "KOR",
+                    "name": "Sungeun KIM"
+                },
+                {
+                    "country": "TPE",
+                    "name": "Liu Li-Ling SHIH"
+                },
+                {
+                    "winner": "Sungeun KIM"
+                }
+            ],
+            [
+                {
+                    "country": "IRI",
+                    "name": "Maryam BARBAT"
+                },
+                {
+                    "country": "KAZ",
+                    "name": "Moldir NARYNOVA"
+                },
+                {
+                    "winner": "Moldir NARYNOVA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "KOR",
+                    "name": "Sungeun KIM"
+                },
+                {
+                    "country": "KAZ",
+                    "name": "Moldir NARYNOVA"
+                }
+            ]
+        ],
+        "final_winner": "Sungeun KIM"
+    }
+}

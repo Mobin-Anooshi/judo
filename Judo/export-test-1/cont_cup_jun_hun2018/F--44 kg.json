@@ -1,0 +1,261 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "HUN",
+                    "name": "Fatime BERINGER"
+                },
+                {
+                    "winner": "Fatime BERINGER"
+                }
+            ],
+            []
+        ],
+        "round 1-1": [],
+        "final_winner": "Fatime BERINGER"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ROU",
+                    "name": "Ana MELNIC"
+                },
+                {
+                    "winner": "Ana MELNIC"
+                }
+            ],
+            [
+                {
+                    "country": "HUN",
+                    "name": "Patricia SZLADOVICS"
+                },
+                {
+                    "winner": "Patricia SZLADOVICS"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "ROU",
+                    "name": "Ana MELNIC"
+                },
+                {
+                    "country": "HUN",
+                    "name": "Patricia SZLADOVICS"
+                }
+            ]
+        ],
+        "final_winner": "Ana MELNIC"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "FRA",
+                    "name": "Melanie FRIGOUL"
+                },
+                {
+                    "winner": "Melanie FRIGOUL"
+                }
+            ],
+            [
+                {
+                    "country": "ITA",
+                    "name": "Gaia BOTTIGLIERI"
+                },
+                {
+                    "winner": "Gaia BOTTIGLIERI"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "FRA",
+                    "name": "Melanie FRIGOUL"
+                },
+                {
+                    "country": "ITA",
+                    "name": "Gaia BOTTIGLIERI"
+                }
+            ]
+        ],
+        "final_winner": "Melanie FRIGOUL"
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "UKR",
+                    "name": "Kateryna SABLIEVA"
+                },
+                {
+                    "winner": "Kateryna SABLIEVA"
+                }
+            ],
+            [
+                {
+                    "country": "HUN",
+                    "name": "Fanni VASKA"
+                },
+                {
+                    "winner": "Fanni VASKA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "UKR",
+                    "name": "Kateryna SABLIEVA"
+                },
+                {
+                    "country": "HUN",
+                    "name": "Fanni VASKA"
+                }
+            ]
+        ],
+        "final_winner": "Kateryna SABLIEVA"
+    },
+    "REPECHAGE": {
+        "round 1-4": [
+            [],
+            [
+                {
+                    "country": "HUN",
+                    "name": "Patricia SZLADOVICS"
+                },
+                {
+                    "winner": "Patricia SZLADOVICS"
+                }
+            ],
+            [
+                {
+                    "country": "ITA",
+                    "name": "Gaia BOTTIGLIERI"
+                },
+                {
+                    "winner": "Gaia BOTTIGLIERI"
+                }
+            ],
+            [
+                {
+                    "country": "HUN",
+                    "name": "Fanni VASKA"
+                },
+                {
+                    "winner": "Fanni VASKA"
+                }
+            ]
+        ],
+        "round 1-2": [
+            [
+                {
+                    "country": "HUN",
+                    "name": "Patricia SZLADOVICS"
+                }
+            ],
+            [
+                {
+                    "country": "ITA",
+                    "name": "Gaia BOTTIGLIERI"
+                },
+                {
+                    "country": "HUN",
+                    "name": "Fanni VASKA"
+                },
+                {
+                    "winner": "Fanni VASKA"
+                }
+            ],
+            [
+                {
+                    "country": "HUN",
+                    "name": "Patricia SZLADOVICS"
+                },
+                {
+                    "country": "FRA",
+                    "name": "Melanie FRIGOUL"
+                },
+                {
+                    "winner": "Melanie FRIGOUL"
+                }
+            ],
+            [
+                {
+                    "country": "HUN",
+                    "name": "Fanni VASKA"
+                },
+                {
+                    "country": "ROU",
+                    "name": "Ana MELNIC"
+                },
+                {
+                    "winner": "Ana MELNIC"
+                }
+            ],
+            [
+                {
+                    "country": "FRA",
+                    "name": "Melanie FRIGOUL"
+                }
+            ],
+            [
+                {
+                    "country": "ROU",
+                    "name": "Ana MELNIC"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Melanie FRIGOUL",
+            "Ana MELNIC"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "HUN",
+                    "name": "Fatime BERINGER"
+                },
+                {
+                    "country": "ROU",
+                    "name": "Ana MELNIC"
+                },
+                {
+                    "winner": "Fatime BERINGER"
+                }
+            ],
+            [
+                {
+                    "country": "FRA",
+                    "name": "Melanie FRIGOUL"
+                },
+                {
+                    "country": "UKR",
+                    "name": "Kateryna SABLIEVA"
+                },
+                {
+                    "winner": "Kateryna SABLIEVA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "HUN",
+                    "name": "Fatime BERINGER"
+                },
+                {
+                    "country": "UKR",
+                    "name": "Kateryna SABLIEVA"
+                }
+            ]
+        ],
+        "final_winner": "Kateryna SABLIEVA"
+    }
+}

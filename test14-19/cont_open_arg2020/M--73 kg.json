@@ -1,0 +1,278 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Michael MARCELINO"
+                },
+                {
+                    "winner": "Michael MARCELINO"
+                }
+            ],
+            [
+                {
+                    "country": "CHI",
+                    "name": "Franco TOSCANINI"
+                },
+                {
+                    "country": "ARG",
+                    "name": "Ian KUKITA"
+                },
+                {
+                    "winner": "Franco TOSCANINI"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Michael MARCELINO"
+                },
+                {
+                    "country": "CHI",
+                    "name": "Franco TOSCANINI"
+                }
+            ],
+            [
+                {
+                    "country": "BRA",
+                    "name": "Michael MARCELINO"
+                }
+            ]
+        ]
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ARG",
+                    "name": "Facundo DE LUCIA"
+                },
+                {
+                    "winner": "Facundo DE LUCIA"
+                }
+            ],
+            [
+                {
+                    "country": "AND",
+                    "name": "Fabian RAMOS MARTINS"
+                },
+                {
+                    "winner": "Fabian RAMOS MARTINS"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "ARG",
+                    "name": "Facundo DE LUCIA"
+                },
+                {
+                    "country": "AND",
+                    "name": "Fabian RAMOS MARTINS"
+                }
+            ],
+            [
+                {
+                    "country": "ARG",
+                    "name": "Facundo DE LUCIA"
+                }
+            ]
+        ]
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Charles CHIBANA"
+                },
+                {
+                    "winner": "Charles CHIBANA"
+                }
+            ],
+            [
+                {
+                    "country": "NZL",
+                    "name": "Maarten DE RIDDER"
+                },
+                {
+                    "country": "ARG",
+                    "name": "Igor PRADO"
+                },
+                {
+                    "winner": "Maarten DE RIDDER"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Charles CHIBANA"
+                },
+                {
+                    "country": "NZL",
+                    "name": "Maarten DE RIDDER"
+                }
+            ],
+            [
+                {
+                    "country": "BRA",
+                    "name": "Charles CHIBANA"
+                }
+            ]
+        ]
+    },
+    "POOL D": {
+        "round 1-2": [
+            [
+                {
+                    "country": "USA",
+                    "name": "Salama SALEM"
+                },
+                {
+                    "winner": "Salama SALEM"
+                }
+            ],
+            [
+                {
+                    "country": "AND",
+                    "name": "Marc REIG ARNAU"
+                },
+                {
+                    "country": "ARG",
+                    "name": "Sebastian ALONSO"
+                },
+                {
+                    "winner": "Marc REIG ARNAU"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "USA",
+                    "name": "Salama SALEM"
+                },
+                {
+                    "country": "AND",
+                    "name": "Marc REIG ARNAU"
+                }
+            ],
+            [
+                {
+                    "country": "USA",
+                    "name": "Salama SALEM"
+                }
+            ]
+        ]
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CHI",
+                    "name": "Franco TOSCANINI"
+                },
+                {
+                    "country": "AND",
+                    "name": "Fabian RAMOS MARTINS"
+                }
+            ],
+            [
+                {
+                    "country": "NZL",
+                    "name": "Maarten DE RIDDER"
+                },
+                {
+                    "country": "AND",
+                    "name": "Marc REIG ARNAU"
+                }
+            ],
+            [
+                {
+                    "country": "CHI",
+                    "name": "Franco TOSCANINI"
+                },
+                {
+                    "country": "USA",
+                    "name": "Salama SALEM"
+                }
+            ],
+            [
+                {
+                    "country": "AND",
+                    "name": "Marc REIG ARNAU"
+                },
+                {
+                    "country": "ARG",
+                    "name": "Facundo DE LUCIA"
+                }
+            ],
+            [
+                {
+                    "country": "USA",
+                    "name": "Salama SALEM"
+                }
+            ],
+            [
+                {
+                    "country": "ARG",
+                    "name": "Facundo DE LUCIA"
+                }
+            ]
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Michael MARCELINO"
+                },
+                {
+                    "country": "ARG",
+                    "name": "Facundo DE LUCIA"
+                },
+                {
+                    "winner": "Michael MARCELINO"
+                }
+            ],
+            [
+                {
+                    "country": "BRA",
+                    "name": "Charles CHIBANA"
+                },
+                {
+                    "country": "USA",
+                    "name": "Salama SALEM"
+                },
+                {
+                    "winner": "Charles CHIBANA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "BRA",
+                    "name": "Michael MARCELINO"
+                },
+                {
+                    "country": "BRA",
+                    "name": "Charles CHIBANA"
+                }
+            ],
+            [
+                {
+                    "country": "BRA",
+                    "name": "Michael MARCELINO"
+                }
+            ]
+        ]
+    }
+}

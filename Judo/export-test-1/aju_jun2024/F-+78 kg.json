@@ -1,0 +1,159 @@
+{
+    "POOL A": {
+        "round 1-1": [],
+        "final_winner": "Zeineb TROUDI"
+    },
+    "POOL B": {
+        "round 1-1": [
+            [
+                {
+                    "country": "ANG",
+                    "name": "Alzira PAIXAO"
+                },
+                {
+                    "country": "CMR",
+                    "name": "Esther MBEZELE ATANGANA"
+                }
+            ]
+        ],
+        "final_winner": "Esther MBEZELE ATANGANA"
+    },
+    "POOL C": {
+        "round 1-1": [
+            [
+                {
+                    "country": "CMR",
+                    "name": "Mayra Evelyne Shareefa NSANGOU SECKE"
+                },
+                {
+                    "country": "TUN",
+                    "name": "Maram NAMOUCHI"
+                }
+            ]
+        ],
+        "final_winner": "Mayra Evelyne Shareefa NSANGOU SECKE"
+    },
+    "POOL D": {
+        "round 1-1": [
+            [
+                {
+                    "country": "SEN",
+                    "name": "Yacine DJIBA"
+                },
+                {
+                    "country": "EGY",
+                    "name": "Safa SOLIMAN"
+                }
+            ]
+        ],
+        "final_winner": "Safa SOLIMAN"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ANG",
+                    "name": "Alzira PAIXAO"
+                }
+            ],
+            [
+                {
+                    "country": "TUN",
+                    "name": "Maram NAMOUCHI"
+                },
+                {
+                    "country": "SEN",
+                    "name": "Yacine DJIBA"
+                },
+                {
+                    "winner": "Maram NAMOUCHI"
+                }
+            ],
+            [
+                {
+                    "country": "ANG",
+                    "name": "Alzira PAIXAO"
+                },
+                {
+                    "country": "CMR",
+                    "name": "Mayra Evelyne Shareefa NSANGOU SECKE"
+                },
+                {
+                    "winner": "Mayra Evelyne Shareefa NSANGOU SECKE"
+                }
+            ],
+            [
+                {
+                    "country": "TUN",
+                    "name": "Maram NAMOUCHI"
+                },
+                {
+                    "country": "CMR",
+                    "name": "Esther MBEZELE ATANGANA"
+                },
+                {
+                    "winner": "Esther MBEZELE ATANGANA"
+                }
+            ],
+            [
+                {
+                    "country": "CMR",
+                    "name": "Mayra Evelyne Shareefa NSANGOU SECKE"
+                }
+            ],
+            [
+                {
+                    "country": "CMR",
+                    "name": "Esther MBEZELE ATANGANA"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Mayra Evelyne Shareefa NSANGOU SECKE",
+            "Esther MBEZELE ATANGANA"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "TUN",
+                    "name": "Zeineb TROUDI"
+                },
+                {
+                    "country": "CMR",
+                    "name": "Esther MBEZELE ATANGANA"
+                },
+                {
+                    "winner": "Zeineb TROUDI"
+                }
+            ],
+            [
+                {
+                    "country": "CMR",
+                    "name": "Mayra Evelyne Shareefa NSANGOU SECKE"
+                },
+                {
+                    "country": "EGY",
+                    "name": "Safa SOLIMAN"
+                },
+                {
+                    "winner": "Safa SOLIMAN"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "TUN",
+                    "name": "Zeineb TROUDI"
+                },
+                {
+                    "country": "EGY",
+                    "name": "Safa SOLIMAN"
+                }
+            ]
+        ],
+        "final_winner": "Safa SOLIMAN"
+    }
+}

@@ -1,0 +1,68 @@
+{
+    "ROUND 1": {
+        "round 1-2": [
+            [
+                {
+                    "country": "SVK",
+                    "name": "Marius FIZEL"
+                },
+                {
+                    "country": "FRA",
+                    "name": "Tanou KEITA"
+                },
+                {
+                    "winner": "Tanou KEITA"
+                }
+            ],
+            [
+                {
+                    "country": "POL",
+                    "name": "Nikodem KUBIAK"
+                },
+                {
+                    "country": "USA",
+                    "name": "Daniel PAVLOV"
+                },
+                {
+                    "winner": "Daniel PAVLOV"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Tanou KEITA",
+            "Daniel PAVLOV"
+        ]
+    },
+    "REPECHAGE": {
+        "round 1-1": [
+            [
+                {
+                    "country": "SVK",
+                    "name": "Marius FIZEL"
+                },
+                {
+                    "country": "POL",
+                    "name": "Nikodem KUBIAK"
+                },
+                {
+                    "winner": "Marius FIZEL"
+                }
+            ],
+            [
+                {
+                    "country": "SVK",
+                    "name": "Marius FIZEL"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Marius FIZEL"
+        ]
+    },
+    "FINALS": {
+        "round 1-1": [],
+        "final_winners": [
+            "Daniel PAVLOV"
+        ]
+    }
+}

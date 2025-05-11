@@ -1,0 +1,159 @@
+{
+    "POOL A": {
+        "round 1-1": [],
+        "final_winner": "Andreza ANTONIO"
+    },
+    "POOL B": {
+        "round 1-1": [
+            [
+                {
+                    "country": "MAR",
+                    "name": "Wissal ZIANE"
+                },
+                {
+                    "country": "TUN",
+                    "name": "Marwa CHAMKHI"
+                }
+            ]
+        ],
+        "final_winner": "Wissal ZIANE"
+    },
+    "POOL C": {
+        "round 1-1": [
+            [
+                {
+                    "country": "TUN",
+                    "name": "Chaima SIDAOUI"
+                },
+                {
+                    "country": "NIG",
+                    "name": "Rabilatou MAMANE ALI"
+                }
+            ]
+        ],
+        "final_winner": "Chaima SIDAOUI"
+    },
+    "POOL D": {
+        "round 1-1": [
+            [
+                {
+                    "country": "HKG",
+                    "name": "Nok Lam YEUNG"
+                },
+                {
+                    "country": "LIE",
+                    "name": "Lea WYSS"
+                }
+            ]
+        ],
+        "final_winner": "Nok Lam YEUNG"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "TUN",
+                    "name": "Marwa CHAMKHI"
+                }
+            ],
+            [
+                {
+                    "country": "NIG",
+                    "name": "Rabilatou MAMANE ALI"
+                },
+                {
+                    "country": "LIE",
+                    "name": "Lea WYSS"
+                },
+                {
+                    "winner": "Lea WYSS"
+                }
+            ],
+            [
+                {
+                    "country": "TUN",
+                    "name": "Marwa CHAMKHI"
+                },
+                {
+                    "country": "TUN",
+                    "name": "Chaima SIDAOUI"
+                },
+                {
+                    "winner": "Chaima SIDAOUI"
+                }
+            ],
+            [
+                {
+                    "country": "LIE",
+                    "name": "Lea WYSS"
+                },
+                {
+                    "country": "MAR",
+                    "name": "Wissal ZIANE"
+                },
+                {
+                    "winner": "Lea WYSS"
+                }
+            ],
+            [
+                {
+                    "country": "TUN",
+                    "name": "Chaima SIDAOUI"
+                }
+            ],
+            [
+                {
+                    "country": "LIE",
+                    "name": "Lea WYSS"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Chaima SIDAOUI",
+            "Lea WYSS"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ANG",
+                    "name": "Andreza ANTONIO"
+                },
+                {
+                    "country": "MAR",
+                    "name": "Wissal ZIANE"
+                },
+                {
+                    "winner": "Andreza ANTONIO"
+                }
+            ],
+            [
+                {
+                    "country": "TUN",
+                    "name": "Chaima SIDAOUI"
+                },
+                {
+                    "country": "HKG",
+                    "name": "Nok Lam YEUNG"
+                },
+                {
+                    "winner": "Nok Lam YEUNG"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "ANG",
+                    "name": "Andreza ANTONIO"
+                },
+                {
+                    "country": "HKG",
+                    "name": "Nok Lam YEUNG"
+                }
+            ]
+        ],
+        "final_winner": "Andreza ANTONIO"
+    }
+}

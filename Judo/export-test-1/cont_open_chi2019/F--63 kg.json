@@ -1,0 +1,177 @@
+{
+    "POOL A": {
+        "round 1-1": [
+            [
+                {
+                    "country": "ECU",
+                    "name": "Estefania GARCIA"
+                },
+                {
+                    "country": "CHI",
+                    "name": "Marcela ALFARO"
+                }
+            ]
+        ],
+        "final_winner": "Estefania GARCIA"
+    },
+    "POOL B": {
+        "round 1-1": [
+            [
+                {
+                    "country": "FRA",
+                    "name": "Cloe YVIN"
+                },
+                {
+                    "country": "USA",
+                    "name": "Lauren DE SMIDT"
+                }
+            ]
+        ],
+        "final_winner": "Cloe YVIN"
+    },
+    "POOL C": {
+        "round 1-1": [
+            [
+                {
+                    "country": "USA",
+                    "name": "Hannah MARTIN"
+                },
+                {
+                    "country": "CHI",
+                    "name": "Karina ORELLANA"
+                }
+            ]
+        ],
+        "final_winner": "Hannah MARTIN"
+    },
+    "POOL D": {
+        "round 1-1": [
+            [
+                {
+                    "country": "MEX",
+                    "name": "Prisca AWITI ALCARAZ"
+                },
+                {
+                    "country": "ARG",
+                    "name": "Agustina DE LUCIA"
+                }
+            ]
+        ],
+        "final_winner": "Prisca AWITI ALCARAZ"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CHI",
+                    "name": "Marcela ALFARO"
+                },
+                {
+                    "country": "USA",
+                    "name": "Lauren DE SMIDT"
+                },
+                {
+                    "winner": "Marcela ALFARO"
+                }
+            ],
+            [
+                {
+                    "country": "CHI",
+                    "name": "Karina ORELLANA"
+                },
+                {
+                    "country": "ARG",
+                    "name": "Agustina DE LUCIA"
+                },
+                {
+                    "winner": "Agustina DE LUCIA"
+                }
+            ],
+            [
+                {
+                    "country": "CHI",
+                    "name": "Marcela ALFARO"
+                },
+                {
+                    "country": "USA",
+                    "name": "Hannah MARTIN"
+                },
+                {
+                    "winner": "Hannah MARTIN"
+                }
+            ],
+            [
+                {
+                    "country": "ARG",
+                    "name": "Agustina DE LUCIA"
+                },
+                {
+                    "country": "FRA",
+                    "name": "Cloe YVIN"
+                },
+                {
+                    "winner": "Agustina DE LUCIA"
+                }
+            ],
+            [
+                {
+                    "country": "USA",
+                    "name": "Hannah MARTIN"
+                }
+            ],
+            [
+                {
+                    "country": "ARG",
+                    "name": "Agustina DE LUCIA"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Hannah MARTIN",
+            "Agustina DE LUCIA"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "ECU",
+                    "name": "Estefania GARCIA"
+                },
+                {
+                    "country": "FRA",
+                    "name": "Cloe YVIN"
+                },
+                {
+                    "winner": "Estefania GARCIA"
+                }
+            ],
+            [
+                {
+                    "country": "USA",
+                    "name": "Hannah MARTIN"
+                },
+                {
+                    "country": "MEX",
+                    "name": "Prisca AWITI ALCARAZ"
+                },
+                {
+                    "winner": "Prisca AWITI ALCARAZ"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "ECU",
+                    "name": "Estefania GARCIA"
+                },
+                {
+                    "country": "MEX",
+                    "name": "Prisca AWITI ALCARAZ"
+                }
+            ]
+        ],
+        "final_winner": "Prisca AWITI ALCARAZ"
+    }
+}

@@ -1,0 +1,177 @@
+{
+    "POOL A": {
+        "round 1-1": [
+            [
+                {
+                    "country": "PER",
+                    "name": "Jose VILLANUEVA"
+                },
+                {
+                    "country": "CHI",
+                    "name": "Benjamin CACERES"
+                }
+            ]
+        ],
+        "final_winner": "Benjamin CACERES"
+    },
+    "POOL B": {
+        "round 1-1": [
+            [
+                {
+                    "country": "CHI",
+                    "name": "Gabriel PEREZ ALTAMIRANO"
+                },
+                {
+                    "country": "URU",
+                    "name": "Martin BONE MALDONADO"
+                }
+            ]
+        ],
+        "final_winner": "Martin BONE MALDONADO"
+    },
+    "POOL C": {
+        "round 1-1": [
+            [
+                {
+                    "country": "URU",
+                    "name": "Paolo Alberto SILVA MANZI"
+                },
+                {
+                    "country": "PER",
+                    "name": "Valentino FLORES"
+                }
+            ]
+        ],
+        "final_winner": "Valentino FLORES"
+    },
+    "POOL D": {
+        "round 1-1": [
+            [
+                {
+                    "country": "COL",
+                    "name": "Wilson VERA CACERES"
+                },
+                {
+                    "country": "CHI",
+                    "name": "Sebastian ORDONEZ"
+                }
+            ]
+        ],
+        "final_winner": "Wilson VERA CACERES"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "PER",
+                    "name": "Jose VILLANUEVA"
+                },
+                {
+                    "country": "CHI",
+                    "name": "Gabriel PEREZ ALTAMIRANO"
+                },
+                {
+                    "winner": "Gabriel PEREZ ALTAMIRANO"
+                }
+            ],
+            [
+                {
+                    "country": "URU",
+                    "name": "Paolo Alberto SILVA MANZI"
+                },
+                {
+                    "country": "CHI",
+                    "name": "Sebastian ORDONEZ"
+                },
+                {
+                    "winner": "Paolo Alberto SILVA MANZI"
+                }
+            ],
+            [
+                {
+                    "country": "CHI",
+                    "name": "Gabriel PEREZ ALTAMIRANO"
+                },
+                {
+                    "country": "PER",
+                    "name": "Valentino FLORES"
+                },
+                {
+                    "winner": "Gabriel PEREZ ALTAMIRANO"
+                }
+            ],
+            [
+                {
+                    "country": "URU",
+                    "name": "Paolo Alberto SILVA MANZI"
+                },
+                {
+                    "country": "CHI",
+                    "name": "Benjamin CACERES"
+                },
+                {
+                    "winner": "Paolo Alberto SILVA MANZI"
+                }
+            ],
+            [
+                {
+                    "country": "CHI",
+                    "name": "Gabriel PEREZ ALTAMIRANO"
+                }
+            ],
+            [
+                {
+                    "country": "URU",
+                    "name": "Paolo Alberto SILVA MANZI"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Gabriel PEREZ ALTAMIRANO",
+            "Paolo Alberto SILVA MANZI"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CHI",
+                    "name": "Benjamin CACERES"
+                },
+                {
+                    "country": "URU",
+                    "name": "Martin BONE MALDONADO"
+                },
+                {
+                    "winner": "Martin BONE MALDONADO"
+                }
+            ],
+            [
+                {
+                    "country": "PER",
+                    "name": "Valentino FLORES"
+                },
+                {
+                    "country": "COL",
+                    "name": "Wilson VERA CACERES"
+                },
+                {
+                    "winner": "Wilson VERA CACERES"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "URU",
+                    "name": "Martin BONE MALDONADO"
+                },
+                {
+                    "country": "COL",
+                    "name": "Wilson VERA CACERES"
+                }
+            ]
+        ],
+        "final_winner": "Wilson VERA CACERES"
+    }
+}

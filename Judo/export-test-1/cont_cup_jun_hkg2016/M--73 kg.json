@@ -1,0 +1,213 @@
+{
+    "POOL A": {
+        "round 1-2": [
+            [
+                {
+                    "country": "HKG",
+                    "name": "Kwok Wing LEE"
+                },
+                {
+                    "winner": "Kwok Wing LEE"
+                }
+            ],
+            [
+                {
+                    "country": "CHN",
+                    "name": "DELIHEI BAYAND"
+                },
+                {
+                    "winner": "DELIHEI BAYAND"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "HKG",
+                    "name": "Kwok Wing LEE"
+                },
+                {
+                    "country": "CHN",
+                    "name": "DELIHEI BAYAND"
+                }
+            ]
+        ],
+        "final_winner": "DELIHEI BAYAND"
+    },
+    "POOL B": {
+        "round 1-2": [
+            [
+                {
+                    "country": "SRI",
+                    "name": "ARAVIN SANJITH BAPTIST"
+                },
+                {
+                    "winner": "ARAVIN SANJITH BAPTIST"
+                }
+            ],
+            [
+                {
+                    "country": "KOR",
+                    "name": "Min Gyu SHIN"
+                },
+                {
+                    "winner": "Min Gyu SHIN"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "SRI",
+                    "name": "ARAVIN SANJITH BAPTIST"
+                },
+                {
+                    "country": "KOR",
+                    "name": "Min Gyu SHIN"
+                }
+            ]
+        ],
+        "final_winner": "Min Gyu SHIN"
+    },
+    "POOL C": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CHN",
+                    "name": "QINGDAGA"
+                },
+                {
+                    "winner": "QINGDAGA"
+                }
+            ],
+            [
+                {
+                    "country": "KOR",
+                    "name": "In-Soon PARK"
+                },
+                {
+                    "winner": "In-Soon PARK"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "CHN",
+                    "name": "QINGDAGA"
+                },
+                {
+                    "country": "KOR",
+                    "name": "In-Soon PARK"
+                }
+            ]
+        ],
+        "final_winner": "QINGDAGA"
+    },
+    "POOL D": {
+        "round 1-1": [],
+        "final_winner": "Ho Ting LEE"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "HKG",
+                    "name": "Kwok Wing LEE"
+                },
+                {
+                    "country": "SRI",
+                    "name": "ARAVIN SANJITH BAPTIST"
+                },
+                {
+                    "winner": "Kwok Wing LEE"
+                }
+            ],
+            [
+                {
+                    "country": "KOR",
+                    "name": "In-Soon PARK"
+                }
+            ],
+            [
+                {
+                    "country": "HKG",
+                    "name": "Kwok Wing LEE"
+                },
+                {
+                    "country": "HKG",
+                    "name": "Ho Ting LEE"
+                },
+                {
+                    "winner": "Ho Ting LEE"
+                }
+            ],
+            [
+                {
+                    "country": "KOR",
+                    "name": "In-Soon PARK"
+                },
+                {
+                    "country": "KOR",
+                    "name": "Min Gyu SHIN"
+                },
+                {
+                    "winner": "In-Soon PARK"
+                }
+            ],
+            [
+                {
+                    "country": "HKG",
+                    "name": "Ho Ting LEE"
+                }
+            ]
+        ],
+        "final_winners": [
+            "In-Soon PARK",
+            "Ho Ting LEE"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "CHN",
+                    "name": "DELIHEI BAYAND"
+                },
+                {
+                    "country": "KOR",
+                    "name": "Min Gyu SHIN"
+                },
+                {
+                    "winner": "DELIHEI BAYAND"
+                }
+            ],
+            [
+                {
+                    "country": "CHN",
+                    "name": "QINGDAGA"
+                },
+                {
+                    "country": "HKG",
+                    "name": "Ho Ting LEE"
+                },
+                {
+                    "winner": "QINGDAGA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "CHN",
+                    "name": "DELIHEI BAYAND"
+                },
+                {
+                    "country": "CHN",
+                    "name": "QINGDAGA"
+                }
+            ]
+        ],
+        "final_winner": "DELIHEI BAYAND"
+    }
+}

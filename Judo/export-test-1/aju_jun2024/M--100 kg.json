@@ -1,0 +1,153 @@
+{
+    "POOL A": {
+        "round 1-1": [],
+        "final_winner": "Libasse NDIAYE"
+    },
+    "POOL B": {
+        "round 1-1": [
+            [
+                {
+                    "country": "EGY",
+                    "name": "Mohamed AHMED"
+                },
+                {
+                    "country": "RSA",
+                    "name": "Ruben CORDIER"
+                }
+            ]
+        ],
+        "final_winner": "Mohamed AHMED"
+    },
+    "POOL C": {
+        "round 1-1": [
+            [
+                {
+                    "country": "ANG",
+                    "name": "Patricio NZEKIA"
+                },
+                {
+                    "country": "BUR",
+                    "name": "Amir Yaogo Pegdwinde Yanis RIBAMBA"
+                }
+            ]
+        ],
+        "final_winner": "Patricio NZEKIA"
+    },
+    "POOL D": {
+        "round 1-1": [
+            [
+                {
+                    "country": "EGY",
+                    "name": "Hazem HOSSAM"
+                },
+                {
+                    "country": "CMR",
+                    "name": "Norbert Evrard NANDJO NKONO"
+                }
+            ]
+        ],
+        "final_winner": "Hazem HOSSAM"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "RSA",
+                    "name": "Ruben CORDIER"
+                }
+            ],
+            [
+                {
+                    "country": "BUR",
+                    "name": "Amir Yaogo Pegdwinde Yanis RIBAMBA"
+                },
+                {
+                    "country": "CMR",
+                    "name": "Norbert Evrard NANDJO NKONO"
+                },
+                {
+                    "winner": "Norbert Evrard NANDJO NKONO"
+                }
+            ],
+            [
+                {
+                    "country": "RSA",
+                    "name": "Ruben CORDIER"
+                },
+                {
+                    "country": "ANG",
+                    "name": "Patricio NZEKIA"
+                },
+                {
+                    "winner": "Ruben CORDIER"
+                }
+            ],
+            [
+                {
+                    "country": "CMR",
+                    "name": "Norbert Evrard NANDJO NKONO"
+                },
+                {
+                    "country": "SEN",
+                    "name": "Libasse NDIAYE"
+                },
+                {
+                    "winner": "Libasse NDIAYE"
+                }
+            ],
+            [
+                {
+                    "country": "SEN",
+                    "name": "Libasse NDIAYE"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Norbert Evrard NANDJO NKONO",
+            "Ruben CORDIER"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "SEN",
+                    "name": "Libasse NDIAYE"
+                },
+                {
+                    "country": "EGY",
+                    "name": "Mohamed AHMED"
+                },
+                {
+                    "winner": "Mohamed AHMED"
+                }
+            ],
+            [
+                {
+                    "country": "ANG",
+                    "name": "Patricio NZEKIA"
+                },
+                {
+                    "country": "EGY",
+                    "name": "Hazem HOSSAM"
+                },
+                {
+                    "winner": "Hazem HOSSAM"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "EGY",
+                    "name": "Mohamed AHMED"
+                },
+                {
+                    "country": "EGY",
+                    "name": "Hazem HOSSAM"
+                }
+            ]
+        ],
+        "final_winner": "Mohamed AHMED"
+    }
+}

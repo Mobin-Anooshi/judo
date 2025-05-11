@@ -1,0 +1,177 @@
+{
+    "POOL A": {
+        "round 1-1": [
+            [
+                {
+                    "country": "SEN",
+                    "name": "Namory KEITA"
+                },
+                {
+                    "country": "MAR",
+                    "name": "Ali EL KHEMMAL"
+                }
+            ]
+        ],
+        "final_winner": "Namory KEITA"
+    },
+    "POOL B": {
+        "round 1-1": [
+            [
+                {
+                    "country": "MAR",
+                    "name": "Nacim LBAKH"
+                },
+                {
+                    "country": "GAM",
+                    "name": "Apaye GIBBA"
+                }
+            ]
+        ],
+        "final_winner": "Apaye GIBBA"
+    },
+    "POOL C": {
+        "round 1-1": [
+            [
+                {
+                    "country": "MAR",
+                    "name": "Mourad SAAD"
+                },
+                {
+                    "country": "MAR",
+                    "name": "Bilal AZIZI"
+                }
+            ]
+        ],
+        "final_winner": "Mourad SAAD"
+    },
+    "POOL D": {
+        "round 1-1": [
+            [
+                {
+                    "country": "MAR",
+                    "name": "Moncif BELLA"
+                },
+                {
+                    "country": "LBA",
+                    "name": "Abdulhamid ALESH"
+                }
+            ]
+        ],
+        "final_winner": "Moncif BELLA"
+    },
+    "REPECHAGE": {
+        "round 1-2": [
+            [
+                {
+                    "country": "MAR",
+                    "name": "Ali EL KHEMMAL"
+                },
+                {
+                    "country": "MAR",
+                    "name": "Nacim LBAKH"
+                },
+                {
+                    "winner": "Ali EL KHEMMAL"
+                }
+            ],
+            [
+                {
+                    "country": "MAR",
+                    "name": "Bilal AZIZI"
+                },
+                {
+                    "country": "LBA",
+                    "name": "Abdulhamid ALESH"
+                },
+                {
+                    "winner": "Bilal AZIZI"
+                }
+            ],
+            [
+                {
+                    "country": "MAR",
+                    "name": "Ali EL KHEMMAL"
+                },
+                {
+                    "country": "MAR",
+                    "name": "Mourad SAAD"
+                },
+                {
+                    "winner": "Ali EL KHEMMAL"
+                }
+            ],
+            [
+                {
+                    "country": "MAR",
+                    "name": "Bilal AZIZI"
+                },
+                {
+                    "country": "SEN",
+                    "name": "Namory KEITA"
+                },
+                {
+                    "winner": "Namory KEITA"
+                }
+            ],
+            [
+                {
+                    "country": "MAR",
+                    "name": "Ali EL KHEMMAL"
+                }
+            ],
+            [
+                {
+                    "country": "SEN",
+                    "name": "Namory KEITA"
+                }
+            ]
+        ],
+        "final_winners": [
+            "Ali EL KHEMMAL",
+            "Namory KEITA"
+        ]
+    },
+    "SEMI-FINALS": {
+        "round 1-2": [
+            [
+                {
+                    "country": "SEN",
+                    "name": "Namory KEITA"
+                },
+                {
+                    "country": "GAM",
+                    "name": "Apaye GIBBA"
+                },
+                {
+                    "winner": "Apaye GIBBA"
+                }
+            ],
+            [
+                {
+                    "country": "MAR",
+                    "name": "Mourad SAAD"
+                },
+                {
+                    "country": "MAR",
+                    "name": "Moncif BELLA"
+                },
+                {
+                    "winner": "Moncif BELLA"
+                }
+            ]
+        ],
+        "round 1-1": [
+            [
+                {
+                    "country": "GAM",
+                    "name": "Apaye GIBBA"
+                },
+                {
+                    "country": "MAR",
+                    "name": "Moncif BELLA"
+                }
+            ]
+        ],
+        "final_winner": "Moncif BELLA"
+    }
+}
